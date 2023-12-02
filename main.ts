@@ -74,9 +74,10 @@ let animeData: Root = {
 bangumi_data_paths.map((path) => {
   const bangumi_data: Array<bangumiDataList> = readFile(path);
   bangumi_data.map((bangumiData) => {
-    const aod = findIfExists(anime_offline_database.data, bangumiData.title);
-    if (aod.length !== 0) {
-      aod[0].relations.map((url) => {
+    const aods = findIfExists(anime_offline_database.data, bangumiData.title);
+    if (aods.length !== 0) {
+      const aod = aods[aods.length - 1];
+      aod.relations.map((url) => {
         const result = splitUrl(url);
         bangumiData.sites.push({
           site: result.domain,
@@ -85,12 +86,12 @@ bangumi_data_paths.map((path) => {
       });
       const data = {
         ...bangumiData,
-        animeSeason: aod[0].animeSeason,
-        status: aod[0].status,
-        episodes: aod[0].episodes,
-        picture: aod[0].picture,
-        thumbnail: aod[0].thumbnail,
-        synonyms: aod[0].synonyms,
+        animeSeason: aod.animeSeason,
+        status: aod.status,
+        episodes: aod.episodes,
+        picture: aod.picture,
+        thumbnail: aod.thumbnail,
+        synonyms: aod.synonyms,
       };
       //拆分月份，和bangumi一致
       const pathSplit = path.split("/");
