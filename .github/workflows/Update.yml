@@ -62,8 +62,11 @@ jobs:
 
     - name: Git push assets to release branch
       run: |
-        rm -r data/bangumi-data
-        mkdir data/bangumi-data
+        if [ -d "data/bangumi-data" ]; then
+          rm -r data/bangumi-data
+        else
+          mkdir data/bangumi-data
+        fi
         cp ./original-data/bangumi-data/data.d.ts ./data/bangumi-data/data.d.ts
         cp ./data.d.ts ./data
         cd data
