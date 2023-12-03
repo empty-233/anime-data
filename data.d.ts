@@ -46,4 +46,8 @@ declare interface AnimeSeason {
    * 年份
    */
   year: number;
+  /**
+   * 月份
+   */
+  month: string;
 }

@@ -1,5 +1,5 @@
 import fs from "fs";
-import { join as pathJoin } from "path";
+import { join as pathJoin, parse } from "path";
 import { Root, Data } from "./data.d.js";
 import { cloneRepository } from "./utils/git.js";
 import { readFilesInFolder, splitUrl, formatDate } from "./utils/utils.js";
@@ -49,6 +49,16 @@ const findIfExists = (
   );
 };
 
+/**
+ * 获取文件名
+ * @param filePath 路径
+ * @returns 文件名
+ */
+const getFileNameFromPath = (filePath: string): string => {
+  const parsedPath = parse(filePath);
+  return parsedPath.name;
+};
+
 //写入文件
 const writeJsonFile = (folderPath: string, filePath: string, data: any) => {
   try {
@@ -86,7 +96,10 @@ bangumi_data_paths.map((path) => {
       });
       const data = {
         ...bangumiData,
-        animeSeason: aod.animeSeason,
+        animeSeason: {
+          ...aod.animeSeason,
+          month: getFileNameFromPath(path),
+        },
         status: aod.status,
         episodes: aod.episodes,
         picture: aod.picture,
