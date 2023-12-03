@@ -83,6 +83,7 @@ let animeData: Root = {
 };
 bangumi_data_paths.map((path) => {
   const bangumi_data: Array<bangumiDataList> = readFile(path);
+  let datas:Array<Data>=[]
   bangumi_data.map((bangumiData) => {
     const aods = findIfExists(anime_offline_database.data, bangumiData.title);
     if (aods.length !== 0) {
@@ -106,16 +107,17 @@ bangumi_data_paths.map((path) => {
         thumbnail: aod.thumbnail,
         synonyms: aod.synonyms,
       };
-      //拆分月份，和bangumi一致
-      const pathSplit = path.split("/");
-      writeJsonFile(
-        `./data/years/${pathSplit.at(-2)}`,
-        `${pathSplit.pop()?.split(".")[0]}.json`,
-        data
-      );
+      datas.push(data)
       animeData.data.push(data);
     }
   });
+  //拆分月份，和bangumi一致
+  const pathSplit = path.split("/");
+  writeJsonFile(
+    `./data/years/${pathSplit.at(-2)}`,
+    `${pathSplit.pop()?.split(".")[0]}.json`,
+    datas
+  );
 });
 
 //拆分季节
