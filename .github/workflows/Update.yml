@@ -64,11 +64,12 @@ jobs:
       run: |
         if [ -d "data/bangumi-data" ]; then
           rm -r data/bangumi-data
+          mkdir data/bangumi-data
         else
           mkdir data/bangumi-data
         fi
-        cp ./original-data/bangumi-data/data.d.ts ./data/bangumi-data/data.d.ts
-        cp ./data.d.ts ./data
+        cp -f ./original-data/bangumi-data/data.d.ts ./data/bangumi-data/data.d.ts
+        cp -f ./data.d.ts ./data
         cd data
         sed -i 's#./original-data/bangumi-data/data.d.ts#./bangumi-data/data.d.ts#' ./data.d.ts
         git config --local user.name "My GitHub Actions Bot"
