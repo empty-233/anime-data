@@ -1,52 +1,54 @@
-{
-  "title": "怪物くん",
-  "titleTranslate": {
-    "zh-Hans": [
-      "怪物太郎"
+[
+  {
+    "title": "怪物くん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪物太郎"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1980-09-02T22:30:00.000Z",
+    "end": "1982-09-28T23:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "110775"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kaibutsu-kun-1980"
+      },
+      {
+        "site": "livechart",
+        "id": "12163"
+      },
+      {
+        "site": "livechart",
+        "id": "12164"
+      },
+      {
+        "site": "livechart",
+        "id": "12165"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3130"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1981,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/1349/106619.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1349/106619t.jpg",
+    "synonyms": [
+      "Kaibutsu-kun",
+      "怪物くん"
     ]
-  },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1980-09-02T22:30:00.000Z",
-  "end": "1982-09-28T23:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "110775"
-    },
-    {
-      "site": "anime-planet",
-      "id": "kaibutsu-kun-1980"
-    },
-    {
-      "site": "livechart",
-      "id": "12163"
-    },
-    {
-      "site": "livechart",
-      "id": "12164"
-    },
-    {
-      "site": "livechart",
-      "id": "12165"
-    },
-    {
-      "site": "myanimelist",
-      "id": "3130"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 1981,
-    "month": "09"
-  },
-  "status": "FINISHED",
-  "episodes": 6,
-  "picture": "https://cdn.myanimelist.net/images/anime/1349/106619.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1349/106619t.jpg",
-  "synonyms": [
-    "Kaibutsu-kun",
-    "怪物くん"
-  ]
-}
+  }
+]

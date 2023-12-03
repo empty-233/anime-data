@@ -1,196 +1,451 @@
-{
-  "title": "攻殻機動隊 SAC_2045 シーズン2",
-  "titleTranslate": {
-    "zh-Hans": [
-      "攻壳机动队 SAC_2045 第二季",
-      "攻壳机动队 2045 第二季"
+[
+  {
+    "title": "真・一騎当千",
+    "titleTranslate": {
+      "zh-Hans": [
+        "真·一骑当千"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.ikkitousen.com/",
+    "begin": "2022-05-17T11:30:00.000Z",
+    "broadcast": "R/2022-05-17T11:30:00.000Z/P7D",
+    "end": "2022-05-31T11:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "340677"
+      },
+      {
+        "site": "anidb",
+        "id": "14420"
+      },
+      {
+        "site": "anilist",
+        "id": "105391"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-dragon-destiny"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-great-guardians"
+      },
+      {
+        "site": "anisearch",
+        "id": "13916"
+      },
+      {
+        "site": "kitsu",
+        "id": "42005"
+      },
+      {
+        "site": "livechart",
+        "id": "3543"
+      },
+      {
+        "site": "livechart",
+        "id": "3836"
+      },
+      {
+        "site": "livechart",
+        "id": "4017"
+      },
+      {
+        "site": "livechart",
+        "id": "4021"
+      },
+      {
+        "site": "livechart",
+        "id": "4085"
+      },
+      {
+        "site": "livechart",
+        "id": "4883"
+      },
+      {
+        "site": "livechart",
+        "id": "491"
+      },
+      {
+        "site": "livechart",
+        "id": "4928"
+      },
+      {
+        "site": "livechart",
+        "id": "4991"
+      },
+      {
+        "site": "livechart",
+        "id": "5024"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38425"
+      },
+      {
+        "site": "notify",
+        "id": "63v9DTPmR"
+      }
     ],
-    "en": [
-      "Ghost in the Shell: SAC_2045 Season 2",
-      "Koukaku Kidoutai: SAC_2045 2"
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2022,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/1248/122517.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1248/122517t.jpg",
+    "synonyms": [
+      "Dragon Girls",
+      "Ikki Tousen",
+      "New Battle Vixens",
+      "Shin Ikki Tousen",
+      "Shin Ikkitōsen",
+      "ikki s5",
+      "มหาศึกลูกแก้วมากะ คำรบใหม่",
+      "真・一騎当千",
+      "真・一骑当千"
     ]
   },
-  "type": "web",
-  "lang": "ja",
-  "officialSite": "https://www.ghostintheshell-sac2045.jp/",
-  "begin": "2022-05-22T16:00:00.000Z",
-  "broadcast": "R/2022-05-22T16:00:00.000Z/P0D",
-  "end": "2022-05-22T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "304727"
+  {
+    "title": "ドラ馬チック脳内",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.asahi.co.jp/sp/doramachikku/index.html",
+    "begin": "2022-05-05T14:16:00.000Z",
+    "broadcast": "R/2022-05-05T14:16:00.000Z/P7D",
+    "end": "2022-05-26T14:23:00.000Z",
+    "comment": "",
+    "sites": [],
+    "animeSeason": {
+      "season": "UNDEFINED",
+      "year": 2022,
+      "month": "05"
     },
-    {
-      "site": "bilibili",
-      "id": "28237219",
-      "begin": "2023-04-23T10:30:01.000Z",
-      "broadcast": "R/2023-04-23T10:30:01.000Z/P7D"
-    },
-    {
-      "site": "anidb",
-      "id": "13098"
-    },
-    {
-      "site": "anidb",
-      "id": "17940"
-    },
-    {
-      "site": "anilist",
-      "id": "106154"
-    },
-    {
-      "site": "anilist",
-      "id": "138899"
-    },
-    {
-      "site": "anilist",
-      "id": "163143"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-sac-2045"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-sac-2045-the-last-human"
-    },
-    {
-      "site": "anisearch",
-      "id": "14020"
-    },
-    {
-      "site": "anisearch",
-      "id": "18321"
-    },
-    {
-      "site": "kitsu",
-      "id": "42036"
-    },
-    {
-      "site": "kitsu",
-      "id": "45150"
-    },
-    {
-      "site": "livechart",
-      "id": "3607"
-    },
-    {
-      "site": "livechart",
-      "id": "3662"
-    },
-    {
-      "site": "livechart",
-      "id": "3767"
-    },
-    {
-      "site": "livechart",
-      "id": "3782"
-    },
-    {
-      "site": "livechart",
-      "id": "3984"
-    },
-    {
-      "site": "livechart",
-      "id": "4054"
-    },
-    {
-      "site": "livechart",
-      "id": "4823"
-    },
-    {
-      "site": "livechart",
-      "id": "5530"
-    },
-    {
-      "site": "livechart",
-      "id": "5793"
-    },
-    {
-      "site": "livechart",
-      "id": "6221"
-    },
-    {
-      "site": "livechart",
-      "id": "6604"
-    },
-    {
-      "site": "livechart",
-      "id": "7133"
-    },
-    {
-      "site": "livechart",
-      "id": "7156"
-    },
-    {
-      "site": "livechart",
-      "id": "7289"
-    },
-    {
-      "site": "livechart",
-      "id": "7353"
-    },
-    {
-      "site": "myanimelist",
-      "id": "38799"
-    },
-    {
-      "site": "myanimelist",
-      "id": "49402"
-    },
-    {
-      "site": "myanimelist",
-      "id": "54860"
-    },
-    {
-      "site": "notify",
-      "id": "1ka17Vm7g"
-    },
-    {
-      "site": "notify",
-      "id": "2OMM81fVg"
-    },
-    {
-      "site": "notify",
-      "id": "NrYRpzsmg"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 2022,
-    "month": "05"
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/1833/137870.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1833/137870t.jpg",
+    "synonyms": [
+      "ドラ馬チック脳内"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 12,
-  "picture": "https://cdn.myanimelist.net/images/anime/1591/121960.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1591/121960t.jpg",
-  "synonyms": [
-    "GITS:SAC_2045",
-    "Ghost in the Shell : SAC_2045 Saison 2",
-    "Ghost in the Shell: SAC_2045 (2022)",
-    "Ghost in the Shell: SAC_2045 2nd Season",
-    "Ghost in the Shell: SAC_2045 S2",
-    "Ghost in the Shell: SAC_2045 Season 2",
-    "Ghost in the Shell: SAC_2045 Staffel 2",
-    "Ghost in the Shell: SAC_2045 Stagione 2",
-    "Ghost in the Shell: SAC_2045 Temporada 2",
-    "Ghost in the Shell: Stand Alone Complex 2045 2nd Season",
-    "GitS: SAC_2045 (2022)",
-    "Koukaku Kidoutai: SAC_2045 (2022)",
-    "Koukaku Kidoutai: SAC_2045 2nd Season",
-    "Kōkaku Kidōtai: SAC_2045 Season 2",
-    "โกสต์ อิน เดอะ เชลล์: SAC_2045 ภาค 2",
-    "攻壳机动队：SAC_2045 第二季",
-    "攻殻機動隊 SAC_2045 (2022)",
-    "攻殻機動隊 SAC_2045 2ndシーズン",
-    "攻殻機動隊 SAC_2045 シーズン2",
-    "攻殻機動隊 SAC_2045 シーズン２",
-    "攻殼機動隊：SAC_2045 第二季"
-  ]
-}
+  {
+    "title": "ヴァンパイア・イン・ザ・ガーデン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "花园里的吸血鬼"
+      ],
+      "zh-Hant": [
+        "花園裡的吸血鬼"
+      ],
+      "en": [
+        "Vampire in the Garden"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.witstudio.co.jp/works/2021/11/550.html",
+    "begin": "2022-05-15T16:00:00.000Z",
+    "end": "2022-05-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "277369"
+      },
+      {
+        "site": "netflix",
+        "id": "80996247",
+        "begin": "2022-05-15T16:00:00.000Z",
+        "broadcast": "R/2022-05-15T16:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2022,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 5,
+    "picture": "https://cdn.myanimelist.net/images/anime/1055/121956.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1055/121956t.jpg",
+    "synonyms": [
+      "Un vampiro en el jardín",
+      "Une vampire dans le jardin",
+      "Wampir w ogrodzie",
+      "Вампир в градината",
+      "Вампір у саду",
+      "แวมไพร์ในสวน",
+      "ヴァンパイア・イン・ザ・ガーデン",
+      "ヴァンパイヤ・イン・ザ・ガーデン"
+    ]
+  },
+  {
+    "title": "バブル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "泡泡"
+      ],
+      "zh-Hant": [
+        "泡泡"
+      ],
+      "en": [
+        "Bubble"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://wwws.warnerbros.co.jp/bubble-moviejp/",
+    "begin": "2022-05-12T16:00:00.000Z",
+    "end": "2022-05-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "361280"
+      },
+      {
+        "site": "netflix",
+        "id": "81345945",
+        "begin": "2022-04-27T16:00:00.000Z",
+        "broadcast": "R/2022-04-27T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28237357",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anime-planet",
+        "id": "eve-and-riria-bubble"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2022,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1011/121152.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1011/121152t.jpg",
+    "synonyms": [
+      "Bulles",
+      "Burbuja",
+      "Burbujas",
+      "Балончета",
+      "فقاعة",
+      "บับเบิ้ล",
+      "バブル",
+      "泡泡"
+    ]
+  },
+  {
+    "title": "攻殻機動隊 SAC_2045 シーズン2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "攻壳机动队 SAC_2045 第二季",
+        "攻壳机动队 2045 第二季"
+      ],
+      "en": [
+        "Ghost in the Shell: SAC_2045 Season 2",
+        "Koukaku Kidoutai: SAC_2045 2"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.ghostintheshell-sac2045.jp/",
+    "begin": "2022-05-22T16:00:00.000Z",
+    "broadcast": "R/2022-05-22T16:00:00.000Z/P0D",
+    "end": "2022-05-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "304727"
+      },
+      {
+        "site": "bilibili",
+        "id": "28237219",
+        "begin": "2023-04-23T10:30:01.000Z",
+        "broadcast": "R/2023-04-23T10:30:01.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "13098"
+      },
+      {
+        "site": "anidb",
+        "id": "17940"
+      },
+      {
+        "site": "anilist",
+        "id": "106154"
+      },
+      {
+        "site": "anilist",
+        "id": "138899"
+      },
+      {
+        "site": "anilist",
+        "id": "163143"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-sac-2045"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-sac-2045-the-last-human"
+      },
+      {
+        "site": "anisearch",
+        "id": "14020"
+      },
+      {
+        "site": "anisearch",
+        "id": "18321"
+      },
+      {
+        "site": "kitsu",
+        "id": "42036"
+      },
+      {
+        "site": "kitsu",
+        "id": "45150"
+      },
+      {
+        "site": "livechart",
+        "id": "3607"
+      },
+      {
+        "site": "livechart",
+        "id": "3662"
+      },
+      {
+        "site": "livechart",
+        "id": "3767"
+      },
+      {
+        "site": "livechart",
+        "id": "3782"
+      },
+      {
+        "site": "livechart",
+        "id": "3984"
+      },
+      {
+        "site": "livechart",
+        "id": "4054"
+      },
+      {
+        "site": "livechart",
+        "id": "4823"
+      },
+      {
+        "site": "livechart",
+        "id": "5530"
+      },
+      {
+        "site": "livechart",
+        "id": "5793"
+      },
+      {
+        "site": "livechart",
+        "id": "6221"
+      },
+      {
+        "site": "livechart",
+        "id": "6604"
+      },
+      {
+        "site": "livechart",
+        "id": "7133"
+      },
+      {
+        "site": "livechart",
+        "id": "7156"
+      },
+      {
+        "site": "livechart",
+        "id": "7289"
+      },
+      {
+        "site": "livechart",
+        "id": "7353"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38799"
+      },
+      {
+        "site": "myanimelist",
+        "id": "49402"
+      },
+      {
+        "site": "myanimelist",
+        "id": "54860"
+      },
+      {
+        "site": "notify",
+        "id": "1ka17Vm7g"
+      },
+      {
+        "site": "notify",
+        "id": "2OMM81fVg"
+      },
+      {
+        "site": "notify",
+        "id": "NrYRpzsmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2022,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1591/121960.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1591/121960t.jpg",
+    "synonyms": [
+      "GITS:SAC_2045",
+      "Ghost in the Shell : SAC_2045 Saison 2",
+      "Ghost in the Shell: SAC_2045 (2022)",
+      "Ghost in the Shell: SAC_2045 2nd Season",
+      "Ghost in the Shell: SAC_2045 S2",
+      "Ghost in the Shell: SAC_2045 Season 2",
+      "Ghost in the Shell: SAC_2045 Staffel 2",
+      "Ghost in the Shell: SAC_2045 Stagione 2",
+      "Ghost in the Shell: SAC_2045 Temporada 2",
+      "Ghost in the Shell: Stand Alone Complex 2045 2nd Season",
+      "GitS: SAC_2045 (2022)",
+      "Koukaku Kidoutai: SAC_2045 (2022)",
+      "Koukaku Kidoutai: SAC_2045 2nd Season",
+      "Kōkaku Kidōtai: SAC_2045 Season 2",
+      "โกสต์ อิน เดอะ เชลล์: SAC_2045 ภาค 2",
+      "攻壳机动队：SAC_2045 第二季",
+      "攻殻機動隊 SAC_2045 (2022)",
+      "攻殻機動隊 SAC_2045 2ndシーズン",
+      "攻殻機動隊 SAC_2045 シーズン2",
+      "攻殻機動隊 SAC_2045 シーズン２",
+      "攻殼機動隊：SAC_2045 第二季"
+    ]
+  }
+]

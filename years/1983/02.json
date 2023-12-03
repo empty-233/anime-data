@@ -1,84 +1,245 @@
-{
-  "title": "聖戦士ダンバイン",
-  "titleTranslate": {
-    "zh-Hans": [
-      "圣战士登拜因"
+[
+  {
+    "title": "うる星やつら オンリー・ユー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "福星小子1 爱星球之恋",
+        "福星小子1 Only You",
+        "福星小子 剧场版"
+      ],
+      "en": [
+        "Urusei Yatsura Movie 1: Only You",
+        "Urusei Yatsura: Only You"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1983-02-13T16:00:00.000Z",
+    "end": "1983-02-13T17:40:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrha1k6d",
+        "begin": "2016-11-28T09:39:42.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "40001"
+      },
+      {
+        "site": "anidb",
+        "id": "377"
+      },
+      {
+        "site": "anilist",
+        "id": "1293"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-movie-2-beautiful-dreamer"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-movie-3-remember-my-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-movie-4-lum-the-forever"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-movie-5-the-final-chapter"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-movie-6-always-my-darling"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-special-its-spring-take-off"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-the-obstacle-course-swim-meet"
+      },
+      {
+        "site": "anisearch",
+        "id": "1945"
+      },
+      {
+        "site": "kitsu",
+        "id": "1166"
+      },
+      {
+        "site": "livechart",
+        "id": "11005"
+      },
+      {
+        "site": "livechart",
+        "id": "11333"
+      },
+      {
+        "site": "livechart",
+        "id": "4301"
+      },
+      {
+        "site": "livechart",
+        "id": "8215"
+      },
+      {
+        "site": "livechart",
+        "id": "8720"
+      },
+      {
+        "site": "livechart",
+        "id": "8721"
+      },
+      {
+        "site": "livechart",
+        "id": "8722"
+      },
+      {
+        "site": "livechart",
+        "id": "8724"
+      },
+      {
+        "site": "livechart",
+        "id": "8727"
+      },
+      {
+        "site": "livechart",
+        "id": "8753"
+      },
+      {
+        "site": "livechart",
+        "id": "9091"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1293"
+      },
+      {
+        "site": "notify",
+        "id": "fqYbcKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1983,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1034/134474.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1034/134474t.jpg",
+    "synonyms": [
+      "Lamu - Film 1",
+      "Lamu - Only You",
+      "Lamu Película: Only You",
+      "Lamu: Solo tú",
+      "Lamù - Only You",
+      "Lamù: Only You",
+      "Lum - Only You",
+      "Urusei Yatsura - Only You",
+      "Urusei Yatsura Film: Only You",
+      "Urusei Yatsura: Only You",
+      "Несносные пришельцы: Только ты (фильм #1)",
+      "うる星やつら オンリーユー",
+      "うる星やつら オンリー・ユー",
+      "福星小子：爱星球之恋"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "http://www.dunbine.net/",
-  "begin": "1983-02-05T14:30:00.000Z",
-  "end": "1984-01-21T15:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "10402"
+  {
+    "title": "聖戦士ダンバイン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圣战士登拜因"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "2433",
-      "begin": "1983-02-04T16:00:00.000Z"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.dunbine.net/",
+    "begin": "1983-02-05T14:30:00.000Z",
+    "end": "1984-01-21T15:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10402"
+      },
+      {
+        "site": "bilibili",
+        "id": "2433",
+        "begin": "1983-02-04T16:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "899"
+      },
+      {
+        "site": "anilist",
+        "id": "929"
+      },
+      {
+        "site": "anime-planet",
+        "id": "aura-battler-dunbine"
+      },
+      {
+        "site": "anime-planet",
+        "id": "garzeys-wing"
+      },
+      {
+        "site": "anime-planet",
+        "id": "wings-of-rean"
+      },
+      {
+        "site": "anisearch",
+        "id": "623"
+      },
+      {
+        "site": "kitsu",
+        "id": "827"
+      },
+      {
+        "site": "myanimelist",
+        "id": "929"
+      },
+      {
+        "site": "notify",
+        "id": "hmnJcKmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1988,
+      "month": "02"
     },
-    {
-      "site": "anidb",
-      "id": "899"
-    },
-    {
-      "site": "anilist",
-      "id": "929"
-    },
-    {
-      "site": "anime-planet",
-      "id": "aura-battler-dunbine"
-    },
-    {
-      "site": "anime-planet",
-      "id": "garzeys-wing"
-    },
-    {
-      "site": "anime-planet",
-      "id": "wings-of-rean"
-    },
-    {
-      "site": "anisearch",
-      "id": "623"
-    },
-    {
-      "site": "kitsu",
-      "id": "827"
-    },
-    {
-      "site": "myanimelist",
-      "id": "929"
-    },
-    {
-      "site": "notify",
-      "id": "hmnJcKmiR"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 1988,
-    "month": "02"
-  },
-  "status": "FINISHED",
-  "episodes": 3,
-  "picture": "https://cdn.myanimelist.net/images/anime/1889/93996.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1889/93996t.jpg",
-  "synonyms": [
-    "Aura Battle Dunbine: The Tale of Neo Byston Well",
-    "Aura Battle Dunbine: The Tale of Neo Byston Well (OAV)",
-    "Aura Battler Dunbine - The Tale of Neo Byston Well",
-    "Aura Battler Dunbine OVA",
-    "Aura Battler Dunbine: The Tale of Neo Byston Well",
-    "New Story of AURA BATTLER Dunbine",
-    "New Story of Aura Battler Dunbine",
-    "Seisenshi Dunbine: New Story of AURA BATTLER Dunbine",
-    "Seisenshi Dunbine: The Tale of Neo Byston Well",
-    "dunbine ova",
-    "せいせんしだんばいん",
-    "聖戦士ダンバイン",
-    "聖戦士ダンバイン　New Story of AURA BATTLER Dunbine"
-  ]
-}
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/1889/93996.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1889/93996t.jpg",
+    "synonyms": [
+      "Aura Battle Dunbine: The Tale of Neo Byston Well",
+      "Aura Battle Dunbine: The Tale of Neo Byston Well (OAV)",
+      "Aura Battler Dunbine - The Tale of Neo Byston Well",
+      "Aura Battler Dunbine OVA",
+      "Aura Battler Dunbine: The Tale of Neo Byston Well",
+      "New Story of AURA BATTLER Dunbine",
+      "New Story of Aura Battler Dunbine",
+      "Seisenshi Dunbine: New Story of AURA BATTLER Dunbine",
+      "Seisenshi Dunbine: The Tale of Neo Byston Well",
+      "dunbine ova",
+      "せいせんしだんばいん",
+      "聖戦士ダンバイン",
+      "聖戦士ダンバイン　New Story of AURA BATTLER Dunbine"
+    ]
+  }
+]

@@ -1,120 +1,280 @@
-{
-  "title": "ドラゴンボール",
-  "titleTranslate": {
-    "zh-Hans": [
-      "龙珠",
-      "七龙珠"
+[
+  {
+    "title": "うる星やつら4 ラム・ザ・フォーエバー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "福星小子4 永远的拉姆"
+      ],
+      "en": [
+        "Urusei Yatsura Movie 4: Lum The Forever"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-02-22T16:00:00.000Z",
+    "end": "1986-02-22T17:35:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrha1k6d",
+        "begin": "2016-11-28T09:39:42.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "47151"
+      },
+      {
+        "site": "anidb",
+        "id": "377"
+      },
+      {
+        "site": "anilist",
+        "id": "1293"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-movie-1-only-you"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-movie-2-beautiful-dreamer"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-movie-3-remember-my-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-movie-5-the-final-chapter"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-movie-6-always-my-darling"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-special-its-spring-take-off"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-the-obstacle-course-swim-meet"
+      },
+      {
+        "site": "anisearch",
+        "id": "1945"
+      },
+      {
+        "site": "kitsu",
+        "id": "1166"
+      },
+      {
+        "site": "livechart",
+        "id": "11005"
+      },
+      {
+        "site": "livechart",
+        "id": "11333"
+      },
+      {
+        "site": "livechart",
+        "id": "4301"
+      },
+      {
+        "site": "livechart",
+        "id": "8215"
+      },
+      {
+        "site": "livechart",
+        "id": "8720"
+      },
+      {
+        "site": "livechart",
+        "id": "8721"
+      },
+      {
+        "site": "livechart",
+        "id": "8722"
+      },
+      {
+        "site": "livechart",
+        "id": "8724"
+      },
+      {
+        "site": "livechart",
+        "id": "8726"
+      },
+      {
+        "site": "livechart",
+        "id": "8753"
+      },
+      {
+        "site": "livechart",
+        "id": "9091"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1293"
+      },
+      {
+        "site": "notify",
+        "id": "fqYbcKmmR"
+      }
     ],
-    "en": [
-      "DRAGON BALL"
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1986,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/79775.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/79775t.jpg",
+    "synonyms": [
+      "Lamu - Film 4",
+      "Lamu - Lum the forever",
+      "Lamu Película 4: Lamu Forever",
+      "Lamu: Lamu Forever",
+      "Lamù - Forever",
+      "Lamù: The Forever - La principessa nel ciliegio",
+      "Lum - Lum the forever",
+      "Urusei Yatsura - Lum the forever",
+      "Urusei Yatsura 4: Lum the Forever",
+      "Urusei Yatsura Film 4: Lum The Forever",
+      "Urusei Yatsura Movie 4",
+      "Urusei Yatsura: Lum the Forever",
+      "Несносные пришельцы: Лам навсегда (фильм #4)",
+      "うる星やつら ラム・ザ・フォーエバー",
+      "うる星やつら4 ラム・ザ・フォーエバー",
+      "福星小子：鬼姬传说"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "http://www.toei-anim.co.jp/tv/dragon/",
-  "begin": "1986-02-26T16:00:00.000Z",
-  "end": "1989-04-19T17:35:00.000Z",
-  "sites": [
-    {
-      "site": "iqiyi",
-      "id": "a_19rrhb1b0h",
-      "begin": "2015-12-02T01:25:31.000Z"
+  {
+    "title": "ドラゴンボール",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙珠",
+        "七龙珠"
+      ],
+      "en": [
+        "DRAGON BALL"
+      ]
     },
-    {
-      "site": "bangumi",
-      "id": "9565"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/tv/dragon/",
+    "begin": "1986-02-26T16:00:00.000Z",
+    "end": "1989-04-19T17:35:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb1b0h",
+        "begin": "2015-12-02T01:25:31.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "9565"
+      },
+      {
+        "site": "anilist",
+        "id": "223"
+      },
+      {
+        "site": "kitsu",
+        "id": "199"
+      },
+      {
+        "site": "livechart",
+        "id": "3632"
+      },
+      {
+        "site": "livechart",
+        "id": "3636"
+      },
+      {
+        "site": "livechart",
+        "id": "4152"
+      },
+      {
+        "site": "livechart",
+        "id": "4177"
+      },
+      {
+        "site": "livechart",
+        "id": "4206"
+      },
+      {
+        "site": "livechart",
+        "id": "4219"
+      },
+      {
+        "site": "livechart",
+        "id": "4264"
+      },
+      {
+        "site": "livechart",
+        "id": "4287"
+      },
+      {
+        "site": "livechart",
+        "id": "4294"
+      },
+      {
+        "site": "livechart",
+        "id": "4312"
+      },
+      {
+        "site": "livechart",
+        "id": "4572"
+      },
+      {
+        "site": "livechart",
+        "id": "4719"
+      },
+      {
+        "site": "livechart",
+        "id": "4815"
+      },
+      {
+        "site": "livechart",
+        "id": "5906"
+      },
+      {
+        "site": "livechart",
+        "id": "6390"
+      },
+      {
+        "site": "myanimelist",
+        "id": "223"
+      },
+      {
+        "site": "notify",
+        "id": "hbih5KmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1988,
+      "month": "02"
     },
-    {
-      "site": "anilist",
-      "id": "223"
-    },
-    {
-      "site": "kitsu",
-      "id": "199"
-    },
-    {
-      "site": "livechart",
-      "id": "3632"
-    },
-    {
-      "site": "livechart",
-      "id": "3636"
-    },
-    {
-      "site": "livechart",
-      "id": "4152"
-    },
-    {
-      "site": "livechart",
-      "id": "4177"
-    },
-    {
-      "site": "livechart",
-      "id": "4206"
-    },
-    {
-      "site": "livechart",
-      "id": "4219"
-    },
-    {
-      "site": "livechart",
-      "id": "4264"
-    },
-    {
-      "site": "livechart",
-      "id": "4287"
-    },
-    {
-      "site": "livechart",
-      "id": "4294"
-    },
-    {
-      "site": "livechart",
-      "id": "4312"
-    },
-    {
-      "site": "livechart",
-      "id": "4572"
-    },
-    {
-      "site": "livechart",
-      "id": "4719"
-    },
-    {
-      "site": "livechart",
-      "id": "4815"
-    },
-    {
-      "site": "livechart",
-      "id": "5906"
-    },
-    {
-      "site": "livechart",
-      "id": "6390"
-    },
-    {
-      "site": "myanimelist",
-      "id": "223"
-    },
-    {
-      "site": "notify",
-      "id": "hbih5KmmR"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 1988,
-    "month": "02"
-  },
-  "status": "FINISHED",
-  "episodes": 2,
-  "picture": "https://cdn.myanimelist.net/images/anime/13/24380.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/13/24380t.jpg",
-  "synonyms": [
-    "Dragon Ball: Goku no Koutsuuanzen",
-    "Dragon Ball: Goku no Shouboutai",
-    "Dragon Ball: Goku's Fire Brigade",
-    "Dragon Ball: Goku's Traffic Safety",
-    "ドラゴンボール"
-  ]
-}
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/24380.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/24380t.jpg",
+    "synonyms": [
+      "Dragon Ball: Goku no Koutsuuanzen",
+      "Dragon Ball: Goku no Shouboutai",
+      "Dragon Ball: Goku's Fire Brigade",
+      "Dragon Ball: Goku's Traffic Safety",
+      "ドラゴンボール"
+    ]
+  }
+]

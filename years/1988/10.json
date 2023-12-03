@@ -1,1555 +1,2084 @@
-{
-  "title": "それいけ!アンパンマン",
-  "titleTranslate": {
-    "zh-Hans": [
-      "面包超人"
+[
+  {
+    "title": "新きまぐれオレンジ☆ロード ～ そして、あの夏のはじまり",
+    "titleTranslate": {
+      "zh-Hans": [
+        "橙路 再回到往日"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.dvd-orangeroad.com/",
+    "begin": "1988-10-08T16:00:00.000Z",
+    "end": "1988-10-08T17:10:00.000Z",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "y/yndxod8yrn2yp4m",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "13677"
+      },
+      {
+        "site": "bilibili",
+        "id": "2505",
+        "begin": "1988-10-07T16:00:00.000Z",
+        "broadcast": "R/2010-09-16T17:17:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "576"
+      },
+      {
+        "site": "anilist",
+        "id": "2454"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kimagure-orange-road"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kimagure-orange-road-i-want-to-return-to-that-day"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kimagure-orange-road-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kimagure-orange-road-shounen-jump-special"
+      },
+      {
+        "site": "anisearch",
+        "id": "1717"
+      },
+      {
+        "site": "kitsu",
+        "id": "2228"
+      },
+      {
+        "site": "livechart",
+        "id": "4878"
+      },
+      {
+        "site": "livechart",
+        "id": "7060"
+      },
+      {
+        "site": "livechart",
+        "id": "7328"
+      },
+      {
+        "site": "livechart",
+        "id": "8478"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2454"
+      },
+      {
+        "site": "notify",
+        "id": "Rg_E5Fmig"
+      }
     ],
-    "zh-Hant": [
-      "麵包超人"
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1996,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1106/139433.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1106/139433t.jpg",
+    "synonyms": [
+      "Kimagure Orange Road - Summer`s beginning",
+      "Kimagure Orange Road : Cet Été-là",
+      "Kimagure Orange Road: Cet Été Là",
+      "Kimagure Orange Road: Movie 2",
+      "Kimagure Orange Road: Summer's Beginning",
+      "Max & compagnie - Cet été là",
+      "New Kimagure Orange Road",
+      "New Kimagure Orange Road - Summer`s Beginning",
+      "New Kimagure Orange Road: And Then",
+      "New Kimagure Orange Road: Summer's Beginning",
+      "New Kimagure Orange Road: Summer’s Beginning",
+      "Orange Road The Movie: …e poi, l'inizio di quella estate…",
+      "Orange Road the movie: ...e poi, l'inizio di quella estate",
+      "Shin Kimagure Orange Road - ... e poi l`inizio di quell`estate...",
+      "Shin Kimagure Orange Road: Soshite, Ano Natsu no Hajimari",
+      "The Beginning of That Summer",
+      "shin KOR",
+      "È quasi magia Johnny: Un amore infinito…",
+      "Новые капризы Апельсиновой улицы",
+      "新きまぐれオレンジ★ロード そして, あの夏のはじまり",
+      "新きまぐれオレンジ★ロード そして、あの夏のはじまり",
+      "新きまぐれオレンジ☆ロード ～ そして、あの夏のはじまり",
+      "橙路 那个夏天的开始"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "https://www.ntv.co.jp/anpanman/",
-  "begin": "1988-10-03T08:00:00.000Z",
-  "broadcast": "R/2016-04-01T01:55:00.000Z/P7D",
-  "end": "",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "81562"
-    },
-    {
-      "site": "gamer",
-      "id": "20950",
-      "begin": "2021-08-06T06:00:00.000Z",
-      "broadcast": "R/2021-08-06T06:00:00.000Z/P7D"
-    },
-    {
-      "site": "anidb",
-      "id": "10581"
-    },
-    {
-      "site": "anidb",
-      "id": "11063"
-    },
-    {
-      "site": "anidb",
-      "id": "11612"
-    },
-    {
-      "site": "anidb",
-      "id": "11613"
-    },
-    {
-      "site": "anidb",
-      "id": "11919"
-    },
-    {
-      "site": "anidb",
-      "id": "12793"
-    },
-    {
-      "site": "anidb",
-      "id": "13714"
-    },
-    {
-      "site": "anidb",
-      "id": "14595"
-    },
-    {
-      "site": "anidb",
-      "id": "15352"
-    },
-    {
-      "site": "anidb",
-      "id": "17121"
-    },
-    {
-      "site": "anidb",
-      "id": "17810"
-    },
-    {
-      "site": "anidb",
-      "id": "5812"
-    },
-    {
-      "site": "anidb",
-      "id": "6078"
-    },
-    {
-      "site": "anidb",
-      "id": "6079"
-    },
-    {
-      "site": "anidb",
-      "id": "7392"
-    },
-    {
-      "site": "anidb",
-      "id": "7396"
-    },
-    {
-      "site": "anidb",
-      "id": "7397"
-    },
-    {
-      "site": "anidb",
-      "id": "7497"
-    },
-    {
-      "site": "anidb",
-      "id": "7547"
-    },
-    {
-      "site": "anidb",
-      "id": "7548"
-    },
-    {
-      "site": "anidb",
-      "id": "7549"
-    },
-    {
-      "site": "anidb",
-      "id": "7550"
-    },
-    {
-      "site": "anidb",
-      "id": "7551"
-    },
-    {
-      "site": "anidb",
-      "id": "7552"
-    },
-    {
-      "site": "anidb",
-      "id": "7553"
-    },
-    {
-      "site": "anidb",
-      "id": "7554"
-    },
-    {
-      "site": "anidb",
-      "id": "7555"
-    },
-    {
-      "site": "anidb",
-      "id": "7556"
-    },
-    {
-      "site": "anidb",
-      "id": "7557"
-    },
-    {
-      "site": "anidb",
-      "id": "7558"
-    },
-    {
-      "site": "anidb",
-      "id": "7559"
-    },
-    {
-      "site": "anidb",
-      "id": "7560"
-    },
-    {
-      "site": "anidb",
-      "id": "7561"
-    },
-    {
-      "site": "anidb",
-      "id": "7562"
-    },
-    {
-      "site": "anidb",
-      "id": "7737"
-    },
-    {
-      "site": "anidb",
-      "id": "7740"
-    },
-    {
-      "site": "anidb",
-      "id": "7741"
-    },
-    {
-      "site": "anidb",
-      "id": "7742"
-    },
-    {
-      "site": "anidb",
-      "id": "7743"
-    },
-    {
-      "site": "anidb",
-      "id": "7744"
-    },
-    {
-      "site": "anidb",
-      "id": "7746"
-    },
-    {
-      "site": "anidb",
-      "id": "7747"
-    },
-    {
-      "site": "anidb",
-      "id": "7748"
-    },
-    {
-      "site": "anidb",
-      "id": "7749"
-    },
-    {
-      "site": "anidb",
-      "id": "7750"
-    },
-    {
-      "site": "anidb",
-      "id": "7751"
-    },
-    {
-      "site": "anidb",
-      "id": "7752"
-    },
-    {
-      "site": "anidb",
-      "id": "7753"
-    },
-    {
-      "site": "anidb",
-      "id": "7754"
-    },
-    {
-      "site": "anidb",
-      "id": "7755"
-    },
-    {
-      "site": "anidb",
-      "id": "7757"
-    },
-    {
-      "site": "anidb",
-      "id": "7758"
-    },
-    {
-      "site": "anidb",
-      "id": "7760"
-    },
-    {
-      "site": "anidb",
-      "id": "8329"
-    },
-    {
-      "site": "anidb",
-      "id": "8330"
-    },
-    {
-      "site": "anidb",
-      "id": "9014"
-    },
-    {
-      "site": "anidb",
-      "id": "9498"
-    },
-    {
-      "site": "anidb",
-      "id": "9694"
-    },
-    {
-      "site": "anidb",
-      "id": "9769"
-    },
-    {
-      "site": "anidb",
-      "id": "9791"
-    },
-    {
-      "site": "anidb",
-      "id": "9792"
-    },
-    {
-      "site": "anidb",
-      "id": "9938"
-    },
-    {
-      "site": "anilist",
-      "id": "10056"
-    },
-    {
-      "site": "anilist",
-      "id": "10057"
-    },
-    {
-      "site": "anilist",
-      "id": "10058"
-    },
-    {
-      "site": "anilist",
-      "id": "10059"
-    },
-    {
-      "site": "anilist",
-      "id": "10060"
-    },
-    {
-      "site": "anilist",
-      "id": "10061"
-    },
-    {
-      "site": "anilist",
-      "id": "10684"
-    },
-    {
-      "site": "anilist",
-      "id": "10685"
-    },
-    {
-      "site": "anilist",
-      "id": "112006"
-    },
-    {
-      "site": "anilist",
-      "id": "115895"
-    },
-    {
-      "site": "anilist",
-      "id": "116039"
-    },
-    {
-      "site": "anilist",
-      "id": "116045"
-    },
-    {
-      "site": "anilist",
-      "id": "11791"
-    },
-    {
-      "site": "anilist",
-      "id": "119784"
-    },
-    {
-      "site": "anilist",
-      "id": "119836"
-    },
-    {
-      "site": "anilist",
-      "id": "121822"
-    },
-    {
-      "site": "anilist",
-      "id": "121823"
-    },
-    {
-      "site": "anilist",
-      "id": "121825"
-    },
-    {
-      "site": "anilist",
-      "id": "121826"
-    },
-    {
-      "site": "anilist",
-      "id": "121828"
-    },
-    {
-      "site": "anilist",
-      "id": "121829"
-    },
-    {
-      "site": "anilist",
-      "id": "121830"
-    },
-    {
-      "site": "anilist",
-      "id": "121832"
-    },
-    {
-      "site": "anilist",
-      "id": "121833"
-    },
-    {
-      "site": "anilist",
-      "id": "121835"
-    },
-    {
-      "site": "anilist",
-      "id": "121837"
-    },
-    {
-      "site": "anilist",
-      "id": "121838"
-    },
-    {
-      "site": "anilist",
-      "id": "121840"
-    },
-    {
-      "site": "anilist",
-      "id": "140307"
-    },
-    {
-      "site": "anilist",
-      "id": "141057"
-    },
-    {
-      "site": "anilist",
-      "id": "143548"
-    },
-    {
-      "site": "anilist",
-      "id": "14381"
-    },
-    {
-      "site": "anilist",
-      "id": "145475"
-    },
-    {
-      "site": "anilist",
-      "id": "145477"
-    },
-    {
-      "site": "anilist",
-      "id": "145479"
-    },
-    {
-      "site": "anilist",
-      "id": "145481"
-    },
-    {
-      "site": "anilist",
-      "id": "148664"
-    },
-    {
-      "site": "anilist",
-      "id": "160856"
-    },
-    {
-      "site": "anilist",
-      "id": "16988"
-    },
-    {
-      "site": "anilist",
-      "id": "17004"
-    },
-    {
-      "site": "anilist",
-      "id": "17006"
-    },
-    {
-      "site": "anilist",
-      "id": "17213"
-    },
-    {
-      "site": "anilist",
-      "id": "17215"
-    },
-    {
-      "site": "anilist",
-      "id": "17219"
-    },
-    {
-      "site": "anilist",
-      "id": "18355"
-    },
-    {
-      "site": "anilist",
-      "id": "18357"
-    },
-    {
-      "site": "anilist",
-      "id": "18591"
-    },
-    {
-      "site": "anilist",
-      "id": "19433"
-    },
-    {
-      "site": "anilist",
-      "id": "9007"
-    },
-    {
-      "site": "anilist",
-      "id": "9446"
-    },
-    {
-      "site": "anilist",
-      "id": "9451"
-    },
-    {
-      "site": "anime-planet",
-      "id": "anpanman-to-hajimeyou-iro-kazu-katachi-wakaru-ka-na-iro-katachi"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-12-seiza-wo-sukui-dase"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-anpanman-no-jin-jin-jingle-bells"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-anpanman-to-christmas-no-hoshi"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-anpanman-to-happy-otanjoubi"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-anpanman-to-okashi-na-nakama"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-anpanman-to-oyakusoku"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-anpanman-to-tanoshii-nakama-tachi"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-anpanman-to-yukai-na-nakama-tachi"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-baikinman-no-gyakushuu"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-baikinman-vs-baikinman"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-black-nose-to-mahou-no-uta"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-buruburu-no-takarasagashi-daibouken"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-chibi-ookami-to-tsuki-no-fushigi"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-dadandan-to-futago-no-hoshi"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-dokin-chan-no-dokidoki-calendar"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-dororin-to-bakeru-carnival"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-fuwafuwa-fuwari-to-kumo-no-kuni"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-gomira-no-hoshi"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-happy-no-daibouken"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-hashire-wakuwaku-anpanman-grand-prix"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-hiya-hiya-hiyariko-to-bafu-bafu-baikinman"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-horrorman-to-hora-horako"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-hoshi-no-iro-to-sora-no-iro"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-hoshizora-wo-kaese"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-kagayake-kurun-to-inochi-no-hoshi"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-kieta-jam-ojisan"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-kirakira-boshi-no-namida"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-kirameke-ice-no-kuni-no-vanilla-hime"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-kokin-chan-to-aoi-namida"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-kuroyuki-hime-to-motemote-baikinman"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-kyouryuu-nosshii-no-daibouken"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-lyrical-magical-mahou-no-gakkou"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-mija-to-mahou-no-lamp"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-minami-no-umi-wo-sukue"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-minna-atsumare-anpanman-world"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-minna-de-teasobi-anpanman-to-itazura-obake"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-omocha-no-hoshi-no-nanda-to-runda"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-omusubiman"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-otanjoubi-series"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-rhythm-de-teasobi-anpanman-to-fushigi-na-parasol"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-rhythm-de-utaou-anpanman-natsumatsuri"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-ringo-bouya-to-minna-no-negai"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-roll-to-laura-ukigumojou-no-himitsu"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-shabondama-no-purun"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-sl-man-to-hoshi-wo-utsusou"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-soratobu-ehon-to-glass-no-kutsu"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-sukue-kokorin-to-kiseki-no-hoshi"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-tanoshikute-asobi-mama-ni-natta-kokin-chan"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-tobase-kibou-no-handkerchief"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-tobe-tobe-chibigon"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-tsumiki-shiro-no-himitsu"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-utatte-teasobi-anpanman-to-mori-no-takara"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-yomigaere-bananajima"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-yousei-rinrin-no-himitsu"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-yumeneko-no-kuni-no-nyanii"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-yuuki-no-hana-ga-hiraku-toki"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-yuuki-to-honoo-to-christmas"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sore-ike-anpanman-yuureisen-wo-yattsukero"
-    },
-    {
-      "site": "anisearch",
-      "id": "10200"
-    },
-    {
-      "site": "anisearch",
-      "id": "11284"
-    },
-    {
-      "site": "anisearch",
-      "id": "12023"
-    },
-    {
-      "site": "anisearch",
-      "id": "12255"
-    },
-    {
-      "site": "anisearch",
-      "id": "13190"
-    },
-    {
-      "site": "anisearch",
-      "id": "14159"
-    },
-    {
-      "site": "anisearch",
-      "id": "14377"
-    },
-    {
-      "site": "anisearch",
-      "id": "15028"
-    },
-    {
-      "site": "anisearch",
-      "id": "17311"
-    },
-    {
-      "site": "anisearch",
-      "id": "18079"
-    },
-    {
-      "site": "anisearch",
-      "id": "4235"
-    },
-    {
-      "site": "anisearch",
-      "id": "4788"
-    },
-    {
-      "site": "anisearch",
-      "id": "5019"
-    },
-    {
-      "site": "anisearch",
-      "id": "5321"
-    },
-    {
-      "site": "anisearch",
-      "id": "5322"
-    },
-    {
-      "site": "anisearch",
-      "id": "5323"
-    },
-    {
-      "site": "anisearch",
-      "id": "5324"
-    },
-    {
-      "site": "anisearch",
-      "id": "5327"
-    },
-    {
-      "site": "anisearch",
-      "id": "5328"
-    },
-    {
-      "site": "anisearch",
-      "id": "5329"
-    },
-    {
-      "site": "anisearch",
-      "id": "5331"
-    },
-    {
-      "site": "anisearch",
-      "id": "5332"
-    },
-    {
-      "site": "anisearch",
-      "id": "5333"
-    },
-    {
-      "site": "anisearch",
-      "id": "5334"
-    },
-    {
-      "site": "anisearch",
-      "id": "5335"
-    },
-    {
-      "site": "anisearch",
-      "id": "5336"
-    },
-    {
-      "site": "anisearch",
-      "id": "5337"
-    },
-    {
-      "site": "anisearch",
-      "id": "5502"
-    },
-    {
-      "site": "anisearch",
-      "id": "6222"
-    },
-    {
-      "site": "anisearch",
-      "id": "6246"
-    },
-    {
-      "site": "anisearch",
-      "id": "6247"
-    },
-    {
-      "site": "anisearch",
-      "id": "6248"
-    },
-    {
-      "site": "anisearch",
-      "id": "6249"
-    },
-    {
-      "site": "anisearch",
-      "id": "6365"
-    },
-    {
-      "site": "anisearch",
-      "id": "6378"
-    },
-    {
-      "site": "anisearch",
-      "id": "6956"
-    },
-    {
-      "site": "anisearch",
-      "id": "7638"
-    },
-    {
-      "site": "anisearch",
-      "id": "8266"
-    },
-    {
-      "site": "anisearch",
-      "id": "8459"
-    },
-    {
-      "site": "anisearch",
-      "id": "8845"
-    },
-    {
-      "site": "anisearch",
-      "id": "8872"
-    },
-    {
-      "site": "anisearch",
-      "id": "9060"
-    },
-    {
-      "site": "anisearch",
-      "id": "9581"
-    },
-    {
-      "site": "kitsu",
-      "id": "5572"
-    },
-    {
-      "site": "kitsu",
-      "id": "5738"
-    },
-    {
-      "site": "kitsu",
-      "id": "5740"
-    },
-    {
-      "site": "kitsu",
-      "id": "6013"
-    },
-    {
-      "site": "kitsu",
-      "id": "6014"
-    },
-    {
-      "site": "kitsu",
-      "id": "6015"
-    },
-    {
-      "site": "kitsu",
-      "id": "6016"
-    },
-    {
-      "site": "kitsu",
-      "id": "6017"
-    },
-    {
-      "site": "kitsu",
-      "id": "6018"
-    },
-    {
-      "site": "kitsu",
-      "id": "6290"
-    },
-    {
-      "site": "livechart",
-      "id": "11397"
-    },
-    {
-      "site": "livechart",
-      "id": "11398"
-    },
-    {
-      "site": "livechart",
-      "id": "11405"
-    },
-    {
-      "site": "livechart",
-      "id": "11407"
-    },
-    {
-      "site": "livechart",
-      "id": "11408"
-    },
-    {
-      "site": "livechart",
-      "id": "11417"
-    },
-    {
-      "site": "livechart",
-      "id": "11421"
-    },
-    {
-      "site": "livechart",
-      "id": "11426"
-    },
-    {
-      "site": "livechart",
-      "id": "11427"
-    },
-    {
-      "site": "livechart",
-      "id": "11430"
-    },
-    {
-      "site": "livechart",
-      "id": "11433"
-    },
-    {
-      "site": "livechart",
-      "id": "11438"
-    },
-    {
-      "site": "livechart",
-      "id": "11443"
-    },
-    {
-      "site": "livechart",
-      "id": "11444"
-    },
-    {
-      "site": "livechart",
-      "id": "7249"
-    },
-    {
-      "site": "myanimelist",
-      "id": "10056"
-    },
-    {
-      "site": "myanimelist",
-      "id": "10057"
-    },
-    {
-      "site": "myanimelist",
-      "id": "10058"
-    },
-    {
-      "site": "myanimelist",
-      "id": "10059"
-    },
-    {
-      "site": "myanimelist",
-      "id": "10060"
-    },
-    {
-      "site": "myanimelist",
-      "id": "10061"
-    },
-    {
-      "site": "myanimelist",
-      "id": "10684"
-    },
-    {
-      "site": "myanimelist",
-      "id": "10685"
-    },
-    {
-      "site": "myanimelist",
-      "id": "11791"
-    },
-    {
-      "site": "myanimelist",
-      "id": "14381"
-    },
-    {
-      "site": "myanimelist",
-      "id": "16988"
-    },
-    {
-      "site": "myanimelist",
-      "id": "17004"
-    },
-    {
-      "site": "myanimelist",
-      "id": "17006"
-    },
-    {
-      "site": "myanimelist",
-      "id": "17213"
-    },
-    {
-      "site": "myanimelist",
-      "id": "17215"
-    },
-    {
-      "site": "myanimelist",
-      "id": "17219"
-    },
-    {
-      "site": "myanimelist",
-      "id": "18355"
-    },
-    {
-      "site": "myanimelist",
-      "id": "18357"
-    },
-    {
-      "site": "myanimelist",
-      "id": "18591"
-    },
-    {
-      "site": "myanimelist",
-      "id": "19433"
-    },
-    {
-      "site": "myanimelist",
-      "id": "19557"
-    },
-    {
-      "site": "myanimelist",
-      "id": "20113"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21291"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21293"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21295"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21297"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21933"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21935"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21937"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21941"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21943"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21945"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21947"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21951"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21953"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21955"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21957"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21959"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21961"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21963"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21967"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21969"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21971"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21973"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21975"
-    },
-    {
-      "site": "myanimelist",
-      "id": "22035"
-    },
-    {
-      "site": "myanimelist",
-      "id": "23617"
-    },
-    {
-      "site": "myanimelist",
-      "id": "27371"
-    },
-    {
-      "site": "myanimelist",
-      "id": "27373"
-    },
-    {
-      "site": "myanimelist",
-      "id": "27491"
-    },
-    {
-      "site": "myanimelist",
-      "id": "27493"
-    },
-    {
-      "site": "myanimelist",
-      "id": "27495"
-    },
-    {
-      "site": "myanimelist",
-      "id": "27497"
-    },
-    {
-      "site": "myanimelist",
-      "id": "27569"
-    },
-    {
-      "site": "myanimelist",
-      "id": "27571"
-    },
-    {
-      "site": "myanimelist",
-      "id": "27683"
-    },
-    {
-      "site": "myanimelist",
-      "id": "32676"
-    },
-    {
-      "site": "myanimelist",
-      "id": "39002"
-    },
-    {
-      "site": "myanimelist",
-      "id": "39109"
-    },
-    {
-      "site": "myanimelist",
-      "id": "39827"
-    },
-    {
-      "site": "myanimelist",
-      "id": "41028"
-    },
-    {
-      "site": "myanimelist",
-      "id": "49391"
-    },
-    {
-      "site": "myanimelist",
-      "id": "52452"
-    },
-    {
-      "site": "myanimelist",
-      "id": "52473"
-    },
-    {
-      "site": "myanimelist",
-      "id": "53942"
-    },
-    {
-      "site": "myanimelist",
-      "id": "53943"
-    },
-    {
-      "site": "myanimelist",
-      "id": "53944"
-    },
-    {
-      "site": "myanimelist",
-      "id": "53945"
-    },
-    {
-      "site": "myanimelist",
-      "id": "53948"
-    },
-    {
-      "site": "myanimelist",
-      "id": "54135"
-    },
-    {
-      "site": "myanimelist",
-      "id": "55516"
-    },
-    {
-      "site": "myanimelist",
-      "id": "9007"
-    },
-    {
-      "site": "myanimelist",
-      "id": "9446"
-    },
-    {
-      "site": "myanimelist",
-      "id": "9451"
-    },
-    {
-      "site": "notify",
-      "id": "164YpFmmg"
-    },
-    {
-      "site": "notify",
-      "id": "1G4YpFmmg"
-    },
-    {
-      "site": "notify",
-      "id": "1iz-pKmiR"
-    },
-    {
-      "site": "notify",
-      "id": "20HYtKimg"
-    },
-    {
-      "site": "notify",
-      "id": "3-05tKiig"
-    },
-    {
-      "site": "notify",
-      "id": "4N4LtFmmR"
-    },
-    {
-      "site": "notify",
-      "id": "4Q7LtKiig"
-    },
-    {
-      "site": "notify",
-      "id": "4wmMtKmmR"
-    },
-    {
-      "site": "notify",
-      "id": "5rH7tFiiR"
-    },
-    {
-      "site": "notify",
-      "id": "73R-pKmmg"
-    },
-    {
-      "site": "notify",
-      "id": "8g4LtKmiR"
-    },
-    {
-      "site": "notify",
-      "id": "9y4YpFiig"
-    },
-    {
-      "site": "notify",
-      "id": "A1k-tFmig"
-    },
-    {
-      "site": "notify",
-      "id": "C5SLtFiiR"
-    },
-    {
-      "site": "notify",
-      "id": "DkZMpFimg"
-    },
-    {
-      "site": "notify",
-      "id": "Dm7LpFiig"
-    },
-    {
-      "site": "notify",
-      "id": "Du05tFmiR"
-    },
-    {
-      "site": "notify",
-      "id": "HAVYtKmmR"
-    },
-    {
-      "site": "notify",
-      "id": "IRqItKmig"
-    },
-    {
-      "site": "notify",
-      "id": "KZa-tFmiR"
-    },
-    {
-      "site": "notify",
-      "id": "LNNYtKmmR"
-    },
-    {
-      "site": "notify",
-      "id": "Lo0ctKimR"
-    },
-    {
-      "site": "notify",
-      "id": "N1A4pFimR"
-    },
-    {
-      "site": "notify",
-      "id": "OBNLpFmig"
-    },
-    {
-      "site": "notify",
-      "id": "OY7YpKimR"
-    },
-    {
-      "site": "notify",
-      "id": "R27YtFmmg"
-    },
-    {
-      "site": "notify",
-      "id": "RjnLtFmmR"
-    },
-    {
-      "site": "notify",
-      "id": "UID7tKmiR"
-    },
-    {
-      "site": "notify",
-      "id": "UnFcpKiig"
-    },
-    {
-      "site": "notify",
-      "id": "UytZtFiig"
-    },
-    {
-      "site": "notify",
-      "id": "Vf4LtFimR"
-    },
-    {
-      "site": "notify",
-      "id": "Y8NntKimg"
-    },
-    {
-      "site": "notify",
-      "id": "YpzapFiig"
-    },
-    {
-      "site": "notify",
-      "id": "Yv7LpFiiR"
-    },
-    {
-      "site": "notify",
-      "id": "YwO5pKmiR"
-    },
-    {
-      "site": "notify",
-      "id": "ZOz-pKiig"
-    },
-    {
-      "site": "notify",
-      "id": "bASYtFiiR"
-    },
-    {
-      "site": "notify",
-      "id": "bZSLtKimg"
-    },
-    {
-      "site": "notify",
-      "id": "fCug2Fmig"
-    },
-    {
-      "site": "notify",
-      "id": "ft0VtKmiR"
-    },
-    {
-      "site": "notify",
-      "id": "fu4LtKmiR"
-    },
-    {
-      "site": "notify",
-      "id": "g47LpFimg"
-    },
-    {
-      "site": "notify",
-      "id": "gQILtKmiR"
-    },
-    {
-      "site": "notify",
-      "id": "grYAwm0MR"
-    },
-    {
-      "site": "notify",
-      "id": "h4zapKmiR"
-    },
-    {
-      "site": "notify",
-      "id": "h_R-pKmmg"
-    },
-    {
-      "site": "notify",
-      "id": "iUVOtKmig"
-    },
-    {
-      "site": "notify",
-      "id": "izNYpKmiR"
-    },
-    {
-      "site": "notify",
-      "id": "jK4LpKimR"
-    },
-    {
-      "site": "notify",
-      "id": "jfNntKimR"
-    },
-    {
-      "site": "notify",
-      "id": "kag-pKmig"
-    },
-    {
-      "site": "notify",
-      "id": "pCSYpKmmR"
-    },
-    {
-      "site": "notify",
-      "id": "pSSYtFmmg"
-    },
-    {
-      "site": "notify",
-      "id": "pcHLtFiig"
-    },
-    {
-      "site": "notify",
-      "id": "qGHLtFmmR"
-    },
-    {
-      "site": "notify",
-      "id": "tU_AtFmiR"
-    },
-    {
-      "site": "notify",
-      "id": "uXHYpFiiR"
-    },
-    {
-      "site": "notify",
-      "id": "uZDnpKmig"
-    },
-    {
-      "site": "notify",
-      "id": "vfSYpKiig"
-    },
-    {
-      "site": "notify",
-      "id": "xvFcpFmiR"
-    },
-    {
-      "site": "notify",
-      "id": "zRv7pKmmR"
-    },
-    {
-      "site": "notify",
-      "id": "zUHYtKimg"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 1988,
-    "month": "10"
+  {
+    "title": "新グリム名作劇場",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新格林名作剧场"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.nippon-animation.co.jp/work/1550/",
+    "begin": "1988-10-02T22:30:00.000Z",
+    "end": "1989-03-26T23:00:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrk35gjh",
+        "begin": "2015-01-09T07:11:23.000Z"
+      },
+      {
+        "site": "letv",
+        "id": "78829",
+        "begin": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "56113",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "81531"
+      },
+      {
+        "site": "anidb",
+        "id": "947"
+      },
+      {
+        "site": "anilist",
+        "id": "4060"
+      },
+      {
+        "site": "anisearch",
+        "id": "3494"
+      },
+      {
+        "site": "kitsu",
+        "id": "8210"
+      },
+      {
+        "site": "livechart",
+        "id": "6884"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4060"
+      },
+      {
+        "site": "notify",
+        "id": "thcTtFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1988,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 23,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/44608.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/44608t.jpg",
+    "synonyms": [
+      "(2) אגדות האחים גרים",
+      "Grimm Masterpiece Theater II",
+      "Grimm legszebb meséi (2)",
+      "Grimm's Fairy Tale Classics",
+      "Grimm's Fairy Tales II",
+      "Grimm`s Fairy Tale Classics (2)",
+      "Grimm`s Fairy Tales II",
+      "Grimms Märchen (2)",
+      "Grimms Märchen (2. Staffel)",
+      "Grimm’s Fairy Tale Classics (2)",
+      "Grimm’s Fairy Tales II",
+      "Le fiabe son fantasia",
+      "Los cuentos de los hermanos Grimm",
+      "New Grimm Masterpiece Playhouse",
+      "New Grimm Masterpiece Theater",
+      "New Grimm Masterpiece Theatre",
+      "Novas Histórias GRIMM Encantar",
+      "Os Teus Contos Clássicos - 2ª Parte",
+      "Pohádky bratří Grimmů (2)",
+      "Raconte-moi une histoire (2)",
+      "Raconte-moi une histoire (suite)",
+      "Shin Grimm Meisaku Gekijō",
+      "Shin Gurimu Meisaku Gekijou",
+      "Новый театр шедевров братьев Гримм",
+      "Приказките на братя Грим",
+      "しんぐりむめいさくげきじょう",
+      "新グリム名作劇場"
+    ]
   },
-  "status": "ONGOING",
-  "episodes": 1647,
-  "picture": "https://cdn.myanimelist.net/images/anime/1902/111797.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1902/111797t.jpg",
-  "synonyms": [
-    "Anpanman TV",
-    "Go for It! Anpanman",
-    "Go! Anpanman",
-    "Soreike! Anpanman",
-    "Ο Ψωμάνθρωπος",
-    "الرغيف العجيب",
-    "それいけ! アンパンマン",
-    "それいけ!アンパンマン",
-    "それいけ！アンパンマン",
-    "面包超人"
-  ]
-}
+  {
+    "title": "美味しんぼ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "美味大挑战"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-10-17T16:00:00.000Z",
+    "end": "1992-03-17T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "198025"
+      },
+      {
+        "site": "anidb",
+        "id": "4817"
+      },
+      {
+        "site": "anilist",
+        "id": "8848"
+      },
+      {
+        "site": "anime-planet",
+        "id": "oishinbo-kyuukyoku-tai-shikou-chouju-ryouri-taiketsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "oishinbo-nichibei-kome-sensou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "oishinbo-pilot"
+      },
+      {
+        "site": "anisearch",
+        "id": "17704"
+      },
+      {
+        "site": "anisearch",
+        "id": "4939"
+      },
+      {
+        "site": "kitsu",
+        "id": "45371"
+      },
+      {
+        "site": "kitsu",
+        "id": "5509"
+      },
+      {
+        "site": "livechart",
+        "id": "11250"
+      },
+      {
+        "site": "livechart",
+        "id": "7705"
+      },
+      {
+        "site": "livechart",
+        "id": "7903"
+      },
+      {
+        "site": "myanimelist",
+        "id": "49450"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8848"
+      },
+      {
+        "site": "notify",
+        "id": "NPMWpKiig"
+      },
+      {
+        "site": "notify",
+        "id": "jbv-0Rt7R"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1988,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 136,
+    "picture": "https://cdn.myanimelist.net/images/anime/1681/109663.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1681/109663t.jpg",
+    "synonyms": [
+      "Skanautojas",
+      "The Gourmet",
+      "おいしんぼ",
+      "美味しんぼ"
+    ]
+  },
+  {
+    "title": "トップをねらえ!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "飞跃巅峰！"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.gainax.co.jp/anime/top/index.html",
+    "begin": "1988-10-07T16:00:00.000Z",
+    "end": "1989-07-07T15:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "RYeBic2fNPXveXMQ",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "769"
+      },
+      {
+        "site": "anidb",
+        "id": "2120"
+      },
+      {
+        "site": "anidb",
+        "id": "4526"
+      },
+      {
+        "site": "anilist",
+        "id": "1002"
+      },
+      {
+        "site": "anilist",
+        "id": "1911"
+      },
+      {
+        "site": "anilist",
+        "id": "5462"
+      },
+      {
+        "site": "anilist",
+        "id": "7248"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gunbuster-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gunbuster-2-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gunbuster-2-science-lessons"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gunbuster-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gunbuster-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gunbuster-renewal-ex"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gunbuster-science-lessons"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gunbuster-science-lessons-return"
+      },
+      {
+        "site": "anisearch",
+        "id": "2008"
+      },
+      {
+        "site": "anisearch",
+        "id": "4025"
+      },
+      {
+        "site": "anisearch",
+        "id": "7868"
+      },
+      {
+        "site": "kitsu",
+        "id": "1721"
+      },
+      {
+        "site": "kitsu",
+        "id": "4108"
+      },
+      {
+        "site": "kitsu",
+        "id": "4911"
+      },
+      {
+        "site": "kitsu",
+        "id": "8893"
+      },
+      {
+        "site": "kitsu",
+        "id": "892"
+      },
+      {
+        "site": "livechart",
+        "id": "3501"
+      },
+      {
+        "site": "livechart",
+        "id": "4454"
+      },
+      {
+        "site": "livechart",
+        "id": "5944"
+      },
+      {
+        "site": "livechart",
+        "id": "6507"
+      },
+      {
+        "site": "livechart",
+        "id": "7116"
+      },
+      {
+        "site": "livechart",
+        "id": "7456"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1002"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1911"
+      },
+      {
+        "site": "myanimelist",
+        "id": "24123"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5462"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7248"
+      },
+      {
+        "site": "notify",
+        "id": "9J2C5Fiig"
+      },
+      {
+        "site": "notify",
+        "id": "bxtxpFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "dHeBcFiig"
+      },
+      {
+        "site": "notify",
+        "id": "g1LRpKiig"
+      },
+      {
+        "site": "notify",
+        "id": "oYhJcFmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1988,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/1303/92309.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1303/92309t.jpg",
+    "synonyms": [
+      "Aim for the Top!",
+      "Aim for the top!",
+      "Gunbuster",
+      "Punta al Top! - Gunbuster",
+      "Punta al Top! GunBuster",
+      "Punta al Top! Gunbuster",
+      "Top o Nerae",
+      "Top o Nerae!",
+      "Top wo Nerae",
+      "Top wo Nerae!",
+      "Top wo Nerae! GunBuster",
+      "Toppu o Nerae",
+      "Zirveyi Hedefle! Avcı Silah",
+      "gunbuster 1",
+      "top1",
+      "Дотянись до Неба",
+      "กันบัสเตอร์",
+      "トップをねらえ!",
+      "トップをねらえ! GunBuster",
+      "トップをねらえ！",
+      "トップをねらえ！ GunBuster",
+      "톱을 노려라! 건버스터"
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "面包超人"
+      ],
+      "zh-Hant": [
+        "麵包超人"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.ntv.co.jp/anpanman/",
+    "begin": "1988-10-03T08:00:00.000Z",
+    "broadcast": "R/2016-04-01T01:55:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "81562"
+      },
+      {
+        "site": "gamer",
+        "id": "20950",
+        "begin": "2021-08-06T06:00:00.000Z",
+        "broadcast": "R/2021-08-06T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "10581"
+      },
+      {
+        "site": "anidb",
+        "id": "11063"
+      },
+      {
+        "site": "anidb",
+        "id": "11612"
+      },
+      {
+        "site": "anidb",
+        "id": "11613"
+      },
+      {
+        "site": "anidb",
+        "id": "11919"
+      },
+      {
+        "site": "anidb",
+        "id": "12793"
+      },
+      {
+        "site": "anidb",
+        "id": "13714"
+      },
+      {
+        "site": "anidb",
+        "id": "14595"
+      },
+      {
+        "site": "anidb",
+        "id": "15352"
+      },
+      {
+        "site": "anidb",
+        "id": "17121"
+      },
+      {
+        "site": "anidb",
+        "id": "17810"
+      },
+      {
+        "site": "anidb",
+        "id": "5812"
+      },
+      {
+        "site": "anidb",
+        "id": "6078"
+      },
+      {
+        "site": "anidb",
+        "id": "6079"
+      },
+      {
+        "site": "anidb",
+        "id": "7392"
+      },
+      {
+        "site": "anidb",
+        "id": "7396"
+      },
+      {
+        "site": "anidb",
+        "id": "7397"
+      },
+      {
+        "site": "anidb",
+        "id": "7497"
+      },
+      {
+        "site": "anidb",
+        "id": "7547"
+      },
+      {
+        "site": "anidb",
+        "id": "7548"
+      },
+      {
+        "site": "anidb",
+        "id": "7549"
+      },
+      {
+        "site": "anidb",
+        "id": "7550"
+      },
+      {
+        "site": "anidb",
+        "id": "7551"
+      },
+      {
+        "site": "anidb",
+        "id": "7552"
+      },
+      {
+        "site": "anidb",
+        "id": "7553"
+      },
+      {
+        "site": "anidb",
+        "id": "7554"
+      },
+      {
+        "site": "anidb",
+        "id": "7555"
+      },
+      {
+        "site": "anidb",
+        "id": "7556"
+      },
+      {
+        "site": "anidb",
+        "id": "7557"
+      },
+      {
+        "site": "anidb",
+        "id": "7558"
+      },
+      {
+        "site": "anidb",
+        "id": "7559"
+      },
+      {
+        "site": "anidb",
+        "id": "7560"
+      },
+      {
+        "site": "anidb",
+        "id": "7561"
+      },
+      {
+        "site": "anidb",
+        "id": "7562"
+      },
+      {
+        "site": "anidb",
+        "id": "7737"
+      },
+      {
+        "site": "anidb",
+        "id": "7740"
+      },
+      {
+        "site": "anidb",
+        "id": "7741"
+      },
+      {
+        "site": "anidb",
+        "id": "7742"
+      },
+      {
+        "site": "anidb",
+        "id": "7743"
+      },
+      {
+        "site": "anidb",
+        "id": "7744"
+      },
+      {
+        "site": "anidb",
+        "id": "7746"
+      },
+      {
+        "site": "anidb",
+        "id": "7747"
+      },
+      {
+        "site": "anidb",
+        "id": "7748"
+      },
+      {
+        "site": "anidb",
+        "id": "7749"
+      },
+      {
+        "site": "anidb",
+        "id": "7750"
+      },
+      {
+        "site": "anidb",
+        "id": "7751"
+      },
+      {
+        "site": "anidb",
+        "id": "7752"
+      },
+      {
+        "site": "anidb",
+        "id": "7753"
+      },
+      {
+        "site": "anidb",
+        "id": "7754"
+      },
+      {
+        "site": "anidb",
+        "id": "7755"
+      },
+      {
+        "site": "anidb",
+        "id": "7757"
+      },
+      {
+        "site": "anidb",
+        "id": "7758"
+      },
+      {
+        "site": "anidb",
+        "id": "7760"
+      },
+      {
+        "site": "anidb",
+        "id": "8329"
+      },
+      {
+        "site": "anidb",
+        "id": "8330"
+      },
+      {
+        "site": "anidb",
+        "id": "9014"
+      },
+      {
+        "site": "anidb",
+        "id": "9498"
+      },
+      {
+        "site": "anidb",
+        "id": "9694"
+      },
+      {
+        "site": "anidb",
+        "id": "9769"
+      },
+      {
+        "site": "anidb",
+        "id": "9791"
+      },
+      {
+        "site": "anidb",
+        "id": "9792"
+      },
+      {
+        "site": "anidb",
+        "id": "9938"
+      },
+      {
+        "site": "anilist",
+        "id": "10056"
+      },
+      {
+        "site": "anilist",
+        "id": "10057"
+      },
+      {
+        "site": "anilist",
+        "id": "10058"
+      },
+      {
+        "site": "anilist",
+        "id": "10059"
+      },
+      {
+        "site": "anilist",
+        "id": "10060"
+      },
+      {
+        "site": "anilist",
+        "id": "10061"
+      },
+      {
+        "site": "anilist",
+        "id": "10684"
+      },
+      {
+        "site": "anilist",
+        "id": "10685"
+      },
+      {
+        "site": "anilist",
+        "id": "112006"
+      },
+      {
+        "site": "anilist",
+        "id": "115895"
+      },
+      {
+        "site": "anilist",
+        "id": "116039"
+      },
+      {
+        "site": "anilist",
+        "id": "116045"
+      },
+      {
+        "site": "anilist",
+        "id": "11791"
+      },
+      {
+        "site": "anilist",
+        "id": "119784"
+      },
+      {
+        "site": "anilist",
+        "id": "119836"
+      },
+      {
+        "site": "anilist",
+        "id": "121822"
+      },
+      {
+        "site": "anilist",
+        "id": "121823"
+      },
+      {
+        "site": "anilist",
+        "id": "121825"
+      },
+      {
+        "site": "anilist",
+        "id": "121826"
+      },
+      {
+        "site": "anilist",
+        "id": "121828"
+      },
+      {
+        "site": "anilist",
+        "id": "121829"
+      },
+      {
+        "site": "anilist",
+        "id": "121830"
+      },
+      {
+        "site": "anilist",
+        "id": "121832"
+      },
+      {
+        "site": "anilist",
+        "id": "121833"
+      },
+      {
+        "site": "anilist",
+        "id": "121835"
+      },
+      {
+        "site": "anilist",
+        "id": "121837"
+      },
+      {
+        "site": "anilist",
+        "id": "121838"
+      },
+      {
+        "site": "anilist",
+        "id": "121840"
+      },
+      {
+        "site": "anilist",
+        "id": "140307"
+      },
+      {
+        "site": "anilist",
+        "id": "141057"
+      },
+      {
+        "site": "anilist",
+        "id": "143548"
+      },
+      {
+        "site": "anilist",
+        "id": "14381"
+      },
+      {
+        "site": "anilist",
+        "id": "145475"
+      },
+      {
+        "site": "anilist",
+        "id": "145477"
+      },
+      {
+        "site": "anilist",
+        "id": "145479"
+      },
+      {
+        "site": "anilist",
+        "id": "145481"
+      },
+      {
+        "site": "anilist",
+        "id": "148664"
+      },
+      {
+        "site": "anilist",
+        "id": "160856"
+      },
+      {
+        "site": "anilist",
+        "id": "16988"
+      },
+      {
+        "site": "anilist",
+        "id": "17004"
+      },
+      {
+        "site": "anilist",
+        "id": "17006"
+      },
+      {
+        "site": "anilist",
+        "id": "17213"
+      },
+      {
+        "site": "anilist",
+        "id": "17215"
+      },
+      {
+        "site": "anilist",
+        "id": "17219"
+      },
+      {
+        "site": "anilist",
+        "id": "18355"
+      },
+      {
+        "site": "anilist",
+        "id": "18357"
+      },
+      {
+        "site": "anilist",
+        "id": "18591"
+      },
+      {
+        "site": "anilist",
+        "id": "19433"
+      },
+      {
+        "site": "anilist",
+        "id": "9007"
+      },
+      {
+        "site": "anilist",
+        "id": "9446"
+      },
+      {
+        "site": "anilist",
+        "id": "9451"
+      },
+      {
+        "site": "anime-planet",
+        "id": "anpanman-to-hajimeyou-iro-kazu-katachi-wakaru-ka-na-iro-katachi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-12-seiza-wo-sukui-dase"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-anpanman-no-jin-jin-jingle-bells"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-anpanman-to-christmas-no-hoshi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-anpanman-to-happy-otanjoubi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-anpanman-to-okashi-na-nakama"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-anpanman-to-oyakusoku"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-anpanman-to-tanoshii-nakama-tachi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-anpanman-to-yukai-na-nakama-tachi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-baikinman-no-gyakushuu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-baikinman-vs-baikinman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-black-nose-to-mahou-no-uta"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-buruburu-no-takarasagashi-daibouken"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-chibi-ookami-to-tsuki-no-fushigi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-dadandan-to-futago-no-hoshi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-dokin-chan-no-dokidoki-calendar"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-dororin-to-bakeru-carnival"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-fuwafuwa-fuwari-to-kumo-no-kuni"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-gomira-no-hoshi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-happy-no-daibouken"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-hashire-wakuwaku-anpanman-grand-prix"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-hiya-hiya-hiyariko-to-bafu-bafu-baikinman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-horrorman-to-hora-horako"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-hoshi-no-iro-to-sora-no-iro"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-hoshizora-wo-kaese"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-kagayake-kurun-to-inochi-no-hoshi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-kieta-jam-ojisan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-kirakira-boshi-no-namida"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-kirameke-ice-no-kuni-no-vanilla-hime"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-kokin-chan-to-aoi-namida"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-kuroyuki-hime-to-motemote-baikinman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-kyouryuu-nosshii-no-daibouken"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-lyrical-magical-mahou-no-gakkou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-mija-to-mahou-no-lamp"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-minami-no-umi-wo-sukue"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-minna-atsumare-anpanman-world"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-minna-de-teasobi-anpanman-to-itazura-obake"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-omocha-no-hoshi-no-nanda-to-runda"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-omusubiman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-otanjoubi-series"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-rhythm-de-teasobi-anpanman-to-fushigi-na-parasol"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-rhythm-de-utaou-anpanman-natsumatsuri"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-ringo-bouya-to-minna-no-negai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-roll-to-laura-ukigumojou-no-himitsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-shabondama-no-purun"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-sl-man-to-hoshi-wo-utsusou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-soratobu-ehon-to-glass-no-kutsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-sukue-kokorin-to-kiseki-no-hoshi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-tanoshikute-asobi-mama-ni-natta-kokin-chan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-tobase-kibou-no-handkerchief"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-tobe-tobe-chibigon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-tsumiki-shiro-no-himitsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-utatte-teasobi-anpanman-to-mori-no-takara"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-yomigaere-bananajima"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-yousei-rinrin-no-himitsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-yumeneko-no-kuni-no-nyanii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-yuuki-no-hana-ga-hiraku-toki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-yuuki-to-honoo-to-christmas"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sore-ike-anpanman-yuureisen-wo-yattsukero"
+      },
+      {
+        "site": "anisearch",
+        "id": "10200"
+      },
+      {
+        "site": "anisearch",
+        "id": "11284"
+      },
+      {
+        "site": "anisearch",
+        "id": "12023"
+      },
+      {
+        "site": "anisearch",
+        "id": "12255"
+      },
+      {
+        "site": "anisearch",
+        "id": "13190"
+      },
+      {
+        "site": "anisearch",
+        "id": "14159"
+      },
+      {
+        "site": "anisearch",
+        "id": "14377"
+      },
+      {
+        "site": "anisearch",
+        "id": "15028"
+      },
+      {
+        "site": "anisearch",
+        "id": "17311"
+      },
+      {
+        "site": "anisearch",
+        "id": "18079"
+      },
+      {
+        "site": "anisearch",
+        "id": "4235"
+      },
+      {
+        "site": "anisearch",
+        "id": "4788"
+      },
+      {
+        "site": "anisearch",
+        "id": "5019"
+      },
+      {
+        "site": "anisearch",
+        "id": "5321"
+      },
+      {
+        "site": "anisearch",
+        "id": "5322"
+      },
+      {
+        "site": "anisearch",
+        "id": "5323"
+      },
+      {
+        "site": "anisearch",
+        "id": "5324"
+      },
+      {
+        "site": "anisearch",
+        "id": "5327"
+      },
+      {
+        "site": "anisearch",
+        "id": "5328"
+      },
+      {
+        "site": "anisearch",
+        "id": "5329"
+      },
+      {
+        "site": "anisearch",
+        "id": "5331"
+      },
+      {
+        "site": "anisearch",
+        "id": "5332"
+      },
+      {
+        "site": "anisearch",
+        "id": "5333"
+      },
+      {
+        "site": "anisearch",
+        "id": "5334"
+      },
+      {
+        "site": "anisearch",
+        "id": "5335"
+      },
+      {
+        "site": "anisearch",
+        "id": "5336"
+      },
+      {
+        "site": "anisearch",
+        "id": "5337"
+      },
+      {
+        "site": "anisearch",
+        "id": "5502"
+      },
+      {
+        "site": "anisearch",
+        "id": "6222"
+      },
+      {
+        "site": "anisearch",
+        "id": "6246"
+      },
+      {
+        "site": "anisearch",
+        "id": "6247"
+      },
+      {
+        "site": "anisearch",
+        "id": "6248"
+      },
+      {
+        "site": "anisearch",
+        "id": "6249"
+      },
+      {
+        "site": "anisearch",
+        "id": "6365"
+      },
+      {
+        "site": "anisearch",
+        "id": "6378"
+      },
+      {
+        "site": "anisearch",
+        "id": "6956"
+      },
+      {
+        "site": "anisearch",
+        "id": "7638"
+      },
+      {
+        "site": "anisearch",
+        "id": "8266"
+      },
+      {
+        "site": "anisearch",
+        "id": "8459"
+      },
+      {
+        "site": "anisearch",
+        "id": "8845"
+      },
+      {
+        "site": "anisearch",
+        "id": "8872"
+      },
+      {
+        "site": "anisearch",
+        "id": "9060"
+      },
+      {
+        "site": "anisearch",
+        "id": "9581"
+      },
+      {
+        "site": "kitsu",
+        "id": "5572"
+      },
+      {
+        "site": "kitsu",
+        "id": "5738"
+      },
+      {
+        "site": "kitsu",
+        "id": "5740"
+      },
+      {
+        "site": "kitsu",
+        "id": "6013"
+      },
+      {
+        "site": "kitsu",
+        "id": "6014"
+      },
+      {
+        "site": "kitsu",
+        "id": "6015"
+      },
+      {
+        "site": "kitsu",
+        "id": "6016"
+      },
+      {
+        "site": "kitsu",
+        "id": "6017"
+      },
+      {
+        "site": "kitsu",
+        "id": "6018"
+      },
+      {
+        "site": "kitsu",
+        "id": "6290"
+      },
+      {
+        "site": "livechart",
+        "id": "11397"
+      },
+      {
+        "site": "livechart",
+        "id": "11398"
+      },
+      {
+        "site": "livechart",
+        "id": "11405"
+      },
+      {
+        "site": "livechart",
+        "id": "11407"
+      },
+      {
+        "site": "livechart",
+        "id": "11408"
+      },
+      {
+        "site": "livechart",
+        "id": "11417"
+      },
+      {
+        "site": "livechart",
+        "id": "11421"
+      },
+      {
+        "site": "livechart",
+        "id": "11426"
+      },
+      {
+        "site": "livechart",
+        "id": "11427"
+      },
+      {
+        "site": "livechart",
+        "id": "11430"
+      },
+      {
+        "site": "livechart",
+        "id": "11433"
+      },
+      {
+        "site": "livechart",
+        "id": "11438"
+      },
+      {
+        "site": "livechart",
+        "id": "11443"
+      },
+      {
+        "site": "livechart",
+        "id": "11444"
+      },
+      {
+        "site": "livechart",
+        "id": "7249"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10056"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10057"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10058"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10059"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10060"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10061"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10684"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10685"
+      },
+      {
+        "site": "myanimelist",
+        "id": "11791"
+      },
+      {
+        "site": "myanimelist",
+        "id": "14381"
+      },
+      {
+        "site": "myanimelist",
+        "id": "16988"
+      },
+      {
+        "site": "myanimelist",
+        "id": "17004"
+      },
+      {
+        "site": "myanimelist",
+        "id": "17006"
+      },
+      {
+        "site": "myanimelist",
+        "id": "17213"
+      },
+      {
+        "site": "myanimelist",
+        "id": "17215"
+      },
+      {
+        "site": "myanimelist",
+        "id": "17219"
+      },
+      {
+        "site": "myanimelist",
+        "id": "18355"
+      },
+      {
+        "site": "myanimelist",
+        "id": "18357"
+      },
+      {
+        "site": "myanimelist",
+        "id": "18591"
+      },
+      {
+        "site": "myanimelist",
+        "id": "19433"
+      },
+      {
+        "site": "myanimelist",
+        "id": "19557"
+      },
+      {
+        "site": "myanimelist",
+        "id": "20113"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21291"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21293"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21295"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21297"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21933"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21935"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21937"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21941"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21943"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21945"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21947"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21951"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21953"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21955"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21957"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21959"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21961"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21963"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21967"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21969"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21971"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21973"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21975"
+      },
+      {
+        "site": "myanimelist",
+        "id": "22035"
+      },
+      {
+        "site": "myanimelist",
+        "id": "23617"
+      },
+      {
+        "site": "myanimelist",
+        "id": "27371"
+      },
+      {
+        "site": "myanimelist",
+        "id": "27373"
+      },
+      {
+        "site": "myanimelist",
+        "id": "27491"
+      },
+      {
+        "site": "myanimelist",
+        "id": "27493"
+      },
+      {
+        "site": "myanimelist",
+        "id": "27495"
+      },
+      {
+        "site": "myanimelist",
+        "id": "27497"
+      },
+      {
+        "site": "myanimelist",
+        "id": "27569"
+      },
+      {
+        "site": "myanimelist",
+        "id": "27571"
+      },
+      {
+        "site": "myanimelist",
+        "id": "27683"
+      },
+      {
+        "site": "myanimelist",
+        "id": "32676"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39002"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39109"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39827"
+      },
+      {
+        "site": "myanimelist",
+        "id": "41028"
+      },
+      {
+        "site": "myanimelist",
+        "id": "49391"
+      },
+      {
+        "site": "myanimelist",
+        "id": "52452"
+      },
+      {
+        "site": "myanimelist",
+        "id": "52473"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53942"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53943"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53944"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53945"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53948"
+      },
+      {
+        "site": "myanimelist",
+        "id": "54135"
+      },
+      {
+        "site": "myanimelist",
+        "id": "55516"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9007"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9446"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9451"
+      },
+      {
+        "site": "notify",
+        "id": "164YpFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "1G4YpFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "1iz-pKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "20HYtKimg"
+      },
+      {
+        "site": "notify",
+        "id": "3-05tKiig"
+      },
+      {
+        "site": "notify",
+        "id": "4N4LtFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "4Q7LtKiig"
+      },
+      {
+        "site": "notify",
+        "id": "4wmMtKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "5rH7tFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "73R-pKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "8g4LtKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "9y4YpFiig"
+      },
+      {
+        "site": "notify",
+        "id": "A1k-tFmig"
+      },
+      {
+        "site": "notify",
+        "id": "C5SLtFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "DkZMpFimg"
+      },
+      {
+        "site": "notify",
+        "id": "Dm7LpFiig"
+      },
+      {
+        "site": "notify",
+        "id": "Du05tFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "HAVYtKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "IRqItKmig"
+      },
+      {
+        "site": "notify",
+        "id": "KZa-tFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "LNNYtKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "Lo0ctKimR"
+      },
+      {
+        "site": "notify",
+        "id": "N1A4pFimR"
+      },
+      {
+        "site": "notify",
+        "id": "OBNLpFmig"
+      },
+      {
+        "site": "notify",
+        "id": "OY7YpKimR"
+      },
+      {
+        "site": "notify",
+        "id": "R27YtFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "RjnLtFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "UID7tKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "UnFcpKiig"
+      },
+      {
+        "site": "notify",
+        "id": "UytZtFiig"
+      },
+      {
+        "site": "notify",
+        "id": "Vf4LtFimR"
+      },
+      {
+        "site": "notify",
+        "id": "Y8NntKimg"
+      },
+      {
+        "site": "notify",
+        "id": "YpzapFiig"
+      },
+      {
+        "site": "notify",
+        "id": "Yv7LpFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "YwO5pKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "ZOz-pKiig"
+      },
+      {
+        "site": "notify",
+        "id": "bASYtFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "bZSLtKimg"
+      },
+      {
+        "site": "notify",
+        "id": "fCug2Fmig"
+      },
+      {
+        "site": "notify",
+        "id": "ft0VtKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "fu4LtKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "g47LpFimg"
+      },
+      {
+        "site": "notify",
+        "id": "gQILtKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "grYAwm0MR"
+      },
+      {
+        "site": "notify",
+        "id": "h4zapKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "h_R-pKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "iUVOtKmig"
+      },
+      {
+        "site": "notify",
+        "id": "izNYpKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "jK4LpKimR"
+      },
+      {
+        "site": "notify",
+        "id": "jfNntKimR"
+      },
+      {
+        "site": "notify",
+        "id": "kag-pKmig"
+      },
+      {
+        "site": "notify",
+        "id": "pCSYpKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "pSSYtFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "pcHLtFiig"
+      },
+      {
+        "site": "notify",
+        "id": "qGHLtFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "tU_AtFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "uXHYpFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "uZDnpKmig"
+      },
+      {
+        "site": "notify",
+        "id": "vfSYpKiig"
+      },
+      {
+        "site": "notify",
+        "id": "xvFcpFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "zRv7pKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "zUHYtKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1988,
+      "month": "10"
+    },
+    "status": "ONGOING",
+    "episodes": 1647,
+    "picture": "https://cdn.myanimelist.net/images/anime/1902/111797.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1902/111797t.jpg",
+    "synonyms": [
+      "Anpanman TV",
+      "Go for It! Anpanman",
+      "Go! Anpanman",
+      "Soreike! Anpanman",
+      "Ο Ψωμάνθρωπος",
+      "الرغيف العجيب",
+      "それいけ! アンパンマン",
+      "それいけ!アンパンマン",
+      "それいけ！アンパンマン",
+      "面包超人"
+    ]
+  }
+]

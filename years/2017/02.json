@@ -1,202 +1,1701 @@
-{
-  "title": "劇場版総集編 オーバーロード 不死者の王",
-  "titleTranslate": {
-    "zh-Hans": [
-      "剧场版总集篇 OVERLORD 不死者之王",
-      "OVERLORD 不死者之王"
+[
+  {
+    "title": "キラキラ☆プリキュアアラモード",
+    "titleTranslate": {
+      "en": [
+        "KIRAKIRA☆PRECURE A LA MODE"
+      ],
+      "zh-Hans": [
+        "KiraKira☆光之美少女 A La Mode",
+        "光之美少女 食尚甜心"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.asahi.co.jp/precure/",
+    "begin": "2017-02-04T23:30:00.000Z",
+    "end": "2018-01-29T00:00:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh91xvd",
+        "begin": "2017-02-05T03:00:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "196053"
+      },
+      {
+        "site": "anidb",
+        "id": "12509"
+      },
+      {
+        "site": "anidb",
+        "id": "13006"
+      },
+      {
+        "site": "anidb",
+        "id": "13715"
+      },
+      {
+        "site": "anidb",
+        "id": "1413"
+      },
+      {
+        "site": "anidb",
+        "id": "14487"
+      },
+      {
+        "site": "anilist",
+        "id": "100661"
+      },
+      {
+        "site": "anilist",
+        "id": "101101"
+      },
+      {
+        "site": "anilist",
+        "id": "101908"
+      },
+      {
+        "site": "anilist",
+        "id": "105857"
+      },
+      {
+        "site": "anilist",
+        "id": "106858"
+      },
+      {
+        "site": "anilist",
+        "id": "112748"
+      },
+      {
+        "site": "anilist",
+        "id": "12191"
+      },
+      {
+        "site": "anilist",
+        "id": "126905"
+      },
+      {
+        "site": "anilist",
+        "id": "142080"
+      },
+      {
+        "site": "anilist",
+        "id": "1534"
+      },
+      {
+        "site": "anilist",
+        "id": "157883"
+      },
+      {
+        "site": "anilist",
+        "id": "159429"
+      },
+      {
+        "site": "anilist",
+        "id": "16419"
+      },
+      {
+        "site": "anilist",
+        "id": "1932"
+      },
+      {
+        "site": "anilist",
+        "id": "20577"
+      },
+      {
+        "site": "anilist",
+        "id": "21001"
+      },
+      {
+        "site": "anilist",
+        "id": "21506"
+      },
+      {
+        "site": "anilist",
+        "id": "5684"
+      },
+      {
+        "site": "anilist",
+        "id": "603"
+      },
+      {
+        "site": "anilist",
+        "id": "7645"
+      },
+      {
+        "site": "anilist",
+        "id": "98891"
+      },
+      {
+        "site": "anilist",
+        "id": "9893"
+      },
+      {
+        "site": "anilist",
+        "id": "99642"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dokidoki-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fresh-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "go-princess-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "happiness-charge-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "healin-good-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "heartcatch-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hugtto-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hugtto-pretty-cure-x-futari-wa-pretty-cure-movie-all-stars-memories"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kirakira-pretty-cure-a-la-mode-movie-paris-to-omoide-no-mille-feuille"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mahou-tsukai-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-max-heart"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-movie-dream-star"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-movie-miracle-universe"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-movie-super-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-splash-star"
+      },
+      {
+        "site": "anime-planet",
+        "id": "smile-precure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "star-twinkle-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "suite-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yes-pretty-cure-5"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yes-pretty-cure-5-gogo"
+      },
+      {
+        "site": "anisearch",
+        "id": "12355"
+      },
+      {
+        "site": "anisearch",
+        "id": "18342"
+      },
+      {
+        "site": "anisearch",
+        "id": "2594"
+      },
+      {
+        "site": "kitsu",
+        "id": "1375"
+      },
+      {
+        "site": "kitsu",
+        "id": "1739"
+      },
+      {
+        "site": "kitsu",
+        "id": "1742"
+      },
+      {
+        "site": "kitsu",
+        "id": "3199"
+      },
+      {
+        "site": "kitsu",
+        "id": "4243"
+      },
+      {
+        "site": "kitsu",
+        "id": "42650"
+      },
+      {
+        "site": "kitsu",
+        "id": "5065"
+      },
+      {
+        "site": "kitsu",
+        "id": "558"
+      },
+      {
+        "site": "kitsu",
+        "id": "5927"
+      },
+      {
+        "site": "kitsu",
+        "id": "6687"
+      },
+      {
+        "site": "livechart",
+        "id": "2395"
+      },
+      {
+        "site": "livechart",
+        "id": "2606"
+      },
+      {
+        "site": "myanimelist",
+        "id": "12191"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1534"
+      },
+      {
+        "site": "myanimelist",
+        "id": "16419"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1929"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1932"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21407"
+      },
+      {
+        "site": "myanimelist",
+        "id": "28669"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31884"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34302"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35206"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36593"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3692"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36995"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38578"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40610"
+      },
+      {
+        "site": "myanimelist",
+        "id": "44191"
+      },
+      {
+        "site": "myanimelist",
+        "id": "50281"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53716"
+      },
+      {
+        "site": "myanimelist",
+        "id": "54650"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5684"
+      },
+      {
+        "site": "myanimelist",
+        "id": "603"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7645"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9893"
+      },
+      {
+        "site": "notify",
+        "id": "-pNkpKimg"
+      },
+      {
+        "site": "notify",
+        "id": "0k6QH90WR"
+      },
+      {
+        "site": "notify",
+        "id": "3TDHtFimR"
+      },
+      {
+        "site": "notify",
+        "id": "Gb-opKiig"
+      },
+      {
+        "site": "notify",
+        "id": "Gmsx8N_4g"
+      },
+      {
+        "site": "notify",
+        "id": "INPKpKiig"
+      },
+      {
+        "site": "notify",
+        "id": "SG9MtKiig"
+      },
+      {
+        "site": "notify",
+        "id": "TrDU4H0nR"
+      },
+      {
+        "site": "notify",
+        "id": "UEDl5Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "ZhI3pKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "fVOCkIAGR"
+      },
+      {
+        "site": "notify",
+        "id": "fgjTcKiig"
+      },
+      {
+        "site": "notify",
+        "id": "hgrEtFimg"
+      },
+      {
+        "site": "notify",
+        "id": "o_wj5KiiR"
+      },
+      {
+        "site": "notify",
+        "id": "tEoqN0hVg"
+      },
+      {
+        "site": "notify",
+        "id": "tzmLcFiig"
+      },
+      {
+        "site": "notify",
+        "id": "uszHhFimR"
+      },
+      {
+        "site": "notify",
+        "id": "yBkLcFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "yo0-cKiiR"
+      }
     ],
-    "zh-Hant": [
-      "《OVERLORD 不死者之王》劇場版總集篇 前編",
-      "OVERLORD 不死者之王"
-    ],
-    "en": [
-      "Overlord: The Undead King"
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2017,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 49,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/88612.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/88612t.jpg",
+    "synonyms": [
+      "KIRA KIRA☆PRETTY CURE A LA MODE",
+      "Kira Kira Pretty Cure A La Mode",
+      "Kira Kira Pretty Cure à la mode",
+      "Kira Kira☆Pretty Cure A La Mode",
+      "Kira Kira☆Pretty Cure a La Mode",
+      "Kira Kira☆Pretty Cure a la Mode",
+      "KiraKira☆光之美少女 A La Mode",
+      "Kirakira Precure A La Mode",
+      "Kirakira Precure À La Mode",
+      "Kirakira Pretty Cure a la Mode",
+      "Kirakira☆Precure a la Mode",
+      "Kirakira☆Precure À La Mode",
+      "Pretty Cure Season 14",
+      "kkpcalm",
+      "precure14",
+      "Блестящие Претти Кьюр а ля мод",
+      "キラキラ☆プリキュアアラモード"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "2017-02-25T16:00:00.000Z",
-  "end": "2017-02-25T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "194036"
+  {
+    "title": "龍の歯医者",
+    "titleTranslate": {
+      "en": [
+        "THE DRAGON DENTIST"
+      ],
+      "zh-Hans": [
+        "龙之牙医",
+        "龙的牙医"
+      ]
     },
-    {
-      "site": "nicovideo",
-      "id": "overlord-movie",
-      "begin": "2020-03-20T06:00:00.000Z"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.nhk.or.jp/anime/ryu/",
+    "begin": "2017-02-18T11:00:00.000Z",
+    "end": "2017-02-25T11:46:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "5933",
+        "begin": "2017-02-18T15:00:00.000Z",
+        "broadcast": "R/2017-02-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi",
+        "id": "191056"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anime-ryu",
+        "begin": "2017-02-10T09:00:00.000Z"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-dragon-dentist-2017"
+      },
+      {
+        "site": "anisearch",
+        "id": "11699"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2014,
+      "month": "02"
     },
-    {
-      "site": "bilibili",
-      "id": "91972",
-      "begin": "2017-02-24T16:00:00.000Z",
-      "broadcast": "R/2018-05-17T07:40:00.000Z/P7D"
-    },
-    {
-      "site": "ani_one",
-      "id": "PLC18xlbCdwtTlZBjf5O1KdHzvBkq6bWph",
-      "begin": "2022-10-17T16:00:00.000Z",
-      "broadcast": "R/2022-10-22T16:00:00.000Z/P7D"
-    },
-    {
-      "site": "disneyplus",
-      "id": "h3CMH0G3ouOB",
-      "begin": "",
-      "broadcast": ""
-    },
-    {
-      "site": "anilist",
-      "id": "101098"
-    },
-    {
-      "site": "anilist",
-      "id": "20832"
-    },
-    {
-      "site": "anilist",
-      "id": "98874"
-    },
-    {
-      "site": "anime-planet",
-      "id": "overlord"
-    },
-    {
-      "site": "anime-planet",
-      "id": "overlord-ii"
-    },
-    {
-      "site": "anime-planet",
-      "id": "overlord-iii"
-    },
-    {
-      "site": "anime-planet",
-      "id": "overlord-movie-manner-movie"
-    },
-    {
-      "site": "anime-planet",
-      "id": "overlord-ple-ple-pleiades-theatrical-version"
-    },
-    {
-      "site": "anime-planet",
-      "id": "overlord-the-dark-hero"
-    },
-    {
-      "site": "kitsu",
-      "id": "12915"
-    },
-    {
-      "site": "kitsu",
-      "id": "41644"
-    },
-    {
-      "site": "kitsu",
-      "id": "9965"
-    },
-    {
-      "site": "livechart",
-      "id": "10571"
-    },
-    {
-      "site": "livechart",
-      "id": "10572"
-    },
-    {
-      "site": "livechart",
-      "id": "11290"
-    },
-    {
-      "site": "livechart",
-      "id": "12390"
-    },
-    {
-      "site": "livechart",
-      "id": "1685"
-    },
-    {
-      "site": "livechart",
-      "id": "2202"
-    },
-    {
-      "site": "livechart",
-      "id": "2425"
-    },
-    {
-      "site": "livechart",
-      "id": "2574"
-    },
-    {
-      "site": "livechart",
-      "id": "3021"
-    },
-    {
-      "site": "livechart",
-      "id": "3206"
-    },
-    {
-      "site": "livechart",
-      "id": "3356"
-    },
-    {
-      "site": "livechart",
-      "id": "3550"
-    },
-    {
-      "site": "livechart",
-      "id": "784"
-    },
-    {
-      "site": "livechart",
-      "id": "9481"
-    },
-    {
-      "site": "livechart",
-      "id": "9870"
-    },
-    {
-      "site": "myanimelist",
-      "id": "29803"
-    },
-    {
-      "site": "myanimelist",
-      "id": "34428"
-    },
-    {
-      "site": "myanimelist",
-      "id": "36497"
-    },
-    {
-      "site": "myanimelist",
-      "id": "36683"
-    },
-    {
-      "site": "notify",
-      "id": "OOTW2Kiig"
-    },
-    {
-      "site": "notify",
-      "id": "ac0PtFiiR"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 2017,
-    "month": "02"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.anime-planet.com/anime/primary/the-dragon-dentist-1.jpg?t=1625896997",
+    "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-dragon-dentist-1-190x284.jpg?t=1625896997",
+    "synonyms": [
+      "Japan Animator Expo Short Films #01",
+      "Nihon Animator Mihon'ichi #01",
+      "Nihon Animator Mihonichi: The Dragon Dentist",
+      "Ryuu no Haisha",
+      "Ryū no Haisha",
+      "日本アニメ（ーター）見本市 #01",
+      "龍の歯医者"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/12/87759.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/12/87759t.jpg",
-  "synonyms": [
-    "Gekijouban Overlord",
-    "Overlord Movie",
-    "Overlord Movie 1",
-    "Overlord: Fushisha no Ou",
-    "Overlord: The Undead King",
-    "โอเวอร์ ลอร์ด จอมมารพิชิตโลก เดอะ มูฟวี่ The Undead King",
-    "【前編】劇場版総集編 オーバーロード 不死者の王",
-    "劇場版総集編 オーバーロード 不死者の王"
-  ]
-}
+  {
+    "title": "チェインクロニクル ～ヘクセイタスの閃～ 第3章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "锁链战记～赫克瑟塔斯之光～ 第3章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://chronicle-anime.com/",
+    "begin": "2017-02-11T16:00:00.000Z",
+    "end": "2017-02-11T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "IhQAfuZMvPpd20M",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrha8tqp",
+        "begin": "2016-12-16T08:55:22.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "188073"
+      },
+      {
+        "site": "youku",
+        "id": "47f4a9a898d411e69e06",
+        "begin": "2016-12-16T09:02:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "74561",
+        "begin": "2016-12-16T09:20:00.000Z",
+        "broadcast": "R/2016-12-16T09:20:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "119774"
+      },
+      {
+        "site": "anilist",
+        "id": "121433"
+      },
+      {
+        "site": "anilist",
+        "id": "20986"
+      },
+      {
+        "site": "anilist",
+        "id": "87506"
+      },
+      {
+        "site": "anime-planet",
+        "id": "chain-chronicle-short-animation"
+      },
+      {
+        "site": "anime-planet",
+        "id": "chain-chronicle-the-light-of-haecceitas"
+      },
+      {
+        "site": "anime-planet",
+        "id": "chain-chronicle-the-light-of-haecceitas-movie-1"
+      },
+      {
+        "site": "anime-planet",
+        "id": "chain-chronicle-the-light-of-haecceitas-movie-2"
+      },
+      {
+        "site": "kitsu",
+        "id": "10071"
+      },
+      {
+        "site": "kitsu",
+        "id": "12461"
+      },
+      {
+        "site": "livechart",
+        "id": "1324"
+      },
+      {
+        "site": "livechart",
+        "id": "2316"
+      },
+      {
+        "site": "livechart",
+        "id": "2317"
+      },
+      {
+        "site": "livechart",
+        "id": "716"
+      },
+      {
+        "site": "myanimelist",
+        "id": "28833"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33729"
+      },
+      {
+        "site": "notify",
+        "id": "3nxzhFimg"
+      },
+      {
+        "site": "notify",
+        "id": "RmZstFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2017,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/83828.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/83828t.jpg",
+    "synonyms": [
+      "Chain Chronicle 3rd Movie",
+      "Chain Chronicle: Haecceitas no Hikari - Movie 3",
+      "Chain Chronicle: Haecceitas no Hikari Chapter 3",
+      "Chain Chronicle: The Light of Haecceitas - Movie 3",
+      "Chain Chronicle: The Light of Haecceitas Chapter 3",
+      "Chain Chronicle: The Light of Haecceitas Film 3",
+      "Chain Chronicle: The Light of Haecceitas Part 3",
+      "Chain Chronicle: The Light of Haecceitas Parte 3",
+      "チェインクロニクル 3",
+      "チェインクロニクル ～ヘクセイタスの閃～ 第3章",
+      "チェインクロニクル〜ヘクセイタスの閃（ひかり）〜 第３章"
+    ]
+  },
+  {
+    "title": "デジモンアドベンチャー tri. 第4章「喪失」",
+    "titleTranslate": {
+      "zh-Hans": [
+        "数码兽大冒险 tri. 第四章「丧失」"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://digimon-adventure.net/",
+    "begin": "2017-02-25T16:00:00.000Z",
+    "end": "2017-02-25T17:40:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhbcjih",
+        "begin": "2016-02-15T09:09:13.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "192202"
+      },
+      {
+        "site": "nicovideo",
+        "id": "digimon-adventure-tri04",
+        "begin": "2016-04-01T15:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "9b274b3ad30811e6b9bb",
+        "begin": ""
+      },
+      {
+        "site": "anilist",
+        "id": "21596"
+      },
+      {
+        "site": "anilist",
+        "id": "98402"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-tri-movie-1-reunion"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-tri-movie-2-determination"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-tri-movie-3-confession"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-tri-movie-5-coexistence"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-tri-movie-6-future"
+      },
+      {
+        "site": "kitsu",
+        "id": "11547"
+      },
+      {
+        "site": "kitsu",
+        "id": "11549"
+      },
+      {
+        "site": "livechart",
+        "id": "3730"
+      },
+      {
+        "site": "livechart",
+        "id": "3917"
+      },
+      {
+        "site": "livechart",
+        "id": "3980"
+      },
+      {
+        "site": "livechart",
+        "id": "3990"
+      },
+      {
+        "site": "livechart",
+        "id": "4234"
+      },
+      {
+        "site": "livechart",
+        "id": "4251"
+      },
+      {
+        "site": "livechart",
+        "id": "4604"
+      },
+      {
+        "site": "livechart",
+        "id": "4643"
+      },
+      {
+        "site": "livechart",
+        "id": "4864"
+      },
+      {
+        "site": "livechart",
+        "id": "5139"
+      },
+      {
+        "site": "livechart",
+        "id": "5520"
+      },
+      {
+        "site": "livechart",
+        "id": "5638"
+      },
+      {
+        "site": "livechart",
+        "id": "5655"
+      },
+      {
+        "site": "livechart",
+        "id": "5704"
+      },
+      {
+        "site": "livechart",
+        "id": "5846"
+      },
+      {
+        "site": "myanimelist",
+        "id": "32551"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34962"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2017,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/82613.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/82613t.jpg",
+    "synonyms": [
+      "Digimon Adventure Tri. Movie 4: Loss",
+      "Digimon Adventure Tri. Movie 4: Soushitsu",
+      "Digimon Adventure tri Película 4: Pérdida",
+      "Digimon Adventure tri. 4: Loss",
+      "Digimon Adventure tri. Chapter 4: Loss",
+      "Digimon Adventure tri. Loss",
+      "Digimon tri. 4",
+      "デジモンアドベンチャー tri. 第4章「喪失」",
+      "デジモンアドベンチャーtri.（トライ）第4章「喪失」",
+      "デジモンアドベンチャーtri.（トライ）第４章「喪失」"
+    ]
+  },
+  {
+    "title": "青鬼 THE ANIMATION",
+    "titleTranslate": {
+      "zh-Hans": [
+        "青鬼 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://aooni-anime.com/",
+    "begin": "2017-02-11T16:00:00.000Z",
+    "end": "2017-02-11T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rradj4sw",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "189660"
+      },
+      {
+        "site": "nicovideo",
+        "id": "aooni-anime",
+        "begin": "2016-10-03T15:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "5929",
+        "begin": "2017-02-10T16:00:01.000Z",
+        "broadcast": "R/2017-02-11T12:37:00.000Z/P7D"
+      },
+      {
+        "site": "youku",
+        "id": "8635adbbee8a11e68ce4",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "12322"
+      },
+      {
+        "site": "anilist",
+        "id": "21897"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ao-oni-the-blue-monster"
+      },
+      {
+        "site": "anisearch",
+        "id": "11692"
+      },
+      {
+        "site": "kitsu",
+        "id": "12477"
+      },
+      {
+        "site": "livechart",
+        "id": "2276"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33814"
+      },
+      {
+        "site": "notify",
+        "id": "8bfkhFiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2017,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/81440.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/81440t.jpg",
+    "synonyms": [
+      "Ao Oni The Animation",
+      "Ao Oni The Animation Movie",
+      "Ao Oni The Animation: Film",
+      "Ao Oni The Blue Monster Movie",
+      "Ao Oni The Blue Monster Película",
+      "Ao Oni the Animation",
+      "Ao Oni: The Animation",
+      "Ao Oni: The Animation (Film)",
+      "Aooni the Animation",
+      "Aooni the Movie",
+      "Aooni: The Animation",
+      "Aooni: The Animation (2017)",
+      "Aōni: The Animation (2017)",
+      "Blue Demon",
+      "青鬼 THE ANIMATION",
+      "青鬼 THE ANIMATION （2017）",
+      "青鬼 The Animation"
+    ]
+  },
+  {
+    "title": "虐殺器官",
+    "titleTranslate": {
+      "zh-Hans": [
+        "虐杀器官"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://project-itoh.com/",
+    "begin": "2017-02-03T16:00:00.000Z",
+    "end": "2017-02-03T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "100447"
+      },
+      {
+        "site": "livechart",
+        "id": "485"
+      },
+      {
+        "site": "livechart",
+        "id": "759"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2017,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/83309.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/83309t.jpg",
+    "synonyms": [
+      "Genocidal Organ",
+      "L'Organo Genocida",
+      "L`organo genocida",
+      "L’Organo Genocida",
+      "Project Itoh",
+      "Project Itoh 3: Genocidal Organ",
+      "Project Itoh: Genocidal Organ",
+      "虐殺器官",
+      "虐殺器官 GENOCIDAL ORGAN",
+      "학살기관 Genocidal Organ"
+    ]
+  },
+  {
+    "title": "ピカイア!!",
+    "titleTranslate": {
+      "en": [
+        "PIKAIA"
+      ],
+      "zh-Hans": [
+        "皮卡虫!!",
+        "你考古吗？"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.nhk.or.jp/seimei/pikaia2.html",
+    "begin": "2017-02-26T07:45:00.000Z",
+    "end": "2017-05-27T08:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "210806"
+      },
+      {
+        "site": "anidb",
+        "id": "11149"
+      },
+      {
+        "site": "anilist",
+        "id": "98223"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pikaia"
+      },
+      {
+        "site": "anisearch",
+        "id": "10403"
+      },
+      {
+        "site": "kitsu",
+        "id": "10784"
+      },
+      {
+        "site": "livechart",
+        "id": "1461"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30386"
+      },
+      {
+        "site": "notify",
+        "id": "mQz_pFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2017,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/84105.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/84105t.jpg",
+    "synonyms": [
+      "Pikaia! Season 2",
+      "Pikaia! Second Season",
+      "ピカイア!!",
+      "ピカイア！！",
+      "皮卡虫!!"
+    ]
+  },
+  {
+    "title": "劇場版 ソードアート・オンライン -オーディナル・スケール-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "刀剑神域：序列之争"
+      ],
+      "zh-Hant": [
+        "刀劍神域 劇場版 序列爭戰"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://sao-movie.net/",
+    "begin": "2017-02-18T16:00:00.000Z",
+    "end": "2017-02-18T18:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "148099"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sao-movie",
+        "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "79961",
+        "begin": "2019-01-16T06:30:00.000Z",
+        "broadcast": "R/2019-01-16T06:30:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "10376"
+      },
+      {
+        "site": "anidb",
+        "id": "13493"
+      },
+      {
+        "site": "anilist",
+        "id": "100182"
+      },
+      {
+        "site": "anilist",
+        "id": "101965"
+      },
+      {
+        "site": "anilist",
+        "id": "20594"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sword-art-online"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sword-art-online-alicization"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sword-art-online-alicization-war-of-underworld-part-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sword-art-online-alternative-gun-gale-online"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sword-art-online-alternative-gun-gale-online-refrain"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sword-art-online-extra-edition"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sword-art-online-fatal-bullet-the-third-episode-kansei-ban"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sword-art-online-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sword-art-online-ii-debriefing"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sword-art-online-ii-sword-art-offline-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sword-art-online-movie-ordinal-scale-sword-art-offline"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sword-art-online-sword-art-offline"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sword-art-online-sword-art-offline-extra-edition"
+      },
+      {
+        "site": "anisearch",
+        "id": "12852"
+      },
+      {
+        "site": "anisearch",
+        "id": "12860"
+      },
+      {
+        "site": "anisearch",
+        "id": "9323"
+      },
+      {
+        "site": "kitsu",
+        "id": "13893"
+      },
+      {
+        "site": "kitsu",
+        "id": "8174"
+      },
+      {
+        "site": "livechart",
+        "id": "10159"
+      },
+      {
+        "site": "livechart",
+        "id": "1017"
+      },
+      {
+        "site": "livechart",
+        "id": "1038"
+      },
+      {
+        "site": "livechart",
+        "id": "10864"
+      },
+      {
+        "site": "livechart",
+        "id": "11599"
+      },
+      {
+        "site": "livechart",
+        "id": "12265"
+      },
+      {
+        "site": "livechart",
+        "id": "1750"
+      },
+      {
+        "site": "livechart",
+        "id": "186"
+      },
+      {
+        "site": "livechart",
+        "id": "2908"
+      },
+      {
+        "site": "livechart",
+        "id": "2909"
+      },
+      {
+        "site": "livechart",
+        "id": "3148"
+      },
+      {
+        "site": "livechart",
+        "id": "391"
+      },
+      {
+        "site": "livechart",
+        "id": "392"
+      },
+      {
+        "site": "livechart",
+        "id": "9404"
+      },
+      {
+        "site": "livechart",
+        "id": "9733"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21881"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36439"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36474"
+      },
+      {
+        "site": "notify",
+        "id": "GWyShKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "Wgyd2FiiR"
+      },
+      {
+        "site": "notify",
+        "id": "_Q4TtFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2017,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1557/123313.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1557/123313t.jpg",
+    "synonyms": [
+      "Gekijouban SAO Ordinal Scale",
+      "Gekijouban Sword Art Online",
+      "Gekijouban Sword Art Online: Ordinal Scale",
+      "Gekijōban Sword Art Online: Ordinal Scale",
+      "SAO Movie Ordinal Scale",
+      "SAO Ordinal Scale Movie",
+      "SAO THE MOVIE",
+      "SAO:OS",
+      "SWORD ART ONLINE THE MOVIE -Ordinal Scale-",
+      "SWORD ART ONLINE THE MOVIE: Ordinal Scale",
+      "Sword Art Online Movie",
+      "Sword Art Online The Movie : Ordinal Scale",
+      "Sword Art Online The Movie: Ordinal Scale",
+      "Sword Art Online the Movie -Ordinal Scale-",
+      "Sword Art Online the Movie: Ordinal Scale",
+      "Sword Art Online, la Película: Ordinal Scale",
+      "Sword Art Online: La Película - Ordinal Scale",
+      "Sword Art Online: Ordinal Scale",
+      "Sword Art Online: Ordinal Scale The Movie",
+      "gsao movie",
+      "אומנות החרב אונליין הסרט: סולם סידורי",
+      "ソードアート・オンライン -オーディナル・スケール-",
+      "刀剑神域 序列之争",
+      "刀劍神域劇場版：序列爭戰",
+      "劇場版 ソードアート・オンライン -オーディナル・スケール-"
+    ]
+  },
+  {
+    "title": "劇場版 トリニティセブン -悠久図書館と錬金術少女-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 七人魔法使 -悠久图书馆与炼金术少女-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://movie.trinity-7.com/",
+    "begin": "2017-02-25T16:00:00.000Z",
+    "end": "2017-02-25T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "186570"
+      },
+      {
+        "site": "nicovideo",
+        "id": "movie-trinity-7",
+        "begin": ""
+      },
+      {
+        "site": "pptv",
+        "id": "naiaEAmrQQH7hX8c",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "d08b10cad89e11e6967c",
+        "begin": "2017-03-17T02:58:05.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "10914"
+      },
+      {
+        "site": "anidb",
+        "id": "14196"
+      },
+      {
+        "site": "anilist",
+        "id": "103631"
+      },
+      {
+        "site": "anilist",
+        "id": "20631"
+      },
+      {
+        "site": "anime-planet",
+        "id": "trinity-seven"
+      },
+      {
+        "site": "anime-planet",
+        "id": "trinity-seven-movie-2-heavens-library-and-crimson-lord"
+      },
+      {
+        "site": "anime-planet",
+        "id": "trinity-seven-ova"
+      },
+      {
+        "site": "anisearch",
+        "id": "10073"
+      },
+      {
+        "site": "anisearch",
+        "id": "13727"
+      },
+      {
+        "site": "kitsu",
+        "id": "42057"
+      },
+      {
+        "site": "kitsu",
+        "id": "8607"
+      },
+      {
+        "site": "livechart",
+        "id": "1287"
+      },
+      {
+        "site": "livechart",
+        "id": "3374"
+      },
+      {
+        "site": "livechart",
+        "id": "441"
+      },
+      {
+        "site": "myanimelist",
+        "id": "25157"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37986"
+      },
+      {
+        "site": "notify",
+        "id": "I8JtMQymg"
+      },
+      {
+        "site": "notify",
+        "id": "pYm1pKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2017,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1031/112821.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1031/112821t.jpg",
+    "synonyms": [
+      "Gekijouban Trinity Seven",
+      "Gekijouban Trinity Seven Yuukyuu Toshokan to Renkinjutsu Shoujo",
+      "Gekijouban Trinity Seven: Eternity Library to Alchemic Girl",
+      "Gekijouban Trinity Seven: Yuukyuu Toshokan to Renkinjutsu Shoujo - Eternity Library to Alchemic Girl",
+      "Gekijōban Trinity Seven: Eternity Library to Alchemic Girl",
+      "T7 Movie 1",
+      "TRINITY SEVEN ETERNITY LIBRARY & ALCHEMIC GIRL",
+      "TRINITY SEVEN Movie: Yuukyuu Toshokan to Renkinjutsu Shoujo",
+      "Trinity Seven Film: Eternity Library & Alchemic Girl",
+      "Trinity Seven Movie - Yuukyuu Toshokan to Renkinjutsu Shoujo",
+      "Trinity Seven Movie: Eternal Library & Alchemic Girl",
+      "Trinity Seven Movie: Eternity Library to Alchemic Girl",
+      "Trinity Seven Movie: Yuukyuu Toshokan to Rekinjutsu Shoujo",
+      "Trinity Seven Movie: Yuukyuu Toshokan to Renkinjutsu Shoujo",
+      "Trinity Seven: Eternal Library & Alchemic Girl",
+      "Trinity Seven: Eternity Library & Alchemic Girl",
+      "Trinity Seven: Yuukyuu Toshokan to Rekinjutsu Shoujo",
+      "剧场版 七人魔法使 悠久图书馆与炼金术少女",
+      "劇場版 トリニティセブン -悠久図書館と錬金術少女-",
+      "劇場版 トリニティセブン －悠久図書館〈エターニティライブラリー〉と錬金術少女〈アルケミックガール〉－",
+      "劇場版 トリニティセブン-悠久図書館と錬金術少女-",
+      "劇場版 ﾄﾘﾆﾃｨｾﾌﾞﾝ-悠久図書館と錬金術少女-",
+      "劇場版トリニティセブン 悠久図書館と錬金術少女",
+      "劇場版トリニティセブン 悠久図書館と錬金術少女 ETERNITY LIBRARY & ALCHEMIC GIRL"
+    ]
+  },
+  {
+    "title": "恋するシロクマ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恋爱的白熊"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://koisurushirokuma.jp/",
+    "begin": "2017-02-28T16:00:00.000Z",
+    "end": "2018-02-01T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "202156"
+      },
+      {
+        "site": "letv",
+        "id": "10037653",
+        "begin": ""
+      },
+      {
+        "site": "anilist",
+        "id": "132016"
+      },
+      {
+        "site": "anime-planet",
+        "id": "a-polar-bear-in-love-chikyuu-wa-marui-hen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "a-polar-bear-in-love-web"
+      },
+      {
+        "site": "anisearch",
+        "id": "13017"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36742"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 21,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/84270.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/84270t.jpg",
+    "synonyms": [
+      "A Polar Bear in Love",
+      "Koi Suru Shirokuma",
+      "Polar Bear in Love",
+      "恋するシロクマ"
+    ]
+  },
+  {
+    "title": "劇場版総集編 オーバーロード 不死者の王",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版总集篇 OVERLORD 不死者之王",
+        "OVERLORD 不死者之王"
+      ],
+      "zh-Hant": [
+        "《OVERLORD 不死者之王》劇場版總集篇 前編",
+        "OVERLORD 不死者之王"
+      ],
+      "en": [
+        "Overlord: The Undead King"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2017-02-25T16:00:00.000Z",
+    "end": "2017-02-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "194036"
+      },
+      {
+        "site": "nicovideo",
+        "id": "overlord-movie",
+        "begin": "2020-03-20T06:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "91972",
+        "begin": "2017-02-24T16:00:00.000Z",
+        "broadcast": "R/2018-05-17T07:40:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTlZBjf5O1KdHzvBkq6bWph",
+        "begin": "2022-10-17T16:00:00.000Z",
+        "broadcast": "R/2022-10-22T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "h3CMH0G3ouOB",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anilist",
+        "id": "101098"
+      },
+      {
+        "site": "anilist",
+        "id": "20832"
+      },
+      {
+        "site": "anilist",
+        "id": "98874"
+      },
+      {
+        "site": "anime-planet",
+        "id": "overlord"
+      },
+      {
+        "site": "anime-planet",
+        "id": "overlord-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "overlord-iii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "overlord-movie-manner-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "overlord-ple-ple-pleiades-theatrical-version"
+      },
+      {
+        "site": "anime-planet",
+        "id": "overlord-the-dark-hero"
+      },
+      {
+        "site": "kitsu",
+        "id": "12915"
+      },
+      {
+        "site": "kitsu",
+        "id": "41644"
+      },
+      {
+        "site": "kitsu",
+        "id": "9965"
+      },
+      {
+        "site": "livechart",
+        "id": "10571"
+      },
+      {
+        "site": "livechart",
+        "id": "10572"
+      },
+      {
+        "site": "livechart",
+        "id": "11290"
+      },
+      {
+        "site": "livechart",
+        "id": "12390"
+      },
+      {
+        "site": "livechart",
+        "id": "1685"
+      },
+      {
+        "site": "livechart",
+        "id": "2202"
+      },
+      {
+        "site": "livechart",
+        "id": "2425"
+      },
+      {
+        "site": "livechart",
+        "id": "2574"
+      },
+      {
+        "site": "livechart",
+        "id": "3021"
+      },
+      {
+        "site": "livechart",
+        "id": "3206"
+      },
+      {
+        "site": "livechart",
+        "id": "3356"
+      },
+      {
+        "site": "livechart",
+        "id": "3550"
+      },
+      {
+        "site": "livechart",
+        "id": "784"
+      },
+      {
+        "site": "livechart",
+        "id": "9481"
+      },
+      {
+        "site": "livechart",
+        "id": "9870"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29803"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34428"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36497"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36683"
+      },
+      {
+        "site": "notify",
+        "id": "OOTW2Kiig"
+      },
+      {
+        "site": "notify",
+        "id": "ac0PtFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2017,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/87759.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/87759t.jpg",
+    "synonyms": [
+      "Gekijouban Overlord",
+      "Overlord Movie",
+      "Overlord Movie 1",
+      "Overlord: Fushisha no Ou",
+      "Overlord: The Undead King",
+      "โอเวอร์ ลอร์ด จอมมารพิชิตโลก เดอะ มูฟวี่ The Undead King",
+      "【前編】劇場版総集編 オーバーロード 不死者の王",
+      "劇場版総集編 オーバーロード 不死者の王"
+    ]
+  }
+]

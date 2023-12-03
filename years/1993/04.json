@@ -1,46 +1,628 @@
-{
-  "title": "ポコニャン！",
-  "titleTranslate": {
-    "zh-Hans": [
-      "叮当猫"
+[
+  {
+    "title": "機動戦士Vガンダム",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士V高达"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.gundam.channel.or.jp/program/_vg_tv.shtml",
+    "begin": "1993-04-02T16:00:00.000Z",
+    "end": "1994-03-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "CDcSkPhezgxv7VU",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "j/jo3cpdky93amp9u",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "985"
+      },
+      {
+        "site": "anidb",
+        "id": "10531"
+      },
+      {
+        "site": "anidb",
+        "id": "626"
+      },
+      {
+        "site": "anilist",
+        "id": "7113"
+      },
+      {
+        "site": "anilist",
+        "id": "88"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-0080-war-in-the-pocket"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-0083-stardust-memory"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-chars-counterattack"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-evolve"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-f91"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-hathaways-flash-i"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-hathaways-flash-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-hathaways-flash-iii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-ms-igloo-2-juuryoku-sensen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-ms-igloo-apocalypse-0079"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-ms-igloo-the-hidden-one-year-war"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-narrative"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-the-08th-ms-team"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-the-origin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-thunderbolt"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-thunderbolt-2nd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-twilight-axis"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-unicorn"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-zz"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-zeta-gundam"
+      },
+      {
+        "site": "anisearch",
+        "id": "1978"
+      },
+      {
+        "site": "kitsu",
+        "id": "67"
+      },
+      {
+        "site": "kitsu",
+        "id": "74"
+      },
+      {
+        "site": "kitsu",
+        "id": "8391"
+      },
+      {
+        "site": "livechart",
+        "id": "3938"
+      },
+      {
+        "site": "livechart",
+        "id": "4607"
+      },
+      {
+        "site": "livechart",
+        "id": "4659"
+      },
+      {
+        "site": "livechart",
+        "id": "4683"
+      },
+      {
+        "site": "livechart",
+        "id": "4695"
+      },
+      {
+        "site": "livechart",
+        "id": "4944"
+      },
+      {
+        "site": "livechart",
+        "id": "5926"
+      },
+      {
+        "site": "livechart",
+        "id": "5947"
+      },
+      {
+        "site": "livechart",
+        "id": "6906"
+      },
+      {
+        "site": "livechart",
+        "id": "6987"
+      },
+      {
+        "site": "livechart",
+        "id": "7514"
+      },
+      {
+        "site": "livechart",
+        "id": "7582"
+      },
+      {
+        "site": "livechart",
+        "id": "7717"
+      },
+      {
+        "site": "livechart",
+        "id": "7848"
+      },
+      {
+        "site": "livechart",
+        "id": "8121"
+      },
+      {
+        "site": "myanimelist",
+        "id": "23259"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40464"
+      },
+      {
+        "site": "myanimelist",
+        "id": "88"
+      },
+      {
+        "site": "myanimelist",
+        "id": "95"
+      },
+      {
+        "site": "notify",
+        "id": "12M0tFimg"
+      },
+      {
+        "site": "notify",
+        "id": "CZhp5Fiig"
+      },
+      {
+        "site": "notify",
+        "id": "XMopcFimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1993,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 51,
+    "picture": "https://cdn.myanimelist.net/images/anime/1913/102693.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1913/102693t.jpg",
+    "synonyms": [
+      "Gundam: Kidou Senshi Victory Gundam",
+      "Kidou Senshi V Gundam",
+      "Kidō Senshi Victory Gundam",
+      "Mobile Suit V Gundam",
+      "Mobile Suit Victory Gundam",
+      "V Gundam",
+      "Vegan",
+      "Victory Gundam",
+      "Vガン",
+      "Vガンダム",
+      "きどうせんしびくとりーがんだむ",
+      "机动战士V高达",
+      "機動戦士Vガンダム"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1993-04-05T16:00:00.000Z",
-  "end": "1996-03-29T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "pptv",
-      "id": "9F0opg505CKFA2s",
-      "begin": ""
+  {
+    "title": "忍たま乱太郎",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者乱太郎"
+      ]
     },
-    {
-      "site": "bangumi",
-      "id": "28114"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.nhk.or.jp/anime/nintama/",
+    "begin": "1993-04-10T16:00:00.000Z",
+    "end": "1994-03-19T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "4264"
+      },
+      {
+        "site": "bilibili",
+        "id": "3620",
+        "begin": "2008-03-30T16:00:01.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "13220"
+      },
+      {
+        "site": "anidb",
+        "id": "3640"
+      },
+      {
+        "site": "anidb",
+        "id": "7983"
+      },
+      {
+        "site": "anilist",
+        "id": "10114"
+      },
+      {
+        "site": "anilist",
+        "id": "126605"
+      },
+      {
+        "site": "anilist",
+        "id": "126606"
+      },
+      {
+        "site": "anilist",
+        "id": "2710"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nintama-rantarou-dokutake-onsen-no-dan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nintama-rantarou-hoshi-ni-chikatta-yuujou-monogatari-no-dan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nintama-rantarou-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nintama-rantarou-movie-2-ninjutsu-gakuen-zenin-shutsudou-no-dan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nintama-rantarou-ninjutsu-gakuen-to-nazo-no-onna-kore-wa-jiken-da-yo-no-dan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nintama-rantarou-no-jishin-youjin-hi-no-youjin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nintama-rantarou-no-jitensha-anzen-kyoushitsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nintama-rantarou-no-koutsuu-anzen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nintama-rantarou-no-shouboutai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nintama-rantarou-no-uchuu-daibouken-with-cosmic-frontnext"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nintama-rantarou-no-uchuu-daibouken-with-cosmic-frontnext-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nintama-rantarou-saraba-ninjutsu-gakuen-no-dan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nintama-rantarou-tengu-no-himitsu-to-kieta-taiyou-no-dan"
+      },
+      {
+        "site": "anisearch",
+        "id": "14331"
+      },
+      {
+        "site": "anisearch",
+        "id": "2678"
+      },
+      {
+        "site": "anisearch",
+        "id": "6528"
+      },
+      {
+        "site": "kitsu",
+        "id": "11101"
+      },
+      {
+        "site": "kitsu",
+        "id": "11103"
+      },
+      {
+        "site": "kitsu",
+        "id": "12698"
+      },
+      {
+        "site": "kitsu",
+        "id": "2472"
+      },
+      {
+        "site": "kitsu",
+        "id": "6042"
+      },
+      {
+        "site": "livechart",
+        "id": "11096"
+      },
+      {
+        "site": "livechart",
+        "id": "11097"
+      },
+      {
+        "site": "livechart",
+        "id": "11098"
+      },
+      {
+        "site": "livechart",
+        "id": "11099"
+      },
+      {
+        "site": "livechart",
+        "id": "11202"
+      },
+      {
+        "site": "livechart",
+        "id": "11555"
+      },
+      {
+        "site": "livechart",
+        "id": "9263"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10114"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2710"
+      },
+      {
+        "site": "myanimelist",
+        "id": "28581"
+      },
+      {
+        "site": "myanimelist",
+        "id": "28583"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31033"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31034"
+      },
+      {
+        "site": "myanimelist",
+        "id": "32773"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36620"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53961"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53962"
+      },
+      {
+        "site": "notify",
+        "id": "2Dp7pFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "5sfm2KmmR"
+      },
+      {
+        "site": "notify",
+        "id": "fOwscKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "wPcXpKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "xX5XpKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1993,
+      "month": "04"
     },
-    {
-      "site": "bilibili",
-      "id": "2334",
-      "begin": "1993-04-05T16:00:00.000Z"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 1993,
-    "month": "04"
+    "status": "ONGOING",
+    "episodes": 2455,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/74028.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/74028t.jpg",
+    "synonyms": [
+      "El Ninja Boy Rantaró",
+      "NINJABOY RANTARO",
+      "Ninja Boy Rantaro",
+      "Ninja Rantaro",
+      "Nintama Rantaro",
+      "Nintama Rantarō",
+      "Rakudai Nintama Rantarou",
+      "Rakudaii Nintama Rantarou",
+      "Rantaró, el ninja boy",
+      "นินจารันทาโร่",
+      "にんたまらんたろう",
+      "忍たま乱太郎",
+      "忍者乱太郎",
+      "닌자보이 란타로"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 170,
-  "picture": "https://cdn.myanimelist.net/images/anime/1531/134124.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1531/134124t.jpg",
-  "synonyms": [
-    "Mali mačkun",
-    "Mi Amigo el Mapache",
-    "Rocky Rackat!",
-    "روكي راكات",
-    "ポコニャン!",
-    "ポコニャン！"
-  ]
-}
+  {
+    "title": "剣勇伝説YAIBA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剑勇传说 铁刃"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-04-09T16:00:00.000Z",
+    "end": "1994-04-01T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "faibZF3iclVZP2dNw",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "5468"
+      },
+      {
+        "site": "anidb",
+        "id": "3390"
+      },
+      {
+        "site": "anilist",
+        "id": "1369"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-conan-vs-kid-vs-yaiba"
+      },
+      {
+        "site": "kitsu",
+        "id": "1223"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1369"
+      },
+      {
+        "site": "notify",
+        "id": "XFCbcKmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1993,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 52,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/71953.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/71953t.jpg",
+    "synonyms": [
+      "Ken'yuu Densetsu Yaiba",
+      "Ken'yū Densetsu Yaiba",
+      "Ken`yuu Densetsu Yaiba",
+      "Kenyu Densetsu Yaiba",
+      "Kenyuu Densetsu YAIBA",
+      "Legendary Brave Swordsman Yaiba",
+      "Yaiba",
+      "Yaiba - O Pequeno Samurai",
+      "Yaiba - legendarny samuraj",
+      "Yaiba: Legendary Samurai",
+      "剑勇传说 铁刃",
+      "剣勇伝説YAIBA",
+      "剣勇伝説Yaiba",
+      "剣勇伝説Y∀IBA",
+      "剣勇伝説ＹＡＩＢＡ"
+    ]
+  },
+  {
+    "title": "ポコニャン！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "叮当猫"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-04-05T16:00:00.000Z",
+    "end": "1996-03-29T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "9F0opg505CKFA2s",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "28114"
+      },
+      {
+        "site": "bilibili",
+        "id": "2334",
+        "begin": "1993-04-05T16:00:00.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1993,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 170,
+    "picture": "https://cdn.myanimelist.net/images/anime/1531/134124.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1531/134124t.jpg",
+    "synonyms": [
+      "Mali mačkun",
+      "Mi Amigo el Mapache",
+      "Rocky Rackat!",
+      "روكي راكات",
+      "ポコニャン!",
+      "ポコニャン！"
+    ]
+  }
+]

@@ -1,46 +1,367 @@
-{
-  "title": "あした天気になあれ",
-  "titleTranslate": {},
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "http://www.nasinc.co.jp/jp/index.php?action=USER.WORKS.DETAIL&master_id=3",
-  "begin": "1984-10-06T22:15:00.000Z",
-  "end": "1985-09-27T22:45:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "213670"
+[
+  {
+    "title": "北斗の拳",
+    "titleTranslate": {
+      "zh-Hans": [
+        "北斗神拳"
+      ]
     },
-    {
-      "site": "kitsu",
-      "id": "11695"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.hokuto-no-ken.jp/",
+    "begin": "1984-10-04T10:30:00.000Z",
+    "end": "1987-03-05T11:00:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "52940",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "8386"
+      },
+      {
+        "site": "anidb",
+        "id": "386"
+      },
+      {
+        "site": "anilist",
+        "id": "967"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dd-fist-of-the-north-star"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dd-fist-of-the-north-star-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dd-hokuto-no-ken"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-blue-sky"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-blue-sky-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star-legend-of-kenshiro"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star-legend-of-raoh-death-for-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star-legend-of-raoh-fierce-fight"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star-legend-of-toki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star-legend-of-yuria"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star-strawberry-flavor"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hokuto-no-ken-legend-of-heroes"
+      },
+      {
+        "site": "anime-planet",
+        "id": "legends-of-the-dark-king-a-fist-of-the-north-star-story"
+      },
+      {
+        "site": "anime-planet",
+        "id": "new-fist-of-the-north-star"
+      },
+      {
+        "site": "anisearch",
+        "id": "3053"
+      },
+      {
+        "site": "kitsu",
+        "id": "857"
+      },
+      {
+        "site": "livechart",
+        "id": "12325"
+      },
+      {
+        "site": "livechart",
+        "id": "1661"
+      },
+      {
+        "site": "livechart",
+        "id": "4523"
+      },
+      {
+        "site": "livechart",
+        "id": "6310"
+      },
+      {
+        "site": "livechart",
+        "id": "6672"
+      },
+      {
+        "site": "livechart",
+        "id": "6822"
+      },
+      {
+        "site": "livechart",
+        "id": "7006"
+      },
+      {
+        "site": "livechart",
+        "id": "809"
+      },
+      {
+        "site": "livechart",
+        "id": "8239"
+      },
+      {
+        "site": "livechart",
+        "id": "8251"
+      },
+      {
+        "site": "livechart",
+        "id": "8265"
+      },
+      {
+        "site": "livechart",
+        "id": "8281"
+      },
+      {
+        "site": "livechart",
+        "id": "8284"
+      },
+      {
+        "site": "myanimelist",
+        "id": "967"
+      },
+      {
+        "site": "notify",
+        "id": "esvJ5Kmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1986,
+      "month": "10"
     },
-    {
-      "site": "myanimelist",
-      "id": "31693"
-    },
-    {
-      "site": "notify",
-      "id": "K7H3pKmig"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 1984,
-    "month": "10"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/25067.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/25067t.jpg",
+    "synonyms": [
+      "El Puño de la Estrella del Norte",
+      "Fist of the North Star",
+      "Fist of the North Star (1986)",
+      "Fist of the North Star Movie",
+      "Fist of the North Star: The Movie",
+      "Hokuto no Ken (1986)",
+      "Hokuto no Ken: The Movie",
+      "Ken - the Great Bearfist",
+      "Ken il guerriero - Il film",
+      "Ken il guerriero: il film",
+      "Ken le Survivant : Le Film",
+      "Ken le Survivant Le Film",
+      "Ken le survivant - Le film",
+      "Seikimatsu Kyuseishu Densetsu Hokuto no Ken",
+      "hnk movie 1",
+      "Юмрукът на северната звезда (1986)",
+      "世纪末救世主传说 北斗神拳 剧场版",
+      "北斗の拳",
+      "北斗の拳 (1986)",
+      "北斗の拳 （1986）",
+      "북두의 권 - 세기말구세주전설"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 47,
-  "picture": "https://cdn.myanimelist.net/images/anime/3/64569.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/3/64569t.jpg",
-  "synonyms": [
-    "A Great Super Shot Boy",
-    "Ashita Tenki ni Nare",
-    "Ashita Tenki ni Nare!",
-    "Ashita Tenki ni Nāre",
-    "There's Good Weather Tomorrow",
-    "Tutti in campo con Lotti",
-    "あしたてんきになあれ",
-    "あした天気になあれ"
-  ]
-}
+  {
+    "title": "超力ロボ ガラット",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超力机器人 伽拉特"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.giant-gorg.net/",
+    "begin": "1984-10-06T16:00:00.000Z",
+    "end": "1985-04-06T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37291"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1984,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 25,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/62965.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/62965t.jpg",
+    "synonyms": [
+      "Chōriki Robo Galatt",
+      "Super Robo Galatt",
+      "Super Robot Galatt",
+      "Super Robot Gallat",
+      "ちょうりきろぼがらっと",
+      "超力ロボ ガラット",
+      "超力机器人 伽拉特"
+    ]
+  },
+  {
+    "title": "機甲界ガリアン",
+    "titleTranslate": {
+      "en": [
+        "Panzer World Galient"
+      ],
+      "zh-Hans": [
+        "机甲界卡利安"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.galient.net/",
+    "begin": "1984-10-05T00:30:00.000Z",
+    "end": "1985-03-29T01:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "3hPta9M5qedKyDA",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "37290"
+      },
+      {
+        "site": "bilibili",
+        "id": "2431",
+        "begin": "1984-10-04T16:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "1459"
+      },
+      {
+        "site": "anilist",
+        "id": "5153"
+      },
+      {
+        "site": "anime-planet",
+        "id": "panzer-world-galient"
+      },
+      {
+        "site": "anisearch",
+        "id": "2946"
+      },
+      {
+        "site": "kitsu",
+        "id": "3952"
+      },
+      {
+        "site": "livechart",
+        "id": "6756"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5153"
+      },
+      {
+        "site": "notify",
+        "id": "4Xj9cFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1986,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/29726.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/29726t.jpg",
+    "synonyms": [
+      "Galient OVA",
+      "Kikou Kai Galient (1986)",
+      "Kikou Kai Garian OVA",
+      "Kikō Kai Galient (1986)",
+      "Panzer World Galient (1986)",
+      "Panzer World Galient OVA",
+      "きこうかいがりあん",
+      "機甲界ガリアン",
+      "機甲界ガリアン (1986)",
+      "機甲界ガリアン OVA",
+      "機甲界ガリアン （1986）"
+    ]
+  },
+  {
+    "title": "あした天気になあれ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.nasinc.co.jp/jp/index.php?action=USER.WORKS.DETAIL&master_id=3",
+    "begin": "1984-10-06T22:15:00.000Z",
+    "end": "1985-09-27T22:45:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "213670"
+      },
+      {
+        "site": "kitsu",
+        "id": "11695"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31693"
+      },
+      {
+        "site": "notify",
+        "id": "K7H3pKmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1984,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 47,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/64569.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/64569t.jpg",
+    "synonyms": [
+      "A Great Super Shot Boy",
+      "Ashita Tenki ni Nare",
+      "Ashita Tenki ni Nare!",
+      "Ashita Tenki ni Nāre",
+      "There's Good Weather Tomorrow",
+      "Tutti in campo con Lotti",
+      "あしたてんきになあれ",
+      "あした天気になあれ"
+    ]
+  }
+]

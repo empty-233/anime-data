@@ -1,100 +1,659 @@
-{
-  "title": "とつくにの少女",
-  "titleTranslate": {
-    "zh-Hans": [
-      "外之国的少女"
+[
+  {
+    "title": "パリピ孔明",
+    "titleTranslate": {
+      "zh-Hans": [
+        "派对浪客诸葛孔明"
+      ],
+      "zh-Hant": [
+        "派對咖孔明"
+      ],
+      "en": [
+        "Ya Boy Kongming!"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://paripikoumei-anime.com/",
+    "begin": "2022-03-31T14:00:00.000Z",
+    "broadcast": "R/2022-03-31T14:00:00.000Z/P7D",
+    "end": "2022-06-16T14:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "356756"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28237168",
+        "begin": "2022-03-31T14:00:00.000Z",
+        "broadcast": "R/2022-03-31T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjuOubI270MA-1dS5L7OvWS",
+        "begin": "2022-07-27T16:00:00.000Z",
+        "broadcast": "R/2022-07-27T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTierIi_Irs16qMtScQxSc-",
+        "begin": "2022-07-27T16:00:00.000Z",
+        "broadcast": "R/2022-07-27T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "120624",
+        "begin": "2022-07-28T10:00:00.000Z",
+        "broadcast": "R/2022-07-28T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81593152",
+        "begin": "2022-09-19T16:00:00.000Z",
+        "broadcast": "R/2022-09-19T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "2240175",
+        "begin": "2023-09-14T16:00:00.000Z",
+        "broadcast": "R/2023-09-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anime-planet",
+        "id": "queendom-chikichikibanban"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2022,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1970/122297.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1970/122297t.jpg",
+    "synonyms": [
+      "Imprezowicz Kongming",
+      "Paripi Kongming",
+      "Paripi Kōmei",
+      "Parmei",
+      "Party People Kongming",
+      "Party People Koumei",
+      "Ya Boy Kongming!",
+      "ขงเบ้งเจาะเวลามาปั้นดาว",
+      "パリピ孔明",
+      "派对浪客诸葛孔明",
+      "派對咖孔明"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "https://www.totsukuni.com/",
-  "begin": "2022-03-09T16:00:00.000Z",
-  "end": "2022-03-09T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "329907"
+  {
+    "title": "BanG Dream! ガールズバンドパーティ！ 5th Anniversary Animation -CiRCLE THANKS PARTY!-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "BanG Dream! 少女乐团派对！5周年纪念动画 -CiRCLE THANKS PARTY!-"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "28237281",
-      "begin": "",
-      "broadcast": ""
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://bang-dream.bushimo.jp/news/20220128/post-285",
+    "begin": "2022-03-10T14:00:00.000Z",
+    "broadcast": "R/2022-03-10T14:00:00.000Z/P7D",
+    "end": "2022-03-17T14:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "373931"
+      },
+      {
+        "site": "anidb",
+        "id": "12262"
+      },
+      {
+        "site": "anilist",
+        "id": "101634"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bang-dream-3rd-season"
+      },
+      {
+        "site": "anisearch",
+        "id": "13611"
+      },
+      {
+        "site": "kitsu",
+        "id": "41290"
+      },
+      {
+        "site": "livechart",
+        "id": "10567"
+      },
+      {
+        "site": "livechart",
+        "id": "10631"
+      },
+      {
+        "site": "livechart",
+        "id": "2247"
+      },
+      {
+        "site": "livechart",
+        "id": "2537"
+      },
+      {
+        "site": "livechart",
+        "id": "3225"
+      },
+      {
+        "site": "livechart",
+        "id": "3238"
+      },
+      {
+        "site": "livechart",
+        "id": "3239"
+      },
+      {
+        "site": "livechart",
+        "id": "3240"
+      },
+      {
+        "site": "livechart",
+        "id": "9396"
+      },
+      {
+        "site": "livechart",
+        "id": "9667"
+      },
+      {
+        "site": "livechart",
+        "id": "9713"
+      },
+      {
+        "site": "livechart",
+        "id": "9841"
+      },
+      {
+        "site": "livechart",
+        "id": "9897"
+      },
+      {
+        "site": "livechart",
+        "id": "9898"
+      },
+      {
+        "site": "livechart",
+        "id": "9899"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37870"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2022,
+      "month": "03"
     },
-    {
-      "site": "anidb",
-      "id": "14736"
-    },
-    {
-      "site": "anilist",
-      "id": "108354"
-    },
-    {
-      "site": "anime-planet",
-      "id": "the-girl-from-the-other-side-siuil-a-run-ova"
-    },
-    {
-      "site": "anisearch",
-      "id": "14252"
-    },
-    {
-      "site": "kitsu",
-      "id": "42185"
-    },
-    {
-      "site": "livechart",
-      "id": "10576"
-    },
-    {
-      "site": "livechart",
-      "id": "9267"
-    },
-    {
-      "site": "myanimelist",
-      "id": "39495"
-    },
-    {
-      "site": "notify",
-      "id": "mFhT9d6mR"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 2022,
-    "month": "03"
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/1343/121390.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1343/121390t.jpg",
+    "synonyms": [
+      "BanG Dream! Girls Band Party! 5th Anniversary Animation - CiRCLE THANKS PARTY!",
+      "BanG Dream! Girls Band Party! 5th Anniversary Animation -CiRCLE THANKS PARTY!-",
+      "BanG Dream! Girls Band Party! 5th Anniversary Animation: Circle Thanks Party!",
+      "BanG Dream! Girls Band Party!: 5th Anniversary Animation - CiRCLE THANKS PARTY!",
+      "BanG Dream! ガールズバンドパーティ！ 5th Anniversary Animation -CiRCLE THANKS PARTY!-",
+      "Bandori! Girls Band Party! 5th Anniversary Animation: Circle Thanks Party!",
+      "Bang Dream! Girls Band Party! 5th Anniversary Animation: Circle Thanks Party!",
+      "CiRCLE THANKS PARTY!",
+      "Garupa 5th Anniversary Anime",
+      "ガルパ5周年記念アニメ",
+      "バンドリ! ガールズバンドパーティ! 5th Anniversary Animation -CiRCLE THANKS PARTY!-",
+      "バンドリ！ ガールズバンドパーティ！ 5th Anniversary Animation -CiRCLE THANKS PARTY！",
+      "バンドリ！ ガールズバンドパーティ！ 5th Anniversary Animation -CiRCLE THANKS PARTY！-"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1957/113267.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1957/113267t.jpg",
-  "synonyms": [
-    "A Menina do Outro Lado",
-    "Das fremde Mädchen (2022)",
-    "Dziewczynka w Krainie Przeklętych",
-    "L'Enfant et le Maudit",
-    "La pequeña forastera: Siúil, a Rún (2022)",
-    "L’Enfant et le Maudit",
-    "Siúil, a Rún",
-    "Siúil, a Rún OVA",
-    "The Girl From the Other Side",
-    "The Girl From the Other Side: Siuil, a Run (2022)",
-    "The Girl From the Other Side: Siúil, a Rún OVA",
-    "The Girl from the Other Side",
-    "The Girl from the Other Side (2022)",
-    "The Girl from the Other Side: Siuil",
-    "The Girl from the Other Side: Siuil, a Run (2022)",
-    "The Girl from the Other Side: Siúil",
-    "Totsukuni no Shoujo",
-    "Totsukuni no Shoujo OAD",
-    "Totsukuni no Shoujo OVA",
-    "Totsukuni no Shōjo (2022)",
-    "a Run (2022)",
-    "a Rún (2022)",
-    "الفتاة التي تعيش في دولة الغيب (2022)",
-    "とつくにの少女",
-    "とつくにの少女 (2022)",
-    "とつくにの少女 （2022）",
-    "外之国的少女（2020）"
-  ]
-}
+  {
+    "title": "赤ちゃん本部長(第3シリーズ)",
+    "titleTranslate": {
+      "en": [
+        "GENERAL MANAGER OF BABY"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.nhk.jp/p/ts/7PR67N6RJ8/",
+    "begin": "2022-03-27T16:06:00.000Z",
+    "broadcast": "R/2022-03-27T16:06:00.000Z/P7D",
+    "end": "2022-03-27T16:57:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "anidb",
+        "id": "17123"
+      },
+      {
+        "site": "anime-planet",
+        "id": "baby-in-charge-2nd-season"
+      },
+      {
+        "site": "anisearch",
+        "id": "17112"
+      },
+      {
+        "site": "kitsu",
+        "id": "45994"
+      },
+      {
+        "site": "livechart",
+        "id": "10441"
+      },
+      {
+        "site": "livechart",
+        "id": "11020"
+      },
+      {
+        "site": "myanimelist",
+        "id": "51132"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2022,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 10,
+    "picture": "https://cdn.myanimelist.net/images/anime/1035/124259.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1035/124259t.jpg",
+    "synonyms": [
+      "Aka-chan Honbuchou 3rd Season",
+      "Akachan Honbuchou 3rd Series",
+      "Akachan Honbuchō 3rd Series",
+      "Baby in Charge 3rd Season",
+      "General Manager of Baby 3rd Season",
+      "General Manager of Baby 3rd Series",
+      "赤ちゃん本部長 （第3シリーズ）",
+      "赤ちゃん本部長(第3シリーズ)"
+    ]
+  },
+  {
+    "title": "コタローは1人暮らし",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小太郎一个人生活"
+      ],
+      "zh-Hant": [
+        "小太郎一個人生活"
+      ],
+      "en": [
+        "Kotaro Lives Alone"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://kotaro-anime.com",
+    "begin": "2022-03-09T16:00:00.000Z",
+    "end": "2022-03-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "350362"
+      },
+      {
+        "site": "netflix",
+        "id": "81275353",
+        "begin": "2022-03-09T16:00:00.000Z",
+        "broadcast": "R/2022-03-09T16:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2022,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 10,
+    "picture": "https://cdn.myanimelist.net/images/anime/1862/121020.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1862/121020t.jpg",
+    "synonyms": [
+      "Kotaro En Solo",
+      "Kotaro Lives Alone",
+      "Kotaro Lives By Himself",
+      "Kotaro Vai Morar Sozinho",
+      "Kotaro abita da solo",
+      "Kotaro en solo",
+      "Kotaro vive solo",
+      "Kotarou wa Hitori Gurashi",
+      "Kotarō wa Hitori Gurashi",
+      "Ο Κόταρο Ζει Μόνος του",
+      "โคทาโร่อยู่คนเดียว",
+      "コタローは1人暮らし",
+      "コタローは１人暮らし",
+      "小太郎一个人生活"
+    ]
+  },
+  {
+    "title": "テルマエ・ロマエ ノヴァエ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新罗马浴场"
+      ],
+      "zh-Hant": [
+        "新羅馬浴場"
+      ],
+      "en": [
+        "Thermae Romae Novae"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-03-27T16:00:00.000Z",
+    "end": "2022-03-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317692"
+      },
+      {
+        "site": "netflix",
+        "id": "81264354",
+        "begin": "2022-03-27T16:00:00.000Z",
+        "broadcast": "R/2022-03-27T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "8831"
+      },
+      {
+        "site": "anilist",
+        "id": "12321"
+      },
+      {
+        "site": "anime-planet",
+        "id": "thermae-romae"
+      },
+      {
+        "site": "anisearch",
+        "id": "7472"
+      },
+      {
+        "site": "kitsu",
+        "id": "6705"
+      },
+      {
+        "site": "livechart",
+        "id": "4574"
+      },
+      {
+        "site": "livechart",
+        "id": "6780"
+      },
+      {
+        "site": "livechart",
+        "id": "7113"
+      },
+      {
+        "site": "livechart",
+        "id": "7680"
+      },
+      {
+        "site": "myanimelist",
+        "id": "12321"
+      },
+      {
+        "site": "notify",
+        "id": "Vn5HpFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2022,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 11,
+    "picture": "https://cdn.myanimelist.net/images/anime/1728/120982.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1728/120982t.jpg",
+    "synonyms": [
+      "THERMÆ ROMÆ NOVÆ",
+      "Новые римские бани",
+      "สู้ต่อไป ลูเชียส!! (ประดิษฐกรรมใหม่)",
+      "テルマエ・ロマエ ノヴァエ"
+    ]
+  },
+  {
+    "title": "ストライク・ザ・ブラッドFINAL",
+    "titleTranslate": {
+      "zh-Hans": [
+        "噬血狂袭 最终季"
+      ],
+      "zh-Hant": [
+        "噬血狂襲 FINAL"
+      ],
+      "en": [
+        "STRIKE THE BLOOD FINAL"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.strike-the-blood.com/final/index.html",
+    "begin": "2022-03-29T16:00:00.000Z",
+    "end": "2022-07-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "340288"
+      },
+      {
+        "site": "mytv",
+        "id": "strikethebloodfinal_136930",
+        "begin": "2022-11-11T17:00:00.000Z",
+        "broadcast": "R/2022-11-11T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "15126"
+      },
+      {
+        "site": "anilist",
+        "id": "112296"
+      },
+      {
+        "site": "anime-planet",
+        "id": "strike-the-blood"
+      },
+      {
+        "site": "anime-planet",
+        "id": "strike-the-blood-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "strike-the-blood-iii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "strike-the-blood-iv"
+      },
+      {
+        "site": "anime-planet",
+        "id": "strike-the-blood-kieta-seisou-hen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "strike-the-blood-kingdom-of-the-valkyria"
+      },
+      {
+        "site": "anisearch",
+        "id": "14664"
+      },
+      {
+        "site": "kitsu",
+        "id": "42606"
+      },
+      {
+        "site": "livechart",
+        "id": "107"
+      },
+      {
+        "site": "livechart",
+        "id": "1446"
+      },
+      {
+        "site": "livechart",
+        "id": "2186"
+      },
+      {
+        "site": "livechart",
+        "id": "3145"
+      },
+      {
+        "site": "livechart",
+        "id": "9623"
+      },
+      {
+        "site": "livechart",
+        "id": "9625"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40485"
+      },
+      {
+        "site": "notify",
+        "id": "VWhmxx8Zg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2022,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/1208/120085.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1208/120085t.jpg",
+    "synonyms": [
+      "StB 5",
+      "StB Final",
+      "Strike the Blood FINAL",
+      "Strike the Blood Fifth",
+      "Strike the Blood Season 5",
+      "Strike the Blood V",
+      "stb5",
+      "ราชันย์โลหิตรัตติกาล ภาค 5",
+      "ストライク・ザ・ブラッド V",
+      "ストライク・ザ・ブラッドFINAL",
+      "噬血狂袭 最终季",
+      "스트라이크 더 블러드 Final"
+    ]
+  },
+  {
+    "title": "とつくにの少女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "外之国的少女"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://www.totsukuni.com/",
+    "begin": "2022-03-09T16:00:00.000Z",
+    "end": "2022-03-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "329907"
+      },
+      {
+        "site": "bilibili",
+        "id": "28237281",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "14736"
+      },
+      {
+        "site": "anilist",
+        "id": "108354"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-girl-from-the-other-side-siuil-a-run-ova"
+      },
+      {
+        "site": "anisearch",
+        "id": "14252"
+      },
+      {
+        "site": "kitsu",
+        "id": "42185"
+      },
+      {
+        "site": "livechart",
+        "id": "10576"
+      },
+      {
+        "site": "livechart",
+        "id": "9267"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39495"
+      },
+      {
+        "site": "notify",
+        "id": "mFhT9d6mR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2022,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1957/113267.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1957/113267t.jpg",
+    "synonyms": [
+      "A Menina do Outro Lado",
+      "Das fremde Mädchen (2022)",
+      "Dziewczynka w Krainie Przeklętych",
+      "L'Enfant et le Maudit",
+      "La pequeña forastera: Siúil, a Rún (2022)",
+      "L’Enfant et le Maudit",
+      "Siúil, a Rún",
+      "Siúil, a Rún OVA",
+      "The Girl From the Other Side",
+      "The Girl From the Other Side: Siuil, a Run (2022)",
+      "The Girl From the Other Side: Siúil, a Rún OVA",
+      "The Girl from the Other Side",
+      "The Girl from the Other Side (2022)",
+      "The Girl from the Other Side: Siuil",
+      "The Girl from the Other Side: Siuil, a Run (2022)",
+      "The Girl from the Other Side: Siúil",
+      "Totsukuni no Shoujo",
+      "Totsukuni no Shoujo OAD",
+      "Totsukuni no Shoujo OVA",
+      "Totsukuni no Shōjo (2022)",
+      "a Run (2022)",
+      "a Rún (2022)",
+      "الفتاة التي تعيش في دولة الغيب (2022)",
+      "とつくにの少女",
+      "とつくにの少女 (2022)",
+      "とつくにの少女 （2022）",
+      "外之国的少女（2020）"
+    ]
+  }
+]

@@ -1,278 +1,2062 @@
-{
-  "title": "デュエル・マスターズ",
-  "titleTranslate": {
-    "zh-Hans": [
-      "决斗大师"
+[
+  {
+    "title": "アソボット戦記五九",
+    "titleTranslate": {
+      "zh-Hans": [
+        "猴王五九",
+        "西游战记",
+        "猴王五九远征记",
+        "阿波特战记五九"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.avexmovie.jp/lineup/asobot/asobot.html",
+    "begin": "2002-10-01T09:30:00.000Z",
+    "end": "2003-09-23T10:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "iasib5N58FdbMWlPw",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "47968"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2002,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 52,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/5030.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/5030t.jpg",
+    "synonyms": [
+      "Anbot Senki Gokyuu",
+      "Asobot Senki Gokū",
+      "Asobotto Senki Goku",
+      "Association Robot Goku",
+      "Bandidos del Tiempo",
+      "Monkey Typhoon",
+      "asobot",
+      "asobotto",
+      "asobottosenki",
+      "あそぼっとせんきごくう",
+      "アソボット戦記五九"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "2002-10-21T16:00:00.000Z",
-  "end": "2003-04-04T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "191115"
+  {
+    "title": "ボンバーマンジェッターズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "轰炸超人",
+        "BOM BOM弹珠人太空战士"
+      ]
     },
-    {
-      "site": "nicovideo",
-      "id": "duelmasters01",
-      "begin": "2014-11-27T06:00:00.000Z"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.hudson.co.jp/gamenavi/gamedb/softinfo/bomb_jetters/anime/",
+    "begin": "2002-10-02T09:30:00.000Z",
+    "end": "2003-09-24T10:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10401"
+      },
+      {
+        "site": "anidb",
+        "id": "3585"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bomberman-b-daman-bakugaiden"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bomberman-b-daman-bakugaiden-v"
+      },
+      {
+        "site": "anisearch",
+        "id": "1521"
+      },
+      {
+        "site": "livechart",
+        "id": "8320"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1672"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2002,
+      "month": "10"
     },
-    {
-      "site": "anidb",
-      "id": "2911"
-    },
-    {
-      "site": "anidb",
-      "id": "4798"
-    },
-    {
-      "site": "anidb",
-      "id": "5527"
-    },
-    {
-      "site": "anilist",
-      "id": "146859"
-    },
-    {
-      "site": "anilist",
-      "id": "3669"
-    },
-    {
-      "site": "anilist",
-      "id": "4443"
-    },
-    {
-      "site": "anilist",
-      "id": "6062"
-    },
-    {
-      "site": "anilist",
-      "id": "9282"
-    },
-    {
-      "site": "anime-planet",
-      "id": "duel-masters-charge"
-    },
-    {
-      "site": "anime-planet",
-      "id": "duel-masters-cross"
-    },
-    {
-      "site": "anime-planet",
-      "id": "duel-masters-cross-shock"
-    },
-    {
-      "site": "anime-planet",
-      "id": "duel-masters-curse-of-the-deathphoenix"
-    },
-    {
-      "site": "anime-planet",
-      "id": "duel-masters-hamukatsu-to-dogiragon-no-curry-pan-daibouken"
-    },
-    {
-      "site": "anime-planet",
-      "id": "duel-masters-lunatic-god-saga"
-    },
-    {
-      "site": "anime-planet",
-      "id": "duel-masters-versus"
-    },
-    {
-      "site": "anime-planet",
-      "id": "duel-masters-versus-revolution"
-    },
-    {
-      "site": "anime-planet",
-      "id": "duel-masters-victory"
-    },
-    {
-      "site": "anime-planet",
-      "id": "duel-masters-victory-v"
-    },
-    {
-      "site": "anime-planet",
-      "id": "duel-masters-victory-v3"
-    },
-    {
-      "site": "anime-planet",
-      "id": "duel-masters-vs-revolution-final"
-    },
-    {
-      "site": "anime-planet",
-      "id": "duel-masters-zero"
-    },
-    {
-      "site": "anime-planet",
-      "id": "shinseiki-duel-masters-flash"
-    },
-    {
-      "site": "anime-planet",
-      "id": "zero-duel-masters"
-    },
-    {
-      "site": "anisearch",
-      "id": "15010"
-    },
-    {
-      "site": "anisearch",
-      "id": "3935"
-    },
-    {
-      "site": "anisearch",
-      "id": "4563"
-    },
-    {
-      "site": "anisearch",
-      "id": "55"
-    },
-    {
-      "site": "kitsu",
-      "id": "10731"
-    },
-    {
-      "site": "kitsu",
-      "id": "3181"
-    },
-    {
-      "site": "kitsu",
-      "id": "3610"
-    },
-    {
-      "site": "kitsu",
-      "id": "4404"
-    },
-    {
-      "site": "kitsu",
-      "id": "5654"
-    },
-    {
-      "site": "kitsu",
-      "id": "6222"
-    },
-    {
-      "site": "livechart",
-      "id": "11011"
-    },
-    {
-      "site": "livechart",
-      "id": "11012"
-    },
-    {
-      "site": "livechart",
-      "id": "11013"
-    },
-    {
-      "site": "livechart",
-      "id": "1374"
-    },
-    {
-      "site": "livechart",
-      "id": "1519"
-    },
-    {
-      "site": "livechart",
-      "id": "2005"
-    },
-    {
-      "site": "livechart",
-      "id": "2075"
-    },
-    {
-      "site": "livechart",
-      "id": "2547"
-    },
-    {
-      "site": "livechart",
-      "id": "3154"
-    },
-    {
-      "site": "livechart",
-      "id": "503"
-    },
-    {
-      "site": "livechart",
-      "id": "6826"
-    },
-    {
-      "site": "livechart",
-      "id": "7488"
-    },
-    {
-      "site": "livechart",
-      "id": "8568"
-    },
-    {
-      "site": "livechart",
-      "id": "9199"
-    },
-    {
-      "site": "livechart",
-      "id": "9874"
-    },
-    {
-      "site": "myanimelist",
-      "id": "10525"
-    },
-    {
-      "site": "myanimelist",
-      "id": "3669"
-    },
-    {
-      "site": "myanimelist",
-      "id": "4443"
-    },
-    {
-      "site": "myanimelist",
-      "id": "6062"
-    },
-    {
-      "site": "myanimelist",
-      "id": "9282"
-    },
-    {
-      "site": "notify",
-      "id": "7PUXcKimR"
-    },
-    {
-      "site": "notify",
-      "id": "87I4pFimg"
-    },
-    {
-      "site": "notify",
-      "id": "FWwwpKimg"
-    },
-    {
-      "site": "notify",
-      "id": "IaQWpKmiR"
-    },
-    {
-      "site": "notify",
-      "id": "QUIlcFmiR"
-    },
-    {
-      "site": "notify",
-      "id": "al2qcKiig"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 2002,
-    "month": "10"
+    "status": "FINISHED",
+    "episodes": 52,
+    "picture": "https://cdn.myanimelist.net/images/anime/1337/123742.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1337/123742t.jpg",
+    "synonyms": [
+      "BJ",
+      "BMan",
+      "Bomberman Jetterz",
+      "ボンバーマン ジェッターズ",
+      "ボンバーマンジェッターズ",
+      "轰炸超人"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 26,
-  "picture": "https://cdn.myanimelist.net/images/anime/3/21506.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/3/21506t.jpg",
-  "synonyms": [
-    "A párbaj mesterei",
-    "Duel Masters 2.0",
-    "Mistrzowie Kaijudo",
-    "Mistrzowie kaijudo",
-    "דואל מאסטר",
-    "デュエル・マスターズ",
-    "决斗大师"
-  ]
-}
+  {
+    "title": "NARUTO -ナルト-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "火影忍者",
+        "鸣人传",
+        "狐忍"
+      ],
+      "en": [
+        "Naruto"
+      ],
+      "zh-Hant": [
+        "火影忍者"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/naruto2002/",
+    "begin": "2002-10-03T09:30:00.000Z",
+    "end": "2007-02-08T10:57:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10017794",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3425"
+      },
+      {
+        "site": "nicovideo",
+        "id": "naruto",
+        "begin": "2015-07-15T06:00:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "70205012",
+        "begin": "2017-02-01T08:00:00.000Z",
+        "broadcast": "R/2023-01-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "124",
+        "begin": "2020-08-12T07:00:00.000Z",
+        "broadcast": "R/2020-08-12T07:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1456"
+      },
+      {
+        "site": "anidb",
+        "id": "17659"
+      },
+      {
+        "site": "anidb",
+        "id": "17897"
+      },
+      {
+        "site": "anidb",
+        "id": "3030"
+      },
+      {
+        "site": "anidb",
+        "id": "4421"
+      },
+      {
+        "site": "anidb",
+        "id": "4880"
+      },
+      {
+        "site": "anidb",
+        "id": "7228"
+      },
+      {
+        "site": "anidb",
+        "id": "8387"
+      },
+      {
+        "site": "anidb",
+        "id": "9685"
+      },
+      {
+        "site": "anilist",
+        "id": "10659"
+      },
+      {
+        "site": "anilist",
+        "id": "1074"
+      },
+      {
+        "site": "anilist",
+        "id": "155348"
+      },
+      {
+        "site": "anilist",
+        "id": "162561"
+      },
+      {
+        "site": "anilist",
+        "id": "1735"
+      },
+      {
+        "site": "anilist",
+        "id": "2144"
+      },
+      {
+        "site": "anilist",
+        "id": "442"
+      },
+      {
+        "site": "anilist",
+        "id": "594"
+      },
+      {
+        "site": "anilist",
+        "id": "7367"
+      },
+      {
+        "site": "anilist",
+        "id": "761"
+      },
+      {
+        "site": "anilist",
+        "id": "936"
+      },
+      {
+        "site": "anime-planet",
+        "id": "boruto-naruto-next-generations"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-hidden-leaf-village-grand-sports-festival"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-movie-1-ninja-clash-in-the-land-of-snow"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-movie-2-legend-of-the-stone-of-gelel"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-movie-3-guardians-of-the-crescent-moon-kingdom"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-narutimate-hero-3-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-naruto-to-mashin-to-mitsu-no-onegai-dattebayo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-new"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-shippuden"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-special-1-find-the-crimson-four-leaf-clover"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-special-2-battle-at-hidden-falls-i-am-the-hero"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-the-cross-roads"
+      },
+      {
+        "site": "anisearch",
+        "id": "17766"
+      },
+      {
+        "site": "anisearch",
+        "id": "18260"
+      },
+      {
+        "site": "anisearch",
+        "id": "2988"
+      },
+      {
+        "site": "anisearch",
+        "id": "3574"
+      },
+      {
+        "site": "anisearch",
+        "id": "3647"
+      },
+      {
+        "site": "anisearch",
+        "id": "3972"
+      },
+      {
+        "site": "anisearch",
+        "id": "4096"
+      },
+      {
+        "site": "anisearch",
+        "id": "4097"
+      },
+      {
+        "site": "anisearch",
+        "id": "4098"
+      },
+      {
+        "site": "anisearch",
+        "id": "5853"
+      },
+      {
+        "site": "anisearch",
+        "id": "604"
+      },
+      {
+        "site": "kitsu",
+        "id": "1555"
+      },
+      {
+        "site": "kitsu",
+        "id": "1941"
+      },
+      {
+        "site": "kitsu",
+        "id": "405"
+      },
+      {
+        "site": "kitsu",
+        "id": "46581"
+      },
+      {
+        "site": "kitsu",
+        "id": "4953"
+      },
+      {
+        "site": "kitsu",
+        "id": "549"
+      },
+      {
+        "site": "kitsu",
+        "id": "683"
+      },
+      {
+        "site": "kitsu",
+        "id": "833"
+      },
+      {
+        "site": "kitsu",
+        "id": "960"
+      },
+      {
+        "site": "livechart",
+        "id": "316"
+      },
+      {
+        "site": "livechart",
+        "id": "3788"
+      },
+      {
+        "site": "livechart",
+        "id": "3790"
+      },
+      {
+        "site": "livechart",
+        "id": "3791"
+      },
+      {
+        "site": "livechart",
+        "id": "3854"
+      },
+      {
+        "site": "livechart",
+        "id": "3859"
+      },
+      {
+        "site": "livechart",
+        "id": "3881"
+      },
+      {
+        "site": "livechart",
+        "id": "3883"
+      },
+      {
+        "site": "livechart",
+        "id": "4063"
+      },
+      {
+        "site": "livechart",
+        "id": "4126"
+      },
+      {
+        "site": "livechart",
+        "id": "4182"
+      },
+      {
+        "site": "livechart",
+        "id": "4253"
+      },
+      {
+        "site": "livechart",
+        "id": "4370"
+      },
+      {
+        "site": "livechart",
+        "id": "4378"
+      },
+      {
+        "site": "livechart",
+        "id": "4847"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1074"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1735"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2144"
+      },
+      {
+        "site": "myanimelist",
+        "id": "442"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53236"
+      },
+      {
+        "site": "myanimelist",
+        "id": "54688"
+      },
+      {
+        "site": "myanimelist",
+        "id": "594"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7367"
+      },
+      {
+        "site": "myanimelist",
+        "id": "761"
+      },
+      {
+        "site": "myanimelist",
+        "id": "936"
+      },
+      {
+        "site": "notify",
+        "id": "97dB5Kmmg"
+      },
+      {
+        "site": "notify",
+        "id": "9F_RtFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "GIGocKimR"
+      },
+      {
+        "site": "notify",
+        "id": "UM415KmiR"
+      },
+      {
+        "site": "notify",
+        "id": "WauocFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "_59LcFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "dJApSh-4g"
+      },
+      {
+        "site": "notify",
+        "id": "hupAcFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "j5U15Fmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2002,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 220,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/17405.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/17405t.jpg",
+    "synonyms": [
+      "NARUTO",
+      "NARUTO -ナルト-",
+      "NARUTO 少年篇",
+      "NTV",
+      "Narutas",
+      "Naruto Origins",
+      "Naruto TV",
+      "Naruto: Shounen Hen",
+      "Phénomène Naruto",
+      "Наруто",
+      "נארוטו",
+      "ناروتو",
+      "ناروٹو",
+      "நருடோ",
+      "นารูโตะ นินจาจอมคาถา",
+      "ナルト",
+      "ナルト 少年篇",
+      "火影忍者",
+      "나루토"
+    ]
+  },
+  {
+    "title": "灰羽連盟",
+    "titleTranslate": {
+      "zh-Hans": [
+        "灰羽联盟"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.geneon-ent.co.jp/rondorobe/anime/haibane/",
+    "begin": "2002-10-09T17:43:00.000Z",
+    "end": "2002-12-18T18:28:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "2w76eOBGtvRX1T0",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "893"
+      },
+      {
+        "site": "bilibili",
+        "id": "2074",
+        "begin": "2002-10-08T16:00:00.000Z",
+        "broadcast": "R/2012-11-06T20:46:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2002,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/13134.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/13134t.jpg",
+    "synonyms": [
+      "Ailes Grises",
+      "Ailes Grises : Haibane Renmei",
+      "Alas Grises",
+      "Ales Grises",
+      "Ali Grigie",
+      "Ali grigie",
+      "Ashwing League",
+      "Charcoal Feather Federation",
+      "Graywing League",
+      "HR",
+      "Haibane",
+      "Haibane Renmei - Ailes Grises",
+      "Haibane renmei: Stowarzyszenie Szaropiórych",
+      "Haibane renmei: Stowarzyszenie szaropiórych",
+      "La Federación de las Plumas de Carbón",
+      "La Federazione delle Piume Cineree",
+      "Przymierze szarych skrzydeł",
+      "Une fille qui a des ailes grises",
+      "Альянс Пепельнокрылых",
+      "Альянс Попелястокрилих",
+      "Альянс Серокрылых",
+      "Союз Серокрылых",
+      "Союз сірокрилих",
+      "Съюзът на Среброкрилите",
+      "Товариство сірокрилих",
+      "بال گچی ها",
+      "هایبانه رنمی",
+      "はいばねれんめい",
+      "灰羽联盟",
+      "灰羽聯盟",
+      "灰羽連盟",
+      "잿빛 날개의 연맹",
+      "하이바네 연맹",
+      "회색 날개의 연맹"
+    ]
+  },
+  {
+    "title": "超重神グラヴィオン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超重神GRAVION"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.mediafactory.co.jp/anime/gravion/",
+    "begin": "2002-10-07T15:30:00.000Z",
+    "end": "2002-12-16T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "FVYysBhib7iayPDXU",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "13015"
+      },
+      {
+        "site": "bilibili",
+        "id": "1948",
+        "begin": "2002-10-06T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "1329"
+      },
+      {
+        "site": "anilist",
+        "id": "1149"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gravion-zwei"
+      },
+      {
+        "site": "anisearch",
+        "id": "1205"
+      },
+      {
+        "site": "kitsu",
+        "id": "1030"
+      },
+      {
+        "site": "livechart",
+        "id": "6616"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1149"
+      },
+      {
+        "site": "notify",
+        "id": "Y_ibcFmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2002,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/75166.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/75166t.jpg",
+    "synonyms": [
+      "Chōjūshin Gravion",
+      "Gravion",
+      "Super Gravity God Gravion",
+      "Super Heavy God Gravion",
+      "ちょうじゅうしんぐらびおん",
+      "超重神GRAVION",
+      "超重神グラヴィオン"
+    ]
+  },
+  {
+    "title": "キディ・グレイド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天使特警"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.kiddygrade.com/1/index2.html",
+    "begin": "2002-10-08T02:00:00.000Z",
+    "end": "2003-03-18T02:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "5U86uCCG9jSXFX0",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "l/l04yo553nhn1rca",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3815"
+      },
+      {
+        "site": "anidb",
+        "id": "4999"
+      },
+      {
+        "site": "anidb",
+        "id": "5085"
+      },
+      {
+        "site": "anidb",
+        "id": "5086"
+      },
+      {
+        "site": "anidb",
+        "id": "5087"
+      },
+      {
+        "site": "anilist",
+        "id": "2176"
+      },
+      {
+        "site": "anilist",
+        "id": "3222"
+      },
+      {
+        "site": "anilist",
+        "id": "3223"
+      },
+      {
+        "site": "anilist",
+        "id": "3349"
+      },
+      {
+        "site": "anilist",
+        "id": "5859"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kiddy-girl-and"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kiddy-grade-ignition"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kiddy-grade-maelstrom"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kiddy-grade-truth-dawn"
+      },
+      {
+        "site": "anisearch",
+        "id": "4106"
+      },
+      {
+        "site": "anisearch",
+        "id": "4184"
+      },
+      {
+        "site": "kitsu",
+        "id": "1971"
+      },
+      {
+        "site": "kitsu",
+        "id": "2866"
+      },
+      {
+        "site": "kitsu",
+        "id": "2867"
+      },
+      {
+        "site": "kitsu",
+        "id": "2948"
+      },
+      {
+        "site": "kitsu",
+        "id": "4306"
+      },
+      {
+        "site": "livechart",
+        "id": "10242"
+      },
+      {
+        "site": "livechart",
+        "id": "10243"
+      },
+      {
+        "site": "livechart",
+        "id": "7128"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2176"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3222"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3223"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3349"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5859"
+      },
+      {
+        "site": "notify",
+        "id": "6vAw5Kmig"
+      },
+      {
+        "site": "notify",
+        "id": "DjRE5Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "PY4Q5Fiig"
+      },
+      {
+        "site": "notify",
+        "id": "jJ4wcFimg"
+      },
+      {
+        "site": "notify",
+        "id": "tBz35Fmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2002,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/73995.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/73995t.jpg",
+    "synonyms": [
+      "Csajkommandó",
+      "Dívčí četa",
+      "kg",
+      "kgrade",
+      "คิดดี้เกรด",
+      "きでぃぐれいど",
+      "キディ・グレイド",
+      "天使特警"
+    ]
+  },
+  {
+    "title": "花田少年史",
+    "titleTranslate": {
+      "zh-Hans": [
+        "花田少年史"
+      ],
+      "zh-Hant": [
+        "花田少年史"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.ntv.co.jp/hanada/index.html",
+    "begin": "2002-10-01T07:00:00.000Z",
+    "end": "2003-03-25T02:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "Flgkogpw4B6Bic2c",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "n/npl0hynuel8e3bn",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "8748"
+      },
+      {
+        "site": "letv",
+        "id": "14059",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2825",
+        "begin": "2002-09-30T16:00:00.000Z",
+        "broadcast": "R/2015-10-13T15:09:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "379",
+        "begin": "2020-12-01T03:10:00.000Z",
+        "broadcast": "R/2020-12-01T03:10:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2002,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 25,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/87319.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/87319t.jpg",
+    "synonyms": [
+      "Hanada",
+      "Hanada Shonen-Shi",
+      "Hanada Shōnen-shi",
+      "The Record of Boy Hanada",
+      "The Story of Young Hanada",
+      "Малкият Ханада",
+      "Ханада",
+      "الفتى هانادا",
+      "ผีซ่าส์กับฮานาดะ",
+      "はなだしょうねんし",
+      "花田少年史"
+    ]
+  },
+  {
+    "title": "ヒートガイジェイ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "钢铁侦探J"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/heat-guy/",
+    "begin": "2002-10-01T23:00:00.000Z",
+    "end": "2003-03-25T23:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "4123"
+      },
+      {
+        "site": "anilist",
+        "id": "958"
+      },
+      {
+        "site": "anime-planet",
+        "id": "heat-guy-j"
+      },
+      {
+        "site": "anisearch",
+        "id": "3071"
+      },
+      {
+        "site": "kitsu",
+        "id": "848"
+      },
+      {
+        "site": "myanimelist",
+        "id": "958"
+      },
+      {
+        "site": "notify",
+        "id": "3tHJcKmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2003,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/56995.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/56995t.jpg",
+    "synonyms": [
+      "Habitat Ground Jewdo Special",
+      "Heat Guy J Special",
+      "Heat Guy J: Angel",
+      "Heat Guy J: Captif",
+      "Heat Guy J: Episode 14.5",
+      "Heat Guy J: Ángel",
+      "Heat Guy Jay Special",
+      "HeatGuy J Special",
+      "HeatGuy J: Angel",
+      "HeatGuy J: Captive - Angel",
+      "HeatGuy J: Toriko - Angel",
+      "HeatGuy-J Special",
+      "ひーとがいじぇい",
+      "ヒートガイジェイ",
+      "ヒートガイジェイ 虜 -ANGEL-",
+      "ヒートガイジェイ虜 -ANGEL-"
+    ]
+  },
+  {
+    "title": "機動戦士ガンダムSEED",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达SEED"
+      ],
+      "zh-Hant": [
+        "機動戰士高達 Seed",
+        "機動戰士特種計劃"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.gundam-seed.net/",
+    "begin": "2002-10-05T17:57:00.000Z",
+    "end": "2003-09-27T09:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "HTYRjicddzQtu7FQ",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "7/76rndqu0bl4mzrb",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1860"
+      },
+      {
+        "site": "mytv",
+        "id": "mobilesuitgundamseed_131579",
+        "begin": "2021-04-01T16:00:00.000Z",
+        "broadcast": "R/2021-04-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1125"
+      },
+      {
+        "site": "anidb",
+        "id": "2186"
+      },
+      {
+        "site": "anidb",
+        "id": "2445"
+      },
+      {
+        "site": "anidb",
+        "id": "4165"
+      },
+      {
+        "site": "anidb",
+        "id": "4168"
+      },
+      {
+        "site": "anidb",
+        "id": "4169"
+      },
+      {
+        "site": "anidb",
+        "id": "715"
+      },
+      {
+        "site": "anilist",
+        "id": "2269"
+      },
+      {
+        "site": "anilist",
+        "id": "2298"
+      },
+      {
+        "site": "anilist",
+        "id": "2743"
+      },
+      {
+        "site": "anilist",
+        "id": "3288"
+      },
+      {
+        "site": "anilist",
+        "id": "7113"
+      },
+      {
+        "site": "anilist",
+        "id": "80"
+      },
+      {
+        "site": "anilist",
+        "id": "864"
+      },
+      {
+        "site": "anilist",
+        "id": "94"
+      },
+      {
+        "site": "anime-planet",
+        "id": "30th-gundam-perfect-mission"
+      },
+      {
+        "site": "anime-planet",
+        "id": "after-war-gundam-x"
+      },
+      {
+        "site": "anime-planet",
+        "id": "all-that-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "chou-denei-ban-sd-gundam-sangokuden-brave-battle-warriors"
+      },
+      {
+        "site": "anime-planet",
+        "id": "collection-of-key-animation-films"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gundam-mission-to-the-rise"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-fighter-g-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-00"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-0080-war-in-the-pocket"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-0083-stardust-memory"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-age"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-evolve"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-f91"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-iron-blooded-orphans"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-more-information-on-the-universal-century"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-seed-after-phase-in-the-valley-of-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-seed-ce73-stargazer"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-seed-character-theater"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-seed-destiny"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-seed-destiny-final-plus-the-chosen-future"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-seed-destiny-special-edition-i-the-broken-world"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-seed-destiny-special-edition-ii-respective-swords"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-seed-destiny-special-edition-iii-the-hell-fire-of-destiny"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-seed-destiny-special-edition-iv-the-cost-of-freedom"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-seed-movie-i-the-empty-battlefield"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-seed-movie-ii-the-far-away-dawn"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-seed-movie-iii-the-rumbling-sky"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-seed-msv-astray"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-thunderbolt"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-unicorn"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-wing"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-zz"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-sd-gundam-mk-i"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-sd-gundam-no-gyakushuu-arashi-wo-yobu-gakuensai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-zeta-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mokei-senshi-gunpla-builders-beginning-g"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ring-of-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "turn-a-gundam"
+      },
+      {
+        "site": "anisearch",
+        "id": "3004"
+      },
+      {
+        "site": "anisearch",
+        "id": "3329"
+      },
+      {
+        "site": "anisearch",
+        "id": "4297"
+      },
+      {
+        "site": "anisearch",
+        "id": "4801"
+      },
+      {
+        "site": "anisearch",
+        "id": "6663"
+      },
+      {
+        "site": "anisearch",
+        "id": "746"
+      },
+      {
+        "site": "anisearch",
+        "id": "7867"
+      },
+      {
+        "site": "kitsu",
+        "id": "2057"
+      },
+      {
+        "site": "kitsu",
+        "id": "2080"
+      },
+      {
+        "site": "kitsu",
+        "id": "2503"
+      },
+      {
+        "site": "kitsu",
+        "id": "59"
+      },
+      {
+        "site": "kitsu",
+        "id": "73"
+      },
+      {
+        "site": "kitsu",
+        "id": "765"
+      },
+      {
+        "site": "livechart",
+        "id": "10613"
+      },
+      {
+        "site": "livechart",
+        "id": "10614"
+      },
+      {
+        "site": "livechart",
+        "id": "10615"
+      },
+      {
+        "site": "livechart",
+        "id": "37"
+      },
+      {
+        "site": "livechart",
+        "id": "5215"
+      },
+      {
+        "site": "livechart",
+        "id": "5685"
+      },
+      {
+        "site": "livechart",
+        "id": "5954"
+      },
+      {
+        "site": "livechart",
+        "id": "6163"
+      },
+      {
+        "site": "livechart",
+        "id": "6499"
+      },
+      {
+        "site": "livechart",
+        "id": "6713"
+      },
+      {
+        "site": "livechart",
+        "id": "7403"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2269"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2298"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2743"
+      },
+      {
+        "site": "myanimelist",
+        "id": "80"
+      },
+      {
+        "site": "myanimelist",
+        "id": "864"
+      },
+      {
+        "site": "notify",
+        "id": "Be2p5FmmR"
+      },
+      {
+        "site": "notify",
+        "id": "_Sjy5Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "_XpPcFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "aucpcKimR"
+      },
+      {
+        "site": "notify",
+        "id": "d8l05Kimg"
+      },
+      {
+        "site": "notify",
+        "id": "mzKE5Fmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2002,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 50,
+    "picture": "https://cdn.myanimelist.net/images/anime/1792/91081.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1792/91081t.jpg",
+    "synonyms": [
+      "G SEED",
+      "GS",
+      "Gundam S",
+      "Gundam SEED",
+      "Gundam SEED TV",
+      "Gundam Seed",
+      "Gundam: Kidou Senshi Gundam SEED",
+      "Kidō Senshi Gundam SEED",
+      "Mobile Suit Gundam SEED",
+      "Mobile Suit Gundam Seed",
+      "Seed",
+      "Мобилен Костюм Гъндам Сийд",
+      "Мобильный воин ГАНДАМ: Поколение",
+      "Ґандам SEED",
+      "โมบิลสูท กันดั้มซี้ด",
+      "きどうせんしがんだむしーど",
+      "机动战士高达SEED",
+      "機動戦士ガンダムSEED",
+      "種",
+      "기동전사 건담 SEED"
+    ]
+  },
+  {
+    "title": "攻殻機動隊 STAND ALONE COMPLEX",
+    "titleTranslate": {
+      "zh-Hans": [
+        "攻壳机动队 STAND ALONE COMPLEX"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.kokaku-s.com/",
+    "begin": "2002-10-01T13:00:00.000Z",
+    "end": "2003-11-30T16:40:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "wWpV0zuhEUibyMJg",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "324"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh16xd1",
+        "begin": "2017-12-07T08:58:06.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "1564",
+        "begin": "2002-09-30T16:00:00.000Z",
+        "broadcast": "R/2011-08-25T10:01:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1176"
+      },
+      {
+        "site": "anidb",
+        "id": "3431"
+      },
+      {
+        "site": "anidb",
+        "id": "61"
+      },
+      {
+        "site": "anilist",
+        "id": "10949"
+      },
+      {
+        "site": "anilist",
+        "id": "1335"
+      },
+      {
+        "site": "anilist",
+        "id": "17187"
+      },
+      {
+        "site": "anilist",
+        "id": "2449"
+      },
+      {
+        "site": "anilist",
+        "id": "43"
+      },
+      {
+        "site": "anilist",
+        "id": "801"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-2-0"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-2-innocence"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-arise"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-arise-alternate-architecture"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-arise-another-mission"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-arise-border-less-project-working-high"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-arise-logicoma-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-ghost-chaser"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-individual-eleven"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-nyuumon-arise"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-sac-2045"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-2nd-gig"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-2nd-gig-tachikoma-days"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-individual-eleven-tachikoma-days"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-solid-state-society"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-tachikoma-days"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-tachikoma-days-2004"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-tachikoma-days-2007"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-the-laughing-man-tachikoma-days"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-standalone-complex-the-laughing-man"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-the-new-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-uchikomatic-days"
+      },
+      {
+        "site": "anisearch",
+        "id": "2088"
+      },
+      {
+        "site": "anisearch",
+        "id": "2569"
+      },
+      {
+        "site": "anisearch",
+        "id": "4405"
+      },
+      {
+        "site": "anisearch",
+        "id": "875"
+      },
+      {
+        "site": "kitsu",
+        "id": "2223"
+      },
+      {
+        "site": "kitsu",
+        "id": "25"
+      },
+      {
+        "site": "kitsu",
+        "id": "6422"
+      },
+      {
+        "site": "kitsu",
+        "id": "715"
+      },
+      {
+        "site": "kitsu",
+        "id": "8115"
+      },
+      {
+        "site": "livechart",
+        "id": "3607"
+      },
+      {
+        "site": "livechart",
+        "id": "3767"
+      },
+      {
+        "site": "livechart",
+        "id": "3782"
+      },
+      {
+        "site": "livechart",
+        "id": "3984"
+      },
+      {
+        "site": "livechart",
+        "id": "4054"
+      },
+      {
+        "site": "livechart",
+        "id": "4823"
+      },
+      {
+        "site": "livechart",
+        "id": "5530"
+      },
+      {
+        "site": "livechart",
+        "id": "5793"
+      },
+      {
+        "site": "livechart",
+        "id": "6022"
+      },
+      {
+        "site": "livechart",
+        "id": "6221"
+      },
+      {
+        "site": "livechart",
+        "id": "6604"
+      },
+      {
+        "site": "livechart",
+        "id": "7133"
+      },
+      {
+        "site": "livechart",
+        "id": "7156"
+      },
+      {
+        "site": "livechart",
+        "id": "7289"
+      },
+      {
+        "site": "livechart",
+        "id": "7353"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10949"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1335"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2449"
+      },
+      {
+        "site": "myanimelist",
+        "id": "43"
+      },
+      {
+        "site": "myanimelist",
+        "id": "801"
+      },
+      {
+        "site": "notify",
+        "id": "3fiStKimg"
+      },
+      {
+        "site": "notify",
+        "id": "8S4t5Kiig"
+      },
+      {
+        "site": "notify",
+        "id": "CUjhpKimR"
+      },
+      {
+        "site": "notify",
+        "id": "NrYRpzsmg"
+      },
+      {
+        "site": "notify",
+        "id": "U6xA5Fimg"
+      },
+      {
+        "site": "notify",
+        "id": "jdQPcKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2002,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/50857.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/50857t.jpg",
+    "synonyms": [
+      "Ghost In The Shell : Stand Alone Complex",
+      "Ghost in The Shell: Stand Alone Complex",
+      "Ghost in the Shell - Stand Alone Complex",
+      "Ghost in the Shell SAC",
+      "Ghost in the Shell TV",
+      "Ghost in the Shell: Stand Alone Complex",
+      "Ghost in the Shell: Stand Alone Complex - Cidade Assombrada",
+      "GitS SAC",
+      "GitS TV",
+      "GitS: SAC",
+      "GitS:SAC",
+      "GitSSAC",
+      "GitSSAC1",
+      "GitSTV",
+      "Koukaku Kidoutai SAC",
+      "Koukaku Kidoutai STAND ALONE COMPLEX",
+      "Koukaku Kidoutai Stand Alone Complex",
+      "Koukaku Kidoutai: STAND ALONE COMPLEX",
+      "Kōkaku Kidōtai: Stand Alone Complex",
+      "Mobile Armoured Riot Police Stand Alone Complex",
+      "SAC",
+      "SAC1",
+      "Дух в оболонці: комплекс окремості",
+      "Привид в латах: Синдром самітника",
+      "Призрак в доспехах: Автономный комплекс",
+      "Призрак в доспехах: Синдром одиночки",
+      "こうかくきどうたいすたんどあろーんこんぷれっくす",
+      "攻壳",
+      "攻壳机动队",
+      "攻壳机动队 STAND ALONE COMPLEX",
+      "攻殻機動隊 STAND ALONE COMPLEX",
+      "攻殻機動隊 Stand Alone Complex",
+      "공각기동대 STAND ALONE COMPLEX"
+    ]
+  },
+  {
+    "title": "デュエル・マスターズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "决斗大师"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-10-21T16:00:00.000Z",
+    "end": "2003-04-04T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "191115"
+      },
+      {
+        "site": "nicovideo",
+        "id": "duelmasters01",
+        "begin": "2014-11-27T06:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "2911"
+      },
+      {
+        "site": "anidb",
+        "id": "4798"
+      },
+      {
+        "site": "anidb",
+        "id": "5527"
+      },
+      {
+        "site": "anilist",
+        "id": "146859"
+      },
+      {
+        "site": "anilist",
+        "id": "3669"
+      },
+      {
+        "site": "anilist",
+        "id": "4443"
+      },
+      {
+        "site": "anilist",
+        "id": "6062"
+      },
+      {
+        "site": "anilist",
+        "id": "9282"
+      },
+      {
+        "site": "anime-planet",
+        "id": "duel-masters-charge"
+      },
+      {
+        "site": "anime-planet",
+        "id": "duel-masters-cross"
+      },
+      {
+        "site": "anime-planet",
+        "id": "duel-masters-cross-shock"
+      },
+      {
+        "site": "anime-planet",
+        "id": "duel-masters-curse-of-the-deathphoenix"
+      },
+      {
+        "site": "anime-planet",
+        "id": "duel-masters-hamukatsu-to-dogiragon-no-curry-pan-daibouken"
+      },
+      {
+        "site": "anime-planet",
+        "id": "duel-masters-lunatic-god-saga"
+      },
+      {
+        "site": "anime-planet",
+        "id": "duel-masters-versus"
+      },
+      {
+        "site": "anime-planet",
+        "id": "duel-masters-versus-revolution"
+      },
+      {
+        "site": "anime-planet",
+        "id": "duel-masters-victory"
+      },
+      {
+        "site": "anime-planet",
+        "id": "duel-masters-victory-v"
+      },
+      {
+        "site": "anime-planet",
+        "id": "duel-masters-victory-v3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "duel-masters-vs-revolution-final"
+      },
+      {
+        "site": "anime-planet",
+        "id": "duel-masters-zero"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shinseiki-duel-masters-flash"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zero-duel-masters"
+      },
+      {
+        "site": "anisearch",
+        "id": "15010"
+      },
+      {
+        "site": "anisearch",
+        "id": "3935"
+      },
+      {
+        "site": "anisearch",
+        "id": "4563"
+      },
+      {
+        "site": "anisearch",
+        "id": "55"
+      },
+      {
+        "site": "kitsu",
+        "id": "10731"
+      },
+      {
+        "site": "kitsu",
+        "id": "3181"
+      },
+      {
+        "site": "kitsu",
+        "id": "3610"
+      },
+      {
+        "site": "kitsu",
+        "id": "4404"
+      },
+      {
+        "site": "kitsu",
+        "id": "5654"
+      },
+      {
+        "site": "kitsu",
+        "id": "6222"
+      },
+      {
+        "site": "livechart",
+        "id": "11011"
+      },
+      {
+        "site": "livechart",
+        "id": "11012"
+      },
+      {
+        "site": "livechart",
+        "id": "11013"
+      },
+      {
+        "site": "livechart",
+        "id": "1374"
+      },
+      {
+        "site": "livechart",
+        "id": "1519"
+      },
+      {
+        "site": "livechart",
+        "id": "2005"
+      },
+      {
+        "site": "livechart",
+        "id": "2075"
+      },
+      {
+        "site": "livechart",
+        "id": "2547"
+      },
+      {
+        "site": "livechart",
+        "id": "3154"
+      },
+      {
+        "site": "livechart",
+        "id": "503"
+      },
+      {
+        "site": "livechart",
+        "id": "6826"
+      },
+      {
+        "site": "livechart",
+        "id": "7488"
+      },
+      {
+        "site": "livechart",
+        "id": "8568"
+      },
+      {
+        "site": "livechart",
+        "id": "9199"
+      },
+      {
+        "site": "livechart",
+        "id": "9874"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10525"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3669"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4443"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6062"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9282"
+      },
+      {
+        "site": "notify",
+        "id": "7PUXcKimR"
+      },
+      {
+        "site": "notify",
+        "id": "87I4pFimg"
+      },
+      {
+        "site": "notify",
+        "id": "FWwwpKimg"
+      },
+      {
+        "site": "notify",
+        "id": "IaQWpKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "QUIlcFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "al2qcKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2002,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/21506.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/21506t.jpg",
+    "synonyms": [
+      "A párbaj mesterei",
+      "Duel Masters 2.0",
+      "Mistrzowie Kaijudo",
+      "Mistrzowie kaijudo",
+      "דואל מאסטר",
+      "デュエル・マスターズ",
+      "决斗大师"
+    ]
+  }
+]

@@ -1,104 +1,803 @@
-{
-  "title": "サイレントメビウス2",
-  "titleTranslate": {
-    "zh-Hans": [
-      "魔法阵都市 剧场版2",
-      "魔法阵都市 剧场版 下篇",
-      "未来特警 剧场版2"
+[
+  {
+    "title": "ルパン三世 ロシアより愛をこめて",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世：俄罗斯之恋"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://lupin-3rd.net/sakuhin_tvsp.html",
+    "begin": "1992-07-24T16:00:00.000Z",
+    "end": "1992-07-24T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "67767"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lupin-3rd-SP",
+        "begin": ""
+      },
+      {
+        "site": "pptv",
+        "id": "ibZ32dNxCsvBT0Tk",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3934",
+        "begin": "1992-07-23T16:00:01.000Z",
+        "broadcast": "R/2021-03-31T15:39:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1485"
+      },
+      {
+        "site": "anilist",
+        "id": "1412"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-iii-special-19-the-elusiveness-of-the-fog"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-dead-or-alive"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-dragon-of-doom"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-farewall-to-nostradamus"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-goemons-blood-spray"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-green-vs-red"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-jigens-gravestone"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-legend-of-the-gold-of-babylon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-lupin-family-all-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-4"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-pilot-film"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-return-of-pycal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-secret-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-1-bye-bye-lady-liberty"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-11-the-columbus-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-12-missed-by-a-dollar"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-13-alcatraz-connection"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-14-episode-0-first-contact"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-15-operation-return-the-treasures"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-16-stolen-lupin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-17-angel-tactics"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-18-seven-days-rhapsody"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-2-the-hemingway-papers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-20-sweet-lost-night"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-21-lupin-the-third-vs-detective-conan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-22-the-last-job"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-23-blood-seal-of-the-eternal-mermaid"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-24-touhou-kenbunroku-another-page"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-25-princess-of-the-breeze-kakusareta-kuuchuu-toshi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-26-italian-game"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-27-goodbye-partner"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-3-napoleons-dictionary"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-5-voyage-to-danger"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-8-secret-of-the-twilight-gemini"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-9-island-of-assassins"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-speical-10-crisis-in-tokyo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-castle-of-cagliostro"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-first"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-fuma-conspiracy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-mystery-of-mamo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-woman-called-fujiko-mine"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-pursuit-of-harimaos-treasure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-viii-arsene-and-cie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "monkey-majik-lupin-the-third"
+      },
+      {
+        "site": "anisearch",
+        "id": "1138"
+      },
+      {
+        "site": "kitsu",
+        "id": "1265"
+      },
+      {
+        "site": "livechart",
+        "id": "11512"
+      },
+      {
+        "site": "livechart",
+        "id": "12098"
+      },
+      {
+        "site": "livechart",
+        "id": "12099"
+      },
+      {
+        "site": "livechart",
+        "id": "4165"
+      },
+      {
+        "site": "livechart",
+        "id": "4320"
+      },
+      {
+        "site": "livechart",
+        "id": "5905"
+      },
+      {
+        "site": "livechart",
+        "id": "6281"
+      },
+      {
+        "site": "livechart",
+        "id": "6402"
+      },
+      {
+        "site": "livechart",
+        "id": "6731"
+      },
+      {
+        "site": "livechart",
+        "id": "7324"
+      },
+      {
+        "site": "livechart",
+        "id": "7545"
+      },
+      {
+        "site": "livechart",
+        "id": "7552"
+      },
+      {
+        "site": "livechart",
+        "id": "7772"
+      },
+      {
+        "site": "livechart",
+        "id": "8223"
+      },
+      {
+        "site": "livechart",
+        "id": "9298"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1412"
+      },
+      {
+        "site": "notify",
+        "id": "Dnk-5Fmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1992,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/61697.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/61697t.jpg",
+    "synonyms": [
+      "Lupin III Special 4: From Siberia With Love",
+      "Lupin III Special 4: Russia yori Ai wo Komete",
+      "Lupin III- Il tesoro degli zar",
+      "Lupin III: Bank of Liberty",
+      "Lupin III: From Russia With Love",
+      "Lupin III: From Russia with Love",
+      "Lupin III: From Siberia With Love",
+      "Lupin III: Il tesoro degli zar",
+      "Lupin Sansei Special 04",
+      "Lupin Sansei: Russia Yori Ai o Komete",
+      "Lupin Sansei: Russia yori Ai o Komete",
+      "Lupin Sansei: Russia yori Ai wo Komete",
+      "Lupin the 3rd - From Moscow with Love",
+      "Lupin the 3rd: Bank of Liberty",
+      "Lupin the 3rd: From Moscow with Love",
+      "Lupin the 3rd: From Russia With Love",
+      "Lupin the 3rd: From Siberia with Love",
+      "Lupin the Third: Bank of Liberty",
+      "Rupan Sansei: Roshia yori Ai wo Komete",
+      "Люпен III: Из России с любовью",
+      "ルパン三世 ロシアより愛をこめて",
+      "ルパン三世『ロシアより愛をこめて』",
+      "鲁邦三世：俄罗斯之恋"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1992-07-17T16:00:00.000Z",
-  "end": "1992-07-17T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "41879"
+  {
+    "title": "ドラゴンボールZ 極限バトル!!三大超サイヤ人",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙珠Z 激战人造人"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "3967",
-      "begin": "2016-05-06T02:49:00.000Z",
-      "broadcast": "R/2016-05-06T02:49:00.000Z/P7D"
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-07-11T16:00:00.000Z",
+    "end": "1992-07-11T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "45392"
+      },
+      {
+        "site": "nicovideo",
+        "id": "DBZ_kyokugen",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4015",
+        "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "1530"
+      },
+      {
+        "site": "anilist",
+        "id": "813"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-episode-of-bardock"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-plan-to-destroy-the-saiyajin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-yo-the-return-of-son-goku-and-friends"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-atsumare-goku-world"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-battle-of-gods"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-kai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-kai-bring-peace-to-the-future-gokus-spirit-is-eternal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-kai-the-final-chapters"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-1-dead-zone"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-10-broly-second-coming"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-11-bio-broly"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-12-fusion-reborn"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-13-wrath-of-the-dragon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-15-resurrection-f"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-2-the-world-s-strongest"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-3-the-tree-of-might"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-4-lord-slug"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-5-cooler-s-revenge"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-6-return-of-cooler"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-8-broly-the-legendary-super-saiyan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-9-bojack-unbound"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-plan-to-destroy-the-saiyajin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-special-1-bardock-the-father-of-goku"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-special-2-the-history-of-trunks"
+      },
+      {
+        "site": "anisearch",
+        "id": "2938"
+      },
+      {
+        "site": "kitsu",
+        "id": "720"
+      },
+      {
+        "site": "kitsu",
+        "id": "8610"
+      },
+      {
+        "site": "livechart",
+        "id": "3632"
+      },
+      {
+        "site": "livechart",
+        "id": "4152"
+      },
+      {
+        "site": "livechart",
+        "id": "4177"
+      },
+      {
+        "site": "livechart",
+        "id": "4206"
+      },
+      {
+        "site": "livechart",
+        "id": "4219"
+      },
+      {
+        "site": "livechart",
+        "id": "4264"
+      },
+      {
+        "site": "livechart",
+        "id": "4268"
+      },
+      {
+        "site": "livechart",
+        "id": "4294"
+      },
+      {
+        "site": "livechart",
+        "id": "4304"
+      },
+      {
+        "site": "livechart",
+        "id": "4312"
+      },
+      {
+        "site": "livechart",
+        "id": "4367"
+      },
+      {
+        "site": "livechart",
+        "id": "5074"
+      },
+      {
+        "site": "livechart",
+        "id": "5540"
+      },
+      {
+        "site": "livechart",
+        "id": "5906"
+      },
+      {
+        "site": "livechart",
+        "id": "6390"
+      },
+      {
+        "site": "myanimelist",
+        "id": "22695"
+      },
+      {
+        "site": "myanimelist",
+        "id": "813"
+      },
+      {
+        "site": "notify",
+        "id": "PFZJtKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "ir-05Fmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1992,
+      "month": "07"
     },
-    {
-      "site": "anidb",
-      "id": "2334"
-    },
-    {
-      "site": "anilist",
-      "id": "1517"
-    },
-    {
-      "site": "anilist",
-      "id": "2099"
-    },
-    {
-      "site": "anime-planet",
-      "id": "silent-mobius"
-    },
-    {
-      "site": "anime-planet",
-      "id": "silent-mobius-the-motion-picture"
-    },
-    {
-      "site": "anisearch",
-      "id": "697"
-    },
-    {
-      "site": "kitsu",
-      "id": "1362"
-    },
-    {
-      "site": "kitsu",
-      "id": "1898"
-    },
-    {
-      "site": "livechart",
-      "id": "5774"
-    },
-    {
-      "site": "livechart",
-      "id": "8310"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1517"
-    },
-    {
-      "site": "myanimelist",
-      "id": "2099"
-    },
-    {
-      "site": "notify",
-      "id": "nSsYcFiig"
-    },
-    {
-      "site": "notify",
-      "id": "yFh-cFmmg"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 1992,
-    "month": "07"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1723/93670.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1723/93670t.jpg",
+    "synonyms": [
+      "Bảy Viên Ngọc Rồng Z: Người Máy Số 13",
+      "DBZ Movie 7",
+      "DBZ: Kyokugen Battle!! Sandai Super Saiyajin",
+      "DBZ: Super Android 13!",
+      "DBZ: Super Battle",
+      "DBZ: Utmost Limits of Battle!! The Three Super Saiyajin",
+      "DRAGON BALL Z 極限バトル!! 三大超[スーパー]サイヤ人",
+      "Dragon Ball Z 07 - L`offensive cyborg",
+      "Dragon Ball Z 07 - L`offensive des cyborgs",
+      "Dragon Ball Z 7 - O Destemido Songoku",
+      "Dragon Ball Z Film 7: Angriff der Cyborgs",
+      "Dragon Ball Z Film 7: L'offensive des Cyborgs",
+      "Dragon Ball Z Movie 07: Super Android 13",
+      "Dragon Ball Z Movie 7: Super Android 13",
+      "Dragon Ball Z Película 7: ¡Batalla al Límite! Los 3 Grandes Super Saiyans",
+      "Dragon Ball Z: Extreme Battle! Three Super Saiyajin",
+      "Dragon Ball Z: Extreme Battle!! Three Super Saiyajin",
+      "Dragon Ball Z: I tre Super Saiyan",
+      "Dragon Ball Z: I tre supersaiyan",
+      "Dragon Ball Z: Kyokugen Battle!! Sandai Super Saiya-jin",
+      "Dragon Ball Z: Kyokugen Battle!! Sandai Super Saiyajin",
+      "Dragon Ball Z: Kyokugen Battle!! Sandai Super Saya-jin",
+      "Dragon Ball Z: L'Offensive des Cyborgs",
+      "Dragon Ball Z: Los Tres Grandes Súper Sayanos",
+      "Dragon Ball Z: Movie 7",
+      "Dragon Ball Z: Super Android 13",
+      "Dragon Ball Z: Super Android 13!",
+      "Dragon Ball Z: Super Battle of Three Super Saiyas",
+      "Dragon Ball Z: Superandroid #13",
+      "Dragon Ball Z: Utmost Limits of Battle!! The Three Super Saiyajin",
+      "Dragon Ball Z: ¡Una pelea extrema! Los tres grandes Super Saiyans",
+      "Dragonball Z - The Movie: Angriff der Cyborgs",
+      "Dragonball Z: Angriff der Cyborgs",
+      "Tres grandes superguerreiros",
+      "ดราก้อนบอล Z เดอะมูฟวี่ 7 ซูเปอร์ไซย่า ปะทะ มนุษย์ดัดแปลง",
+      "ドラゴンボールZ 極限バトル!! 三大超サイヤ人",
+      "ドラゴンボールZ 極限バトル!!三大超サイヤ人",
+      "ドラゴンボールＺ 極限バトル！三大超サイヤ人",
+      "ラゴンボールZ 極限バトル！！三大超サイヤ人"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/13/46951.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/13/46951t.jpg",
-  "synonyms": [
-    "Silent Mobius 2",
-    "Silent Mobius Movie 2",
-    "Silent Mobius: The Motion Picture 2",
-    "Silent Moebius Movie 2",
-    "Silent Möbius Movie 2",
-    "Silent Möbius: Le Film 2",
-    "Silent Möbius: The Motion Picture 2",
-    "サイレントメビウス2",
-    "劇場版サイレントメビウス2",
-    "魔法阵都市 剧场版2"
-  ]
-}
+  {
+    "title": "紅の豚",
+    "titleTranslate": {
+      "zh-Hans": [
+        "红猪"
+      ],
+      "zh-Hant": [
+        "紅豬",
+        "飛天紅豬俠"
+      ],
+      "en": [
+        "Porco Rosso"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-07-18T16:00:00.000Z",
+    "end": "1992-07-18T17:35:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9spg5",
+        "begin": "2017-01-24T08:06:01.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "307"
+      },
+      {
+        "site": "netflix",
+        "id": "70019060",
+        "begin": "2020-01-30T16:00:00.000Z",
+        "broadcast": "R/2020-01-30T16:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1992,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1728/138709.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1728/138709t.jpg",
+    "synonyms": [
+      "Crimson Pig",
+      "Karmínové prase",
+      "KnB",
+      "Kızıl Kanatlar",
+      "PR",
+      "Porco Rosso",
+      "Porco Rosso - A mesterpilóta",
+      "Porco Rosso: O Porquinho Voador",
+      "Porco Rosso: O Último Herói Romântico",
+      "Porko Roso",
+      "Punainen Sika",
+      "Punainen sika",
+      "På Flygande Uppdrag",
+      "Pòrco Rósso",
+      "Szkarłatny pilot",
+      "The Crimson Pig",
+      "The Scarlet Pig",
+      "kurebuta",
+      "Οι Αερομαχίες του Πόρκο Ρόσσο",
+      "Порко Россо",
+      "Червоний кабан",
+      "חזיר באוויר",
+      "פורקו רוסו",
+      "بوركو روسو",
+      "พอร์โค รอสโซ สลัดอากาศประจัญบาน",
+      "くれないのぶた",
+      "くれぶた",
+      "くれ豚",
+      "紅の豚",
+      "紅豬",
+      "红猪",
+      "飛天紅豬俠",
+      "붉은 돼지"
+    ]
+  },
+  {
+    "title": "サイレントメビウス2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法阵都市 剧场版2",
+        "魔法阵都市 剧场版 下篇",
+        "未来特警 剧场版2"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-07-17T16:00:00.000Z",
+    "end": "1992-07-17T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "41879"
+      },
+      {
+        "site": "bilibili",
+        "id": "3967",
+        "begin": "2016-05-06T02:49:00.000Z",
+        "broadcast": "R/2016-05-06T02:49:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "2334"
+      },
+      {
+        "site": "anilist",
+        "id": "1517"
+      },
+      {
+        "site": "anilist",
+        "id": "2099"
+      },
+      {
+        "site": "anime-planet",
+        "id": "silent-mobius"
+      },
+      {
+        "site": "anime-planet",
+        "id": "silent-mobius-the-motion-picture"
+      },
+      {
+        "site": "anisearch",
+        "id": "697"
+      },
+      {
+        "site": "kitsu",
+        "id": "1362"
+      },
+      {
+        "site": "kitsu",
+        "id": "1898"
+      },
+      {
+        "site": "livechart",
+        "id": "5774"
+      },
+      {
+        "site": "livechart",
+        "id": "8310"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1517"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2099"
+      },
+      {
+        "site": "notify",
+        "id": "nSsYcFiig"
+      },
+      {
+        "site": "notify",
+        "id": "yFh-cFmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1992,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/46951.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/46951t.jpg",
+    "synonyms": [
+      "Silent Mobius 2",
+      "Silent Mobius Movie 2",
+      "Silent Mobius: The Motion Picture 2",
+      "Silent Moebius Movie 2",
+      "Silent Möbius Movie 2",
+      "Silent Möbius: Le Film 2",
+      "Silent Möbius: The Motion Picture 2",
+      "サイレントメビウス2",
+      "劇場版サイレントメビウス2",
+      "魔法阵都市 剧场版2"
+    ]
+  }
+]

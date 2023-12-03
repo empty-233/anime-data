@@ -1,122 +1,2014 @@
-{
-  "title": "苺ましまろ OVA",
-  "titleTranslate": {
-    "zh-Hans": [
-      "草莓棉花糖 OVA 第1期"
+[
+  {
+    "title": "NARUTO -ナルト- 疾風伝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "火影忍者疾风传",
+        "火影忍者 疾风传"
+      ],
+      "en": [
+        "Naruto Shippuuden"
+      ],
+      "zh-Hant": [
+        "火影忍者疾風傳"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/naruto/index2.html",
+    "begin": "2007-02-15T10:30:00.000Z",
+    "end": "2017-03-23T10:53:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhabcll",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3287",
+        "begin": "2016-01-14T11:30:00.000Z",
+        "broadcast": "R/2016-01-14T11:32:00.000Z/P7D"
+      },
+      {
+        "site": "youku",
+        "id": "cc001f06962411de83b1",
+        "begin": "2013-04-06T02:47:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "2782"
+      },
+      {
+        "site": "nicovideo",
+        "id": "naruto_shippu",
+        "begin": "2015-07-15T06:00:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80000603",
+        "begin": "2022-08-06T16:00:00.000Z",
+        "broadcast": "R/2022-08-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "12495"
+      },
+      {
+        "site": "anidb",
+        "id": "17209"
+      },
+      {
+        "site": "anidb",
+        "id": "17659"
+      },
+      {
+        "site": "anidb",
+        "id": "239"
+      },
+      {
+        "site": "anidb",
+        "id": "5178"
+      },
+      {
+        "site": "anidb",
+        "id": "5914"
+      },
+      {
+        "site": "anidb",
+        "id": "6503"
+      },
+      {
+        "site": "anidb",
+        "id": "7483"
+      },
+      {
+        "site": "anidb",
+        "id": "8159"
+      },
+      {
+        "site": "anidb",
+        "id": "8312"
+      },
+      {
+        "site": "anidb",
+        "id": "8384"
+      },
+      {
+        "site": "anidb",
+        "id": "8943"
+      },
+      {
+        "site": "anidb",
+        "id": "9023"
+      },
+      {
+        "site": "anidb",
+        "id": "9588"
+      },
+      {
+        "site": "anilist",
+        "id": "10075"
+      },
+      {
+        "site": "anilist",
+        "id": "10589"
+      },
+      {
+        "site": "anilist",
+        "id": "10686"
+      },
+      {
+        "site": "anilist",
+        "id": "115105"
+      },
+      {
+        "site": "anilist",
+        "id": "12979"
+      },
+      {
+        "site": "anilist",
+        "id": "13667"
+      },
+      {
+        "site": "anilist",
+        "id": "155348"
+      },
+      {
+        "site": "anilist",
+        "id": "16870"
+      },
+      {
+        "site": "anilist",
+        "id": "19511"
+      },
+      {
+        "site": "anilist",
+        "id": "20"
+      },
+      {
+        "site": "anilist",
+        "id": "21579"
+      },
+      {
+        "site": "anilist",
+        "id": "2472"
+      },
+      {
+        "site": "anilist",
+        "id": "4134"
+      },
+      {
+        "site": "anilist",
+        "id": "4437"
+      },
+      {
+        "site": "anilist",
+        "id": "6325"
+      },
+      {
+        "site": "anilist",
+        "id": "8246"
+      },
+      {
+        "site": "anilist",
+        "id": "97938"
+      },
+      {
+        "site": "anime-planet",
+        "id": "boruto-naruto-next-generations"
+      },
+      {
+        "site": "anime-planet",
+        "id": "honoo-no-chuunin-shiken-naruto-vs-konohamaru"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-new"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-shippuden-konoha-gakuen-picture-drama-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-shippuden-movie-1"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-shippuden-movie-2-bonds"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-shippuden-movie-3-the-will-of-fire"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-shippuden-movie-4-the-lost-tower"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-shippuden-movie-5-blood-prison"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-shippuden-movie-6-road-to-ninja"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-shippuden-ova-sage-naruto-vs-sasuke"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-shippuden-sunny-side-battle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-spin-off-rock-lee-and-his-ninja-pals"
+      },
+      {
+        "site": "anime-planet",
+        "id": "supercell-utakata-hanabi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tacica-newsong"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-last-naruto-the-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "12103"
+      },
+      {
+        "site": "anisearch",
+        "id": "17766"
+      },
+      {
+        "site": "anisearch",
+        "id": "2788"
+      },
+      {
+        "site": "anisearch",
+        "id": "4272"
+      },
+      {
+        "site": "anisearch",
+        "id": "4816"
+      },
+      {
+        "site": "anisearch",
+        "id": "5279"
+      },
+      {
+        "site": "anisearch",
+        "id": "6206"
+      },
+      {
+        "site": "anisearch",
+        "id": "6730"
+      },
+      {
+        "site": "anisearch",
+        "id": "7002"
+      },
+      {
+        "site": "anisearch",
+        "id": "7479"
+      },
+      {
+        "site": "anisearch",
+        "id": "7646"
+      },
+      {
+        "site": "anisearch",
+        "id": "9794"
+      },
+      {
+        "site": "anisearch",
+        "id": "9847"
+      },
+      {
+        "site": "kitsu",
+        "id": "10089"
+      },
+      {
+        "site": "kitsu",
+        "id": "11"
+      },
+      {
+        "site": "kitsu",
+        "id": "11771"
+      },
+      {
+        "site": "kitsu",
+        "id": "13051"
+      },
+      {
+        "site": "kitsu",
+        "id": "2245"
+      },
+      {
+        "site": "kitsu",
+        "id": "3606"
+      },
+      {
+        "site": "kitsu",
+        "id": "4520"
+      },
+      {
+        "site": "kitsu",
+        "id": "5266"
+      },
+      {
+        "site": "kitsu",
+        "id": "6256"
+      },
+      {
+        "site": "kitsu",
+        "id": "7008"
+      },
+      {
+        "site": "livechart",
+        "id": "1058"
+      },
+      {
+        "site": "livechart",
+        "id": "206"
+      },
+      {
+        "site": "livechart",
+        "id": "3790"
+      },
+      {
+        "site": "livechart",
+        "id": "3791"
+      },
+      {
+        "site": "livechart",
+        "id": "3799"
+      },
+      {
+        "site": "livechart",
+        "id": "3854"
+      },
+      {
+        "site": "livechart",
+        "id": "3859"
+      },
+      {
+        "site": "livechart",
+        "id": "4253"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10075"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10589"
+      },
+      {
+        "site": "myanimelist",
+        "id": "12979"
+      },
+      {
+        "site": "myanimelist",
+        "id": "13667"
+      },
+      {
+        "site": "myanimelist",
+        "id": "16870"
+      },
+      {
+        "site": "myanimelist",
+        "id": "19511"
+      },
+      {
+        "site": "myanimelist",
+        "id": "20"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2472"
+      },
+      {
+        "site": "myanimelist",
+        "id": "28755"
+      },
+      {
+        "site": "myanimelist",
+        "id": "32365"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34566"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40971"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4134"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4437"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53236"
+      },
+      {
+        "site": "myanimelist",
+        "id": "54688"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6325"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8246"
+      },
+      {
+        "site": "notify",
+        "id": "12I5tFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "5sDX5KmiR"
+      },
+      {
+        "site": "notify",
+        "id": "6DPvtFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "AzmvpFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "CJK4pKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "Cp1qtFimg"
+      },
+      {
+        "site": "notify",
+        "id": "Gcq35Kiig"
+      },
+      {
+        "site": "notify",
+        "id": "I6DnpKiig"
+      },
+      {
+        "site": "notify",
+        "id": "IagMhFmig"
+      },
+      {
+        "site": "notify",
+        "id": "LkrPcFimg"
+      },
+      {
+        "site": "notify",
+        "id": "Pjip5Kmmg"
+      },
+      {
+        "site": "notify",
+        "id": "TN8XcKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "Va4ypKimg"
+      },
+      {
+        "site": "notify",
+        "id": "X5vhpFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "xRMmtFmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2007,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 500,
+    "picture": "https://cdn.myanimelist.net/images/anime/1565/111305.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1565/111305t.jpg",
+    "synonyms": [
+      "-ナルト- 疾風伝",
+      "NARUTO -ナルト- 疾風伝",
+      "NARUTO Shippuuden TV",
+      "NARUTO 疾風伝",
+      "NARUTO-ナルト- 疾風伝",
+      "NARUTO: Shippuuden",
+      "Naruto 2",
+      "Naruto Hurricane Chronicles",
+      "Naruto Kronika Hurikánu",
+      "Naruto Shippuden",
+      "Naruto Shippuden TV",
+      "Naruto Shippuuden",
+      "Naruto Shippuuden TV",
+      "Naruto Shippūden",
+      "Naruto: Hurricane Chronicles",
+      "Naruto: Kasırga Günlükleri",
+      "Naruto: Shippuden",
+      "Shippuuden",
+      "n2",
+      "n2tv",
+      "nstv",
+      "ntv2",
+      "Наруто Хроники",
+      "Наруто Шиппүүдэн",
+      "Наруто: Ураганни хроники",
+      "Наруто: Ураганные хроники",
+      "נארוטו שיפודן",
+      "נארוטו: מסעות ההוריקן",
+      "ناروتو شيبودن",
+      "ناروتو شيبودن : أكادمية كونوها الخاصة",
+      "ناروتو شیپودن",
+      "ناروتو: أسطورة الزوبعة",
+      "নারূতঃ সিপ্পুডেন",
+      "นารูโตะ ตำนานวายุสลาตัน",
+      "ナルト 疾風伝",
+      "ナルト- 疾風伝",
+      "ナルト:疾風伝",
+      "火影忍者 疾风传",
+      "火影忍者疾風傳",
+      "火影忍者疾风传"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "2007-02-23T16:00:00.000Z",
-  "end": "2007-04-25T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "693"
+  {
+    "title": "獣装機攻ダンクーガノヴァ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "兽装机攻断空我NOVA"
+      ]
     },
-    {
-      "site": "pptv",
-      "id": "ORDradE3pibVIxia4",
-      "begin": ""
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.pro-reed.com/dancouganova/",
+    "begin": "2007-02-15T13:30:00.000Z",
+    "end": "2007-05-10T14:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "camTEXnfT43wbtY",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "10306"
+      },
+      {
+        "site": "anidb",
+        "id": "1692"
+      },
+      {
+        "site": "anilist",
+        "id": "2255"
+      },
+      {
+        "site": "anime-planet",
+        "id": "chouju-kishin-dancougar-hakunetsu-no-shuushou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dancouga-super-beast-machine-god"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dancougar-requiem-for-victims"
+      },
+      {
+        "site": "anime-planet",
+        "id": "god-bless-dancougar"
+      },
+      {
+        "site": "anisearch",
+        "id": "559"
+      },
+      {
+        "site": "kitsu",
+        "id": "2043"
+      },
+      {
+        "site": "livechart",
+        "id": "6712"
+      },
+      {
+        "site": "livechart",
+        "id": "6988"
+      },
+      {
+        "site": "livechart",
+        "id": "7184"
+      },
+      {
+        "site": "livechart",
+        "id": "7746"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2255"
+      },
+      {
+        "site": "notify",
+        "id": "m2DE5Fmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2007,
+      "month": "02"
     },
-    {
-      "site": "bilibili",
-      "id": "89132",
-      "begin": "2007-02-22T16:00:01.000Z",
-      "broadcast": "R/2018-05-01T08:43:00.000Z/P7D"
-    },
-    {
-      "site": "anidb",
-      "id": "2787"
-    },
-    {
-      "site": "anidb",
-      "id": "6212"
-    },
-    {
-      "site": "anilist",
-      "id": "4811"
-    },
-    {
-      "site": "anilist",
-      "id": "488"
-    },
-    {
-      "site": "anime-planet",
-      "id": "strawberry-marshmallow"
-    },
-    {
-      "site": "anime-planet",
-      "id": "strawberry-marshmallow-encore"
-    },
-    {
-      "site": "anime-planet",
-      "id": "strawberry-marshmallow-special-episode-0"
-    },
-    {
-      "site": "anisearch",
-      "id": "322"
-    },
-    {
-      "site": "anisearch",
-      "id": "5085"
-    },
-    {
-      "site": "kitsu",
-      "id": "3800"
-    },
-    {
-      "site": "kitsu",
-      "id": "449"
-    },
-    {
-      "site": "livechart",
-      "id": "3843"
-    },
-    {
-      "site": "livechart",
-      "id": "4506"
-    },
-    {
-      "site": "livechart",
-      "id": "4554"
-    },
-    {
-      "site": "myanimelist",
-      "id": "4811"
-    },
-    {
-      "site": "myanimelist",
-      "id": "488"
-    },
-    {
-      "site": "notify",
-      "id": "j2FT5FiiR"
-    },
-    {
-      "site": "notify",
-      "id": "nNFr5FmmR"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 2007,
-    "month": "02"
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/21707.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/21707t.jpg",
+    "synonyms": [
+      "Dancouga",
+      "Dancouga 2007",
+      "Dancouga Nova",
+      "Dancougar Nova",
+      "Juusou Kikou Dancouga Nova",
+      "Juusoukikou Dancouga Nova",
+      "Juusoukikou Dancougar Nova",
+      "Jūsōkikō Dancōgar Nova",
+      "Kemono Soukikou Dancouga Nova",
+      "Shin Dancouga",
+      "じゅうそうきこうだんくーがのば",
+      "兽装机攻断空我NOVA",
+      "獣装機攻 ダンクーガ ノヴァ",
+      "獣装機攻ダンクーガノヴァ"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 3,
-  "picture": "https://cdn.myanimelist.net/images/anime/4/4325.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/4/4325t.jpg",
-  "synonyms": [
-    "Ichigo Marshmallow (2007)",
-    "Ichigo Marshmallow OVA",
-    "Strawberry Marshmallow OVA",
-    "im ova",
-    "Çilek Lokumu OVA",
-    "Клубничный Зефир OVA",
-    "苺ましまろ (2007)",
-    "苺ましまろ OVA",
-    "草莓棉花糖ova"
-  ]
-}
+  {
+    "title": "一騎当千 Dragon Destiny",
+    "titleTranslate": {
+      "zh-Hans": [
+        "一骑当千 Dragon Destiny",
+        "一骑当千DD",
+        "一骑当千 龙之命运",
+        "一骑当千 第二部"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.ikkitousen.com/",
+    "begin": "2007-02-26T01:30:00.000Z",
+    "end": "2007-05-14T02:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "4840"
+      },
+      {
+        "site": "anilist",
+        "id": "1956"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-dragon-destiny"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-extravaganza-epoch"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-great-guardians"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-great-guardians-battle-tour-club-sexy-cosplay"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-shuugaku-toushi-keppuuroku"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-xtreme-xecutor"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-xtreme-xecutor-specials"
+      },
+      {
+        "site": "anisearch",
+        "id": "3981"
+      },
+      {
+        "site": "kitsu",
+        "id": "1762"
+      },
+      {
+        "site": "livechart",
+        "id": "10674"
+      },
+      {
+        "site": "livechart",
+        "id": "3543"
+      },
+      {
+        "site": "livechart",
+        "id": "3836"
+      },
+      {
+        "site": "livechart",
+        "id": "4017"
+      },
+      {
+        "site": "livechart",
+        "id": "4021"
+      },
+      {
+        "site": "livechart",
+        "id": "4085"
+      },
+      {
+        "site": "livechart",
+        "id": "4883"
+      },
+      {
+        "site": "livechart",
+        "id": "491"
+      },
+      {
+        "site": "livechart",
+        "id": "4928"
+      },
+      {
+        "site": "livechart",
+        "id": "4991"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1956"
+      },
+      {
+        "site": "notify",
+        "id": "guGL5FmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2007,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/1636/138210.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1636/138210t.jpg",
+    "synonyms": [
+      "Die große Schlacht in den heißen Quellen am roten Felsen",
+      "Ikki Tousen: Dragon Destiny - Bonus",
+      "Ikki Tousen: Dragon Destiny Mini OAVs",
+      "Ikki Tousen: Dragon Destiny OVAs",
+      "Ikkitousen Dragon Destiny OVA",
+      "Ikkitousen: Dragon Destiny OVA",
+      "Ikkitousen: Dragon Destiny Sekiheki Onsen Daikessen",
+      "Ikkitousen: Dragon Destiny: Hot Springs Grand Final Battle",
+      "Ikkitōsen: Dragon Destiny OVA",
+      "SekiHeki Onsen's Great Decisive Battle!",
+      "いっきとうせんどらごんですてぃにー",
+      "一騎当千 Dragon Destiny",
+      "一騎当千 Dragon Destiny OVA",
+      "一騎当千 Dragon Destiny 赤壁温泉大決戦"
+    ]
+  },
+  {
+    "title": "Yes! プリキュア5",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Yes! 光之美少女5",
+        "战队Q娃"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://asahi.co.jp/precure5/",
+    "begin": "2007-02-03T23:30:00.000Z",
+    "end": "2008-01-27T00:00:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb14x1",
+        "begin": "2015-08-18T04:13:41.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "15007"
+      },
+      {
+        "site": "anidb",
+        "id": "1413"
+      },
+      {
+        "site": "anidb",
+        "id": "5572"
+      },
+      {
+        "site": "anidb",
+        "id": "5593"
+      },
+      {
+        "site": "anilist",
+        "id": "100661"
+      },
+      {
+        "site": "anilist",
+        "id": "101908"
+      },
+      {
+        "site": "anilist",
+        "id": "10549"
+      },
+      {
+        "site": "anilist",
+        "id": "105857"
+      },
+      {
+        "site": "anilist",
+        "id": "112748"
+      },
+      {
+        "site": "anilist",
+        "id": "11569"
+      },
+      {
+        "site": "anilist",
+        "id": "12191"
+      },
+      {
+        "site": "anilist",
+        "id": "12221"
+      },
+      {
+        "site": "anilist",
+        "id": "126905"
+      },
+      {
+        "site": "anilist",
+        "id": "142080"
+      },
+      {
+        "site": "anilist",
+        "id": "1534"
+      },
+      {
+        "site": "anilist",
+        "id": "157883"
+      },
+      {
+        "site": "anilist",
+        "id": "159429"
+      },
+      {
+        "site": "anilist",
+        "id": "16419"
+      },
+      {
+        "site": "anilist",
+        "id": "16442"
+      },
+      {
+        "site": "anilist",
+        "id": "20549"
+      },
+      {
+        "site": "anilist",
+        "id": "20577"
+      },
+      {
+        "site": "anilist",
+        "id": "21001"
+      },
+      {
+        "site": "anilist",
+        "id": "21137"
+      },
+      {
+        "site": "anilist",
+        "id": "21504"
+      },
+      {
+        "site": "anilist",
+        "id": "21506"
+      },
+      {
+        "site": "anilist",
+        "id": "3051"
+      },
+      {
+        "site": "anilist",
+        "id": "3692"
+      },
+      {
+        "site": "anilist",
+        "id": "5684"
+      },
+      {
+        "site": "anilist",
+        "id": "5753"
+      },
+      {
+        "site": "anilist",
+        "id": "603"
+      },
+      {
+        "site": "anilist",
+        "id": "7645"
+      },
+      {
+        "site": "anilist",
+        "id": "8133"
+      },
+      {
+        "site": "anilist",
+        "id": "98059"
+      },
+      {
+        "site": "anilist",
+        "id": "9893"
+      },
+      {
+        "site": "anilist",
+        "id": "9979"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dokidoki-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fresh-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "go-princess-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "happiness-charge-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "heartcatch-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hugtto-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hugtto-pretty-cure-x-futari-wa-pretty-cure-movie-all-stars-memories"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kibo-no-chikara-otona-precure-23"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kirakira-pretty-cure-a-la-mode"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mahou-tsukai-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-haru-no-carnival"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-minna-de-utau-kiseki-no-mahou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-new-stage-2-kokoro-no-tomodachi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-new-stage-3-eien-no-tomodachi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-new-stage-mirai-no-tomodachi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-kara-minna-e-no-ouen-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-max-heart"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-splash-star"
+      },
+      {
+        "site": "anime-planet",
+        "id": "smile-precure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "star-twinkle-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "suite-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tropical-rouge-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yes-pretty-cure-5-gogo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yes-pretty-cure-5-movie-kagami-no-kuni-no-miracle-daibouken"
+      },
+      {
+        "site": "anisearch",
+        "id": "18342"
+      },
+      {
+        "site": "anisearch",
+        "id": "2594"
+      },
+      {
+        "site": "anisearch",
+        "id": "4536"
+      },
+      {
+        "site": "anisearch",
+        "id": "4948"
+      },
+      {
+        "site": "anisearch",
+        "id": "5834"
+      },
+      {
+        "site": "kitsu",
+        "id": "11688"
+      },
+      {
+        "site": "kitsu",
+        "id": "1375"
+      },
+      {
+        "site": "kitsu",
+        "id": "1739"
+      },
+      {
+        "site": "kitsu",
+        "id": "3199"
+      },
+      {
+        "site": "kitsu",
+        "id": "4243"
+      },
+      {
+        "site": "kitsu",
+        "id": "5065"
+      },
+      {
+        "site": "kitsu",
+        "id": "558"
+      },
+      {
+        "site": "kitsu",
+        "id": "5927"
+      },
+      {
+        "site": "kitsu",
+        "id": "6687"
+      },
+      {
+        "site": "kitsu",
+        "id": "7426"
+      },
+      {
+        "site": "livechart",
+        "id": "11857"
+      },
+      {
+        "site": "livechart",
+        "id": "1252"
+      },
+      {
+        "site": "livechart",
+        "id": "1934"
+      },
+      {
+        "site": "livechart",
+        "id": "325"
+      },
+      {
+        "site": "livechart",
+        "id": "5476"
+      },
+      {
+        "site": "livechart",
+        "id": "5603"
+      },
+      {
+        "site": "livechart",
+        "id": "5668"
+      },
+      {
+        "site": "livechart",
+        "id": "5818"
+      },
+      {
+        "site": "livechart",
+        "id": "5839"
+      },
+      {
+        "site": "livechart",
+        "id": "6039"
+      },
+      {
+        "site": "livechart",
+        "id": "6048"
+      },
+      {
+        "site": "livechart",
+        "id": "6275"
+      },
+      {
+        "site": "livechart",
+        "id": "905"
+      },
+      {
+        "site": "myanimelist",
+        "id": "12191"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1534"
+      },
+      {
+        "site": "myanimelist",
+        "id": "16419"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1929"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21407"
+      },
+      {
+        "site": "myanimelist",
+        "id": "28669"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3051"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31884"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34290"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34302"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36593"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3692"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40610"
+      },
+      {
+        "site": "myanimelist",
+        "id": "44191"
+      },
+      {
+        "site": "myanimelist",
+        "id": "50281"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53716"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5684"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5753"
+      },
+      {
+        "site": "myanimelist",
+        "id": "603"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7645"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8133"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9893"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9979"
+      },
+      {
+        "site": "notify",
+        "id": "-pNkpKimg"
+      },
+      {
+        "site": "notify",
+        "id": "3TDHtFimR"
+      },
+      {
+        "site": "notify",
+        "id": "BSrkpFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "Fjw85Fiig"
+      },
+      {
+        "site": "notify",
+        "id": "Gb-opKiig"
+      },
+      {
+        "site": "notify",
+        "id": "Gmsx8N_4g"
+      },
+      {
+        "site": "notify",
+        "id": "HK9C5Kimg"
+      },
+      {
+        "site": "notify",
+        "id": "INPKpKiig"
+      },
+      {
+        "site": "notify",
+        "id": "MssWhKimR"
+      },
+      {
+        "site": "notify",
+        "id": "QnWnpKmig"
+      },
+      {
+        "site": "notify",
+        "id": "SG9MtKiig"
+      },
+      {
+        "site": "notify",
+        "id": "TrDU4H0nR"
+      },
+      {
+        "site": "notify",
+        "id": "UEDl5Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "ZhI3pKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "fVOCkIAGR"
+      },
+      {
+        "site": "notify",
+        "id": "fgjTcKiig"
+      },
+      {
+        "site": "notify",
+        "id": "hgrEtFimg"
+      },
+      {
+        "site": "notify",
+        "id": "o_wj5KiiR"
+      },
+      {
+        "site": "notify",
+        "id": "tEoqN0hVg"
+      },
+      {
+        "site": "notify",
+        "id": "yBkLcFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "yo0-cKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2007,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 49,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/7535.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/7535t.jpg",
+    "synonyms": [
+      "Pretty Cure Season 04",
+      "YPC5",
+      "Yes! Pretty Cure 5",
+      "Yes! プリキュア5",
+      "Yes! プレキュア5",
+      "Yes! 光之美少女5",
+      "Yes!プリキュア5",
+      "precure5",
+      "いえすぷりきゅあふぁいぶ",
+      "光之美少女 第5季"
+    ]
+  },
+  {
+    "title": "ロケットガール",
+    "titleTranslate": {
+      "en": [
+        "ROCKET GIRLS"
+      ],
+      "zh-Hans": [
+        "火箭少女",
+        "火箭女孩"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://web.archive.org/web/*/www.rocket-girl.jp/",
+    "begin": "2007-02-21T15:00:00.000Z",
+    "end": "2007-05-17T15:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "36974"
+      },
+      {
+        "site": "anisearch",
+        "id": "14076"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2007,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/79894.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/79894t.jpg",
+    "synonyms": [
+      "ろけっとがーる",
+      "ロケットガール",
+      "火箭女孩"
+    ]
+  },
+  {
+    "title": "ToHeart2 OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "心之彼端2 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://aquaplus.jp/th2v/product.html",
+    "begin": "2007-02-28T16:00:00.000Z",
+    "end": "2007-09-28T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8883"
+      },
+      {
+        "site": "nicovideo",
+        "id": "th2v",
+        "begin": "2012-03-03T13:30:00.000Z"
+      },
+      {
+        "site": "pptv",
+        "id": "iaMKibPKQKergbmQE",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2889",
+        "begin": "2015-10-23T04:08:00.000Z",
+        "broadcast": "R/2015-10-23T04:08:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "3428"
+      },
+      {
+        "site": "anidb",
+        "id": "5592"
+      },
+      {
+        "site": "anilist",
+        "id": "4166"
+      },
+      {
+        "site": "anilist",
+        "id": "471"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-2-ad-next"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-2-ad-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-2-ad-plus"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-2-dungeon-travelers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-2-special-compilation"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-remember-my-memories"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-remember-my-memories-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-specials"
+      },
+      {
+        "site": "anisearch",
+        "id": "2123"
+      },
+      {
+        "site": "anisearch",
+        "id": "4676"
+      },
+      {
+        "site": "kitsu",
+        "id": "3500"
+      },
+      {
+        "site": "kitsu",
+        "id": "433"
+      },
+      {
+        "site": "livechart",
+        "id": "5093"
+      },
+      {
+        "site": "livechart",
+        "id": "5477"
+      },
+      {
+        "site": "livechart",
+        "id": "5964"
+      },
+      {
+        "site": "livechart",
+        "id": "5976"
+      },
+      {
+        "site": "livechart",
+        "id": "6011"
+      },
+      {
+        "site": "livechart",
+        "id": "6038"
+      },
+      {
+        "site": "livechart",
+        "id": "6648"
+      },
+      {
+        "site": "livechart",
+        "id": "7451"
+      },
+      {
+        "site": "livechart",
+        "id": "7806"
+      },
+      {
+        "site": "livechart",
+        "id": "9343"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4166"
+      },
+      {
+        "site": "myanimelist",
+        "id": "471"
+      },
+      {
+        "site": "notify",
+        "id": "NLFu5KmiR"
+      },
+      {
+        "site": "notify",
+        "id": "x_NTcKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2007,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/74024.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/74024t.jpg",
+    "synonyms": [
+      "To Heart 2 (2007)",
+      "ToHeart2 OVA",
+      "Для сердца 2 OVA",
+      "トゥハート2 (2007)",
+      "トゥハート2 OVA"
+    ]
+  },
+  {
+    "title": "真救世主伝説 北斗の拳 ユリア伝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "真救世主传说 北斗神拳 尤莉娅传"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-02-23T16:00:00.000Z",
+    "end": "2007-02-23T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "118572"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hokuto-no-ken",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "5104"
+      },
+      {
+        "site": "anilist",
+        "id": "1773"
+      },
+      {
+        "site": "anilist",
+        "id": "2174"
+      },
+      {
+        "site": "anilist",
+        "id": "967"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dd-fist-of-the-north-star"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dd-fist-of-the-north-star-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dd-hokuto-no-ken"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-blue-sky"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-blue-sky-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star-legend-of-kenshiro"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star-legend-of-raoh-death-for-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star-legend-of-raoh-fierce-fight"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star-legend-of-toki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star-strawberry-flavor"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star-the-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hokuto-no-ken-legend-of-heroes"
+      },
+      {
+        "site": "anime-planet",
+        "id": "legends-of-the-dark-king-a-fist-of-the-north-star-story"
+      },
+      {
+        "site": "anime-planet",
+        "id": "new-fist-of-the-north-star"
+      },
+      {
+        "site": "anisearch",
+        "id": "3053"
+      },
+      {
+        "site": "kitsu",
+        "id": "1593"
+      },
+      {
+        "site": "kitsu",
+        "id": "1969"
+      },
+      {
+        "site": "kitsu",
+        "id": "857"
+      },
+      {
+        "site": "livechart",
+        "id": "12325"
+      },
+      {
+        "site": "livechart",
+        "id": "1661"
+      },
+      {
+        "site": "livechart",
+        "id": "4523"
+      },
+      {
+        "site": "livechart",
+        "id": "6310"
+      },
+      {
+        "site": "livechart",
+        "id": "6672"
+      },
+      {
+        "site": "livechart",
+        "id": "6822"
+      },
+      {
+        "site": "livechart",
+        "id": "7006"
+      },
+      {
+        "site": "livechart",
+        "id": "809"
+      },
+      {
+        "site": "livechart",
+        "id": "8239"
+      },
+      {
+        "site": "livechart",
+        "id": "8265"
+      },
+      {
+        "site": "livechart",
+        "id": "8281"
+      },
+      {
+        "site": "livechart",
+        "id": "8284"
+      },
+      {
+        "site": "livechart",
+        "id": "8301"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1773"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2174"
+      },
+      {
+        "site": "myanimelist",
+        "id": "967"
+      },
+      {
+        "site": "notify",
+        "id": "_agPcFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "esvJ5Kmmg"
+      },
+      {
+        "site": "notify",
+        "id": "t3hBcFiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2007,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/29633.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/29633t.jpg",
+    "synonyms": [
+      "Fist of the North Star - Legend of Yuria",
+      "Fist of the North Star - The Legend of Yuria",
+      "Fist of the North Star 2: Legend of Yuria",
+      "Fist of the North Star: Legend of Yuria",
+      "Fist of the North Star: Legend of the True Savior - Legend of Yuria",
+      "Fist of the North Star: Legends of the True Savior (Chapter 02)",
+      "Fist of the North Star: The Legend of Yuria",
+      "Hokuto no Ken - La légende de Julia",
+      "Hokuto no Ken: La Légende de Julia",
+      "Hokuto no Ken: Yuria Densetsu",
+      "Ken il guerriero - La leggenda di Julia",
+      "Ken il guerriero: La leggenda di Julia",
+      "Ken le survivant - La légende de Julia",
+      "Shin Kyuuseishu Densetsu Hokuto no Ken Yuria Den",
+      "Shin Kyuuseishu Densetsu Hokuto no Ken Yuria-den",
+      "Shin Kyuuseishu Densetsu Hokuto no Ken: Yuria-den",
+      "Shin Kyūseishu Densetsu Hokuto no Ken: Yuria-den",
+      "hnk ova 2",
+      "真救世主伝説 北斗の拳 ユリア伝",
+      "真救世主传说 北斗神拳 尤莉娅传",
+      "북두신권 - 유리아전"
+    ]
+  },
+  {
+    "title": "冬の蝉",
+    "titleTranslate": {
+      "zh-Hans": [
+        "冬之蝉"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-02-23T16:00:00.000Z",
+    "end": "2007-06-22T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "7360"
+      },
+      {
+        "site": "pptv",
+        "id": "ATkEgupQwP5h30c",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "2600"
+      },
+      {
+        "site": "anilist",
+        "id": "10048"
+      },
+      {
+        "site": "anisearch",
+        "id": "17814"
+      },
+      {
+        "site": "anisearch",
+        "id": "936"
+      },
+      {
+        "site": "kitsu",
+        "id": "6009"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10048"
+      },
+      {
+        "site": "notify",
+        "id": "7MN7pKmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2007,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/1/2443.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1/2443t.jpg",
+    "synonyms": [
+      "Embracing Love - A Cicada in Winter",
+      "Embracing Love: A Cicada in Winter",
+      "Fuyu no Seme",
+      "Fuyu no Semi: Cicala d'Inverno",
+      "Fuyusemi",
+      "Samourai dans la tourmente",
+      "Samouraï Dans La Tourmente: Cicada in Winter",
+      "Samouraï dans la tourmente",
+      "Winter Cicada",
+      "fuyusemi",
+      "Зимняя цикада",
+      "冬の蝉",
+      "冬蝉"
+    ]
+  },
+  {
+    "title": "苺ましまろ OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "草莓棉花糖 OVA 第1期"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-02-23T16:00:00.000Z",
+    "end": "2007-04-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "693"
+      },
+      {
+        "site": "pptv",
+        "id": "ORDradE3pibVIxia4",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "89132",
+        "begin": "2007-02-22T16:00:01.000Z",
+        "broadcast": "R/2018-05-01T08:43:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "2787"
+      },
+      {
+        "site": "anidb",
+        "id": "6212"
+      },
+      {
+        "site": "anilist",
+        "id": "4811"
+      },
+      {
+        "site": "anilist",
+        "id": "488"
+      },
+      {
+        "site": "anime-planet",
+        "id": "strawberry-marshmallow"
+      },
+      {
+        "site": "anime-planet",
+        "id": "strawberry-marshmallow-encore"
+      },
+      {
+        "site": "anime-planet",
+        "id": "strawberry-marshmallow-special-episode-0"
+      },
+      {
+        "site": "anisearch",
+        "id": "322"
+      },
+      {
+        "site": "anisearch",
+        "id": "5085"
+      },
+      {
+        "site": "kitsu",
+        "id": "3800"
+      },
+      {
+        "site": "kitsu",
+        "id": "449"
+      },
+      {
+        "site": "livechart",
+        "id": "3843"
+      },
+      {
+        "site": "livechart",
+        "id": "4506"
+      },
+      {
+        "site": "livechart",
+        "id": "4554"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4811"
+      },
+      {
+        "site": "myanimelist",
+        "id": "488"
+      },
+      {
+        "site": "notify",
+        "id": "j2FT5FiiR"
+      },
+      {
+        "site": "notify",
+        "id": "nNFr5FmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2007,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/4325.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/4325t.jpg",
+    "synonyms": [
+      "Ichigo Marshmallow (2007)",
+      "Ichigo Marshmallow OVA",
+      "Strawberry Marshmallow OVA",
+      "im ova",
+      "Çilek Lokumu OVA",
+      "Клубничный Зефир OVA",
+      "苺ましまろ (2007)",
+      "苺ましまろ OVA",
+      "草莓棉花糖ova"
+    ]
+  }
+]

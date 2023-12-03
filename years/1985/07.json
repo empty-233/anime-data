@@ -1,89 +1,790 @@
-{
-  "title": "銀河鉄道の夜",
-  "titleTranslate": {
-    "zh-Hans": [
-      "银河铁道之夜"
+[
+  {
+    "title": "Dr.スランプ アラレちゃん ほよよ!夢の都メカポリス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿拉蕾 哦呦呦！梦之机械警察"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-07-13T16:00:00.000Z",
+    "end": "1985-07-13T16:40:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "82721"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb54vl",
+        "begin": "2015-08-04T01:02:58.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "1925"
+      },
+      {
+        "site": "anilist",
+        "id": "2222"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan-hoyoyo-nanaba-shiro-no-hihou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan-hoyoyo-tasuketa-same-ni-tsurerarete"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan-n-cha-penguin-mura-wa-hare-nochi-hare"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan-n-cha-wakuwaku-hot-no-natsuyasumi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan-penguin-mura-eiyuu-densetsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-no-bikkuriman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-dr-mashirito-and-abale-chan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-movie-3-the-great-race-around-the-world"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-movie-7-arale-chan-n-cha-pengin-mura-yori-ai-wo-komete"
+      },
+      {
+        "site": "anisearch",
+        "id": "2134"
+      },
+      {
+        "site": "kitsu",
+        "id": "2013"
+      },
+      {
+        "site": "livechart",
+        "id": "10983"
+      },
+      {
+        "site": "livechart",
+        "id": "10989"
+      },
+      {
+        "site": "livechart",
+        "id": "10990"
+      },
+      {
+        "site": "livechart",
+        "id": "10991"
+      },
+      {
+        "site": "livechart",
+        "id": "10993"
+      },
+      {
+        "site": "livechart",
+        "id": "10994"
+      },
+      {
+        "site": "livechart",
+        "id": "10995"
+      },
+      {
+        "site": "livechart",
+        "id": "10996"
+      },
+      {
+        "site": "livechart",
+        "id": "10997"
+      },
+      {
+        "site": "livechart",
+        "id": "6206"
+      },
+      {
+        "site": "livechart",
+        "id": "7468"
+      },
+      {
+        "site": "livechart",
+        "id": "8828"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2222"
+      },
+      {
+        "site": "notify",
+        "id": "_nnPcKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1985,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/23175.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/23175t.jpg",
+    "synonyms": [
+      "Dr. Slump & Arale-chan HoYoYo! Dream Metropolitan Mecha Police",
+      "Dr. Slump Movie 5",
+      "Dr. Slump Movie 5: Arale-chan Hoyoyo! Yume no To Mecha Police",
+      "Dr. Slump Movie 5: The City of Dreams, Mechapolis",
+      "Dr. Slump and Arale-chan: Hoyoyo! City of Dreams",
+      "Dr. Slump and Arale-chan: Hoyoyo! City of Dreams, Mechapolis",
+      "Dr. Slump and Arale-chan: Hoyoyo! Dream Metropolitan Mecha Police",
+      "Dr. Slump e Arale: Mechapolis, la città dei sogni",
+      "Dr. Slump: Arale-chan Hoyoyo! Yume no Miyako Mechapolis",
+      "Dr. Slump: Arale-chan Hoyoyo! Yume no To Mecha Police",
+      "Dr. Slump: The City of Dreams, Mechapolis",
+      "Dr.スランプ アラレちゃん ほよよ! 夢の都メカポリス",
+      "Dr.スランプ アラレちゃん ほよよ!夢の都メカポリス"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1985-07-12T16:00:00.000Z",
-  "end": "1985-07-12T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "19208"
+  {
+    "title": "ダーティペア",
+    "titleTranslate": {
+      "en": [
+        "Dirty Pair"
+      ],
+      "zh-Hans": [
+        "银河女警花",
+        "银河警花",
+        "棘手拍档",
+        "搞怪拍档",
+        "不良拍档"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "3041",
-      "begin": "2015-11-18T01:39:00.000Z",
-      "broadcast": "R/2015-11-18T01:39:00.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.sunrise-inc.co.jp/dirtypair/",
+    "begin": "1985-07-15T13:30:00.000Z",
+    "end": "1985-12-26T14:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "66390"
+      },
+      {
+        "site": "bilibili",
+        "id": "2423",
+        "begin": "1985-07-15T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "1381"
+      },
+      {
+        "site": "anidb",
+        "id": "2058"
+      },
+      {
+        "site": "anidb",
+        "id": "2498"
+      },
+      {
+        "site": "anidb",
+        "id": "402"
+      },
+      {
+        "site": "anilist",
+        "id": "1794"
+      },
+      {
+        "site": "anilist",
+        "id": "1796"
+      },
+      {
+        "site": "anilist",
+        "id": "1802"
+      },
+      {
+        "site": "anilist",
+        "id": "1803"
+      },
+      {
+        "site": "anilist",
+        "id": "2722"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dirty-pair-affair-on-nolandia"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dirty-pair-flash"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dirty-pair-flight-005-conspiracy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dirty-pair-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dirty-pair-project-eden"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dirty-pair-with-love-from-the-lovely-angels"
+      },
+      {
+        "site": "anisearch",
+        "id": "1296"
+      },
+      {
+        "site": "anisearch",
+        "id": "1628"
+      },
+      {
+        "site": "anisearch",
+        "id": "2744"
+      },
+      {
+        "site": "anisearch",
+        "id": "3056"
+      },
+      {
+        "site": "kitsu",
+        "id": "1614"
+      },
+      {
+        "site": "kitsu",
+        "id": "1616"
+      },
+      {
+        "site": "kitsu",
+        "id": "1621"
+      },
+      {
+        "site": "kitsu",
+        "id": "1622"
+      },
+      {
+        "site": "livechart",
+        "id": "11240"
+      },
+      {
+        "site": "livechart",
+        "id": "6613"
+      },
+      {
+        "site": "livechart",
+        "id": "7004"
+      },
+      {
+        "site": "livechart",
+        "id": "7244"
+      },
+      {
+        "site": "livechart",
+        "id": "7262"
+      },
+      {
+        "site": "livechart",
+        "id": "7825"
+      },
+      {
+        "site": "livechart",
+        "id": "8388"
+      },
+      {
+        "site": "livechart",
+        "id": "8390"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1794"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1796"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1802"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1803"
+      },
+      {
+        "site": "notify",
+        "id": "7KJf5KmiR"
+      },
+      {
+        "site": "notify",
+        "id": "d-0f5FmmR"
+      },
+      {
+        "site": "notify",
+        "id": "hF0fcKmig"
+      },
+      {
+        "site": "notify",
+        "id": "tTJB5Fiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1985,
+      "month": "07"
     },
-    {
-      "site": "anidb",
-      "id": "7068"
-    },
-    {
-      "site": "anidb",
-      "id": "820"
-    },
-    {
-      "site": "anidb",
-      "id": "8922"
-    },
-    {
-      "site": "anime-planet",
-      "id": "night-on-the-galactic-railroad-fantasy-railroad-in-the-stars"
-    },
-    {
-      "site": "anime-planet",
-      "id": "night-on-the-galactic-railroad-fantasy-railroad-in-the-stars-special"
-    },
-    {
-      "site": "anisearch",
-      "id": "5766"
-    },
-    {
-      "site": "kitsu",
-      "id": "4871"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1206"
-    },
-    {
-      "site": "myanimelist",
-      "id": "7112"
-    },
-    {
-      "site": "notify",
-      "id": "VyARtFiig"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 1985,
-    "month": "07"
+    "status": "FINISHED",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/20673.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/20673t.jpg",
+    "synonyms": [
+      "Dan et Danny",
+      "Dan et Dany",
+      "Dirty Pair TV",
+      "Kate and Julie",
+      "だーてぃぺあ",
+      "ダーティペア",
+      "银河女警花"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1694/120347.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1694/120347t.jpg",
-  "synonyms": [
-    "Fantasy Railroad in the Stars",
-    "Ginga Tetsudou no Yoru: Die Nacht in der galaktischen Eisenbahn",
-    "Ginga Tetsudō no Yoru",
-    "La nuit du Galaxy Express",
-    "Milky Way Railroad",
-    "Nacht auf der galaktischen Bahnlinie",
-    "Night Train to the Stars",
-    "Night on the Galactic Railroad",
-    "Nokto de la Galaksia Fervojo",
-    "Train de nuit dans la Voie Lactée",
-    "Train de nuit dans la voie lactée",
-    "ぎんがてつどうのよる",
-    "銀河鉄道の夜"
-  ]
-}
+  {
+    "title": "ルパン三世 バビロンの黄金伝説",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世 巴比伦的黄金传说",
+        "鲁邦三世：巴比伦黄金传说"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-07-12T16:00:00.000Z",
+    "end": "1985-07-12T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "67758"
+      },
+      {
+        "site": "bilibili",
+        "id": "3925",
+        "begin": "2016-05-04T02:58:00.000Z",
+        "broadcast": "R/2016-05-04T02:58:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1485"
+      },
+      {
+        "site": "anilist",
+        "id": "1412"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-iii-special-19-the-elusiveness-of-the-fog"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-dead-or-alive"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-dragon-of-doom"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-farewall-to-nostradamus"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-goemons-blood-spray"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-green-vs-red"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-jigens-gravestone"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-lupin-family-all-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-4"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-pilot-film"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-return-of-pycal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-secret-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-1-bye-bye-lady-liberty"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-11-the-columbus-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-12-missed-by-a-dollar"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-13-alcatraz-connection"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-14-episode-0-first-contact"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-15-operation-return-the-treasures"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-16-stolen-lupin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-17-angel-tactics"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-18-seven-days-rhapsody"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-2-the-hemingway-papers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-20-sweet-lost-night"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-21-lupin-the-third-vs-detective-conan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-22-the-last-job"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-23-blood-seal-of-the-eternal-mermaid"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-24-touhou-kenbunroku-another-page"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-25-princess-of-the-breeze-kakusareta-kuuchuu-toshi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-26-italian-game"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-3-napoleons-dictionary"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-4-from-siberia-with-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-5-voyage-to-danger"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-8-secret-of-the-twilight-gemini"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-9-island-of-assassins"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-speical-10-crisis-in-tokyo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-castle-of-cagliostro"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-first"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-fuma-conspiracy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-mystery-of-mamo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-woman-called-fujiko-mine"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-pursuit-of-harimaos-treasure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-viii-arsene-and-cie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "monkey-majik-lupin-the-third"
+      },
+      {
+        "site": "anisearch",
+        "id": "1138"
+      },
+      {
+        "site": "kitsu",
+        "id": "1265"
+      },
+      {
+        "site": "livechart",
+        "id": "11512"
+      },
+      {
+        "site": "livechart",
+        "id": "12098"
+      },
+      {
+        "site": "livechart",
+        "id": "12099"
+      },
+      {
+        "site": "livechart",
+        "id": "4165"
+      },
+      {
+        "site": "livechart",
+        "id": "4320"
+      },
+      {
+        "site": "livechart",
+        "id": "5905"
+      },
+      {
+        "site": "livechart",
+        "id": "6281"
+      },
+      {
+        "site": "livechart",
+        "id": "6402"
+      },
+      {
+        "site": "livechart",
+        "id": "6731"
+      },
+      {
+        "site": "livechart",
+        "id": "7324"
+      },
+      {
+        "site": "livechart",
+        "id": "7545"
+      },
+      {
+        "site": "livechart",
+        "id": "7772"
+      },
+      {
+        "site": "livechart",
+        "id": "8223"
+      },
+      {
+        "site": "livechart",
+        "id": "9298"
+      },
+      {
+        "site": "livechart",
+        "id": "9350"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1412"
+      },
+      {
+        "site": "notify",
+        "id": "Dnk-5Fmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1985,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1915/134262.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1915/134262t.jpg",
+    "synonyms": [
+      "Babilon aranykincse",
+      "Edgar de la Cambriole : L'Or de Babylone",
+      "Edgar de la Cambriole: L’Or de Babylone",
+      "Edgar de la cambriole - L`or de Babylone",
+      "La leggenda dell'oro di Babilonia",
+      "Lupin III - A Lenda do Ouro da Babilónia",
+      "Lupin III - L`or de Babylone",
+      "Lupin III - the gold of Babylon",
+      "Lupin III: A Lenda do Ouro da Babilônia",
+      "Lupin III: El Oro de Babilonia",
+      "Lupin III: La leggenda dell`oro di Babilonia",
+      "Lupin III: La leggenda dell’oro di Babilonia",
+      "Lupin III: Legend of Golden Babylon",
+      "Lupin III: Legend of the Gold of Babylon",
+      "Lupin III: The Gold of Babylon",
+      "Lupin III: The Golden Legend of Babylon",
+      "Lupin III: The Legend of the Gold of Babylon",
+      "Lupin Sansei Movie 03",
+      "Lupin Sansei: Babylon no Ougon Densetsu",
+      "Lupin Sansei: Babylon no Ōgon Densetsu",
+      "Lupin the 3rd: The Legend of the Gold of Babylon",
+      "Lupin the Third: The Legend of the Gold of Babylon",
+      "Lupinas Trečiasis - Babilono Aukso Legenda",
+      "Rupan III: Legend of the Gold of Babylon",
+      "Rupan Sansei: Babylon no Ougon Densetsu",
+      "Rupan Sansei: babiron no oogon densetsu",
+      "ルパン三世 バビロンの黄金伝説",
+      "ルパン三世　バビロンの黄金伝説"
+    ]
+  },
+  {
+    "title": "銀河鉄道の夜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河铁道之夜"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-07-12T16:00:00.000Z",
+    "end": "1985-07-12T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "19208"
+      },
+      {
+        "site": "bilibili",
+        "id": "3041",
+        "begin": "2015-11-18T01:39:00.000Z",
+        "broadcast": "R/2015-11-18T01:39:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "7068"
+      },
+      {
+        "site": "anidb",
+        "id": "820"
+      },
+      {
+        "site": "anidb",
+        "id": "8922"
+      },
+      {
+        "site": "anime-planet",
+        "id": "night-on-the-galactic-railroad-fantasy-railroad-in-the-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "night-on-the-galactic-railroad-fantasy-railroad-in-the-stars-special"
+      },
+      {
+        "site": "anisearch",
+        "id": "5766"
+      },
+      {
+        "site": "kitsu",
+        "id": "4871"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1206"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7112"
+      },
+      {
+        "site": "notify",
+        "id": "VyARtFiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1985,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1694/120347.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1694/120347t.jpg",
+    "synonyms": [
+      "Fantasy Railroad in the Stars",
+      "Ginga Tetsudou no Yoru: Die Nacht in der galaktischen Eisenbahn",
+      "Ginga Tetsudō no Yoru",
+      "La nuit du Galaxy Express",
+      "Milky Way Railroad",
+      "Nacht auf der galaktischen Bahnlinie",
+      "Night Train to the Stars",
+      "Night on the Galactic Railroad",
+      "Nokto de la Galaksia Fervojo",
+      "Train de nuit dans la Voie Lactée",
+      "Train de nuit dans la voie lactée",
+      "ぎんがてつどうのよる",
+      "銀河鉄道の夜"
+    ]
+  }
+]

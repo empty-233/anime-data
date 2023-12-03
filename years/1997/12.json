@@ -1,186 +1,475 @@
-{
-  "title": "サクラ大戦 桜華絢爛",
-  "titleTranslate": {
-    "zh-Hans": [
-      "樱花大战 樱华绚烂"
+[
+  {
+    "title": "BURN-UP EXCESS",
+    "titleTranslate": {
+      "zh-Hans": [
+        "杀人科 EXCESS"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.anime-int.com/works/burn-up/scramble/",
+    "begin": "1997-12-12T16:00:00.000Z",
+    "end": "1998-07-01T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "36810"
+      },
+      {
+        "site": "anidb",
+        "id": "1251"
+      },
+      {
+        "site": "anidb",
+        "id": "456"
+      },
+      {
+        "site": "anilist",
+        "id": "693"
+      },
+      {
+        "site": "anilist",
+        "id": "767"
+      },
+      {
+        "site": "anilist",
+        "id": "769"
+      },
+      {
+        "site": "anime-planet",
+        "id": "burn-up"
+      },
+      {
+        "site": "anime-planet",
+        "id": "burn-up-scramble"
+      },
+      {
+        "site": "anime-planet",
+        "id": "burn-up-w"
+      },
+      {
+        "site": "anisearch",
+        "id": "1771"
+      },
+      {
+        "site": "anisearch",
+        "id": "2934"
+      },
+      {
+        "site": "kitsu",
+        "id": "634"
+      },
+      {
+        "site": "kitsu",
+        "id": "690"
+      },
+      {
+        "site": "livechart",
+        "id": "6694"
+      },
+      {
+        "site": "livechart",
+        "id": "7383"
+      },
+      {
+        "site": "livechart",
+        "id": "7891"
+      },
+      {
+        "site": "myanimelist",
+        "id": "693"
+      },
+      {
+        "site": "myanimelist",
+        "id": "769"
+      },
+      {
+        "site": "notify",
+        "id": "Ju2AcFimg"
+      },
+      {
+        "site": "notify",
+        "id": "YJI0cFimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1997,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/75501.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/75501t.jpg",
+    "synonyms": [
+      "BURN-UP EXCESS",
+      "Burn Up! Excess",
+      "Burn Up! X",
+      "Burn-Up Excess",
+      "Burn-up Excess",
+      "bux",
+      "Крайне вспыльчивые",
+      "バーンナップEXCESS"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1997-12-18T16:00:00.000Z",
-  "end": "1998-07-25T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "20929"
+  {
+    "title": "るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌",
+    "titleTranslate": {
+      "zh-Hans": [
+        "浪客剑心 维新志士的镇魂歌"
+      ],
+      "zh-Hant": [
+        "神劍闖江湖 維新志士的鎮魂歌"
+      ]
     },
-    {
-      "site": "pptv",
-      "id": "zgP9eibNJufda2EA",
-      "begin": ""
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.macross.co.jp/",
+    "begin": "1997-12-20T16:00:00.000Z",
+    "end": "1997-12-20T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "zmRf3UWrG1m8OqI",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "6/6dypzbjwcdovtjd",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "13554"
+      },
+      {
+        "site": "gamer",
+        "id": "271",
+        "begin": "2021-07-20T09:00:00.000Z",
+        "broadcast": "R/2021-07-20T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "90"
+      },
+      {
+        "site": "anilist",
+        "id": "45"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rurouni-kenshin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rurouni-kenshin-new-kyoto-arc"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rurouni-kenshin-review-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rurouni-kenshin-seisouhen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rurouni-kenshin-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rurouni-kenshin-special-techniques"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rurouni-kenshin-tsuiokuhen"
+      },
+      {
+        "site": "anisearch",
+        "id": "2363"
+      },
+      {
+        "site": "kitsu",
+        "id": "27"
+      },
+      {
+        "site": "livechart",
+        "id": "10958"
+      },
+      {
+        "site": "livechart",
+        "id": "3719"
+      },
+      {
+        "site": "livechart",
+        "id": "3796"
+      },
+      {
+        "site": "livechart",
+        "id": "4411"
+      },
+      {
+        "site": "livechart",
+        "id": "5229"
+      },
+      {
+        "site": "livechart",
+        "id": "5810"
+      },
+      {
+        "site": "livechart",
+        "id": "6534"
+      },
+      {
+        "site": "livechart",
+        "id": "6692"
+      },
+      {
+        "site": "livechart",
+        "id": "6784"
+      },
+      {
+        "site": "myanimelist",
+        "id": "45"
+      },
+      {
+        "site": "notify",
+        "id": "784t5FimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1997,
+      "month": "12"
     },
-    {
-      "site": "bilibili",
-      "id": "2291",
-      "begin": "1997-12-17T16:00:00.000Z",
-      "broadcast": "R/2013-09-03T12:22:00.000Z/P7D"
-    },
-    {
-      "site": "nicovideo",
-      "id": "sakura-taisen-ova",
-      "begin": "2020-04-11T03:00:00.000Z"
-    },
-    {
-      "site": "anidb",
-      "id": "1103"
-    },
-    {
-      "site": "anidb",
-      "id": "400"
-    },
-    {
-      "site": "anidb",
-      "id": "9335"
-    },
-    {
-      "site": "anilist",
-      "id": "1166"
-    },
-    {
-      "site": "anilist",
-      "id": "561"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sakura-kakumei-hana-saku-otome-tachi"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sakura-wars-ecole-de-paris"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sakura-wars-gouka-kenran"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sakura-wars-kanadegumi"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sakura-wars-le-nouveau-paris"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sakura-wars-new-york-ny"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sakura-wars-sumire"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sakura-wars-the-movie"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sakura-wars-tv"
-    },
-    {
-      "site": "anisearch",
-      "id": "1010"
-    },
-    {
-      "site": "anisearch",
-      "id": "506"
-    },
-    {
-      "site": "kitsu",
-      "id": "1047"
-    },
-    {
-      "site": "kitsu",
-      "id": "518"
-    },
-    {
-      "site": "livechart",
-      "id": "1013"
-    },
-    {
-      "site": "livechart",
-      "id": "5833"
-    },
-    {
-      "site": "livechart",
-      "id": "6610"
-    },
-    {
-      "site": "livechart",
-      "id": "6981"
-    },
-    {
-      "site": "livechart",
-      "id": "7135"
-    },
-    {
-      "site": "livechart",
-      "id": "7369"
-    },
-    {
-      "site": "livechart",
-      "id": "7583"
-    },
-    {
-      "site": "livechart",
-      "id": "7808"
-    },
-    {
-      "site": "livechart",
-      "id": "9599"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1166"
-    },
-    {
-      "site": "myanimelist",
-      "id": "561"
-    },
-    {
-      "site": "notify",
-      "id": "nM7xcFiiR"
-    },
-    {
-      "site": "notify",
-      "id": "pJETcKmmR"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 1997,
-    "month": "12"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/47845.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/47845t.jpg",
+    "synonyms": [
+      "Kenshin - Samurai X",
+      "Kenshin Samurai Vagabondo: Requiem per gli Ishin-shish",
+      "Kenshin el Guerrero Samurai: La Película",
+      "Kenshin le Vagabond - Requiem pour les Ishin Shishi",
+      "Kenshin le Vagabond Film: Requiem pour Les Ishin Shishi",
+      "Kenshin, el Guerrero Samurai: La Película",
+      "Kenshin, le Vagabound : Requiem pour les Ishin Shishi",
+      "Kenshin: El Guerrero Samurái - La Película",
+      "Lãng khách Kenshin: Ca khúc trấn hồn của chí sĩ duy tân",
+      "RK Movie",
+      "RK: ISnR",
+      "RuroKen Movie",
+      "Rurouni Kenshin - Requiem for the Restoration Royalists",
+      "Rurouni Kenshin Movie",
+      "Rurouni Kenshin: Der Film",
+      "Rurouni Kenshin: Ishin Shishi e no Requiem",
+      "Rurouni Kenshin: Ishin Shishi no Requiem",
+      "Rurouni Kenshin: Ishinshishi e no Requiem",
+      "Rurouni Kenshin: Ishinshishi he no Requiem",
+      "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Requiem",
+      "Rurouni Kenshin: Requiem for the Restoration Royalists",
+      "Rurouni Kenshin: The Motion Picture",
+      "Rurouni Kenshin: The Movie",
+      "Rurōni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Requiem",
+      "Samurai X - Requiem for Meiji Restoration Patriots",
+      "Samurai X - The Movie",
+      "Samurai X: The Motion Picture",
+      "Samurai X: The Movie",
+      "Samurái X: La película",
+      "kenshin movie",
+      "ซามูไรพเนจร เดอะ มูฟวี่",
+      "ซามูไรพเนจร เดอะมูฟวี่",
+      "るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌",
+      "浪客剑心 给维新志士的镇魂歌",
+      "浪客劍心 維新志士的鎮魂曲",
+      "神劍闖江湖 維新志士的鎮魂曲"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 4,
-  "picture": "https://cdn.myanimelist.net/images/anime/7/15969.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/7/15969t.jpg",
-  "synonyms": [
-    "Sakura Taisen OAV",
-    "Sakura Taisen OVA",
-    "Sakura Taisen OVA 1",
-    "Sakura Taisen Ouka Kenran",
-    "Sakura Taisen, Ôka Kenran",
-    "Sakura Taisen: Ōka Kenran",
-    "Sakura Wars",
-    "Sakura Wars - La splendeur des fleurs de cerisiers",
-    "Sakura Wars OVA",
-    "Sakura Wars OVA 1",
-    "Sakura Wars: Ouka Kenran",
-    "Sakura Wars: The Gorgeous Blooming Cherry Blossoms",
-    "מלחמותיה של סאקורה",
-    "サクラ大戦 ~桜華絢爛~",
-    "サクラ大戦 桜華絢爛",
-    "樱花大战 樱华绚烂"
-  ]
-}
+  {
+    "title": "サクラ大戦 桜華絢爛",
+    "titleTranslate": {
+      "zh-Hans": [
+        "樱花大战 樱华绚烂"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-12-18T16:00:00.000Z",
+    "end": "1998-07-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "20929"
+      },
+      {
+        "site": "pptv",
+        "id": "zgP9eibNJufda2EA",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2291",
+        "begin": "1997-12-17T16:00:00.000Z",
+        "broadcast": "R/2013-09-03T12:22:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sakura-taisen-ova",
+        "begin": "2020-04-11T03:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "1103"
+      },
+      {
+        "site": "anidb",
+        "id": "400"
+      },
+      {
+        "site": "anidb",
+        "id": "9335"
+      },
+      {
+        "site": "anilist",
+        "id": "1166"
+      },
+      {
+        "site": "anilist",
+        "id": "561"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-kakumei-hana-saku-otome-tachi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-ecole-de-paris"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-gouka-kenran"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-kanadegumi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-le-nouveau-paris"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-new-york-ny"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-sumire"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-the-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-tv"
+      },
+      {
+        "site": "anisearch",
+        "id": "1010"
+      },
+      {
+        "site": "anisearch",
+        "id": "506"
+      },
+      {
+        "site": "kitsu",
+        "id": "1047"
+      },
+      {
+        "site": "kitsu",
+        "id": "518"
+      },
+      {
+        "site": "livechart",
+        "id": "1013"
+      },
+      {
+        "site": "livechart",
+        "id": "5833"
+      },
+      {
+        "site": "livechart",
+        "id": "6610"
+      },
+      {
+        "site": "livechart",
+        "id": "6981"
+      },
+      {
+        "site": "livechart",
+        "id": "7135"
+      },
+      {
+        "site": "livechart",
+        "id": "7369"
+      },
+      {
+        "site": "livechart",
+        "id": "7583"
+      },
+      {
+        "site": "livechart",
+        "id": "7808"
+      },
+      {
+        "site": "livechart",
+        "id": "9599"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1166"
+      },
+      {
+        "site": "myanimelist",
+        "id": "561"
+      },
+      {
+        "site": "notify",
+        "id": "nM7xcFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "pJETcKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1997,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/15969.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/15969t.jpg",
+    "synonyms": [
+      "Sakura Taisen OAV",
+      "Sakura Taisen OVA",
+      "Sakura Taisen OVA 1",
+      "Sakura Taisen Ouka Kenran",
+      "Sakura Taisen, Ôka Kenran",
+      "Sakura Taisen: Ōka Kenran",
+      "Sakura Wars",
+      "Sakura Wars - La splendeur des fleurs de cerisiers",
+      "Sakura Wars OVA",
+      "Sakura Wars OVA 1",
+      "Sakura Wars: Ouka Kenran",
+      "Sakura Wars: The Gorgeous Blooming Cherry Blossoms",
+      "מלחמותיה של סאקורה",
+      "サクラ大戦 ~桜華絢爛~",
+      "サクラ大戦 桜華絢爛",
+      "樱花大战 樱华绚烂"
+    ]
+  }
+]

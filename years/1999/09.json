@@ -1,163 +1,165 @@
-{
-  "title": "ゾイド-ZOIDS-",
-  "titleTranslate": {
-    "en": [
-      "ZOIDS"
+[
+  {
+    "title": "ゾイド-ZOIDS-",
+    "titleTranslate": {
+      "en": [
+        "ZOIDS"
+      ],
+      "zh-Hans": [
+        "机兽新世纪"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.shopro.co.jp/tv/program/zoids/1st/index.html",
+    "begin": "1999-09-04T16:00:00.000Z",
+    "end": "2000-12-23T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "26034"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zoids",
+        "begin": "2013-01-11T13:30:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "13845"
+      },
+      {
+        "site": "anidb",
+        "id": "1774"
+      },
+      {
+        "site": "anidb",
+        "id": "1775"
+      },
+      {
+        "site": "anidb",
+        "id": "3070"
+      },
+      {
+        "site": "anilist",
+        "id": "764"
+      },
+      {
+        "site": "anisearch",
+        "id": "13497"
+      },
+      {
+        "site": "anisearch",
+        "id": "2543"
+      },
+      {
+        "site": "anisearch",
+        "id": "3143"
+      },
+      {
+        "site": "anisearch",
+        "id": "606"
+      },
+      {
+        "site": "kitsu",
+        "id": "1566"
+      },
+      {
+        "site": "kitsu",
+        "id": "41088"
+      },
+      {
+        "site": "kitsu",
+        "id": "646"
+      },
+      {
+        "site": "kitsu",
+        "id": "686"
+      },
+      {
+        "site": "livechart",
+        "id": "10147"
+      },
+      {
+        "site": "livechart",
+        "id": "3120"
+      },
+      {
+        "site": "livechart",
+        "id": "5781"
+      },
+      {
+        "site": "livechart",
+        "id": "6887"
+      },
+      {
+        "site": "livechart",
+        "id": "7547"
+      },
+      {
+        "site": "livechart",
+        "id": "9546"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1746"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37395"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40166"
+      },
+      {
+        "site": "myanimelist",
+        "id": "712"
+      },
+      {
+        "site": "myanimelist",
+        "id": "764"
+      },
+      {
+        "site": "notify",
+        "id": "HsKBcFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "d4vAcFimg"
+      },
+      {
+        "site": "notify",
+        "id": "oF2A5Fiig"
+      },
+      {
+        "site": "notify",
+        "id": "v2NFhKimg"
+      }
     ],
-    "zh-Hans": [
-      "机兽新世纪"
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1999,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 67,
+    "picture": "https://cdn.myanimelist.net/images/anime/1908/139655.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1908/139655t.jpg",
+    "synonyms": [
+      "ZOIDS",
+      "ZOIDS: Chaotic Century",
+      "ZOIDS: Guardian Forces",
+      "Zoids Classic",
+      "Zoids: CC",
+      "Zoids: Chaotic Century",
+      "Zoids: Guardian Forces",
+      "zds",
+      "זוידס",
+      "ぞいど",
+      "ゾイド",
+      "ゾイド -ZOIDS-",
+      "ゾイド-ZOIDS-"
     ]
-  },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "http://www.shopro.co.jp/tv/program/zoids/1st/index.html",
-  "begin": "1999-09-04T16:00:00.000Z",
-  "end": "2000-12-23T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "26034"
-    },
-    {
-      "site": "nicovideo",
-      "id": "zoids",
-      "begin": "2013-01-11T13:30:00.000Z"
-    },
-    {
-      "site": "anidb",
-      "id": "13845"
-    },
-    {
-      "site": "anidb",
-      "id": "1774"
-    },
-    {
-      "site": "anidb",
-      "id": "1775"
-    },
-    {
-      "site": "anidb",
-      "id": "3070"
-    },
-    {
-      "site": "anilist",
-      "id": "764"
-    },
-    {
-      "site": "anisearch",
-      "id": "13497"
-    },
-    {
-      "site": "anisearch",
-      "id": "2543"
-    },
-    {
-      "site": "anisearch",
-      "id": "3143"
-    },
-    {
-      "site": "anisearch",
-      "id": "606"
-    },
-    {
-      "site": "kitsu",
-      "id": "1566"
-    },
-    {
-      "site": "kitsu",
-      "id": "41088"
-    },
-    {
-      "site": "kitsu",
-      "id": "646"
-    },
-    {
-      "site": "kitsu",
-      "id": "686"
-    },
-    {
-      "site": "livechart",
-      "id": "10147"
-    },
-    {
-      "site": "livechart",
-      "id": "3120"
-    },
-    {
-      "site": "livechart",
-      "id": "5781"
-    },
-    {
-      "site": "livechart",
-      "id": "6887"
-    },
-    {
-      "site": "livechart",
-      "id": "7547"
-    },
-    {
-      "site": "livechart",
-      "id": "9546"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1746"
-    },
-    {
-      "site": "myanimelist",
-      "id": "37395"
-    },
-    {
-      "site": "myanimelist",
-      "id": "40166"
-    },
-    {
-      "site": "myanimelist",
-      "id": "712"
-    },
-    {
-      "site": "myanimelist",
-      "id": "764"
-    },
-    {
-      "site": "notify",
-      "id": "HsKBcFmmR"
-    },
-    {
-      "site": "notify",
-      "id": "d4vAcFimg"
-    },
-    {
-      "site": "notify",
-      "id": "oF2A5Fiig"
-    },
-    {
-      "site": "notify",
-      "id": "v2NFhKimg"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 1999,
-    "month": "09"
-  },
-  "status": "FINISHED",
-  "episodes": 67,
-  "picture": "https://cdn.myanimelist.net/images/anime/1908/139655.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1908/139655t.jpg",
-  "synonyms": [
-    "ZOIDS",
-    "ZOIDS: Chaotic Century",
-    "ZOIDS: Guardian Forces",
-    "Zoids Classic",
-    "Zoids: CC",
-    "Zoids: Chaotic Century",
-    "Zoids: Guardian Forces",
-    "zds",
-    "זוידס",
-    "ぞいど",
-    "ゾイド",
-    "ゾイド -ZOIDS-",
-    "ゾイド-ZOIDS-"
-  ]
-}
+  }
+]

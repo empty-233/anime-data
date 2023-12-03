@@ -1,70 +1,135 @@
-{
-  "title": "クラッシュギアNitro",
-  "titleTranslate": {
-    "zh-Hans": [
-      "新激斗战车Nitro"
+[
+  {
+    "title": "明日のナージャ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "明日的娜嘉",
+        "妮嘉寻亲记",
+        "明日之星娜佳"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/tv/nadja/",
+    "begin": "2003-02-01T23:30:00.000Z",
+    "end": "2004-01-25T00:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "grGMCnLYSIbpZ88",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "9564"
+      },
+      {
+        "site": "bilibili",
+        "id": "1992",
+        "begin": "2003-02-01T16:00:00.000Z",
+        "broadcast": "R/2013-07-24T16:54:00.000Z/P7D"
+      },
+      {
+        "site": "letv",
+        "id": "34425",
+        "begin": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2003,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 50,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/75381.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/75381t.jpg",
+    "synonyms": [
+      "Nadja",
+      "Nadja Apple Fields",
+      "Nadja Applefield",
+      "Nadja Applefields",
+      "Nadja de Amanhã",
+      "Nadja del mañana",
+      "Nadja of Tomorrow",
+      "Nadja: Apple Fields",
+      "Nádia",
+      "Tomorrow's Nadja",
+      "Tomorrow`s Nadja",
+      "نادجا الغد",
+      "あしたのなーじゃ",
+      "明日のナージャ",
+      "明日的娜嘉"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "http://www.crushgear-nitro.net/",
-  "begin": "2003-02-01T22:00:00.000Z",
-  "end": "2004-01-24T22:30:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "38431"
+  {
+    "title": "クラッシュギアNitro",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新激斗战车Nitro"
+      ]
     },
-    {
-      "site": "anidb",
-      "id": "2322"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.crushgear-nitro.net/",
+    "begin": "2003-02-01T22:00:00.000Z",
+    "end": "2004-01-24T22:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "38431"
+      },
+      {
+        "site": "anidb",
+        "id": "2322"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crush-gear-turbo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crush-gear-turbo-the-movie-kaiserverns-ultimate-challenge"
+      },
+      {
+        "site": "anisearch",
+        "id": "3275"
+      },
+      {
+        "site": "kitsu",
+        "id": "2723"
+      },
+      {
+        "site": "livechart",
+        "id": "10960"
+      },
+      {
+        "site": "livechart",
+        "id": "8733"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3012"
+      },
+      {
+        "site": "notify",
+        "id": "o6EUcFmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2003,
+      "month": "02"
     },
-    {
-      "site": "anime-planet",
-      "id": "crush-gear-turbo"
-    },
-    {
-      "site": "anime-planet",
-      "id": "crush-gear-turbo-the-movie-kaiserverns-ultimate-challenge"
-    },
-    {
-      "site": "anisearch",
-      "id": "3275"
-    },
-    {
-      "site": "kitsu",
-      "id": "2723"
-    },
-    {
-      "site": "livechart",
-      "id": "10960"
-    },
-    {
-      "site": "livechart",
-      "id": "8733"
-    },
-    {
-      "site": "myanimelist",
-      "id": "3012"
-    },
-    {
-      "site": "notify",
-      "id": "o6EUcFmig"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 2003,
-    "month": "02"
-  },
-  "status": "FINISHED",
-  "episodes": 50,
-  "picture": "https://cdn.myanimelist.net/images/anime/1925/94230.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1925/94230t.jpg",
-  "synonyms": [
-    "Crash Gear Nitro",
-    "くらっしゅぎあにとろ",
-    "クラッシュギア ニトロ",
-    "クラッシュギアNitro"
-  ]
-}
+    "status": "FINISHED",
+    "episodes": 50,
+    "picture": "https://cdn.myanimelist.net/images/anime/1925/94230.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1925/94230t.jpg",
+    "synonyms": [
+      "Crash Gear Nitro",
+      "くらっしゅぎあにとろ",
+      "クラッシュギア ニトロ",
+      "クラッシュギアNitro"
+    ]
+  }
+]

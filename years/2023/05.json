@@ -1,164 +1,292 @@
-{
-  "title": "天地無用！GXP パラダイス始動編",
-  "titleTranslate": {
-    "zh-Hans": [
-      "天地无用！GXP 乐园始动篇"
+[
+  {
+    "title": "ヤキトリ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Yakitori：行星轨道敢死队"
+      ],
+      "zh-Hant": [
+        "YAKITORI：行星軌道敢死隊"
+      ],
+      "en": [
+        "Yakitori: Soldiers of Misfortune"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-05-17T16:00:00.000Z",
+    "end": "2023-05-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "425989"
+      },
+      {
+        "site": "netflix",
+        "id": "81186862",
+        "begin": "2023-05-17T16:00:00.000Z",
+        "broadcast": "R/2023-05-17T16:00:00.000Z/P7D"
+      }
     ],
-    "zh-Hant": [
-      "天地無用！GXP 樂園始動編"
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2023,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/1998/134740.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1998/134740t.jpg",
+    "synonyms": [
+      "YAKITORI：行星轨道敢死队",
+      "Yakitori : Soldiers of Misfortune",
+      "Yakitori: Soldados de la desdicha",
+      "Yakitori: Soldados do Desastre",
+      "Yakitori: Soldiers of Misfortune",
+      "Yakitori: Żołnierze niedoli",
+      "Якіторі: Солдати невдачі",
+      "ヤキトリ"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "https://kinematics.jp/tenchi-gxp/",
-  "begin": "2023-05-26T16:00:00.000Z",
-  "end": "2023-10-27T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "412300"
+  {
+    "title": "スタンドマイヒーローズ WARMTH OF MEMORIES",
+    "titleTranslate": {
+      "zh-Hans": [
+        "STAND MY HEROES WARMTH OF MEMORIES",
+        "募恋英雄 WARMTH OF MEMORIES"
+      ],
+      "zh-Hant": [
+        "募戀英雄 WARMTH OF MEMORIES"
+      ]
     },
-    {
-      "site": "gamer",
-      "id": "129364",
-      "begin": "2023-09-29T00:30:00.000Z",
-      "broadcast": "R/2023-09-29T00:30:00.000Z/P7D"
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://stand-myheroes.com/wom/index.html",
+    "begin": "2023-05-23T16:00:00.000Z",
+    "end": "2023-05-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "348663"
+      },
+      {
+        "site": "gamer",
+        "id": "129229",
+        "begin": "2023-08-25T03:00:00.000Z",
+        "broadcast": "R/2023-08-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "104158"
+      },
+      {
+        "site": "anime-planet",
+        "id": "stand-my-heroes-piece-of-truth"
+      },
+      {
+        "site": "anisearch",
+        "id": "13895"
+      },
+      {
+        "site": "kitsu",
+        "id": "42309"
+      },
+      {
+        "site": "livechart",
+        "id": "3514"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38331"
+      },
+      {
+        "site": "notify",
+        "id": "3Z34KjWZR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2023,
+      "month": "05"
     },
-    {
-      "site": "anidb",
-      "id": "358"
-    },
-    {
-      "site": "anilist",
-      "id": "1133"
-    },
-    {
-      "site": "anilist",
-      "id": "114442"
-    },
-    {
-      "site": "anilist",
-      "id": "21429"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tenchi-muyo-gxp"
-    },
-    {
-      "site": "anisearch",
-      "id": "1527"
-    },
-    {
-      "site": "kitsu",
-      "id": "1015"
-    },
-    {
-      "site": "kitsu",
-      "id": "11451"
-    },
-    {
-      "site": "kitsu",
-      "id": "42491"
-    },
-    {
-      "site": "livechart",
-      "id": "3716"
-    },
-    {
-      "site": "livechart",
-      "id": "4231"
-    },
-    {
-      "site": "livechart",
-      "id": "4613"
-    },
-    {
-      "site": "livechart",
-      "id": "4911"
-    },
-    {
-      "site": "livechart",
-      "id": "5004"
-    },
-    {
-      "site": "livechart",
-      "id": "5496"
-    },
-    {
-      "site": "livechart",
-      "id": "5631"
-    },
-    {
-      "site": "livechart",
-      "id": "5664"
-    },
-    {
-      "site": "livechart",
-      "id": "5716"
-    },
-    {
-      "site": "livechart",
-      "id": "5721"
-    },
-    {
-      "site": "livechart",
-      "id": "6254"
-    },
-    {
-      "site": "livechart",
-      "id": "6460"
-    },
-    {
-      "site": "livechart",
-      "id": "6564"
-    },
-    {
-      "site": "livechart",
-      "id": "6698"
-    },
-    {
-      "site": "livechart",
-      "id": "7727"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1133"
-    },
-    {
-      "site": "myanimelist",
-      "id": "31861"
-    },
-    {
-      "site": "myanimelist",
-      "id": "40097"
-    },
-    {
-      "site": "notify",
-      "id": "oLgb5FmmR"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 2023,
-    "month": "05"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1132/127673.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1132/127673t.jpg",
+    "synonyms": [
+      "Stand My Heroes : Warmth of Memories",
+      "Stand My Heroes OVA",
+      "Stand My Heroes: Map Story",
+      "Stand My Heroes: WARMTH OF MEMORIES",
+      "スタンドマイヒーローズ OVA",
+      "スタンドマイヒーローズ WARMTH OF MEMORIES"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 6,
-  "picture": "https://cdn.myanimelist.net/images/anime/1169/134697.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1169/134697t.jpg",
-  "synonyms": [
-    "Tenchi Muyo ! GXP : Paradise Starting",
-    "Tenchi Muyo! GXP Paradise Beginnings Arc",
-    "Tenchi Muyo! GXP Paradise Starting",
-    "Tenchi Muyo! GXP: Paradise Shidou-hen",
-    "Tenchi Muyo! GXP: Paradise Starting",
-    "Tenchi Muyou! GXP: Paradise Shidou Hen",
-    "Tenchi Muyō! GXP: Paradise Shidō-hen",
-    "tenchi: gxp ova",
-    "天地無用! GXP パラダイス始動編",
-    "天地無用！ GXP パラダイス始動編",
-    "天地無用！GXP パラダイス始動編",
-    "天地無用！GXP 樂園始動編"
-  ]
-}
+  {
+    "title": "天地無用！GXP パラダイス始動編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天地无用！GXP 乐园始动篇"
+      ],
+      "zh-Hant": [
+        "天地無用！GXP 樂園始動編"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://kinematics.jp/tenchi-gxp/",
+    "begin": "2023-05-26T16:00:00.000Z",
+    "end": "2023-10-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "412300"
+      },
+      {
+        "site": "gamer",
+        "id": "129364",
+        "begin": "2023-09-29T00:30:00.000Z",
+        "broadcast": "R/2023-09-29T00:30:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "358"
+      },
+      {
+        "site": "anilist",
+        "id": "1133"
+      },
+      {
+        "site": "anilist",
+        "id": "114442"
+      },
+      {
+        "site": "anilist",
+        "id": "21429"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-muyo-gxp"
+      },
+      {
+        "site": "anisearch",
+        "id": "1527"
+      },
+      {
+        "site": "kitsu",
+        "id": "1015"
+      },
+      {
+        "site": "kitsu",
+        "id": "11451"
+      },
+      {
+        "site": "kitsu",
+        "id": "42491"
+      },
+      {
+        "site": "livechart",
+        "id": "3716"
+      },
+      {
+        "site": "livechart",
+        "id": "4231"
+      },
+      {
+        "site": "livechart",
+        "id": "4613"
+      },
+      {
+        "site": "livechart",
+        "id": "4911"
+      },
+      {
+        "site": "livechart",
+        "id": "5004"
+      },
+      {
+        "site": "livechart",
+        "id": "5496"
+      },
+      {
+        "site": "livechart",
+        "id": "5631"
+      },
+      {
+        "site": "livechart",
+        "id": "5664"
+      },
+      {
+        "site": "livechart",
+        "id": "5716"
+      },
+      {
+        "site": "livechart",
+        "id": "5721"
+      },
+      {
+        "site": "livechart",
+        "id": "6254"
+      },
+      {
+        "site": "livechart",
+        "id": "6460"
+      },
+      {
+        "site": "livechart",
+        "id": "6564"
+      },
+      {
+        "site": "livechart",
+        "id": "6698"
+      },
+      {
+        "site": "livechart",
+        "id": "7727"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1133"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31861"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40097"
+      },
+      {
+        "site": "notify",
+        "id": "oLgb5FmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2023,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/1169/134697.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1169/134697t.jpg",
+    "synonyms": [
+      "Tenchi Muyo ! GXP : Paradise Starting",
+      "Tenchi Muyo! GXP Paradise Beginnings Arc",
+      "Tenchi Muyo! GXP Paradise Starting",
+      "Tenchi Muyo! GXP: Paradise Shidou-hen",
+      "Tenchi Muyo! GXP: Paradise Starting",
+      "Tenchi Muyou! GXP: Paradise Shidou Hen",
+      "Tenchi Muyō! GXP: Paradise Shidō-hen",
+      "tenchi: gxp ova",
+      "天地無用! GXP パラダイス始動編",
+      "天地無用！ GXP パラダイス始動編",
+      "天地無用！GXP パラダイス始動編",
+      "天地無用！GXP 樂園始動編"
+    ]
+  }
+]

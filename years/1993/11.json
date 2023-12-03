@@ -1,173 +1,480 @@
-{
-  "title": "タイムボカン王道復古",
-  "titleTranslate": {
-    "zh-Hans": [
-      "王道复古"
+[
+  {
+    "title": "ジョジョの奇妙な冒険",
+    "titleTranslate": {
+      "zh-Hans": [
+        "JOJO的奇妙冒险"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-11-19T16:00:00.000Z",
+    "end": "2002-10-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "u4hz8VmicL23QTrY",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "38326"
+      },
+      {
+        "site": "anidb",
+        "id": "10206"
+      },
+      {
+        "site": "anidb",
+        "id": "4918"
+      },
+      {
+        "site": "anilist",
+        "id": "20474"
+      },
+      {
+        "site": "anilist",
+        "id": "3603"
+      },
+      {
+        "site": "anime-planet",
+        "id": "jojos-bizarre-adventure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "jojos-bizarre-adventure-2000"
+      },
+      {
+        "site": "anime-planet",
+        "id": "jojos-bizarre-adventure-diamond-is-unbreakable"
+      },
+      {
+        "site": "anime-planet",
+        "id": "jojos-bizarre-adventure-golden-wind"
+      },
+      {
+        "site": "anime-planet",
+        "id": "jojos-bizarre-adventure-phantom-blood"
+      },
+      {
+        "site": "anime-planet",
+        "id": "jojos-bizarre-adventure-re-edited"
+      },
+      {
+        "site": "anime-planet",
+        "id": "jojos-bizarre-adventure-stardust-crusaders"
+      },
+      {
+        "site": "anime-planet",
+        "id": "jojos-bizarre-adventure-stardust-crusaders-battle-in-egypt"
+      },
+      {
+        "site": "anime-planet",
+        "id": "jojos-bizarre-adventure-stone-ocean"
+      },
+      {
+        "site": "anisearch",
+        "id": "17313"
+      },
+      {
+        "site": "anisearch",
+        "id": "4027"
+      },
+      {
+        "site": "anisearch",
+        "id": "9149"
+      },
+      {
+        "site": "kitsu",
+        "id": "13306"
+      },
+      {
+        "site": "kitsu",
+        "id": "3136"
+      },
+      {
+        "site": "kitsu",
+        "id": "8063"
+      },
+      {
+        "site": "livechart",
+        "id": "10512"
+      },
+      {
+        "site": "livechart",
+        "id": "1891"
+      },
+      {
+        "site": "livechart",
+        "id": "2160"
+      },
+      {
+        "site": "livechart",
+        "id": "280"
+      },
+      {
+        "site": "livechart",
+        "id": "3111"
+      },
+      {
+        "site": "livechart",
+        "id": "3345"
+      },
+      {
+        "site": "livechart",
+        "id": "4885"
+      },
+      {
+        "site": "livechart",
+        "id": "5036"
+      },
+      {
+        "site": "livechart",
+        "id": "5798"
+      },
+      {
+        "site": "livechart",
+        "id": "739"
+      },
+      {
+        "site": "livechart",
+        "id": "9568"
+      },
+      {
+        "site": "myanimelist",
+        "id": "20899"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3603"
+      },
+      {
+        "site": "notify",
+        "id": "IBnptKiig"
+      },
+      {
+        "site": "notify",
+        "id": "TKshpFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "aymlcFimR"
+      },
+      {
+        "site": "notify",
+        "id": "meIn2Kmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2012,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/40409.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/40409t.jpg",
+    "synonyms": [
+      "(مغامرات جوجو العجيبة (2012",
+      "Aventurile Bizare ale lui JoJo (2012)",
+      "Battle Tendency",
+      "Cuộc phiêu lưu kì lạ của JoJo (2012)",
+      "JJBA 2012",
+      "JoJo 2012",
+      "JoJo : Les Aventures Bizarre des Jojo",
+      "JoJo bizarr kalandja (2012)",
+      "JoJo no Kimyou na Bouken (2012)",
+      "JoJo no Kimyou na Bouken: Sentou Chouryuu",
+      "JoJo no Kimyō na Bōken (2012)",
+      "JoJo's Bizarre Adventure",
+      "JoJo's Bizarre Adventure (2012)",
+      "JoJo's Bizarre Adventure (TV)",
+      "JoJo's Bizarre Adventure The Animation",
+      "JoJo's Bizarre Adventure. Phantom Blood",
+      "JoJo's Bizarre Adventure: Battle Tendency",
+      "JoJo's Bizarre Adventure: Phantom Blood",
+      "JoJo`s Bizarre Adventure (2012)",
+      "JoJova prazvláštní dobrodružství (2012)",
+      "JoJo’s Bizarre Adventure",
+      "JoJo’s Bizarre Adventure (2012)",
+      "JoJo’s Bizarre Adventure Phantom Blood + Battle Tendency",
+      "JoJo的奇妙冒险 (2012)",
+      "JoJo的奇妙冒險 (2012)",
+      "Jojo",
+      "Jojo`s Bizarre Adventure (2012)",
+      "Le Bizzarre Avventure di JoJo (2012)",
+      "Le bizzarre avventure di JoJo (2012)",
+      "Le bizzarre avventure di JoJo: Battle Tendency",
+      "Le bizzarre avventure di JoJo: Phantom Blood",
+      "Phantom Blood",
+      "Sentou Chouryuu",
+      "Sângele Trecutului",
+      "Tendința Spre Luptă",
+      "jojo s1",
+      "jojo1",
+      "Невероятните приключения на Джо-Джо (2012)",
+      "Невероятные приключения ДжоДжо (2012)",
+      "Химерні пригоди ДжоДжо (2012)",
+      "Химерні пригоди ДжоДжо: Примарна кров",
+      "Химерні пригоди ДжоДжо: Тяжіння до бою",
+      "ההרפתקה המוזרה של ג`וג`ו (2012)",
+      "جوجو 1",
+      "مغامرات جوجو العجيبة",
+      "مغامرات جوجو العجيبة:الدماء الوهمية",
+      "مغامرات جوجو العجيبة:حمى القتال",
+      "โจโจ้ ล่าข้ามศตวรรษ (2012)",
+      "じょじょのきみょうなぼうけん",
+      "ジョジョの奇妙な冒険",
+      "ジョジョの奇妙な冒険 (2012)",
+      "ジョジョの奇妙な冒険 (TV)",
+      "ジョジョの奇妙な冒険 （2012）",
+      "죠죠의 기묘한 모험 (2012)"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1993-11-26T16:00:00.000Z",
-  "end": "1994-01-01T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "64174"
+  {
+    "title": "THE 八犬伝 〜新章〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "THE 八犬传 -新章-"
+      ]
     },
-    {
-      "site": "pptv",
-      "id": "zHxHxS2TA0GkIoo",
-      "begin": ""
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-11-25T16:00:00.000Z",
+    "end": "1995-03-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "63333"
+      },
+      {
+        "site": "anidb",
+        "id": "362"
+      },
+      {
+        "site": "anilist",
+        "id": "1822"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-hakkenden-digest"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-legend-of-the-dog-warriors-the-hakkenden"
+      },
+      {
+        "site": "anisearch",
+        "id": "1458"
+      },
+      {
+        "site": "kitsu",
+        "id": "1639"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1822"
+      },
+      {
+        "site": "notify",
+        "id": "oj-B5Fiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1993,
+      "month": "11"
     },
-    {
-      "site": "anidb",
-      "id": "2504"
-    },
-    {
-      "site": "anilist",
-      "id": "1458"
-    },
-    {
-      "site": "anilist",
-      "id": "2389"
-    },
-    {
-      "site": "anilist",
-      "id": "3008"
-    },
-    {
-      "site": "anilist",
-      "id": "3915"
-    },
-    {
-      "site": "anilist",
-      "id": "4154"
-    },
-    {
-      "site": "anilist",
-      "id": "4808"
-    },
-    {
-      "site": "anilist",
-      "id": "4810"
-    },
-    {
-      "site": "anilist",
-      "id": "5344"
-    },
-    {
-      "site": "anilist",
-      "id": "6889"
-    },
-    {
-      "site": "anilist",
-      "id": "8011"
-    },
-    {
-      "site": "anilist",
-      "id": "8553"
-    },
-    {
-      "site": "anime-planet",
-      "id": "time-bokan"
-    },
-    {
-      "site": "anime-planet",
-      "id": "time-bokan-2000-kaitou-kiramekiman"
-    },
-    {
-      "site": "anime-planet",
-      "id": "time-bokan-24"
-    },
-    {
-      "site": "anime-planet",
-      "id": "time-bokan-series-time-patrol-tai-otasukeman"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yatterman-1977"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yatterman-2008"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yatterman-shin-yattermecha-osu-gou-omocha-no-kuni-de-dai-ketsudan-da-koron"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yattodetaman"
-    },
-    {
-      "site": "anime-planet",
-      "id": "zendaman"
-    },
-    {
-      "site": "anisearch",
-      "id": "3521"
-    },
-    {
-      "site": "kitsu",
-      "id": "3346"
-    },
-    {
-      "site": "livechart",
-      "id": "11834"
-    },
-    {
-      "site": "livechart",
-      "id": "2116"
-    },
-    {
-      "site": "livechart",
-      "id": "2631"
-    },
-    {
-      "site": "livechart",
-      "id": "6771"
-    },
-    {
-      "site": "livechart",
-      "id": "6990"
-    },
-    {
-      "site": "livechart",
-      "id": "7169"
-    },
-    {
-      "site": "livechart",
-      "id": "7818"
-    },
-    {
-      "site": "myanimelist",
-      "id": "3915"
-    },
-    {
-      "site": "notify",
-      "id": "E4XlcKiiR"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 1993,
-    "month": "11"
+    "status": "FINISHED",
+    "episodes": 7,
+    "picture": "https://cdn.myanimelist.net/images/anime/1592/92509.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1592/92509t.jpg",
+    "synonyms": [
+      "Hakkenden (suite)",
+      "Hakkenden: Il branco dei guerrieri leggendari",
+      "THE 八犬伝 〜新章〜",
+      "THE八犬伝 新章",
+      "The Hakkenden: Die Legende der Hundekrieger (2)",
+      "The Hakkenden: Legend of the Dog Warriors (2)",
+      "The Hakkenden: Legend of the Dog Warriors Part 2",
+      "The Hakkenden: Shin Shō",
+      "The Legend Of The Dog Warriors: The Hakkenden - Shin Shou",
+      "The八犬伝 新章"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 2,
-  "picture": "https://cdn.myanimelist.net/images/anime/1740/136188.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1740/136188t.jpg",
-  "synonyms": [
-    "Time Bokan",
-    "Time Bokan - Le macchine del tempo",
-    "Time Bokan OVA",
-    "Time Bokan Ōdō Fukko",
-    "Time Bokan: Le macchine del tempo",
-    "Time Bokan: OAV",
-    "Time Bokan: Oudou Fukko",
-    "Time Bokan: Royal Revival",
-    "たいむぼかんおうどうふっこ",
-    "タイムボカン王道復古"
-  ]
-}
+  {
+    "title": "タイムボカン王道復古",
+    "titleTranslate": {
+      "zh-Hans": [
+        "王道复古"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-11-26T16:00:00.000Z",
+    "end": "1994-01-01T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "64174"
+      },
+      {
+        "site": "pptv",
+        "id": "zHxHxS2TA0GkIoo",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "2504"
+      },
+      {
+        "site": "anilist",
+        "id": "1458"
+      },
+      {
+        "site": "anilist",
+        "id": "2389"
+      },
+      {
+        "site": "anilist",
+        "id": "3008"
+      },
+      {
+        "site": "anilist",
+        "id": "3915"
+      },
+      {
+        "site": "anilist",
+        "id": "4154"
+      },
+      {
+        "site": "anilist",
+        "id": "4808"
+      },
+      {
+        "site": "anilist",
+        "id": "4810"
+      },
+      {
+        "site": "anilist",
+        "id": "5344"
+      },
+      {
+        "site": "anilist",
+        "id": "6889"
+      },
+      {
+        "site": "anilist",
+        "id": "8011"
+      },
+      {
+        "site": "anilist",
+        "id": "8553"
+      },
+      {
+        "site": "anime-planet",
+        "id": "time-bokan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "time-bokan-2000-kaitou-kiramekiman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "time-bokan-24"
+      },
+      {
+        "site": "anime-planet",
+        "id": "time-bokan-series-time-patrol-tai-otasukeman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yatterman-1977"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yatterman-2008"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yatterman-shin-yattermecha-osu-gou-omocha-no-kuni-de-dai-ketsudan-da-koron"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yattodetaman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zendaman"
+      },
+      {
+        "site": "anisearch",
+        "id": "3521"
+      },
+      {
+        "site": "kitsu",
+        "id": "3346"
+      },
+      {
+        "site": "livechart",
+        "id": "11834"
+      },
+      {
+        "site": "livechart",
+        "id": "2116"
+      },
+      {
+        "site": "livechart",
+        "id": "2631"
+      },
+      {
+        "site": "livechart",
+        "id": "6771"
+      },
+      {
+        "site": "livechart",
+        "id": "6990"
+      },
+      {
+        "site": "livechart",
+        "id": "7169"
+      },
+      {
+        "site": "livechart",
+        "id": "7818"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3915"
+      },
+      {
+        "site": "notify",
+        "id": "E4XlcKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1993,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/1740/136188.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1740/136188t.jpg",
+    "synonyms": [
+      "Time Bokan",
+      "Time Bokan - Le macchine del tempo",
+      "Time Bokan OVA",
+      "Time Bokan Ōdō Fukko",
+      "Time Bokan: Le macchine del tempo",
+      "Time Bokan: OAV",
+      "Time Bokan: Oudou Fukko",
+      "Time Bokan: Royal Revival",
+      "たいむぼかんおうどうふっこ",
+      "タイムボカン王道復古"
+    ]
+  }
+]

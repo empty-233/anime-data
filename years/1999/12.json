@@ -1,189 +1,403 @@
-{
-  "title": "銀河英雄伝説外伝 螺旋迷宮",
-  "titleTranslate": {
-    "zh-Hans": [
-      "银河英雄传说外传 螺旋迷宫"
+[
+  {
+    "title": "サクラ大戦 轟華絢爛",
+    "titleTranslate": {
+      "zh-Hans": [
+        "樱花大战 轰华绚烂"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-12-18T16:00:00.000Z",
+    "end": "2000-12-21T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "20930"
+      },
+      {
+        "site": "pptv",
+        "id": "zwLibfORKuvhb2UE",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28229287",
+        "begin": "2020-06-22T16:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "489"
+      },
+      {
+        "site": "anidb",
+        "id": "628"
+      },
+      {
+        "site": "anilist",
+        "id": "1165"
+      },
+      {
+        "site": "anilist",
+        "id": "1964"
+      },
+      {
+        "site": "anilist",
+        "id": "2168"
+      },
+      {
+        "site": "anilist",
+        "id": "608"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-kakumei-hana-saku-otome-tachi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-ecole-de-paris"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-kanadegumi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-le-nouveau-paris"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-new-york-ny"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-ouka-kenran"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-sumire"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-the-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-tv"
+      },
+      {
+        "site": "anisearch",
+        "id": "1932"
+      },
+      {
+        "site": "anisearch",
+        "id": "3445"
+      },
+      {
+        "site": "anisearch",
+        "id": "4075"
+      },
+      {
+        "site": "anisearch",
+        "id": "409"
+      },
+      {
+        "site": "kitsu",
+        "id": "1046"
+      },
+      {
+        "site": "kitsu",
+        "id": "1769"
+      },
+      {
+        "site": "kitsu",
+        "id": "1963"
+      },
+      {
+        "site": "kitsu",
+        "id": "563"
+      },
+      {
+        "site": "livechart",
+        "id": "1013"
+      },
+      {
+        "site": "livechart",
+        "id": "5833"
+      },
+      {
+        "site": "livechart",
+        "id": "6981"
+      },
+      {
+        "site": "livechart",
+        "id": "7135"
+      },
+      {
+        "site": "livechart",
+        "id": "7369"
+      },
+      {
+        "site": "livechart",
+        "id": "7583"
+      },
+      {
+        "site": "livechart",
+        "id": "7792"
+      },
+      {
+        "site": "livechart",
+        "id": "7808"
+      },
+      {
+        "site": "livechart",
+        "id": "9599"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1165"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1964"
+      },
+      {
+        "site": "myanimelist",
+        "id": "608"
+      },
+      {
+        "site": "notify",
+        "id": "69nL5KmmR"
+      },
+      {
+        "site": "notify",
+        "id": "O_6YcKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "Og7xcFiig"
+      },
+      {
+        "site": "notify",
+        "id": "PPCT5FiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1999,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/25433.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/25433t.jpg",
+    "synonyms": [
+      "Sakura Taisen Gouka Kenran",
+      "Sakura Taisen OAV (2éme Série)",
+      "Sakura Taisen OVA 2",
+      "Sakura Taisen, Gôka Kenran",
+      "Sakura Taisen: Gōka Kenran",
+      "Sakura Wars - La splendeur des fleurs retentissantes",
+      "Sakura Wars 2: Return of the Spirit Warriors",
+      "Sakura Wars OVA 2",
+      "Sakura Wars: Gouka Kenran",
+      "Sakura Wars: New OVA",
+      "Sakura Wars: The Gorgeous Blooming Cherry Blossoms",
+      "Sakura Wars: The Radiant Gorgeous Blooming Cherry Blossoms",
+      "מלחמותיה של סאקורה 2",
+      "さくらたいせんごうかけんらん",
+      "サクラ大戦 轟華絢爛",
+      "樱花大战 轰华绚烂"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1999-12-24T16:00:00.000Z",
-  "end": "1999-12-24T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "79678"
+  {
+    "title": "銀河英雄伝説外伝 螺旋迷宮",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河英雄传说外传 螺旋迷宫"
+      ]
     },
-    {
-      "site": "anidb",
-      "id": "1309"
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-12-24T16:00:00.000Z",
+    "end": "1999-12-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "79678"
+      },
+      {
+        "site": "anidb",
+        "id": "1309"
+      },
+      {
+        "site": "anidb",
+        "id": "1310"
+      },
+      {
+        "site": "anilist",
+        "id": "3014"
+      },
+      {
+        "site": "anilist",
+        "id": "3015"
+      },
+      {
+        "site": "anilist",
+        "id": "3371"
+      },
+      {
+        "site": "anime-planet",
+        "id": "legend-of-the-galactic-heroes"
+      },
+      {
+        "site": "anime-planet",
+        "id": "legend-of-the-galactic-heroes-gaiden"
+      },
+      {
+        "site": "anime-planet",
+        "id": "legend-of-the-galactic-heroes-golden-wings"
+      },
+      {
+        "site": "anime-planet",
+        "id": "legend-of-the-galactic-heroes-my-conquest-is-the-sea-of-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "legend-of-the-galactic-heroes-overture-to-a-new-war"
+      },
+      {
+        "site": "anisearch",
+        "id": "1596"
+      },
+      {
+        "site": "anisearch",
+        "id": "352"
+      },
+      {
+        "site": "kitsu",
+        "id": "2963"
+      },
+      {
+        "site": "kitsu",
+        "id": "727"
+      },
+      {
+        "site": "livechart",
+        "id": "10151"
+      },
+      {
+        "site": "livechart",
+        "id": "10832"
+      },
+      {
+        "site": "livechart",
+        "id": "10833"
+      },
+      {
+        "site": "livechart",
+        "id": "11215"
+      },
+      {
+        "site": "livechart",
+        "id": "11216"
+      },
+      {
+        "site": "livechart",
+        "id": "11217"
+      },
+      {
+        "site": "livechart",
+        "id": "2887"
+      },
+      {
+        "site": "livechart",
+        "id": "2888"
+      },
+      {
+        "site": "livechart",
+        "id": "2889"
+      },
+      {
+        "site": "livechart",
+        "id": "3708"
+      },
+      {
+        "site": "livechart",
+        "id": "436"
+      },
+      {
+        "site": "livechart",
+        "id": "4439"
+      },
+      {
+        "site": "livechart",
+        "id": "4443"
+      },
+      {
+        "site": "livechart",
+        "id": "4484"
+      },
+      {
+        "site": "livechart",
+        "id": "5588"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3014"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3015"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3371"
+      },
+      {
+        "site": "myanimelist",
+        "id": "820"
+      },
+      {
+        "site": "notify",
+        "id": "Q6fAcKmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1999,
+      "month": "12"
     },
-    {
-      "site": "anidb",
-      "id": "1310"
-    },
-    {
-      "site": "anilist",
-      "id": "3014"
-    },
-    {
-      "site": "anilist",
-      "id": "3015"
-    },
-    {
-      "site": "anilist",
-      "id": "3371"
-    },
-    {
-      "site": "anime-planet",
-      "id": "legend-of-the-galactic-heroes"
-    },
-    {
-      "site": "anime-planet",
-      "id": "legend-of-the-galactic-heroes-gaiden"
-    },
-    {
-      "site": "anime-planet",
-      "id": "legend-of-the-galactic-heroes-golden-wings"
-    },
-    {
-      "site": "anime-planet",
-      "id": "legend-of-the-galactic-heroes-my-conquest-is-the-sea-of-stars"
-    },
-    {
-      "site": "anime-planet",
-      "id": "legend-of-the-galactic-heroes-overture-to-a-new-war"
-    },
-    {
-      "site": "anisearch",
-      "id": "1596"
-    },
-    {
-      "site": "anisearch",
-      "id": "352"
-    },
-    {
-      "site": "kitsu",
-      "id": "2963"
-    },
-    {
-      "site": "kitsu",
-      "id": "727"
-    },
-    {
-      "site": "livechart",
-      "id": "10151"
-    },
-    {
-      "site": "livechart",
-      "id": "10832"
-    },
-    {
-      "site": "livechart",
-      "id": "10833"
-    },
-    {
-      "site": "livechart",
-      "id": "11215"
-    },
-    {
-      "site": "livechart",
-      "id": "11216"
-    },
-    {
-      "site": "livechart",
-      "id": "11217"
-    },
-    {
-      "site": "livechart",
-      "id": "2887"
-    },
-    {
-      "site": "livechart",
-      "id": "2888"
-    },
-    {
-      "site": "livechart",
-      "id": "2889"
-    },
-    {
-      "site": "livechart",
-      "id": "3708"
-    },
-    {
-      "site": "livechart",
-      "id": "436"
-    },
-    {
-      "site": "livechart",
-      "id": "4439"
-    },
-    {
-      "site": "livechart",
-      "id": "4443"
-    },
-    {
-      "site": "livechart",
-      "id": "4484"
-    },
-    {
-      "site": "livechart",
-      "id": "5588"
-    },
-    {
-      "site": "myanimelist",
-      "id": "3014"
-    },
-    {
-      "site": "myanimelist",
-      "id": "3015"
-    },
-    {
-      "site": "myanimelist",
-      "id": "3371"
-    },
-    {
-      "site": "myanimelist",
-      "id": "820"
-    },
-    {
-      "site": "notify",
-      "id": "Q6fAcKmmg"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 1999,
-    "month": "12"
-  },
-  "status": "FINISHED",
-  "episodes": 28,
-  "picture": "https://cdn.myanimelist.net/images/anime/1682/134157.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1682/134157t.jpg",
-  "synonyms": [
-    "Ginga Eiyuu Densetsu Gaiden Season 2",
-    "Ginga Eiyuu Densetsu Gaiden: Rasen Meikyuu",
-    "Ginga Eiyū Densetsu Gaiden (1999)",
-    "Heldensagen vom Kosmosinsel 銀河英雄伝説外伝 (1999)",
-    "LOGH Gaiden Part 2: Spiral Labyrinth",
-    "Legend of Galactic Heroes Side Stories (2nd Season)",
-    "Legend of Galactic Heroes: Spiral Labyrinth",
-    "Legend of the Galactic Heroes Gaiden (1999)",
-    "Legend of the Galactic Heroes Gaiden (2)",
-    "Legend of the Galactic Heroes Gaiden Season 2",
-    "Legend of the Galactic Heroes Gaiden: Spiral Labyrinth",
-    "Legend of the Galactic Heroes: Gaiden 2",
-    "Les héros de la galaxie - Saison 2",
-    "LoGH Gaiden: Spiral Labyrinth",
-    "LoGH: Spiral Labyrinth",
-    "Rasen Meikyuu (螺旋迷宮)",
-    "ged ova 2",
-    "logh gaiden 2",
-    "logh ova 2",
-    "銀河英雄伝説外伝 螺旋迷宮",
-    "銀河英雄伝説外伝 （1999）",
-    "銀河英雄伝説外伝第2期"
-  ]
-}
+    "status": "FINISHED",
+    "episodes": 28,
+    "picture": "https://cdn.myanimelist.net/images/anime/1682/134157.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1682/134157t.jpg",
+    "synonyms": [
+      "Ginga Eiyuu Densetsu Gaiden Season 2",
+      "Ginga Eiyuu Densetsu Gaiden: Rasen Meikyuu",
+      "Ginga Eiyū Densetsu Gaiden (1999)",
+      "Heldensagen vom Kosmosinsel 銀河英雄伝説外伝 (1999)",
+      "LOGH Gaiden Part 2: Spiral Labyrinth",
+      "Legend of Galactic Heroes Side Stories (2nd Season)",
+      "Legend of Galactic Heroes: Spiral Labyrinth",
+      "Legend of the Galactic Heroes Gaiden (1999)",
+      "Legend of the Galactic Heroes Gaiden (2)",
+      "Legend of the Galactic Heroes Gaiden Season 2",
+      "Legend of the Galactic Heroes Gaiden: Spiral Labyrinth",
+      "Legend of the Galactic Heroes: Gaiden 2",
+      "Les héros de la galaxie - Saison 2",
+      "LoGH Gaiden: Spiral Labyrinth",
+      "LoGH: Spiral Labyrinth",
+      "Rasen Meikyuu (螺旋迷宮)",
+      "ged ova 2",
+      "logh gaiden 2",
+      "logh ova 2",
+      "銀河英雄伝説外伝 螺旋迷宮",
+      "銀河英雄伝説外伝 （1999）",
+      "銀河英雄伝説外伝第2期"
+    ]
+  }
+]

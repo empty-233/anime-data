@@ -1,123 +1,125 @@
-{
-  "title": "宇宙の騎士テッカマン",
-  "titleTranslate": {
-    "zh-Hans": [
-      "宇宙骑士铁甲人"
+[
+  {
+    "title": "宇宙の騎士テッカマン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙骑士铁甲人"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1975-07-02T16:00:00.000Z",
+    "end": "1975-12-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37193"
+      },
+      {
+        "site": "bilibili",
+        "id": "2478",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "1033"
+      },
+      {
+        "site": "anilist",
+        "id": "145358"
+      },
+      {
+        "site": "anilist",
+        "id": "1459"
+      },
+      {
+        "site": "anilist",
+        "id": "4578"
+      },
+      {
+        "site": "anime-planet",
+        "id": "infini-t-force"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tekkaman-blade"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tekkaman-blade-nagaki-tatakai-no-jokyoku"
+      },
+      {
+        "site": "anisearch",
+        "id": "11326"
+      },
+      {
+        "site": "anisearch",
+        "id": "656"
+      },
+      {
+        "site": "kitsu",
+        "id": "1309"
+      },
+      {
+        "site": "livechart",
+        "id": "11620"
+      },
+      {
+        "site": "livechart",
+        "id": "11621"
+      },
+      {
+        "site": "livechart",
+        "id": "11622"
+      },
+      {
+        "site": "livechart",
+        "id": "11623"
+      },
+      {
+        "site": "livechart",
+        "id": "6523"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1459"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33027"
+      },
+      {
+        "site": "myanimelist",
+        "id": "51144"
+      },
+      {
+        "site": "notify",
+        "id": "b-Ia5KmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1975,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/1159/134564.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1159/134564t.jpg",
+    "synonyms": [
+      "Space Knight Tekkaman",
+      "Tekkaman",
+      "Tekkaman, the Space Knight",
+      "Tekkaman: El caballero galáctico",
+      "Tekkaman: Il Cavaliere dello Spazio",
+      "Tekkaman: The Space Knight",
+      "Teknoman",
+      "Uchū no Kishi Tekkaman",
+      "the Space Knight",
+      "うちゅうのきしてっかまん",
+      "宇宙の騎士テッカマン"
     ]
-  },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1975-07-02T16:00:00.000Z",
-  "end": "1975-12-23T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "37193"
-    },
-    {
-      "site": "bilibili",
-      "id": "2478",
-      "begin": "",
-      "broadcast": ""
-    },
-    {
-      "site": "anidb",
-      "id": "1033"
-    },
-    {
-      "site": "anilist",
-      "id": "145358"
-    },
-    {
-      "site": "anilist",
-      "id": "1459"
-    },
-    {
-      "site": "anilist",
-      "id": "4578"
-    },
-    {
-      "site": "anime-planet",
-      "id": "infini-t-force"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tekkaman-blade"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tekkaman-blade-nagaki-tatakai-no-jokyoku"
-    },
-    {
-      "site": "anisearch",
-      "id": "11326"
-    },
-    {
-      "site": "anisearch",
-      "id": "656"
-    },
-    {
-      "site": "kitsu",
-      "id": "1309"
-    },
-    {
-      "site": "livechart",
-      "id": "11620"
-    },
-    {
-      "site": "livechart",
-      "id": "11621"
-    },
-    {
-      "site": "livechart",
-      "id": "11622"
-    },
-    {
-      "site": "livechart",
-      "id": "11623"
-    },
-    {
-      "site": "livechart",
-      "id": "6523"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1459"
-    },
-    {
-      "site": "myanimelist",
-      "id": "33027"
-    },
-    {
-      "site": "myanimelist",
-      "id": "51144"
-    },
-    {
-      "site": "notify",
-      "id": "b-Ia5KmmR"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 1975,
-    "month": "07"
-  },
-  "status": "FINISHED",
-  "episodes": 26,
-  "picture": "https://cdn.myanimelist.net/images/anime/1159/134564.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1159/134564t.jpg",
-  "synonyms": [
-    "Space Knight Tekkaman",
-    "Tekkaman",
-    "Tekkaman, the Space Knight",
-    "Tekkaman: El caballero galáctico",
-    "Tekkaman: Il Cavaliere dello Spazio",
-    "Tekkaman: The Space Knight",
-    "Teknoman",
-    "Uchū no Kishi Tekkaman",
-    "the Space Knight",
-    "うちゅうのきしてっかまん",
-    "宇宙の騎士テッカマン"
-  ]
-}
+  }
+]

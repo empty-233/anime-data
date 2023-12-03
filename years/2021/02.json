@@ -1,104 +1,750 @@
-{
-  "title": "新テニスの王子様 氷帝vs立海 Game of Future",
-  "titleTranslate": {
-    "zh-Hans": [
-      "新网球王子 冰帝 vs 立海 Game of Future"
+[
+  {
+    "title": "おかしなさばくのスナとマヌ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://suna-manu.com/",
+    "begin": "2021-02-13T17:50:00.000Z",
+    "broadcast": "R/2021-02-13T17:50:00.000Z/P7D",
+    "end": "2022-02-01T18:29:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "326921"
+      }
     ],
-    "zh-Hant": [
-      "新網球王子 冰帝 vs 立海 Game of Future"
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2021,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 50,
+    "picture": "https://cdn.myanimelist.net/images/anime/1208/111257.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1208/111257t.jpg",
+    "synonyms": [
+      "Suna and Manu in the Peculiar Desert",
+      "おかしなさばくのスナとマヌ"
     ]
   },
-  "type": "web",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "2021-04-16T16:00:00.000Z",
-  "end": "2021-06-24T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "324788"
+  {
+    "title": "トロピカル～ジュ！プリキュア",
+    "titleTranslate": {
+      "en": [
+        "Tropical-Rouge! Precure"
+      ],
+      "zh-Hans": [
+        "Tropical-Rouge！光之美少女",
+        "热情彩妆！光之美少女",
+        "热情闪耀！光之美少女",
+        "热带Q娃",
+        "热Q",
+        "妆Q"
+      ]
     },
-    {
-      "site": "gamer",
-      "id": "120583",
-      "begin": "2021-11-19T08:00:00.000Z",
-      "broadcast": "R/2021-11-19T08:00:00.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.asahi.co.jp/precure/tropical/",
+    "begin": "2021-02-27T23:30:00.000Z",
+    "broadcast": "R/2021-02-27T23:30:00.000Z/P7D",
+    "end": "2022-01-30T00:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "320857"
+      },
+      {
+        "site": "anidb",
+        "id": "1413"
+      },
+      {
+        "site": "anidb",
+        "id": "16008"
+      },
+      {
+        "site": "anidb",
+        "id": "16439"
+      },
+      {
+        "site": "anilist",
+        "id": "100661"
+      },
+      {
+        "site": "anilist",
+        "id": "105857"
+      },
+      {
+        "site": "anilist",
+        "id": "112748"
+      },
+      {
+        "site": "anilist",
+        "id": "12191"
+      },
+      {
+        "site": "anilist",
+        "id": "131045"
+      },
+      {
+        "site": "anilist",
+        "id": "135864"
+      },
+      {
+        "site": "anilist",
+        "id": "142080"
+      },
+      {
+        "site": "anilist",
+        "id": "1534"
+      },
+      {
+        "site": "anilist",
+        "id": "154678"
+      },
+      {
+        "site": "anilist",
+        "id": "157883"
+      },
+      {
+        "site": "anilist",
+        "id": "159429"
+      },
+      {
+        "site": "anilist",
+        "id": "16419"
+      },
+      {
+        "site": "anilist",
+        "id": "1932"
+      },
+      {
+        "site": "anilist",
+        "id": "20577"
+      },
+      {
+        "site": "anilist",
+        "id": "21001"
+      },
+      {
+        "site": "anilist",
+        "id": "21506"
+      },
+      {
+        "site": "anilist",
+        "id": "3692"
+      },
+      {
+        "site": "anilist",
+        "id": "5684"
+      },
+      {
+        "site": "anilist",
+        "id": "603"
+      },
+      {
+        "site": "anilist",
+        "id": "7645"
+      },
+      {
+        "site": "anilist",
+        "id": "98059"
+      },
+      {
+        "site": "anilist",
+        "id": "9893"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dokidoki-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fresh-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "go-princess-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "happiness-charge-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "healin-good-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "heartcatch-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hugtto-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kirakira-pretty-cure-a-la-mode"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mahou-tsukai-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-max-heart"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-splash-star"
+      },
+      {
+        "site": "anime-planet",
+        "id": "smile-precure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "star-twinkle-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "suite-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tropical-rouge-precure-petit-tobikome-collaboration-dance-party"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tropical-rouge-precure-yuki-no-princess-to-kiseki-no-yubiwa"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yes-pretty-cure-5"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yes-pretty-cure-5-gogo"
+      },
+      {
+        "site": "anisearch",
+        "id": "16001"
+      },
+      {
+        "site": "anisearch",
+        "id": "16655"
+      },
+      {
+        "site": "anisearch",
+        "id": "18342"
+      },
+      {
+        "site": "anisearch",
+        "id": "2594"
+      },
+      {
+        "site": "kitsu",
+        "id": "44924"
+      },
+      {
+        "site": "kitsu",
+        "id": "46783"
+      },
+      {
+        "site": "kitsu",
+        "id": "558"
+      },
+      {
+        "site": "livechart",
+        "id": "10287"
+      },
+      {
+        "site": "livechart",
+        "id": "10376"
+      },
+      {
+        "site": "myanimelist",
+        "id": "12191"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1534"
+      },
+      {
+        "site": "myanimelist",
+        "id": "16419"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1929"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1932"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21407"
+      },
+      {
+        "site": "myanimelist",
+        "id": "28669"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31884"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34290"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36593"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38578"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40610"
+      },
+      {
+        "site": "myanimelist",
+        "id": "46650"
+      },
+      {
+        "site": "myanimelist",
+        "id": "49426"
+      },
+      {
+        "site": "myanimelist",
+        "id": "50281"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53716"
+      },
+      {
+        "site": "myanimelist",
+        "id": "54650"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5684"
+      },
+      {
+        "site": "myanimelist",
+        "id": "603"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7645"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9893"
+      },
+      {
+        "site": "notify",
+        "id": "-pNkpKimg"
+      },
+      {
+        "site": "notify",
+        "id": "0k6QH90WR"
+      },
+      {
+        "site": "notify",
+        "id": "3TDHtFimR"
+      },
+      {
+        "site": "notify",
+        "id": "GJjFDTPmg"
+      },
+      {
+        "site": "notify",
+        "id": "Gb-opKiig"
+      },
+      {
+        "site": "notify",
+        "id": "Gmsx8N_4g"
+      },
+      {
+        "site": "notify",
+        "id": "INPKpKiig"
+      },
+      {
+        "site": "notify",
+        "id": "SG9MtKiig"
+      },
+      {
+        "site": "notify",
+        "id": "TrDU4H0nR"
+      },
+      {
+        "site": "notify",
+        "id": "VbMYUjNnR"
+      },
+      {
+        "site": "notify",
+        "id": "ZhI3pKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "fgjTcKiig"
+      },
+      {
+        "site": "notify",
+        "id": "hgrEtFimg"
+      },
+      {
+        "site": "notify",
+        "id": "o_wj5KiiR"
+      },
+      {
+        "site": "notify",
+        "id": "re0WhFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "tEoqN0hVg"
+      },
+      {
+        "site": "notify",
+        "id": "tzmLcFiig"
+      },
+      {
+        "site": "notify",
+        "id": "uszHhFimR"
+      },
+      {
+        "site": "notify",
+        "id": "yBkLcFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "yo0-cKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2021,
+      "month": "02"
     },
-    {
-      "site": "anidb",
-      "id": "8601"
-    },
-    {
-      "site": "anilist",
-      "id": "140187"
-    },
-    {
-      "site": "anime-planet",
-      "id": "the-prince-of-tennis-ii"
-    },
-    {
-      "site": "anime-planet",
-      "id": "the-prince-of-tennis-ii-u-17-world-cup"
-    },
-    {
-      "site": "anisearch",
-      "id": "7274"
-    },
-    {
-      "site": "kitsu",
-      "id": "8034"
-    },
-    {
-      "site": "livechart",
-      "id": "10835"
-    },
-    {
-      "site": "livechart",
-      "id": "1155"
-    },
-    {
-      "site": "livechart",
-      "id": "12081"
-    },
-    {
-      "site": "livechart",
-      "id": "250"
-    },
-    {
-      "site": "livechart",
-      "id": "5767"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21755"
-    },
-    {
-      "site": "notify",
-      "id": "6ra2tKmmg"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 2021,
-    "month": "02"
+    "status": "FINISHED",
+    "episodes": 46,
+    "picture": "https://cdn.myanimelist.net/images/anime/1184/110907.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1184/110907t.jpg",
+    "synonyms": [
+      "Pretty Cure Season 18",
+      "TROPICAL-ROUGE! PRETTY CURE",
+      "Tropical-Rouge! Pretty Cure",
+      "Tropical-Rouge！光之美少女",
+      "precure18",
+      "tropical rouge",
+      "trpc",
+      "トロピカル~ジュ! プリキュア",
+      "トロピカル~ジュ！プリキュア",
+      "トロピカルージュプリキュア",
+      "トロピカル～ジュ！ プリキュア",
+      "トロピカル～ジュ！プリキュア"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 2,
-  "picture": "https://cdn.myanimelist.net/images/anime/1382/116955.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1382/116955t.jpg",
-  "synonyms": [
-    "Prince of Tennis II: Hyotei vs Rikkai Game of Future",
-    "Shin Tennis no Ouji-sama: Hyoutei vs Rikkai - Game of Future",
-    "Shin Tennis no Ouji-sama: Hyoutei vs. Rikkai - Game of Future",
-    "Shin Tennis no Ōji-sama: Hyōtei vs Rikkai - Game of Future",
-    "The New Prince of Tennis: Hyoutei vs Rikkai - Game of Future",
-    "The New Prince of Tennis: Hyoutei vs. Rikkai - Game of Future",
-    "The Prince of Tennis II Hyotei vs Rikkai Game of Future",
-    "The Prince of Tennis II Hyotei vs. Rikkai Game of Future OVAs",
-    "The Prince of Tennis II: Hyotei vs. Rikkai - Game of Future",
-    "The Prince of Tennis II: Hyoutei vs Rikkai - Game of Future",
-    "ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด: ภาคใหม่ เฮียวเท ปะทะ ริคไค",
-    "新テニスの王子様 氷帝 vs 立海 Game of Future",
-    "新テニスの王子様 氷帝vs立海 Game of Future"
-  ]
-}
+  {
+    "title": "ぶらどらぶ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "吸血鬼之爱"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.vladlove.com/",
+    "begin": "2021-02-14T16:00:00.000Z",
+    "end": "2021-03-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "285424"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ichigo-animation",
+        "begin": "",
+        "broadcast": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2020,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1796/110394.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1796/110394t.jpg",
+    "synonyms": [
+      "VLAD LOVE",
+      "VLADLOVE",
+      "VladLove",
+      "Vladlove",
+      "ぶらどらぶ",
+      "ぶらどらぶ VLADLOVE"
+    ]
+  },
+  {
+    "title": "名探偵コナン 緋色の不在証明",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 绯色的不在场证明",
+        "名侦探柯南 绯色的不在证明"
+      ],
+      "zh-Hant": [
+        "名偵探柯南：緋色的不在場證明"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.conan-movie.jp/alibi",
+    "begin": "2021-02-10T16:00:00.000Z",
+    "end": "2021-02-10T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "327373"
+      },
+      {
+        "site": "gamer",
+        "id": "115438",
+        "begin": "2022-03-04T09:00:00.000Z",
+        "broadcast": "R/2022-03-04T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28233853",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "266"
+      },
+      {
+        "site": "anilist",
+        "id": "113653"
+      },
+      {
+        "site": "anilist",
+        "id": "235"
+      },
+      {
+        "site": "anisearch",
+        "id": "14687"
+      },
+      {
+        "site": "anisearch",
+        "id": "1721"
+      },
+      {
+        "site": "livechart",
+        "id": "319"
+      },
+      {
+        "site": "livechart",
+        "id": "4579"
+      },
+      {
+        "site": "livechart",
+        "id": "4615"
+      },
+      {
+        "site": "livechart",
+        "id": "4634"
+      },
+      {
+        "site": "livechart",
+        "id": "4688"
+      },
+      {
+        "site": "livechart",
+        "id": "4710"
+      },
+      {
+        "site": "livechart",
+        "id": "4732"
+      },
+      {
+        "site": "livechart",
+        "id": "4783"
+      },
+      {
+        "site": "livechart",
+        "id": "4809"
+      },
+      {
+        "site": "livechart",
+        "id": "6391"
+      },
+      {
+        "site": "livechart",
+        "id": "6392"
+      },
+      {
+        "site": "livechart",
+        "id": "6400"
+      },
+      {
+        "site": "livechart",
+        "id": "6411"
+      },
+      {
+        "site": "livechart",
+        "id": "6441"
+      },
+      {
+        "site": "livechart",
+        "id": "8185"
+      },
+      {
+        "site": "myanimelist",
+        "id": "235"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39764"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2021,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1234/117118.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1234/117118t.jpg",
+    "synonyms": [
+      "Case Closed: The Scarlet Alibi",
+      "Detective Conan : The Scarlet Alibi",
+      "Detective Conan: Hiiro no Fuzai Shoumei",
+      "Detective Conan: The Scarlet Alibi",
+      "Detektiv Conan: Das Scharlachrote Alibi",
+      "Detektiv Conan: The Scarlet Alibi",
+      "Detektiv Conan: The Special – Das scharlachrote Alibi",
+      "Meitantei Conan: Hīro no Fuzai Shōmei",
+      "名探偵コナン 緋色の不在証明"
+    ]
+  },
+  {
+    "title": "新テニスの王子様 氷帝vs立海 Game of Future",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新网球王子 冰帝 vs 立海 Game of Future"
+      ],
+      "zh-Hant": [
+        "新網球王子 冰帝 vs 立海 Game of Future"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-04-16T16:00:00.000Z",
+    "end": "2021-06-24T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "324788"
+      },
+      {
+        "site": "gamer",
+        "id": "120583",
+        "begin": "2021-11-19T08:00:00.000Z",
+        "broadcast": "R/2021-11-19T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "8601"
+      },
+      {
+        "site": "anilist",
+        "id": "140187"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-prince-of-tennis-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-prince-of-tennis-ii-u-17-world-cup"
+      },
+      {
+        "site": "anisearch",
+        "id": "7274"
+      },
+      {
+        "site": "kitsu",
+        "id": "8034"
+      },
+      {
+        "site": "livechart",
+        "id": "10835"
+      },
+      {
+        "site": "livechart",
+        "id": "1155"
+      },
+      {
+        "site": "livechart",
+        "id": "12081"
+      },
+      {
+        "site": "livechart",
+        "id": "250"
+      },
+      {
+        "site": "livechart",
+        "id": "5767"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21755"
+      },
+      {
+        "site": "notify",
+        "id": "6ra2tKmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2021,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/1382/116955.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1382/116955t.jpg",
+    "synonyms": [
+      "Prince of Tennis II: Hyotei vs Rikkai Game of Future",
+      "Shin Tennis no Ouji-sama: Hyoutei vs Rikkai - Game of Future",
+      "Shin Tennis no Ouji-sama: Hyoutei vs. Rikkai - Game of Future",
+      "Shin Tennis no Ōji-sama: Hyōtei vs Rikkai - Game of Future",
+      "The New Prince of Tennis: Hyoutei vs Rikkai - Game of Future",
+      "The New Prince of Tennis: Hyoutei vs. Rikkai - Game of Future",
+      "The Prince of Tennis II Hyotei vs Rikkai Game of Future",
+      "The Prince of Tennis II Hyotei vs. Rikkai Game of Future OVAs",
+      "The Prince of Tennis II: Hyotei vs. Rikkai - Game of Future",
+      "The Prince of Tennis II: Hyoutei vs Rikkai - Game of Future",
+      "ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด: ภาคใหม่ เฮียวเท ปะทะ ริคไค",
+      "新テニスの王子様 氷帝 vs 立海 Game of Future",
+      "新テニスの王子様 氷帝vs立海 Game of Future"
+    ]
+  }
+]

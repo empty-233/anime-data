@@ -1,163 +1,332 @@
-{
-  "title": "ハクション大魔王",
-  "titleTranslate": {
-    "zh-Hans": [
-      "喷嚏大魔王"
+[
+  {
+    "title": "サザエさん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海螺小姐"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.fujitv.co.jp/sazaesan/",
+    "begin": "1969-10-05T09:30:00.000Z",
+    "broadcast": "R/1969-10-05T09:30:00.000Z/P7D",
+    "end": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "32585"
+      },
+      {
+        "site": "bilibili",
+        "id": "2486",
+        "begin": "1969-10-04T16:00:00.000Z",
+        "broadcast": "R/1969-10-05T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "11808"
+      },
+      {
+        "site": "anilist",
+        "id": "101099"
+      },
+      {
+        "site": "anilist",
+        "id": "116324"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hungry-days-aoharu-ka-yo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sazae-san-dawn-to-ikka-de-hawaii-ryokou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sazae-san-valentine-hen"
+      },
+      {
+        "site": "anisearch",
+        "id": "10004"
+      },
+      {
+        "site": "anisearch",
+        "id": "12554"
+      },
+      {
+        "site": "anisearch",
+        "id": "13251"
+      },
+      {
+        "site": "anisearch",
+        "id": "16736"
+      },
+      {
+        "site": "kitsu",
+        "id": "10469"
+      },
+      {
+        "site": "myanimelist",
+        "id": "28615"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35770"
+      },
+      {
+        "site": "myanimelist",
+        "id": "47542"
+      },
+      {
+        "site": "notify",
+        "id": "EoF42FiiR"
+      },
+      {
+        "site": "notify",
+        "id": "bH88tKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1969,
+      "month": "10"
+    },
+    "status": "ONGOING",
+    "episodes": 2727,
+    "picture": "https://cdn.myanimelist.net/images/anime/1008/98996.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1008/98996t.jpg",
+    "synonyms": [
+      "Mrs. Sazae",
+      "sazae",
+      "さざえさん",
+      "サザエさん",
+      "海螺小姐"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "http://www.tatsunoko.co.jp/tatsunoko_gekijo/",
-  "begin": "1969-10-05T22:30:00.000Z",
-  "end": "1970-09-27T23:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "53740"
+  {
+    "title": "タイガーマスク",
+    "titleTranslate": {
+      "zh-Hans": [
+        "虎头假面"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "8272",
-      "begin": "1969-10-04T16:00:01.000Z"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/lineup/tv/tigermask/",
+    "begin": "1969-10-02T14:00:00.000Z",
+    "end": "1971-09-30T14:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53801"
+      },
+      {
+        "site": "anidb",
+        "id": "864"
+      },
+      {
+        "site": "anilist",
+        "id": "3009"
+      },
+      {
+        "site": "anisearch",
+        "id": "2916"
+      },
+      {
+        "site": "kitsu",
+        "id": "2720"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3009"
+      },
+      {
+        "site": "notify",
+        "id": "-aP8cKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1970,
+      "month": "10"
     },
-    {
-      "site": "anidb",
-      "id": "14682"
-    },
-    {
-      "site": "anidb",
-      "id": "15344"
-    },
-    {
-      "site": "anidb",
-      "id": "2861"
-    },
-    {
-      "site": "anilist",
-      "id": "107908"
-    },
-    {
-      "site": "anilist",
-      "id": "114402"
-    },
-    {
-      "site": "anilist",
-      "id": "121717"
-    },
-    {
-      "site": "anime-planet",
-      "id": "akubi-girl"
-    },
-    {
-      "site": "anime-planet",
-      "id": "genie-family-2020"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ohayou-hakushon-daimaou-zip"
-    },
-    {
-      "site": "anime-planet",
-      "id": "pandora-to-akubi"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yobarete-tobidete-akubi-chan"
-    },
-    {
-      "site": "anisearch",
-      "id": "14218"
-    },
-    {
-      "site": "anisearch",
-      "id": "15119"
-    },
-    {
-      "site": "anisearch",
-      "id": "519"
-    },
-    {
-      "site": "kitsu",
-      "id": "4115"
-    },
-    {
-      "site": "kitsu",
-      "id": "42172"
-    },
-    {
-      "site": "kitsu",
-      "id": "43038"
-    },
-    {
-      "site": "livechart",
-      "id": "11680"
-    },
-    {
-      "site": "livechart",
-      "id": "8266"
-    },
-    {
-      "site": "livechart",
-      "id": "9753"
-    },
-    {
-      "site": "myanimelist",
-      "id": "38363"
-    },
-    {
-      "site": "myanimelist",
-      "id": "39249"
-    },
-    {
-      "site": "myanimelist",
-      "id": "40983"
-    },
-    {
-      "site": "myanimelist",
-      "id": "5474"
-    },
-    {
-      "site": "notify",
-      "id": "Aw0Hbv9Wg"
-    },
-    {
-      "site": "notify",
-      "id": "FOTjcKiiR"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 1969,
-    "month": "10"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/74485.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/74485t.jpg",
+    "synonyms": [
+      "Gekijouban Tiger Mask",
+      "Gekijōban Tiger Mask",
+      "Tiger Mask (1970)",
+      "たいがーますく",
+      "タイガーマスク",
+      "タイガーマスク (1970)",
+      "劇場版タイガーマスク"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 52,
-  "picture": "https://cdn.myanimelist.net/images/anime/1249/134561.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1249/134561t.jpg",
-  "synonyms": [
-    "Bob",
-    "Bob Embotellado",
-    "Bob der Flaschengeist",
-    "Bob in a Bottle",
-    "Bob in the Bottle",
-    "Bob, der Flaschengeist",
-    "Bottle Bob",
-    "Genie Family",
-    "Gênio Maluco",
-    "Hakushon Daimaō",
-    "Il mago pancione Etcì",
-    "O Gênio Maluco",
-    "Przyjaciel Bob",
-    "Robert dans la bouteille",
-    "Robert est dans la Bouteille",
-    "Sneezing Magician",
-    "The Genie Family",
-    "o Gênio",
-    "בוב בבקבוק",
-    "الفتى برهان",
-    "はくしょんだいまおう",
-    "ハクション大魔王",
-    "喷嚏大魔王",
-    "噴嚏大魔王"
-  ]
-}
+  {
+    "title": "ハクション大魔王",
+    "titleTranslate": {
+      "zh-Hans": [
+        "喷嚏大魔王"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tatsunoko.co.jp/tatsunoko_gekijo/",
+    "begin": "1969-10-05T22:30:00.000Z",
+    "end": "1970-09-27T23:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53740"
+      },
+      {
+        "site": "bilibili",
+        "id": "8272",
+        "begin": "1969-10-04T16:00:01.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "14682"
+      },
+      {
+        "site": "anidb",
+        "id": "15344"
+      },
+      {
+        "site": "anidb",
+        "id": "2861"
+      },
+      {
+        "site": "anilist",
+        "id": "107908"
+      },
+      {
+        "site": "anilist",
+        "id": "114402"
+      },
+      {
+        "site": "anilist",
+        "id": "121717"
+      },
+      {
+        "site": "anime-planet",
+        "id": "akubi-girl"
+      },
+      {
+        "site": "anime-planet",
+        "id": "genie-family-2020"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ohayou-hakushon-daimaou-zip"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pandora-to-akubi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yobarete-tobidete-akubi-chan"
+      },
+      {
+        "site": "anisearch",
+        "id": "14218"
+      },
+      {
+        "site": "anisearch",
+        "id": "15119"
+      },
+      {
+        "site": "anisearch",
+        "id": "519"
+      },
+      {
+        "site": "kitsu",
+        "id": "4115"
+      },
+      {
+        "site": "kitsu",
+        "id": "42172"
+      },
+      {
+        "site": "kitsu",
+        "id": "43038"
+      },
+      {
+        "site": "livechart",
+        "id": "11680"
+      },
+      {
+        "site": "livechart",
+        "id": "8266"
+      },
+      {
+        "site": "livechart",
+        "id": "9753"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38363"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39249"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40983"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5474"
+      },
+      {
+        "site": "notify",
+        "id": "Aw0Hbv9Wg"
+      },
+      {
+        "site": "notify",
+        "id": "FOTjcKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1969,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 52,
+    "picture": "https://cdn.myanimelist.net/images/anime/1249/134561.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1249/134561t.jpg",
+    "synonyms": [
+      "Bob",
+      "Bob Embotellado",
+      "Bob der Flaschengeist",
+      "Bob in a Bottle",
+      "Bob in the Bottle",
+      "Bob, der Flaschengeist",
+      "Bottle Bob",
+      "Genie Family",
+      "Gênio Maluco",
+      "Hakushon Daimaō",
+      "Il mago pancione Etcì",
+      "O Gênio Maluco",
+      "Przyjaciel Bob",
+      "Robert dans la bouteille",
+      "Robert est dans la Bouteille",
+      "Sneezing Magician",
+      "The Genie Family",
+      "o Gênio",
+      "בוב בבקבוק",
+      "الفتى برهان",
+      "はくしょんだいまおう",
+      "ハクション大魔王",
+      "喷嚏大魔王",
+      "噴嚏大魔王"
+    ]
+  }
+]

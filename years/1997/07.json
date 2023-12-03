@@ -1,103 +1,663 @@
-{
-  "title": "レイアース",
-  "titleTranslate": {
-    "zh-Hans": [
-      "魔法骑士雷阿斯OVA"
+[
+  {
+    "title": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新世纪福音战士剧场版 Air/真心为你"
+      ],
+      "zh-Hant": [
+        "新世紀福音戰士劇場版 AIR / 真心為你"
+      ],
+      "en": [
+        "The End of Evangelion"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-07-19T16:00:00.000Z",
+    "end": "1997-07-19T17:40:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zj65",
+        "begin": "2016-10-31T16:00:43.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "6049"
+      },
+      {
+        "site": "bilibili",
+        "id": "10272",
+        "begin": "1997-07-18T16:00:01.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "end_of_eva",
+        "begin": ""
+      },
+      {
+        "site": "acfun",
+        "id": "5023296",
+        "begin": "2019-01-07T11:23:58.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "68878414af5911e0a046",
+        "begin": "2020-05-07T13:40:10.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "60024788",
+        "begin": "2019-06-20T16:00:00.000Z",
+        "broadcast": "R/2019-06-20T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "22"
+      },
+      {
+        "site": "anidb",
+        "id": "326"
+      },
+      {
+        "site": "anilist",
+        "id": "2759"
+      },
+      {
+        "site": "anilist",
+        "id": "30"
+      },
+      {
+        "site": "anilist",
+        "id": "31"
+      },
+      {
+        "site": "anime-planet",
+        "id": "neon-genesis-evangelion"
+      },
+      {
+        "site": "anime-planet",
+        "id": "neon-genesis-evangelion-death-and-rebirth"
+      },
+      {
+        "site": "anisearch",
+        "id": "1301"
+      },
+      {
+        "site": "anisearch",
+        "id": "13722"
+      },
+      {
+        "site": "anisearch",
+        "id": "345"
+      },
+      {
+        "site": "kitsu",
+        "id": "21"
+      },
+      {
+        "site": "livechart",
+        "id": "115"
+      },
+      {
+        "site": "livechart",
+        "id": "11784"
+      },
+      {
+        "site": "livechart",
+        "id": "3243"
+      },
+      {
+        "site": "livechart",
+        "id": "3244"
+      },
+      {
+        "site": "livechart",
+        "id": "3590"
+      },
+      {
+        "site": "livechart",
+        "id": "4039"
+      },
+      {
+        "site": "livechart",
+        "id": "5032"
+      },
+      {
+        "site": "livechart",
+        "id": "6217"
+      },
+      {
+        "site": "livechart",
+        "id": "968"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30"
+      },
+      {
+        "site": "notify",
+        "id": "17npcFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1997,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1404/98182t.jpg",
+    "synonyms": [
+      "End of Eva",
+      "End of Evangelion",
+      "EoE",
+      "Evangelion movie",
+      "Evangelion: The End of Evangelion",
+      "Evangelion`un Sonu",
+      "Neon Genesis Evangelion - The End of Evangelion",
+      "Neon Genesis Evangelion: End of Evangelion",
+      "Neon Genesis Evangelion: The End of Evangelion",
+      "O final de Evangelion",
+      "Shin Seiki Evangelion Gekijouban: The End of Evangelion",
+      "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+      "Shinseiki Evangelion Gekijouban: Air / Magokoro o, Kimi ni",
+      "Shinseiki Evangelion Gekijouban: The End of Evangelion",
+      "Shinseiki Evangelion Gekijōban: The End of Evangelion",
+      "Shinseiki Evangelion: The End of Evangelion",
+      "The End of Evangelion",
+      "eva movie",
+      "Конец Евангелиона",
+      "Кінець Євангеліона",
+      "אוונגליון של הסוף",
+      "הסוף של אוונגליון",
+      "อีวาเกเลี่ยน: ปัจฉิมภาค",
+      "新世紀エヴァンゲリオン劇場版 Air / まごころを, 君に",
+      "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に",
+      "新世紀エヴァンゲリオン劇場版 THE END OF EVANGELION",
+      "新世紀エヴァンゲリオン劇場版 The End of Evangelion",
+      "新世纪福音战士剧场版：Air/真心为你",
+      "신세기 에반게리온 - 엔드 오브 에바"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1997-07-25T16:00:00.000Z",
-  "end": "1997-12-10T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "39543"
+  {
+    "title": "ゲゲゲの鬼太郎 妖怪特急! まぼろしの汽車",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼太郎 妖怪特快车! 魔幻火车"
+      ]
     },
-    {
-      "site": "pptv",
-      "id": "2nVQzjacDEqtK5M",
-      "begin": ""
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-07-12T16:00:00.000Z",
+    "end": "1997-07-12T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "211099"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4kld",
+        "begin": "2015-08-11T08:03:32.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "1455"
+      },
+      {
+        "site": "anilist",
+        "id": "7619"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-1968"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-1971"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-1985"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-1996"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-2007"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-2018"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-chisougan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-daikaijuu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-gekitotsu-ijigen-youkai-no-daihanran"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-jigoku-hen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-kitarou-no-yuurei-densha"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-kitarou-tanjou-hen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-movie-1985"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-nippon-bakuretsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-obake-nighter"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-saikyou-youkai-gundan-nihon-jouriku"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-youkai-daisensou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-youkai-japan-rally-3d"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hakaba-kitarou"
+      },
+      {
+        "site": "anisearch",
+        "id": "1673"
+      },
+      {
+        "site": "kitsu",
+        "id": "7746"
+      },
+      {
+        "site": "livechart",
+        "id": "10454"
+      },
+      {
+        "site": "livechart",
+        "id": "10813"
+      },
+      {
+        "site": "livechart",
+        "id": "12421"
+      },
+      {
+        "site": "livechart",
+        "id": "3050"
+      },
+      {
+        "site": "livechart",
+        "id": "6548"
+      },
+      {
+        "site": "livechart",
+        "id": "7176"
+      },
+      {
+        "site": "livechart",
+        "id": "7326"
+      },
+      {
+        "site": "livechart",
+        "id": "7365"
+      },
+      {
+        "site": "livechart",
+        "id": "7979"
+      },
+      {
+        "site": "livechart",
+        "id": "7981"
+      },
+      {
+        "site": "livechart",
+        "id": "8059"
+      },
+      {
+        "site": "livechart",
+        "id": "8082"
+      },
+      {
+        "site": "livechart",
+        "id": "8817"
+      },
+      {
+        "site": "livechart",
+        "id": "9113"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7619"
+      },
+      {
+        "site": "notify",
+        "id": "4xStpKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1997,
+      "month": "07"
     },
-    {
-      "site": "bilibili",
-      "id": "3806",
-      "begin": "1997-07-24T16:00:01.000Z",
-      "broadcast": "R/2016-04-20T03:25:00.000Z/P7D"
-    },
-    {
-      "site": "anidb",
-      "id": "127"
-    },
-    {
-      "site": "anidb",
-      "id": "2733"
-    },
-    {
-      "site": "anilist",
-      "id": "435"
-    },
-    {
-      "site": "anime-planet",
-      "id": "magic-knight-rayearth"
-    },
-    {
-      "site": "anime-planet",
-      "id": "magic-knight-rayearth-pilot"
-    },
-    {
-      "site": "anisearch",
-      "id": "1577"
-    },
-    {
-      "site": "kitsu",
-      "id": "399"
-    },
-    {
-      "site": "livechart",
-      "id": "5087"
-    },
-    {
-      "site": "livechart",
-      "id": "5407"
-    },
-    {
-      "site": "myanimelist",
-      "id": "435"
-    },
-    {
-      "site": "notify",
-      "id": "XVWo5KmmR"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 1997,
-    "month": "07"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/27355.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/27355t.jpg",
+    "synonyms": [
+      "GeGeGe no Kitaro movie #9: Yokai Express! The Phantom Train",
+      "GeGeGe no Kitarou: Youkai Tokkyuu! Maboroshi no Kisha",
+      "Gegege no Kitarou: Yokai Express! The Phantom Train",
+      "Gegege no Kitarō: Yōkai Tokkyū! Maboroshi no Kisha",
+      "ゲゲゲの鬼太郎 妖怪特急! まぼろしの汽車",
+      "ゲゲゲの鬼太郎 妖怪特急！ まぼろしの汽車",
+      "ゲゲゲの鬼太郎 妖怪特急！まぼろしの汽車",
+      "劇場版 ゲゲゲの鬼太郎　妖怪特急!まぼろしの汽車"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 3,
-  "picture": "https://cdn.myanimelist.net/images/anime/1824/97041.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1824/97041t.jpg",
-  "synonyms": [
-    "Guerreiras Mágicas de Rayearth OVA",
-    "Luchadoras de Leyenda Rayearth",
-    "Luchadoras de Leyenda: Rayearth. Ovas.",
-    "MKR OVA",
-    "Magic Knight Ray Earth OVA",
-    "Magic Knight RayEarth - OAV",
-    "Magic Knight Rayearth",
-    "Magic Knight Rayearth (OVA)",
-    "Magic Knight Rayearth OVA",
-    "Mahou Kishi Rayearth OVA",
-    "Rayearth - Il sogno di Emeraude",
-    "Rayearth OVA",
-    "Rayearth: Il sogno di Emeraude",
-    "Sihirli Şövalyeler OVA",
-    "เรย์เอิร์ธ",
-    "レイアース",
-    "魔法骑士雷阿斯OVA",
-    "마법기사 레이어스 OVA"
-  ]
-}
+  {
+    "title": "もののけ姫",
+    "titleTranslate": {
+      "zh-Hans": [
+        "幽灵公主"
+      ],
+      "zh-Hant": [
+        "魔法公主",
+        "幽靈公主"
+      ],
+      "en": [
+        "Princess Mononoke"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-07-12T16:00:00.000Z",
+    "end": "1997-07-12T18:15:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9spg5",
+        "begin": "2017-01-24T08:06:01.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "310"
+      },
+      {
+        "site": "netflix",
+        "id": "28630857",
+        "begin": "2020-02-28T16:00:00.000Z",
+        "broadcast": "R/2020-02-28T16:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1997,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/75919.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/75919t.jpg",
+    "synonyms": [
+      "A Princesa Mononoke",
+      "A vadon hercegnője",
+      "Công chúa sói",
+      "Księżniczka Mononoke",
+      "La Princesa Mononoke",
+      "La Principessa Mononoke",
+      "Mononoke Princess",
+      "Mononoke-hime",
+      "Prenses Mononoke",
+      "Princesa Mononoke",
+      "Princese Mononoke",
+      "Princess Mononoke",
+      "Princesse Mononoké",
+      "Princesė Mononokė",
+      "Princeza Mononoke",
+      "Princezna Mononoke",
+      "Princezná Mononoke",
+      "Principessa Mononoke",
+      "Prinsessa Mononoke",
+      "Prinsesse Mononoke",
+      "Printsess Mononoke",
+      "Prinzessin Mononoke",
+      "Prinţesa Mononoke",
+      "mononoke (1997)",
+      "Πριγκίπισσα Μονονόκε",
+      "Мононокэ Гүнж",
+      "Принцеза Мононоке",
+      "Принцеса Мононоке",
+      "Принцеса-мононоке",
+      "Принцесса Мононоке",
+      "Принцесса Мононокэ",
+      "הנסיכה מונונוקי",
+      "الأميرة مونونوكي",
+      "الأميرة مونونوكيه",
+      "شاهزاده مونونوکه",
+      "もののけ姫",
+      "幽灵公主",
+      "幽靈公主",
+      "魔法公主",
+      "모노노케 히메",
+      "원령공주"
+    ]
+  },
+  {
+    "title": "烈火の炎",
+    "titleTranslate": {
+      "zh-Hans": [
+        "烈火之炎"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-07-19T16:00:00.000Z",
+    "end": "1998-07-10T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "HE46uCCG9jSXFX0",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "6501"
+      },
+      {
+        "site": "bilibili",
+        "id": "2283",
+        "begin": "1997-07-18T16:00:00.000Z",
+        "broadcast": "R/2013-12-14T20:02:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "9426"
+      },
+      {
+        "site": "anilist",
+        "id": "5691"
+      },
+      {
+        "site": "anime-planet",
+        "id": "flame-of-recca-final-burning"
+      },
+      {
+        "site": "anisearch",
+        "id": "6204"
+      },
+      {
+        "site": "kitsu",
+        "id": "4249"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5691"
+      },
+      {
+        "site": "notify",
+        "id": "uFlCcKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1997,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 42,
+    "picture": "https://cdn.myanimelist.net/images/anime/1646/113504.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1646/113504t.jpg",
+    "synonyms": [
+      "Flame of Recca",
+      "FoR",
+      "Recca no Honoo",
+      "Reccanın alevi",
+      "Rekka no Honō",
+      "recca",
+      "rnh",
+      "Пламя Рэкки",
+      "شعلة ريكا",
+      "เปลวฟ้าผ่าปฐพี",
+      "烈火の炎",
+      "烈火之炎"
+    ]
+  },
+  {
+    "title": "レイアース",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法骑士雷阿斯OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-07-25T16:00:00.000Z",
+    "end": "1997-12-10T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "39543"
+      },
+      {
+        "site": "pptv",
+        "id": "2nVQzjacDEqtK5M",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3806",
+        "begin": "1997-07-24T16:00:01.000Z",
+        "broadcast": "R/2016-04-20T03:25:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "127"
+      },
+      {
+        "site": "anidb",
+        "id": "2733"
+      },
+      {
+        "site": "anilist",
+        "id": "435"
+      },
+      {
+        "site": "anime-planet",
+        "id": "magic-knight-rayearth"
+      },
+      {
+        "site": "anime-planet",
+        "id": "magic-knight-rayearth-pilot"
+      },
+      {
+        "site": "anisearch",
+        "id": "1577"
+      },
+      {
+        "site": "kitsu",
+        "id": "399"
+      },
+      {
+        "site": "livechart",
+        "id": "5087"
+      },
+      {
+        "site": "livechart",
+        "id": "5407"
+      },
+      {
+        "site": "myanimelist",
+        "id": "435"
+      },
+      {
+        "site": "notify",
+        "id": "XVWo5KmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1997,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/1824/97041.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1824/97041t.jpg",
+    "synonyms": [
+      "Guerreiras Mágicas de Rayearth OVA",
+      "Luchadoras de Leyenda Rayearth",
+      "Luchadoras de Leyenda: Rayearth. Ovas.",
+      "MKR OVA",
+      "Magic Knight Ray Earth OVA",
+      "Magic Knight RayEarth - OAV",
+      "Magic Knight Rayearth",
+      "Magic Knight Rayearth (OVA)",
+      "Magic Knight Rayearth OVA",
+      "Mahou Kishi Rayearth OVA",
+      "Rayearth - Il sogno di Emeraude",
+      "Rayearth OVA",
+      "Rayearth: Il sogno di Emeraude",
+      "Sihirli Şövalyeler OVA",
+      "เรย์เอิร์ธ",
+      "レイアース",
+      "魔法骑士雷阿斯OVA",
+      "마법기사 레이어스 OVA"
+    ]
+  }
+]

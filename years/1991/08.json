@@ -1,99 +1,649 @@
-{
-  "title": "サイレントメビウス",
-  "titleTranslate": {
-    "zh-Hans": [
-      "魔法阵都市 剧场版",
-      "未来特警 剧场版",
-      "魔法阵都市 剧场版 上篇"
+[
+  {
+    "title": "ルパン三世 ナポレオンの辞書を奪え",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世：拿破仑词典争夺战"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://lupin-3rd.net/sakuhin_tvsp.html",
+    "begin": "1991-08-09T16:00:00.000Z",
+    "end": "1991-08-09T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "67766"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lupin-3rd-SP",
+        "begin": ""
+      },
+      {
+        "site": "pptv",
+        "id": "ibZ32dNxCsvBT0Tk",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3931",
+        "begin": "1991-08-08T16:00:01.000Z",
+        "broadcast": "R/2021-03-31T11:39:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1485"
+      },
+      {
+        "site": "anilist",
+        "id": "1412"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-iii-special-19-the-elusiveness-of-the-fog"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-dead-or-alive"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-dragon-of-doom"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-farewall-to-nostradamus"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-goemons-blood-spray"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-green-vs-red"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-jigens-gravestone"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-legend-of-the-gold-of-babylon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-lupin-family-all-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-4"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-pilot-film"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-return-of-pycal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-secret-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-1-bye-bye-lady-liberty"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-11-the-columbus-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-12-missed-by-a-dollar"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-13-alcatraz-connection"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-14-episode-0-first-contact"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-15-operation-return-the-treasures"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-16-stolen-lupin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-17-angel-tactics"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-18-seven-days-rhapsody"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-2-the-hemingway-papers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-20-sweet-lost-night"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-21-lupin-the-third-vs-detective-conan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-22-the-last-job"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-23-blood-seal-of-the-eternal-mermaid"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-24-touhou-kenbunroku-another-page"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-25-princess-of-the-breeze-kakusareta-kuuchuu-toshi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-26-italian-game"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-27-goodbye-partner"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-4-from-siberia-with-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-5-voyage-to-danger"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-8-secret-of-the-twilight-gemini"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-9-island-of-assassins"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-speical-10-crisis-in-tokyo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-castle-of-cagliostro"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-first"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-fuma-conspiracy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-mystery-of-mamo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-woman-called-fujiko-mine"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-pursuit-of-harimaos-treasure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-viii-arsene-and-cie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "monkey-majik-lupin-the-third"
+      },
+      {
+        "site": "anisearch",
+        "id": "1138"
+      },
+      {
+        "site": "kitsu",
+        "id": "1265"
+      },
+      {
+        "site": "livechart",
+        "id": "11512"
+      },
+      {
+        "site": "livechart",
+        "id": "12099"
+      },
+      {
+        "site": "livechart",
+        "id": "4165"
+      },
+      {
+        "site": "livechart",
+        "id": "4320"
+      },
+      {
+        "site": "livechart",
+        "id": "5905"
+      },
+      {
+        "site": "livechart",
+        "id": "6281"
+      },
+      {
+        "site": "livechart",
+        "id": "6402"
+      },
+      {
+        "site": "livechart",
+        "id": "6731"
+      },
+      {
+        "site": "livechart",
+        "id": "7324"
+      },
+      {
+        "site": "livechart",
+        "id": "7545"
+      },
+      {
+        "site": "livechart",
+        "id": "7552"
+      },
+      {
+        "site": "livechart",
+        "id": "7772"
+      },
+      {
+        "site": "livechart",
+        "id": "8223"
+      },
+      {
+        "site": "livechart",
+        "id": "9298"
+      },
+      {
+        "site": "livechart",
+        "id": "9350"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1412"
+      },
+      {
+        "site": "notify",
+        "id": "Dnk-5Fmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1991,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/61695.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/61695t.jpg",
+    "synonyms": [
+      "Edgar de la Cambriole : Le Dictionnaire de Napoléon",
+      "Edgar de la cambriole - Le dictionnaire de Napoléon",
+      "L`impero dei Lupine",
+      "Lupin III - Il tesoro degli avi",
+      "Lupin III - Le dictionnaire de Napoléon",
+      "Lupin III - Ruba il dizionario di Napoleone!",
+      "Lupin III Special 3: Napoleon no Jisho wo Ubae",
+      "Lupin III Special 3: Napoleon's Dictionary",
+      "Lupin III: Le Dictionnaire de Napoléon",
+      "Lupin III: Napoleon",
+      "Lupin III: Napoleon's Dictionary",
+      "Lupin III: Napoleon`s Dictionary",
+      "Lupin III: Napoleon’s Dictionary",
+      "Lupin III: Ruba il dizionario di Napoleone!",
+      "Lupin III: Steal Napoleon's Dictionary",
+      "Lupin Sansei Special 03",
+      "Lupin Sansei: Napoleon no Jisho o Ubae",
+      "Lupin Sansei: Napoleon no Jisho wo Ubae",
+      "Lupin the 3rd: Napoleon's Dictionary",
+      "Lupin the 3rd: Napoleon’s Dictionary",
+      "Lupin the Third: Napoleon",
+      "Rupan Sansei: Napoleon no Jisho wo Ubae",
+      "ルパン三世 ナポレオンの辞書を奪え",
+      "ルパン三世『ナポレオンの辞書を奪え』",
+      "鲁邦三世：拿破仑词典争夺战"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1991-08-16T15:00:00.000Z",
-  "end": "1991-08-16T15:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "41876"
+  {
+    "title": "人魚の森",
+    "titleTranslate": {
+      "zh-Hans": [
+        "人鱼之森",
+        "人鱼之森 OVA"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "2500",
-      "begin": "2014-06-07T08:40:00.000Z",
-      "broadcast": "R/2014-06-07T08:40:00.000Z/P7D"
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-08-16T16:00:00.000Z",
+    "end": "1991-08-16T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "K2Vf3UWrG1m8OqI",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "i/izzhgoy2bctltv6",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "52826"
+      },
+      {
+        "site": "bilibili",
+        "id": "3964",
+        "begin": "2016-05-05T07:36:00.000Z",
+        "broadcast": "R/2016-05-05T07:36:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1100"
+      },
+      {
+        "site": "anidb",
+        "id": "1300"
+      },
+      {
+        "site": "anilist",
+        "id": "2017"
+      },
+      {
+        "site": "anilist",
+        "id": "620"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mermaid-forest-tv"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mermaids-scar"
+      },
+      {
+        "site": "anisearch",
+        "id": "129"
+      },
+      {
+        "site": "anisearch",
+        "id": "2762"
+      },
+      {
+        "site": "anisearch",
+        "id": "654"
+      },
+      {
+        "site": "kitsu",
+        "id": "1816"
+      },
+      {
+        "site": "kitsu",
+        "id": "575"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2017"
+      },
+      {
+        "site": "myanimelist",
+        "id": "620"
+      },
+      {
+        "site": "notify",
+        "id": "Kt6TcKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "T2cYcFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1991,
+      "month": "08"
     },
-    {
-      "site": "anidb",
-      "id": "2334"
-    },
-    {
-      "site": "anilist",
-      "id": "2099"
-    },
-    {
-      "site": "anilist",
-      "id": "2100"
-    },
-    {
-      "site": "anime-planet",
-      "id": "silent-mobius-the-motion-picture"
-    },
-    {
-      "site": "anime-planet",
-      "id": "silent-mobius-the-motion-picture-2"
-    },
-    {
-      "site": "anisearch",
-      "id": "697"
-    },
-    {
-      "site": "kitsu",
-      "id": "1898"
-    },
-    {
-      "site": "kitsu",
-      "id": "1899"
-    },
-    {
-      "site": "livechart",
-      "id": "8310"
-    },
-    {
-      "site": "livechart",
-      "id": "8313"
-    },
-    {
-      "site": "myanimelist",
-      "id": "2099"
-    },
-    {
-      "site": "myanimelist",
-      "id": "2100"
-    },
-    {
-      "site": "notify",
-      "id": "JFyYcFmmR"
-    },
-    {
-      "site": "notify",
-      "id": "nSsYcFiig"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 1998,
-    "month": "08"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1124/94313.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1124/94313t.jpg",
+    "synonyms": [
+      "El mundo de Rumiko: El bosque de la sirena",
+      "La foresta delle sirene",
+      "Mermaid Forest",
+      "Mermaid Forest OVA",
+      "Rumic World 4",
+      "Rumik World: Mermaid Forest",
+      "Лес русалок OVA",
+      "人魚の森",
+      "人鱼之森"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 26,
-  "picture": "https://cdn.myanimelist.net/images/anime/1768/100631.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1768/100631t.jpg",
-  "synonyms": [
-    "Silent Mebius",
-    "Silent Mobius",
-    "Silent Moebius",
-    "サイレントメビウス",
-    "魔法阵都市"
-  ]
-}
+  {
+    "title": "アルスラーン戦記",
+    "titleTranslate": {
+      "zh-Hans": [
+        "亚尔斯兰战记"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-08-17T16:00:00.000Z",
+    "end": "1991-08-17T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "7kUvrRV76ymMCnI",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "28628"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kigyou-senshi-arslan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-heroic-legend-of-arslan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-heroic-legend-of-arslan-1991"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-heroic-legend-of-arslan-dust-storm-dance"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-heroic-legend-of-arslan-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-heroic-legend-of-arslan-specials"
+      },
+      {
+        "site": "anisearch",
+        "id": "9962"
+      },
+      {
+        "site": "kitsu",
+        "id": "9972"
+      },
+      {
+        "site": "myanimelist",
+        "id": "28249"
+      },
+      {
+        "site": "notify",
+        "id": "R2bPtFiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2015,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/74848.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/74848t.jpg",
+    "synonyms": [
+      "Arslan Senki (TV): Dakkan no Yaiba",
+      "Arslan Senki Episode 13.5",
+      "Arslan Senki Recap",
+      "Arslan Senki: Dakkan no Yaiba",
+      "Arslan Senki: Tsuioku no Shou - Dakkan no Yaiba",
+      "Arslan Senki: Tsuioku no Shō - Dakkan no Yaiba",
+      "The Heroic Legend of Arslan",
+      "The Heroic Legend of Arslan Recap",
+      "The Heroic Legend of Arslan: Chapter of Reminiscence - The Blade to Retake the Kingdom",
+      "The Heroic Legend of Arslan: The Blade to Retake the Kingdom",
+      "あるすらーんせんき",
+      "アルスラーン戦記",
+      "アルスラーン戦記 追憶の章 奪還の刃",
+      "アルスラーン戦記　総集編「追憶の章　奪還の刃」"
+    ]
+  },
+  {
+    "title": "サイレントメビウス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法阵都市 剧场版",
+        "未来特警 剧场版",
+        "魔法阵都市 剧场版 上篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-08-16T15:00:00.000Z",
+    "end": "1991-08-16T15:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "41876"
+      },
+      {
+        "site": "bilibili",
+        "id": "2500",
+        "begin": "2014-06-07T08:40:00.000Z",
+        "broadcast": "R/2014-06-07T08:40:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "2334"
+      },
+      {
+        "site": "anilist",
+        "id": "2099"
+      },
+      {
+        "site": "anilist",
+        "id": "2100"
+      },
+      {
+        "site": "anime-planet",
+        "id": "silent-mobius-the-motion-picture"
+      },
+      {
+        "site": "anime-planet",
+        "id": "silent-mobius-the-motion-picture-2"
+      },
+      {
+        "site": "anisearch",
+        "id": "697"
+      },
+      {
+        "site": "kitsu",
+        "id": "1898"
+      },
+      {
+        "site": "kitsu",
+        "id": "1899"
+      },
+      {
+        "site": "livechart",
+        "id": "8310"
+      },
+      {
+        "site": "livechart",
+        "id": "8313"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2099"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2100"
+      },
+      {
+        "site": "notify",
+        "id": "JFyYcFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "nSsYcFiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1998,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/1768/100631.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1768/100631t.jpg",
+    "synonyms": [
+      "Silent Mebius",
+      "Silent Mobius",
+      "Silent Moebius",
+      "サイレントメビウス",
+      "魔法阵都市"
+    ]
+  }
+]

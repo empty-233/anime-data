@@ -1,250 +1,596 @@
-{
-  "title": "機動戦士ガンダムNT",
-  "titleTranslate": {
-    "zh-Hans": [
-      "机动战士高达NT"
+[
+  {
+    "title": "オコジョとヤマネ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "白鼬与睡鼠"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://itachiland.com/okojoandyamane/",
+    "begin": "2018-07-19T15:00:00.000Z",
+    "end": "2019-01-08T15:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "249680"
+      },
+      {
+        "site": "anidb",
+        "id": "14600"
+      },
+      {
+        "site": "anisearch",
+        "id": "14368"
+      }
     ],
-    "zh-Hant": [
-      "機動戰士高達 NT",
-      "機動戰士鋼彈 NT"
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/1458/95072.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1458/95072t.jpg",
+    "synonyms": [
+      "Weasel and Dormouse",
+      "オコジョとヤマネ",
+      "白鼬与睡鼠"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "http://gundam-nt.net/",
-  "begin": "2018-11-29T16:00:00.000Z",
-  "end": "2018-11-29T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "243428"
+  {
+    "title": "怪獣娘（黒）～ウルトラ怪獣擬人化計画～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪兽娘（黑）～奥特怪兽拟人化计划～"
+      ]
     },
-    {
-      "site": "gamer",
-      "id": "96881",
-      "begin": "2020-01-10T04:00:00.000Z",
-      "broadcast": "R/2020-01-10T04:00:00.000Z/P7D"
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kaiju-gk.jp/anime/black/",
+    "begin": "2018-11-23T16:00:00.000Z",
+    "end": "2018-11-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "241187"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kaiju-girls-black",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "13401"
+      },
+      {
+        "site": "anilist",
+        "id": "99888"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kaijuu-girls"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kaijuu-girls-2nd-season"
+      },
+      {
+        "site": "anisearch",
+        "id": "12763"
+      },
+      {
+        "site": "kitsu",
+        "id": "14152"
+      },
+      {
+        "site": "livechart",
+        "id": "2106"
+      },
+      {
+        "site": "livechart",
+        "id": "2838"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36196"
+      },
+      {
+        "site": "notify",
+        "id": "GiwN2FmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2018,
+      "month": "11"
     },
-    {
-      "site": "anidb",
-      "id": "13019"
-    },
-    {
-      "site": "anidb",
-      "id": "14043"
-    },
-    {
-      "site": "anilist",
-      "id": "105595"
-    },
-    {
-      "site": "anilist",
-      "id": "21658"
-    },
-    {
-      "site": "anilist",
-      "id": "6336"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-suit-gundam"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-suit-gundam-0080-war-in-the-pocket"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-suit-gundam-0083-stardust-memory"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-suit-gundam-chars-counterattack"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-suit-gundam-evolve"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-suit-gundam-f91"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-suit-gundam-hathaways-flash-i"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-suit-gundam-hathaways-flash-ii"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-suit-gundam-hathaways-flash-iii"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-suit-gundam-ms-igloo-2-juuryoku-sensen"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-suit-gundam-ms-igloo-apocalypse-0079"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-suit-gundam-ms-igloo-the-hidden-one-year-war"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-suit-gundam-the-08th-ms-team"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-suit-gundam-the-origin"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-suit-gundam-thunderbolt"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-suit-gundam-thunderbolt-2nd-season"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-suit-gundam-twilight-axis"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-suit-gundam-unicorn"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-suit-gundam-zz"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-suit-victory-gundam"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-suit-zeta-gundam"
-    },
-    {
-      "site": "anisearch",
-      "id": "11228"
-    },
-    {
-      "site": "anisearch",
-      "id": "13580"
-    },
-    {
-      "site": "anisearch",
-      "id": "5404"
-    },
-    {
-      "site": "livechart",
-      "id": "3938"
-    },
-    {
-      "site": "livechart",
-      "id": "4607"
-    },
-    {
-      "site": "livechart",
-      "id": "4659"
-    },
-    {
-      "site": "livechart",
-      "id": "4683"
-    },
-    {
-      "site": "livechart",
-      "id": "4695"
-    },
-    {
-      "site": "livechart",
-      "id": "4944"
-    },
-    {
-      "site": "livechart",
-      "id": "5926"
-    },
-    {
-      "site": "livechart",
-      "id": "5947"
-    },
-    {
-      "site": "livechart",
-      "id": "6906"
-    },
-    {
-      "site": "livechart",
-      "id": "6987"
-    },
-    {
-      "site": "livechart",
-      "id": "7514"
-    },
-    {
-      "site": "livechart",
-      "id": "7582"
-    },
-    {
-      "site": "livechart",
-      "id": "7717"
-    },
-    {
-      "site": "livechart",
-      "id": "7848"
-    },
-    {
-      "site": "livechart",
-      "id": "8121"
-    },
-    {
-      "site": "myanimelist",
-      "id": "37765"
-    },
-    {
-      "site": "myanimelist",
-      "id": "40464"
-    },
-    {
-      "site": "myanimelist",
-      "id": "6336"
-    },
-    {
-      "site": "notify",
-      "id": "armBxi7ig"
-    },
-    {
-      "site": "notify",
-      "id": "kg6qcFimR"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 2018,
-    "month": "11"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1511/93559.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1511/93559t.jpg",
+    "synonyms": [
+      "KAiJU GiRLS BLACK",
+      "Kaiju Girls Black",
+      "Kaijuu Girls (Black)",
+      "Kaijuu Girls (Kuro): Ultra Kaijuu Gijinka Keikaku",
+      "Kaijuu Girls Black",
+      "Kaijū Girls (Kuro): Ultra Kaijū Gijinka Keikaku",
+      "Ultra Kaijuu Gijinka Keikaku S3",
+      "怪獣娘[かいじゅうがーるず](黒) ~ウルトラ怪獣擬人化計画~",
+      "怪獣娘（黒） ～ウルトラ怪獣擬人化計画～",
+      "怪獣娘（黒）～ウルトラ怪獣擬人化計画～",
+      "怪獣娘～ウルトラ怪獣擬人化計画～"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1552/95706.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1552/95706t.jpg",
-  "synonyms": [
-    "Gundam: Kidou Senshi Gundam Narrative",
-    "Kidou Senshi Gundam Narrative",
-    "Kidō Senshi Gundam Narrative",
-    "Mobile Suit Gundam 0097",
-    "Mobile Suit Gundam NT",
-    "Mobile Suit Gundam NT (Narrative)",
-    "Mobile Suit Gundam NT: Le Film",
-    "Mobile Suit Gundam Narrative",
-    "机动战士高达NT",
-    "機動戦士ガンダム NT",
-    "機動戦士ガンダム ナラティブ",
-    "機動戦士ガンダムNT",
-    "機動戦士ガンダムNT (ナラティブ)",
-    "機動戦士ガンダムNT（ナラティブ）"
-  ]
-}
+  {
+    "title": "続・終物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "续·终物语"
+      ],
+      "zh-Hant": [
+        "續·終物語"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.monogatari-series.com/zokuowarimonogatari",
+    "begin": "2018-11-10T16:00:00.000Z",
+    "end": "2018-11-10T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "233926"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zokuowarimonogatari",
+        "begin": "2019-05-20T03:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "93181",
+        "begin": "2020-10-22T06:30:00.000Z",
+        "broadcast": "R/2020-10-22T06:30:00.000Z/P7D"
+      },
+      {
+        "site": "kitsu",
+        "id": "13268"
+      },
+      {
+        "site": "livechart",
+        "id": "1156"
+      },
+      {
+        "site": "livechart",
+        "id": "117"
+      },
+      {
+        "site": "livechart",
+        "id": "12323"
+      },
+      {
+        "site": "livechart",
+        "id": "1269"
+      },
+      {
+        "site": "livechart",
+        "id": "1682"
+      },
+      {
+        "site": "livechart",
+        "id": "1854"
+      },
+      {
+        "site": "livechart",
+        "id": "1855"
+      },
+      {
+        "site": "livechart",
+        "id": "1952"
+      },
+      {
+        "site": "livechart",
+        "id": "2133"
+      },
+      {
+        "site": "livechart",
+        "id": "248"
+      },
+      {
+        "site": "livechart",
+        "id": "25"
+      },
+      {
+        "site": "livechart",
+        "id": "2791"
+      },
+      {
+        "site": "livechart",
+        "id": "3026"
+      },
+      {
+        "site": "livechart",
+        "id": "3241"
+      },
+      {
+        "site": "livechart",
+        "id": "8538"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2019,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://media.kitsu.io/anime/poster_images/42279/small.jpg",
+    "thumbnail": "https://media.kitsu.io/anime/poster_images/42279/tiny.jpg",
+    "synonyms": [
+      "続・終物語"
+    ]
+  },
+  {
+    "title": "GODZILLA 星を喰う者",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哥斯拉：噬星者"
+      ],
+      "zh-Hant": [
+        "哥吉拉：噬星者",
+        "哥斯拉：噬星者"
+      ],
+      "en": [
+        "GODZILLA The Planet Eater"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://godzilla-anime.com/",
+    "begin": "2018-11-08T16:00:00.000Z",
+    "end": "2018-11-08T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212060"
+      },
+      {
+        "site": "netflix",
+        "id": "80198623",
+        "begin": "2019-01-08T16:00:00.000Z",
+        "broadcast": "R/2019-01-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "100561"
+      },
+      {
+        "site": "anime-planet",
+        "id": "godzilla-movie-1-planet-of-the-monsters"
+      },
+      {
+        "site": "anime-planet",
+        "id": "godzilla-movie-2-city-on-the-edge-of-battle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "godzilla-singular-point"
+      },
+      {
+        "site": "kitsu",
+        "id": "13297"
+      },
+      {
+        "site": "livechart",
+        "id": "10090"
+      },
+      {
+        "site": "livechart",
+        "id": "10177"
+      },
+      {
+        "site": "livechart",
+        "id": "10396"
+      },
+      {
+        "site": "livechart",
+        "id": "11829"
+      },
+      {
+        "site": "livechart",
+        "id": "2289"
+      },
+      {
+        "site": "livechart",
+        "id": "2633"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36816"
+      },
+      {
+        "site": "notify",
+        "id": "XLVnhFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2018,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1556/93690.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1556/93690t.jpg",
+    "synonyms": [
+      "GODZILLA -星を喰う者-",
+      "GODZILLA 3",
+      "GODZILLA 3: The Planet Eater",
+      "GODZILLA 星を喰う者",
+      "GODZILLA: Hoshi wo Kuu Mono",
+      "Godzilla 3: The Planet Eater",
+      "Godzilla Movie 3: Hoshi wo Kuu Mono",
+      "Godzilla Movie 3: The Planet Eater",
+      "Godzilla Part 3: The Planet Eater",
+      "Godzilla: Eater of Stars",
+      "Godzilla: Hoshi o Kuu Mono",
+      "Godzilla: Hoshi wo Kuu Mono",
+      "Godzilla: The Planet Eater"
+    ]
+  },
+  {
+    "title": "機動戦士ガンダムNT",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达NT"
+      ],
+      "zh-Hant": [
+        "機動戰士高達 NT",
+        "機動戰士鋼彈 NT"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://gundam-nt.net/",
+    "begin": "2018-11-29T16:00:00.000Z",
+    "end": "2018-11-29T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "243428"
+      },
+      {
+        "site": "gamer",
+        "id": "96881",
+        "begin": "2020-01-10T04:00:00.000Z",
+        "broadcast": "R/2020-01-10T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "13019"
+      },
+      {
+        "site": "anidb",
+        "id": "14043"
+      },
+      {
+        "site": "anilist",
+        "id": "105595"
+      },
+      {
+        "site": "anilist",
+        "id": "21658"
+      },
+      {
+        "site": "anilist",
+        "id": "6336"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-0080-war-in-the-pocket"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-0083-stardust-memory"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-chars-counterattack"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-evolve"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-f91"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-hathaways-flash-i"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-hathaways-flash-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-hathaways-flash-iii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-ms-igloo-2-juuryoku-sensen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-ms-igloo-apocalypse-0079"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-ms-igloo-the-hidden-one-year-war"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-the-08th-ms-team"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-the-origin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-thunderbolt"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-thunderbolt-2nd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-twilight-axis"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-unicorn"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-zz"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-victory-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-zeta-gundam"
+      },
+      {
+        "site": "anisearch",
+        "id": "11228"
+      },
+      {
+        "site": "anisearch",
+        "id": "13580"
+      },
+      {
+        "site": "anisearch",
+        "id": "5404"
+      },
+      {
+        "site": "livechart",
+        "id": "3938"
+      },
+      {
+        "site": "livechart",
+        "id": "4607"
+      },
+      {
+        "site": "livechart",
+        "id": "4659"
+      },
+      {
+        "site": "livechart",
+        "id": "4683"
+      },
+      {
+        "site": "livechart",
+        "id": "4695"
+      },
+      {
+        "site": "livechart",
+        "id": "4944"
+      },
+      {
+        "site": "livechart",
+        "id": "5926"
+      },
+      {
+        "site": "livechart",
+        "id": "5947"
+      },
+      {
+        "site": "livechart",
+        "id": "6906"
+      },
+      {
+        "site": "livechart",
+        "id": "6987"
+      },
+      {
+        "site": "livechart",
+        "id": "7514"
+      },
+      {
+        "site": "livechart",
+        "id": "7582"
+      },
+      {
+        "site": "livechart",
+        "id": "7717"
+      },
+      {
+        "site": "livechart",
+        "id": "7848"
+      },
+      {
+        "site": "livechart",
+        "id": "8121"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37765"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40464"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6336"
+      },
+      {
+        "site": "notify",
+        "id": "armBxi7ig"
+      },
+      {
+        "site": "notify",
+        "id": "kg6qcFimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2018,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1552/95706.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1552/95706t.jpg",
+    "synonyms": [
+      "Gundam: Kidou Senshi Gundam Narrative",
+      "Kidou Senshi Gundam Narrative",
+      "Kidō Senshi Gundam Narrative",
+      "Mobile Suit Gundam 0097",
+      "Mobile Suit Gundam NT",
+      "Mobile Suit Gundam NT (Narrative)",
+      "Mobile Suit Gundam NT: Le Film",
+      "Mobile Suit Gundam Narrative",
+      "机动战士高达NT",
+      "機動戦士ガンダム NT",
+      "機動戦士ガンダム ナラティブ",
+      "機動戦士ガンダムNT",
+      "機動戦士ガンダムNT (ナラティブ)",
+      "機動戦士ガンダムNT（ナラティブ）"
+    ]
+  }
+]

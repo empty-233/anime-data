@@ -1,39 +1,624 @@
-{
-  "title": "天保水滸伝NEO",
-  "titleTranslate": {
-    "zh-Hans": [
-      "天保水浒传NEO"
+[
+  {
+    "title": "ドキドキ！プリキュア",
+    "titleTranslate": {
+      "en": [
+        "DOKIDOKI! PRECURE",
+        "Glitter Force Doki Doki"
+      ],
+      "zh-Hans": [
+        "DokiDoki! 光之美少女",
+        "心跳！光之美少女",
+        "心动！光之美少女",
+        "心跳Q娃"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://asahi.co.jp/dokidoki_precure/",
+    "begin": "2013-02-02T23:30:00.000Z",
+    "end": "2014-01-26T00:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "sFkzsRlic7y2QDnY",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrha85ld",
+        "begin": "2016-12-12T08:25:10.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "55100"
+      },
+      {
+        "site": "netflix",
+        "id": "80175619",
+        "begin": "2017-08-18T07:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "1413"
+      },
+      {
+        "site": "anidb",
+        "id": "9690"
+      },
+      {
+        "site": "anilist",
+        "id": "100661"
+      },
+      {
+        "site": "anilist",
+        "id": "101908"
+      },
+      {
+        "site": "anilist",
+        "id": "105857"
+      },
+      {
+        "site": "anilist",
+        "id": "112748"
+      },
+      {
+        "site": "anilist",
+        "id": "12191"
+      },
+      {
+        "site": "anilist",
+        "id": "126905"
+      },
+      {
+        "site": "anilist",
+        "id": "142080"
+      },
+      {
+        "site": "anilist",
+        "id": "1534"
+      },
+      {
+        "site": "anilist",
+        "id": "157883"
+      },
+      {
+        "site": "anilist",
+        "id": "159429"
+      },
+      {
+        "site": "anilist",
+        "id": "16442"
+      },
+      {
+        "site": "anilist",
+        "id": "17357"
+      },
+      {
+        "site": "anilist",
+        "id": "1932"
+      },
+      {
+        "site": "anilist",
+        "id": "20549"
+      },
+      {
+        "site": "anilist",
+        "id": "20577"
+      },
+      {
+        "site": "anilist",
+        "id": "21001"
+      },
+      {
+        "site": "anilist",
+        "id": "21137"
+      },
+      {
+        "site": "anilist",
+        "id": "21504"
+      },
+      {
+        "site": "anilist",
+        "id": "21506"
+      },
+      {
+        "site": "anilist",
+        "id": "5684"
+      },
+      {
+        "site": "anilist",
+        "id": "603"
+      },
+      {
+        "site": "anilist",
+        "id": "7645"
+      },
+      {
+        "site": "anilist",
+        "id": "98059"
+      },
+      {
+        "site": "anilist",
+        "id": "9893"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dokidoki-pretty-cure-movie-mana-kekkon-mirai-ni-tsunagu-kibou-no-dress"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fresh-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "go-princess-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "happiness-charge-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "healin-good-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "heartcatch-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hugtto-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hugtto-pretty-cure-x-futari-wa-pretty-cure-movie-all-stars-memories"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kirakira-pretty-cure-a-la-mode"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mahou-tsukai-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-haru-no-carnival"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-minna-de-utau-kiseki-no-mahou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-new-stage-2-kokoro-no-tomodachi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-new-stage-3-eien-no-tomodachi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-max-heart"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-splash-star"
+      },
+      {
+        "site": "anime-planet",
+        "id": "smile-precure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "star-twinkle-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "suite-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tropical-rouge-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yes-pretty-cure-5"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yes-pretty-cure-5-gogo"
+      },
+      {
+        "site": "anisearch",
+        "id": "18342"
+      },
+      {
+        "site": "anisearch",
+        "id": "2594"
+      },
+      {
+        "site": "anisearch",
+        "id": "8212"
+      },
+      {
+        "site": "anisearch",
+        "id": "8343"
+      },
+      {
+        "site": "kitsu",
+        "id": "10034"
+      },
+      {
+        "site": "kitsu",
+        "id": "11688"
+      },
+      {
+        "site": "kitsu",
+        "id": "12927"
+      },
+      {
+        "site": "kitsu",
+        "id": "1375"
+      },
+      {
+        "site": "kitsu",
+        "id": "1739"
+      },
+      {
+        "site": "kitsu",
+        "id": "1742"
+      },
+      {
+        "site": "kitsu",
+        "id": "3199"
+      },
+      {
+        "site": "kitsu",
+        "id": "4243"
+      },
+      {
+        "site": "kitsu",
+        "id": "558"
+      },
+      {
+        "site": "kitsu",
+        "id": "8269"
+      },
+      {
+        "site": "livechart",
+        "id": "1252"
+      },
+      {
+        "site": "livechart",
+        "id": "128"
+      },
+      {
+        "site": "livechart",
+        "id": "1934"
+      },
+      {
+        "site": "livechart",
+        "id": "325"
+      },
+      {
+        "site": "livechart",
+        "id": "905"
+      },
+      {
+        "site": "myanimelist",
+        "id": "12191"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1534"
+      },
+      {
+        "site": "myanimelist",
+        "id": "17357"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1929"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1932"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21407"
+      },
+      {
+        "site": "myanimelist",
+        "id": "28669"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31884"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34290"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34302"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36593"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3692"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38578"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40610"
+      },
+      {
+        "site": "myanimelist",
+        "id": "44191"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53716"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5684"
+      },
+      {
+        "site": "myanimelist",
+        "id": "603"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7645"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9893"
+      },
+      {
+        "site": "notify",
+        "id": "-pNkpKimg"
+      },
+      {
+        "site": "notify",
+        "id": "3TDHtFimR"
+      },
+      {
+        "site": "notify",
+        "id": "Gb-opKiig"
+      },
+      {
+        "site": "notify",
+        "id": "Gmsx8N_4g"
+      },
+      {
+        "site": "notify",
+        "id": "MssWhKimR"
+      },
+      {
+        "site": "notify",
+        "id": "SG9MtKiig"
+      },
+      {
+        "site": "notify",
+        "id": "TrDU4H0nR"
+      },
+      {
+        "site": "notify",
+        "id": "UEDl5Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "UpUppFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "ZhI3pKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "fVOCkIAGR"
+      },
+      {
+        "site": "notify",
+        "id": "fgjTcKiig"
+      },
+      {
+        "site": "notify",
+        "id": "hgrEtFimg"
+      },
+      {
+        "site": "notify",
+        "id": "o_wj5KiiR"
+      },
+      {
+        "site": "notify",
+        "id": "re0WhFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "tEoqN0hVg"
+      },
+      {
+        "site": "notify",
+        "id": "tzmLcFiig"
+      },
+      {
+        "site": "notify",
+        "id": "yBkLcFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "yo0-cKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2013,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 49,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/46363.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/46363t.jpg",
+    "synonyms": [
+      "Doki Doki! Precure",
+      "Doki Doki! Pretty Cure",
+      "DokiDoki! Precure",
+      "DokiDoki! 光之美少女",
+      "Dokidoki! Pretty Cure",
+      "Glitter Force Doki Doki",
+      "Glitter Force: Dokidoki!",
+      "Pretty Cure Season 10",
+      "ddpc",
+      "precure10",
+      "Глиттер форс — Доки доки",
+      "どきどきぷりきゅあ",
+      "ドキドキ! プリキュア",
+      "ドキドキ！ プリキュア",
+      "ドキドキ！プリキュア",
+      "두근두근! 프리큐어"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "2013-02-28T16:00:00.000Z",
-  "end": "2013-03-28T16:05:00.000Z",
-  "sites": [
-    {
-      "site": "pptv",
-      "id": "KtWicPaULe7kcmgI",
-      "begin": ""
+  {
+    "title": "スタードライバー THE MOVIE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "闪亮的拓人 剧场版",
+        "银河美少年 剧场版"
+      ]
     },
-    {
-      "site": "bangumi",
-      "id": "66960"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 2013,
-    "month": "02"
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.stardriver-movie.net/",
+    "begin": "2013-02-09T16:00:00.000Z",
+    "end": "2013-02-09T18:35:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhc0nwl",
+        "begin": "2014-09-05T08:25:20.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "48702"
+      },
+      {
+        "site": "nicovideo",
+        "id": "stardriver-movie",
+        "begin": ""
+      },
+      {
+        "site": "pptv",
+        "id": "5mlDwSmPicz2gHoY",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "7591"
+      },
+      {
+        "site": "anilist",
+        "id": "8934"
+      },
+      {
+        "site": "anime-planet",
+        "id": "star-driver"
+      },
+      {
+        "site": "anisearch",
+        "id": "6270"
+      },
+      {
+        "site": "kitsu",
+        "id": "5538"
+      },
+      {
+        "site": "livechart",
+        "id": "3890"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8934"
+      },
+      {
+        "site": "notify",
+        "id": "f6NZtFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2013,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/57249.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/57249t.jpg",
+    "synonyms": [
+      "Star Driver THE MOVIE",
+      "Star Driver The Movie",
+      "Star Driver: Kagayaki no Takuto Movie",
+      "Star Driver: The Movie",
+      "スタードライバー THE MOVIE",
+      "スタードライバー The Movie",
+      "闪亮的拓人 剧场版",
+      "극장판 STAR DRIVER"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 5,
-  "picture": "https://cdn.myanimelist.net/images/anime/2/46523.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/2/46523t.jpg",
-  "synonyms": [
-    "Tenpou Suikoden NEO",
-    "Tenpō Suikoden Neo",
-    "天保水浒传NEO",
-    "天保水滸伝NEO"
-  ]
-}
+  {
+    "title": "天保水滸伝NEO",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天保水浒传NEO"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2013-02-28T16:00:00.000Z",
+    "end": "2013-03-28T16:05:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "KtWicPaULe7kcmgI",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "66960"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2013,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 5,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/46523.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/46523t.jpg",
+    "synonyms": [
+      "Tenpou Suikoden NEO",
+      "Tenpō Suikoden Neo",
+      "天保水浒传NEO",
+      "天保水滸伝NEO"
+    ]
+  }
+]

@@ -1,75 +1,412 @@
-{
-  "title": "パンダコパンダ",
-  "titleTranslate": {
-    "zh-Hans": [
-      "熊猫家族"
+[
+  {
+    "title": "マジンガーZ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔神Z"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1972-12-03T10:00:00.000Z",
+    "end": "1974-09-01T10:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10390"
+      },
+      {
+        "site": "anidb",
+        "id": "10001"
+      },
+      {
+        "site": "anidb",
+        "id": "11549"
+      },
+      {
+        "site": "anidb",
+        "id": "1727"
+      },
+      {
+        "site": "anidb",
+        "id": "2968"
+      },
+      {
+        "site": "anidb",
+        "id": "6397"
+      },
+      {
+        "site": "anidb",
+        "id": "951"
+      },
+      {
+        "site": "anidb",
+        "id": "952"
+      },
+      {
+        "site": "anidb",
+        "id": "953"
+      },
+      {
+        "site": "anidb",
+        "id": "956"
+      },
+      {
+        "site": "anilist",
+        "id": "1064"
+      },
+      {
+        "site": "anilist",
+        "id": "18365"
+      },
+      {
+        "site": "anilist",
+        "id": "2692"
+      },
+      {
+        "site": "anilist",
+        "id": "3898"
+      },
+      {
+        "site": "anilist",
+        "id": "4406"
+      },
+      {
+        "site": "anilist",
+        "id": "5485"
+      },
+      {
+        "site": "anilist",
+        "id": "5658"
+      },
+      {
+        "site": "anime-planet",
+        "id": "amon-apocalypse-of-devilman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cb-chara-go-nagai-world"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cyborg-009-the-cyborg-soldier"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cyborg-009-vs-devilman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "devilman-crybaby"
+      },
+      {
+        "site": "anime-planet",
+        "id": "getter-robo-armageddon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "great-mazinger"
+      },
+      {
+        "site": "anime-planet",
+        "id": "great-mazinger-vs-getter-robo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "great-mazinger-vs-getter-robo-g-the-great-space-encounter"
+      },
+      {
+        "site": "anime-planet",
+        "id": "grendizer-getter-robo-g-great-mazinger-kessen-daikaijuu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mazinger-edition-z-the-impact"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mazinger-z-1973"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mazinger-z-infinity"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mazinger-z-vs-dark-general"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mazinger-z-vs-devilman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mazinger-zip"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-devil-lady"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ufo-robo-grendizer"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ufo-robo-grendizer-vs-great-mazinger"
+      },
+      {
+        "site": "anisearch",
+        "id": "1051"
+      },
+      {
+        "site": "anisearch",
+        "id": "11196"
+      },
+      {
+        "site": "anisearch",
+        "id": "12364"
+      },
+      {
+        "site": "anisearch",
+        "id": "1532"
+      },
+      {
+        "site": "anisearch",
+        "id": "1727"
+      },
+      {
+        "site": "anisearch",
+        "id": "176"
+      },
+      {
+        "site": "anisearch",
+        "id": "1982"
+      },
+      {
+        "site": "anisearch",
+        "id": "5273"
+      },
+      {
+        "site": "anisearch",
+        "id": "920"
+      },
+      {
+        "site": "kitsu",
+        "id": "13747"
+      },
+      {
+        "site": "kitsu",
+        "id": "1787"
+      },
+      {
+        "site": "kitsu",
+        "id": "3332"
+      },
+      {
+        "site": "kitsu",
+        "id": "3584"
+      },
+      {
+        "site": "kitsu",
+        "id": "3597"
+      },
+      {
+        "site": "kitsu",
+        "id": "4121"
+      },
+      {
+        "site": "kitsu",
+        "id": "4227"
+      },
+      {
+        "site": "kitsu",
+        "id": "9121"
+      },
+      {
+        "site": "kitsu",
+        "id": "951"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1064"
+      },
+      {
+        "site": "myanimelist",
+        "id": "18365"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1985"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2234"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2692"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34820"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3898"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4406"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5485"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5658"
+      },
+      {
+        "site": "notify",
+        "id": "1kAC5Fmig"
+      },
+      {
+        "site": "notify",
+        "id": "6tWShFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "C-YXcKimR"
+      },
+      {
+        "site": "notify",
+        "id": "EGyj5KmmR"
+      },
+      {
+        "site": "notify",
+        "id": "VE4PcKimg"
+      },
+      {
+        "site": "notify",
+        "id": "ZGyX5Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "fg_l5Kiig"
+      },
+      {
+        "site": "notify",
+        "id": "ftHatKimR"
+      },
+      {
+        "site": "notify",
+        "id": "gGyJcKimg"
+      },
+      {
+        "site": "notify",
+        "id": "pdHY5Fmig"
+      },
+      {
+        "site": "notify",
+        "id": "sqPscFimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1973,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 92,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/21724.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/21724t.jpg",
+    "synonyms": [
+      "Mazinga Z",
+      "Mazinger Z tai Dr. Hell (マジンガーZ対ドクターヘル)",
+      "Mazinger Zeta",
+      "Mazinger-Z",
+      "Mazinger: Mazinger Z",
+      "TranZor Z",
+      "مازنجر زد",
+      "マジンガーZ",
+      "マジンガーＺ"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1972-12-17T16:00:00.000Z",
-  "end": "1972-12-17T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "28103"
+  {
+    "title": "パンダコパンダ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "熊猫家族"
+      ]
     },
-    {
-      "site": "nicovideo",
-      "id": "pankopa",
-      "begin": ""
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1972-12-17T16:00:00.000Z",
+    "end": "1972-12-17T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "28103"
+      },
+      {
+        "site": "nicovideo",
+        "id": "pankopa",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "6976"
+      },
+      {
+        "site": "anilist",
+        "id": "111954"
+      },
+      {
+        "site": "anilist",
+        "id": "1412"
+      },
+      {
+        "site": "anime-planet",
+        "id": "panda-go-panda-rainy-day-circus"
+      },
+      {
+        "site": "anisearch",
+        "id": "4525"
+      },
+      {
+        "site": "kitsu",
+        "id": "9780"
+      },
+      {
+        "site": "notify",
+        "id": "ScXYtKmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1972,
+      "month": "12"
     },
-    {
-      "site": "anidb",
-      "id": "6976"
-    },
-    {
-      "site": "anilist",
-      "id": "111954"
-    },
-    {
-      "site": "anilist",
-      "id": "1412"
-    },
-    {
-      "site": "anime-planet",
-      "id": "panda-go-panda-rainy-day-circus"
-    },
-    {
-      "site": "anisearch",
-      "id": "4525"
-    },
-    {
-      "site": "kitsu",
-      "id": "9780"
-    },
-    {
-      "site": "notify",
-      "id": "ScXYtKmiR"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 1972,
-    "month": "12"
-  },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.anime-planet.com/anime/primary/panda-go-panda-1.jpg?t=1625885865",
-  "thumbnail": "https://cdn.anime-planet.com/anime/primary/panda-go-panda-1-190x268.jpg?t=1625885865",
-  "synonyms": [
-    "Die Abenteuer des kleinen Panda",
-    "Panda Kopanda",
-    "Panda Petit Panda",
-    "Panda og vennene hans på eventyr",
-    "Panda!",
-    "Panda! Go",
-    "Panda! Go, panda!",
-    "Suur panda ja väike panda",
-    "The Adventure of Panda and Friends",
-    "Панда большая и маленькая",
-    "パンダコパンダ",
-    "パンダ・コパンダ"
-  ]
-}
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.anime-planet.com/anime/primary/panda-go-panda-1.jpg?t=1625885865",
+    "thumbnail": "https://cdn.anime-planet.com/anime/primary/panda-go-panda-1-190x268.jpg?t=1625885865",
+    "synonyms": [
+      "Die Abenteuer des kleinen Panda",
+      "Panda Kopanda",
+      "Panda Petit Panda",
+      "Panda og vennene hans på eventyr",
+      "Panda!",
+      "Panda! Go",
+      "Panda! Go, panda!",
+      "Suur panda ja väike panda",
+      "The Adventure of Panda and Friends",
+      "Панда большая и маленькая",
+      "パンダコパンダ",
+      "パンダ・コパンダ"
+    ]
+  }
+]

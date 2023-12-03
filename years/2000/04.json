@@ -1,115 +1,2066 @@
-{
-  "title": "ドキドキ♡伝説 魔法陣グルグル",
-  "titleTranslate": {
-    "zh-Hans": [
-      "咕噜咕噜魔法阵 心跳传说"
+[
+  {
+    "title": "サクラ大戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "樱花大战"
+      ],
+      "zh-Hant": [
+        "櫻花大戰"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.sakura-taisen.com/",
+    "begin": "2000-04-08T09:00:00.000Z",
+    "end": "2000-09-23T15:01:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "icUMibvCSKibjiabGYE",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2060"
+      },
+      {
+        "site": "gamer",
+        "id": "533",
+        "begin": "2021-09-24T08:00:00.000Z",
+        "broadcast": "R/2021-09-24T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "2290",
+        "begin": "2013-09-03T12:22:00.000Z",
+        "broadcast": "R/2013-09-03T12:22:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "489"
+      },
+      {
+        "site": "anidb",
+        "id": "4976"
+      },
+      {
+        "site": "anilist",
+        "id": "1165"
+      },
+      {
+        "site": "anilist",
+        "id": "123612"
+      },
+      {
+        "site": "anilist",
+        "id": "608"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-kakumei-hana-saku-otome-tachi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-ecole-de-paris"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-gouka-kenran"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-kanadegumi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-le-nouveau-paris"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-new-york-ny"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-ouka-kenran"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-sumire"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-the-animation"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sakura-wars-the-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "1932"
+      },
+      {
+        "site": "kitsu",
+        "id": "1046"
+      },
+      {
+        "site": "kitsu",
+        "id": "42966"
+      },
+      {
+        "site": "kitsu",
+        "id": "7218"
+      },
+      {
+        "site": "livechart",
+        "id": "1013"
+      },
+      {
+        "site": "livechart",
+        "id": "6610"
+      },
+      {
+        "site": "livechart",
+        "id": "6981"
+      },
+      {
+        "site": "livechart",
+        "id": "7135"
+      },
+      {
+        "site": "livechart",
+        "id": "7369"
+      },
+      {
+        "site": "livechart",
+        "id": "7583"
+      },
+      {
+        "site": "livechart",
+        "id": "7792"
+      },
+      {
+        "site": "livechart",
+        "id": "7808"
+      },
+      {
+        "site": "livechart",
+        "id": "9599"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1165"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1166"
+      },
+      {
+        "site": "myanimelist",
+        "id": "15127"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40403"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42791"
+      },
+      {
+        "site": "myanimelist",
+        "id": "52809"
+      },
+      {
+        "site": "notify",
+        "id": "Og7xcFiig"
+      },
+      {
+        "site": "notify",
+        "id": "o0PdtFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2000,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 25,
+    "picture": "https://cdn.myanimelist.net/images/anime/1641/107219.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1641/107219t.jpg",
+    "synonyms": [
+      "La Guerra de Sakura",
+      "La guerra de Sakura",
+      "La guerre de Sakura",
+      "Sakura - wojna ducha",
+      "Sakura - wojna dusz",
+      "Sakura - wojny ducha",
+      "Sakura Háborúja",
+      "Sakura Taisen TV",
+      "Sakura Wars",
+      "Sakura Wars TV",
+      "Sakura jde do boje",
+      "حروب ساكورا",
+      "ساكورا",
+      "さくらたいせん",
+      "サクラ大戦",
+      "樱花大战"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "http://www.nippon-animation.co.jp/na/guru2/index.htm",
-  "begin": "2000-04-03T16:00:00.000Z",
-  "end": "2001-12-25T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "3149"
+  {
+    "title": "ゲートキーパーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "地球守护者",
+        "捍卫者"
+      ],
+      "zh-Hant": [
+        "捍衛者 GATE KEEPERS"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "4006",
-      "begin": "2016-05-17T09:08:00.000Z",
-      "broadcast": "R/2016-05-17T09:08:00.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-04-03T14:30:00.000Z",
+    "end": "2000-09-18T15:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "l9mjIYnvX50AfuY",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "19039"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhw7065",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc002003uvcaar",
+        "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "33677",
+        "begin": "2019-08-20T09:00:00.000Z",
+        "broadcast": "R/2019-08-20T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "248"
+      },
+      {
+        "site": "anilist",
+        "id": "128"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gatekeepers-21"
+      },
+      {
+        "site": "anisearch",
+        "id": "2408"
+      },
+      {
+        "site": "kitsu",
+        "id": "107"
+      },
+      {
+        "site": "livechart",
+        "id": "8473"
+      },
+      {
+        "site": "myanimelist",
+        "id": "128"
+      },
+      {
+        "site": "notify",
+        "id": "7NftcFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2000,
+      "month": "04"
     },
-    {
-      "site": "anidb",
-      "id": "12723"
-    },
-    {
-      "site": "anidb",
-      "id": "311"
-    },
-    {
-      "site": "anilist",
-      "id": "331"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mahoujin-guru-guru"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mahoujin-guru-guru-2017"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mahoujin-guru-guru-movie"
-    },
-    {
-      "site": "anisearch",
-      "id": "2138"
-    },
-    {
-      "site": "kitsu",
-      "id": "298"
-    },
-    {
-      "site": "livechart",
-      "id": "2508"
-    },
-    {
-      "site": "livechart",
-      "id": "2790"
-    },
-    {
-      "site": "livechart",
-      "id": "4870"
-    },
-    {
-      "site": "livechart",
-      "id": "5887"
-    },
-    {
-      "site": "myanimelist",
-      "id": "331"
-    },
-    {
-      "site": "notify",
-      "id": "OVah5Fimg"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 2000,
-    "month": "04"
+    "status": "FINISHED",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/15226.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/15226t.jpg",
+    "synonyms": [
+      "GK",
+      "Gatekeepers",
+      "げーときーぱーず",
+      "ゲートキーパーズ",
+      "捍衛者"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 38,
-  "picture": "https://cdn.myanimelist.net/images/anime/1153/134019.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1153/134019t.jpg",
-  "synonyms": [
-    "DDL",
-    "Doki Doki Densetsu Mahoujin Guru Guru",
-    "Doki Doki Densetsu: Mahoujin Guru Guru",
-    "Dokidoki Densetsu: Mahoujin Guru Guru",
-    "Dokidoki Densetsu: Mahoujin Guruguru",
-    "Dokidoki Densetsu: Mahōjin Guruguru",
-    "Guru Guru",
-    "Guru Guru 2 Il Batticuore Della Magia",
-    "Guru Guru, batticuore della magia",
-    "Los Caballeros de Kodai",
-    "MGG2",
-    "Magic Circle Guru Guru 2",
-    "Magical Circle Guru Guru 2",
-    "Mahojin Guru Guru 2",
-    "Mahojin Guruguru 2",
-    "Mahoujin Guru Guru Doki Doki Legend",
-    "Mahoujin Guru Guru: Doki Doki Legend",
-    "Mahoujin Guruguru 2",
-    "Mahoujin Guruguru Doki Doki Legend",
-    "Mahoujin Guruguru II",
-    "guruguru2",
-    "ドキドキ♡伝説 魔法陣グルグル",
-    "ドキドキ伝説 魔法陣グルグル"
-  ]
-}
+  {
+    "title": "星界の戦旗",
+    "titleTranslate": {
+      "zh-Hans": [
+        "星界的战旗"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.sunrise-inc.co.jp/seikai/",
+    "begin": "2000-04-14T04:30:00.000Z",
+    "end": "2000-07-14T05:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "6hicpZ881peNGxCw",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "9617"
+      },
+      {
+        "site": "bilibili",
+        "id": "2164",
+        "begin": "2014-03-13T14:14:00.000Z",
+        "broadcast": "R/2014-03-13T14:14:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1"
+      },
+      {
+        "site": "anidb",
+        "id": "5"
+      },
+      {
+        "site": "anidb",
+        "id": "884"
+      },
+      {
+        "site": "anilist",
+        "id": "290"
+      },
+      {
+        "site": "anilist",
+        "id": "397"
+      },
+      {
+        "site": "anilist",
+        "id": "399"
+      },
+      {
+        "site": "anime-planet",
+        "id": "banner-of-the-stars-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "banner-of-the-stars-iii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "banner-of-the-stars-tokubetsu-hen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crest-of-the-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crest-of-the-stars-birth"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crest-of-the-stars-tokubetsu-hen"
+      },
+      {
+        "site": "anisearch",
+        "id": "2087"
+      },
+      {
+        "site": "anisearch",
+        "id": "3039"
+      },
+      {
+        "site": "anisearch",
+        "id": "772"
+      },
+      {
+        "site": "kitsu",
+        "id": "265"
+      },
+      {
+        "site": "kitsu",
+        "id": "364"
+      },
+      {
+        "site": "kitsu",
+        "id": "366"
+      },
+      {
+        "site": "livechart",
+        "id": "5522"
+      },
+      {
+        "site": "livechart",
+        "id": "5589"
+      },
+      {
+        "site": "livechart",
+        "id": "8049"
+      },
+      {
+        "site": "myanimelist",
+        "id": "290"
+      },
+      {
+        "site": "myanimelist",
+        "id": "397"
+      },
+      {
+        "site": "myanimelist",
+        "id": "399"
+      },
+      {
+        "site": "notify",
+        "id": "Dx225FimR"
+      },
+      {
+        "site": "notify",
+        "id": "VgqhcFmig"
+      },
+      {
+        "site": "notify",
+        "id": "aPj25Fiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2000,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/61111.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/61111t.jpg",
+    "synonyms": [
+      "BFotS",
+      "Banner of the Stars",
+      "Battle Flag of the Stars",
+      "BotS",
+      "BotS1",
+      "Crest of the Stars",
+      "SnS",
+      "SnS1",
+      "Звёздный Флаг",
+      "せいかいのせんき",
+      "星界の戦旗",
+      "星界的战旗",
+      "성계의 전기"
+    ]
+  },
+  {
+    "title": "ラブひな",
+    "titleTranslate": {
+      "zh-Hans": [
+        "纯情房东俏房客"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/lovehina/",
+    "begin": "2000-04-19T00:00:00.000Z",
+    "end": "2001-04-02T00:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2121"
+      },
+      {
+        "site": "youku",
+        "id": "c86614a69b1511e1b16f",
+        "begin": "2013-01-27T08:10:38.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "2605"
+      },
+      {
+        "site": "anidb",
+        "id": "51"
+      },
+      {
+        "site": "anilist",
+        "id": "190"
+      },
+      {
+        "site": "anilist",
+        "id": "191"
+      },
+      {
+        "site": "anilist",
+        "id": "192"
+      },
+      {
+        "site": "anilist",
+        "id": "963"
+      },
+      {
+        "site": "anime-planet",
+        "id": "love-hina-again"
+      },
+      {
+        "site": "anime-planet",
+        "id": "love-hina-final-selection"
+      },
+      {
+        "site": "anime-planet",
+        "id": "love-hina-special-motokos-choice-love-or-sword-dont-cry"
+      },
+      {
+        "site": "anime-planet",
+        "id": "love-hina-spring-special-i-wish-your-dream"
+      },
+      {
+        "site": "anime-planet",
+        "id": "love-hina-xmas-special-silent-eve"
+      },
+      {
+        "site": "anisearch",
+        "id": "1916"
+      },
+      {
+        "site": "anisearch",
+        "id": "3243"
+      },
+      {
+        "site": "anisearch",
+        "id": "6972"
+      },
+      {
+        "site": "anisearch",
+        "id": "7893"
+      },
+      {
+        "site": "kitsu",
+        "id": "167"
+      },
+      {
+        "site": "kitsu",
+        "id": "168"
+      },
+      {
+        "site": "kitsu",
+        "id": "169"
+      },
+      {
+        "site": "kitsu",
+        "id": "2881"
+      },
+      {
+        "site": "kitsu",
+        "id": "853"
+      },
+      {
+        "site": "livechart",
+        "id": "3471"
+      },
+      {
+        "site": "livechart",
+        "id": "3472"
+      },
+      {
+        "site": "livechart",
+        "id": "3473"
+      },
+      {
+        "site": "livechart",
+        "id": "3474"
+      },
+      {
+        "site": "livechart",
+        "id": "7150"
+      },
+      {
+        "site": "myanimelist",
+        "id": "190"
+      },
+      {
+        "site": "myanimelist",
+        "id": "191"
+      },
+      {
+        "site": "myanimelist",
+        "id": "192"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3247"
+      },
+      {
+        "site": "myanimelist",
+        "id": "963"
+      },
+      {
+        "site": "notify",
+        "id": "AOqt5KimR"
+      },
+      {
+        "site": "notify",
+        "id": "UBqpcFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "a8NQcKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "eT3t5Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "sVDJ5KimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2000,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/1153/99366.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1153/99366t.jpg",
+    "synonyms": [
+      "LH",
+      "Love Hina tv",
+      "Кохання та Хіна",
+      "Любовь и Хина",
+      "С любовью",
+      "Хина",
+      "บ้านพักอลเวง",
+      "เลิฟฮินะ",
+      "らぶひな",
+      "ラブひな",
+      "纯情房东俏房客",
+      "러브 히나"
+    ]
+  },
+  {
+    "title": "NieA_7",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我家也有外星人"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.geneon-ent.co.jp/rondorobe/anime/niea/",
+    "begin": "2000-04-26T02:00:00.000Z",
+    "end": "2000-07-19T02:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "IRnkYsowoN5Bvyc",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3795"
+      },
+      {
+        "site": "bilibili",
+        "id": "2153",
+        "begin": "2000-04-25T16:00:00.000Z",
+        "broadcast": "R/2012-01-02T18:49:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2000,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/18922.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/18922t.jpg",
+    "synonyms": [
+      "NieA",
+      "NieA 7",
+      "NieA under 7",
+      "NieA under 7 - domestic poor @nimation",
+      "NieA under 7: Domestic Poor @nimation",
+      "NieA_7",
+      "NieA_7: Domestic Poor @nimation",
+      "Niea under 7",
+      "Niea under Seven",
+      "ニア アンダーセブン",
+      "ニアアンダーセブン"
+    ]
+  },
+  {
+    "title": "妖しのセレス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "梦幻妖子"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://pierrot.jp/archives/tv_list_2000/tv_051.html",
+    "begin": "2000-04-20T16:00:00.000Z",
+    "end": "2000-09-28T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "qYJ9ib2PJOXfaWMA",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "6375"
+      },
+      {
+        "site": "bilibili",
+        "id": "2152",
+        "begin": "2000-04-19T16:00:00.000Z",
+        "broadcast": "R/2011-04-02T16:09:00.000Z/P7D"
+      },
+      {
+        "site": "letv",
+        "id": "13097",
+        "begin": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2000,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/1928/106202.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1928/106202t.jpg",
+    "synonyms": [
+      "Ceres",
+      "Ceres Celestial Legend",
+      "Ceres, Celestial Legend",
+      "Ceres, La Leyenda Celestial",
+      "Ceres: Celestial Legend",
+      "Ceres: La Leyenda Celestial",
+      "Ceres`in Kutsal Efsanesi",
+      "Mysterious Ceres",
+      "Unearthly Ceres",
+      "anc",
+      "Подозрительная Церера",
+      "あやしのせれす",
+      "妖しのセレス",
+      "梦幻妖子"
+    ]
+  },
+  {
+    "title": "デジモンアドベンチャー02",
+    "titleTranslate": {
+      "zh-Hans": [
+        "数码兽大冒险02",
+        "数码宝贝02"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/tv/digimon02/",
+    "begin": "2000-04-02T16:00:00.000Z",
+    "end": "2001-03-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb1dp5",
+        "begin": "2015-08-14T17:06:52.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "3129"
+      },
+      {
+        "site": "nicovideo",
+        "id": "digimon-adventure02",
+        "begin": "2015-09-16T06:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "1149"
+      },
+      {
+        "site": "anidb",
+        "id": "1150"
+      },
+      {
+        "site": "anidb",
+        "id": "1151"
+      },
+      {
+        "site": "anilist",
+        "id": "11385"
+      },
+      {
+        "site": "anilist",
+        "id": "137310"
+      },
+      {
+        "site": "anilist",
+        "id": "2397"
+      },
+      {
+        "site": "anilist",
+        "id": "2398"
+      },
+      {
+        "site": "anilist",
+        "id": "2962"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-02-movie-diaboromon-strikes-back"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-02-movie-the-golden-digimentals"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-02-the-beginning"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-3d-digimon-grand-prix"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-frontier"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-savers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-tamers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-xros-wars"
+      },
+      {
+        "site": "anisearch",
+        "id": "1678"
+      },
+      {
+        "site": "anisearch",
+        "id": "1903"
+      },
+      {
+        "site": "anisearch",
+        "id": "250"
+      },
+      {
+        "site": "kitsu",
+        "id": "1014"
+      },
+      {
+        "site": "kitsu",
+        "id": "2174"
+      },
+      {
+        "site": "kitsu",
+        "id": "2175"
+      },
+      {
+        "site": "kitsu",
+        "id": "44947"
+      },
+      {
+        "site": "kitsu",
+        "id": "5404"
+      },
+      {
+        "site": "kitsu",
+        "id": "761"
+      },
+      {
+        "site": "kitsu",
+        "id": "774"
+      },
+      {
+        "site": "kitsu",
+        "id": "7827"
+      },
+      {
+        "site": "livechart",
+        "id": "3730"
+      },
+      {
+        "site": "livechart",
+        "id": "3980"
+      },
+      {
+        "site": "livechart",
+        "id": "3990"
+      },
+      {
+        "site": "livechart",
+        "id": "4234"
+      },
+      {
+        "site": "livechart",
+        "id": "4251"
+      },
+      {
+        "site": "livechart",
+        "id": "4604"
+      },
+      {
+        "site": "livechart",
+        "id": "4643"
+      },
+      {
+        "site": "livechart",
+        "id": "4864"
+      },
+      {
+        "site": "livechart",
+        "id": "5139"
+      },
+      {
+        "site": "livechart",
+        "id": "5520"
+      },
+      {
+        "site": "livechart",
+        "id": "5638"
+      },
+      {
+        "site": "livechart",
+        "id": "5655"
+      },
+      {
+        "site": "livechart",
+        "id": "5704"
+      },
+      {
+        "site": "livechart",
+        "id": "5834"
+      },
+      {
+        "site": "livechart",
+        "id": "5846"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1132"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2397"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2398"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2962"
+      },
+      {
+        "site": "myanimelist",
+        "id": "49523"
+      },
+      {
+        "site": "myanimelist",
+        "id": "859"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8624"
+      },
+      {
+        "site": "myanimelist",
+        "id": "874"
+      },
+      {
+        "site": "notify",
+        "id": "NOLPcKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "SxZel3z4g"
+      },
+      {
+        "site": "notify",
+        "id": "U9EmtKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "UF-ttFimR"
+      },
+      {
+        "site": "notify",
+        "id": "YoLE5Fimg"
+      },
+      {
+        "site": "notify",
+        "id": "ogrAcFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "pARb5Kiig"
+      },
+      {
+        "site": "notify",
+        "id": "wklA5Kimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2000,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 50,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/20360.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/20360t.jpg",
+    "synonyms": [
+      "DA02",
+      "Digimon",
+      "Digimon 02",
+      "Digimon Adventure Zero Two",
+      "Digimon Zero Two",
+      "Digimon: Digital Monsters 02",
+      "Digimon: Digital Monsters 2",
+      "Digimon: Digital Monsters Season 2",
+      "Les Digimon - Saison 2",
+      "digi02",
+      "digimon s2",
+      "digimon2",
+      "דיג`ימון 2",
+      "أبطال الديجيتال الجزء الثاني",
+      "デジモン02",
+      "デジモンアドベンチャー02",
+      "デジモンアドベンチャー０２",
+      "数码宝贝大冒险02"
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん 嵐を呼ぶジャングル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新 森林里的暴风雨"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.shinchan-movie.com/",
+    "begin": "2000-04-22T16:00:00.000Z",
+    "end": "2000-04-22T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "3aGLCXHXR4XoZs4",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "begin": "",
+        "url": "http://www.iqiyi.com/v_19rrifx03a.html"
+      },
+      {
+        "site": "bangumi",
+        "id": "8982"
+      },
+      {
+        "site": "qq",
+        "id": "b/bymafsjpccgo4bw",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "10492",
+        "begin": "2000-04-21T16:00:01.000Z",
+        "broadcast": "R/2017-12-07T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "youku",
+        "id": "f0721d0c61ad11e0bea1",
+        "begin": "2013-03-15T11:31:34.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "708"
+      },
+      {
+        "site": "anilist",
+        "id": "2450"
+      },
+      {
+        "site": "anilist",
+        "id": "8361"
+      },
+      {
+        "site": "anilist",
+        "id": "966"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-arashi-o-yobu-ora-to-uchuu-no-princess"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-arashi-o-yobu-utau-ketsu-dake-bakudan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-chou-jikuu-arashi-wo-yobu-ora-no-hanayome"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-1-action-kamen-vs-daigure-maou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-10-arashi-wo-yobu-appare-sengoku-daikassen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-11-arashi-wo-yobu-eikou-no-yakiniku-road"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-12-arashi-wo-yobu-yuuhi-no-kasukabe-boys"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-13-densetsu-wo-yobu-buriburi-3-pun-dai-shingeki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-14-densetsu-wo-yobu-odore-amigo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-16-chou-arashi-wo-yobu-kinpoko-no-yuusha"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-17-otakebe-kasukabe-yasei-oukoku"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-19-arashi-wo-yobu-ougon-no-spy-daisakusen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-2-buriburi-oukoku-no-hihou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-21-bakauma-b-kyuu-gourmet-survival-battle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-22-gachinko-gyakushuu-no-robo-to-chan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-23-ora-no-hikkoshi-monogatari-saboten-dai-shuugeki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-24-bakusui-yumemi-world-dai-totsugeki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-25-shurai-uchujin-shiriri"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-26-bakumori-kung-fu-boys-ramen-tairan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-27-shinkon-ryokou-hurricane-ushinawareta-hiroshi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-28-gekitotsu-rakuga-kingdom-to-hobo-yonin-no-yuusha"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-29-nazo-meki-hana-no-tenkasu-gakuen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-3-unkokusai-no-yabou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-4-henderland-no-daibouken"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-5-ankoku-tamatama-daitsuiseki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-6-dengeki-buta-no-hizume-daisakusen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-7-bakuhatsu-onsen-wakuwaku-daikessen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-9-the-adult-empire-strikes-back"
+      },
+      {
+        "site": "anisearch",
+        "id": "178"
+      },
+      {
+        "site": "kitsu",
+        "id": "2224"
+      },
+      {
+        "site": "kitsu",
+        "id": "5310"
+      },
+      {
+        "site": "kitsu",
+        "id": "856"
+      },
+      {
+        "site": "livechart",
+        "id": "1608"
+      },
+      {
+        "site": "livechart",
+        "id": "7211"
+      },
+      {
+        "site": "livechart",
+        "id": "7625"
+      },
+      {
+        "site": "livechart",
+        "id": "8457"
+      },
+      {
+        "site": "livechart",
+        "id": "8546"
+      },
+      {
+        "site": "livechart",
+        "id": "8547"
+      },
+      {
+        "site": "livechart",
+        "id": "8591"
+      },
+      {
+        "site": "livechart",
+        "id": "8622"
+      },
+      {
+        "site": "livechart",
+        "id": "8624"
+      },
+      {
+        "site": "livechart",
+        "id": "8625"
+      },
+      {
+        "site": "livechart",
+        "id": "8627"
+      },
+      {
+        "site": "livechart",
+        "id": "8628"
+      },
+      {
+        "site": "livechart",
+        "id": "8629"
+      },
+      {
+        "site": "livechart",
+        "id": "8630"
+      },
+      {
+        "site": "livechart",
+        "id": "8631"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2450"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8361"
+      },
+      {
+        "site": "myanimelist",
+        "id": "966"
+      },
+      {
+        "site": "notify",
+        "id": "H-vJ5Fimg"
+      },
+      {
+        "site": "notify",
+        "id": "KIDitKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "boQEcKmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2000,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/22024.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/22024t.jpg",
+    "synonyms": [
+      "Crayon Shin-chan - Film 08",
+      "Crayon Shin-chan Movie 08",
+      "Crayon Shin-chan Movie 08: Arashi o Yobu Jungle",
+      "Crayon Shin-chan Movie 2000",
+      "Crayon Shin-chan Movie 8: Arashi wo Yobu Jungle",
+      "Crayon Shin-chan: Arashi o Yobu Jungle",
+      "Crayon Shin-chan: Arashi wo Yobu Jungle",
+      "Crayon Shin-chan: Jungle That Invites Storm",
+      "Crayon Shin-chan: The Storm Called The Jungle",
+      "Crayon Shinchan the Movie 08: The Storm Called: The Jungle",
+      "Eiga Crayon Shin-chan: Arashi o Yobu Jungle",
+      "Eiga Crayon Shin-chan: Arashi wo Yobu Jungle",
+      "Shin Chan Película 8: Perdidos en la Jungla",
+      "Shin Chan: perdidos en la jungla",
+      "Shin-chan Cậu bé bút chì - Khu rừng gọi bão tố",
+      "Shin-chan: Perdidos en la jungla",
+      "Shin-chan: Zamieszanie w Dżungli",
+      "ชินจัง เดอะมูฟวี่ 8 : ดิ้นรนบนเกาะร้าง",
+      "クレヨンしんちゃん 嵐を呼ぶジャングル",
+      "映画 クレヨンしんちゃん 嵐を呼ぶジャングル",
+      "映画 クレヨンしんちゃん　嵐を呼ぶジャングル",
+      "蜡笔小新 森林里的暴风雨"
+    ]
+  },
+  {
+    "title": "名探偵コナン 瞳の中の暗殺者",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 瞳孔中的暗杀者"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "2000-04-22T16:00:00.000Z",
+    "end": "2000-04-22T17:40:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zual",
+        "begin": "2016-11-11T08:33:52.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "823"
+      },
+      {
+        "site": "pptv",
+        "id": "NQHradE3pibVIxia4",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "b/bu8qr3h1vbia2kd",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "fa1f99ec61ad11e0bea1",
+        "begin": "2013-03-19T11:49:49.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228944",
+        "begin": "2020-05-21T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "266"
+      },
+      {
+        "site": "anilist",
+        "id": "235"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-countdown-to-heaven"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-crossroad-in-the-ancient-capital"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-full-score-of-fear"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-jolly-roger-in-the-deep-azure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-magician-of-the-silver-sky"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-14-the-lost-ship-in-the-sky"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-15-quarter-of-silence"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-18-the-sniper-from-another-dimension"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-19-the-hellfire-sunflowers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-20-the-darkest-nightmare"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-21-the-crimson-love-letter"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-22-zero-the-enforcer"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-23-the-fist-of-blue-sapphire"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-24-the-scarlet-bullet"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-3-the-last-magician-of-the-century"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-6-the-phantom-of-baker-street"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-9-strategy-above-the-depths"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-the-eleventh-striker"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-the-fourteenth-target"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-the-private-eyes-requiem"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-the-raven-chaser"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-the-time-bombed-skyscraper"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-zekkai-no-private-eye"
+      },
+      {
+        "site": "anisearch",
+        "id": "1721"
+      },
+      {
+        "site": "kitsu",
+        "id": "210"
+      },
+      {
+        "site": "livechart",
+        "id": "319"
+      },
+      {
+        "site": "livechart",
+        "id": "4579"
+      },
+      {
+        "site": "livechart",
+        "id": "4634"
+      },
+      {
+        "site": "livechart",
+        "id": "4688"
+      },
+      {
+        "site": "livechart",
+        "id": "4710"
+      },
+      {
+        "site": "livechart",
+        "id": "4732"
+      },
+      {
+        "site": "livechart",
+        "id": "4783"
+      },
+      {
+        "site": "livechart",
+        "id": "4809"
+      },
+      {
+        "site": "livechart",
+        "id": "4860"
+      },
+      {
+        "site": "livechart",
+        "id": "6391"
+      },
+      {
+        "site": "livechart",
+        "id": "6392"
+      },
+      {
+        "site": "livechart",
+        "id": "6400"
+      },
+      {
+        "site": "livechart",
+        "id": "6411"
+      },
+      {
+        "site": "livechart",
+        "id": "6441"
+      },
+      {
+        "site": "livechart",
+        "id": "8185"
+      },
+      {
+        "site": "myanimelist",
+        "id": "235"
+      },
+      {
+        "site": "notify",
+        "id": "lWnhcKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2000,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1196/94319.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1196/94319t.jpg",
+    "synonyms": [
+      "Case Closed Movie 04: Captured In Her Eyes",
+      "Case Closed Movie 4",
+      "Case Closed Movie 4: Captured In Her Eyes",
+      "Case Closed Movie: Captured in Her Eyes",
+      "Case Closed: Captured In Her Eyes",
+      "Case Closed: Captured in Her Eyes",
+      "DC M4",
+      "Dedektif Conan: Gözlerinin Esiriyim",
+      "Detective Conan - Solo nei suoi occhi",
+      "Detective Conan 4 - Capturado en sus ojos",
+      "Detective Conan Movie 04: Solo nei suoi occhi",
+      "Detective Conan Movie 4",
+      "Detective Conan Movie 4: Captured In her Eyes",
+      "Detective Conan Movie 4: Captured in Her Eyes",
+      "Detective Conan: Movie 4",
+      "Detective Conan: Solo nei suoi occhi",
+      "Detektiv Conan - 4. Film: Der Killer in ihren Augen",
+      "Detektiv Conan Film 4",
+      "Detektiv Conan Film 4: Der Killer in ihren Augen",
+      "Detektiv Conan Film 4: L'assassins dans Ses Yeux",
+      "Detektiv Conan: Der Killer in ihren Augen",
+      "Détective Conan - Film 4",
+      "Détective Conan: Mémoire Assassine",
+      "Meitantei Conan Movie 04: Hitomi no Naka no Ansatsusha",
+      "Meitantei Conan Movie 4",
+      "Meitantei Conan Movie 4: Hitomi no Naka no Ansatsusha",
+      "Meitantei Conan: Hitomi no Naka no Ansatsusha",
+      "Детектив Конан: Заловен в очите й",
+      "المحقق كونان: أسير عيناها",
+      "ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 4 ตอน ดดีฆาตกรรมนัยน์ตามรณะ",
+      "劇場版 名探偵コナン 瞳の中の暗殺者",
+      "名侦探柯南 瞳孔中的暗杀者",
+      "名探偵コナン 瞳の中の暗殺者",
+      "名探偵コナン　瞳の中の暗殺者",
+      "瞳の中の暗殺者",
+      "瞳孔中的暗杀者"
+    ]
+  },
+  {
+    "title": "フリクリ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "FLCL",
+        "特别的她"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.gainax.co.jp/anime/flcl",
+    "begin": "2000-04-26T16:00:00.000Z",
+    "end": "2001-03-16T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "TicPOTLQaiasgrqRE",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2988",
+        "begin": "2015-11-10T12:02:00.000Z",
+        "broadcast": "R/2015-11-10T12:02:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi",
+        "id": "822"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh7p811",
+        "begin": "2017-11-30T10:13:44.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "flcl-anime",
+        "begin": "2018-07-11T15:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "12023"
+      },
+      {
+        "site": "anilist",
+        "id": "21746"
+      },
+      {
+        "site": "anime-planet",
+        "id": "flcl-alternative"
+      },
+      {
+        "site": "anime-planet",
+        "id": "flcl-grunge"
+      },
+      {
+        "site": "anime-planet",
+        "id": "flcl-progressive"
+      },
+      {
+        "site": "anime-planet",
+        "id": "flcl-shoegaze"
+      },
+      {
+        "site": "anisearch",
+        "id": "11268"
+      },
+      {
+        "site": "anisearch",
+        "id": "1163"
+      },
+      {
+        "site": "kitsu",
+        "id": "11961"
+      },
+      {
+        "site": "livechart",
+        "id": "11136"
+      },
+      {
+        "site": "livechart",
+        "id": "11137"
+      },
+      {
+        "site": "livechart",
+        "id": "2101"
+      },
+      {
+        "site": "livechart",
+        "id": "2102"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33010"
+      },
+      {
+        "site": "myanimelist",
+        "id": "51304"
+      },
+      {
+        "site": "myanimelist",
+        "id": "51305"
+      },
+      {
+        "site": "notify",
+        "id": "4Eh6pKmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2000,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/77356.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/77356t.jpg",
+    "synonyms": [
+      "FLCL Furi Kuri",
+      "Fooley Cooley",
+      "Fooly Cooly",
+      "Fuli Culi",
+      "Furi Curi",
+      "Furi Kuri",
+      "Фури Кури",
+      "Фурі Курі",
+      "باحال و احمقانه",
+      "فولی کولی",
+      "ふりくり",
+      "フリクリ",
+      "프리크리"
+    ]
+  },
+  {
+    "title": "幻想魔伝 最遊記",
+    "titleTranslate": {
+      "zh-Hans": [
+        "最游记"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-04-04T16:00:00.000Z",
+    "end": "2001-03-27T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "mbSPDXXbS4nsatI",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "5977"
+      },
+      {
+        "site": "nicovideo",
+        "id": "saiyuki",
+        "begin": "2017-01-10T06:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "2144",
+        "begin": "2000-04-03T16:00:00.000Z",
+        "broadcast": "R/2013-02-16T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "letv",
+        "id": "38600",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "488"
+      },
+      {
+        "site": "anilist",
+        "id": "129"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saiyuki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saiyuki-gaiden"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saiyuki-gaiden-tokubetsu-hen-kouga-no-shou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saiyuki-interactive"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saiyuki-reload"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saiyuki-reload-blast"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saiyuki-reload-burial"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saiyuki-reload-gunlock"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saiyuki-reload-urasai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saiyuki-reload-zeroin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saiyuki-requiem"
+      },
+      {
+        "site": "anisearch",
+        "id": "3291"
+      },
+      {
+        "site": "kitsu",
+        "id": "108"
+      },
+      {
+        "site": "livechart",
+        "id": "10326"
+      },
+      {
+        "site": "livechart",
+        "id": "2262"
+      },
+      {
+        "site": "livechart",
+        "id": "3452"
+      },
+      {
+        "site": "livechart",
+        "id": "3453"
+      },
+      {
+        "site": "livechart",
+        "id": "5347"
+      },
+      {
+        "site": "livechart",
+        "id": "5409"
+      },
+      {
+        "site": "livechart",
+        "id": "5790"
+      },
+      {
+        "site": "livechart",
+        "id": "6067"
+      },
+      {
+        "site": "livechart",
+        "id": "9058"
+      },
+      {
+        "site": "livechart",
+        "id": "9066"
+      },
+      {
+        "site": "myanimelist",
+        "id": "129"
+      },
+      {
+        "site": "notify",
+        "id": "-5BpcKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1999,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/67873.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/67873t.jpg",
+    "synonyms": [
+      "Gensomaden Saiyuki OVA",
+      "Gensomaden Saiyuki Premium",
+      "Gensou Maden Saiyuki OVA",
+      "Gensou Maden Saiyuki Premium",
+      "Gensou Maden Saiyuuki OVA",
+      "Gensoumaden Saiyuuki OVA",
+      "Saiyuki",
+      "Saiyuki (1999)",
+      "Saiyuki OVA",
+      "Saiyuki Premium",
+      "Saiyuuki",
+      "Saiyuuki (1999)",
+      "Saiyuuki Premium",
+      "Saiyūki (1999)",
+      "幻想魔伝 最遊記",
+      "最游记OVA",
+      "最遊記"
+    ]
+  },
+  {
+    "title": "ドキドキ♡伝説 魔法陣グルグル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "咕噜咕噜魔法阵 心跳传说"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.nippon-animation.co.jp/na/guru2/index.htm",
+    "begin": "2000-04-03T16:00:00.000Z",
+    "end": "2001-12-25T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3149"
+      },
+      {
+        "site": "bilibili",
+        "id": "4006",
+        "begin": "2016-05-17T09:08:00.000Z",
+        "broadcast": "R/2016-05-17T09:08:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "12723"
+      },
+      {
+        "site": "anidb",
+        "id": "311"
+      },
+      {
+        "site": "anilist",
+        "id": "331"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mahoujin-guru-guru"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mahoujin-guru-guru-2017"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mahoujin-guru-guru-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "2138"
+      },
+      {
+        "site": "kitsu",
+        "id": "298"
+      },
+      {
+        "site": "livechart",
+        "id": "2508"
+      },
+      {
+        "site": "livechart",
+        "id": "2790"
+      },
+      {
+        "site": "livechart",
+        "id": "4870"
+      },
+      {
+        "site": "livechart",
+        "id": "5887"
+      },
+      {
+        "site": "myanimelist",
+        "id": "331"
+      },
+      {
+        "site": "notify",
+        "id": "OVah5Fimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2000,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 38,
+    "picture": "https://cdn.myanimelist.net/images/anime/1153/134019.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1153/134019t.jpg",
+    "synonyms": [
+      "DDL",
+      "Doki Doki Densetsu Mahoujin Guru Guru",
+      "Doki Doki Densetsu: Mahoujin Guru Guru",
+      "Dokidoki Densetsu: Mahoujin Guru Guru",
+      "Dokidoki Densetsu: Mahoujin Guruguru",
+      "Dokidoki Densetsu: Mahōjin Guruguru",
+      "Guru Guru",
+      "Guru Guru 2 Il Batticuore Della Magia",
+      "Guru Guru, batticuore della magia",
+      "Los Caballeros de Kodai",
+      "MGG2",
+      "Magic Circle Guru Guru 2",
+      "Magical Circle Guru Guru 2",
+      "Mahojin Guru Guru 2",
+      "Mahojin Guruguru 2",
+      "Mahoujin Guru Guru Doki Doki Legend",
+      "Mahoujin Guru Guru: Doki Doki Legend",
+      "Mahoujin Guruguru 2",
+      "Mahoujin Guruguru Doki Doki Legend",
+      "Mahoujin Guruguru II",
+      "guruguru2",
+      "ドキドキ♡伝説 魔法陣グルグル",
+      "ドキドキ伝説 魔法陣グルグル"
+    ]
+  }
+]

@@ -1,48 +1,940 @@
-{
-  "title": "銀河戦国群雄伝ライ",
-  "titleTranslate": {
-    "zh-Hans": [
-      "银河战国群雄传"
+[
+  {
+    "title": "レッドバロン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "红色巴隆"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-04-05T16:00:00.000Z",
+    "end": "1995-03-28T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37296"
+      },
+      {
+        "site": "nicovideo",
+        "id": "redbaron",
+        "begin": "2011-11-23T06:00:00.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1994,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 49,
+    "picture": "https://cdn.myanimelist.net/images/anime/1596/103314.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1596/103314t.jpg",
+    "synonyms": [
+      "Barão Vermelho",
+      "El Barón Rojo",
+      "Metal Fighter Red Baron",
+      "O Barão Vermelho",
+      "れっどばろん",
+      "レッドバロン",
+      "红色巴隆"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1994-04-07T16:00:00.000Z",
-  "end": "1995-03-30T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "165758"
+  {
+    "title": "機動武闘伝Gガンダム",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动武斗传G高达"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "6074",
-      "begin": "2017-04-18T02:04:00.000Z",
-      "broadcast": "R/2017-04-18T02:04:00.000Z/P7D"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 1994,
-    "month": "04"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.g-gundam.net/",
+    "begin": "1994-04-01T16:00:00.000Z",
+    "end": "1995-03-31T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "CzgDgelPvic1g3kY",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "w/w0nbxlyqmc6clnc",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "4212"
+      },
+      {
+        "site": "bilibili",
+        "id": "132232",
+        "begin": "2018-09-08T10:17:00.000Z",
+        "broadcast": "R/2018-09-08T10:17:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1125"
+      },
+      {
+        "site": "anidb",
+        "id": "14497"
+      },
+      {
+        "site": "anidb",
+        "id": "715"
+      },
+      {
+        "site": "anilist",
+        "id": "3288"
+      },
+      {
+        "site": "anilist",
+        "id": "7113"
+      },
+      {
+        "site": "anilist",
+        "id": "80"
+      },
+      {
+        "site": "anime-planet",
+        "id": "30th-gundam-perfect-mission"
+      },
+      {
+        "site": "anime-planet",
+        "id": "after-war-gundam-x"
+      },
+      {
+        "site": "anime-planet",
+        "id": "all-that-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "chou-denei-ban-sd-gundam-sangokuden-brave-battle-warriors"
+      },
+      {
+        "site": "anime-planet",
+        "id": "collection-of-key-animation-films"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gundam-mission-to-the-rise"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-00"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-00-second-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-00-special-edition-i-celestial-being"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-00-special-edition-iii-return-the-world"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-00-the-movie-a-wakening-of-the-trailblazer"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-0083-stardust-memory-the-mayfly-of-space"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-0083-the-afterglow-of-zeon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-age"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-age-memory-of-eden"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-evolve"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-iron-blooded-orphans"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-iron-blooded-orphans-2nd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-seed"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-seed-after-phase-in-the-valley-of-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-seed-destiny"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-special-edition-ii-end-of-the-world"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-wing"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-wing-endless-waltz"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-wing-endless-waltz-special-edition"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-zz-gundam-frag"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-sd-gundam-mk-i"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-sd-gundam-no-gyakushuu-arashi-wo-yobu-gakuensai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mokei-senshi-gunpla-builders-beginning-g"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ring-of-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "turn-a-gundam"
+      },
+      {
+        "site": "anisearch",
+        "id": "3329"
+      },
+      {
+        "site": "anisearch",
+        "id": "746"
+      },
+      {
+        "site": "kitsu",
+        "id": "59"
+      },
+      {
+        "site": "livechart",
+        "id": "3938"
+      },
+      {
+        "site": "livechart",
+        "id": "4607"
+      },
+      {
+        "site": "livechart",
+        "id": "4659"
+      },
+      {
+        "site": "livechart",
+        "id": "4683"
+      },
+      {
+        "site": "livechart",
+        "id": "4695"
+      },
+      {
+        "site": "livechart",
+        "id": "4944"
+      },
+      {
+        "site": "livechart",
+        "id": "5926"
+      },
+      {
+        "site": "livechart",
+        "id": "5947"
+      },
+      {
+        "site": "livechart",
+        "id": "6906"
+      },
+      {
+        "site": "livechart",
+        "id": "6987"
+      },
+      {
+        "site": "livechart",
+        "id": "7514"
+      },
+      {
+        "site": "livechart",
+        "id": "7582"
+      },
+      {
+        "site": "livechart",
+        "id": "7717"
+      },
+      {
+        "site": "livechart",
+        "id": "7848"
+      },
+      {
+        "site": "livechart",
+        "id": "8121"
+      },
+      {
+        "site": "myanimelist",
+        "id": "80"
+      },
+      {
+        "site": "notify",
+        "id": "aucpcKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1994,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 49,
+    "picture": "https://cdn.myanimelist.net/images/anime/1187/133654.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1187/133654t.jpg",
+    "synonyms": [
+      "G Gundam",
+      "Gundam: Kidou Butouden G Gundam",
+      "Kido Butoden G Gundam",
+      "Kido Senshi G-Gundam",
+      "Kidō Butōden G Gundam",
+      "Mobile Fighter G Gundam",
+      "Mobile Fighter G-Gundam",
+      "g gundam",
+      "หุ่นนักสู้สะท้านปฐพี จี กันดั้ม",
+      "きどうぶとうでんじーがんだむ",
+      "机动武斗传 G高达",
+      "機動武闘伝Gガンダム"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 52,
-  "picture": "https://cdn.myanimelist.net/images/anime/6/30829.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/6/30829t.jpg",
-  "synonyms": [
-    "Galaxy Warring State Chronicle Rai",
-    "Ginga Sengoku Gun Yuuden Rai",
-    "Ginga Sengoku Gun Yūden Rai",
-    "Ginga Sengoku Gun'yuuden Rai",
-    "Rai: Galactic Civil War Chronicle",
-    "Thunder Jet",
-    "Thunder Jet: Raiders of the Galaxy Empire",
-    "rai",
-    "هزيم الرعد",
-    "ไร ซามูไรอวกาศ",
-    "銀河戦国群雄伝ライ"
-  ]
-}
+  {
+    "title": "クレヨンしんちゃん ブリブリ王国の秘宝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新之布里布里王国的秘密宝藏"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.shinchan-movie.com/",
+    "begin": "1994-04-23T16:00:00.000Z",
+    "end": "1994-04-23T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "3aGLCXHXR4XoZs4",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "begin": "",
+        "url": "http://www.iqiyi.com/dongman/20130715/d7a321d48f825733.html"
+      },
+      {
+        "site": "bangumi",
+        "id": "8968"
+      },
+      {
+        "site": "qq",
+        "id": "b/bymafsjpccgo4bw",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "10472",
+        "begin": "1994-04-22T16:00:01.000Z",
+        "broadcast": "R/2017-12-01T08:11:00.000Z/P7D"
+      },
+      {
+        "site": "youku",
+        "id": "f071488261ad11e0bea1",
+        "begin": "2012-11-27T03:00:09.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "708"
+      },
+      {
+        "site": "anilist",
+        "id": "6217"
+      },
+      {
+        "site": "anilist",
+        "id": "8358"
+      },
+      {
+        "site": "anilist",
+        "id": "966"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-arashi-o-yobu-ora-to-uchuu-no-princess"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-arashi-o-yobu-utau-ketsu-dake-bakudan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-chou-jikuu-arashi-wo-yobu-ora-no-hanayome"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-1-action-kamen-vs-daigure-maou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-10-arashi-wo-yobu-appare-sengoku-daikassen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-11-arashi-wo-yobu-eikou-no-yakiniku-road"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-12-arashi-wo-yobu-yuuhi-no-kasukabe-boys"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-13-densetsu-wo-yobu-buriburi-3-pun-dai-shingeki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-14-densetsu-wo-yobu-odore-amigo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-16-chou-arashi-wo-yobu-kinpoko-no-yuusha"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-17-otakebe-kasukabe-yasei-oukoku"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-19-arashi-wo-yobu-ougon-no-spy-daisakusen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-21-bakauma-b-kyuu-gourmet-survival-battle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-22-gachinko-gyakushuu-no-robo-to-chan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-23-ora-no-hikkoshi-monogatari-saboten-dai-shuugeki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-24-bakusui-yumemi-world-dai-totsugeki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-25-shurai-uchujin-shiriri"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-26-bakumori-kung-fu-boys-ramen-tairan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-27-shinkon-ryokou-hurricane-ushinawareta-hiroshi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-28-gekitotsu-rakuga-kingdom-to-hobo-yonin-no-yuusha"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-29-nazo-meki-hana-no-tenkasu-gakuen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-3-unkokusai-no-yabou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-4-henderland-no-daibouken"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-5-ankoku-tamatama-daitsuiseki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-6-dengeki-buta-no-hizume-daisakusen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-7-bakuhatsu-onsen-wakuwaku-daikessen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-8-arashi-wo-yobu-jungle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-9-the-adult-empire-strikes-back"
+      },
+      {
+        "site": "anisearch",
+        "id": "178"
+      },
+      {
+        "site": "kitsu",
+        "id": "4480"
+      },
+      {
+        "site": "kitsu",
+        "id": "5307"
+      },
+      {
+        "site": "kitsu",
+        "id": "856"
+      },
+      {
+        "site": "livechart",
+        "id": "1608"
+      },
+      {
+        "site": "livechart",
+        "id": "7211"
+      },
+      {
+        "site": "livechart",
+        "id": "7625"
+      },
+      {
+        "site": "livechart",
+        "id": "8457"
+      },
+      {
+        "site": "livechart",
+        "id": "8547"
+      },
+      {
+        "site": "livechart",
+        "id": "8591"
+      },
+      {
+        "site": "livechart",
+        "id": "8622"
+      },
+      {
+        "site": "livechart",
+        "id": "8624"
+      },
+      {
+        "site": "livechart",
+        "id": "8625"
+      },
+      {
+        "site": "livechart",
+        "id": "8626"
+      },
+      {
+        "site": "livechart",
+        "id": "8627"
+      },
+      {
+        "site": "livechart",
+        "id": "8628"
+      },
+      {
+        "site": "livechart",
+        "id": "8629"
+      },
+      {
+        "site": "livechart",
+        "id": "8630"
+      },
+      {
+        "site": "livechart",
+        "id": "8631"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6217"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8358"
+      },
+      {
+        "site": "myanimelist",
+        "id": "966"
+      },
+      {
+        "site": "notify",
+        "id": "0XHipFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "CKQ3cKmig"
+      },
+      {
+        "site": "notify",
+        "id": "H-vJ5Fimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1994,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/22020.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/22020t.jpg",
+    "synonyms": [
+      "Crayon Shin-Chan Movie 02",
+      "Crayon Shin-chan - Film 02",
+      "Crayon Shin-chan Movie 02",
+      "Crayon Shin-chan Movie 2: Buriburi Oukoku no Hihou",
+      "Crayon Shin-chan: Buriburi Oukoku no Hihou",
+      "Crayon Shin-chan: The Hidden Treasure of the Buri Buri Kingdom",
+      "Crayon Shin-chan: The Secret Treasure of Buri Buri Kingdom",
+      "Crayon Shin-chan: The Treasure of the Kingdom of Wiggle",
+      "Crayon Shinchan the Movie 02: The Secret Treasure of Buri Buri Kingdom",
+      "Eiga Crayon Shin-chan: Buriburi Oukoku no Hihou",
+      "Eiga Crayon Shin-chan: Buriburi Ōkoku no Hihō",
+      "Shin Chan Película 2: Shin Chan en la Isla del Tesoro",
+      "Shin Chan y la isla del tesoro",
+      "Shin-Chan - Na Ilha do Tesouro",
+      "Shin-chan - Cậu bé bút chì! Bảo vật bí mật của Vương quốc Buriburi!",
+      "Shin-chan: en la isla del tesoro",
+      "The Crayon Shin-Chan movie: Treasures of the BuriBuri kingdom",
+      "ชินจัง เดอะมูฟวี่ 2 : สมบัติลับแห่งอาณาจักรบูริบูริ",
+      "クレヨンしんちゃん ブリブリ王国の秘宝",
+      "映画 クレヨンしんちゃん ブリブリ王国の秘宝",
+      "映画クレヨンしんちゃん ブリブリ王国の秘宝",
+      "蜡笔小新之布里布里王国的秘密宝藏"
+    ]
+  },
+  {
+    "title": "新世紀GPXサイバーフォーミュラZERO",
+    "titleTranslate": {
+      "zh-Hans": [
+        "高智能方程式：ZERO"
+      ],
+      "zh-Hant": [
+        "高智能方程式ZERO"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-04-01T16:00:00.000Z",
+    "end": "1995-02-01T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "NHdRzzedDUuuLJQ",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1956"
+      },
+      {
+        "site": "bilibili",
+        "id": "3809",
+        "begin": "1994-03-31T16:00:01.000Z",
+        "broadcast": "R/2018-02-08T04:16:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jgv63BpD8ovpSFlCSOu8DvO",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "2149"
+      },
+      {
+        "site": "anidb",
+        "id": "2463"
+      },
+      {
+        "site": "anilist",
+        "id": "1392"
+      },
+      {
+        "site": "anilist",
+        "id": "1394"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cyber-formula-double-one"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cyber-formula-early-days-renewal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cyber-formula-graffiti"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cyber-formula-saga"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cyber-formula-sin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "future-gpx-cyber-formula"
+      },
+      {
+        "site": "anisearch",
+        "id": "2558"
+      },
+      {
+        "site": "anisearch",
+        "id": "550"
+      },
+      {
+        "site": "kitsu",
+        "id": "1245"
+      },
+      {
+        "site": "kitsu",
+        "id": "1247"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1392"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1394"
+      },
+      {
+        "site": "notify",
+        "id": "D1eb5Kmig"
+      },
+      {
+        "site": "notify",
+        "id": "v_ebcKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1994,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 8,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/4085.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/4085t.jpg",
+    "synonyms": [
+      "Cyber Formula ZERO",
+      "Future GPX Cyber Formula ZERO",
+      "Shin Seiki GPX Cyber Formula ZERO",
+      "Shin Seiki GPX Cyber Formula Zero",
+      "Shinseki GPX Cyber Formula ZERO",
+      "Shinseki-GPX Cyber Formula Zero",
+      "gpx zero",
+      "新世紀GPXサイバーフォーミュラZERO",
+      "新世紀ＧＰＸサイバーフォーミュラＺＥＲＯ"
+    ]
+  },
+  {
+    "title": "とっても!ラッキーマン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "幸运超人"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-04-06T16:00:00.000Z",
+    "end": "1995-03-23T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "LmBc2kKoGFa5N58",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "114807"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1994,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 50,
+    "picture": "https://cdn.myanimelist.net/images/anime/1130/134623.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1130/134623t.jpg",
+    "synonyms": [
+      "Luckyman",
+      "とっても!ラッキーマン",
+      "とっても！ラッキーマン",
+      "行运超人"
+    ]
+  },
+  {
+    "title": "覇王大系リューナイト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "霸王大系龙骑士"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-04-05T16:00:00.000Z",
+    "end": "1995-03-28T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "dLibKCHDWRoTnZc0",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "10410"
+      },
+      {
+        "site": "anidb",
+        "id": "2687"
+      },
+      {
+        "site": "anidb",
+        "id": "616"
+      },
+      {
+        "site": "anilist",
+        "id": "1849"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lord-of-lords-ryu-knight-adeus-legend"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lord-of-lords-ryu-knight-adeus-legend-final"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lord-of-lords-ryu-knight-adeus-legend-ii"
+      },
+      {
+        "site": "anisearch",
+        "id": "1007"
+      },
+      {
+        "site": "kitsu",
+        "id": "1666"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1849"
+      },
+      {
+        "site": "notify",
+        "id": "RQsf5KiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1994,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 52,
+    "picture": "https://cdn.myanimelist.net/images/anime/1626/92213.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1626/92213t.jpg",
+    "synonyms": [
+      "Adeos le chevalier vaillant",
+      "Haou Daikei Ryuu Knight",
+      "Haō Daikei Ryū Knight",
+      "Lord of Lords Ryu Knight",
+      "Lord of Lords Ryu Knight TV",
+      "RyuK",
+      "llrk",
+      "覇王大系リューナイト"
+    ]
+  },
+  {
+    "title": "銀河戦国群雄伝ライ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河战国群雄传"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-04-07T16:00:00.000Z",
+    "end": "1995-03-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "165758"
+      },
+      {
+        "site": "bilibili",
+        "id": "6074",
+        "begin": "2017-04-18T02:04:00.000Z",
+        "broadcast": "R/2017-04-18T02:04:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1994,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 52,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/30829.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/30829t.jpg",
+    "synonyms": [
+      "Galaxy Warring State Chronicle Rai",
+      "Ginga Sengoku Gun Yuuden Rai",
+      "Ginga Sengoku Gun Yūden Rai",
+      "Ginga Sengoku Gun'yuuden Rai",
+      "Rai: Galactic Civil War Chronicle",
+      "Thunder Jet",
+      "Thunder Jet: Raiders of the Galaxy Empire",
+      "rai",
+      "هزيم الرعد",
+      "ไร ซามูไรอวกาศ",
+      "銀河戦国群雄伝ライ"
+    ]
+  }
+]

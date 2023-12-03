@@ -1,204 +1,595 @@
-{
-  "title": "機動警察パトレイバー the Movie",
-  "titleTranslate": {
-    "zh-Hans": [
-      "机动警察 东京毁灭战"
+[
+  {
+    "title": "ドラゴンボールZ オラの悟飯をかえせッ!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙珠Z 热血热斗"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-07-15T16:00:00.000Z",
+    "end": "1989-07-15T16:50:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4015",
+        "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "44939"
+      },
+      {
+        "site": "nicovideo",
+        "id": "DBZ",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "1530"
+      },
+      {
+        "site": "anilist",
+        "id": "138864"
+      },
+      {
+        "site": "anilist",
+        "id": "813"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-episode-of-bardock"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-plan-to-destroy-the-saiyajin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-yo-the-return-of-son-goku-and-friends"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-atsumare-goku-world"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-battle-of-gods"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-kai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-kai-bring-peace-to-the-future-gokus-spirit-is-eternal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-kai-the-final-chapters"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-10-broly-second-coming"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-11-bio-broly"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-12-fusion-reborn"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-13-wrath-of-the-dragon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-15-resurrection-f"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-2-the-world-s-strongest"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-3-the-tree-of-might"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-4-lord-slug"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-5-cooler-s-revenge"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-6-return-of-cooler"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-7-super-android-13"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-8-broly-the-legendary-super-saiyan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-9-bojack-unbound"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-plan-to-destroy-the-saiyajin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-special-1-bardock-the-father-of-goku"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-special-2-the-history-of-trunks"
+      },
+      {
+        "site": "anisearch",
+        "id": "2938"
+      },
+      {
+        "site": "kitsu",
+        "id": "720"
+      },
+      {
+        "site": "livechart",
+        "id": "3632"
+      },
+      {
+        "site": "livechart",
+        "id": "4152"
+      },
+      {
+        "site": "livechart",
+        "id": "4177"
+      },
+      {
+        "site": "livechart",
+        "id": "4206"
+      },
+      {
+        "site": "livechart",
+        "id": "4264"
+      },
+      {
+        "site": "livechart",
+        "id": "4268"
+      },
+      {
+        "site": "livechart",
+        "id": "4287"
+      },
+      {
+        "site": "livechart",
+        "id": "4294"
+      },
+      {
+        "site": "livechart",
+        "id": "4304"
+      },
+      {
+        "site": "livechart",
+        "id": "4312"
+      },
+      {
+        "site": "livechart",
+        "id": "4367"
+      },
+      {
+        "site": "livechart",
+        "id": "5074"
+      },
+      {
+        "site": "livechart",
+        "id": "5540"
+      },
+      {
+        "site": "livechart",
+        "id": "5906"
+      },
+      {
+        "site": "livechart",
+        "id": "6390"
+      },
+      {
+        "site": "myanimelist",
+        "id": "813"
+      },
+      {
+        "site": "notify",
+        "id": "ir-05Fmmg"
+      }
     ],
-    "zh-Hant": [
-      "機動警察 劇場版 1"
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1989,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1258/90343.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1258/90343t.jpg",
+    "synonyms": [
+      "A ameaza da zona escura",
+      "DBZ Movie 1",
+      "DBZMV1",
+      "DRAGON BALL Z (1989)",
+      "DRAGON BALL Z (1989) (ドラゴンボールZ オラの悟飯をかえせッ!!)",
+      "Dragon Ball Z (1989)",
+      "Dragon Ball Z - A Zona Morta",
+      "Dragon Ball Z - Garlicin jäljillä",
+      "Dragon Ball Z - La vendetta divina",
+      "Dragon Ball Z - The Movie: Die Todeszone des Garlic Jr.",
+      "Dragon Ball Z 01 - À la poursuite de Garlic",
+      "Dragon Ball Z Movie 01: The Dead Zone",
+      "Dragon Ball Z Movie 1: Dead Zone",
+      "Dragon Ball Z Película 1: Devolvedme a mi Gohan",
+      "Dragon Ball Z der Film: Die Todeszone des Garlic Jr.",
+      "Dragon Ball Z le Film: À la Poursuite de Garlic",
+      "Dragon Ball Z: Dead Zone",
+      "Dragon Ball Z: Devolva-me Gohan",
+      "Dragon Ball Z: Die Todeszone des Garlic Jr.",
+      "Dragon Ball Z: Garlick Junior Inmortal",
+      "Dragon Ball Z: Garlick Junior inmortal",
+      "Dragon Ball Z: Give Me Back My Gohan!",
+      "Dragon Ball Z: Give Me Back My Gohan!!",
+      "Dragon Ball Z: In Pursuit of Garlic",
+      "Dragon Ball Z: La vendetta divina",
+      "Dragon Ball Z: Martwa strefa",
+      "Dragon Ball Z: Movie 1",
+      "Dragon Ball Z: Movie 1 - Dead Zone",
+      "Dragon Ball Z: Ora no Gohan o Kaese!!",
+      "Dragon Ball Z: Ora no Gohan wo Kaese!!",
+      "Dragon Ball Z: Return My Gohan!!",
+      "Dragon Ball Z: Return my Gohan!!",
+      "Dragon Ball Z: Son Goku Super Star",
+      "Dragon Ball Z: The Dead Zone",
+      "Dragon Ball Z: ¡¡Devuélveme a mi Gohan!!",
+      "Dragon Ball Z: À la poursuite de Garlic",
+      "Dragon Ball: La saga",
+      "Dragonball Z - The Movie: Die Todeszone des Garlic Jr.",
+      "Dragonball Z: Die Todeszone des Garlic Jr.",
+      "Dragonball Z: The Movie - Die Todeszone des Garlic Jr.",
+      "ドラゴンボールZ オラの悟飯をかえせッ!!",
+      "ドラゴンボールZ オラの悟飯をかえせッ！！"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1989-07-15T16:00:00.000Z",
-  "end": "1989-07-15T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "9979"
+  {
+    "title": "魔女の宅急便",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔女宅急便"
+      ],
+      "zh-Hant": [
+        "魔女宅急便"
+      ],
+      "en": [
+        "Kiki’s Delivery Service"
+      ]
     },
-    {
-      "site": "nicovideo",
-      "id": "PATLABOR_01",
-      "begin": ""
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-07-29T16:00:00.000Z",
+    "end": "1989-07-29T17:40:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9spg5",
+        "begin": "2017-01-24T08:06:01.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "305"
+      },
+      {
+        "site": "netflix",
+        "id": "60027106",
+        "begin": "2020-01-30T16:00:00.000Z",
+        "broadcast": "R/2020-01-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "101099"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hungry-days-aoharu-ka-yo"
+      },
+      {
+        "site": "anisearch",
+        "id": "12554"
+      },
+      {
+        "site": "kitsu",
+        "id": "13579"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35770"
+      },
+      {
+        "site": "notify",
+        "id": "EoF42FiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1989,
+      "month": "07"
     },
-    {
-      "site": "bilibili",
-      "id": "4016",
-      "begin": "1989-07-14T16:00:01.000Z",
-      "broadcast": ""
-    },
-    {
-      "site": "gamer",
-      "id": "38221",
-      "begin": "2020-08-06T06:35:00.000Z",
-      "broadcast": "R/2020-08-06T06:35:00.000Z/P7D"
-    },
-    {
-      "site": "anidb",
-      "id": "1518"
-    },
-    {
-      "site": "anidb",
-      "id": "395"
-    },
-    {
-      "site": "anidb",
-      "id": "537"
-    },
-    {
-      "site": "anilist",
-      "id": "1288"
-    },
-    {
-      "site": "anilist",
-      "id": "1290"
-    },
-    {
-      "site": "anilist",
-      "id": "2733"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-police-patlabor-minimum-minipato"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-police-patlabor-reboot"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-suit-sd-gundam-no-gyakushuu-sd-sengokuden-abaowakuujou-no-shou"
-    },
-    {
-      "site": "anime-planet",
-      "id": "patlabor-2-the-movie"
-    },
-    {
-      "site": "anime-planet",
-      "id": "patlabor-the-mobile-police"
-    },
-    {
-      "site": "anime-planet",
-      "id": "patlabor-the-mobile-police-new-files"
-    },
-    {
-      "site": "anime-planet",
-      "id": "patlabor-the-mobile-police-tv"
-    },
-    {
-      "site": "anime-planet",
-      "id": "patlabor-wxiii"
-    },
-    {
-      "site": "anisearch",
-      "id": "2835"
-    },
-    {
-      "site": "anisearch",
-      "id": "3128"
-    },
-    {
-      "site": "kitsu",
-      "id": "1162"
-    },
-    {
-      "site": "kitsu",
-      "id": "12470"
-    },
-    {
-      "site": "kitsu",
-      "id": "981"
-    },
-    {
-      "site": "livechart",
-      "id": "2266"
-    },
-    {
-      "site": "livechart",
-      "id": "2730"
-    },
-    {
-      "site": "livechart",
-      "id": "4349"
-    },
-    {
-      "site": "livechart",
-      "id": "4863"
-    },
-    {
-      "site": "livechart",
-      "id": "4942"
-    },
-    {
-      "site": "livechart",
-      "id": "5148"
-    },
-    {
-      "site": "livechart",
-      "id": "5473"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1096"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1288"
-    },
-    {
-      "site": "myanimelist",
-      "id": "33741"
-    },
-    {
-      "site": "notify",
-      "id": "GdYxcFmiR"
-    },
-    {
-      "site": "notify",
-      "id": "q1azhKmmR"
-    },
-    {
-      "site": "notify",
-      "id": "ubXJ5Fmmg"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 1989,
-    "month": "07"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/75916.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/75916t.jpg",
+    "synonyms": [
+      "Doručovací služba slečny Kiki",
+      "Doručovací služba čarodějky Kiki",
+      "Kiki - A boszorkányfutár",
+      "Kiki - Consegne a domicilio",
+      "Kiki Entregas a Domicilio",
+      "Kiki consegne a domicilio",
+      "Kiki den lille heks",
+      "Kiki kullerteenus",
+      "Kiki la petite sorcière",
+      "Kiki's Delivery Service",
+      "Kiki, Entregas a Domicilio",
+      "Kiki: A Aprendiz de Feiticeira",
+      "Kiki: Consegne a domicilio",
+      "Kiki`s Delivery Service",
+      "Kiki`s Vliegende Koeriersdienst",
+      "Kikin Lähettipalvelu",
+      "Kikin lähettipalvelu",
+      "Kikis Expressbud",
+      "Kikis budservice",
+      "Kikis expressbud",
+      "Kikis kleiner Lieferservice",
+      "Kiki’s Delivery Service",
+      "Kikės siuntų tarnyba",
+      "Küçük Cadı Kiki",
+      "Majo no Takkyūbin",
+      "Majotaku",
+      "Nicky, la Aprendiz de Bruja",
+      "Nicky, la aprendiz de bruja",
+      "O Serviço de Entregas da Kiki",
+      "Podniebna poczta Kiki",
+      "Witch's Express Delivery",
+      "Witch`s Delivery Service",
+      "kiki",
+      "majotaku",
+      "Κίκι: Η Μικρή Μαγισσούλα",
+      "Ведьмина служба доставки",
+      "Відьомська пошта",
+      "Служба доставки Кікі",
+      "Службата За Доставки На Кики",
+      "שרות המשלוחים של קיקי",
+      "خدمة توصيل كيكي",
+      "سرویس تحویل کیکی",
+      "كيكي لخدمة التوصيل",
+      "แม่มดน้อยกิกิ",
+      "まじょのたっきゅうびん",
+      "魔女の宅急便",
+      "魔女宅",
+      "魔女宅急便"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/5/74786.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/5/74786t.jpg",
-  "synonyms": [
-    "Kidou Keisatsu Patlabor",
-    "Kidou Keisatsu Patlabor Gekijouban",
-    "Kidou Keisatsu Patlabor: The Movie",
-    "Kidō Keisatsu Patlabor Gekijōban",
-    "Mobile Police Patlabor 1: Der Film",
-    "Mobile Police Patlabor: The Movie",
-    "Patlabor",
-    "Patlabor - Mobile Police",
-    "Patlabor - The Movie",
-    "Patlabor 1",
-    "Patlabor 1: The Movie",
-    "Patlabor Movie 1",
-    "Patlabor the Movie",
-    "Patlabor: Der Film",
-    "Patlabor: Film 1",
-    "Patlabor: La Película",
-    "Patlabor: La película",
-    "Patlabor: Le Film",
-    "Patlabor: The Mobile Police",
-    "Patlabor: The Movie",
-    "Patlaborai",
-    "Полиция будущего",
-    "פאטלייבור: הסרט ה-1",
-    "機動警察パトレイバー PATLABOR THE MOBILE POLICE",
-    "機動警察パトレイバー the Movie",
-    "機動警察パトレイバー 劇場版"
-  ]
-}
+  {
+    "title": "機動警察パトレイバー the Movie",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动警察 东京毁灭战"
+      ],
+      "zh-Hant": [
+        "機動警察 劇場版 1"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-07-15T16:00:00.000Z",
+    "end": "1989-07-15T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9979"
+      },
+      {
+        "site": "nicovideo",
+        "id": "PATLABOR_01",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "4016",
+        "begin": "1989-07-14T16:00:01.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "38221",
+        "begin": "2020-08-06T06:35:00.000Z",
+        "broadcast": "R/2020-08-06T06:35:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1518"
+      },
+      {
+        "site": "anidb",
+        "id": "395"
+      },
+      {
+        "site": "anidb",
+        "id": "537"
+      },
+      {
+        "site": "anilist",
+        "id": "1288"
+      },
+      {
+        "site": "anilist",
+        "id": "1290"
+      },
+      {
+        "site": "anilist",
+        "id": "2733"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-police-patlabor-minimum-minipato"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-police-patlabor-reboot"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-sd-gundam-no-gyakushuu-sd-sengokuden-abaowakuujou-no-shou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "patlabor-2-the-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "patlabor-the-mobile-police"
+      },
+      {
+        "site": "anime-planet",
+        "id": "patlabor-the-mobile-police-new-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "patlabor-the-mobile-police-tv"
+      },
+      {
+        "site": "anime-planet",
+        "id": "patlabor-wxiii"
+      },
+      {
+        "site": "anisearch",
+        "id": "2835"
+      },
+      {
+        "site": "anisearch",
+        "id": "3128"
+      },
+      {
+        "site": "kitsu",
+        "id": "1162"
+      },
+      {
+        "site": "kitsu",
+        "id": "12470"
+      },
+      {
+        "site": "kitsu",
+        "id": "981"
+      },
+      {
+        "site": "livechart",
+        "id": "2266"
+      },
+      {
+        "site": "livechart",
+        "id": "2730"
+      },
+      {
+        "site": "livechart",
+        "id": "4349"
+      },
+      {
+        "site": "livechart",
+        "id": "4863"
+      },
+      {
+        "site": "livechart",
+        "id": "4942"
+      },
+      {
+        "site": "livechart",
+        "id": "5148"
+      },
+      {
+        "site": "livechart",
+        "id": "5473"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1096"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1288"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33741"
+      },
+      {
+        "site": "notify",
+        "id": "GdYxcFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "q1azhKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "ubXJ5Fmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1989,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/74786.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/74786t.jpg",
+    "synonyms": [
+      "Kidou Keisatsu Patlabor",
+      "Kidou Keisatsu Patlabor Gekijouban",
+      "Kidou Keisatsu Patlabor: The Movie",
+      "Kidō Keisatsu Patlabor Gekijōban",
+      "Mobile Police Patlabor 1: Der Film",
+      "Mobile Police Patlabor: The Movie",
+      "Patlabor",
+      "Patlabor - Mobile Police",
+      "Patlabor - The Movie",
+      "Patlabor 1",
+      "Patlabor 1: The Movie",
+      "Patlabor Movie 1",
+      "Patlabor the Movie",
+      "Patlabor: Der Film",
+      "Patlabor: Film 1",
+      "Patlabor: La Película",
+      "Patlabor: La película",
+      "Patlabor: Le Film",
+      "Patlabor: The Mobile Police",
+      "Patlabor: The Movie",
+      "Patlaborai",
+      "Полиция будущего",
+      "פאטלייבור: הסרט ה-1",
+      "機動警察パトレイバー PATLABOR THE MOBILE POLICE",
+      "機動警察パトレイバー the Movie",
+      "機動警察パトレイバー 劇場版"
+    ]
+  }
+]

@@ -1,52 +1,820 @@
-{
-  "title": "虫籠のカガステル",
-  "titleTranslate": {
-    "zh-Hans": [
-      "虫笼的卡伽斯特尔"
+[
+  {
+    "title": "ヒーリングっど♥プリキュア",
+    "titleTranslate": {
+      "en": [
+        "Healin' Good♥Precure"
+      ],
+      "zh-Hans": [
+        "Healin' Good ♥ 光之美少女",
+        "元气魔法♥光之美少女",
+        "完美治愈 光之美少女",
+        "治Q",
+        "奶Q",
+        "治愈Q娃"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/tv/healingood_precure/",
+    "begin": "2020-02-01T23:30:00.000Z",
+    "end": "2021-02-21T00:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "297094"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhx03kt",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "1413"
+      },
+      {
+        "site": "anidb",
+        "id": "15204"
+      },
+      {
+        "site": "anidb",
+        "id": "15633"
+      },
+      {
+        "site": "anilist",
+        "id": "100661"
+      },
+      {
+        "site": "anilist",
+        "id": "105857"
+      },
+      {
+        "site": "anilist",
+        "id": "112612"
+      },
+      {
+        "site": "anilist",
+        "id": "121026"
+      },
+      {
+        "site": "anilist",
+        "id": "12191"
+      },
+      {
+        "site": "anilist",
+        "id": "126905"
+      },
+      {
+        "site": "anilist",
+        "id": "135864"
+      },
+      {
+        "site": "anilist",
+        "id": "142080"
+      },
+      {
+        "site": "anilist",
+        "id": "1534"
+      },
+      {
+        "site": "anilist",
+        "id": "154678"
+      },
+      {
+        "site": "anilist",
+        "id": "157883"
+      },
+      {
+        "site": "anilist",
+        "id": "159429"
+      },
+      {
+        "site": "anilist",
+        "id": "16419"
+      },
+      {
+        "site": "anilist",
+        "id": "1932"
+      },
+      {
+        "site": "anilist",
+        "id": "20577"
+      },
+      {
+        "site": "anilist",
+        "id": "21001"
+      },
+      {
+        "site": "anilist",
+        "id": "21506"
+      },
+      {
+        "site": "anilist",
+        "id": "5684"
+      },
+      {
+        "site": "anilist",
+        "id": "603"
+      },
+      {
+        "site": "anilist",
+        "id": "7645"
+      },
+      {
+        "site": "anilist",
+        "id": "98059"
+      },
+      {
+        "site": "anilist",
+        "id": "9893"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dokidoki-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fresh-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "go-princess-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "happiness-charge-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "healin-good-pretty-cure-movie-yume-no-machi-de-kyun-tto-gogo-daihenshin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "heartcatch-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hugtto-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kirakira-pretty-cure-a-la-mode"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mahou-tsukai-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-max-heart"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-miracle-leap-movie-minna-to-fushigi-na-1-nichi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-splash-star"
+      },
+      {
+        "site": "anime-planet",
+        "id": "smile-precure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "star-twinkle-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "suite-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tropical-rouge-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yes-pretty-cure-5"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yes-pretty-cure-5-gogo"
+      },
+      {
+        "site": "anisearch",
+        "id": "15427"
+      },
+      {
+        "site": "anisearch",
+        "id": "16001"
+      },
+      {
+        "site": "anisearch",
+        "id": "18342"
+      },
+      {
+        "site": "anisearch",
+        "id": "2594"
+      },
+      {
+        "site": "kitsu",
+        "id": "10034"
+      },
+      {
+        "site": "kitsu",
+        "id": "12927"
+      },
+      {
+        "site": "kitsu",
+        "id": "13972"
+      },
+      {
+        "site": "kitsu",
+        "id": "42019"
+      },
+      {
+        "site": "kitsu",
+        "id": "44929"
+      },
+      {
+        "site": "kitsu",
+        "id": "46783"
+      },
+      {
+        "site": "kitsu",
+        "id": "5927"
+      },
+      {
+        "site": "kitsu",
+        "id": "6687"
+      },
+      {
+        "site": "kitsu",
+        "id": "8269"
+      },
+      {
+        "site": "livechart",
+        "id": "10063"
+      },
+      {
+        "site": "livechart",
+        "id": "9647"
+      },
+      {
+        "site": "myanimelist",
+        "id": "12191"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1534"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1929"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1932"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21407"
+      },
+      {
+        "site": "myanimelist",
+        "id": "28669"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31884"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34290"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36593"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38578"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40587"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42422"
+      },
+      {
+        "site": "myanimelist",
+        "id": "44191"
+      },
+      {
+        "site": "myanimelist",
+        "id": "50281"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53716"
+      },
+      {
+        "site": "myanimelist",
+        "id": "603"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9893"
+      },
+      {
+        "site": "notify",
+        "id": "3TDHtFimR"
+      },
+      {
+        "site": "notify",
+        "id": "GJjFDTPmg"
+      },
+      {
+        "site": "notify",
+        "id": "Gb-opKiig"
+      },
+      {
+        "site": "notify",
+        "id": "SG9MtKiig"
+      },
+      {
+        "site": "notify",
+        "id": "TrDU4H0nR"
+      },
+      {
+        "site": "notify",
+        "id": "fVOCkIAGR"
+      },
+      {
+        "site": "notify",
+        "id": "hgrEtFimg"
+      },
+      {
+        "site": "notify",
+        "id": "re0WhFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "tEoqN0hVg"
+      },
+      {
+        "site": "notify",
+        "id": "uszHhFimR"
+      },
+      {
+        "site": "notify",
+        "id": "uuzRrkhMR"
+      }
     ],
-    "zh-Hant": [
-      "蟲籠的卡伽斯特爾"
-    ],
-    "en": [
-      "Cagaster of an Insect Cage"
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2020,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 45,
+    "picture": "https://cdn.myanimelist.net/images/anime/1401/105084.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1401/105084t.jpg",
+    "synonyms": [
+      "Healin' Good Pretty Cure",
+      "Healin' Good ♡ Precure",
+      "Healin' Good♥Precure",
+      "Healin` Good Precure",
+      "Healin` Good Pretty Cure",
+      "Healin` Good ♥ 光之美少女",
+      "Healin` Good♥Precure",
+      "Healin’ Good Precure",
+      "Healin’ Good Pretty Cure",
+      "Pretty Cure Season 17",
+      "healing good",
+      "healpre",
+      "hgpc",
+      "precure17",
+      "ひーりんぐっどぷりきゅあ",
+      "ヒーリングっど♡プリキュア",
+      "ヒーリングっど♥プリキュア"
     ]
   },
-  "type": "web",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "2020-02-05T16:00:00.000Z",
-  "end": "2020-02-05T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "266224"
+  {
+    "title": "ゴブリンスレイヤー GOBLIN’S CROWN",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哥布林杀手：哥布林的王冠"
+      ],
+      "zh-Hant": [
+        "哥布林殺手 -GOBLIN’S CROWN-"
+      ]
     },
-    {
-      "site": "netflix",
-      "id": "80224581",
-      "begin": "2020-02-05T16:00:00.000Z",
-      "broadcast": "R/2020-02-05T16:00:00.000Z/P7D"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 2020,
-    "month": "02"
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.goblinslayer.jp/",
+    "begin": "2020-02-01T16:00:00.000Z",
+    "end": "2020-02-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "278661"
+      },
+      {
+        "site": "nicovideo",
+        "id": "goblins-crown",
+        "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "104689",
+        "begin": "2020-07-30T03:00:00.000Z",
+        "broadcast": "R/2020-07-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "13831"
+      },
+      {
+        "site": "anidb",
+        "id": "16027"
+      },
+      {
+        "site": "anilist",
+        "id": "101165"
+      },
+      {
+        "site": "anilist",
+        "id": "129188"
+      },
+      {
+        "site": "anime-planet",
+        "id": "goblin-slayer"
+      },
+      {
+        "site": "anime-planet",
+        "id": "goblin-slayer-ii"
+      },
+      {
+        "site": "anisearch",
+        "id": "13356"
+      },
+      {
+        "site": "anisearch",
+        "id": "15928"
+      },
+      {
+        "site": "kitsu",
+        "id": "40597"
+      },
+      {
+        "site": "kitsu",
+        "id": "44010"
+      },
+      {
+        "site": "livechart",
+        "id": "10385"
+      },
+      {
+        "site": "livechart",
+        "id": "3109"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37349"
+      },
+      {
+        "site": "myanimelist",
+        "id": "47160"
+      },
+      {
+        "site": "notify",
+        "id": "6WcD2FiiR"
+      },
+      {
+        "site": "notify",
+        "id": "PlKZ_hLMR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2020,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1699/110724.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1699/110724t.jpg",
+    "synonyms": [
+      "GOBLIN SLAYER -GOBLIN'S CROWN-",
+      "GOBLIN SLAYER -GOBLIN’S CROWN-",
+      "Goblin Slayer : Goblin's Crown",
+      "Goblin Slayer : Goblin’s Crown",
+      "Goblin Slayer The Movie: Goblin's Crown",
+      "Goblin Slayer: GOBLIN'S CROWN",
+      "Goblin Slayer: Goblin`s Crown",
+      "Goblin Slayer: Goblin’s Crown",
+      "Goblin Slayer: La Corona del Goblin",
+      "gobusure movie",
+      "Убийца гоблинов Фильм",
+      "ゴブリンスレイヤー -GOBLIN'S CROWN-",
+      "ゴブリンスレイヤー -GOBLIN`S CROWN-",
+      "ゴブリンスレイヤー GOBLIN`S CROWN",
+      "ゴブリンスレイヤー GOBLIN’S CROWN",
+      "哥布林杀手：哥布林的王冠",
+      "고블린 슬레이어: GOBLIN`S CROWN"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 12,
-  "picture": "https://cdn.myanimelist.net/images/anime/1842/105458.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1842/105458t.jpg",
-  "synonyms": [
-    "Cagaster of an Insect Cage",
-    "Insect Cage",
-    "Кагастер. Убийца насекомых",
-    "קגאסטר – קופת שרצים",
-    "التحول المدمر",
-    "虫笼的卡伽斯特尔",
-    "虫籠のカガステル",
-    "蟲籠的卡伽斯特爾",
-    "가가스테루의 습격"
-  ]
-}
+  {
+    "title": "劇場版 SHIROBAKO",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 白箱"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://shirobako-movie.com/",
+    "begin": "2020-02-29T16:00:00.000Z",
+    "end": "2020-02-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "244761"
+      },
+      {
+        "site": "nicovideo",
+        "id": "movie-shirobako",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "10779"
+      },
+      {
+        "site": "anilist",
+        "id": "20812"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shirobako"
+      },
+      {
+        "site": "anisearch",
+        "id": "9778"
+      },
+      {
+        "site": "kitsu",
+        "id": "8698"
+      },
+      {
+        "site": "livechart",
+        "id": "1272"
+      },
+      {
+        "site": "livechart",
+        "id": "1273"
+      },
+      {
+        "site": "livechart",
+        "id": "765"
+      },
+      {
+        "site": "myanimelist",
+        "id": "25835"
+      },
+      {
+        "site": "myanimelist",
+        "id": "49560"
+      },
+      {
+        "site": "notify",
+        "id": "jlx1pFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2020,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1328/111351.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1328/111351t.jpg",
+    "synonyms": [
+      "Gekijou Shirobako",
+      "Gekijouban Shirobako",
+      "Gekijōban Shirobako",
+      "SHIROBAKO Movie",
+      "SHIROBAKO the Movie",
+      "Shirobako the Movie",
+      "Shirobako: The Movie",
+      "White Box Movie",
+      "劇場 SHIROBAKO",
+      "劇場版 SHIROBAKO",
+      "劇場版SHIROBAKO",
+      "劇場版シロバコ",
+      "白箱 剧场版",
+      "극장판 SHIROBAKO"
+    ]
+  },
+  {
+    "title": "世界一初恋～プロポーズ編～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "世界第一初恋～求婚篇～"
+      ],
+      "zh-Hant": [
+        "世界一初戀 ～求婚編～",
+        "世界一初戀～求婚編～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://sekai-ichi.jp/",
+    "begin": "2020-02-21T16:00:00.000Z",
+    "end": "2020-02-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "289601"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sekai-ichi",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjM24pCe0eOaMBcDsq-frmr",
+        "begin": "2020-08-11T16:00:00.000Z",
+        "broadcast": "R/2020-08-11T16:00:00.000Z/P0D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSphYFQlWGdeWJpcbNuh3Mb",
+        "begin": "2022-07-24T16:00:00.000Z",
+        "broadcast": "R/2022-07-24T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "110026",
+        "begin": "2020-08-15T12:00:00.000Z",
+        "broadcast": "R/2020-08-15T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "9950"
+      },
+      {
+        "site": "anilist",
+        "id": "11123"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sekai-ichi-hatsukoi-valentine-hen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sekai-ichi-hatsukoi-worlds-greatest-first-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sekai-ichi-hatsukoi-worlds-greatest-first-love-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sekai-ichi-hatsukoi-worlds-greatest-first-love-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sekai-ichi-hatsukoi-yokozawa-takafumi-no-baai"
+      },
+      {
+        "site": "anisearch",
+        "id": "7212"
+      },
+      {
+        "site": "kitsu",
+        "id": "6464"
+      },
+      {
+        "site": "livechart",
+        "id": "1201"
+      },
+      {
+        "site": "livechart",
+        "id": "1546"
+      },
+      {
+        "site": "livechart",
+        "id": "267"
+      },
+      {
+        "site": "livechart",
+        "id": "268"
+      },
+      {
+        "site": "livechart",
+        "id": "4620"
+      },
+      {
+        "site": "myanimelist",
+        "id": "11123"
+      },
+      {
+        "site": "notify",
+        "id": "isNIpFiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2020,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1896/102829.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1896/102829t.jpg",
+    "synonyms": [
+      "Sekai Ichi Hatsukoi - Episode: Proposal",
+      "Sekai'ichi Hatsukoi 2: Propose Hen",
+      "Sekai-ichi Hatsukoi : La Demande en mariage",
+      "Sekai-ichi Hatsukoi: Propose-hen",
+      "Sekai-ichi Hatsukoi: World's Greatest First Love - Proposal-hen",
+      "Sekaiichi Hatsukoi: Proposal Hen",
+      "Sekaiichi Hatsukoi: Proposal-hen",
+      "Sekai’ichi Hatsukoi 2: Proposal-hen",
+      "Sekaīchi Hatsukoi: Proposal-hen",
+      "The World's Greatest First Love: Proposal Arc",
+      "The World’s Greatest First Love: Proposal Arc",
+      "世界一初恋~プロポーズ編~",
+      "世界一初恋～プロポーズ編～"
+    ]
+  },
+  {
+    "title": "虫籠のカガステル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "虫笼的卡伽斯特尔"
+      ],
+      "zh-Hant": [
+        "蟲籠的卡伽斯特爾"
+      ],
+      "en": [
+        "Cagaster of an Insect Cage"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2020-02-05T16:00:00.000Z",
+    "end": "2020-02-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "266224"
+      },
+      {
+        "site": "netflix",
+        "id": "80224581",
+        "begin": "2020-02-05T16:00:00.000Z",
+        "broadcast": "R/2020-02-05T16:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2020,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1842/105458.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1842/105458t.jpg",
+    "synonyms": [
+      "Cagaster of an Insect Cage",
+      "Insect Cage",
+      "Кагастер. Убийца насекомых",
+      "קגאסטר – קופת שרצים",
+      "التحول المدمر",
+      "虫笼的卡伽斯特尔",
+      "虫籠のカガステル",
+      "蟲籠的卡伽斯特爾",
+      "가가스테루의 습격"
+    ]
+  }
+]

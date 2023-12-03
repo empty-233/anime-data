@@ -1,154 +1,524 @@
-{
-  "title": "Di Gi Charat 夏休みスペシャル",
-  "titleTranslate": {
-    "zh-Hans": [
-      "Di Gi Charat 暑假特别篇",
-      "铃铛猫娘 暑假特别篇"
+[
+  {
+    "title": "ルパン三世 アルカトラズコネクション",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世 通往恶魔岛"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://lupin-3rd.net/sakuhin_tvsp.html",
+    "begin": "2001-08-03T16:00:00.000Z",
+    "end": "2001-08-03T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "84989"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lupin-3rd-SP",
+        "begin": ""
+      },
+      {
+        "site": "pptv",
+        "id": "ibZ32dNxCsvBT0Tk",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3949",
+        "begin": "2001-08-02T16:00:01.000Z",
+        "broadcast": "R/2021-03-31T14:17:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1485"
+      },
+      {
+        "site": "anilist",
+        "id": "1412"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-iii-special-19-the-elusiveness-of-the-fog"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-dead-or-alive"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-dragon-of-doom"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-farewall-to-nostradamus"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-goemons-blood-spray"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-green-vs-red"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-jigens-gravestone"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-legend-of-the-gold-of-babylon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-lupin-family-all-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-4"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-pilot-film"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-return-of-pycal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-secret-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-1-bye-bye-lady-liberty"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-11-the-columbus-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-12-missed-by-a-dollar"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-14-episode-0-first-contact"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-15-operation-return-the-treasures"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-16-stolen-lupin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-17-angel-tactics"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-18-seven-days-rhapsody"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-2-the-hemingway-papers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-20-sweet-lost-night"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-21-lupin-the-third-vs-detective-conan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-22-the-last-job"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-23-blood-seal-of-the-eternal-mermaid"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-24-touhou-kenbunroku-another-page"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-25-princess-of-the-breeze-kakusareta-kuuchuu-toshi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-26-italian-game"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-27-goodbye-partner"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-3-napoleons-dictionary"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-4-from-siberia-with-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-5-voyage-to-danger"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-8-secret-of-the-twilight-gemini"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-9-island-of-assassins"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-speical-10-crisis-in-tokyo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-castle-of-cagliostro"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-first"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-fuma-conspiracy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-mystery-of-mamo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-woman-called-fujiko-mine"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-pursuit-of-harimaos-treasure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-viii-arsene-and-cie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "monkey-majik-lupin-the-third"
+      },
+      {
+        "site": "anisearch",
+        "id": "1138"
+      },
+      {
+        "site": "kitsu",
+        "id": "1265"
+      },
+      {
+        "site": "livechart",
+        "id": "11512"
+      },
+      {
+        "site": "livechart",
+        "id": "12098"
+      },
+      {
+        "site": "livechart",
+        "id": "12099"
+      },
+      {
+        "site": "livechart",
+        "id": "4165"
+      },
+      {
+        "site": "livechart",
+        "id": "4320"
+      },
+      {
+        "site": "livechart",
+        "id": "5905"
+      },
+      {
+        "site": "livechart",
+        "id": "6281"
+      },
+      {
+        "site": "livechart",
+        "id": "6402"
+      },
+      {
+        "site": "livechart",
+        "id": "6731"
+      },
+      {
+        "site": "livechart",
+        "id": "7324"
+      },
+      {
+        "site": "livechart",
+        "id": "7545"
+      },
+      {
+        "site": "livechart",
+        "id": "7552"
+      },
+      {
+        "site": "livechart",
+        "id": "8223"
+      },
+      {
+        "site": "livechart",
+        "id": "9298"
+      },
+      {
+        "site": "livechart",
+        "id": "9350"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1412"
+      },
+      {
+        "site": "notify",
+        "id": "Dnk-5Fmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2001,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1899/134187.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1899/134187t.jpg",
+    "synonyms": [
+      "Lupin III Special 13: Alcatraz Connection",
+      "Lupin III: Fuga da Alcatraz",
+      "Lupin Sansei Special 13",
+      "Lupin Sansei: Alcatraz Connection",
+      "Lupin the 3rd: Alcatraz Connection",
+      "Lupin the Third: Alcatraz Connection",
+      "Rupan Sansei: Alcatraz Connection",
+      "Люпен Трети: Връзка Алкатраз",
+      "ルパン三世 アルカトラズコネクション",
+      "ルパン三世 アルカトラズ・コネクション",
+      "ルパン三世『アルカトラズコネクション』",
+      "鲁邦三世 通往恶魔岛"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "http://www.broccoli.co.jp/dejiko/",
-  "begin": "2001-08-01T16:00:00.000Z",
-  "end": "2001-08-02T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "205299"
+  {
+    "title": "いのちの地球 ダイオキシンの夏",
+    "titleTranslate": {
+      "zh-Hans": [
+        "赛贝索侦探队"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "132052",
-      "begin": "2018-09-08T06:50:00.000Z",
-      "broadcast": "R/2018-09-08T06:50:00.000Z/P7D"
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://c-you.jp/daiokishin/",
+    "begin": "2001-08-18T16:00:00.000Z",
+    "end": "2001-08-18T17:25:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37529"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2001,
+      "month": "08"
     },
-    {
-      "site": "anilist",
-      "id": "1752"
-    },
-    {
-      "site": "anilist",
-      "id": "1755"
-    },
-    {
-      "site": "anime-planet",
-      "id": "di-gi-charat"
-    },
-    {
-      "site": "anime-planet",
-      "id": "di-gi-charat-christmas-special"
-    },
-    {
-      "site": "anime-planet",
-      "id": "di-gi-charat-movie-a-trip-to-the-planet"
-    },
-    {
-      "site": "anime-planet",
-      "id": "di-gi-charat-nyo"
-    },
-    {
-      "site": "anime-planet",
-      "id": "di-gi-charat-ohanami-special"
-    },
-    {
-      "site": "anime-planet",
-      "id": "di-gi-charat-rocket-from-a-mouth"
-    },
-    {
-      "site": "anime-planet",
-      "id": "di-gi-charat-summer-special-2000"
-    },
-    {
-      "site": "anime-planet",
-      "id": "di-gi-charat-tsuyu-specials"
-    },
-    {
-      "site": "anime-planet",
-      "id": "di-gi-charat-winter-garden"
-    },
-    {
-      "site": "anime-planet",
-      "id": "leave-it-to-piyoko"
-    },
-    {
-      "site": "anime-planet",
-      "id": "panyo-panyo-di-gi-charat"
-    },
-    {
-      "site": "anisearch",
-      "id": "3272"
-    },
-    {
-      "site": "kitsu",
-      "id": "1575"
-    },
-    {
-      "site": "livechart",
-      "id": "10641"
-    },
-    {
-      "site": "livechart",
-      "id": "6074"
-    },
-    {
-      "site": "livechart",
-      "id": "6920"
-    },
-    {
-      "site": "livechart",
-      "id": "7390"
-    },
-    {
-      "site": "livechart",
-      "id": "7460"
-    },
-    {
-      "site": "livechart",
-      "id": "7523"
-    },
-    {
-      "site": "livechart",
-      "id": "7596"
-    },
-    {
-      "site": "livechart",
-      "id": "7771"
-    },
-    {
-      "site": "livechart",
-      "id": "8162"
-    },
-    {
-      "site": "livechart",
-      "id": "8420"
-    },
-    {
-      "site": "livechart",
-      "id": "8778"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1755"
-    },
-    {
-      "site": "notify",
-      "id": "mX5BcFmmR"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 2001,
-    "month": "08"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/26263.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/26263t.jpg",
+    "synonyms": [
+      "Dioxin Summer",
+      "Inochi no Chikyū: Dioxin no Natsu",
+      "The Summer of Dioxin",
+      "Tracing the Gray Summer",
+      "Диоксиновое лето",
+      "いのちの地球 ダイオキシンの夏",
+      "賽貝索偵探隊",
+      "赛贝索侦探队"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 4,
-  "picture": "https://cdn.myanimelist.net/images/anime/2/28182.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/2/28182t.jpg",
-  "synonyms": [
-    "Di Gi Charat Summer Break",
-    "Di Gi Charat 夏休みスペシャル",
-    "Di Gi Charat: Summer Vacation Specials",
-    "DiGi Charat Natsuyasumi Special",
-    "デ・ジ・キャラット なつやすみスペシャル"
-  ]
-}
+  {
+    "title": "Di Gi Charat 夏休みスペシャル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Di Gi Charat 暑假特别篇",
+        "铃铛猫娘 暑假特别篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.broccoli.co.jp/dejiko/",
+    "begin": "2001-08-01T16:00:00.000Z",
+    "end": "2001-08-02T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "205299"
+      },
+      {
+        "site": "bilibili",
+        "id": "132052",
+        "begin": "2018-09-08T06:50:00.000Z",
+        "broadcast": "R/2018-09-08T06:50:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "1752"
+      },
+      {
+        "site": "anilist",
+        "id": "1755"
+      },
+      {
+        "site": "anime-planet",
+        "id": "di-gi-charat"
+      },
+      {
+        "site": "anime-planet",
+        "id": "di-gi-charat-christmas-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "di-gi-charat-movie-a-trip-to-the-planet"
+      },
+      {
+        "site": "anime-planet",
+        "id": "di-gi-charat-nyo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "di-gi-charat-ohanami-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "di-gi-charat-rocket-from-a-mouth"
+      },
+      {
+        "site": "anime-planet",
+        "id": "di-gi-charat-summer-special-2000"
+      },
+      {
+        "site": "anime-planet",
+        "id": "di-gi-charat-tsuyu-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "di-gi-charat-winter-garden"
+      },
+      {
+        "site": "anime-planet",
+        "id": "leave-it-to-piyoko"
+      },
+      {
+        "site": "anime-planet",
+        "id": "panyo-panyo-di-gi-charat"
+      },
+      {
+        "site": "anisearch",
+        "id": "3272"
+      },
+      {
+        "site": "kitsu",
+        "id": "1575"
+      },
+      {
+        "site": "livechart",
+        "id": "10641"
+      },
+      {
+        "site": "livechart",
+        "id": "6074"
+      },
+      {
+        "site": "livechart",
+        "id": "6920"
+      },
+      {
+        "site": "livechart",
+        "id": "7390"
+      },
+      {
+        "site": "livechart",
+        "id": "7460"
+      },
+      {
+        "site": "livechart",
+        "id": "7523"
+      },
+      {
+        "site": "livechart",
+        "id": "7596"
+      },
+      {
+        "site": "livechart",
+        "id": "7771"
+      },
+      {
+        "site": "livechart",
+        "id": "8162"
+      },
+      {
+        "site": "livechart",
+        "id": "8420"
+      },
+      {
+        "site": "livechart",
+        "id": "8778"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1755"
+      },
+      {
+        "site": "notify",
+        "id": "mX5BcFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2001,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/28182.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/28182t.jpg",
+    "synonyms": [
+      "Di Gi Charat Summer Break",
+      "Di Gi Charat 夏休みスペシャル",
+      "Di Gi Charat: Summer Vacation Specials",
+      "DiGi Charat Natsuyasumi Special",
+      "デ・ジ・キャラット なつやすみスペシャル"
+    ]
+  }
+]

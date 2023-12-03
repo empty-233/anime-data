@@ -1,89 +1,399 @@
-{
-  "title": "銀河疾風サスライガー",
-  "titleTranslate": {
-    "zh-Hans": [
-      "银河疾风流离我",
-      "银河疾风"
+[
+  {
+    "title": "装甲騎兵ボトムズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "装甲骑兵VOTOMS"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.votoms.net/",
+    "begin": "1983-04-01T16:00:00.000Z",
+    "end": "1984-03-23T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "v496ibGDGNnTXVb0",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "4/4q1eibx0we47yhk",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "10379"
+      },
+      {
+        "site": "bilibili",
+        "id": "2436",
+        "begin": "1983-03-31T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "kitsu",
+        "id": "2347"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2582"
+      },
+      {
+        "site": "notify",
+        "id": "V1Ny5KmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1986,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/34941.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/34941t.jpg",
+    "synonyms": [
+      "Armored Trooper Votoms Recaps",
+      "Soukou Kihei Votoms: Kummen-hen",
+      "Soukou Kihei Votoms: Quaint-hen",
+      "Soukou Kihei Votoms: Sansa-hen",
+      "Soukou Kihei Votoms: Woodo-hen",
+      "そうこうきへいぼとむず",
+      "装甲騎兵ボトムズ"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1983-10-02T16:00:00.000Z",
-  "end": "1984-01-30T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "37198"
+  {
+    "title": "パーマン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小超人帕门"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "2434",
-      "begin": "2014-06-21T11:12:00.000Z",
-      "broadcast": "R/2014-06-21T11:12:00.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1983-04-04T16:00:00.000Z",
+    "end": "1985-07-02T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhayfzx",
+        "begin": "2015-04-22T07:00:06.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "53755"
+      },
+      {
+        "site": "anidb",
+        "id": "3205"
+      },
+      {
+        "site": "anidb",
+        "id": "3206"
+      },
+      {
+        "site": "anidb",
+        "id": "4742"
+      },
+      {
+        "site": "anidb",
+        "id": "9027"
+      },
+      {
+        "site": "anilist",
+        "id": "6303"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-tokimeki-solar-kurumaniyon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ninja-hattori-kun-plus-perman-chounouryoku-wars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ninja-hattori-kun-plus-perman-ninja-kaijuu-jippou-tai-miracle-tamago"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pa-pa-pa-the-movie-perman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pa-pa-pa-the-movie-perman-tako-de-pon-ashi-wa-pon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "perman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "perman-1983-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "perman-birdman-ga-yatte-kita"
+      },
+      {
+        "site": "anisearch",
+        "id": "16735"
+      },
+      {
+        "site": "anisearch",
+        "id": "1894"
+      },
+      {
+        "site": "anisearch",
+        "id": "2009"
+      },
+      {
+        "site": "kitsu",
+        "id": "10426"
+      },
+      {
+        "site": "kitsu",
+        "id": "10430"
+      },
+      {
+        "site": "kitsu",
+        "id": "10976"
+      },
+      {
+        "site": "kitsu",
+        "id": "4513"
+      },
+      {
+        "site": "myanimelist",
+        "id": "20185"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29235"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29611"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29613"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30646"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6303"
+      },
+      {
+        "site": "notify",
+        "id": "D5Cq5FimR"
+      },
+      {
+        "site": "notify",
+        "id": "U6JUtKimR"
+      },
+      {
+        "site": "notify",
+        "id": "UK9lpKmig"
+      },
+      {
+        "site": "notify",
+        "id": "uTbUtFmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1983,
+      "month": "04"
     },
-    {
-      "site": "anidb",
-      "id": "3116"
-    },
-    {
-      "site": "anilist",
-      "id": "20825"
-    },
-    {
-      "site": "anilist",
-      "id": "4242"
-    },
-    {
-      "site": "anime-planet",
-      "id": "galactic-gale-baxinger"
-    },
-    {
-      "site": "anime-planet",
-      "id": "galaxy-cyclone-braiger"
-    },
-    {
-      "site": "anisearch",
-      "id": "1692"
-    },
-    {
-      "site": "kitsu",
-      "id": "10105"
-    },
-    {
-      "site": "kitsu",
-      "id": "3535"
-    },
-    {
-      "site": "myanimelist",
-      "id": "4242"
-    },
-    {
-      "site": "notify",
-      "id": "Y7JucKiiR"
-    },
-    {
-      "site": "notify",
-      "id": "fMvytKmig"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 1983,
-    "month": "04"
+    "status": "FINISHED",
+    "episodes": 526,
+    "picture": "https://cdn.myanimelist.net/images/anime/1882/134122.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1882/134122t.jpg",
+    "synonyms": [
+      "P-Man",
+      "P-man",
+      "P-man (1983)",
+      "Paa man",
+      "Paa man (1983)",
+      "Paaman",
+      "Paaman (1983)",
+      "Paaman TV 2",
+      "Paaman TV 2 (1983)",
+      "Paman",
+      "Paman (1983)",
+      "Parman (1983)",
+      "Perman",
+      "SUPERKID",
+      "Super Boy Perman",
+      "Super Boy Perman (1983)",
+      "Superkid",
+      "Superkid (1983)",
+      "Superkid eroe bambino",
+      "パーマン",
+      "パーマン (1983)",
+      "パーマン （1983）",
+      "小超人帕门"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 43,
-  "picture": "https://cdn.myanimelist.net/images/anime/1510/134782.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1510/134782t.jpg",
-  "synonyms": [
-    "Galactic Gale Sasuraiger",
-    "Galactic Whirlwind Sasuraiger",
-    "Galaxy Whirlwind Sasuraiger",
-    "Ginga Shippu Sasuraiger",
-    "Ginga Shippū Sasuraiger",
-    "Sasuraiger",
-    "Wonder Six",
-    "銀河疾風サスライガー"
-  ]
-}
+  {
+    "title": "スプーンおばさん",
+    "titleTranslate": {
+      "en": [
+        "Mrs. Pepper Pot"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://pierrot.jp/archives/tv_list_1980/tv_005.html",
+    "begin": "1983-04-04T22:58:00.000Z",
+    "end": "1984-03-09T23:15:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "213669"
+      },
+      {
+        "site": "anilist",
+        "id": "140876"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ringo-no-mori-no-koneko-tachi"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39888"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1983,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 130,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/3531.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/3531t.jpg",
+    "synonyms": [
+      "A Senhora Pimentinha",
+      "Alf Prøysen’s Teskjekjerringa",
+      "Aunt Spoon",
+      "Csip-Csup csodák",
+      "Cudowny talizman",
+      "Eukko Pikkurilli",
+      "Frau Pfeffertopf",
+      "Lo strano mondo di Minù",
+      "Madame Pepperpote",
+      "Mrs. Pepper Pot",
+      "Mrs. Pepperpot",
+      "Old-Lady Spoon",
+      "Pani Łyżeczka",
+      "Spoon Oba-San",
+      "Spoon Oba-san",
+      "Spoon no Oba-san",
+      "Teskedsgumman",
+      "Teskjekjerringa",
+      "Vrouwtje Theelepel",
+      "גברת פלפלת",
+      "السيدة ملعقة",
+      "すぷーんおばさん",
+      "スプーンおばさん"
+    ]
+  },
+  {
+    "title": "銀河疾風サスライガー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河疾风流离我",
+        "银河疾风"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1983-10-02T16:00:00.000Z",
+    "end": "1984-01-30T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37198"
+      },
+      {
+        "site": "bilibili",
+        "id": "2434",
+        "begin": "2014-06-21T11:12:00.000Z",
+        "broadcast": "R/2014-06-21T11:12:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "3116"
+      },
+      {
+        "site": "anilist",
+        "id": "20825"
+      },
+      {
+        "site": "anilist",
+        "id": "4242"
+      },
+      {
+        "site": "anime-planet",
+        "id": "galactic-gale-baxinger"
+      },
+      {
+        "site": "anime-planet",
+        "id": "galaxy-cyclone-braiger"
+      },
+      {
+        "site": "anisearch",
+        "id": "1692"
+      },
+      {
+        "site": "kitsu",
+        "id": "10105"
+      },
+      {
+        "site": "kitsu",
+        "id": "3535"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4242"
+      },
+      {
+        "site": "notify",
+        "id": "Y7JucKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "fMvytKmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1983,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 43,
+    "picture": "https://cdn.myanimelist.net/images/anime/1510/134782.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1510/134782t.jpg",
+    "synonyms": [
+      "Galactic Gale Sasuraiger",
+      "Galactic Whirlwind Sasuraiger",
+      "Galaxy Whirlwind Sasuraiger",
+      "Ginga Shippu Sasuraiger",
+      "Ginga Shippū Sasuraiger",
+      "Sasuraiger",
+      "Wonder Six",
+      "銀河疾風サスライガー"
+    ]
+  }
+]

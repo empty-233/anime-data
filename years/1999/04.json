@@ -1,220 +1,1823 @@
-{
-  "title": "逮捕しちゃうぞ the MOVIE",
-  "titleTranslate": {
-    "zh-Hans": [
-      "逮捕令 剧场版 墨东署最大危机"
+[
+  {
+    "title": "∀ガンダム",
+    "titleTranslate": {
+      "zh-Hans": [
+        "∀高达",
+        "倒A高达"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.turn-a-gundam.net/",
+    "begin": "1999-04-09T07:55:00.000Z",
+    "end": "2000-04-14T08:25:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "SvnEQqoQgL4hnwc",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "q/q22xttucp95iwpb",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3553"
+      },
+      {
+        "site": "anidb",
+        "id": "15506"
+      },
+      {
+        "site": "anidb",
+        "id": "2812"
+      },
+      {
+        "site": "anidb",
+        "id": "2813"
+      },
+      {
+        "site": "anidb",
+        "id": "715"
+      },
+      {
+        "site": "anilist",
+        "id": "3963"
+      },
+      {
+        "site": "anilist",
+        "id": "3964"
+      },
+      {
+        "site": "anilist",
+        "id": "7113"
+      },
+      {
+        "site": "anilist",
+        "id": "80"
+      },
+      {
+        "site": "anime-planet",
+        "id": "30th-gundam-perfect-mission"
+      },
+      {
+        "site": "anime-planet",
+        "id": "after-war-gundam-x"
+      },
+      {
+        "site": "anime-planet",
+        "id": "all-that-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "chou-denei-ban-sd-gundam-sangokuden-brave-battle-warriors"
+      },
+      {
+        "site": "anime-planet",
+        "id": "collection-of-key-animation-films"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gundam-mission-to-the-rise"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-fighter-g-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-00"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-00-second-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-00-special-edition-i-celestial-being"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-00-special-edition-iii-return-the-world"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-00-the-movie-a-wakening-of-the-trailblazer"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-0083-stardust-memory-the-mayfly-of-space"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-0083-the-afterglow-of-zeon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-age"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-age-memory-of-eden"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-evolve"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-iron-blooded-orphans"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-iron-blooded-orphans-2nd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-seed-after-phase-in-the-valley-of-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-seed-destiny"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-special-edition-ii-end-of-the-world"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-wing"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-wing-endless-waltz"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-wing-endless-waltz-special-edition"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-zz-gundam-frag"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-sd-gundam-mk-i"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-sd-gundam-no-gyakushuu-arashi-wo-yobu-gakuensai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mokei-senshi-gunpla-builders-beginning-g"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ring-of-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "turn-a-gundam-i-earth-light"
+      },
+      {
+        "site": "anime-planet",
+        "id": "turn-a-gundam-ii-moonlight-butterfly"
+      },
+      {
+        "site": "anisearch",
+        "id": "3329"
+      },
+      {
+        "site": "anisearch",
+        "id": "758"
+      },
+      {
+        "site": "kitsu",
+        "id": "3381"
+      },
+      {
+        "site": "kitsu",
+        "id": "3382"
+      },
+      {
+        "site": "kitsu",
+        "id": "59"
+      },
+      {
+        "site": "livechart",
+        "id": "3938"
+      },
+      {
+        "site": "livechart",
+        "id": "4607"
+      },
+      {
+        "site": "livechart",
+        "id": "4659"
+      },
+      {
+        "site": "livechart",
+        "id": "4683"
+      },
+      {
+        "site": "livechart",
+        "id": "4695"
+      },
+      {
+        "site": "livechart",
+        "id": "4944"
+      },
+      {
+        "site": "livechart",
+        "id": "5926"
+      },
+      {
+        "site": "livechart",
+        "id": "5947"
+      },
+      {
+        "site": "livechart",
+        "id": "6906"
+      },
+      {
+        "site": "livechart",
+        "id": "6987"
+      },
+      {
+        "site": "livechart",
+        "id": "7514"
+      },
+      {
+        "site": "livechart",
+        "id": "7582"
+      },
+      {
+        "site": "livechart",
+        "id": "7717"
+      },
+      {
+        "site": "livechart",
+        "id": "7848"
+      },
+      {
+        "site": "livechart",
+        "id": "8121"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3963"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3964"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40464"
+      },
+      {
+        "site": "myanimelist",
+        "id": "80"
+      },
+      {
+        "site": "notify",
+        "id": "7iqlcFmig"
+      },
+      {
+        "site": "notify",
+        "id": "Zqj_cKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "aucpcKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1999,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 50,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/78330.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/78330t.jpg",
+    "synonyms": [
+      "Gundam: Turn A Gundam",
+      "Mobile Suit Gundam Turn A",
+      "TaG",
+      "كاندام `بالمقلوب",
+      "∀ Gundam",
+      "∀GUNDAM",
+      "∀GUNDAM CALLED TURN \"A\" GUNDAM",
+      "∀ガンダム",
+      "たーんえーがんだむ",
+      "倒A高达"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1999-04-23T16:00:00.000Z",
-  "end": "1999-04-23T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "41887"
+  {
+    "title": "天使になるもんっ!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天使不设防!"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "3830",
-      "begin": "2016-04-21T06:50:32.000Z",
-      "broadcast": "R/2016-04-21T06:50:32.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://pierrot.jp/archives/tv_list_1995/tv_044.html",
+    "begin": "1999-04-07T09:00:00.000Z",
+    "end": "1999-09-29T09:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "77939"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1999,
+      "month": "04"
     },
-    {
-      "site": "anidb",
-      "id": "438"
-    },
-    {
-      "site": "anilist",
-      "id": "2011"
-    },
-    {
-      "site": "anilist",
-      "id": "2014"
-    },
-    {
-      "site": "anime-planet",
-      "id": "youre-under-arrest"
-    },
-    {
-      "site": "anime-planet",
-      "id": "youre-under-arrest-diverting-traffic-at-the-beach"
-    },
-    {
-      "site": "anime-planet",
-      "id": "youre-under-arrest-fast-furious"
-    },
-    {
-      "site": "anime-planet",
-      "id": "youre-under-arrest-full-throttle"
-    },
-    {
-      "site": "anime-planet",
-      "id": "youre-under-arrest-full-throttle-special"
-    },
-    {
-      "site": "anime-planet",
-      "id": "youre-under-arrest-mini-specials"
-    },
-    {
-      "site": "anime-planet",
-      "id": "youre-under-arrest-no-mercy"
-    },
-    {
-      "site": "anime-planet",
-      "id": "youre-under-arrest-ova"
-    },
-    {
-      "site": "anisearch",
-      "id": "1445"
-    },
-    {
-      "site": "anisearch",
-      "id": "1770"
-    },
-    {
-      "site": "kitsu",
-      "id": "1226"
-    },
-    {
-      "site": "kitsu",
-      "id": "1417"
-    },
-    {
-      "site": "kitsu",
-      "id": "1809"
-    },
-    {
-      "site": "kitsu",
-      "id": "1810"
-    },
-    {
-      "site": "kitsu",
-      "id": "1813"
-    },
-    {
-      "site": "kitsu",
-      "id": "2711"
-    },
-    {
-      "site": "kitsu",
-      "id": "3497"
-    },
-    {
-      "site": "livechart",
-      "id": "5191"
-    },
-    {
-      "site": "livechart",
-      "id": "5694"
-    },
-    {
-      "site": "livechart",
-      "id": "7057"
-    },
-    {
-      "site": "livechart",
-      "id": "7380"
-    },
-    {
-      "site": "livechart",
-      "id": "7570"
-    },
-    {
-      "site": "livechart",
-      "id": "7580"
-    },
-    {
-      "site": "livechart",
-      "id": "7610"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1372"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1577"
-    },
-    {
-      "site": "myanimelist",
-      "id": "2010"
-    },
-    {
-      "site": "myanimelist",
-      "id": "2011"
-    },
-    {
-      "site": "myanimelist",
-      "id": "2014"
-    },
-    {
-      "site": "myanimelist",
-      "id": "3000"
-    },
-    {
-      "site": "myanimelist",
-      "id": "4162"
-    },
-    {
-      "site": "notify",
-      "id": "0FsacFmiR"
-    },
-    {
-      "site": "notify",
-      "id": "HwCb5Fmmg"
-    },
-    {
-      "site": "notify",
-      "id": "Tm5Y5Fmig"
-    },
-    {
-      "site": "notify",
-      "id": "UYFY5KmiR"
-    },
-    {
-      "site": "notify",
-      "id": "XJKLcKiig"
-    },
-    {
-      "site": "notify",
-      "id": "cKKXcFmig"
-    },
-    {
-      "site": "notify",
-      "id": "vHL85Kmmg"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 1999,
-    "month": "04"
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/1671/94180.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1671/94180t.jpg",
+    "synonyms": [
+      "I'm Gonna Be An Angel!",
+      "I'm Gonna Be an Angel!",
+      "I`m Gonna Be An Angel!",
+      "I’m Gonna Be An Angel",
+      "Tenshi ni Narumon",
+      "i`m gonna be an angel",
+      "tennimon",
+      "tnn",
+      "¡Voy a ser un angel!",
+      "天使になるもんっ!",
+      "天使になるもんっ！",
+      "天使不设防!"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1921/92313.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1921/92313t.jpg",
-  "synonyms": [
-    "Sei in arresto! - Il film",
-    "Sei in arresto!: Il film",
-    "Taiho Shichauzo The Movie",
-    "Taiho Shichauzo! The Movie",
-    "Taiho Shichauzo: the MOVIE",
-    "Taihou Shichau zo! The Movie",
-    "YUA Movie",
-    "You're Under Arrest The Movie",
-    "You're Under Arrest! The Motion Picture",
-    "You're Under Arrest! The Movie",
-    "You`re Under Arrest - Le film",
-    "You`re Under Arrest - The Movie",
-    "You`re Under Arrest The Motion Picture",
-    "You`re Under Arrest! The Movie",
-    "You’re Under Arrest : The Movie",
-    "You’re under Arrest: The Motion Picture",
-    "逮捕しちゃうぞ the MOVIE",
-    "逮捕しちゃうぞ the Movie",
-    "逮捕しちゃうぞ　the MOVIE"
-  ]
-}
+  {
+    "title": "星方天使エンジェルリンクス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "星方天使"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.sunrise-inc.co.jp/seihou/",
+    "begin": "1999-04-07T01:00:00.000Z",
+    "end": "1999-06-30T01:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "icE86uCCG9jSXFX0",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "5/5mjbhi1kqh1ytk1",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "30520"
+      },
+      {
+        "site": "anidb",
+        "id": "171"
+      },
+      {
+        "site": "anilist",
+        "id": "400"
+      },
+      {
+        "site": "anime-planet",
+        "id": "angel-links-meifon-no-special-kaisetsu-corner"
+      },
+      {
+        "site": "anime-planet",
+        "id": "outlaw-star"
+      },
+      {
+        "site": "anime-planet",
+        "id": "outlaw-star-pilot"
+      },
+      {
+        "site": "anisearch",
+        "id": "1083"
+      },
+      {
+        "site": "anisearch",
+        "id": "15261"
+      },
+      {
+        "site": "kitsu",
+        "id": "7726"
+      },
+      {
+        "site": "kitsu",
+        "id": "9160"
+      },
+      {
+        "site": "myanimelist",
+        "id": "23595"
+      },
+      {
+        "site": "myanimelist",
+        "id": "400"
+      },
+      {
+        "site": "notify",
+        "id": "s52-tKiig"
+      },
+      {
+        "site": "notify",
+        "id": "sXGppFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1999,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/1578/117541.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1578/117541t.jpg",
+    "synonyms": [
+      "AL",
+      "Angel Links",
+      "Seihou Tenshi Angel Rinks",
+      "Seihō Tenshi Angel Links",
+      "Stellar Angel Angel Links",
+      "alinks",
+      "os (1999)",
+      "せいほうてんしえんじぇるりんくす",
+      "星方天使",
+      "星方天使エンジェルリンクス"
+    ]
+  },
+  {
+    "title": "それゆけ！宇宙戦艦ヤマモト・ヨーコ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰山本洋子"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-04-04T23:00:00.000Z",
+    "end": "1999-09-26T23:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "27170"
+      },
+      {
+        "site": "bilibili",
+        "id": "2225",
+        "begin": "1999-04-03T16:00:00.000Z",
+        "broadcast": "R/2013-10-01T23:22:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "339"
+      },
+      {
+        "site": "anidb",
+        "id": "340"
+      },
+      {
+        "site": "anilist",
+        "id": "1618"
+      },
+      {
+        "site": "anilist",
+        "id": "1671"
+      },
+      {
+        "site": "anime-planet",
+        "id": "starship-girl-yamamoto-yohko"
+      },
+      {
+        "site": "anime-planet",
+        "id": "starship-girl-yamamoto-yohko-ii"
+      },
+      {
+        "site": "anisearch",
+        "id": "2007"
+      },
+      {
+        "site": "anisearch",
+        "id": "3250"
+      },
+      {
+        "site": "kitsu",
+        "id": "1453"
+      },
+      {
+        "site": "kitsu",
+        "id": "1501"
+      },
+      {
+        "site": "livechart",
+        "id": "11277"
+      },
+      {
+        "site": "livechart",
+        "id": "8421"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1618"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1671"
+      },
+      {
+        "site": "notify",
+        "id": "CziB5Kiig"
+      },
+      {
+        "site": "notify",
+        "id": "nKr-5FmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1996,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/1728/133610.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1728/133610t.jpg",
+    "synonyms": [
+      "Sore Yuke! Uchuu Senkan Yamamoto Youko",
+      "Soreyuke! Uchuu Senkan Yamamoto Yohko",
+      "Soreyuke! Uchuu Senkan Yamamoto Yohko I",
+      "Soreyuke! Uchuu Senkan Yamamoto Yooko",
+      "Soreyuke! Uchū Senkan Yamamoto Yōko",
+      "Space Cruiser Yoko Yamamoto",
+      "Starship Girl Yamamoto Yohko",
+      "Starship Girl Yamamoto Yohko (1)",
+      "Starship Girl Yamamoto Yohko I",
+      "Yamamoto Yooko",
+      "それゆけ! 宇宙戦艦ヤマモト・ヨーコ",
+      "それゆけうちゅうせんかんやまもとよーこ",
+      "それゆけ！宇宙戦艦ヤマモト・ヨーコ",
+      "가자! 우주전함 야마모토 요코 OVA I"
+    ]
+  },
+  {
+    "title": "ToHeart",
+    "titleTranslate": {
+      "zh-Hans": [
+        "ToHeart"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://aquaplus.jp/th/th_anime.html",
+    "begin": "1999-04-01T23:00:00.000Z",
+    "end": "1999-06-24T23:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "VOzXVb0jk9E0sho",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "g/gjdk4z87xsfrkar",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "8296"
+      },
+      {
+        "site": "letv",
+        "id": "80638",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "2404"
+      },
+      {
+        "site": "anidb",
+        "id": "3428"
+      },
+      {
+        "site": "anilist",
+        "id": "289"
+      },
+      {
+        "site": "anilist",
+        "id": "3977"
+      },
+      {
+        "site": "anilist",
+        "id": "471"
+      },
+      {
+        "site": "anilist",
+        "id": "685"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-2-ad-next"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-2-ad-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-2-ad-plus"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-2-dungeon-travelers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-2-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-2-special-compilation"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-remember-my-memories"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-remember-my-memories-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-specials"
+      },
+      {
+        "site": "anisearch",
+        "id": "11566"
+      },
+      {
+        "site": "anisearch",
+        "id": "2123"
+      },
+      {
+        "site": "anisearch",
+        "id": "915"
+      },
+      {
+        "site": "kitsu",
+        "id": "3392"
+      },
+      {
+        "site": "kitsu",
+        "id": "433"
+      },
+      {
+        "site": "kitsu",
+        "id": "626"
+      },
+      {
+        "site": "livechart",
+        "id": "5093"
+      },
+      {
+        "site": "livechart",
+        "id": "5964"
+      },
+      {
+        "site": "livechart",
+        "id": "5976"
+      },
+      {
+        "site": "livechart",
+        "id": "6011"
+      },
+      {
+        "site": "livechart",
+        "id": "6038"
+      },
+      {
+        "site": "livechart",
+        "id": "6447"
+      },
+      {
+        "site": "livechart",
+        "id": "6648"
+      },
+      {
+        "site": "livechart",
+        "id": "7451"
+      },
+      {
+        "site": "livechart",
+        "id": "7806"
+      },
+      {
+        "site": "livechart",
+        "id": "9343"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3977"
+      },
+      {
+        "site": "myanimelist",
+        "id": "471"
+      },
+      {
+        "site": "myanimelist",
+        "id": "685"
+      },
+      {
+        "site": "notify",
+        "id": "BI6_5FmiR"
+      },
+      {
+        "site": "notify",
+        "id": "OxV05KiiR"
+      },
+      {
+        "site": "notify",
+        "id": "x_NTcKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1999,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/29922.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/29922t.jpg",
+    "synonyms": [
+      "Heart To Heart",
+      "ToHeart",
+      "th",
+      "Для сердца",
+      "トゥハート"
+    ]
+  },
+  {
+    "title": "デュアル！ぱられルンルン物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "平行世界物语"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://web.archive.org/web/20071011202701/www.anime-int.com/works/dual/tv/",
+    "begin": "1999-04-08T15:00:00.000Z",
+    "end": "1999-07-01T15:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "U5xo5k60JGLFQ6s",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "30525"
+      },
+      {
+        "site": "bilibili",
+        "id": "2217",
+        "begin": "1999-04-07T16:00:00.000Z",
+        "broadcast": "R/2011-05-26T11:48:12.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "358"
+      },
+      {
+        "site": "anilist",
+        "id": "1133"
+      },
+      {
+        "site": "anilist",
+        "id": "993"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dual-parallel-trouble-adventures-special"
+      },
+      {
+        "site": "anisearch",
+        "id": "7159"
+      },
+      {
+        "site": "anisearch",
+        "id": "782"
+      },
+      {
+        "site": "kitsu",
+        "id": "883"
+      },
+      {
+        "site": "livechart",
+        "id": "7796"
+      },
+      {
+        "site": "myanimelist",
+        "id": "993"
+      },
+      {
+        "site": "notify",
+        "id": "tctJcKmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1999,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/31223.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/31223t.jpg",
+    "synonyms": [
+      "Dual",
+      "Dual Parallel! Trouble Adventures",
+      "Dual! Parallel Lunlun Monogatari",
+      "Dual! Parallel Runrun Monogatari",
+      "Dual! Parallel Trouble Adventure",
+      "Dual! Parallel Trouble Adventures",
+      "Dual! Parare RunRun Monogatari",
+      "Dual! Parare Runrun Monogatari",
+      "Dual! Una Historia Paralela",
+      "Dual!: Una Historia Paralela",
+      "tenchi: dual",
+      "Опасные приключения в параллельной реальности",
+      "でゅあるぱられるんるんものがたり",
+      "デュアル! ぱられルンルン物語",
+      "デュアル！ ぱられルンルン物語",
+      "デュアル！ぱられルンルン物語",
+      "平行世界物语"
+    ]
+  },
+  {
+    "title": "シティーハンタースペシャル 緊急生中継!?凶悪犯冴羽リョウの最期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "城市猎人 紧急插播!?凶恶罪犯獠的死期"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-04-23T16:00:00.000Z",
+    "end": "1999-04-23T18:00:00.000Z",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "f/feuy7gwbvk0a5p1",
+        "begin": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "49139",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "53938"
+      },
+      {
+        "site": "letv",
+        "id": "10004313",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2415",
+        "begin": "2018-11-13T04:53:00.000Z",
+        "broadcast": "R/2018-11-13T04:53:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1570"
+      },
+      {
+        "site": "anilist",
+        "id": "1478"
+      },
+      {
+        "site": "anime-planet",
+        "id": "city-hunter"
+      },
+      {
+        "site": "anime-planet",
+        "id": "city-hunter-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "city-hunter-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "city-hunter-357-magnum"
+      },
+      {
+        "site": "anime-planet",
+        "id": "city-hunter-91"
+      },
+      {
+        "site": "anime-planet",
+        "id": "city-hunter-bay-city-wars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "city-hunter-goodbye-my-sweetheart"
+      },
+      {
+        "site": "anime-planet",
+        "id": "city-hunter-million-dollar-conspiracy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "city-hunter-ryou-no-propose"
+      },
+      {
+        "site": "anime-planet",
+        "id": "city-hunter-the-secret-service"
+      },
+      {
+        "site": "anisearch",
+        "id": "3365"
+      },
+      {
+        "site": "kitsu",
+        "id": "10944"
+      },
+      {
+        "site": "kitsu",
+        "id": "1324"
+      },
+      {
+        "site": "livechart",
+        "id": "11179"
+      },
+      {
+        "site": "livechart",
+        "id": "1609"
+      },
+      {
+        "site": "livechart",
+        "id": "3166"
+      },
+      {
+        "site": "livechart",
+        "id": "4648"
+      },
+      {
+        "site": "livechart",
+        "id": "8407"
+      },
+      {
+        "site": "livechart",
+        "id": "8409"
+      },
+      {
+        "site": "livechart",
+        "id": "8410"
+      },
+      {
+        "site": "livechart",
+        "id": "8411"
+      },
+      {
+        "site": "livechart",
+        "id": "8412"
+      },
+      {
+        "site": "livechart",
+        "id": "8413"
+      },
+      {
+        "site": "livechart",
+        "id": "8414"
+      },
+      {
+        "site": "livechart",
+        "id": "8415"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1478"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30818"
+      },
+      {
+        "site": "notify",
+        "id": "0QU_pKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "cED-5KiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1999,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1920/92378.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1920/92378t.jpg",
+    "synonyms": [
+      "Arrestate Ryo Saeba!",
+      "CITY HUNTER Special: Kinkyuu Namachuukei!? Kyouakuhan Saeba Ryou no Saigo",
+      "CITY HUNTER スペシャル 緊急生中継!? 凶悪犯冴羽獠の最期",
+      "City Hunter - Death of Evil Ryo Saeba",
+      "City Hunter - Flash spécial !? La mort de Ryo Saeba",
+      "City Hunter - Live on Stage",
+      "City Hunter : Flash spécial !? La mort de Ryo Saeba",
+      "City Hunter : La mort de City Hunter",
+      "City Hunter Special 6 - Arrestate Ryo Saeba",
+      "City Hunter Special: Kinkyuu Namachuukei!? Kyouakuhan Saeba Ryou no Saigo",
+      "City Hunter Special: Kinkyū Namachūkei!? Kyōakuhan Saeba Ryō no Saigo",
+      "City Hunter: Arrestate Ryo Saeba",
+      "City Hunter: Death of Evil Ryo Saeba",
+      "City Hunter: Death of the Vicious Criminal Ryo Saeba",
+      "City Hunter: Death of the Vicious Criminal Saeba Ryo",
+      "City Hunter: Death of the Vicious Crminal Ryou Saeba",
+      "City Hunter: Kinkyu Namachukei!? Kyouakuhan Saeba Ryo no Saigo",
+      "City Hunter: La Mort de City Hunter",
+      "City Hunter: La Muerte del Río Saeba",
+      "City Hunter: La muerte de Ryo Saeba",
+      "City Hunter: Ryo Saeba, Live on the Scene",
+      "City Hunter: Ryô Saeba, Live on the Scene",
+      "Nicky Larson - Flash spécial !? La mort de Ryo Saeba",
+      "Nicky Larson - Live on Stage",
+      "Pemburu Kota -Siaran Langsung- Kematian Ryo Saeba",
+      "Thợ Săn Thành Phố: Cái chết của tên tội phạm giết người Ryo Kanha",
+      "ซิตี้ฮันเตอร์ วาระสุดท้ายของซาเอบะ เรียว",
+      "シティーハンター スペシャル 緊急生中継!? 凶悪犯冴羽リョウの最期",
+      "シティーハンタースペシャル 緊急生中継!?凶悪犯冴羽リョウの最期",
+      "シティーハンタースペシャル 緊急生中継！？凶悪犯冴羽獠の最期",
+      "城市猎人 紧急插播!?凶恶罪犯獠的死期"
+    ]
+  },
+  {
+    "title": "デジモンアドベンチャー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "数码暴龙大冒险 滚球兽的诞生"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-04-06T16:00:00.000Z",
+    "end": "1999-04-06T16:20:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3133"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4tgp",
+        "begin": "2015-08-06T12:03:19.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "234"
+      },
+      {
+        "site": "anilist",
+        "id": "552"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-02-movie-the-golden-digimentals"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-movie-2-bokura-no-war-game"
+      },
+      {
+        "site": "anisearch",
+        "id": "1903"
+      },
+      {
+        "site": "anisearch",
+        "id": "250"
+      },
+      {
+        "site": "anisearch",
+        "id": "2710"
+      },
+      {
+        "site": "kitsu",
+        "id": "13736"
+      },
+      {
+        "site": "kitsu",
+        "id": "509"
+      },
+      {
+        "site": "livechart",
+        "id": "3730"
+      },
+      {
+        "site": "livechart",
+        "id": "3917"
+      },
+      {
+        "site": "livechart",
+        "id": "3980"
+      },
+      {
+        "site": "livechart",
+        "id": "3990"
+      },
+      {
+        "site": "livechart",
+        "id": "4234"
+      },
+      {
+        "site": "livechart",
+        "id": "4604"
+      },
+      {
+        "site": "livechart",
+        "id": "4643"
+      },
+      {
+        "site": "livechart",
+        "id": "4864"
+      },
+      {
+        "site": "livechart",
+        "id": "5139"
+      },
+      {
+        "site": "livechart",
+        "id": "5520"
+      },
+      {
+        "site": "livechart",
+        "id": "5638"
+      },
+      {
+        "site": "livechart",
+        "id": "5655"
+      },
+      {
+        "site": "livechart",
+        "id": "5704"
+      },
+      {
+        "site": "livechart",
+        "id": "5834"
+      },
+      {
+        "site": "livechart",
+        "id": "5846"
+      },
+      {
+        "site": "myanimelist",
+        "id": "552"
+      },
+      {
+        "site": "notify",
+        "id": "CCBT5FmmR"
+      },
+      {
+        "site": "notify",
+        "id": "_7iS2KimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1999,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/72452.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/72452t.jpg",
+    "synonyms": [
+      "Digimon - Az igazi film",
+      "Digimon - Der Film",
+      "Digimon : Le Film (Partie 1)",
+      "Digimon Adventure (1999)",
+      "Digimon Adventure (Movie)",
+      "Digimon Adventure Gekijouban",
+      "Digimon Adventure Gekijōban",
+      "Digimon Adventure Movie 1",
+      "Digimon Adventure the Movie",
+      "Digimon the Movie",
+      "Digimon: Der Film (Teil 1)",
+      "Digimon: Digital Monsters - The Movie",
+      "Digimon: Il Film (Parte 1)",
+      "Digimon: The Movie",
+      "Digimon: The Movie (Part 1)",
+      "Приключения дигимонов. Фильм.",
+      "デジモンアドベンチャー",
+      "デジモンアドベンチャー (Movie)",
+      "デジモンアドベンチャー 劇場版"
+    ]
+  },
+  {
+    "title": "名探偵コナン 世紀末の魔術師",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 世纪末的魔术师"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "1999-04-17T16:00:00.000Z",
+    "end": "1999-04-17T17:40:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zual",
+        "begin": "2016-11-11T08:33:52.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "2970"
+      },
+      {
+        "site": "pptv",
+        "id": "NQHradE3pibVIxia4",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "b/bu8qr3h1vbia2kd",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "fa2085aa61ad11e0bea1",
+        "begin": "2013-03-19T12:02:56.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228943",
+        "begin": "2020-05-21T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "266"
+      },
+      {
+        "site": "anilist",
+        "id": "235"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-countdown-to-heaven"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-crossroad-in-the-ancient-capital"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-full-score-of-fear"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-jolly-roger-in-the-deep-azure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-magician-of-the-silver-sky"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-14-the-lost-ship-in-the-sky"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-15-quarter-of-silence"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-18-the-sniper-from-another-dimension"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-19-the-hellfire-sunflowers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-20-the-darkest-nightmare"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-21-the-crimson-love-letter"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-22-zero-the-enforcer"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-23-the-fist-of-blue-sapphire"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-24-the-scarlet-bullet"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-4-captured-in-her-eyes"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-6-the-phantom-of-baker-street"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-9-strategy-above-the-depths"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-the-fourteenth-target"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-the-private-eyes-requiem"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-the-raven-chaser"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-the-time-bombed-skyscraper"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-zekkai-no-private-eye"
+      },
+      {
+        "site": "anisearch",
+        "id": "1721"
+      },
+      {
+        "site": "kitsu",
+        "id": "210"
+      },
+      {
+        "site": "livechart",
+        "id": "319"
+      },
+      {
+        "site": "livechart",
+        "id": "4579"
+      },
+      {
+        "site": "livechart",
+        "id": "4615"
+      },
+      {
+        "site": "livechart",
+        "id": "4634"
+      },
+      {
+        "site": "livechart",
+        "id": "4710"
+      },
+      {
+        "site": "livechart",
+        "id": "4732"
+      },
+      {
+        "site": "livechart",
+        "id": "4783"
+      },
+      {
+        "site": "livechart",
+        "id": "4809"
+      },
+      {
+        "site": "livechart",
+        "id": "4860"
+      },
+      {
+        "site": "livechart",
+        "id": "6391"
+      },
+      {
+        "site": "livechart",
+        "id": "6392"
+      },
+      {
+        "site": "livechart",
+        "id": "6400"
+      },
+      {
+        "site": "livechart",
+        "id": "6411"
+      },
+      {
+        "site": "livechart",
+        "id": "6441"
+      },
+      {
+        "site": "livechart",
+        "id": "8185"
+      },
+      {
+        "site": "myanimelist",
+        "id": "235"
+      },
+      {
+        "site": "notify",
+        "id": "lWnhcKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1999,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1831/94317.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1831/94317t.jpg",
+    "synonyms": [
+      "Case Closed Movie 03: The Last Wizard of the Century",
+      "Case Closed Movie 3",
+      "Case Closed Movie 3: The Last Wizard of the Century",
+      "Case Closed Movie: The Last Wizard of the Century",
+      "Case Closed: The Last Magician of the Century",
+      "Case Closed: The Last Wizard of the Century",
+      "DC M3",
+      "Dedektif Conan: Yüzyılın Son Sihirbazı",
+      "Detective Conan - L`ultimo mago del secolo",
+      "Detective Conan 3 - El último mago del siglo",
+      "Detective Conan Movie 03: L’ultimo mago del secolo",
+      "Detective Conan Movie 3",
+      "Detective Conan Movie 3: The Last Magician of the Century",
+      "Detective Conan Movie 3: The Last Wizard of the Century",
+      "Detective Conan: L'ultimo mago del secolo",
+      "Detective Conan: Movie 3",
+      "Detektiv Conan - 3. Film: Der Magier des letzten Jahrhunderts",
+      "Detektiv Conan Film 3",
+      "Detektiv Conan Film 3: Der Magier des letzten Jahrhunderts",
+      "Detektiv Conan: Der Magier des letzten Jahrhunderts",
+      "Détective Conan - Film 3",
+      "Détective Conan Film 3: Le Magicien de la fin du siècle",
+      "Détective Conan: Le Magicien de la Fin du Siècle",
+      "Meitantei Conan Movie 03: Seikimatsu no Majutsushi",
+      "Meitantei Conan Movie 3",
+      "Meitantei Conan Movie 3: Seikimatsu no Majutsushi",
+      "Meitantei Conan: Seikimatsu no Majutsushi",
+      "Детектив Конан: Последният магьосник на века",
+      "المحقق كونان: ساحر القرن الأخير",
+      "ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 3 ตอน ปริศนาพ่อมดคนสุดท้ายแห่งศตวรรษ",
+      "世纪末的魔术师",
+      "名侦探柯南 世纪末的魔术师",
+      "名探偵コナン 世紀末の魔術師"
+    ]
+  },
+  {
+    "title": "ベターマン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "进化战记"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-04-01T16:00:00.000Z",
+    "end": "1999-10-01T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "wW1Y1j6kFFK1M5s",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "10417"
+      },
+      {
+        "site": "bilibili",
+        "id": "2216",
+        "begin": "1999-03-31T16:00:00.000Z",
+        "broadcast": "R/2011-10-11T07:46:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1717"
+      },
+      {
+        "site": "anidb",
+        "id": "3152"
+      },
+      {
+        "site": "anidb",
+        "id": "957"
+      },
+      {
+        "site": "anilist",
+        "id": "156024"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gaogaigar"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gaogaigar-final"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gaogaigar-final-grand-glorious-gathering"
+      },
+      {
+        "site": "anisearch",
+        "id": "93"
+      },
+      {
+        "site": "kitsu",
+        "id": "3600"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4416"
+      },
+      {
+        "site": "notify",
+        "id": "q0sX5Kimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1999,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/1157/91069.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1157/91069t.jpg",
+    "synonyms": [
+      "ベターマン",
+      "进化战记"
+    ]
+  },
+  {
+    "title": "逮捕しちゃうぞ the MOVIE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "逮捕令 剧场版 墨东署最大危机"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-04-23T16:00:00.000Z",
+    "end": "1999-04-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "41887"
+      },
+      {
+        "site": "bilibili",
+        "id": "3830",
+        "begin": "2016-04-21T06:50:32.000Z",
+        "broadcast": "R/2016-04-21T06:50:32.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "438"
+      },
+      {
+        "site": "anilist",
+        "id": "2011"
+      },
+      {
+        "site": "anilist",
+        "id": "2014"
+      },
+      {
+        "site": "anime-planet",
+        "id": "youre-under-arrest"
+      },
+      {
+        "site": "anime-planet",
+        "id": "youre-under-arrest-diverting-traffic-at-the-beach"
+      },
+      {
+        "site": "anime-planet",
+        "id": "youre-under-arrest-fast-furious"
+      },
+      {
+        "site": "anime-planet",
+        "id": "youre-under-arrest-full-throttle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "youre-under-arrest-full-throttle-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "youre-under-arrest-mini-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "youre-under-arrest-no-mercy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "youre-under-arrest-ova"
+      },
+      {
+        "site": "anisearch",
+        "id": "1445"
+      },
+      {
+        "site": "anisearch",
+        "id": "1770"
+      },
+      {
+        "site": "kitsu",
+        "id": "1226"
+      },
+      {
+        "site": "kitsu",
+        "id": "1417"
+      },
+      {
+        "site": "kitsu",
+        "id": "1809"
+      },
+      {
+        "site": "kitsu",
+        "id": "1810"
+      },
+      {
+        "site": "kitsu",
+        "id": "1813"
+      },
+      {
+        "site": "kitsu",
+        "id": "2711"
+      },
+      {
+        "site": "kitsu",
+        "id": "3497"
+      },
+      {
+        "site": "livechart",
+        "id": "5191"
+      },
+      {
+        "site": "livechart",
+        "id": "5694"
+      },
+      {
+        "site": "livechart",
+        "id": "7057"
+      },
+      {
+        "site": "livechart",
+        "id": "7380"
+      },
+      {
+        "site": "livechart",
+        "id": "7570"
+      },
+      {
+        "site": "livechart",
+        "id": "7580"
+      },
+      {
+        "site": "livechart",
+        "id": "7610"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1372"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1577"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2010"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2011"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2014"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3000"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4162"
+      },
+      {
+        "site": "notify",
+        "id": "0FsacFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "HwCb5Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "Tm5Y5Fmig"
+      },
+      {
+        "site": "notify",
+        "id": "UYFY5KmiR"
+      },
+      {
+        "site": "notify",
+        "id": "XJKLcKiig"
+      },
+      {
+        "site": "notify",
+        "id": "cKKXcFmig"
+      },
+      {
+        "site": "notify",
+        "id": "vHL85Kmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1999,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1921/92313.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1921/92313t.jpg",
+    "synonyms": [
+      "Sei in arresto! - Il film",
+      "Sei in arresto!: Il film",
+      "Taiho Shichauzo The Movie",
+      "Taiho Shichauzo! The Movie",
+      "Taiho Shichauzo: the MOVIE",
+      "Taihou Shichau zo! The Movie",
+      "YUA Movie",
+      "You're Under Arrest The Movie",
+      "You're Under Arrest! The Motion Picture",
+      "You're Under Arrest! The Movie",
+      "You`re Under Arrest - Le film",
+      "You`re Under Arrest - The Movie",
+      "You`re Under Arrest The Motion Picture",
+      "You`re Under Arrest! The Movie",
+      "You’re Under Arrest : The Movie",
+      "You’re under Arrest: The Motion Picture",
+      "逮捕しちゃうぞ the MOVIE",
+      "逮捕しちゃうぞ the Movie",
+      "逮捕しちゃうぞ　the MOVIE"
+    ]
+  }
+]

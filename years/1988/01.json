@@ -1,278 +1,358 @@
-{
-  "title": "銀河英雄伝説",
-  "titleTranslate": {
-    "zh-Hans": [
-      "银河英雄传说"
+[
+  {
+    "title": "小公子セディ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小公子西迪",
+        "小公子"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-01-10T16:00:00.000Z",
+    "end": "1988-12-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrk06tkd",
+        "begin": "2012-10-16T10:33:23.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "68707"
+      },
+      {
+        "site": "anidb",
+        "id": "7151"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sekai-meisaku-gekijou-kanketsu-ban-shoukoushi-cedie"
+      },
+      {
+        "site": "anisearch",
+        "id": "6102"
+      },
+      {
+        "site": "kitsu",
+        "id": "9592"
+      },
+      {
+        "site": "myanimelist",
+        "id": "25075"
+      },
+      {
+        "site": "notify",
+        "id": "pXZYpKmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1988,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 43,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/3273.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/3273t.jpg",
+    "synonyms": [
+      "Ceddie",
+      "Cedie",
+      "Der kleine Lord",
+      "El Pequeño Lord",
+      "El pequeño lord",
+      "Il piccolo lord",
+      "Le Petit Lord",
+      "Le petit lord",
+      "Little Lord Fauntleroy",
+      "Little Prince Cedie",
+      "Mały lord",
+      "Piccolo Lord",
+      "Sekai Meisaku Gekijou",
+      "Shōkōshi Cedie",
+      "WMT",
+      "World Masterpiece Theater",
+      "الفتى النبيل",
+      "小公子セディ"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "http://www.ginei.jp/",
-  "begin": "1988-01-08T16:00:00.000Z",
-  "end": "1997-03-17T16:30:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "2907"
+  {
+    "title": "銀河英雄伝説",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河英雄传说"
+      ]
     },
-    {
-      "site": "youku",
-      "id": "cc008b08962411de83b1",
-      "begin": "2016-10-02T03:58:55.000Z"
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.ginei.jp/",
+    "begin": "1988-01-08T16:00:00.000Z",
+    "end": "1997-03-17T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2907"
+      },
+      {
+        "site": "youku",
+        "id": "cc008b08962411de83b1",
+        "begin": "2016-10-02T03:58:55.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "11495"
+      },
+      {
+        "site": "anidb",
+        "id": "1308"
+      },
+      {
+        "site": "anilist",
+        "id": "100780"
+      },
+      {
+        "site": "anilist",
+        "id": "124032"
+      },
+      {
+        "site": "anilist",
+        "id": "148970"
+      },
+      {
+        "site": "anilist",
+        "id": "170816"
+      },
+      {
+        "site": "anilist",
+        "id": "20628"
+      },
+      {
+        "site": "anilist",
+        "id": "3014"
+      },
+      {
+        "site": "anilist",
+        "id": "3016"
+      },
+      {
+        "site": "anime-planet",
+        "id": "legend-of-the-galactic-heroes-die-neue-these"
+      },
+      {
+        "site": "anime-planet",
+        "id": "legend-of-the-galactic-heroes-gaiden"
+      },
+      {
+        "site": "anime-planet",
+        "id": "legend-of-the-galactic-heroes-gaiden-season-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "legend-of-the-galactic-heroes-golden-wings"
+      },
+      {
+        "site": "anime-planet",
+        "id": "legend-of-the-galactic-heroes-my-conquest-is-the-sea-of-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "legend-of-the-galactic-heroes-overture-to-a-new-war"
+      },
+      {
+        "site": "anisearch",
+        "id": "10688"
+      },
+      {
+        "site": "anisearch",
+        "id": "352"
+      },
+      {
+        "site": "anisearch",
+        "id": "563"
+      },
+      {
+        "site": "kitsu",
+        "id": "11331"
+      },
+      {
+        "site": "kitsu",
+        "id": "2726"
+      },
+      {
+        "site": "kitsu",
+        "id": "2963"
+      },
+      {
+        "site": "kitsu",
+        "id": "3178"
+      },
+      {
+        "site": "livechart",
+        "id": "10151"
+      },
+      {
+        "site": "livechart",
+        "id": "10832"
+      },
+      {
+        "site": "livechart",
+        "id": "10833"
+      },
+      {
+        "site": "livechart",
+        "id": "11215"
+      },
+      {
+        "site": "livechart",
+        "id": "11216"
+      },
+      {
+        "site": "livechart",
+        "id": "11217"
+      },
+      {
+        "site": "livechart",
+        "id": "2887"
+      },
+      {
+        "site": "livechart",
+        "id": "2888"
+      },
+      {
+        "site": "livechart",
+        "id": "2889"
+      },
+      {
+        "site": "livechart",
+        "id": "436"
+      },
+      {
+        "site": "livechart",
+        "id": "4439"
+      },
+      {
+        "site": "livechart",
+        "id": "4443"
+      },
+      {
+        "site": "livechart",
+        "id": "4484"
+      },
+      {
+        "site": "livechart",
+        "id": "4771"
+      },
+      {
+        "site": "livechart",
+        "id": "5588"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3016"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31433"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3371"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36369"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36370"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36371"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3665"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42886"
+      },
+      {
+        "site": "myanimelist",
+        "id": "51805"
+      },
+      {
+        "site": "notify",
+        "id": "00Njybvng"
+      },
+      {
+        "site": "notify",
+        "id": "AOxwcFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "G5sUcKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "aHI_5Fmig"
+      },
+      {
+        "site": "notify",
+        "id": "k5c9pFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1988,
+      "month": "01"
     },
-    {
-      "site": "anidb",
-      "id": "11495"
-    },
-    {
-      "site": "anidb",
-      "id": "1308"
-    },
-    {
-      "site": "anilist",
-      "id": "100780"
-    },
-    {
-      "site": "anilist",
-      "id": "124032"
-    },
-    {
-      "site": "anilist",
-      "id": "148970"
-    },
-    {
-      "site": "anilist",
-      "id": "170816"
-    },
-    {
-      "site": "anilist",
-      "id": "20628"
-    },
-    {
-      "site": "anilist",
-      "id": "3014"
-    },
-    {
-      "site": "anilist",
-      "id": "3016"
-    },
-    {
-      "site": "anime-planet",
-      "id": "legend-of-the-galactic-heroes-die-neue-these"
-    },
-    {
-      "site": "anime-planet",
-      "id": "legend-of-the-galactic-heroes-gaiden"
-    },
-    {
-      "site": "anime-planet",
-      "id": "legend-of-the-galactic-heroes-gaiden-season-2"
-    },
-    {
-      "site": "anime-planet",
-      "id": "legend-of-the-galactic-heroes-golden-wings"
-    },
-    {
-      "site": "anime-planet",
-      "id": "legend-of-the-galactic-heroes-my-conquest-is-the-sea-of-stars"
-    },
-    {
-      "site": "anime-planet",
-      "id": "legend-of-the-galactic-heroes-overture-to-a-new-war"
-    },
-    {
-      "site": "anisearch",
-      "id": "10688"
-    },
-    {
-      "site": "anisearch",
-      "id": "352"
-    },
-    {
-      "site": "anisearch",
-      "id": "563"
-    },
-    {
-      "site": "kitsu",
-      "id": "11331"
-    },
-    {
-      "site": "kitsu",
-      "id": "2726"
-    },
-    {
-      "site": "kitsu",
-      "id": "2963"
-    },
-    {
-      "site": "kitsu",
-      "id": "3178"
-    },
-    {
-      "site": "livechart",
-      "id": "10151"
-    },
-    {
-      "site": "livechart",
-      "id": "10832"
-    },
-    {
-      "site": "livechart",
-      "id": "10833"
-    },
-    {
-      "site": "livechart",
-      "id": "11215"
-    },
-    {
-      "site": "livechart",
-      "id": "11216"
-    },
-    {
-      "site": "livechart",
-      "id": "11217"
-    },
-    {
-      "site": "livechart",
-      "id": "2887"
-    },
-    {
-      "site": "livechart",
-      "id": "2888"
-    },
-    {
-      "site": "livechart",
-      "id": "2889"
-    },
-    {
-      "site": "livechart",
-      "id": "436"
-    },
-    {
-      "site": "livechart",
-      "id": "4439"
-    },
-    {
-      "site": "livechart",
-      "id": "4443"
-    },
-    {
-      "site": "livechart",
-      "id": "4484"
-    },
-    {
-      "site": "livechart",
-      "id": "4771"
-    },
-    {
-      "site": "livechart",
-      "id": "5588"
-    },
-    {
-      "site": "myanimelist",
-      "id": "3016"
-    },
-    {
-      "site": "myanimelist",
-      "id": "31433"
-    },
-    {
-      "site": "myanimelist",
-      "id": "3371"
-    },
-    {
-      "site": "myanimelist",
-      "id": "36369"
-    },
-    {
-      "site": "myanimelist",
-      "id": "36370"
-    },
-    {
-      "site": "myanimelist",
-      "id": "36371"
-    },
-    {
-      "site": "myanimelist",
-      "id": "3665"
-    },
-    {
-      "site": "myanimelist",
-      "id": "42886"
-    },
-    {
-      "site": "myanimelist",
-      "id": "51805"
-    },
-    {
-      "site": "notify",
-      "id": "00Njybvng"
-    },
-    {
-      "site": "notify",
-      "id": "AOxwcFiiR"
-    },
-    {
-      "site": "notify",
-      "id": "G5sUcKmmg"
-    },
-    {
-      "site": "notify",
-      "id": "aHI_5Fmig"
-    },
-    {
-      "site": "notify",
-      "id": "k5c9pFmiR"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 1988,
-    "month": "01"
-  },
-  "status": "FINISHED",
-  "episodes": 110,
-  "picture": "https://cdn.myanimelist.net/images/anime/13/13225.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/13/13225t.jpg",
-  "synonyms": [
-    "GED",
-    "Galaksi Kahramanları",
-    "Gin'eiden",
-    "GinEi",
-    "GinEiDen",
-    "Heldensagen Vom Kosmosinsel",
-    "Heldensagen vom Kosmosinsel",
-    "Heldensagen vom Kosmosinsel 銀河英雄伝説",
-    "Heldensagen vom Kosmosinsel: Ginga Eiyuu Densetsu",
-    "Heldensagen vom Kosmosinsel: Ginga Eiyū Densetsu",
-    "HvK",
-    "LGH",
-    "LHG",
-    "La Leggenda Degli Eroi Della Galassia",
-    "La leyenda de los héroes de la galaxia",
-    "Legend of Galactic Heroes",
-    "Legend of the Galactic Heroes",
-    "Legenda galaktycznych bohaterów",
-    "Les Héros de la Galaxie",
-    "Les héros de la galaxie",
-    "LoGH",
-    "LoTGH",
-    "LotGH",
-    "gin`eiden",
-    "gineiden",
-    "Галактична історія героїв",
-    "Легенда о героях галактики",
-    "Легендата за галактичните герои",
-    "ЛоГГ",
-    "אגדת הגיבורים הגלקטיים",
-    "أسطورة أبطال المجرة",
-    "افسانه قهرمانان کهکشانی",
-    "حرب الكواكب",
-    "ぎんがえいゆうでんせつ",
-    "銀河英雄伝説",
-    "銀英伝",
-    "银河英雄传说",
-    "은하영웅전설"
-  ]
-}
+    "status": "FINISHED",
+    "episodes": 110,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/13225.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/13225t.jpg",
+    "synonyms": [
+      "GED",
+      "Galaksi Kahramanları",
+      "Gin'eiden",
+      "GinEi",
+      "GinEiDen",
+      "Heldensagen Vom Kosmosinsel",
+      "Heldensagen vom Kosmosinsel",
+      "Heldensagen vom Kosmosinsel 銀河英雄伝説",
+      "Heldensagen vom Kosmosinsel: Ginga Eiyuu Densetsu",
+      "Heldensagen vom Kosmosinsel: Ginga Eiyū Densetsu",
+      "HvK",
+      "LGH",
+      "LHG",
+      "La Leggenda Degli Eroi Della Galassia",
+      "La leyenda de los héroes de la galaxia",
+      "Legend of Galactic Heroes",
+      "Legend of the Galactic Heroes",
+      "Legenda galaktycznych bohaterów",
+      "Les Héros de la Galaxie",
+      "Les héros de la galaxie",
+      "LoGH",
+      "LoTGH",
+      "LotGH",
+      "gin`eiden",
+      "gineiden",
+      "Галактична історія героїв",
+      "Легенда о героях галактики",
+      "Легендата за галактичните герои",
+      "ЛоГГ",
+      "אגדת הגיבורים הגלקטיים",
+      "أسطورة أبطال المجرة",
+      "افسانه قهرمانان کهکشانی",
+      "حرب الكواكب",
+      "ぎんがえいゆうでんせつ",
+      "銀河英雄伝説",
+      "銀英伝",
+      "银河英雄传说",
+      "은하영웅전설"
+    ]
+  }
+]

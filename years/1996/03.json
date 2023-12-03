@@ -1,114 +1,675 @@
-{
-  "title": "それゆけ! 宇宙戦艦ヤマモト・ヨーコ",
-  "titleTranslate": {
-    "zh-Hans": [
-      "宇宙战舰山本洋子"
+[
+  {
+    "title": "美少女戦士セーラームーン セーラースターズ",
+    "titleTranslate": {
+      "en": [
+        "Sailor Moon Sailor Stars"
+      ],
+      "zh-Hans": [
+        "美少女战士Sailor Stars",
+        "美少女战士 最后的星光"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://sailormoon.channel.or.jp/",
+    "begin": "1996-03-09T16:00:00.000Z",
+    "end": "1997-02-08T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb12j1",
+        "begin": "2015-08-14T17:08:42.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "5434"
+      },
+      {
+        "site": "anidb",
+        "id": "17343"
+      },
+      {
+        "site": "anidb",
+        "id": "2540"
+      },
+      {
+        "site": "anilist",
+        "id": "1239"
+      },
+      {
+        "site": "anilist",
+        "id": "148149"
+      },
+      {
+        "site": "anilist",
+        "id": "160850"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bishoujo-senshi-sailor-moon-cosmos-movie-1"
+      },
+      {
+        "site": "anime-planet",
+        "id": "momoiro-clover-z-moon-pride"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-guardian-sailor-moon-crystal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-guardian-sailor-moon-crystal-2016"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-memorial"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-r"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-r-make-up-sailor-guardians"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-r-memorial"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-r-the-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-s"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-s-memorial"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-s-the-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-sailor-stars-hero-club"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-sailor-stars-memorial"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-super-s"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-super-s-memorial"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-super-s-plus-amis-first-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-super-s-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-super-s-the-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "14257"
+      },
+      {
+        "site": "anisearch",
+        "id": "1619"
+      },
+      {
+        "site": "anisearch",
+        "id": "17336"
+      },
+      {
+        "site": "anisearch",
+        "id": "8627"
+      },
+      {
+        "site": "kitsu",
+        "id": "1115"
+      },
+      {
+        "site": "kitsu",
+        "id": "5477"
+      },
+      {
+        "site": "kitsu",
+        "id": "7054"
+      },
+      {
+        "site": "livechart",
+        "id": "113"
+      },
+      {
+        "site": "livechart",
+        "id": "1845"
+      },
+      {
+        "site": "livechart",
+        "id": "2521"
+      },
+      {
+        "site": "livechart",
+        "id": "3884"
+      },
+      {
+        "site": "livechart",
+        "id": "4684"
+      },
+      {
+        "site": "livechart",
+        "id": "4962"
+      },
+      {
+        "site": "livechart",
+        "id": "5146"
+      },
+      {
+        "site": "livechart",
+        "id": "5684"
+      },
+      {
+        "site": "livechart",
+        "id": "6265"
+      },
+      {
+        "site": "livechart",
+        "id": "6665"
+      },
+      {
+        "site": "livechart",
+        "id": "6794"
+      },
+      {
+        "site": "livechart",
+        "id": "7224"
+      },
+      {
+        "site": "livechart",
+        "id": "7436"
+      },
+      {
+        "site": "livechart",
+        "id": "7590"
+      },
+      {
+        "site": "livechart",
+        "id": "7867"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1239"
+      },
+      {
+        "site": "myanimelist",
+        "id": "13931"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8756"
+      },
+      {
+        "site": "notify",
+        "id": "6HRZtFiig"
+      },
+      {
+        "site": "notify",
+        "id": "BmxZImoVg"
+      },
+      {
+        "site": "notify",
+        "id": "EPrvpFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "u7TbcKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1996,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 34,
+    "picture": "https://cdn.myanimelist.net/images/anime/1645/105992.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1645/105992t.jpg",
+    "synonyms": [
+      "Bishoujo Senshi Sailor Moon Sailor Stars",
+      "Bishōjo Senshi Sailor Moon Sailor Stars",
+      "Czarodziejka z Księżyca: Sailor Moon Sailor Stars",
+      "Navegante da Lua: Sailor Stars",
+      "Petali di Stelle per Sailor Moon",
+      "Petali di stelle per Sailor Moon",
+      "Pretty Soldier Sailor Moon: Sailor Stars",
+      "Sailor Moon Sailor Stars",
+      "Sailor Moon Sailor Stars: Saison 5",
+      "Sailor Moon Season 5",
+      "Sailor Moon Stars",
+      "Sailor Stars",
+      "Sailormoon Sailor Stars",
+      "sm s5",
+      "Сейлор Мун",
+      "Сейлормун (1996)",
+      "เซเลอร์มูน เซเลอร์สตาร์ส",
+      "びしょうじょせんしせーらーむーんせーらーすたーず",
+      "美少女战士Sailor Stars",
+      "美少女戦士セーラームーン セーラースターズ"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1996-03-05T16:00:00.000Z",
-  "end": "1996-06-04T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "27206"
+  {
+    "title": "みどりのマキバオー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "热斗小马"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "2226",
-      "begin": "2013-09-12T07:34:00.000Z",
-      "broadcast": "R/2013-09-12T07:34:00.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://pierrot.jp/archives/tv_list_1995/tv_031.html",
+    "begin": "1996-03-02T16:00:00.000Z",
+    "end": "1997-07-12T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "23452"
+      },
+      {
+        "site": "nicovideo",
+        "id": "makibao-anime",
+        "begin": "2017-03-10T09:00:00.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2015,
+      "month": "03"
     },
-    {
-      "site": "anidb",
-      "id": "339"
-    },
-    {
-      "site": "anidb",
-      "id": "340"
-    },
-    {
-      "site": "anilist",
-      "id": "1618"
-    },
-    {
-      "site": "anilist",
-      "id": "1671"
-    },
-    {
-      "site": "anime-planet",
-      "id": "starship-girl-yamamoto-yohko"
-    },
-    {
-      "site": "anime-planet",
-      "id": "starship-girl-yamamoto-yohko-ii"
-    },
-    {
-      "site": "anisearch",
-      "id": "2007"
-    },
-    {
-      "site": "anisearch",
-      "id": "3250"
-    },
-    {
-      "site": "kitsu",
-      "id": "1453"
-    },
-    {
-      "site": "kitsu",
-      "id": "1501"
-    },
-    {
-      "site": "livechart",
-      "id": "11277"
-    },
-    {
-      "site": "livechart",
-      "id": "8421"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1618"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1671"
-    },
-    {
-      "site": "notify",
-      "id": "CziB5Kiig"
-    },
-    {
-      "site": "notify",
-      "id": "nKr-5FmmR"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 1996,
-    "month": "03"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://media.kitsu.io/anime/poster_images/10982/small.jpg",
+    "thumbnail": "https://media.kitsu.io/anime/poster_images/10982/tiny.jpg",
+    "synonyms": [
+      "みどりのマキバオー"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 3,
-  "picture": "https://cdn.myanimelist.net/images/anime/1728/133610.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1728/133610t.jpg",
-  "synonyms": [
-    "Sore Yuke! Uchuu Senkan Yamamoto Youko",
-    "Soreyuke! Uchuu Senkan Yamamoto Yohko",
-    "Soreyuke! Uchuu Senkan Yamamoto Yohko I",
-    "Soreyuke! Uchuu Senkan Yamamoto Yooko",
-    "Soreyuke! Uchū Senkan Yamamoto Yōko",
-    "Space Cruiser Yoko Yamamoto",
-    "Starship Girl Yamamoto Yohko",
-    "Starship Girl Yamamoto Yohko (1)",
-    "Starship Girl Yamamoto Yohko I",
-    "Yamamoto Yooko",
-    "それゆけ! 宇宙戦艦ヤマモト・ヨーコ",
-    "それゆけうちゅうせんかんやまもとよーこ",
-    "それゆけ！宇宙戦艦ヤマモト・ヨーコ",
-    "가자! 우주전함 야마모토 요코 OVA I"
-  ]
-}
+  {
+    "title": "ドラゴンボール 最強への道",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙珠 最强之道"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-03-02T16:00:00.000Z",
+    "end": "1996-03-02T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "48944"
+      },
+      {
+        "site": "nicovideo",
+        "id": "DBZ_saikyou",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4015",
+        "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "231"
+      },
+      {
+        "site": "anilist",
+        "id": "223"
+      },
+      {
+        "site": "anilist",
+        "id": "502"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-gokus-fire-brigade"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-gokus-traffic-safety"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-movie-1-curse-of-the-blood-rubies"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-movie-2-sleeping-princess-in-devils-castle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-movie-3-mystical-adventure"
+      },
+      {
+        "site": "anisearch",
+        "id": "468"
+      },
+      {
+        "site": "kitsu",
+        "id": "199"
+      },
+      {
+        "site": "kitsu",
+        "id": "461"
+      },
+      {
+        "site": "kitsu",
+        "id": "792"
+      },
+      {
+        "site": "livechart",
+        "id": "3632"
+      },
+      {
+        "site": "livechart",
+        "id": "3636"
+      },
+      {
+        "site": "livechart",
+        "id": "4152"
+      },
+      {
+        "site": "livechart",
+        "id": "4177"
+      },
+      {
+        "site": "livechart",
+        "id": "4206"
+      },
+      {
+        "site": "livechart",
+        "id": "4219"
+      },
+      {
+        "site": "livechart",
+        "id": "4287"
+      },
+      {
+        "site": "livechart",
+        "id": "4294"
+      },
+      {
+        "site": "livechart",
+        "id": "4312"
+      },
+      {
+        "site": "livechart",
+        "id": "4572"
+      },
+      {
+        "site": "livechart",
+        "id": "4719"
+      },
+      {
+        "site": "livechart",
+        "id": "4815"
+      },
+      {
+        "site": "livechart",
+        "id": "4919"
+      },
+      {
+        "site": "livechart",
+        "id": "5906"
+      },
+      {
+        "site": "livechart",
+        "id": "6390"
+      },
+      {
+        "site": "myanimelist",
+        "id": "223"
+      },
+      {
+        "site": "myanimelist",
+        "id": "502"
+      },
+      {
+        "site": "myanimelist",
+        "id": "892"
+      },
+      {
+        "site": "notify",
+        "id": "ENeA5KimR"
+      },
+      {
+        "site": "notify",
+        "id": "VnpT5FmmR"
+      },
+      {
+        "site": "notify",
+        "id": "hbih5KmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1996,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1497/93677.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1497/93677t.jpg",
+    "synonyms": [
+      "Bola de Drac: El Camí cap a el més fort",
+      "Bảy Viên Ngọc Rồng: Đường Đến Quyền Năng",
+      "DB Movie 4",
+      "DRAGON BALL 最強への道",
+      "Dragon Ball - Il cammino dell'eroe",
+      "Dragon Ball - Il cammino dell`eroe",
+      "Dragon Ball - La nascita degli eroi",
+      "Dragon Ball 10th Anniversary Movie",
+      "Dragon Ball 4 - L`armée du Ruban Rouge",
+      "Dragon Ball Film 4: Der Weg zur Macht",
+      "Dragon Ball Film 4: L'aventure mystique",
+      "Dragon Ball Movie 4",
+      "Dragon Ball Movie 4: The Path to Power",
+      "Dragon Ball Película 4: El Camino más Fuerte",
+      "Dragon Ball Z: Sposób",
+      "Dragon Ball: A Lei do Mais Forte",
+      "Dragon Ball: Der Weg zur Macht",
+      "Dragon Ball: Droga ku potędze",
+      "Dragon Ball: El camino hacia el Poder",
+      "Dragon Ball: El camino hacia el más fuerte",
+      "Dragon Ball: Il cammino dell'eroe",
+      "Dragon Ball: L'Armée du ruban rouge",
+      "Dragon Ball: Saikyou e no Michi",
+      "Dragon Ball: Saikyō e no Michi",
+      "Dragon Ball: Sposób, by stać się silniejszym",
+      "Dragon Ball: The Path to Power",
+      "Dragon Ball: The Path to Ultimate Strength",
+      "Dragon Ball: The Way To The Strongest",
+      "by stać się silniejszym",
+      "ดราก้อนบอล มูฟวี่ 4 ตอน วิถีแห่งเจ้ายุทธจักร",
+      "ดราก้อนบอล เดอะมูฟวี่พิเศษ วิถีแห่งจ้าวยุทธภพ",
+      "ドラゴンボール 最強への道"
+    ]
+  },
+  {
+    "title": "ぼくのマリー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的麻理"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-03-06T16:00:00.000Z",
+    "end": "1996-08-21T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "bdumJIzyYqADgek",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "80698"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1996,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/72904.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/72904t.jpg",
+    "synonyms": [
+      "Metal Angel Marie",
+      "My Dear Marie",
+      "marie",
+      "ぼくのマリー",
+      "我的麻理"
+    ]
+  },
+  {
+    "title": "それゆけ! 宇宙戦艦ヤマモト・ヨーコ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰山本洋子"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-03-05T16:00:00.000Z",
+    "end": "1996-06-04T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "27206"
+      },
+      {
+        "site": "bilibili",
+        "id": "2226",
+        "begin": "2013-09-12T07:34:00.000Z",
+        "broadcast": "R/2013-09-12T07:34:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "339"
+      },
+      {
+        "site": "anidb",
+        "id": "340"
+      },
+      {
+        "site": "anilist",
+        "id": "1618"
+      },
+      {
+        "site": "anilist",
+        "id": "1671"
+      },
+      {
+        "site": "anime-planet",
+        "id": "starship-girl-yamamoto-yohko"
+      },
+      {
+        "site": "anime-planet",
+        "id": "starship-girl-yamamoto-yohko-ii"
+      },
+      {
+        "site": "anisearch",
+        "id": "2007"
+      },
+      {
+        "site": "anisearch",
+        "id": "3250"
+      },
+      {
+        "site": "kitsu",
+        "id": "1453"
+      },
+      {
+        "site": "kitsu",
+        "id": "1501"
+      },
+      {
+        "site": "livechart",
+        "id": "11277"
+      },
+      {
+        "site": "livechart",
+        "id": "8421"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1618"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1671"
+      },
+      {
+        "site": "notify",
+        "id": "CziB5Kiig"
+      },
+      {
+        "site": "notify",
+        "id": "nKr-5FmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1996,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/1728/133610.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1728/133610t.jpg",
+    "synonyms": [
+      "Sore Yuke! Uchuu Senkan Yamamoto Youko",
+      "Soreyuke! Uchuu Senkan Yamamoto Yohko",
+      "Soreyuke! Uchuu Senkan Yamamoto Yohko I",
+      "Soreyuke! Uchuu Senkan Yamamoto Yooko",
+      "Soreyuke! Uchū Senkan Yamamoto Yōko",
+      "Space Cruiser Yoko Yamamoto",
+      "Starship Girl Yamamoto Yohko",
+      "Starship Girl Yamamoto Yohko (1)",
+      "Starship Girl Yamamoto Yohko I",
+      "Yamamoto Yooko",
+      "それゆけ! 宇宙戦艦ヤマモト・ヨーコ",
+      "それゆけうちゅうせんかんやまもとよーこ",
+      "それゆけ！宇宙戦艦ヤマモト・ヨーコ",
+      "가자! 우주전함 야마모토 요코 OVA I"
+    ]
+  }
+]

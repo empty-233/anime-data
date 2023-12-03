@@ -1,56 +1,689 @@
-{
-  "title": "地球少女アルジュナ",
-  "titleTranslate": {
-    "zh-Hans": [
-      "地球少女Arjuna"
+[
+  {
+    "title": "テイルズ オブ エターニア THE ANIMATION",
+    "titleTranslate": {
+      "zh-Hans": [
+        "永恒传说"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.starchild.co.jp/special/tales/",
+    "begin": "2001-01-08T09:30:00.000Z",
+    "end": "2001-03-26T09:56:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "CTkEgupQwP5h30c",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3055"
+      },
+      {
+        "site": "bilibili",
+        "id": "3312",
+        "begin": "2001-01-07T16:00:01.000Z",
+        "broadcast": "R/2016-01-26T03:24:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "10666"
+      },
+      {
+        "site": "anidb",
+        "id": "1374"
+      },
+      {
+        "site": "anidb",
+        "id": "15707"
+      },
+      {
+        "site": "anidb",
+        "id": "4548"
+      },
+      {
+        "site": "anidb",
+        "id": "6040"
+      },
+      {
+        "site": "anidb",
+        "id": "6496"
+      },
+      {
+        "site": "anidb",
+        "id": "8942"
+      },
+      {
+        "site": "anilist",
+        "id": "12699"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tales-of-phantasia"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tales-of-puppet"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tales-of-symphonia-the-animation-sylvarant-episode"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tales-of-the-abyss"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tales-of-vesperia-the-first-strike"
+      },
+      {
+        "site": "anisearch",
+        "id": "13199"
+      },
+      {
+        "site": "anisearch",
+        "id": "524"
+      },
+      {
+        "site": "anisearch",
+        "id": "7575"
+      },
+      {
+        "site": "livechart",
+        "id": "1645"
+      },
+      {
+        "site": "livechart",
+        "id": "1972"
+      },
+      {
+        "site": "livechart",
+        "id": "1973"
+      },
+      {
+        "site": "livechart",
+        "id": "2236"
+      },
+      {
+        "site": "livechart",
+        "id": "3907"
+      },
+      {
+        "site": "livechart",
+        "id": "4359"
+      },
+      {
+        "site": "livechart",
+        "id": "4371"
+      },
+      {
+        "site": "livechart",
+        "id": "4925"
+      },
+      {
+        "site": "livechart",
+        "id": "5410"
+      },
+      {
+        "site": "livechart",
+        "id": "601"
+      },
+      {
+        "site": "livechart",
+        "id": "6204"
+      },
+      {
+        "site": "livechart",
+        "id": "6789"
+      },
+      {
+        "site": "livechart",
+        "id": "7332"
+      },
+      {
+        "site": "livechart",
+        "id": "7850"
+      },
+      {
+        "site": "livechart",
+        "id": "7876"
+      },
+      {
+        "site": "myanimelist",
+        "id": "12699"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2001,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/42089.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/42089t.jpg",
+    "synonyms": [
+      "Tales of Eternia",
+      "Tales of Eternia THE ANIMATION",
+      "Tales of Eternia: The Animation",
+      "ToE",
+      "Приказки от Етерния",
+      "Сказания Этернии",
+      "ているずおぶえたーにあじあにめーしょん",
+      "テイルズ オブ エターニア THE ANIMATION",
+      "テイルズ オブ エターニア The Animation",
+      "永恒传说",
+      "테일즈 오브 이터니아 The Animation"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "http://www.bandaivisual.co.jp/arjuna/",
-  "begin": "2001-01-09T16:00:00.000Z",
-  "end": "2001-03-27T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "pptv",
-      "id": "ia7eSEHjeTozvbdU",
-      "begin": ""
+  {
+    "title": "頭文字D Third Stage",
+    "titleTranslate": {
+      "zh-Hans": [
+        "头文字D Third Stage"
+      ]
     },
-    {
-      "site": "bangumi",
-      "id": "19418"
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-01-13T16:00:00.000Z",
+    "end": "2001-01-13T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "f9SvLZX7a6kMiavI",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "u/uk42ddvuyqxiq9q",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "9569"
+      },
+      {
+        "site": "bilibili",
+        "id": "209",
+        "begin": "2001-01-12T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "11"
+      },
+      {
+        "site": "anidb",
+        "id": "145"
+      },
+      {
+        "site": "anidb",
+        "id": "1724"
+      },
+      {
+        "site": "anidb",
+        "id": "631"
+      },
+      {
+        "site": "anidb",
+        "id": "9987"
+      },
+      {
+        "site": "anilist",
+        "id": "12725"
+      },
+      {
+        "site": "anilist",
+        "id": "18"
+      },
+      {
+        "site": "anilist",
+        "id": "186"
+      },
+      {
+        "site": "anilist",
+        "id": "821"
+      },
+      {
+        "site": "anilist",
+        "id": "822"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-battle-stage"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-battle-stage-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-battle-stage-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-extra-stage"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-extra-stage-2-tabidachi-no-green"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-fifth-stage"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-final-stage"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-fourth-stage"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-legend-1-awakening"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-legend-2-racer"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-legend-3-dream"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-project-d-to-the-next-stage-project-d-e-mukete"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-second-stage"
+      },
+      {
+        "site": "anisearch",
+        "id": "11448"
+      },
+      {
+        "site": "anisearch",
+        "id": "3277"
+      },
+      {
+        "site": "anisearch",
+        "id": "3342"
+      },
+      {
+        "site": "anisearch",
+        "id": "806"
+      },
+      {
+        "site": "kitsu",
+        "id": "163"
+      },
+      {
+        "site": "kitsu",
+        "id": "6799"
+      },
+      {
+        "site": "kitsu",
+        "id": "728"
+      },
+      {
+        "site": "kitsu",
+        "id": "729"
+      },
+      {
+        "site": "kitsu",
+        "id": "9"
+      },
+      {
+        "site": "livechart",
+        "id": "11014"
+      },
+      {
+        "site": "livechart",
+        "id": "11043"
+      },
+      {
+        "site": "livechart",
+        "id": "11044"
+      },
+      {
+        "site": "livechart",
+        "id": "1332"
+      },
+      {
+        "site": "livechart",
+        "id": "149"
+      },
+      {
+        "site": "livechart",
+        "id": "1655"
+      },
+      {
+        "site": "livechart",
+        "id": "294"
+      },
+      {
+        "site": "livechart",
+        "id": "3850"
+      },
+      {
+        "site": "livechart",
+        "id": "4467"
+      },
+      {
+        "site": "livechart",
+        "id": "4595"
+      },
+      {
+        "site": "livechart",
+        "id": "7013"
+      },
+      {
+        "site": "livechart",
+        "id": "7516"
+      },
+      {
+        "site": "livechart",
+        "id": "8273"
+      },
+      {
+        "site": "livechart",
+        "id": "8274"
+      },
+      {
+        "site": "livechart",
+        "id": "943"
+      },
+      {
+        "site": "myanimelist",
+        "id": "12725"
+      },
+      {
+        "site": "myanimelist",
+        "id": "18"
+      },
+      {
+        "site": "myanimelist",
+        "id": "186"
+      },
+      {
+        "site": "myanimelist",
+        "id": "821"
+      },
+      {
+        "site": "myanimelist",
+        "id": "822"
+      },
+      {
+        "site": "notify",
+        "id": "07YAcKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "MQjpcFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "hm_HtFmig"
+      },
+      {
+        "site": "notify",
+        "id": "rDLA5FiiR"
+      },
+      {
+        "site": "notify",
+        "id": "woit5KmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2001,
+      "month": "01"
     },
-    {
-      "site": "anime-planet",
-      "id": "arjuna-before-birth"
-    },
-    {
-      "site": "anisearch",
-      "id": "9303"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 2001,
-    "month": "01"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/40397.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/40397t.jpg",
+    "synonyms": [
+      "ID s3",
+      "ID3rd",
+      "IDTM",
+      "IDTS",
+      "Initial D - 3e étape",
+      "Initial D 3rd Stage",
+      "Initial D Stage 3",
+      "Initial D THIRD STAGE",
+      "Initial D The Movie",
+      "Initial D: 3e Étape - Le film",
+      "Initial D: Supera el Límite de Velocidad Temporada 3",
+      "Initial D: Tercera Temporada",
+      "Initial D: Third Stage",
+      "頭文字D Third Stage",
+      "頭文字〈イニシャル〉D THIRD STAGE"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 13,
-  "picture": "https://cdn.myanimelist.net/images/anime/1294/133834.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1294/133834t.jpg",
-  "synonyms": [
-    "Arjuna",
-    "Arjuna - córka Ziemi",
-    "Arjuna córka Ziemi",
-    "Arjuna: La ragazza terra",
-    "Chikyū Shōjo Arjuna",
-    "EGA",
-    "Earth Girl Arjuna",
-    "Earth Maiden Arjuna",
-    "Арджуна",
-    "Земная Дева Арджуна",
-    "Земното момиче Арджуна",
-    "地球少女Arjuna",
-    "地球少女アルジュナ"
-  ]
-}
+  {
+    "title": "グラップラー刃牙",
+    "titleTranslate": {
+      "zh-Hans": [
+        "刃牙",
+        "刃牙 第1季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://baki.ne.jp/",
+    "begin": "2001-01-08T16:00:00.000Z",
+    "end": "2001-06-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgckd45",
+        "begin": "2013-08-06T06:37:33.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "62893"
+      },
+      {
+        "site": "qq",
+        "id": "u/uz35883n8h3up9z",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "1512"
+      },
+      {
+        "site": "anidb",
+        "id": "880"
+      },
+      {
+        "site": "anilist",
+        "id": "1859"
+      },
+      {
+        "site": "anilist",
+        "id": "551"
+      },
+      {
+        "site": "anime-planet",
+        "id": "baki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "baki-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "baki-the-grappler-maximum-tournament"
+      },
+      {
+        "site": "anime-planet",
+        "id": "grappler-baki-the-ultimate-fighter"
+      },
+      {
+        "site": "anisearch",
+        "id": "1065"
+      },
+      {
+        "site": "anisearch",
+        "id": "1652"
+      },
+      {
+        "site": "kitsu",
+        "id": "12315"
+      },
+      {
+        "site": "kitsu",
+        "id": "1676"
+      },
+      {
+        "site": "kitsu",
+        "id": "508"
+      },
+      {
+        "site": "livechart",
+        "id": "10158"
+      },
+      {
+        "site": "livechart",
+        "id": "11152"
+      },
+      {
+        "site": "livechart",
+        "id": "2246"
+      },
+      {
+        "site": "livechart",
+        "id": "2433"
+      },
+      {
+        "site": "livechart",
+        "id": "6212"
+      },
+      {
+        "site": "livechart",
+        "id": "9326"
+      },
+      {
+        "site": "livechart",
+        "id": "9366"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1859"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33566"
+      },
+      {
+        "site": "myanimelist",
+        "id": "551"
+      },
+      {
+        "site": "notify",
+        "id": "KH6ghKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "kSQB5KiiR"
+      },
+      {
+        "site": "notify",
+        "id": "lQBTcFimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2001,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/1782/128917.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1782/128917t.jpg",
+    "synonyms": [
+      "Baki",
+      "Baki The Grappler",
+      "Baki the Grappler",
+      "Dövüşçü Baki",
+      "Grappler Baki",
+      "Grappler Baki (2001)",
+      "Grappler Baki TV",
+      "gbtv",
+      "Боец Баки",
+      "グラップラー刃牙",
+      "グラップラー刃牙 (2001)",
+      "グラップラー刃牙 (TV)",
+      "グラップラー刃牙 （2001）"
+    ]
+  },
+  {
+    "title": "地球少女アルジュナ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "地球少女Arjuna"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.bandaivisual.co.jp/arjuna/",
+    "begin": "2001-01-09T16:00:00.000Z",
+    "end": "2001-03-27T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "ia7eSEHjeTozvbdU",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "19418"
+      },
+      {
+        "site": "anime-planet",
+        "id": "arjuna-before-birth"
+      },
+      {
+        "site": "anisearch",
+        "id": "9303"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2001,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/1294/133834.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1294/133834t.jpg",
+    "synonyms": [
+      "Arjuna",
+      "Arjuna - córka Ziemi",
+      "Arjuna córka Ziemi",
+      "Arjuna: La ragazza terra",
+      "Chikyū Shōjo Arjuna",
+      "EGA",
+      "Earth Girl Arjuna",
+      "Earth Maiden Arjuna",
+      "Арджуна",
+      "Земная Дева Арджуна",
+      "Земното момиче Арджуна",
+      "地球少女Arjuna",
+      "地球少女アルジュナ"
+    ]
+  }
+]

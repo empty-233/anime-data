@@ -1,52 +1,834 @@
-{
-  "title": "Dr.リンにきいてみて!",
-  "titleTranslate": {
-    "zh-Hans": [
-      "恋爱占卜师",
-      "淘氣守護星"
+[
+  {
+    "title": "ONE PIECE ねじまき島の冒険",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海贼王 发条岛的冒险"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-03-03T16:00:00.000Z",
+    "end": "2001-03-03T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1871"
+      },
+      {
+        "site": "anidb",
+        "id": "69"
+      },
+      {
+        "site": "anilist",
+        "id": "21"
+      },
+      {
+        "site": "anilist",
+        "id": "2385"
+      },
+      {
+        "site": "anilist",
+        "id": "459"
+      },
+      {
+        "site": "anilist",
+        "id": "461"
+      },
+      {
+        "site": "anime-planet",
+        "id": "one-piece"
+      },
+      {
+        "site": "anisearch",
+        "id": "2227"
+      },
+      {
+        "site": "anisearch",
+        "id": "3921"
+      },
+      {
+        "site": "kitsu",
+        "id": "12"
+      },
+      {
+        "site": "kitsu",
+        "id": "2162"
+      },
+      {
+        "site": "livechart",
+        "id": "321"
+      },
+      {
+        "site": "livechart",
+        "id": "4028"
+      },
+      {
+        "site": "livechart",
+        "id": "4104"
+      },
+      {
+        "site": "livechart",
+        "id": "4187"
+      },
+      {
+        "site": "livechart",
+        "id": "4199"
+      },
+      {
+        "site": "livechart",
+        "id": "4208"
+      },
+      {
+        "site": "livechart",
+        "id": "4720"
+      },
+      {
+        "site": "livechart",
+        "id": "4723"
+      },
+      {
+        "site": "livechart",
+        "id": "4817"
+      },
+      {
+        "site": "livechart",
+        "id": "4824"
+      },
+      {
+        "site": "livechart",
+        "id": "4938"
+      },
+      {
+        "site": "livechart",
+        "id": "5000"
+      },
+      {
+        "site": "livechart",
+        "id": "5174"
+      },
+      {
+        "site": "livechart",
+        "id": "5208"
+      },
+      {
+        "site": "livechart",
+        "id": "6598"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2385"
+      },
+      {
+        "site": "notify",
+        "id": "VgBEcFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "jdZp5KmiR"
+      }
     ],
-    "zh-Hant": [
-      "戀愛占卜師"
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2001,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1939/97699.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1939/97699t.jpg",
+    "synonyms": [
+      "ONE PIECE ねじまき島の冒険",
+      "ONE PIECE: Nejimaki-jima no Bouken",
+      "OP Movie 2",
+      "One Piece - 2. Film: Abenteuer auf der Spiralinsel",
+      "One Piece - Avventura all'Isola Spirale",
+      "One Piece : L`Aventure de l`île de l`horloge",
+      "One Piece : L’Aventure de l’île de l’horloge",
+      "One Piece Film 2: Abenteuer auf der Spiralinsel!",
+      "One Piece Film 2: L'Aventure de L'île de L'horloge",
+      "One Piece Movie 02",
+      "One Piece Movie 2",
+      "One Piece Movie 2: Clockwork Island Adventure",
+      "One Piece Movie 2: Nejimaki-jima no Daibouken",
+      "One Piece Película 2: Aventura en la Isla Espiral",
+      "One Piece The Movie 2: Clockwork Island Adventure",
+      "One Piece: 2. Film - Abenteuer auf der Spiralinsel",
+      "One Piece: A Aventura na Ilha Mecânica",
+      "One Piece: Abenteuer auf der Spiralinsel",
+      "One Piece: Adventure of Spiral Island",
+      "One Piece: Aventura En La Isla Engranaje",
+      "One Piece: Avventura all'Isola Spirale",
+      "One Piece: Avventura all`Isola Spirale",
+      "One Piece: Clockwork Island Adventure",
+      "One Piece: Nejimaki Shima no Bouken",
+      "One Piece: Nejimaki-jima no Bouken",
+      "One Piece: Nejimaki-jima no Bōken",
+      "One Piece: Nejimakijima no Bouken",
+      "One Piece: The Adventure of Spiral Island",
+      "Vua Hải Tặc: Cuộc phiêu lưu đến đảo máy đồng hồ",
+      "วันพีซ เดอะมูฟวี่ 2 การผจญภัยบนเกาะแห่งฟันเฟือง",
+      "ワンピース ねじまき島の冒険"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "2001-03-04T16:00:00.000Z",
-  "end": "2002-02-24T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "84222"
+  {
+    "title": "デジモンアドベンチャー02 ディアボロモンの逆襲",
+    "titleTranslate": {
+      "zh-Hans": [
+        "数码暴龙大冒险02 超恶魔兽的反击"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "5327",
-      "begin": "2016-07-25T03:57:00.000Z",
-      "broadcast": "R/2016-07-25T03:57:00.000Z/P7D"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 2001,
-    "month": "03"
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-03-03T16:00:00.000Z",
+    "end": "2001-03-03T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3136"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4tgp",
+        "begin": "2015-08-06T12:03:19.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "10764"
+      },
+      {
+        "site": "anidb",
+        "id": "561"
+      },
+      {
+        "site": "anilist",
+        "id": "1313"
+      },
+      {
+        "site": "anilist",
+        "id": "20802"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-02"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-movie-2-bokura-no-war-game"
+      },
+      {
+        "site": "anisearch",
+        "id": "1480"
+      },
+      {
+        "site": "anisearch",
+        "id": "16588"
+      },
+      {
+        "site": "kitsu",
+        "id": "1178"
+      },
+      {
+        "site": "kitsu",
+        "id": "8684"
+      },
+      {
+        "site": "livechart",
+        "id": "3730"
+      },
+      {
+        "site": "livechart",
+        "id": "3917"
+      },
+      {
+        "site": "livechart",
+        "id": "3980"
+      },
+      {
+        "site": "livechart",
+        "id": "3990"
+      },
+      {
+        "site": "livechart",
+        "id": "4234"
+      },
+      {
+        "site": "livechart",
+        "id": "4251"
+      },
+      {
+        "site": "livechart",
+        "id": "4604"
+      },
+      {
+        "site": "livechart",
+        "id": "4864"
+      },
+      {
+        "site": "livechart",
+        "id": "5139"
+      },
+      {
+        "site": "livechart",
+        "id": "5520"
+      },
+      {
+        "site": "livechart",
+        "id": "5638"
+      },
+      {
+        "site": "livechart",
+        "id": "5655"
+      },
+      {
+        "site": "livechart",
+        "id": "5704"
+      },
+      {
+        "site": "livechart",
+        "id": "5834"
+      },
+      {
+        "site": "livechart",
+        "id": "5846"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1313"
+      },
+      {
+        "site": "myanimelist",
+        "id": "25687"
+      },
+      {
+        "site": "notify",
+        "id": "7QA1tFimg"
+      },
+      {
+        "site": "notify",
+        "id": "Z8sxcKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2001,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/82620.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/82620t.jpg",
+    "synonyms": [
+      "Diaboromon no Gyakushuu",
+      "Digimon Adventure 02 - Diablomon Strikes Back",
+      "Digimon Adventure 02 Movie: Diaboromon Strikes Back",
+      "Digimon Adventure 02 Movie: Diaboromon no Gyakushuu",
+      "Digimon Adventure 02: Diablomon Strikes Back",
+      "Digimon Adventure 02: Diablomon no Gyakushū",
+      "Digimon Adventure 02: Return of Diablomon",
+      "Digimon Adventure 02: Revenge of Diaboromon",
+      "Digimon Movie 02 - Diaboromon no Gyakushuu",
+      "Digimon Movie 02 - Return of Diablomon",
+      "Digimon Movie 02 - Season 02",
+      "Digimon Movie 4",
+      "Return of Diablomon",
+      "Revenge of Diaboromon",
+      "digi02 movie 2",
+      "デジモンアドベンチャー02 ディアボロモンの逆襲",
+      "数码宝贝大冒险02 超恶魔兽的反击"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 51,
-  "picture": "https://cdn.myanimelist.net/images/anime/1279/96440.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1279/96440t.jpg",
-  "synonyms": [
-    "Ask Dr. Lin",
-    "Ask Dr. Rin",
-    "Ask Dr. Rin!",
-    "Dr. Rin ni Kiite Mite!",
-    "Dr. Rin ni Kīte Mite!",
-    "Dr.リンにきいてみて!",
-    "Dr.リンにきいてみて！",
-    "Listen to Dr. Lin",
-    "Pay Heed to Doctor Lin",
-    "Please ask Dr. Lin",
-    "rin",
-    "恋爱占卜师"
-  ]
-}
+  {
+    "title": "ドラえもん のび太と翼の勇者たち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦 大雄与翼之勇者"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄與翼之勇者"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-03-10T16:00:00.000Z",
+    "end": "2001-03-10T17:40:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "80960",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "465"
+      },
+      {
+        "site": "pptv",
+        "id": "7qoHhe1TwwFk4ko",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "z/z8alyhrvkd3jp2y",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh6mou1",
+        "begin": "2018-05-31T16:12:58.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "3865",
+        "begin": "2001-03-09T16:00:01.000Z",
+        "broadcast": "R/2016-04-27T08:45:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "32240",
+        "begin": "2023-03-16T02:00:00.000Z",
+        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1078"
+      },
+      {
+        "site": "anilist",
+        "id": "2471"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-1979"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back-1998"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-doraemons-strange-sweets-strange"
+      },
+      {
+        "site": "anisearch",
+        "id": "5108"
+      },
+      {
+        "site": "anisearch",
+        "id": "540"
+      },
+      {
+        "site": "kitsu",
+        "id": "2409"
+      },
+      {
+        "site": "kitsu",
+        "id": "2417"
+      },
+      {
+        "site": "kitsu",
+        "id": "460"
+      },
+      {
+        "site": "livechart",
+        "id": "12164"
+      },
+      {
+        "site": "livechart",
+        "id": "5614"
+      },
+      {
+        "site": "livechart",
+        "id": "6575"
+      },
+      {
+        "site": "livechart",
+        "id": "6880"
+      },
+      {
+        "site": "livechart",
+        "id": "8740"
+      },
+      {
+        "site": "livechart",
+        "id": "8868"
+      },
+      {
+        "site": "livechart",
+        "id": "8871"
+      },
+      {
+        "site": "livechart",
+        "id": "8877"
+      },
+      {
+        "site": "livechart",
+        "id": "8878"
+      },
+      {
+        "site": "livechart",
+        "id": "8884"
+      },
+      {
+        "site": "livechart",
+        "id": "8897"
+      },
+      {
+        "site": "livechart",
+        "id": "8900"
+      },
+      {
+        "site": "livechart",
+        "id": "8901"
+      },
+      {
+        "site": "livechart",
+        "id": "8902"
+      },
+      {
+        "site": "livechart",
+        "id": "8998"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2471"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2645"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2653"
+      },
+      {
+        "site": "notify",
+        "id": "BRto5KimR"
+      },
+      {
+        "site": "notify",
+        "id": "lqAs5KmmR"
+      },
+      {
+        "site": "notify",
+        "id": "tRby5FmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2001,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/72427.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/72427t.jpg",
+    "synonyms": [
+      "Doraemon Movie 22",
+      "Doraemon Movie 22: Nobita's Winged Heroes",
+      "Doraemon No Mágico Mundo das Aves",
+      "Doraemon Película 22: Doraemon en el Mágico Mundo de las Aves",
+      "Doraemon en el mágico mundo de las aves",
+      "Doraemon the Movie: Doraemon: Nobita and the Winged Braves",
+      "Doraemon the Movie: Nobita and the Winged Braves",
+      "Doraemon viaja al mágico mundo de las aves",
+      "Doraemon y el mágico mundo de las aves",
+      "Doraemon: Nobita and the Winged Braves",
+      "Doraemon: Nobita to Tsubasa no Yuusha-tachi",
+      "Doraemon: Nobita to Tsubasa no Yūsha-tachi",
+      "Doraemon: Nobita's Winged Heroes",
+      "Doraemon: Nobita`s Winged Heroes",
+      "ドラえもん のび太と翼の勇者たち",
+      "哆啦A梦 大雄与翼之勇者",
+      "映画 ドラえもん のび太と翼の勇者たち"
+    ]
+  },
+  {
+    "title": "頭文字D Extra Stage",
+    "titleTranslate": {
+      "zh-Hans": [
+        "头文字D Extra Stage"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-03-21T16:00:00.000Z",
+    "end": "2008-12-04T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "44758"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234400",
+        "begin": "",
+        "broadcast": "",
+        "comment": "Extra Stage 2: 28234401"
+      },
+      {
+        "site": "anidb",
+        "id": "145"
+      },
+      {
+        "site": "anidb",
+        "id": "6129"
+      },
+      {
+        "site": "anidb",
+        "id": "625"
+      },
+      {
+        "site": "anilist",
+        "id": "187"
+      },
+      {
+        "site": "anilist",
+        "id": "5228"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-battle-stage"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-battle-stage-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-battle-stage-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-extra-stage-2-tabidachi-no-green"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-fifth-stage"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-final-stage"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-fourth-stage"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-legend-1-awakening"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-legend-2-racer"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-legend-3-dream"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-project-d-to-the-next-stage-project-d-e-mukete"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-second-stage"
+      },
+      {
+        "site": "anime-planet",
+        "id": "initial-d-third-stage"
+      },
+      {
+        "site": "anisearch",
+        "id": "3277"
+      },
+      {
+        "site": "anisearch",
+        "id": "5049"
+      },
+      {
+        "site": "kitsu",
+        "id": "163"
+      },
+      {
+        "site": "kitsu",
+        "id": "164"
+      },
+      {
+        "site": "kitsu",
+        "id": "3999"
+      },
+      {
+        "site": "livechart",
+        "id": "11014"
+      },
+      {
+        "site": "livechart",
+        "id": "11043"
+      },
+      {
+        "site": "livechart",
+        "id": "11044"
+      },
+      {
+        "site": "livechart",
+        "id": "1332"
+      },
+      {
+        "site": "livechart",
+        "id": "149"
+      },
+      {
+        "site": "livechart",
+        "id": "1655"
+      },
+      {
+        "site": "livechart",
+        "id": "294"
+      },
+      {
+        "site": "livechart",
+        "id": "3850"
+      },
+      {
+        "site": "livechart",
+        "id": "4467"
+      },
+      {
+        "site": "livechart",
+        "id": "4595"
+      },
+      {
+        "site": "livechart",
+        "id": "4624"
+      },
+      {
+        "site": "livechart",
+        "id": "7516"
+      },
+      {
+        "site": "livechart",
+        "id": "8273"
+      },
+      {
+        "site": "livechart",
+        "id": "8274"
+      },
+      {
+        "site": "livechart",
+        "id": "943"
+      },
+      {
+        "site": "myanimelist",
+        "id": "186"
+      },
+      {
+        "site": "myanimelist",
+        "id": "187"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5228"
+      },
+      {
+        "site": "notify",
+        "id": "MQjpcFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "i3jp5Kiig"
+      },
+      {
+        "site": "notify",
+        "id": "o2mjcKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2001,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/13169.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/13169t.jpg",
+    "synonyms": [
+      "IDES",
+      "Initial D - Extra Stage",
+      "Initial D : Extra Stage",
+      "Initial D EXTRA STAGE",
+      "Initial D: Beyond Impact Blue.../Sentimental White",
+      "Initial D: Extra Stage",
+      "頭文字D Extra Stage",
+      "頭文字〈イニシャル〉D EXTRA STAGE"
+    ]
+  },
+  {
+    "title": "Dr.リンにきいてみて!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恋爱占卜师",
+        "淘氣守護星"
+      ],
+      "zh-Hant": [
+        "戀愛占卜師"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-03-04T16:00:00.000Z",
+    "end": "2002-02-24T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "84222"
+      },
+      {
+        "site": "bilibili",
+        "id": "5327",
+        "begin": "2016-07-25T03:57:00.000Z",
+        "broadcast": "R/2016-07-25T03:57:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2001,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 51,
+    "picture": "https://cdn.myanimelist.net/images/anime/1279/96440.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1279/96440t.jpg",
+    "synonyms": [
+      "Ask Dr. Lin",
+      "Ask Dr. Rin",
+      "Ask Dr. Rin!",
+      "Dr. Rin ni Kiite Mite!",
+      "Dr. Rin ni Kīte Mite!",
+      "Dr.リンにきいてみて!",
+      "Dr.リンにきいてみて！",
+      "Listen to Dr. Lin",
+      "Pay Heed to Doctor Lin",
+      "Please ask Dr. Lin",
+      "rin",
+      "恋爱占卜师"
+    ]
+  }
+]

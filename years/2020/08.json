@@ -1,96 +1,98 @@
-{
-  "title": "映画 ギヴン",
-  "titleTranslate": {
-    "zh-Hans": [
-      "电影 GIVEN"
+[
+  {
+    "title": "映画 ギヴン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 GIVEN"
+      ],
+      "zh-Hant": [
+        "GIVEN 被贈與的未來 劇場版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://given-anime.com/",
+    "begin": "2022-08-21T16:00:00.000Z",
+    "end": "2022-08-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "290993"
+      },
+      {
+        "site": "gamer",
+        "id": "109956",
+        "begin": "2021-05-06T09:00:00.000Z",
+        "broadcast": "R/2021-05-06T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "15102"
+      },
+      {
+        "site": "anilist",
+        "id": "111734"
+      },
+      {
+        "site": "anime-planet",
+        "id": "given-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "14627"
+      },
+      {
+        "site": "kitsu",
+        "id": "42572"
+      },
+      {
+        "site": "livechart",
+        "id": "10607"
+      },
+      {
+        "site": "livechart",
+        "id": "9356"
+      },
+      {
+        "site": "livechart",
+        "id": "9604"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40421"
+      },
+      {
+        "site": "notify",
+        "id": "rpnAwnQWg"
+      }
     ],
-    "zh-Hant": [
-      "GIVEN 被贈與的未來 劇場版"
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2024,
+      "month": "08"
+    },
+    "status": "UPCOMING",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/1339/139214.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1339/139214t.jpg",
+    "synonyms": [
+      "Eiga Given (2024)",
+      "Given (Sequel)",
+      "Given (Zoku-hen)",
+      "Given Movie (Sequel)",
+      "Given Movie 2: Hiiragi mix",
+      "Given Movie: Hiiragi Mix",
+      "Given: Hiiragi mix",
+      "given (Sequel Movie)",
+      "given (Zokuhen Eiga)",
+      "ギヴン (続編 映画)",
+      "ギヴン 柊mix",
+      "ギヴン （続編）",
+      "ギヴン(続編)",
+      "映画 ギヴン",
+      "映画 ギヴン (2024)",
+      "映画 ギヴン 柊mix"
     ]
-  },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "http://given-anime.com/",
-  "begin": "2022-08-21T16:00:00.000Z",
-  "end": "2022-08-21T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "290993"
-    },
-    {
-      "site": "gamer",
-      "id": "109956",
-      "begin": "2021-05-06T09:00:00.000Z",
-      "broadcast": "R/2021-05-06T09:00:00.000Z/P7D"
-    },
-    {
-      "site": "anidb",
-      "id": "15102"
-    },
-    {
-      "site": "anilist",
-      "id": "111734"
-    },
-    {
-      "site": "anime-planet",
-      "id": "given-movie"
-    },
-    {
-      "site": "anisearch",
-      "id": "14627"
-    },
-    {
-      "site": "kitsu",
-      "id": "42572"
-    },
-    {
-      "site": "livechart",
-      "id": "10607"
-    },
-    {
-      "site": "livechart",
-      "id": "9356"
-    },
-    {
-      "site": "livechart",
-      "id": "9604"
-    },
-    {
-      "site": "myanimelist",
-      "id": "40421"
-    },
-    {
-      "site": "notify",
-      "id": "rpnAwnQWg"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 2024,
-    "month": "08"
-  },
-  "status": "UPCOMING",
-  "episodes": 2,
-  "picture": "https://cdn.myanimelist.net/images/anime/1339/139214.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1339/139214t.jpg",
-  "synonyms": [
-    "Eiga Given (2024)",
-    "Given (Sequel)",
-    "Given (Zoku-hen)",
-    "Given Movie (Sequel)",
-    "Given Movie 2: Hiiragi mix",
-    "Given Movie: Hiiragi Mix",
-    "Given: Hiiragi mix",
-    "given (Sequel Movie)",
-    "given (Zokuhen Eiga)",
-    "ギヴン (続編 映画)",
-    "ギヴン 柊mix",
-    "ギヴン （続編）",
-    "ギヴン(続編)",
-    "映画 ギヴン",
-    "映画 ギヴン (2024)",
-    "映画 ギヴン 柊mix"
-  ]
-}
+  }
+]

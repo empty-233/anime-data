@@ -1,98 +1,235 @@
-{
-  "title": "ヴァンドレッド 激闘篇",
-  "titleTranslate": {
-    "zh-Hans": [
-      "银河冒险战记 激斗篇"
+[
+  {
+    "title": "ぷちぷり＊ユーシィ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小公主优希",
+        "公主候补生佑希",
+        "超龄细公主",
+        "长不大的优希",
+        "公主候补生"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://web.archive.org/*/www.yucie.com/",
+    "begin": "2002-09-30T20:00:00.000Z",
+    "end": "2003-03-24T20:50:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "bJ5q6FC2JmTHRa0",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "4543"
+      },
+      {
+        "site": "letv",
+        "id": "18549",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5228",
+        "begin": "2002-09-29T16:00:01.000Z",
+        "broadcast": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2002,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/20142.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/20142t.jpg",
+    "synonyms": [
+      "PPY",
+      "Pequeña Princesa Yucie",
+      "Petit Puri Yucie",
+      "Petite Pri Yucie",
+      "Petite Pri Yuushi",
+      "Petite Princess Yucie",
+      "Puchi Puri * Yuushi",
+      "Puchi Puri Yuuri",
+      "Puchi Puri Yuushi",
+      "Yucie",
+      "יושי הנסיכה הקסומה",
+      "ぷちぷり*ユーシィ",
+      "ぷちぷりユーシィ",
+      "ぷちぷり＊ユーシィ",
+      "小公主優希"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "2002-09-13T16:00:00.000Z",
-  "end": "2002-09-13T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "54726"
+  {
+    "title": "アニメーション制作進行くろみちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "黑美 动画制作进行",
+        "动画制作进行黑美"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "4048",
-      "begin": "2016-05-24T08:58:00.000Z",
-      "broadcast": "R/2016-05-24T08:58:00.000Z/P7D"
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-09-25T16:00:00.000Z",
+    "end": "2004-01-28T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "W5Nt61O5KWfKSLA",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "25665"
+      },
+      {
+        "site": "anidb",
+        "id": "1803"
+      },
+      {
+        "site": "anilist",
+        "id": "1798"
+      },
+      {
+        "site": "anime-planet",
+        "id": "animation-runner-kuromi-2"
+      },
+      {
+        "site": "anisearch",
+        "id": "2722"
+      },
+      {
+        "site": "kitsu",
+        "id": "1618"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1798"
+      },
+      {
+        "site": "notify",
+        "id": "oXABcFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2001,
+      "month": "09"
     },
-    {
-      "site": "anidb",
-      "id": "178"
-    },
-    {
-      "site": "anidb",
-      "id": "462"
-    },
-    {
-      "site": "anilist",
-      "id": "181"
-    },
-    {
-      "site": "anime-planet",
-      "id": "vandread"
-    },
-    {
-      "site": "anime-planet",
-      "id": "vandread-integral"
-    },
-    {
-      "site": "anime-planet",
-      "id": "vandread-the-second-stage"
-    },
-    {
-      "site": "anisearch",
-      "id": "2186"
-    },
-    {
-      "site": "kitsu",
-      "id": "158"
-    },
-    {
-      "site": "livechart",
-      "id": "3994"
-    },
-    {
-      "site": "livechart",
-      "id": "4431"
-    },
-    {
-      "site": "livechart",
-      "id": "7145"
-    },
-    {
-      "site": "myanimelist",
-      "id": "181"
-    },
-    {
-      "site": "notify",
-      "id": "53rpcFmmR"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 2002,
-    "month": "09"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1/1797.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1/1797t.jpg",
+    "synonyms": [
+      "Animation Runner Kuromi",
+      "Animation Seisaku Shinkō Kuromi-chan",
+      "Kuromi",
+      "ark",
+      "Куроми работает над аниме",
+      "アニメーション制作進行くろみちゃん"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/13/23643.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/13/23643t.jpg",
-  "synonyms": [
-    "VanDread Gekitou-hen",
-    "VanDread Gekitouhen",
-    "VanDread Gekitō-hen",
-    "Vandread Gekitou-hen",
-    "Vandread Intense Fighting Volume",
-    "Vandread Turbulence",
-    "Vandread: Turbulence",
-    "ヴァンドレッド 激闘篇",
-    "ヴァンドレッド　激闘篇",
-    "반드레드 격동편"
-  ]
-}
+  {
+    "title": "ヴァンドレッド 激闘篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河冒险战记 激斗篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-09-13T16:00:00.000Z",
+    "end": "2002-09-13T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "54726"
+      },
+      {
+        "site": "bilibili",
+        "id": "4048",
+        "begin": "2016-05-24T08:58:00.000Z",
+        "broadcast": "R/2016-05-24T08:58:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "178"
+      },
+      {
+        "site": "anidb",
+        "id": "462"
+      },
+      {
+        "site": "anilist",
+        "id": "181"
+      },
+      {
+        "site": "anime-planet",
+        "id": "vandread"
+      },
+      {
+        "site": "anime-planet",
+        "id": "vandread-integral"
+      },
+      {
+        "site": "anime-planet",
+        "id": "vandread-the-second-stage"
+      },
+      {
+        "site": "anisearch",
+        "id": "2186"
+      },
+      {
+        "site": "kitsu",
+        "id": "158"
+      },
+      {
+        "site": "livechart",
+        "id": "3994"
+      },
+      {
+        "site": "livechart",
+        "id": "4431"
+      },
+      {
+        "site": "livechart",
+        "id": "7145"
+      },
+      {
+        "site": "myanimelist",
+        "id": "181"
+      },
+      {
+        "site": "notify",
+        "id": "53rpcFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2002,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/23643.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/23643t.jpg",
+    "synonyms": [
+      "VanDread Gekitou-hen",
+      "VanDread Gekitouhen",
+      "VanDread Gekitō-hen",
+      "Vandread Gekitou-hen",
+      "Vandread Intense Fighting Volume",
+      "Vandread Turbulence",
+      "Vandread: Turbulence",
+      "ヴァンドレッド 激闘篇",
+      "ヴァンドレッド　激闘篇",
+      "반드레드 격동편"
+    ]
+  }
+]

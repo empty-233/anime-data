@@ -1,89 +1,908 @@
-{
-  "title": "劇場版 若おかみは小学生!",
-  "titleTranslate": {
-    "zh-Hans": [
-      "剧场版 温泉屋的小老板娘"
+[
+  {
+    "title": "キラキラハッピー★ひらけ！ここたま",
+    "titleTranslate": {
+      "zh-Hans": [
+        "闪亮幸福★开启吧!心灵"
+      ],
+      "zh-Hant": [
+        "開啟吧！見習神仙精靈"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://coco-tama.com/",
+    "begin": "2018-09-06T08:55:00.000Z",
+    "end": "2019-09-26T09:25:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "248907"
+      },
+      {
+        "site": "nicovideo",
+        "id": "coco-tama",
+        "begin": "2018-09-11T03:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "106938",
+        "begin": "2021-08-20T05:00:00.000Z",
+        "broadcast": "R/2021-08-20T05:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "11293"
+      },
+      {
+        "site": "anidb",
+        "id": "15109"
+      },
+      {
+        "site": "anilist",
+        "id": "112036"
+      },
+      {
+        "site": "anilist",
+        "id": "21237"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kamisama-minarai-himitsu-no-cocotama"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kamisama-minarai-himitsu-no-cocotama-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mono-no-kami-sama-cocotama"
+      },
+      {
+        "site": "anisearch",
+        "id": "10719"
+      },
+      {
+        "site": "anisearch",
+        "id": "14643"
+      },
+      {
+        "site": "kitsu",
+        "id": "11112"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31044"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37978"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2018,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 55,
+    "picture": "https://cdn.myanimelist.net/images/anime/1742/93170.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1742/93170t.jpg",
+    "synonyms": [
+      "Kira Kira Happy Hirake! Cocotama",
+      "Kira Kira Happy ★ Hirake! Cocotama",
+      "Kira Kira Happy★Hirake! Cocotama",
+      "Kirakira Happy Hirake! Cocotama",
+      "Sparkling Happy ★ Open! Cocotama",
+      "キラキラハッピー★ひらけ! ここたま",
+      "キラキラハッピー★ひらけ！ ここたま",
+      "キラキラハッピー★ひらけ！ここたま",
+      "闪亮幸福★开启吧!心灵",
+      "반짝반짝 해피★ 열려라! 코코타마"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "http://www.waka-okami.jp/movie",
-  "begin": "2018-09-21T16:00:00.000Z",
-  "end": "2018-09-21T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "242483"
+  {
+    "title": "DOUBLE DECKER! ダグ&キリル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "道格&基里尔"
+      ],
+      "zh-Hant": [
+        "Double Decker! 道格＆基里爾",
+        "DOUBLE DECKER！道格＆基里爾",
+        "Double Decker! 道格&基里爾"
+      ],
+      "en": [
+        "Double Decker! Doug and Kirill"
+      ]
     },
-    {
-      "site": "nicovideo",
-      "id": "waka-okami-movie",
-      "begin": "",
-      "broadcast": ""
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://dabudeka.com/",
+    "begin": "2018-09-30T13:30:00.000Z",
+    "end": "2018-12-30T14:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "234761"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "140652",
+        "begin": "2018-09-03T14:00:00.000Z",
+        "broadcast": "R/2018-09-03T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "doubledeckerdougandkirill_118754",
+        "begin": "2018-10-05T14:00:00.000Z",
+        "broadcast": "R/2018-10-05T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "95255",
+        "begin": "2021-03-18T03:00:00.000Z",
+        "broadcast": "R/2021-03-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "8101"
+      },
+      {
+        "site": "anilist",
+        "id": "106690"
+      },
+      {
+        "site": "anime-planet",
+        "id": "double-decker-doug-and-kirill-extra-story"
+      },
+      {
+        "site": "anisearch",
+        "id": "14171"
+      },
+      {
+        "site": "kitsu",
+        "id": "42224"
+      },
+      {
+        "site": "kitsu",
+        "id": "5953"
+      },
+      {
+        "site": "livechart",
+        "id": "8687"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38895"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9941"
+      },
+      {
+        "site": "notify",
+        "id": "T36GpFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "vaCEGJSZR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2018,
+      "month": "09"
     },
-    {
-      "site": "anidb",
-      "id": "13875"
-    },
-    {
-      "site": "anilist",
-      "id": "101277"
-    },
-    {
-      "site": "anime-planet",
-      "id": "wakaokami-wa-shougakusei"
-    },
-    {
-      "site": "anisearch",
-      "id": "13438"
-    },
-    {
-      "site": "kitsu",
-      "id": "41070"
-    },
-    {
-      "site": "livechart",
-      "id": "3133"
-    },
-    {
-      "site": "myanimelist",
-      "id": "37433"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 2018,
-    "month": "09"
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/1299/95783.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1299/95783t.jpg",
+    "synonyms": [
+      "DOUBLE DECKER! DOUG & KIRILL",
+      "DOUBLE DECKER! Doug & Kirill",
+      "DOUBLE DECKER! ダグ&キリル",
+      "DOUBLE DECKER! ダグ＆キリル",
+      "Double Decker! Doug and Kirill",
+      "Double Decker! 더그 & 키릴"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1371/94401.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1371/94401t.jpg",
-  "synonyms": [
-    "Gekijouban Wakaokami wa Shougakusei!",
-    "Gekijōban Wakaokami wa Shōgakusei!",
-    "Okko et les Fantômes",
-    "Okko und ihre Geisterfreunde",
-    "Okko und ihre Geisterfreunde -Der Film-",
-    "Okko und ihre Geisterfreunde: Der Film",
-    "Okko's Inn",
-    "Okko's Inn Movie",
-    "Okko's Inn: Le Film",
-    "Okko, el Hostal y sus Fantasmas",
-    "Okko, el hostal y sus fantasmas",
-    "Okko`s Inn",
-    "Okkos Inn The Movie",
-    "Okko’s Inn",
-    "Okko’s Inn: The Movie",
-    "Wakaokami wa Shougakusei!",
-    "Wakaokami wa Shougakusei! (Movie)",
-    "Готель Окко",
-    "剧场版 温泉屋的小老板娘",
-    "劇場版 若おかみは小学生!",
-    "劇場版若おかみは小学生！",
-    "映画 若おかみは小学生！",
-    "溫泉屋小女將",
-    "若おかみは小学生！(劇場版)"
-  ]
-}
+  {
+    "title": "君の膵臓をたべたい",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我想吃掉你的胰脏"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kimisui-anime.com/",
+    "begin": "2018-09-01T16:00:00.000Z",
+    "end": "2018-09-01T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "221736"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kimisui-anime",
+        "begin": ""
+      },
+      {
+        "site": "anisearch",
+        "id": "13842"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2018,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1768/93291.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1768/93291t.jpg",
+    "synonyms": [
+      "Chcę zjeść twoją trzustkę",
+      "Eu Quero Comer Seu Pâncreas",
+      "Eu Quero Comer o Teu Pâncreas",
+      "I Want To Eat Your Pancreas",
+      "I Want to Eat Your Pancreas",
+      "I want to eat your pancreas",
+      "Je Veux Manger Ton Pancréas",
+      "Je veux manger ton Pancréas",
+      "Je veux manger ton pancréas",
+      "Kimi no Suizou o Tabetai",
+      "Kimi no Suizō o Tabetai",
+      "KimiSui",
+      "Kimisui",
+      "Let Me Eat Your Pancreas",
+      "Quiero Comerme Tu Páncreas",
+      "Quiero Comerme tu Páncreas",
+      "Quiero comerme tu Páncreas",
+      "Quiero comerme tu páncreas",
+      "Voglio Mangiare Il Tuo Pancreas",
+      "Voglio mangiare il tuo pancreas",
+      "Vull menjar-me el teu pàncrees",
+      "Хочу съесть твою поджелудочную железу",
+      "اسمحي لي باكل بنكرياسك",
+      "كيمي نو سويزو وو تابيتاي",
+      "من می خواهم پانکراس شما را بخورم",
+      "ตับอ่อนเธอนั้นขอฉันเถอะนะ",
+      "キミスイ",
+      "君の膵臓をたべたい",
+      "我想吃掉你的胰脏",
+      "我想吃掉你的胰臟",
+      "너의 췌장을 먹고 싶어"
+    ]
+  },
+  {
+    "title": "フリクリ オルタナ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "FLCL Alternative"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://flcl-anime.com/alterna/",
+    "begin": "2018-09-07T16:00:00.000Z",
+    "end": "2018-09-07T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "175398"
+      },
+      {
+        "site": "nicovideo",
+        "id": "flcl_alterna_progre",
+        "begin": "2019-02-01T03:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "12023"
+      },
+      {
+        "site": "anidb",
+        "id": "17264"
+      },
+      {
+        "site": "anilist",
+        "id": "146472"
+      },
+      {
+        "site": "anilist",
+        "id": "146473"
+      },
+      {
+        "site": "anilist",
+        "id": "21746"
+      },
+      {
+        "site": "anime-planet",
+        "id": "flcl"
+      },
+      {
+        "site": "anime-planet",
+        "id": "flcl-grunge"
+      },
+      {
+        "site": "anime-planet",
+        "id": "flcl-progressive"
+      },
+      {
+        "site": "anime-planet",
+        "id": "flcl-shoegaze"
+      },
+      {
+        "site": "anisearch",
+        "id": "11268"
+      },
+      {
+        "site": "anisearch",
+        "id": "17247"
+      },
+      {
+        "site": "kitsu",
+        "id": "11961"
+      },
+      {
+        "site": "kitsu",
+        "id": "45975"
+      },
+      {
+        "site": "livechart",
+        "id": "11136"
+      },
+      {
+        "site": "livechart",
+        "id": "11137"
+      },
+      {
+        "site": "livechart",
+        "id": "2101"
+      },
+      {
+        "site": "livechart",
+        "id": "3171"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33010"
+      },
+      {
+        "site": "notify",
+        "id": "4Eh6pKmig"
+      },
+      {
+        "site": "notify",
+        "id": "NPbyXle4g"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1494/93701.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1494/93701t.jpg",
+    "synonyms": [
+      "FLCL 3",
+      "FLCL: Alternative",
+      "FLCLAlt",
+      "Fooly Cooly 3",
+      "Fooly Cooly Alternative",
+      "Furi Kuri 3",
+      "Furi Kuri Alternative",
+      "Furi Kuri: Alternative",
+      "flcl s3",
+      "ふりくり",
+      "フリクリ オルタナ"
+    ]
+  },
+  {
+    "title": "フリクリ プログレ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "FLCL Progressive"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://flcl-anime.com/progre/",
+    "begin": "2018-09-28T16:00:00.000Z",
+    "end": "2018-09-28T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "175399"
+      },
+      {
+        "site": "nicovideo",
+        "id": "flcl_alterna_progre",
+        "begin": "2019-02-01T03:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "117"
+      },
+      {
+        "site": "anidb",
+        "id": "13258"
+      },
+      {
+        "site": "anilist",
+        "id": "21748"
+      },
+      {
+        "site": "anilist",
+        "id": "227"
+      },
+      {
+        "site": "anime-planet",
+        "id": "flcl"
+      },
+      {
+        "site": "anime-planet",
+        "id": "flcl-alternative"
+      },
+      {
+        "site": "anime-planet",
+        "id": "flcl-grunge"
+      },
+      {
+        "site": "anime-planet",
+        "id": "flcl-shoegaze"
+      },
+      {
+        "site": "anisearch",
+        "id": "12615"
+      },
+      {
+        "site": "anisearch",
+        "id": "776"
+      },
+      {
+        "site": "kitsu",
+        "id": "11962"
+      },
+      {
+        "site": "kitsu",
+        "id": "202"
+      },
+      {
+        "site": "livechart",
+        "id": "11136"
+      },
+      {
+        "site": "livechart",
+        "id": "11137"
+      },
+      {
+        "site": "livechart",
+        "id": "2102"
+      },
+      {
+        "site": "livechart",
+        "id": "3171"
+      },
+      {
+        "site": "myanimelist",
+        "id": "227"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35842"
+      },
+      {
+        "site": "notify",
+        "id": "TX2epFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "kJW25FiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1499/93700.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1499/93700t.jpg",
+    "synonyms": [
+      "FLCL 2",
+      "FLCL: Progressive",
+      "FLCL: прог",
+      "FLCLPro",
+      "Fooly Cooly (2018)",
+      "Fooly Cooly 2",
+      "Fooly Cooly Progressive",
+      "Furi Kuri 2",
+      "Furi Kuri Progressive",
+      "Furi Kuri: Progressive",
+      "flcl s2",
+      "Фури-кури 2",
+      "フリクリ プログレ"
+    ]
+  },
+  {
+    "title": "劇場版 夏目友人帳 ～うつせみに結ぶ～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 夏目友人帐～缘结空蝉～"
+      ],
+      "zh-Hant": [
+        "劇場版 夏目友人帳～緣結空蟬～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://natsume-movie.com/",
+    "begin": "2018-09-29T16:00:00.000Z",
+    "end": "2018-09-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "227392"
+      },
+      {
+        "site": "nicovideo",
+        "id": "natsume-movie",
+        "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "91974",
+        "begin": "2019-06-25T02:30:00.000Z",
+        "broadcast": "R/2019-06-25T02:30:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "12675"
+      },
+      {
+        "site": "anidb",
+        "id": "15732"
+      },
+      {
+        "site": "anidb",
+        "id": "18089"
+      },
+      {
+        "site": "anilist",
+        "id": "97983"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsume-yuujinchou-itsuka-yuki-no-hi-ni"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-movie-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-nyanko-sensei-and-the-first-errand"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-season-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-season-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-season-4"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-season-5"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-season-6"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zoku-natsume-yuujinchou-3d-nyanko-sensei-gekijou"
+      },
+      {
+        "site": "anisearch",
+        "id": "12132"
+      },
+      {
+        "site": "anisearch",
+        "id": "18506"
+      },
+      {
+        "site": "kitsu",
+        "id": "13077"
+      },
+      {
+        "site": "livechart",
+        "id": "10155"
+      },
+      {
+        "site": "livechart",
+        "id": "1154"
+      },
+      {
+        "site": "livechart",
+        "id": "1220"
+      },
+      {
+        "site": "livechart",
+        "id": "12234"
+      },
+      {
+        "site": "livechart",
+        "id": "2093"
+      },
+      {
+        "site": "livechart",
+        "id": "2481"
+      },
+      {
+        "site": "livechart",
+        "id": "2482"
+      },
+      {
+        "site": "livechart",
+        "id": "255"
+      },
+      {
+        "site": "livechart",
+        "id": "2612"
+      },
+      {
+        "site": "livechart",
+        "id": "3400"
+      },
+      {
+        "site": "livechart",
+        "id": "3401"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34591"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42894"
+      },
+      {
+        "site": "myanimelist",
+        "id": "55823"
+      },
+      {
+        "site": "notify",
+        "id": "8jGG2FmmR"
+      },
+      {
+        "site": "notify",
+        "id": "LkRJEF94g"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2018,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1250/94846.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1250/94846t.jpg",
+    "synonyms": [
+      "Gekijouban Natsume Yuujin-Chou: Utsusemi ni Musubu",
+      "Gekijouban Natsume Yuujinchou",
+      "Gekijouban Natsume Yuujinchou: Utsusemi ni Musubu",
+      "Gekijōban Natsume Yūjin-Chō: Utsusemi ni Musubu",
+      "Natsume Movie: Bound by Utsusemi",
+      "Natsume Yujin-Cho the Movie: Ephemeral Bond",
+      "Natsume Yujin-cho Movie",
+      "Natsume Yujin-cho The Movie: Ephemeral Bond",
+      "Natsume Yujin-cho the Movie",
+      "Natsume Yujin-cho the Movie: Ephemeral Bond",
+      "Natsume Yuujinchou Movie",
+      "Natsume Yuujinchou: Utsusemi ni Musubu",
+      "Natsume's Book of Friends Movie",
+      "Natsume's Book of Friends Movie: Ephemeral Bond",
+      "Natsume's Book of Friends Movie: Tied to the Temporal World",
+      "Natsume's Book of Friends the Movie: Ephemeral Bond",
+      "Natsume`s Book of Friends the Movie: Ephemeral Bond",
+      "Natsume’s Book of Friends Movie",
+      "Pakt der Yokai Movie",
+      "nyc movie",
+      "剧场版 夏目友人帐～缘结空蝉～",
+      "劇場版 夏目友人帳",
+      "劇場版 夏目友人帳 ~うつせみに結ぶ~",
+      "劇場版 夏目友人帳 ～うつせみに結ぶ～",
+      "劇場版夏目友人帳"
+    ]
+  },
+  {
+    "title": "曇天に笑う＜外伝＞ ～桜華、天望の架橋～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "笑对昙天 &lt;外传&gt;～樱华、天望的架桥～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://donten-anime.jp/",
+    "begin": "2018-09-01T16:00:00.000Z",
+    "end": "2018-09-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "218215"
+      },
+      {
+        "site": "bilibili",
+        "id": "128432",
+        "begin": "2018-09-01T03:00:00.000Z",
+        "broadcast": "R/2018-09-01T03:07:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "99196"
+      },
+      {
+        "site": "anime-planet",
+        "id": "laughing-under-the-clouds"
+      },
+      {
+        "site": "anime-planet",
+        "id": "laughing-under-the-clouds-gaiden-movie-1"
+      },
+      {
+        "site": "anime-planet",
+        "id": "laughing-under-the-clouds-gaiden-movie-2"
+      },
+      {
+        "site": "kitsu",
+        "id": "41562"
+      },
+      {
+        "site": "livechart",
+        "id": "166"
+      },
+      {
+        "site": "livechart",
+        "id": "2580"
+      },
+      {
+        "site": "livechart",
+        "id": "2761"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35424"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2018,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1666/93322.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1666/93322t.jpg",
+    "synonyms": [
+      "Cloudy Laugh Gaiden",
+      "Donten ni Warau Gaiden: Ouka, Tenbou no Kakyuu",
+      "Donten: Laughing Under The Clouds - Gaiden: Chapter 3 - Conspiracy of the Military",
+      "Donten: Laughing Under the Clouds - Gaiden: Chapter 3 - Conspiracy of the Military",
+      "Laughing Under the Clouds Gaiden",
+      "Laughing Under the Clouds Gaiden: Movie 3",
+      "Laughing Under the Clouds: Gaiden Part 3",
+      "Unterm Wolkenhimmel, Laughing Under the Clouds: Gaiden, Film 3: Geheimes Experiment",
+      "曇天に笑う<外伝> ~桜華、天望の架橋~",
+      "曇天に笑う＜外伝＞ ～桜華、天望の架橋～"
+    ]
+  },
+  {
+    "title": "劇場版 若おかみは小学生!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 温泉屋的小老板娘"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.waka-okami.jp/movie",
+    "begin": "2018-09-21T16:00:00.000Z",
+    "end": "2018-09-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "242483"
+      },
+      {
+        "site": "nicovideo",
+        "id": "waka-okami-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "13875"
+      },
+      {
+        "site": "anilist",
+        "id": "101277"
+      },
+      {
+        "site": "anime-planet",
+        "id": "wakaokami-wa-shougakusei"
+      },
+      {
+        "site": "anisearch",
+        "id": "13438"
+      },
+      {
+        "site": "kitsu",
+        "id": "41070"
+      },
+      {
+        "site": "livechart",
+        "id": "3133"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37433"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1371/94401.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1371/94401t.jpg",
+    "synonyms": [
+      "Gekijouban Wakaokami wa Shougakusei!",
+      "Gekijōban Wakaokami wa Shōgakusei!",
+      "Okko et les Fantômes",
+      "Okko und ihre Geisterfreunde",
+      "Okko und ihre Geisterfreunde -Der Film-",
+      "Okko und ihre Geisterfreunde: Der Film",
+      "Okko's Inn",
+      "Okko's Inn Movie",
+      "Okko's Inn: Le Film",
+      "Okko, el Hostal y sus Fantasmas",
+      "Okko, el hostal y sus fantasmas",
+      "Okko`s Inn",
+      "Okkos Inn The Movie",
+      "Okko’s Inn",
+      "Okko’s Inn: The Movie",
+      "Wakaokami wa Shougakusei!",
+      "Wakaokami wa Shougakusei! (Movie)",
+      "Готель Окко",
+      "剧场版 温泉屋的小老板娘",
+      "劇場版 若おかみは小学生!",
+      "劇場版若おかみは小学生！",
+      "映画 若おかみは小学生！",
+      "溫泉屋小女將",
+      "若おかみは小学生！(劇場版)"
+    ]
+  }
+]

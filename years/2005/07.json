@@ -1,70 +1,1255 @@
-{
-  "title": "タイドライン・ブルー",
-  "titleTranslate": {
-    "en": [
-      "TIDE-LINE BLUE"
+[
+  {
+    "title": "ガン×ソード",
+    "titleTranslate": {
+      "en": [
+        "GUN SWORD"
+      ],
+      "zh-Hans": [
+        "枪心剑刃",
+        "枪与剑"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/gunsword/",
+    "begin": "2005-07-04T16:30:00.000Z",
+    "end": "2005-12-26T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "ibzQQjvZczApt61M",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "8539"
+      },
+      {
+        "site": "bilibili",
+        "id": "1862",
+        "begin": "2005-07-03T16:00:00.000Z",
+        "broadcast": "R/2012-10-04T12:50:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "5501"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gun-x-sword-san"
+      },
+      {
+        "site": "kitsu",
+        "id": "4126"
+      },
+      {
+        "site": "livechart",
+        "id": "9079"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5501"
+      },
+      {
+        "site": "notify",
+        "id": "IU0CcFmiR"
+      }
     ],
-    "zh-Hans": [
-      "蓝色潮痕"
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2005,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/25380.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/25380t.jpg",
+    "synonyms": [
+      "GUNxSWORD",
+      "Gun VS Sword",
+      "Gun X Sword",
+      "Gun vs Sword",
+      "Gun × Sword",
+      "GunxSword",
+      "Gun×Sword",
+      "GxS",
+      "Огнем и Мечом",
+      "Огнём и мечом",
+      "Оръжие по Меч",
+      "مسدس×سيف",
+      "がんそーど",
+      "ガン×ソード",
+      "槍與劍",
+      "건 X 소드"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "http://www.tlblue.com/",
-  "begin": "2005-07-06T17:40:00.000Z",
-  "end": "2006-09-18T12:00:00.000Z",
-  "sites": [
-    {
-      "site": "pptv",
-      "id": "HysWlPxia0hBz8Vk",
-      "begin": ""
+  {
+    "title": "苺ましまろ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "草莓棉花糖",
+        "莓乱扔"
+      ]
     },
-    {
-      "site": "bangumi",
-      "id": "6804"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/ichigomashimaro/",
+    "begin": "2005-07-14T17:05:00.000Z",
+    "end": "2005-10-13T17:31:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "TPrFQ6sRgb8iaoAg",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "s/skgqxqsq2uiylee",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "284"
+      },
+      {
+        "site": "bilibili",
+        "id": "1856",
+        "begin": "2005-07-13T16:00:00.000Z",
+        "broadcast": "R/2011-07-03T19:48:45.000Z/P7D"
+      },
+      {
+        "site": "youku",
+        "id": "cc0030f4962411de83b1",
+        "begin": "2008-07-23T10:09:07.000Z"
+      },
+      {
+        "site": "anilist",
+        "id": "488"
+      },
+      {
+        "site": "anime-planet",
+        "id": "strawberry-marshmallow"
+      },
+      {
+        "site": "anime-planet",
+        "id": "strawberry-marshmallow-encore"
+      },
+      {
+        "site": "anime-planet",
+        "id": "strawberry-marshmallow-ova"
+      },
+      {
+        "site": "anisearch",
+        "id": "322"
+      },
+      {
+        "site": "kitsu",
+        "id": "449"
+      },
+      {
+        "site": "livechart",
+        "id": "3843"
+      },
+      {
+        "site": "livechart",
+        "id": "4277"
+      },
+      {
+        "site": "livechart",
+        "id": "4506"
+      },
+      {
+        "site": "myanimelist",
+        "id": "488"
+      },
+      {
+        "site": "notify",
+        "id": "j2FT5FiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2005,
+      "month": "07"
     },
-    {
-      "site": "anilist",
-      "id": "1001"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tide-line-blue-special"
-    },
-    {
-      "site": "anisearch",
-      "id": "8407"
-    },
-    {
-      "site": "kitsu",
-      "id": "891"
-    },
-    {
-      "site": "livechart",
-      "id": "8158"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1001"
-    },
-    {
-      "site": "notify",
-      "id": "G12J5Fiig"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 2005,
-    "month": "07"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/19666.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/19666t.jpg",
+    "synonyms": [
+      "Ichigo Marshmallow Episode 0",
+      "Ichigo Mashimaro - S1",
+      "Ichigo Mashimaro Prologue",
+      "Ichigo Mashimaro Special: Episode 0",
+      "Strawberry Marshmallow Episode 0",
+      "Strawberry Marshmallow Prologue",
+      "Strawberry Marshmallow Special: Episode 0",
+      "Strawberry Marshmallow: Prologue",
+      "いちごましまろ",
+      "苺ましまろ",
+      "苺ましまろ プロロー"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 12,
-  "picture": "https://cdn.myanimelist.net/images/anime/9/75832.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/9/75832t.jpg",
-  "synonyms": [
-    "TLB",
-    "TLBlue",
-    "たいどらいんぶるー",
-    "タイドライン・ブルー"
-  ]
-}
+  {
+    "title": "あまえないでよっ!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "不要撒娇哦!!",
+        "极乐天师",
+        "極樂天師"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.vap.co.jp/amae/",
+    "begin": "2005-07-01T01:00:00.000Z",
+    "end": "2005-09-16T01:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "22049"
+      },
+      {
+        "site": "anilist",
+        "id": "591"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ah-my-buddha"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ah-my-buddha-katsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ah-my-buddha-katsu-dont-be-fooled"
+      },
+      {
+        "site": "anisearch",
+        "id": "2665"
+      },
+      {
+        "site": "kitsu",
+        "id": "546"
+      },
+      {
+        "site": "livechart",
+        "id": "4515"
+      },
+      {
+        "site": "livechart",
+        "id": "5413"
+      },
+      {
+        "site": "livechart",
+        "id": "7107"
+      },
+      {
+        "site": "myanimelist",
+        "id": "591"
+      },
+      {
+        "site": "notify",
+        "id": "oiuocKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2005,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/32069.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/32069t.jpg",
+    "synonyms": [
+      "Ah My Buddha!! Don't Rest!!",
+      "Ah! My Buddha Special",
+      "Ah! My Buddha!! Don’t Rest!!",
+      "Ah! My Buddha: Don’t Be Sleepy!!",
+      "Amaenaide yo!! Special",
+      "Amaenaide yo!! Yasumanaide yo!!",
+      "Amaenaideyo!! Special",
+      "あまえないでよっ!!",
+      "あまえないでよっ!!: 休まないでよっ!!",
+      "あまえないでよっ！！ 休まないでよっ！！"
+    ]
+  },
+  {
+    "title": "SHUFFLE!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "SHUFFLE!"
+      ],
+      "en": [
+        "SHUFFLE!"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.shuffle-tv.com/",
+    "begin": "2005-07-07T15:30:00.000Z",
+    "end": "2006-01-05T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "rohz8VmicL23QTrY",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "s/sm1ig1vymgt2wsr",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2937"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shuffle",
+        "begin": "2019-11-15T06:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28220788",
+        "begin": "2016-01-28T03:12:00.000Z",
+        "broadcast": "R/2016-01-28T03:12:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "4759"
+      },
+      {
+        "site": "anilist",
+        "id": "1836"
+      },
+      {
+        "site": "anilist",
+        "id": "7396"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shuffle-memories"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shuffle-prologue"
+      },
+      {
+        "site": "anisearch",
+        "id": "3897"
+      },
+      {
+        "site": "anisearch",
+        "id": "8754"
+      },
+      {
+        "site": "kitsu",
+        "id": "1653"
+      },
+      {
+        "site": "kitsu",
+        "id": "4959"
+      },
+      {
+        "site": "livechart",
+        "id": "4527"
+      },
+      {
+        "site": "livechart",
+        "id": "5538"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1836"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7396"
+      },
+      {
+        "site": "notify",
+        "id": "9SugpKmig"
+      },
+      {
+        "site": "notify",
+        "id": "n_YB5Fmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2005,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/1290/133860.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1290/133860t.jpg",
+    "synonyms": [
+      "SHUFFLE!",
+      "SHUFFLE! (シャッフル!)",
+      "Shuffle",
+      "しゃっふる",
+      "シャッフル!",
+      "シャッフル！"
+    ]
+  },
+  {
+    "title": "ぺとぺとさん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我是小粘粘",
+        "黏黏妖美少女"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://web.archive.org/web/*/www.petopeto.com/",
+    "begin": "2005-07-08T17:00:00.000Z",
+    "end": "2005-09-30T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "UZtl40uxIVicCQKg",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "14086"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2005,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/1813/133687.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1813/133687t.jpg",
+    "synonyms": [
+      "Petopeto-san",
+      "peto^2",
+      "petopeto",
+      "ぺとぺとさん",
+      "我是小粘粘"
+    ]
+  },
+  {
+    "title": "あかほり外道アワーらぶげ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "绝对正义vs外道少女队",
+        "绝对正义vs外道乙女队"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://web.archive.org/web/*/www.gedou.net/",
+    "begin": "2005-07-04T17:15:00.000Z",
+    "end": "2005-09-26T17:45:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "BEdBvyeNicTueHIQ",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "50681"
+      },
+      {
+        "site": "anidb",
+        "id": "2841"
+      },
+      {
+        "site": "anime-planet",
+        "id": "akahori-gedou-hour-rabuge-gedou-otometai"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2005,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/75541.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/75541t.jpg",
+    "synonyms": [
+      "Absolute Justice Love Pheromone",
+      "Akahori Gedou Hour Love Game",
+      "Akahori Gedou Hour Rabuge (part 1)",
+      "Akahori Gedou Hour Rabuge: Zettai Seigi Love Pheromone",
+      "Akahori Gedou Hour Rabuge: Zettai Seigi Love Pheromone vs Soreyuke! Gedou Otometai",
+      "Akahori Gedō Hour Rabuge: Zettai Seigi Love Pheromone vs Soreyuke! Gedō Otometai",
+      "Akahori's Heretical Hour Love Game",
+      "Akahori’s Heretical Hour Love Game",
+      "Rabuge 1",
+      "Soreyuke! Gedou Otometai",
+      "Zettai Seigi Love Pheromone",
+      "rabuge s1",
+      "Развеселый час Акахори",
+      "Феромон любви",
+      "あかほりげどうあわーらぶげ",
+      "あかほり外道アワーらぶげ",
+      "あかほり外道アワーらぶげ part 1",
+      "あかほり外道アワーらぶげ: 絶対正義ラブフェロモン vs それゆけ！ 外道乙女隊",
+      "絶対正義ラブフェロモン",
+      "绝对正义vs外道少女队"
+    ]
+  },
+  {
+    "title": "涼風",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凉风",
+        "涼風"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.maql.co.jp/special/suzuka-tv/",
+    "begin": "2005-07-06T16:00:00.000Z",
+    "end": "2005-12-28T16:37:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "TePeXMQqmtg7uSE",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "10508"
+      },
+      {
+        "site": "bilibili",
+        "id": "1843",
+        "begin": "2005-07-05T16:00:00.000Z",
+        "broadcast": "R/2011-01-29T10:09:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "12300"
+      },
+      {
+        "site": "anidb",
+        "id": "8587"
+      },
+      {
+        "site": "anilist",
+        "id": "21887"
+      },
+      {
+        "site": "anisearch",
+        "id": "11656"
+      },
+      {
+        "site": "kitsu",
+        "id": "12460"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33743"
+      },
+      {
+        "site": "notify",
+        "id": "nqJzhKmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2005,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/33579.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/33579t.jpg",
+    "synonyms": [
+      "سوزوكا",
+      "すずか",
+      "凉风",
+      "涼風"
+    ]
+  },
+  {
+    "title": "D.C.S.S. ～ダ・カーポ セカンドシーズン～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "初音岛 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.hatsunejima.com/dcss/",
+    "begin": "2005-07-02T15:30:00.000Z",
+    "end": "2005-12-24T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "7l0opg505CKFA2s",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "o/oqhu3ia2kb0his5",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2680"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dcss",
+        "begin": "2012-07-11T06:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "657",
+        "begin": "2010-12-31T16:00:00.000Z",
+        "broadcast": "R/2010-12-31T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "5419"
+      },
+      {
+        "site": "anidb",
+        "id": "6313"
+      },
+      {
+        "site": "anidb",
+        "id": "837"
+      },
+      {
+        "site": "anilist",
+        "id": "2595"
+      },
+      {
+        "site": "anilist",
+        "id": "4508"
+      },
+      {
+        "site": "anilist",
+        "id": "5216"
+      },
+      {
+        "site": "anilist",
+        "id": "62"
+      },
+      {
+        "site": "anime-planet",
+        "id": "da-capo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "da-capo-dc-i-ii-psp"
+      },
+      {
+        "site": "anime-planet",
+        "id": "da-capo-if"
+      },
+      {
+        "site": "anime-planet",
+        "id": "da-capo-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "da-capo-ii-second-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "da-capo-iii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "da-capo-iii-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "da-capo-second-season-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "t-p-sakura-time-paladin-sakura"
+      },
+      {
+        "site": "anisearch",
+        "id": "3482"
+      },
+      {
+        "site": "anisearch",
+        "id": "4453"
+      },
+      {
+        "site": "anisearch",
+        "id": "8634"
+      },
+      {
+        "site": "kitsu",
+        "id": "2359"
+      },
+      {
+        "site": "kitsu",
+        "id": "3655"
+      },
+      {
+        "site": "kitsu",
+        "id": "43"
+      },
+      {
+        "site": "livechart",
+        "id": "4192"
+      },
+      {
+        "site": "livechart",
+        "id": "4907"
+      },
+      {
+        "site": "livechart",
+        "id": "5121"
+      },
+      {
+        "site": "livechart",
+        "id": "6320"
+      },
+      {
+        "site": "livechart",
+        "id": "7450"
+      },
+      {
+        "site": "livechart",
+        "id": "8572"
+      },
+      {
+        "site": "livechart",
+        "id": "880"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2595"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4508"
+      },
+      {
+        "site": "myanimelist",
+        "id": "62"
+      },
+      {
+        "site": "notify",
+        "id": "9Fru5Fiig"
+      },
+      {
+        "site": "notify",
+        "id": "UiOscKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "iavt5KmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2005,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/73937.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/73937t.jpg",
+    "synonyms": [
+      "D.C. S.S.",
+      "D.C. ~ダ・カーポ~ セコンドシースン",
+      "D.C.S.G.",
+      "D.C.S.S. ~Da Capo Second Season~",
+      "D.C.S.S. ～ダ・カーポ セカンドシーズン～",
+      "D.C.S.S.: Da Capo Second Season",
+      "Da Capo 2",
+      "Da Capo 2nd Season",
+      "Da Capo Second Graduation",
+      "Da Capo Second Season",
+      "Da Capo Second Story",
+      "dacapo s2",
+      "dc2",
+      "dcss",
+      "だかーぽせかんどしーずん",
+      "初音岛 第二季",
+      "初音岛I 第二季"
+    ]
+  },
+  {
+    "title": "シュガシュガルーン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔界女王候补生",
+        "魔女的考验"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.maql.co.jp/special/sugarune/",
+    "begin": "2005-07-01T22:00:00.000Z",
+    "end": "2006-06-23T22:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10160"
+      },
+      {
+        "site": "bilibili",
+        "id": "6375",
+        "begin": "2017-07-14T07:46:00.000Z",
+        "broadcast": "R/2017-07-14T07:46:00.000Z/P7D",
+        "comment": "中文: 2952"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2005,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 51,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/74728.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/74728t.jpg",
+    "synonyms": [
+      "Chocola & Vanilla",
+      "Chocola et Vanilla",
+      "Chocola et Vanilla - Sugar Sugar Rune",
+      "SSR",
+      "Sugar Sugar",
+      "Sugar² Rune",
+      "Słodkie, słodkie czary",
+      "שוגר שוגר רון",
+      "حروف السكر",
+      "しゅがしゅがるーん",
+      "シュガシュガルーン"
+    ]
+  },
+  {
+    "title": "奥さまは魔法少女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "太太是魔法少女",
+        "老婆是魔法少女",
+        "人妻是魔法少女"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.mahousyoujo.com/",
+    "begin": "2005-07-03T15:00:00.000Z",
+    "end": "2005-09-25T15:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "8DkDgelPvic1g3kY",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "23536"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2005,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/19126.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/19126t.jpg",
+    "synonyms": [
+      "Bewitched Agnes",
+      "Bewitched Bride",
+      "Madam Is a Magical Girl",
+      "Madam is a Magical Girl",
+      "My Wife Is a Magical Girl: Bewitched Agnes",
+      "Okusama wa Mahō Shōjo",
+      "okuma",
+      "okusama",
+      "おくさまはまほうしょうじょ",
+      "太太是魔法少女",
+      "奥さまは魔法少女",
+      "사모님은 마법소녀"
+    ]
+  },
+  {
+    "title": "機動新撰組 萌えよ剣",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动新撰组 萌之剑"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://trinet.cata.jp/moeken/",
+    "begin": "2005-07-01T16:30:00.000Z",
+    "end": "2005-09-23T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "Hia8amABm1hR39V0",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "4234"
+      },
+      {
+        "site": "bilibili",
+        "id": "1841",
+        "begin": "2005-06-30T16:00:00.000Z",
+        "broadcast": "R/2010-12-31T16:01:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "3381"
+      },
+      {
+        "site": "anilist",
+        "id": "511"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kidou-shinsengumi-moeyo-ken-tv"
+      },
+      {
+        "site": "anisearch",
+        "id": "577"
+      },
+      {
+        "site": "kitsu",
+        "id": "470"
+      },
+      {
+        "site": "myanimelist",
+        "id": "511"
+      },
+      {
+        "site": "notify",
+        "id": "Zo2o5Fiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2003,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/29756.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/29756t.jpg",
+    "synonyms": [
+      "Kidō Shinsengumi Moeyo Ken",
+      "Moeyo Ken",
+      "Moeyo Ken OVA",
+      "Moeyoken OVA",
+      "มือปราบป่วนมาร OVA",
+      "機動新撰組 萌えよ剣",
+      "機動新撰組　萌えよ剣"
+    ]
+  },
+  {
+    "title": "プレイボール",
+    "titleTranslate": {
+      "zh-Hans": [
+        "棒球物语"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.imagicatv.jp/content/anime-playball/index1.html",
+    "begin": "2005-07-04T17:00:00.000Z",
+    "end": "2005-09-26T18:14:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "113899"
+      },
+      {
+        "site": "anidb",
+        "id": "4271"
+      },
+      {
+        "site": "anidb",
+        "id": "7085"
+      },
+      {
+        "site": "anilist",
+        "id": "3769"
+      },
+      {
+        "site": "anilist",
+        "id": "9905"
+      },
+      {
+        "site": "anime-planet",
+        "id": "captain"
+      },
+      {
+        "site": "anime-planet",
+        "id": "play-ball-2nd"
+      },
+      {
+        "site": "anisearch",
+        "id": "3315"
+      },
+      {
+        "site": "kitsu",
+        "id": "3243"
+      },
+      {
+        "site": "kitsu",
+        "id": "5933"
+      },
+      {
+        "site": "livechart",
+        "id": "11312"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3769"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9905"
+      },
+      {
+        "site": "notify",
+        "id": "EHol5Kmig"
+      },
+      {
+        "site": "notify",
+        "id": "fsrMtKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2005,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/6695.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/6695t.jpg",
+    "synonyms": [
+      "Playball",
+      "ぷれいぼーる",
+      "プレイボール"
+    ]
+  },
+  {
+    "title": "ぱにぽにだっしゅ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "不可思议的教室",
+        "嬉皮笑园"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.paniponi-dash.com/",
+    "begin": "2005-07-03T16:30:00.000Z",
+    "end": "2005-12-25T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "IGtV0zuhEUibyMJg",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1617"
+      },
+      {
+        "site": "bilibili",
+        "id": "1844",
+        "begin": "2005-07-02T16:00:00.000Z",
+        "broadcast": "R/2011-08-22T05:17:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "5419"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pani-poni-dash-special"
+      },
+      {
+        "site": "anisearch",
+        "id": "8006"
+      },
+      {
+        "site": "kitsu",
+        "id": "4094"
+      },
+      {
+        "site": "livechart",
+        "id": "7082"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5419"
+      },
+      {
+        "site": "notify",
+        "id": "ivtCcKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2005,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/1581/138842.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1581/138842t.jpg",
+    "synonyms": [
+      "PPD",
+      "PPD!",
+      "Pani Poni",
+      "Pani Poni Dash!",
+      "PaniPoni Dash",
+      "PaniPoni Dash!",
+      "Пани Пони",
+      "พานิ โพนิ แดช",
+      "ぱにぽにだっしゅ",
+      "ぱにぽにだっしゅ!",
+      "ぱにぽにだっしゅ！",
+      "不可思议的教室",
+      "파니포니 대쉬!"
+    ]
+  },
+  {
+    "title": "おくさまは女子高生",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我太太是高中生",
+        "太太是女高中生"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://mv.avex.jp/okusama/",
+    "begin": "2005-07-02T16:30:00.000Z",
+    "end": "2005-09-24T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8295"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2005,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/18925.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/18925t.jpg",
+    "synonyms": [
+      "Ma femme est une étudiante",
+      "My Wife Is a High School Girl",
+      "My Wife is a High School Girl",
+      "Oku-sama wa Joshi Kousei",
+      "Oku-sama wa Joshi Kousei (2005)",
+      "Oku-sama wa Joshikosei",
+      "Oku-sama wa Joshikosei (2005)",
+      "Oku-sama wa Joshikousei",
+      "Oku-sama wa Joshikousei (2005)",
+      "Okusama wa Joshi Kousei",
+      "Okusama wa Joshi Kousei (2005)",
+      "Okusama wa Joshikosei (2005)",
+      "Okusama wa Joshikousei",
+      "Okusama wa Joshikousei (2005)",
+      "Okusama wa Joshikōsei",
+      "OwJ",
+      "okusei",
+      "おくさまはじょしこうせい",
+      "おくさまは女子高生",
+      "我太太是高中生",
+      "老婆是女高中生"
+    ]
+  },
+  {
+    "title": "タイドライン・ブルー",
+    "titleTranslate": {
+      "en": [
+        "TIDE-LINE BLUE"
+      ],
+      "zh-Hans": [
+        "蓝色潮痕"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tlblue.com/",
+    "begin": "2005-07-06T17:40:00.000Z",
+    "end": "2006-09-18T12:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "HysWlPxia0hBz8Vk",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "6804"
+      },
+      {
+        "site": "anilist",
+        "id": "1001"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tide-line-blue-special"
+      },
+      {
+        "site": "anisearch",
+        "id": "8407"
+      },
+      {
+        "site": "kitsu",
+        "id": "891"
+      },
+      {
+        "site": "livechart",
+        "id": "8158"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1001"
+      },
+      {
+        "site": "notify",
+        "id": "G12J5Fiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2005,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/75832.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/75832t.jpg",
+    "synonyms": [
+      "TLB",
+      "TLBlue",
+      "たいどらいんぶるー",
+      "タイドライン・ブルー"
+    ]
+  }
+]

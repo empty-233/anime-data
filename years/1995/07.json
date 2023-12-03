@@ -1,126 +1,667 @@
-{
-  "title": "はじまりの冒険者たち レジェンド・オブ・クリスタニア",
-  "titleTranslate": {
-    "zh-Hans": [
-      "水晶国传说 初次旅行的冒险者们"
+[
+  {
+    "title": "ナースエンジェルりりかSOS",
+    "titleTranslate": {
+      "zh-Hans": [
+        "守护天使莉莉佳"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-07-07T16:00:00.000Z",
+    "end": "1996-03-29T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "81012"
+      }
     ],
-    "zh-Hant": [
-      "水晶國傳說～初次旅行的冒險者們～"
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1995,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 35,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/10506.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/10506t.jpg",
+    "synonyms": [
+      "Ririka, SOS!",
+      "ナースエンジェルりりかSOS",
+      "ナースエンジェルりりかＳＯＳ",
+      "守护天使莉莉佳"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1995-07-29T16:00:00.000Z",
-  "end": "1995-07-29T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "24158"
+  {
+    "title": "ドラゴンボールZ 龍拳爆発!!悟空がやらねば誰がやる",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙珠Z 龙拳爆发"
+      ]
     },
-    {
-      "site": "iqiyi",
-      "id": "a_19rrhwb7ip",
-      "begin": ""
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-07-15T16:00:00.000Z",
+    "end": "1995-07-15T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "48943"
+      },
+      {
+        "site": "nicovideo",
+        "id": "DBZ_ryuuken",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4015",
+        "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "1530"
+      },
+      {
+        "site": "anilist",
+        "id": "813"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-episode-of-bardock"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-plan-to-destroy-the-saiyajin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-yo-the-return-of-son-goku-and-friends"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-atsumare-goku-world"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-battle-of-gods"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-kai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-kai-bring-peace-to-the-future-gokus-spirit-is-eternal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-kai-the-final-chapters"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-1-dead-zone"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-10-broly-second-coming"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-11-bio-broly"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-12-fusion-reborn"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-15-resurrection-f"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-2-the-world-s-strongest"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-3-the-tree-of-might"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-4-lord-slug"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-5-cooler-s-revenge"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-6-return-of-cooler"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-7-super-android-13"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-8-broly-the-legendary-super-saiyan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-9-bojack-unbound"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-plan-to-destroy-the-saiyajin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-special-1-bardock-the-father-of-goku"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-special-2-the-history-of-trunks"
+      },
+      {
+        "site": "anisearch",
+        "id": "2938"
+      },
+      {
+        "site": "kitsu",
+        "id": "720"
+      },
+      {
+        "site": "livechart",
+        "id": "3632"
+      },
+      {
+        "site": "livechart",
+        "id": "4152"
+      },
+      {
+        "site": "livechart",
+        "id": "4177"
+      },
+      {
+        "site": "livechart",
+        "id": "4206"
+      },
+      {
+        "site": "livechart",
+        "id": "4219"
+      },
+      {
+        "site": "livechart",
+        "id": "4264"
+      },
+      {
+        "site": "livechart",
+        "id": "4268"
+      },
+      {
+        "site": "livechart",
+        "id": "4287"
+      },
+      {
+        "site": "livechart",
+        "id": "4294"
+      },
+      {
+        "site": "livechart",
+        "id": "4312"
+      },
+      {
+        "site": "livechart",
+        "id": "4367"
+      },
+      {
+        "site": "livechart",
+        "id": "5074"
+      },
+      {
+        "site": "livechart",
+        "id": "5540"
+      },
+      {
+        "site": "livechart",
+        "id": "5906"
+      },
+      {
+        "site": "livechart",
+        "id": "6390"
+      },
+      {
+        "site": "myanimelist",
+        "id": "813"
+      },
+      {
+        "site": "notify",
+        "id": "ir-05Fmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1995,
+      "month": "07"
     },
-    {
-      "site": "qq",
-      "id": "m/mzc00200of4fddo",
-      "begin": ""
-    },
-    {
-      "site": "gamer",
-      "id": "106231",
-      "begin": "2019-06-26T05:00:00.000Z",
-      "broadcast": "R/2019-06-26T05:00:00.000Z/P7D"
-    },
-    {
-      "site": "anidb",
-      "id": "137"
-    },
-    {
-      "site": "anidb",
-      "id": "169"
-    },
-    {
-      "site": "anidb",
-      "id": "691"
-    },
-    {
-      "site": "anilist",
-      "id": "1150"
-    },
-    {
-      "site": "anilist",
-      "id": "207"
-    },
-    {
-      "site": "anime-planet",
-      "id": "legend-of-crystania-the-chaos-ring"
-    },
-    {
-      "site": "anime-planet",
-      "id": "record-of-lodoss-war"
-    },
-    {
-      "site": "anime-planet",
-      "id": "record-of-lodoss-war-chronicles-of-the-heroic-knight"
-    },
-    {
-      "site": "anime-planet",
-      "id": "rune-soldier"
-    },
-    {
-      "site": "anisearch",
-      "id": "1694"
-    },
-    {
-      "site": "anisearch",
-      "id": "2588"
-    },
-    {
-      "site": "kitsu",
-      "id": "1031"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1150"
-    },
-    {
-      "site": "myanimelist",
-      "id": "207"
-    },
-    {
-      "site": "notify",
-      "id": "pqib5Kmig"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 1995,
-    "month": "07"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1704/93676.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1704/93676t.jpg",
+    "synonyms": [
+      "Bảy Viên Ngọc Rồng Z: Hóa Giải Phong Ấn",
+      "DBZ Movie 13",
+      "DRAGON BALL Z 龍拳爆発!! 悟空がやらねば誰がやる",
+      "Dragon Ball Z 13 - L`attaque du dragon",
+      "Dragon Ball Z 13 - O Ataque do Dragão",
+      "Dragon Ball Z 13 - Tapion",
+      "Dragon Ball Z : L'Attaque du dragon",
+      "Dragon Ball Z Film 13: Drachenfaust",
+      "Dragon Ball Z Film 13: L'attaque du Dragon",
+      "Dragon Ball Z Movie 13: Ryuuken Bakuhatsu!! Goku ga Yaraneba Dare ga Yaru",
+      "Dragon Ball Z Movie 13: Wrath of the Dragon",
+      "Dragon Ball Z Película 13: ¡La Explosión del Puño de Dragón! Si Goku no Puede Hacerlo ¿Quién lo Hará?",
+      "Dragon Ball Z: Atak smoka",
+      "Dragon Ball Z: Drachenfaust",
+      "Dragon Ball Z: Dragon Fist Explosion! If Goku Can’t Do It, Who Can",
+      "Dragon Ball Z: Dragon Fist Explosion!! If Goku Can't Do It No One Can",
+      "Dragon Ball Z: Dragon Fist Explosion!! If Goku Can`t Do It",
+      "Dragon Ball Z: El Ataque del Dragón",
+      "Dragon Ball Z: Explosion of Dragon",
+      "Dragon Ball Z: L'eroe del pianeta Conuts",
+      "Dragon Ball Z: L`eroe del Pianeta Conuts",
+      "Dragon Ball Z: Movie 13",
+      "Dragon Ball Z: Ryuuken Bakuhatsu!! Goku ga Yaraneba Dare ga Yaru",
+      "Dragon Ball Z: Ryuuken Bakuhatsu!! Gokuu ga Yaraneba Dare ga Yaru",
+      "Dragon Ball Z: Ryūken Bakuhatsu!! Gokū ga Yaraneba Dare ga Yaru",
+      "Dragon Ball Z: Wrath of the Dragon",
+      "Dragonball Z: Drachenfaust",
+      "Who Can",
+      "ดราก้อนบอล Z เดอะมูฟวี่ 13 ฤทธิ์หมัดมังกรถล่มโลก",
+      "ドラゴンボールZ 龍拳爆発!! 悟空がやらねば誰がやる",
+      "ドラゴンボールZ 龍拳爆発!!悟空がやらねば誰がやる",
+      "ドラゴンボールZ 龍拳爆発！！悟空がやらねば誰がやる",
+      "ドラゴンボールＺ 龍拳爆発!!悟空がやらねば誰がやる"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1792/139228.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1792/139228t.jpg",
-  "synonyms": [
-    "Chroniques de la guerre de Lodoss - La légende de Crystania - Le film",
-    "Crystania",
-    "First Adventurers: Legend of Crystania",
-    "Hajimari no Bōkensha-tachi: Legend of Crystania",
-    "Hajimaru no Bokensha-tachi Crystania no Densetsu",
-    "La Légende De Crystania",
-    "La leggenda di Crystania: Il sovrano errante",
-    "Legend of Crystania Movie",
-    "Legend of Crystania: The Motion Picture",
-    "Lodoss - La légende de Crystania - Le film",
-    "Lodoss - The Legend of Crystania - Der Film",
-    "Lodoss - The Legend of Crystania - Kinofilm",
-    "Lodoss : La Légende de Crystania",
-    "The Legend of Crystania: Der Film",
-    "はじまりの冒険者たち レジェンド・オブ・クリスタニア",
-    "水晶国传说 初次旅行的冒险者们"
-  ]
-}
+  {
+    "title": "スラムダンク 吠えろバスケットマン魂!!花道と流川の熱き夏",
+    "titleTranslate": {
+      "zh-Hans": [
+        "灌篮高手 咆哮吧篮球员的灵魂！！花道和流川的灼热夏季"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-07-15T16:00:00.000Z",
+    "end": "1995-07-15T16:40:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3734"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb405h",
+        "begin": "2016-02-04T10:33:39.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "590"
+      },
+      {
+        "site": "anilist",
+        "id": "170"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slam-dunk"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slam-dunk-movie-1"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slam-dunk-movie-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slam-dunk-movie-3"
+      },
+      {
+        "site": "anisearch",
+        "id": "1808"
+      },
+      {
+        "site": "kitsu",
+        "id": "148"
+      },
+      {
+        "site": "livechart",
+        "id": "10318"
+      },
+      {
+        "site": "livechart",
+        "id": "11964"
+      },
+      {
+        "site": "livechart",
+        "id": "3848"
+      },
+      {
+        "site": "livechart",
+        "id": "4970"
+      },
+      {
+        "site": "livechart",
+        "id": "5443"
+      },
+      {
+        "site": "livechart",
+        "id": "5654"
+      },
+      {
+        "site": "myanimelist",
+        "id": "170"
+      },
+      {
+        "site": "notify",
+        "id": "4DutcFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1995,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1931/94408.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1931/94408t.jpg",
+    "synonyms": [
+      "Roar Basketman's Soul: Hanamichi and Rukawa's Burning Summer",
+      "SDM4",
+      "SLAM DUNK 吠えろバスケットマン魂! 花道と流川の熱き夏",
+      "SLAM DUNK: Hoero Basketman-damashii! Hanamichi to Rukawa no Atsuki Natsu",
+      "Slam Dunk : Le cri du cœur du basketteur ! L’été ardent de Hanamichi et Rukawa !",
+      "Slam Dunk Movie 4",
+      "Slam Dunk Movie 4: Hoero Basketman Tamashii!! Hanamichi to Nagarekawa no Nekki Natsu",
+      "Slam Dunk: Hoero Basketman Tamashii! Hanamichi to Rukawa no Atsuki Natsu",
+      "Slam Dunk: Hoero Basketman Tamashii!! Hanamichi to Rukawa no Atsuki Natsu",
+      "Slam Dunk: Hoero Basketman Tamashii!! Hanamichi to Rukawa no Nekki Natsu",
+      "Slam Dunk: Hoero Basketman Tamashii!! Hanamichi to Rukawa no Nekki NatsuRoar Basketman's Soul - Hanamichi and Rukawa's Burning Summer",
+      "Slam Dunk: Hoero Basketman-damashii!! Hanamichi to Rukawa no Atsuki Natsu",
+      "Slam Dunk: Hoero Basketman-damashī!! Hanamichi to Rukawa no Atsuki Natsu",
+      "Slam Dunk: Roar!! Basket Man Spirit",
+      "สแลมดังก์ เดอะ มูฟวี่ ฤดูร้อนอันระอุของรุคาว่ากับซากุรางิ",
+      "スラムダンク 吠えろバスケットマン魂! 花道と流川の熱き夏",
+      "スラムダンク 吠えろバスケットマン魂!!花道と流川の熱き夏",
+      "スラムダンク 吠えろバスケットマン魂！！花道と流川の熱き夏"
+    ]
+  },
+  {
+    "title": "耳をすませば",
+    "titleTranslate": {
+      "zh-Hans": [
+        "侧耳倾听"
+      ],
+      "zh-Hant": [
+        "心之谷",
+        "夢幻街少女"
+      ],
+      "en": [
+        "Whisper of the Heart"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-07-15T16:00:00.000Z",
+    "end": "1995-07-15T17:35:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9spg5",
+        "begin": "2017-01-24T08:06:01.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "500"
+      },
+      {
+        "site": "netflix",
+        "id": "70045021",
+        "begin": "2020-03-30T16:00:00.000Z",
+        "broadcast": "R/2020-03-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "5099"
+      },
+      {
+        "site": "anidb",
+        "id": "679"
+      },
+      {
+        "site": "anilist",
+        "id": "597"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-cat-returns"
+      },
+      {
+        "site": "anisearch",
+        "id": "2226"
+      },
+      {
+        "site": "anisearch",
+        "id": "541"
+      },
+      {
+        "site": "kitsu",
+        "id": "552"
+      },
+      {
+        "site": "myanimelist",
+        "id": "597"
+      },
+      {
+        "site": "notify",
+        "id": "AZrTcFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1995,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1764/138714.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1764/138714t.jpg",
+    "synonyms": [
+      "A könyvek hercege",
+      "Ghibli Movie 10",
+      "Ghibli Movie 10I sospiri del mio cuore",
+      "Hjertets hvisken",
+      "I sospiri del mio cuore",
+      "I sussurri del cuore",
+      "If You Listen Carefully",
+      "If You Listen Closely",
+      "Mimi o Sumaseba",
+      "MoS",
+      "Om du lyssnar noga",
+      "Si tu tends l'oreille",
+      "Si tu tends l`oreille",
+      "Si tu tends l’oreille",
+      "Stimme des Herzens",
+      "Stimme des Herzens - Whisper of the Heart",
+      "Stimme des Herzens: Whisper of the Heart",
+      "Sussurri del cuore",
+      "Sussurro do Coração",
+      "Sussurros do Coração",
+      "Susurros del Corazón",
+      "Susurros del corazón",
+      "Sydämen kuiskaus",
+      "Szept serca",
+      "Südame sosin",
+      "Whisper of The Heart",
+      "Whisper of the Heart",
+      "WotH",
+      "Yüreğinin Sesi",
+      "mws",
+      "Şoapta Inimii",
+      "Šepot srdce",
+      "Širdies Šnabždezys",
+      "Ο Ψίθυρος της Καρδιάς",
+      "Шепот сердца",
+      "Шепотът На Сърцето",
+      "Шепіт серця",
+      "Шёпот сердца",
+      "Якщо прислухатись",
+      "לחישת הלב",
+      "همس القلب",
+      "همس القلوب",
+      "みみをすませば",
+      "侧耳倾听",
+      "夢幻街少女",
+      "耳をすませば",
+      "귀를 기울이면"
+    ]
+  },
+  {
+    "title": "はじまりの冒険者たち レジェンド・オブ・クリスタニア",
+    "titleTranslate": {
+      "zh-Hans": [
+        "水晶国传说 初次旅行的冒险者们"
+      ],
+      "zh-Hant": [
+        "水晶國傳說～初次旅行的冒險者們～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-07-29T16:00:00.000Z",
+    "end": "1995-07-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "24158"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhwb7ip",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200of4fddo",
+        "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "106231",
+        "begin": "2019-06-26T05:00:00.000Z",
+        "broadcast": "R/2019-06-26T05:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "137"
+      },
+      {
+        "site": "anidb",
+        "id": "169"
+      },
+      {
+        "site": "anidb",
+        "id": "691"
+      },
+      {
+        "site": "anilist",
+        "id": "1150"
+      },
+      {
+        "site": "anilist",
+        "id": "207"
+      },
+      {
+        "site": "anime-planet",
+        "id": "legend-of-crystania-the-chaos-ring"
+      },
+      {
+        "site": "anime-planet",
+        "id": "record-of-lodoss-war"
+      },
+      {
+        "site": "anime-planet",
+        "id": "record-of-lodoss-war-chronicles-of-the-heroic-knight"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rune-soldier"
+      },
+      {
+        "site": "anisearch",
+        "id": "1694"
+      },
+      {
+        "site": "anisearch",
+        "id": "2588"
+      },
+      {
+        "site": "kitsu",
+        "id": "1031"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1150"
+      },
+      {
+        "site": "myanimelist",
+        "id": "207"
+      },
+      {
+        "site": "notify",
+        "id": "pqib5Kmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1995,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1792/139228.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1792/139228t.jpg",
+    "synonyms": [
+      "Chroniques de la guerre de Lodoss - La légende de Crystania - Le film",
+      "Crystania",
+      "First Adventurers: Legend of Crystania",
+      "Hajimari no Bōkensha-tachi: Legend of Crystania",
+      "Hajimaru no Bokensha-tachi Crystania no Densetsu",
+      "La Légende De Crystania",
+      "La leggenda di Crystania: Il sovrano errante",
+      "Legend of Crystania Movie",
+      "Legend of Crystania: The Motion Picture",
+      "Lodoss - La légende de Crystania - Le film",
+      "Lodoss - The Legend of Crystania - Der Film",
+      "Lodoss - The Legend of Crystania - Kinofilm",
+      "Lodoss : La Légende de Crystania",
+      "The Legend of Crystania: Der Film",
+      "はじまりの冒険者たち レジェンド・オブ・クリスタニア",
+      "水晶国传说 初次旅行的冒险者们"
+    ]
+  }
+]

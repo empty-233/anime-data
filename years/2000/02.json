@@ -1,72 +1,324 @@
-{
-  "title": "マシュランボー",
-  "titleTranslate": {
-    "zh-Hans": [
-      "爆裂战士"
+[
+  {
+    "title": "ニャニがニャンだーニャンダーかめん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蒙面猫侠"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.nagoyatv.com/anime-history/data/data26/data26.html",
+    "begin": "2000-02-05T22:00:00.000Z",
+    "end": "2001-09-30T22:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "73716"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nyani-ga-nyandaa-nyandaa-kamen-no-koutsuu-anzen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nyani-ga-nyandaa-nyandaa-kamen-no-yuukai-boushi-miiko-chan-chanto-check"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35160"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36274"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2000,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 83,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/27206.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/27206t.jpg",
+    "synonyms": [
+      "Mighty Cat Masked Niyandar",
+      "Mighty Cat Masked Niyander",
+      "Nyani ga Nyandā Nyandā Kamen",
+      "Super Niyandar, il gatto mascherato",
+      "ニャニがニャンだー ニャンダーかめん",
+      "ニャニがニャンだーニャンダーかめん"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "http://www.toei-anim.co.jp/tv/mashura/",
-  "begin": "2000-02-05T16:00:00.000Z",
-  "end": "2000-09-23T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "iqiyi",
-      "id": "a_19rrhb1drx",
-      "begin": "2015-08-14T17:07:34.000Z"
+  {
+    "title": "おジャ魔女どれみ＃",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小魔女DoReMi ♯",
+        "小魔女DoReMi#"
+      ]
     },
-    {
-      "site": "bangumi",
-      "id": "40074"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/tv/doremi_s/index.html",
+    "begin": "2000-02-05T23:30:00.000Z",
+    "end": "2001-01-28T00:00:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb1dd5",
+        "begin": "2015-08-14T17:06:02.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "14876"
+      },
+      {
+        "site": "anidb",
+        "id": "1764"
+      },
+      {
+        "site": "anidb",
+        "id": "1766"
+      },
+      {
+        "site": "anidb",
+        "id": "888"
+      },
+      {
+        "site": "anilist",
+        "id": "2947"
+      },
+      {
+        "site": "anilist",
+        "id": "350"
+      },
+      {
+        "site": "anilist",
+        "id": "352"
+      },
+      {
+        "site": "anime-planet",
+        "id": "majo-minarai-wo-sagashite"
+      },
+      {
+        "site": "anime-planet",
+        "id": "motto-ojamajo-doremi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "motto-ojamajo-doremi-movie-kaeru-seki-no-himitsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ojamajo-doremi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ojamajo-doremi-dokkaan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ojamajo-doremi-naisho"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ojamajo-doremi-owarai-gekijou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ojamajo-doremi-sharp-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "2790"
+      },
+      {
+        "site": "anisearch",
+        "id": "3083"
+      },
+      {
+        "site": "anisearch",
+        "id": "3340"
+      },
+      {
+        "site": "kitsu",
+        "id": "2668"
+      },
+      {
+        "site": "kitsu",
+        "id": "317"
+      },
+      {
+        "site": "kitsu",
+        "id": "319"
+      },
+      {
+        "site": "livechart",
+        "id": "5331"
+      },
+      {
+        "site": "livechart",
+        "id": "5563"
+      },
+      {
+        "site": "livechart",
+        "id": "5570"
+      },
+      {
+        "site": "livechart",
+        "id": "6781"
+      },
+      {
+        "site": "livechart",
+        "id": "6859"
+      },
+      {
+        "site": "livechart",
+        "id": "6878"
+      },
+      {
+        "site": "livechart",
+        "id": "7223"
+      },
+      {
+        "site": "livechart",
+        "id": "9384"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2947"
+      },
+      {
+        "site": "myanimelist",
+        "id": "350"
+      },
+      {
+        "site": "myanimelist",
+        "id": "352"
+      },
+      {
+        "site": "myanimelist",
+        "id": "49670"
+      },
+      {
+        "site": "myanimelist",
+        "id": "49671"
+      },
+      {
+        "site": "notify",
+        "id": "-N0UcFimR"
+      },
+      {
+        "site": "notify",
+        "id": "YcPhcKmig"
+      },
+      {
+        "site": "notify",
+        "id": "iGPhcKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2000,
+      "month": "02"
     },
-    {
-      "site": "anidb",
-      "id": "5876"
-    },
-    {
-      "site": "anilist",
-      "id": "4961"
-    },
-    {
-      "site": "anime-planet",
-      "id": "shinzo-ova"
-    },
-    {
-      "site": "anisearch",
-      "id": "5804"
-    },
-    {
-      "site": "kitsu",
-      "id": "3866"
-    },
-    {
-      "site": "myanimelist",
-      "id": "4961"
-    },
-    {
-      "site": "notify",
-      "id": "Da1rcFmig"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 2000,
-    "month": "02"
+    "status": "FINISHED",
+    "episodes": 49,
+    "picture": "https://cdn.myanimelist.net/images/anime/1215/121240.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1215/121240t.jpg",
+    "synonyms": [
+      "DoReMi Sharp",
+      "DoReMi Staffel 2",
+      "Doremi #",
+      "Doremi (2000)",
+      "DoremiS2",
+      "Dó-Ré-Mi #",
+      "Dó-Ré-Mi (2000)",
+      "Ma che magie Doremi",
+      "Magical DoReMi Staffel 2",
+      "Magical Dorémi (2e saison)",
+      "Magical Dorémi (Saison 2)",
+      "Ojamajo Doremi #",
+      "Useless Witch Doremi Sharp",
+      "おじゃまじょどれみしゃーぷっ",
+      "おジャ魔女どれみ#",
+      "おジャ魔女どれみ♯ TV",
+      "おジャ魔女どれみ＃",
+      "小魔女DoReMi#"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 32,
-  "picture": "https://cdn.myanimelist.net/images/anime/4/87702.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/4/87702t.jpg",
-  "synonyms": [
-    "Mashuranboo",
-    "Meklējot Šinzo",
-    "Mushurambo",
-    "Shinzo",
-    "Shinzo, il lungo viaggio di Yakumo",
-    "Šinzo",
-    "Шинзо",
-    "שינזו",
-    "マシュランボー"
-  ]
-}
+  {
+    "title": "マシュランボー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爆裂战士"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/tv/mashura/",
+    "begin": "2000-02-05T16:00:00.000Z",
+    "end": "2000-09-23T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb1drx",
+        "begin": "2015-08-14T17:07:34.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "40074"
+      },
+      {
+        "site": "anidb",
+        "id": "5876"
+      },
+      {
+        "site": "anilist",
+        "id": "4961"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shinzo-ova"
+      },
+      {
+        "site": "anisearch",
+        "id": "5804"
+      },
+      {
+        "site": "kitsu",
+        "id": "3866"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4961"
+      },
+      {
+        "site": "notify",
+        "id": "Da1rcFmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2000,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 32,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/87702.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/87702t.jpg",
+    "synonyms": [
+      "Mashuranboo",
+      "Meklējot Šinzo",
+      "Mushurambo",
+      "Shinzo",
+      "Shinzo, il lungo viaggio di Yakumo",
+      "Šinzo",
+      "Шинзо",
+      "שינזו",
+      "マシュランボー"
+    ]
+  }
+]

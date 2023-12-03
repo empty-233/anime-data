@@ -1,142 +1,621 @@
-{
-  "title": "機動戦士ガンダム ククルス・ドアンの島",
-  "titleTranslate": {
-    "zh-Hans": [
-      "机动战士高达 库库鲁斯·杜安之岛"
+[
+  {
+    "title": "スプリガン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "遗迹守护者"
+      ],
+      "zh-Hant": [
+        "轟天高校生",
+        "保衛者"
+      ],
+      "en": [
+        "SPRIGGAN"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://spriggan-anime.jp/",
+    "begin": "2022-06-17T16:00:00.000Z",
+    "end": "2022-06-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "277037"
+      },
+      {
+        "site": "netflix",
+        "id": "81050064",
+        "begin": "2022-06-17T16:00:00.000Z",
+        "broadcast": "R/2022-06-17T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "218"
+      },
+      {
+        "site": "anilist",
+        "id": "420"
+      },
+      {
+        "site": "anime-planet",
+        "id": "spriggan"
+      },
+      {
+        "site": "anisearch",
+        "id": "701"
+      },
+      {
+        "site": "kitsu",
+        "id": "384"
+      },
+      {
+        "site": "livechart",
+        "id": "5799"
+      },
+      {
+        "site": "myanimelist",
+        "id": "420"
+      },
+      {
+        "site": "notify",
+        "id": "38RT5KmiR"
+      }
     ],
-    "zh-Hant": [
-      "機動戰士高達- 庫克羅斯 德安之島"
-    ],
-    "en": [
-      "MOBILE SUIT GUNDAM Cucuruz Doan's Island",
-      "Kidou Senshi Gundam: Cucuruz Doan no Shima"
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2022,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/1195/123948.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1195/123948t.jpg",
+    "synonyms": [
+      "SPRIGGAN",
+      "SPRIGGAN (2022)",
+      "SPRIGGAN (ONA)",
+      "Spriggan",
+      "Spriggan (2022)",
+      "Striker",
+      "ΣΠΡΙΓΚΑΝ",
+      "Спригган (2022)",
+      "سبريغان: حماة الخير",
+      "สปริกกัน",
+      "スプリガン",
+      "スプリガン (2022)",
+      "スプリガン (ONA)",
+      "スプリガン （2022）",
+      "遗迹守护者"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "https://g-doan.net",
-  "begin": "2022-06-02T16:00:00.000Z",
-  "end": "2022-06-02T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "349442"
+  {
+    "title": "BASTARD!! -暗黒の破壊神-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "BASTARD！！暗黑破坏神"
+      ],
+      "zh-Hant": [
+        "BASTARD！！暗黑破壞神"
+      ],
+      "en": [
+        "BASTARD‼ -Heavy Metal, Dark Fantasy-"
+      ]
     },
-    {
-      "site": "bilibili_hk_mo",
-      "id": "20138339",
-      "begin": "",
-      "broadcast": ""
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://bastard-anime.com/",
+    "begin": "2021-06-29T16:00:00.000Z",
+    "end": "2021-06-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "367726"
+      },
+      {
+        "site": "netflix",
+        "id": "81281582",
+        "begin": "2022-06-29T16:00:00.000Z",
+        "broadcast": "R/2022-06-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "10"
+      },
+      {
+        "site": "anidb",
+        "id": "17812"
+      },
+      {
+        "site": "anilist",
+        "id": "159926"
+      },
+      {
+        "site": "anilist",
+        "id": "404"
+      },
+      {
+        "site": "livechart",
+        "id": "11773"
+      },
+      {
+        "site": "livechart",
+        "id": "6560"
+      },
+      {
+        "site": "notify",
+        "id": "dE3h5Fiig"
+      },
+      {
+        "site": "notify",
+        "id": "vsoa-2h4R"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2022,
+      "month": "06"
     },
-    {
-      "site": "anidb",
-      "id": "715"
-    },
-    {
-      "site": "anilist",
-      "id": "80"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mobile-suit-gundam"
-    },
-    {
-      "site": "anisearch",
-      "id": "3329"
-    },
-    {
-      "site": "kitsu",
-      "id": "59"
-    },
-    {
-      "site": "livechart",
-      "id": "3938"
-    },
-    {
-      "site": "livechart",
-      "id": "4607"
-    },
-    {
-      "site": "livechart",
-      "id": "4659"
-    },
-    {
-      "site": "livechart",
-      "id": "4683"
-    },
-    {
-      "site": "livechart",
-      "id": "4695"
-    },
-    {
-      "site": "livechart",
-      "id": "4944"
-    },
-    {
-      "site": "livechart",
-      "id": "5926"
-    },
-    {
-      "site": "livechart",
-      "id": "5947"
-    },
-    {
-      "site": "livechart",
-      "id": "6906"
-    },
-    {
-      "site": "livechart",
-      "id": "6987"
-    },
-    {
-      "site": "livechart",
-      "id": "7514"
-    },
-    {
-      "site": "livechart",
-      "id": "7582"
-    },
-    {
-      "site": "livechart",
-      "id": "7717"
-    },
-    {
-      "site": "livechart",
-      "id": "7848"
-    },
-    {
-      "site": "livechart",
-      "id": "8121"
-    },
-    {
-      "site": "myanimelist",
-      "id": "80"
-    },
-    {
-      "site": "notify",
-      "id": "aucpcKimR"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 2022,
-    "month": "06"
+    "status": "FINISHED",
+    "episodes": 24,
+    "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144677-nn0zdlrGZ4Ir.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144677-nn0zdlrGZ4Ir.jpg",
+    "synonyms": [
+      "BASTARD!!",
+      "BASTARD!! -Heavy Metal, Dark Fantasy-",
+      "BASTARD!! -暗黒の破壊神-",
+      "BASTARD!! -暗黒の破壊神- (2022)",
+      "BASTARD!! －暗黒の破壊神－",
+      "BASTARD‼ -Heavy Metal, Dark Fantasy-",
+      "BASTARD‼ Heavy Metal, Dark Fantasy",
+      "BASTARD！！暗黑破坏神",
+      "BASTARD！！暗黑破壞神",
+      "Bastard!!",
+      "Bastard!! - L`oscuro dio distruttore",
+      "Bastard!! Ankoku no Hakaishin (2022)",
+      "Bastard!! Der Gott der Zerstörung",
+      "Bastard!! Heavy Metal, Dark Fantasy",
+      "Bastard!! อสูรร้ายจอมราชัน",
+      "Bastard!!: Ankoku no Hakaishin",
+      "Bastard!!: Ankoku no Hakaishin (ONA)",
+      "Виродок!! Темний бог руйнування",
+      "Ублюдок!! Сокрушитель тьмы (2022)",
+      "Ублюдок!! Темный бог разрушения",
+      "בסטרד!! הבי מטאל, פנטזיה אפלה",
+      "‎باسترد: هيفي ميتال ودارك فانتاسي",
+      "바스타드: 암흑의 파괴신"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1629/124154.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1629/124154t.jpg",
-  "synonyms": [
-    "G-Doan",
-    "Gundam: Cucuruz Doan no Shima",
-    "Kidō Senshi Gundam: Cucuruz Doan no Shima",
-    "Mobile Suit Gundam : Cucuruz Doan’s Island",
-    "Mobile Suit Gundam: Cucuruz Doan no Shima",
-    "Mobile Suit Gundam: Cucuruz Doan's Island",
-    "Mobile Suit Gundam: Cucuruz Doan`s Island",
-    "Mobile Suit Gundam: Cucuruz Doan’s Island",
-    "机动战士高达 库库鲁斯·杜安之岛",
-    "機動戦士ガンダム ククルス・ドアンの島"
-  ]
-}
+  {
+    "title": "劇場版 からかい上手の高木さん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "擅长捉弄的高木同学 剧场版"
+      ],
+      "zh-Hant": [
+        "劇場版 擅長捉弄人的高木同學"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://takagi3.me/",
+    "begin": "2022-06-10T16:00:00.000Z",
+    "end": "2022-06-10T17:12:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "347888"
+      },
+      {
+        "site": "gamer",
+        "id": "123482",
+        "begin": "2023-01-10T04:00:00.000Z",
+        "broadcast": "R/2023-01-10T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28480940",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28435376",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "16559"
+      },
+      {
+        "site": "anilist",
+        "id": "138424"
+      },
+      {
+        "site": "anime-planet",
+        "id": "teasing-master-takagi-san"
+      },
+      {
+        "site": "anime-planet",
+        "id": "teasing-master-takagi-san-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "teasing-master-takagi-san-3"
+      },
+      {
+        "site": "anisearch",
+        "id": "16555"
+      },
+      {
+        "site": "kitsu",
+        "id": "45022"
+      },
+      {
+        "site": "livechart",
+        "id": "10764"
+      },
+      {
+        "site": "livechart",
+        "id": "2782"
+      },
+      {
+        "site": "livechart",
+        "id": "3196"
+      },
+      {
+        "site": "livechart",
+        "id": "9187"
+      },
+      {
+        "site": "myanimelist",
+        "id": "49721"
+      },
+      {
+        "site": "notify",
+        "id": "ixOGZj47g"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2022,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1376/123398.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1376/123398t.jpg",
+    "synonyms": [
+      "Gekijouban Karakai Jouzu no Takagi-san",
+      "Gekijōban Karakai Jōzu no Takagi-san",
+      "La Maestra de las Bromas Takagi-san: La Película",
+      "Nicht schon wieder, Takagi-san: Der Film",
+      "Quand Takagi me Taquine, le Film",
+      "Teasing Master Takagi-san",
+      "Teasing Master Takagi-san Movie",
+      "Teasing Master Takagi-san The Movie",
+      "Teasing Master Takagi-san: The Movie",
+      "takagi movie",
+      "takagisan movie",
+      "แกล้งนัก รักนะ รู้ยัง? มูฟวี่",
+      "からかい上手の高木さん",
+      "劇場版 からかい上手の高木さん",
+      "擅长捉弄的高木同学 剧场版",
+      "映画 からかい上手の高木さん"
+    ]
+  },
+  {
+    "title": "劇場版 異世界かるてっと ～あなざーわーるど～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 异世界四重奏 ～Another World～"
+      ],
+      "zh-Hant": [
+        "劇場版 異世界四重奏 ～Another World～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://isekai-quartet.com",
+    "begin": "2022-06-09T16:00:00.000Z",
+    "end": "2022-06-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "303126"
+      },
+      {
+        "site": "gamer",
+        "id": "118547",
+        "begin": "2023-02-01T04:00:00.000Z",
+        "broadcast": "R/2023-02-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "14964"
+      },
+      {
+        "site": "anilist",
+        "id": "110178"
+      },
+      {
+        "site": "anilist",
+        "id": "20832"
+      },
+      {
+        "site": "anilist",
+        "id": "21202"
+      },
+      {
+        "site": "anilist",
+        "id": "21355"
+      },
+      {
+        "site": "anilist",
+        "id": "21613"
+      },
+      {
+        "site": "anilist",
+        "id": "99263"
+      },
+      {
+        "site": "anime-planet",
+        "id": "isekai-quartet"
+      },
+      {
+        "site": "anime-planet",
+        "id": "isekai-quartet-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "isekai-quartet-relay-pv"
+      },
+      {
+        "site": "anisearch",
+        "id": "14448"
+      },
+      {
+        "site": "kitsu",
+        "id": "42032"
+      },
+      {
+        "site": "livechart",
+        "id": "3550"
+      },
+      {
+        "site": "livechart",
+        "id": "9481"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29803"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30831"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31240"
+      },
+      {
+        "site": "myanimelist",
+        "id": "32615"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35790"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39988"
+      },
+      {
+        "site": "notify",
+        "id": "3wnwtzsig"
+      },
+      {
+        "site": "notify",
+        "id": "4qBqtKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "GyEecxUig"
+      },
+      {
+        "site": "notify",
+        "id": "NZ8lpFiig"
+      },
+      {
+        "site": "notify",
+        "id": "Un9XpFimg"
+      },
+      {
+        "site": "notify",
+        "id": "ac0PtFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "obp42Kmig"
+      },
+      {
+        "site": "notify",
+        "id": "vTpJW9AWg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2022,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1222/122000.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1222/122000t.jpg",
+    "synonyms": [
+      "Gekijouban Isekai Quartet: Another World",
+      "Gekijōban Isekai Quartet: Another World",
+      "IQ s3",
+      "ISEKAI QUARTET the Movie -Another World-",
+      "Isekai Quartet The Movie: Another World",
+      "Isekai Quartet t3",
+      "Isekai Quartet the Movie: Another World",
+      "Isekai Quartet, la Película: Otro Mundo",
+      "Isekai Quartet: Another World",
+      "عالم آخر رباعي 3",
+      "劇場版 異世界かるてっと ~あなざーわーるど~",
+      "劇場版 異世界かるてっと ～あなざーわーるど～",
+      "异世界四重奏 3",
+      "異世界かるてっと ～あなざーわーるど～",
+      "異世界四重奏 第三季",
+      "이세계 콰르텟 3"
+    ]
+  },
+  {
+    "title": "機動戦士ガンダム ククルス・ドアンの島",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达 库库鲁斯·杜安之岛"
+      ],
+      "zh-Hant": [
+        "機動戰士高達- 庫克羅斯 德安之島"
+      ],
+      "en": [
+        "MOBILE SUIT GUNDAM Cucuruz Doan's Island",
+        "Kidou Senshi Gundam: Cucuruz Doan no Shima"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://g-doan.net",
+    "begin": "2022-06-02T16:00:00.000Z",
+    "end": "2022-06-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "349442"
+      },
+      {
+        "site": "bilibili_hk_mo",
+        "id": "20138339",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "715"
+      },
+      {
+        "site": "anilist",
+        "id": "80"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam"
+      },
+      {
+        "site": "anisearch",
+        "id": "3329"
+      },
+      {
+        "site": "kitsu",
+        "id": "59"
+      },
+      {
+        "site": "livechart",
+        "id": "3938"
+      },
+      {
+        "site": "livechart",
+        "id": "4607"
+      },
+      {
+        "site": "livechart",
+        "id": "4659"
+      },
+      {
+        "site": "livechart",
+        "id": "4683"
+      },
+      {
+        "site": "livechart",
+        "id": "4695"
+      },
+      {
+        "site": "livechart",
+        "id": "4944"
+      },
+      {
+        "site": "livechart",
+        "id": "5926"
+      },
+      {
+        "site": "livechart",
+        "id": "5947"
+      },
+      {
+        "site": "livechart",
+        "id": "6906"
+      },
+      {
+        "site": "livechart",
+        "id": "6987"
+      },
+      {
+        "site": "livechart",
+        "id": "7514"
+      },
+      {
+        "site": "livechart",
+        "id": "7582"
+      },
+      {
+        "site": "livechart",
+        "id": "7717"
+      },
+      {
+        "site": "livechart",
+        "id": "7848"
+      },
+      {
+        "site": "livechart",
+        "id": "8121"
+      },
+      {
+        "site": "myanimelist",
+        "id": "80"
+      },
+      {
+        "site": "notify",
+        "id": "aucpcKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2022,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1629/124154.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1629/124154t.jpg",
+    "synonyms": [
+      "G-Doan",
+      "Gundam: Cucuruz Doan no Shima",
+      "Kidō Senshi Gundam: Cucuruz Doan no Shima",
+      "Mobile Suit Gundam : Cucuruz Doan’s Island",
+      "Mobile Suit Gundam: Cucuruz Doan no Shima",
+      "Mobile Suit Gundam: Cucuruz Doan's Island",
+      "Mobile Suit Gundam: Cucuruz Doan`s Island",
+      "Mobile Suit Gundam: Cucuruz Doan’s Island",
+      "机动战士高达 库库鲁斯·杜安之岛",
+      "機動戦士ガンダム ククルス・ドアンの島"
+    ]
+  }
+]

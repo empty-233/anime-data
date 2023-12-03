@@ -1,94 +1,1414 @@
-{
-  "title": "HUMAN LOST 人間失格",
-  "titleTranslate": {
-    "zh-Hans": [
-      "HUMAN LOST 人间失格"
+[
+  {
+    "title": "ポケットモンスター(2019)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宝可梦",
+        "宝可梦 旅途",
+        "宝可梦(2019)",
+        "精灵宝可梦 2019"
+      ],
+      "zh-Hant": [
+        "寶可夢旅途"
+      ],
+      "en": [
+        "Pokémon Journeys: The Series"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tv-tokyo.co.jp/anime/pocketmonster/",
+    "begin": "2019-11-17T08:30:00.000Z",
+    "end": "2022-12-16T10:25:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "292522"
+      },
+      {
+        "site": "nicovideo",
+        "id": "pokemon_anime",
+        "begin": "2019-11-25T03:00:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "81275355",
+        "begin": "2020-11-20T00:00:00.000Z",
+        "broadcast": "R/2020-11-20T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "107963",
+        "begin": "2021-02-19T02:00:00.000Z",
+        "broadcast": "R/2021-02-19T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "12407"
+      },
+      {
+        "site": "anidb",
+        "id": "15745"
+      },
+      {
+        "site": "anidb",
+        "id": "17151"
+      },
+      {
+        "site": "anidb",
+        "id": "17780"
+      },
+      {
+        "site": "anilist",
+        "id": "113932"
+      },
+      {
+        "site": "anilist",
+        "id": "114564"
+      },
+      {
+        "site": "anilist",
+        "id": "119964"
+      },
+      {
+        "site": "anilist",
+        "id": "126909"
+      },
+      {
+        "site": "anilist",
+        "id": "142794"
+      },
+      {
+        "site": "anilist",
+        "id": "144990"
+      },
+      {
+        "site": "anilist",
+        "id": "145813"
+      },
+      {
+        "site": "anilist",
+        "id": "155767"
+      },
+      {
+        "site": "anilist",
+        "id": "158869"
+      },
+      {
+        "site": "anilist",
+        "id": "158870"
+      },
+      {
+        "site": "anilist",
+        "id": "169404"
+      },
+      {
+        "site": "anilist",
+        "id": "97634"
+      },
+      {
+        "site": "anime-planet",
+        "id": "arceus-the-one-called-god"
+      },
+      {
+        "site": "anime-planet",
+        "id": "planetarium-pokemon-aurora-kara-no-message"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-advanced"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-aim-to-be-a-pokemon-master"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-black-and-white"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-black-and-white-adventures-in-unova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-black-and-white-adventures-in-unova-and-beyond"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-black-and-white-rival-destinies"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-diamond-and-pearl"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-journeys-harukanaru-aoi-sora"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-journeys-right-before-summer-vacation-1-hour-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-sun-and-moon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-xy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-xy-and-z"
+      },
+      {
+        "site": "anisearch",
+        "id": "11757"
+      },
+      {
+        "site": "anisearch",
+        "id": "14824"
+      },
+      {
+        "site": "anisearch",
+        "id": "15585"
+      },
+      {
+        "site": "anisearch",
+        "id": "15641"
+      },
+      {
+        "site": "anisearch",
+        "id": "15746"
+      },
+      {
+        "site": "anisearch",
+        "id": "17047"
+      },
+      {
+        "site": "anisearch",
+        "id": "17946"
+      },
+      {
+        "site": "anisearch",
+        "id": "18211"
+      },
+      {
+        "site": "kitsu",
+        "id": "12533"
+      },
+      {
+        "site": "kitsu",
+        "id": "42869"
+      },
+      {
+        "site": "kitsu",
+        "id": "43025"
+      },
+      {
+        "site": "kitsu",
+        "id": "43585"
+      },
+      {
+        "site": "kitsu",
+        "id": "45599"
+      },
+      {
+        "site": "kitsu",
+        "id": "45851"
+      },
+      {
+        "site": "kitsu",
+        "id": "46497"
+      },
+      {
+        "site": "kitsu",
+        "id": "46631"
+      },
+      {
+        "site": "kitsu",
+        "id": "46857"
+      },
+      {
+        "site": "kitsu",
+        "id": "46858"
+      },
+      {
+        "site": "livechart",
+        "id": "3702"
+      },
+      {
+        "site": "livechart",
+        "id": "3816"
+      },
+      {
+        "site": "livechart",
+        "id": "3979"
+      },
+      {
+        "site": "livechart",
+        "id": "3992"
+      },
+      {
+        "site": "livechart",
+        "id": "4045"
+      },
+      {
+        "site": "livechart",
+        "id": "4466"
+      },
+      {
+        "site": "livechart",
+        "id": "4505"
+      },
+      {
+        "site": "livechart",
+        "id": "5008"
+      },
+      {
+        "site": "livechart",
+        "id": "5217"
+      },
+      {
+        "site": "livechart",
+        "id": "5345"
+      },
+      {
+        "site": "livechart",
+        "id": "5371"
+      },
+      {
+        "site": "livechart",
+        "id": "5627"
+      },
+      {
+        "site": "livechart",
+        "id": "5641"
+      },
+      {
+        "site": "livechart",
+        "id": "5643"
+      },
+      {
+        "site": "livechart",
+        "id": "8945"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34034"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40861"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42161"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42914"
+      },
+      {
+        "site": "myanimelist",
+        "id": "49321"
+      },
+      {
+        "site": "myanimelist",
+        "id": "50673"
+      },
+      {
+        "site": "myanimelist",
+        "id": "51145"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53873"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53874"
+      },
+      {
+        "site": "myanimelist",
+        "id": "57003"
+      },
+      {
+        "site": "notify",
+        "id": "G_sKn15Vg"
+      },
+      {
+        "site": "notify",
+        "id": "eoDgWYcVg"
+      },
+      {
+        "site": "notify",
+        "id": "sv1ocKimg"
+      }
     ],
-    "zh-Hant": [
-      "HUMAN LOST 人間失格"
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2019,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 136,
+    "picture": "https://cdn.myanimelist.net/images/anime/1689/105554.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1689/105554t.jpg",
+    "synonyms": [
+      "Esplorazioni Pokémon",
+      "Esplorazioni Pokémon Master",
+      "Esplorazioni Pokémon Super",
+      "Jornadas Pokémon",
+      "Jornadas Pokémon: A Série",
+      "La serie Viajes Definitivos Pokémon",
+      "La serie Viajes Maestros Pokémon",
+      "La serie Viajes Pokémon",
+      "La série : Pokémon",
+      "La série : Pokémon, les voyages",
+      "Pocket Monsters",
+      "Pocket Monsters (2019)",
+      "Pocket Monsters: Project Mew",
+      "Pokemon (Shin Series)",
+      "Pokemon 2019",
+      "Pokemon Journeys",
+      "Pokemon Journeys: The Series",
+      "Pokemon Master Journeys: The Series",
+      "Pokemon Reisen: Die Serie",
+      "Pokémon",
+      "Pokémon (2019)",
+      "Pokémon : Les Voyages",
+      "Pokémon Journeys",
+      "Pokémon Journeys: The Series",
+      "Pokémon Master Journeys",
+      "Pokémon Meester Reizen: De serie",
+      "Pokémon Meister-Reisen: Die Serie",
+      "Pokémon Reisen: Die Serie",
+      "Pokémon Reiser: Serien",
+      "Pokémon Reizen: De serie",
+      "Pokémon Sword & Shield Anime Series",
+      "Pokémon Ultieme Reizen: De serie",
+      "Pokémon Ultimate Journeys",
+      "Pokémon Ultimate Journeys: The Series",
+      "Pokémon Ultimative Reisen: Die Serie",
+      "Pokémon Viajes Serie",
+      "Pokémon på rejse",
+      "Pokémon, les voyages",
+      "Pokémon: Podróże – Seria",
+      "Serie Viajes Definitivos Pokémon",
+      "Serie Viajes Maestros Pokémon",
+      "Serie Viajes Pokémon",
+      "Viajes Pokémon",
+      "les voyages d’un Maître",
+      "les voyages ultimes",
+      "pm s13",
+      "pm19",
+      "pm2019",
+      "Сериал Покемон: Приключения",
+      "ポケットモンスター",
+      "ポケットモンスター (2019)",
+      "ポケットモンスター （2019）",
+      "ポケットモンスター(2019)",
+      "宝可梦",
+      "포켓몬스터W"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "https://human-lost.jp/",
-  "begin": "2019-11-28T16:00:00.000Z",
-  "end": "2019-11-28T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "278768"
+  {
+    "title": "ルパン三世 プリズン・オブ・ザ・パスト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世 Prison of the Past",
+        "鲁邦三世 过去的监狱"
+      ],
+      "zh-Hant": [
+        "魯邦三世 過去的監獄"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "28234059",
-      "begin": "",
-      "broadcast": ""
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-11-29T12:00:00.000Z",
+    "end": "2019-11-29T13:54:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "292940"
+      },
+      {
+        "site": "gamer",
+        "id": "113018",
+        "begin": "2020-08-19T04:00:00.000Z",
+        "broadcast": "R/2020-08-19T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1485"
+      },
+      {
+        "site": "anilist",
+        "id": "1412"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd"
+      },
+      {
+        "site": "anisearch",
+        "id": "12738"
+      },
+      {
+        "site": "kitsu",
+        "id": "13749"
+      },
+      {
+        "site": "livechart",
+        "id": "11512"
+      },
+      {
+        "site": "livechart",
+        "id": "12098"
+      },
+      {
+        "site": "livechart",
+        "id": "12099"
+      },
+      {
+        "site": "livechart",
+        "id": "4165"
+      },
+      {
+        "site": "livechart",
+        "id": "4320"
+      },
+      {
+        "site": "livechart",
+        "id": "5905"
+      },
+      {
+        "site": "livechart",
+        "id": "6281"
+      },
+      {
+        "site": "livechart",
+        "id": "6402"
+      },
+      {
+        "site": "livechart",
+        "id": "6731"
+      },
+      {
+        "site": "livechart",
+        "id": "7324"
+      },
+      {
+        "site": "livechart",
+        "id": "7545"
+      },
+      {
+        "site": "livechart",
+        "id": "7552"
+      },
+      {
+        "site": "livechart",
+        "id": "8223"
+      },
+      {
+        "site": "livechart",
+        "id": "9298"
+      },
+      {
+        "site": "livechart",
+        "id": "9350"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1412"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2019,
+      "month": "11"
     },
-    {
-      "site": "gamer",
-      "id": "104774",
-      "begin": "2023-09-01T02:00:00.000Z",
-      "broadcast": "R/2023-09-01T02:00:00.000Z/P7D"
-    },
-    {
-      "site": "anidb",
-      "id": "7056"
-    },
-    {
-      "site": "anilist",
-      "id": "124430"
-    },
-    {
-      "site": "anilist",
-      "id": "7193"
-    },
-    {
-      "site": "anime-planet",
-      "id": "m-flo-x-j-balvin-human-lost"
-    },
-    {
-      "site": "kitsu",
-      "id": "43843"
-    },
-    {
-      "site": "kitsu",
-      "id": "4900"
-    },
-    {
-      "site": "kitsu",
-      "id": "5068"
-    },
-    {
-      "site": "myanimelist",
-      "id": "40792"
-    },
-    {
-      "site": "myanimelist",
-      "id": "7193"
-    },
-    {
-      "site": "myanimelist",
-      "id": "7651"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 2019,
-    "month": "11"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1534/105213.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1534/105213t.jpg",
+    "synonyms": [
+      "Lupin III - Prigioniero del passato",
+      "Lupin III Special 28: Prison of the Past",
+      "Lupin Sansei: Prison of the Past",
+      "Lupin the 3rd: Prigioniero del passato",
+      "Lupin the 3rd: Prison of the Past",
+      "ルパン三世 プリズン・オブ・ザ・パスト",
+      "鲁邦三世 Prison of the Past"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1815/104501.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1815/104501t.jpg",
-  "synonyms": [
-    "HUMAN LOST",
-    "HUMAN LOST 人間失格",
-    "HUMAN LOST人間失格",
-    "Human Lost",
-    "Human Lost: Lo Squalificato",
-    "Ningen Shikkaku",
-    "No Longer Human",
-    "人間失格"
-  ]
-}
+  {
+    "title": "ゆるゆり、",
+    "titleTranslate": {
+      "zh-Hans": [
+        "摇曳百合、"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://yuruyuri.com/10th",
+    "begin": "2019-11-13T16:00:00.000Z",
+    "end": "2019-11-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "243787"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yuruyuri_ova",
+        "begin": "2019-12-12T15:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "11124"
+      },
+      {
+        "site": "anidb",
+        "id": "14971"
+      },
+      {
+        "site": "anilist",
+        "id": "10495"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yuru-yuri"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yuru-yuri-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yuru-yuri-mini-yuri"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yuru-yuri-nachu-yachumi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yuru-yuri-nachu-yachumi-plus"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yuru-yuri-san-hai"
+      },
+      {
+        "site": "anisearch",
+        "id": "10282"
+      },
+      {
+        "site": "anisearch",
+        "id": "14644"
+      },
+      {
+        "site": "kitsu",
+        "id": "10742"
+      },
+      {
+        "site": "kitsu",
+        "id": "42540"
+      },
+      {
+        "site": "livechart",
+        "id": "1041"
+      },
+      {
+        "site": "livechart",
+        "id": "12284"
+      },
+      {
+        "site": "livechart",
+        "id": "1232"
+      },
+      {
+        "site": "livechart",
+        "id": "1432"
+      },
+      {
+        "site": "livechart",
+        "id": "1644"
+      },
+      {
+        "site": "livechart",
+        "id": "4073"
+      },
+      {
+        "site": "livechart",
+        "id": "434"
+      },
+      {
+        "site": "livechart",
+        "id": "9490"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30279"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40369"
+      },
+      {
+        "site": "notify",
+        "id": "7xGVtKmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2019,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1138/99547.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1138/99547t.jpg",
+    "synonyms": [
+      "YRYR",
+      "Yuru Yuri 10th Anniversary Animation",
+      "Yuru Yuri Ten",
+      "YuruYuri 10",
+      "YuruYuri Ten",
+      "YuruYuri,",
+      "Yuruyuri ten",
+      "ゆるゆり,",
+      "ゆるゆり、",
+      "ゆるゆりてん",
+      "摇曳百合、"
+    ]
+  },
+  {
+    "title": "映画 すみっコぐらし とびだす絵本とひみつのコ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "角落小伙伴：魔法绘本里的新朋友"
+      ],
+      "zh-Hant": [
+        "劇場版 角落小夥伴 魔法繪本裡的新朋友"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://sumikkogurashi-movie.com/",
+    "begin": "2019-11-08T16:00:00.000Z",
+    "end": "2019-11-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "274243"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sumikkogurashi-movie",
+        "begin": ""
+      },
+      {
+        "site": "viu",
+        "id": "442976",
+        "begin": "2022-05-31T16:00:00.000Z",
+        "broadcast": "R/2022-05-31T16:00:00.000Z/P7D",
+        "comment": "粵語版: 442977"
+      },
+      {
+        "site": "anidb",
+        "id": "15843"
+      },
+      {
+        "site": "anilist",
+        "id": "125931"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sumikko-gurashi-movie-2"
+      },
+      {
+        "site": "anisearch",
+        "id": "16259"
+      },
+      {
+        "site": "kitsu",
+        "id": "43774"
+      },
+      {
+        "site": "livechart",
+        "id": "10215"
+      },
+      {
+        "site": "livechart",
+        "id": "11758"
+      },
+      {
+        "site": "livechart",
+        "id": "12382"
+      },
+      {
+        "site": "myanimelist",
+        "id": "43780"
+      },
+      {
+        "site": "notify",
+        "id": "ylirevYMg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2019,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1955/108581.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1955/108581t.jpg",
+    "synonyms": [
+      "Eiga Sumikko Gurashi",
+      "Eiga Sumikko Gurashi: Tobidasu Ehon to Himitsu no Ko",
+      "Life in the Corner",
+      "Sumikko Gurashi",
+      "Sumikko Gurashi Movie: Tobidasu Ehon to Himitsu no Ko",
+      "Sumikko Gurashi The Movie - The Pop-up Book and the Secret Child",
+      "Sumikko Gurashi the Movie: The Unexpected Picture Book and the Secret Child",
+      "Sumikko Gurashi: Tobidasu Ehon to Himitsu no Ko",
+      "Sumikkogurashi: Good to Be in the Corner",
+      "Sumikkogurashi: Good to be in the corner",
+      "すみっコぐらし",
+      "映画 すみっコぐらし とびだす絵本とひみつのコ"
+    ]
+  },
+  {
+    "title": "Re:ゼロから始める異世界生活 氷結の絆",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Re：从零开始的异世界生活 冰结之绊"
+      ],
+      "zh-Hant": [
+        "Re：從零開始的異世界生活 冰結之絆"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://re-zero-anime.jp/hyoketsu/",
+    "begin": "2019-11-08T16:00:00.000Z",
+    "end": "2019-11-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "261805"
+      },
+      {
+        "site": "nicovideo",
+        "id": "re-zero-hyoketsu",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200slw5drm",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28226009",
+        "begin": "2020-04-30T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "youku",
+        "id": "eaaf65bbfbcd4537b533",
+        "begin": "2020-07-07T03:34:04.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "104647",
+        "begin": "2020-08-25T09:00:00.000Z",
+        "broadcast": "R/2020-08-25T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28340506",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "11370"
+      },
+      {
+        "site": "anilist",
+        "id": "21355"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2018,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100049-mgvPLctBJprp.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100049-mgvPLctBJprp.jpg",
+    "synonyms": [
+      "Re: Жизнь в другом мире с нуля - Снежные воспоминания",
+      "Re: 제로부터 시작하는 이세계 생활 (2018)",
+      "Re:ZERO -Starting Life in Another World- Memory Snow",
+      "Re:ZERO -Starting Life in Another World- OVAs",
+      "Re:ZERO -Starting Life in Another World- The Frozen Bond",
+      "Re:Zero - Starting Life in Another World (2018)",
+      "Re:Zero kara Hajimeru Isekai Seikatsu (2018)",
+      "Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow",
+      "Re:Zero kara Hajimeru Isekai Seikatsu: Hyouketsu no Kizuna",
+      "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก Memory Snow",
+      "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก The Frozen Bond",
+      "Re:Zero — жизнь с нуля в другом мире OVA",
+      "Re:Zero — жизнь с нуля в другом мире OVA. Ледяные узы",
+      "Re:ゼロから始める異世界生活 (2018)",
+      "Re:ゼロから始める異世界生活 Memory Snow",
+      "Re:ゼロから始める異世界生活 OVAs",
+      "Re:ゼロから始める異世界生活 氷結の絆",
+      "Re：從零開始的異世界生活 OVA",
+      "re:zero ova",
+      "rezero movie"
+    ]
+  },
+  {
+    "title": "サンタ・カンパニー ～クリスマスの秘密～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圣诞老人公司～圣诞节的秘密～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://santa-company.net/",
+    "begin": "2019-11-29T16:00:00.000Z",
+    "end": "2019-11-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "284474"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228384",
+        "begin": "2020-03-18T16:00:00.000Z",
+        "broadcast": "R/2020-03-20T10:56:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "16005"
+      },
+      {
+        "site": "anidb",
+        "id": "9516"
+      },
+      {
+        "site": "anilist",
+        "id": "16381"
+      },
+      {
+        "site": "anime-planet",
+        "id": "santa-company"
+      },
+      {
+        "site": "anime-planet",
+        "id": "santa-company-manatsu-no-merry-christmas"
+      },
+      {
+        "site": "anisearch",
+        "id": "15914"
+      },
+      {
+        "site": "anisearch",
+        "id": "8198"
+      },
+      {
+        "site": "kitsu",
+        "id": "43896"
+      },
+      {
+        "site": "kitsu",
+        "id": "7416"
+      },
+      {
+        "site": "livechart",
+        "id": "10361"
+      },
+      {
+        "site": "livechart",
+        "id": "352"
+      },
+      {
+        "site": "myanimelist",
+        "id": "16381"
+      },
+      {
+        "site": "myanimelist",
+        "id": "46491"
+      },
+      {
+        "site": "notify",
+        "id": "0B2Tc_fMR"
+      },
+      {
+        "site": "notify",
+        "id": "4bBKtKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2019,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1985/102720.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1985/102720t.jpg",
+    "synonyms": [
+      "Santa Company: El secreto de la navidad",
+      "Santa Company: The Secret of Christmas",
+      "サンタ・カンパニー ~クリスマスの秘密~",
+      "サンタ・カンパニー ～クリスマスの秘密～"
+    ]
+  },
+  {
+    "title": "銀河英雄伝説 Die Neue These 星乱 第3章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河英雄传说 Die Neue These 星乱 第3章"
+      ],
+      "zh-Hant": [
+        "銀河英雄傳說 Die Neue These 星亂",
+        "銀河英雄傳說：全新命題 星亂"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://gineiden-anime.com",
+    "begin": "2019-11-29T16:00:00.000Z",
+    "end": "2019-11-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "226224"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222724",
+        "begin": "2019-09-26T16:00:00.000Z",
+        "broadcast": "R/2019-09-27T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "104025",
+        "begin": "2022-12-16T03:00:00.000Z",
+        "broadcast": "R/2022-12-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28222814",
+        "begin": "2019-09-27T12:01:33.000Z",
+        "broadcast": "R/2019-09-27T12:01:33.000Z/P7D"
+      },
+      {
+        "site": "anime-planet",
+        "id": "legend-of-the-galactic-heroes-die-neue-these-second-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "legend-of-the-galactic-heroes-die-neue-these-third-1"
+      },
+      {
+        "site": "kitsu",
+        "id": "42352"
+      },
+      {
+        "site": "kitsu",
+        "id": "44169"
+      },
+      {
+        "site": "kitsu",
+        "id": "727"
+      },
+      {
+        "site": "livechart",
+        "id": "10151"
+      },
+      {
+        "site": "livechart",
+        "id": "10832"
+      },
+      {
+        "site": "livechart",
+        "id": "10833"
+      },
+      {
+        "site": "livechart",
+        "id": "11215"
+      },
+      {
+        "site": "livechart",
+        "id": "11216"
+      },
+      {
+        "site": "livechart",
+        "id": "11217"
+      },
+      {
+        "site": "livechart",
+        "id": "2887"
+      },
+      {
+        "site": "livechart",
+        "id": "2888"
+      },
+      {
+        "site": "livechart",
+        "id": "436"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36370"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42886"
+      },
+      {
+        "site": "myanimelist",
+        "id": "820"
+      },
+      {
+        "site": "notify",
+        "id": "00Njybvng"
+      },
+      {
+        "site": "notify",
+        "id": "4TO6rOAmR"
+      },
+      {
+        "site": "notify",
+        "id": "Q6fAcKmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2019,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/1782/103917.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1782/103917t.jpg",
+    "synonyms": [
+      "Ginga Eiyuu Densetsu (2019)",
+      "Ginga Eiyuu Densetsu: Die Neue These 2nd Season",
+      "Ginga Eiyuu Densetsu: Die Neue These Seiran 3",
+      "La Leyenda de los Héroes de la Galaxia: La Nueva Tesis. Stellar War Parte 3",
+      "Legend of the Galactic Heroes: Die Neue These - Stellar War Part 3",
+      "Legend of the Galactic Heroes: Die Neue These Second 3",
+      "Legend of the Galactic Heroes: The New Thesis Second Part 3",
+      "The Legend of the Galactic Heroes (2019)",
+      "The Legend of the Galactic Heroes The New Thesis",
+      "The Legend of the Galactic Heroes The New Thesis Stellar War Part 3",
+      "The Legend of the Galactic Heroes: The New Thesis - Stellar War Part 3",
+      "銀河英雄伝説 Die Neue These 星乱 3",
+      "銀河英雄伝説 Die Neue These 星乱 第3章",
+      "銀河英雄伝説 Die Neue These 星乱　第三章"
+    ]
+  },
+  {
+    "title": "Levius -レビウス-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "列比乌斯"
+      ],
+      "zh-Hant": [
+        "列比烏斯"
+      ],
+      "en": [
+        "Levius"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://levius.net/",
+    "begin": "2019-11-28T16:00:00.000Z",
+    "end": "2019-11-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "278658"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229026",
+        "begin": "2020-05-27T16:00:00.000Z",
+        "broadcast": "R/2020-05-28T10:06:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80156799",
+        "begin": "2019-11-28T00:00:00.000Z",
+        "broadcast": "R/2019-11-28T00:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2019,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1329/116479.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1329/116479t.jpg",
+    "synonyms": [
+      "Levius -レビウス-",
+      "לוויוס",
+      "ليفيوس",
+      "レビウス"
+    ]
+  },
+  {
+    "title": "RWBY Volume 7",
+    "titleTranslate": {
+      "zh-Hans": [
+        "红白黑黄 第七季",
+        "四色战记 / RWBY 第七季"
+      ]
+    },
+    "type": "web",
+    "lang": "en",
+    "officialSite": "https://roosterteeth.com/series/rwby",
+    "begin": "2019-11-02T16:00:00.000Z",
+    "end": "2020-02-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "285936"
+      },
+      {
+        "site": "bilibili",
+        "id": "20143126",
+        "begin": "2023-03-30T10:00:01.000Z",
+        "broadcast": "R/2023-03-30T10:00:01.000Z/P7D"
+      },
+      {
+        "site": "kitsu",
+        "id": "41937"
+      },
+      {
+        "site": "kitsu",
+        "id": "42599"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2019,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://media.kitsu.io/anime/poster_images/42425/small.jpg",
+    "thumbnail": "https://media.kitsu.io/anime/poster_images/42425/tiny.jpg",
+    "synonyms": [
+      "RWBY Season 7",
+      "RWBY Volume 7"
+    ]
+  },
+  {
+    "title": "恐竜少女ガウ子",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恐龙女孩"
+      ],
+      "zh-Hant": [
+        "恐龍女孩"
+      ],
+      "en": [
+        "Dino Girl Gauko"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.gauko.com/",
+    "begin": "2019-11-21T16:00:00.000Z",
+    "end": "2019-11-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302672"
+      },
+      {
+        "site": "netflix",
+        "id": "80216180",
+        "begin": "2019-11-22T00:00:00.000Z",
+        "broadcast": "R/2019-11-22T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "15574"
+      },
+      {
+        "site": "anilist",
+        "id": "115794"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dino-girl-gauko-2nd-season"
+      },
+      {
+        "site": "anisearch",
+        "id": "15128"
+      },
+      {
+        "site": "kitsu",
+        "id": "43088"
+      },
+      {
+        "site": "livechart",
+        "id": "9801"
+      },
+      {
+        "site": "myanimelist",
+        "id": "41421"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2019,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 20,
+    "picture": "https://cdn.myanimelist.net/images/anime/1158/101098.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1158/101098t.jpg",
+    "synonyms": [
+      "Dino Girl Gauko",
+      "Dino-Girl",
+      "Dinotyttö Gauko",
+      "Dinołaczka",
+      "Kyōryū Shōjo Gauko",
+      "Гауко: девочка-динозавр",
+      "Девочка-динозавр Гауко",
+      "גאוקו ילדת הדרקון",
+      "恐竜少女ガウ子",
+      "恐龙女孩"
+    ]
+  },
+  {
+    "title": "HUMAN LOST 人間失格",
+    "titleTranslate": {
+      "zh-Hans": [
+        "HUMAN LOST 人间失格"
+      ],
+      "zh-Hant": [
+        "HUMAN LOST 人間失格"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://human-lost.jp/",
+    "begin": "2019-11-28T16:00:00.000Z",
+    "end": "2019-11-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "278768"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234059",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "104774",
+        "begin": "2023-09-01T02:00:00.000Z",
+        "broadcast": "R/2023-09-01T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "7056"
+      },
+      {
+        "site": "anilist",
+        "id": "124430"
+      },
+      {
+        "site": "anilist",
+        "id": "7193"
+      },
+      {
+        "site": "anime-planet",
+        "id": "m-flo-x-j-balvin-human-lost"
+      },
+      {
+        "site": "kitsu",
+        "id": "43843"
+      },
+      {
+        "site": "kitsu",
+        "id": "4900"
+      },
+      {
+        "site": "kitsu",
+        "id": "5068"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40792"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7193"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7651"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2019,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1815/104501.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1815/104501t.jpg",
+    "synonyms": [
+      "HUMAN LOST",
+      "HUMAN LOST 人間失格",
+      "HUMAN LOST人間失格",
+      "Human Lost",
+      "Human Lost: Lo Squalificato",
+      "Ningen Shikkaku",
+      "No Longer Human",
+      "人間失格"
+    ]
+  }
+]

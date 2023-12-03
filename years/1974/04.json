@@ -1,245 +1,353 @@
-{
-  "title": "ゲッターロボ",
-  "titleTranslate": {
-    "zh-Hans": [
-      "盖塔机器人"
+[
+  {
+    "title": "チャージマン研！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "ChargeMan研"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://cha-ken.com/",
+    "begin": "1974-04-01T16:00:00.000Z",
+    "end": "1974-06-28T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "16872"
+      },
+      {
+        "site": "bilibili",
+        "id": "2481",
+        "begin": "1973-07-01T16:00:00.000Z",
+        "broadcast": "R/2011-05-02T05:03:46.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "chargeman-ken",
+        "begin": "2020-10-01T03:00:00.000Z"
+      },
+      {
+        "site": "anilist",
+        "id": "10812"
+      },
+      {
+        "site": "anime-planet",
+        "id": "toumei-shounen-tantei-akira"
+      },
+      {
+        "site": "kitsu",
+        "id": "6363"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10812"
+      },
+      {
+        "site": "notify",
+        "id": "hP_VpFimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1974,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 65,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/86971.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/86971t.jpg",
+    "synonyms": [
+      "Cha-Ken!",
+      "Charge Man Ken",
+      "Charge Man Ken!",
+      "Chargeman Ken",
+      "ちゃーじまんけん",
+      "チャージマン研!",
+      "チャージマン研！"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1974-04-03T16:00:00.000Z",
-  "end": "1975-05-07T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "10405"
+  {
+    "title": "星の子チョビン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "星星王子"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "2352",
-      "begin": "2014-06-02T16:49:00.000Z",
-      "broadcast": "R/2014-06-02T16:49:00.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1974-04-06T22:00:00.000Z",
+    "end": "1974-09-27T22:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "213784"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1974,
+      "month": "04"
     },
-    {
-      "site": "anidb",
-      "id": "10001"
-    },
-    {
-      "site": "anidb",
-      "id": "1271"
-    },
-    {
-      "site": "anidb",
-      "id": "15828"
-    },
-    {
-      "site": "anidb",
-      "id": "1838"
-    },
-    {
-      "site": "anidb",
-      "id": "2221"
-    },
-    {
-      "site": "anidb",
-      "id": "881"
-    },
-    {
-      "site": "anidb",
-      "id": "949"
-    },
-    {
-      "site": "anilist",
-      "id": "125640"
-    },
-    {
-      "site": "anilist",
-      "id": "2978"
-    },
-    {
-      "site": "anilist",
-      "id": "4385"
-    },
-    {
-      "site": "anilist",
-      "id": "4486"
-    },
-    {
-      "site": "anilist",
-      "id": "5292"
-    },
-    {
-      "site": "anilist",
-      "id": "8252"
-    },
-    {
-      "site": "anilist",
-      "id": "978"
-    },
-    {
-      "site": "anime-planet",
-      "id": "cb-chara-go-nagai-world"
-    },
-    {
-      "site": "anime-planet",
-      "id": "getter-robo-armageddon"
-    },
-    {
-      "site": "anime-planet",
-      "id": "getter-robo-g"
-    },
-    {
-      "site": "anime-planet",
-      "id": "getter-robo-go"
-    },
-    {
-      "site": "anime-planet",
-      "id": "great-mazinger-vs-getter-robo"
-    },
-    {
-      "site": "anime-planet",
-      "id": "great-mazinger-vs-getter-robo-g-the-great-space-encounter"
-    },
-    {
-      "site": "anime-planet",
-      "id": "grendizer-getter-robo-g-great-mazinger-kessen-daikaijuu"
-    },
-    {
-      "site": "anime-planet",
-      "id": "new-getter-robo"
-    },
-    {
-      "site": "anime-planet",
-      "id": "shin-getter-robo-vs-neo-getter-robo"
-    },
-    {
-      "site": "anisearch",
-      "id": "1014"
-    },
-    {
-      "site": "anisearch",
-      "id": "1203"
-    },
-    {
-      "site": "anisearch",
-      "id": "15714"
-    },
-    {
-      "site": "anisearch",
-      "id": "2298"
-    },
-    {
-      "site": "anisearch",
-      "id": "2401"
-    },
-    {
-      "site": "anisearch",
-      "id": "3236"
-    },
-    {
-      "site": "anisearch",
-      "id": "367"
-    },
-    {
-      "site": "kitsu",
-      "id": "2693"
-    },
-    {
-      "site": "kitsu",
-      "id": "3639"
-    },
-    {
-      "site": "kitsu",
-      "id": "4039"
-    },
-    {
-      "site": "kitsu",
-      "id": "5271"
-    },
-    {
-      "site": "kitsu",
-      "id": "868"
-    },
-    {
-      "site": "livechart",
-      "id": "10203"
-    },
-    {
-      "site": "livechart",
-      "id": "6214"
-    },
-    {
-      "site": "livechart",
-      "id": "6825"
-    },
-    {
-      "site": "livechart",
-      "id": "6914"
-    },
-    {
-      "site": "livechart",
-      "id": "7075"
-    },
-    {
-      "site": "livechart",
-      "id": "7429"
-    },
-    {
-      "site": "myanimelist",
-      "id": "2978"
-    },
-    {
-      "site": "myanimelist",
-      "id": "42153"
-    },
-    {
-      "site": "myanimelist",
-      "id": "4486"
-    },
-    {
-      "site": "myanimelist",
-      "id": "5292"
-    },
-    {
-      "site": "myanimelist",
-      "id": "978"
-    },
-    {
-      "site": "notify",
-      "id": "BS-UcKiig"
-    },
-    {
-      "site": "notify",
-      "id": "C_MmpFmiR"
-    },
-    {
-      "site": "notify",
-      "id": "MVKJ5Fimg"
-    },
-    {
-      "site": "notify",
-      "id": "Tg9XcFmmR"
-    },
-    {
-      "site": "notify",
-      "id": "caIC5Kmmg"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 1974,
-    "month": "04"
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/58851.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/58851t.jpg",
+    "synonyms": [
+      "Blinki: Der außerirdische Wunderzwerg",
+      "Chobin",
+      "Chobin the Star Child",
+      "Chobin, il principe stellare",
+      "Hoshi no ko Chobin",
+      "Starchild Chobin",
+      "ほしのこちょびん",
+      "星の子チョビン"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 51,
-  "picture": "https://cdn.myanimelist.net/images/anime/12/6039.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/12/6039t.jpg",
-  "synonyms": [
-    "Getta Robo",
-    "Getta Robot",
-    "Getta: Το Σούπερ Ρομπότ",
-    "Space Robot",
-    "ゲッターロボ"
-  ]
-}
+  {
+    "title": "ゲッターロボ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "盖塔机器人"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1974-04-03T16:00:00.000Z",
+    "end": "1975-05-07T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10405"
+      },
+      {
+        "site": "bilibili",
+        "id": "2352",
+        "begin": "2014-06-02T16:49:00.000Z",
+        "broadcast": "R/2014-06-02T16:49:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "10001"
+      },
+      {
+        "site": "anidb",
+        "id": "1271"
+      },
+      {
+        "site": "anidb",
+        "id": "15828"
+      },
+      {
+        "site": "anidb",
+        "id": "1838"
+      },
+      {
+        "site": "anidb",
+        "id": "2221"
+      },
+      {
+        "site": "anidb",
+        "id": "881"
+      },
+      {
+        "site": "anidb",
+        "id": "949"
+      },
+      {
+        "site": "anilist",
+        "id": "125640"
+      },
+      {
+        "site": "anilist",
+        "id": "2978"
+      },
+      {
+        "site": "anilist",
+        "id": "4385"
+      },
+      {
+        "site": "anilist",
+        "id": "4486"
+      },
+      {
+        "site": "anilist",
+        "id": "5292"
+      },
+      {
+        "site": "anilist",
+        "id": "8252"
+      },
+      {
+        "site": "anilist",
+        "id": "978"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cb-chara-go-nagai-world"
+      },
+      {
+        "site": "anime-planet",
+        "id": "getter-robo-armageddon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "getter-robo-g"
+      },
+      {
+        "site": "anime-planet",
+        "id": "getter-robo-go"
+      },
+      {
+        "site": "anime-planet",
+        "id": "great-mazinger-vs-getter-robo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "great-mazinger-vs-getter-robo-g-the-great-space-encounter"
+      },
+      {
+        "site": "anime-planet",
+        "id": "grendizer-getter-robo-g-great-mazinger-kessen-daikaijuu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "new-getter-robo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shin-getter-robo-vs-neo-getter-robo"
+      },
+      {
+        "site": "anisearch",
+        "id": "1014"
+      },
+      {
+        "site": "anisearch",
+        "id": "1203"
+      },
+      {
+        "site": "anisearch",
+        "id": "15714"
+      },
+      {
+        "site": "anisearch",
+        "id": "2298"
+      },
+      {
+        "site": "anisearch",
+        "id": "2401"
+      },
+      {
+        "site": "anisearch",
+        "id": "3236"
+      },
+      {
+        "site": "anisearch",
+        "id": "367"
+      },
+      {
+        "site": "kitsu",
+        "id": "2693"
+      },
+      {
+        "site": "kitsu",
+        "id": "3639"
+      },
+      {
+        "site": "kitsu",
+        "id": "4039"
+      },
+      {
+        "site": "kitsu",
+        "id": "5271"
+      },
+      {
+        "site": "kitsu",
+        "id": "868"
+      },
+      {
+        "site": "livechart",
+        "id": "10203"
+      },
+      {
+        "site": "livechart",
+        "id": "6214"
+      },
+      {
+        "site": "livechart",
+        "id": "6825"
+      },
+      {
+        "site": "livechart",
+        "id": "6914"
+      },
+      {
+        "site": "livechart",
+        "id": "7075"
+      },
+      {
+        "site": "livechart",
+        "id": "7429"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2978"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42153"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4486"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5292"
+      },
+      {
+        "site": "myanimelist",
+        "id": "978"
+      },
+      {
+        "site": "notify",
+        "id": "BS-UcKiig"
+      },
+      {
+        "site": "notify",
+        "id": "C_MmpFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "MVKJ5Fimg"
+      },
+      {
+        "site": "notify",
+        "id": "Tg9XcFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "caIC5Kmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1974,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 51,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/6039.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/6039t.jpg",
+    "synonyms": [
+      "Getta Robo",
+      "Getta Robot",
+      "Getta: Το Σούπερ Ρομπότ",
+      "Space Robot",
+      "ゲッターロボ"
+    ]
+  }
+]

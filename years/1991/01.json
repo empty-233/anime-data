@@ -1,40 +1,166 @@
-{
-  "title": "おれは直角",
-  "titleTranslate": {
-    "zh-Hans": [
-      "少年剑道王直角",
-      "剑道小子弊家伙"
+[
+  {
+    "title": "きんぎょ注意報！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "娱乐金鱼眼"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/lineup/tv/kingyo/",
+    "begin": "1991-01-12T16:00:00.000Z",
+    "end": "1992-02-29T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9269"
+      },
+      {
+        "site": "anidb",
+        "id": "2088"
+      },
+      {
+        "site": "anilist",
+        "id": "727"
+      },
+      {
+        "site": "anime-planet",
+        "id": "goldfish-warning"
+      },
+      {
+        "site": "anisearch",
+        "id": "1348"
+      },
+      {
+        "site": "kitsu",
+        "id": "655"
+      },
+      {
+        "site": "myanimelist",
+        "id": "727"
+      },
+      {
+        "site": "notify",
+        "id": "7OOA5KmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1992,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1920/104412.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1920/104412t.jpg",
+    "synonyms": [
+      "Goldfish Warning! Movie",
+      "Goldfish Warning! The Movie",
+      "Kingyo Chuiho! MOVIE",
+      "Kingyo Chuuihou! (1992)",
+      "Kingyo Chuuihou! Movie",
+      "Kingyo Chūihō! (1992)",
+      "きんぎょちゅういほう",
+      "きんぎょ注意報! (1992)",
+      "きんぎょ注意報! (Movie)",
+      "きんぎょ注意報!劇場版",
+      "きんぎょ注意報！",
+      "きんぎょ注意報！ （1992）",
+      "娱乐金鱼眼 剧场版"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1991-01-04T16:00:00.000Z",
-  "end": "1991-10-11T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "81580"
+  {
+    "title": "おちゃめなふたご ―クレア学院物語―",
+    "titleTranslate": {
+      "en": [
+        "The Twins at St. Clare's"
+      ],
+      "zh-Hans": [
+        "青葱岁月"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "5810",
-      "begin": "2016-12-22T02:44:00.000Z",
-      "broadcast": "R/2016-12-22T02:44:00.000Z/P7D"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 1991,
-    "month": "01"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tms-e.com/search/index.php?pdt_no=318",
+    "begin": "1991-01-05T16:00:00.000Z",
+    "end": "1991-11-02T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "78747"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1991,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/60951.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/60951t.jpg",
+    "synonyms": [
+      "As Gémeas de Santa Clara",
+      "Hanni & Nanni",
+      "Hanni und Nanni",
+      "LES BESSONES A ST. CLARE`S",
+      "Les Jumelles à St Clare",
+      "Les jumelles de St-Clare",
+      "Mischevious Twins: Story of Clare Academy",
+      "Mischievous Twins: The Tales of St. Clare's",
+      "Ochame na Futago: Clare Gakuin Monogatari",
+      "Ochame-na Futago",
+      "The Mischevious Twins",
+      "The Mischevious Twins: Story of Clare Academy",
+      "The Mischievous Twins",
+      "The Mischievous Twins: Story of Clare Academy",
+      "The Twins at St. Clare's",
+      "Una scuola per cambiare",
+      "التوأمان",
+      "おちゃめなふたご ―クレア学院物語―",
+      "おちゃめなふたご クレア学院物語",
+      "おちゃめな双子　－クレア学院物語－"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 36,
-  "picture": "https://cdn.myanimelist.net/images/anime/2/52911.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/2/52911t.jpg",
-  "synonyms": [
-    "I am Chokkaku",
-    "The Stubborn Samurai Boy",
-    "おれは直角"
-  ]
-}
+  {
+    "title": "おれは直角",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少年剑道王直角",
+        "剑道小子弊家伙"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-01-04T16:00:00.000Z",
+    "end": "1991-10-11T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "81580"
+      },
+      {
+        "site": "bilibili",
+        "id": "5810",
+        "begin": "2016-12-22T02:44:00.000Z",
+        "broadcast": "R/2016-12-22T02:44:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1991,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 36,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/52911.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/52911t.jpg",
+    "synonyms": [
+      "I am Chokkaku",
+      "The Stubborn Samurai Boy",
+      "おれは直角"
+    ]
+  }
+]

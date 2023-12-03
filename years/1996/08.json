@@ -1,122 +1,652 @@
-{
-  "title": "X -エックス-",
-  "titleTranslate": {
-    "zh-Hans": [
-      "X战记 剧场版"
+[
+  {
+    "title": "ルパン三世 トワイライト☆ジェミニの秘密",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世 暮色双子星座的秘密"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://lupin-3rd.net/sakuhin_tvsp.html",
+    "begin": "1996-08-02T16:00:00.000Z",
+    "end": "1996-08-02T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "84986"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lupin-3rd-SP",
+        "begin": ""
+      },
+      {
+        "site": "pptv",
+        "id": "ibZ32dNxCsvBT0Tk",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3941",
+        "begin": "1996-08-01T16:00:01.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "1485"
+      },
+      {
+        "site": "anilist",
+        "id": "1412"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-iii-special-19-the-elusiveness-of-the-fog"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-3dcg"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-dead-or-alive"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-dragon-of-doom"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-farewall-to-nostradamus"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-goemons-blood-spray"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-green-vs-red"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-jigens-gravestone"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-legend-of-the-gold-of-babylon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-lupin-family-all-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-4"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-5"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-iv-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-pilot-film"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-return-of-pycal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-secret-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-1-bye-bye-lady-liberty"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-11-the-columbus-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-12-missed-by-a-dollar"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-13-alcatraz-connection"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-14-episode-0-first-contact"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-15-operation-return-the-treasures"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-16-stolen-lupin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-17-angel-tactics"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-18-seven-days-rhapsody"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-2-the-hemingway-papers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-20-sweet-lost-night"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-21-lupin-the-third-vs-detective-conan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-22-the-last-job"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-23-blood-seal-of-the-eternal-mermaid"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-24-touhou-kenbunroku-another-page"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-25-princess-of-the-breeze-kakusareta-kuuchuu-toshi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-26-italian-game"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-27-goodbye-partner"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-3-napoleons-dictionary"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-4-from-siberia-with-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-5-voyage-to-danger"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-9-island-of-assassins"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-speical-10-crisis-in-tokyo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-castle-of-cagliostro"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-first"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-fuma-conspiracy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-mystery-of-mamo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-woman-called-fujiko-mine"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-pursuit-of-harimaos-treasure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-viii-arsene-and-cie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "monkey-majik-lupin-the-third"
+      },
+      {
+        "site": "anisearch",
+        "id": "1138"
+      },
+      {
+        "site": "kitsu",
+        "id": "1265"
+      },
+      {
+        "site": "livechart",
+        "id": "11512"
+      },
+      {
+        "site": "livechart",
+        "id": "12098"
+      },
+      {
+        "site": "livechart",
+        "id": "12099"
+      },
+      {
+        "site": "livechart",
+        "id": "4165"
+      },
+      {
+        "site": "livechart",
+        "id": "4320"
+      },
+      {
+        "site": "livechart",
+        "id": "5905"
+      },
+      {
+        "site": "livechart",
+        "id": "6281"
+      },
+      {
+        "site": "livechart",
+        "id": "6402"
+      },
+      {
+        "site": "livechart",
+        "id": "6731"
+      },
+      {
+        "site": "livechart",
+        "id": "7324"
+      },
+      {
+        "site": "livechart",
+        "id": "7545"
+      },
+      {
+        "site": "livechart",
+        "id": "7552"
+      },
+      {
+        "site": "livechart",
+        "id": "8223"
+      },
+      {
+        "site": "livechart",
+        "id": "9298"
+      },
+      {
+        "site": "livechart",
+        "id": "9350"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1412"
+      },
+      {
+        "site": "notify",
+        "id": "Dnk-5Fmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1996,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1190/97706.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1190/97706t.jpg",
+    "synonyms": [
+      "Edgar de la cambriole - Le secret du Twilight Gemini",
+      "Lupin III - Der Diamant der Dämmerung",
+      "Lupin III - Il segreto del Diamante Penombra",
+      "Lupin III - Le secret du Twilight Gemini",
+      "Lupin III - Una cascata di diamanti",
+      "Lupin III Special 8: The Secret Of The Twilight Gemini",
+      "Lupin III Special Part 8",
+      "Lupin III: \"Twilight☆Gemini no Himitsu\"",
+      "Lupin III: Das Geheimnis des „Twilight Gemini“ - Der Diamant der Dämmerung",
+      "Lupin III: Der Diamant der Dämmerung",
+      "Lupin III: Il diamante Penombra",
+      "Lupin III: Il segreto del Diamante Penombra",
+      "Lupin III: Le Secret du Twilight Gemini",
+      "Lupin III: The Legend of Twilight Gemini",
+      "Lupin III: The Secret of Twilight Gemini",
+      "Lupin Sansei Special 08",
+      "Lupin Sansei: Twilight Gemini no Himitsu",
+      "Lupin the 3rd: Secret of the Twilight Gemini",
+      "Lupin the 3rd: The Legend of Twilight Gemini",
+      "Lupin the 3rd: The Secret of Twilight Gemini",
+      "Lupin the Third: The Secret of Twilight Gemini",
+      "Rupan - Le secret du Twilight Gemini",
+      "Rupan Sansei: Twilight Gemini no Himitsu",
+      "Люпен Трети: Тайната на Близнаците на Здрача",
+      "ルパン三世 トワイライト☆ジェミニの秘密",
+      "ルパン三世『トワイライト☆ジェミニの秘密』"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1996-08-02T16:00:00.000Z",
-  "end": "1996-08-02T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "36262"
+  {
+    "title": "新世紀GPXサイバーフォーミュラSAGA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "高智能方程式：SAGA"
+      ],
+      "zh-Hant": [
+        "高智能方程式SAGA"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "2099",
-      "begin": "2019-03-05T06:27:00.000Z",
-      "broadcast": "R/2019-03-05T06:27:00.000Z/P7D"
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-08-01T16:00:00.000Z",
+    "end": "1997-07-01T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "NnlDwSmPicz2gHoY",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1957"
+      },
+      {
+        "site": "bilibili",
+        "id": "3810",
+        "begin": "1996-07-31T16:00:01.000Z",
+        "broadcast": "R/2016-04-20T04:13:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgQvieGk4fBN7k5kOkV39n7",
+        "begin": "2021-10-21T16:00:00.000Z",
+        "broadcast": "R/2021-10-21T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "2438"
+      },
+      {
+        "site": "anidb",
+        "id": "2462"
+      },
+      {
+        "site": "anilist",
+        "id": "1393"
+      },
+      {
+        "site": "anilist",
+        "id": "1395"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cyber-formula-double-one"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cyber-formula-early-days-renewal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cyber-formula-graffiti"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cyber-formula-sin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cyber-formula-zero"
+      },
+      {
+        "site": "anime-planet",
+        "id": "future-gpx-cyber-formula"
+      },
+      {
+        "site": "anisearch",
+        "id": "1728"
+      },
+      {
+        "site": "anisearch",
+        "id": "2484"
+      },
+      {
+        "site": "kitsu",
+        "id": "1246"
+      },
+      {
+        "site": "kitsu",
+        "id": "1248"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1393"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1395"
+      },
+      {
+        "site": "notify",
+        "id": "ELexcFmig"
+      },
+      {
+        "site": "notify",
+        "id": "x36xcFimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1996,
+      "month": "08"
     },
-    {
-      "site": "anidb",
-      "id": "2733"
-    },
-    {
-      "site": "anidb",
-      "id": "2894"
-    },
-    {
-      "site": "anidb",
-      "id": "30"
-    },
-    {
-      "site": "anidb",
-      "id": "4046"
-    },
-    {
-      "site": "anilist",
-      "id": "156"
-    },
-    {
-      "site": "anilist",
-      "id": "2274"
-    },
-    {
-      "site": "anilist",
-      "id": "2729"
-    },
-    {
-      "site": "anime-planet",
-      "id": "x-an-omen"
-    },
-    {
-      "site": "anime-planet",
-      "id": "x-double-x"
-    },
-    {
-      "site": "anime-planet",
-      "id": "x-tv"
-    },
-    {
-      "site": "anisearch",
-      "id": "1655"
-    },
-    {
-      "site": "anisearch",
-      "id": "491"
-    },
-    {
-      "site": "kitsu",
-      "id": "134"
-    },
-    {
-      "site": "kitsu",
-      "id": "2489"
-    },
-    {
-      "site": "myanimelist",
-      "id": "156"
-    },
-    {
-      "site": "myanimelist",
-      "id": "2729"
-    },
-    {
-      "site": "notify",
-      "id": "Oj8t5Kmmg"
-    },
-    {
-      "site": "notify",
-      "id": "j2uycFmmg"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 1996,
-    "month": "08"
+    "status": "FINISHED",
+    "episodes": 8,
+    "picture": "https://cdn.myanimelist.net/images/anime/1344/93011.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1344/93011t.jpg",
+    "synonyms": [
+      "Cyber Formula SAGA",
+      "Future GPX Cyber Formula SAGA",
+      "New Century GPX Cyber Formula SAGA",
+      "New Century GPX Cyber Formula Saga",
+      "Shin Seiki GPX Cyber Formula SAGA",
+      "Shin Seiki GPX Cyber Formula Saga",
+      "Shinseki-GPX Cyber Formula Saga",
+      "新世紀GPXサイバーフォーミュラSAGA",
+      "新世紀ＧＰＸサイバーフォーミュラSAGA",
+      "新世紀ＧＰＸサイバーフォーミュラＳＡＧＡ"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/7/23579.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/7/23579t.jpg",
-  "synonyms": [
-    "X",
-    "X (1996)",
-    "X - The Movie",
-    "X - the Movie",
-    "X -エックス-",
-    "X 1999",
-    "X 1999 (Le Film)",
-    "X La Película",
-    "X: Der Film",
-    "X: La película",
-    "X: The Movie",
-    "エックス",
-    "エックス, X/1999",
-    "엑스 (극장판)"
-  ]
-}
+  {
+    "title": "地獄堂霊界通信",
+    "titleTranslate": {
+      "zh-Hans": [
+        "地狱堂灵界通信"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-08-08T16:00:00.000Z",
+    "end": "1996-08-08T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9980"
+      },
+      {
+        "site": "bilibili",
+        "id": "5573",
+        "begin": "2016-09-28T08:13:00.000Z",
+        "broadcast": "R/2016-09-28T08:13:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1996,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1217/112682.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1217/112682t.jpg",
+    "synonyms": [
+      "Hell Hall-Spirit World Communication",
+      "Jigokudō Reikai Tsūshin",
+      "غابة الأشباح",
+      "地獄堂霊界通信"
+    ]
+  },
+  {
+    "title": "X -エックス-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "X战记 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-08-02T16:00:00.000Z",
+    "end": "1996-08-02T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "36262"
+      },
+      {
+        "site": "bilibili",
+        "id": "2099",
+        "begin": "2019-03-05T06:27:00.000Z",
+        "broadcast": "R/2019-03-05T06:27:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "2733"
+      },
+      {
+        "site": "anidb",
+        "id": "2894"
+      },
+      {
+        "site": "anidb",
+        "id": "30"
+      },
+      {
+        "site": "anidb",
+        "id": "4046"
+      },
+      {
+        "site": "anilist",
+        "id": "156"
+      },
+      {
+        "site": "anilist",
+        "id": "2274"
+      },
+      {
+        "site": "anilist",
+        "id": "2729"
+      },
+      {
+        "site": "anime-planet",
+        "id": "x-an-omen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "x-double-x"
+      },
+      {
+        "site": "anime-planet",
+        "id": "x-tv"
+      },
+      {
+        "site": "anisearch",
+        "id": "1655"
+      },
+      {
+        "site": "anisearch",
+        "id": "491"
+      },
+      {
+        "site": "kitsu",
+        "id": "134"
+      },
+      {
+        "site": "kitsu",
+        "id": "2489"
+      },
+      {
+        "site": "myanimelist",
+        "id": "156"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2729"
+      },
+      {
+        "site": "notify",
+        "id": "Oj8t5Kmmg"
+      },
+      {
+        "site": "notify",
+        "id": "j2uycFmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1996,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/23579.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/23579t.jpg",
+    "synonyms": [
+      "X",
+      "X (1996)",
+      "X - The Movie",
+      "X - the Movie",
+      "X -エックス-",
+      "X 1999",
+      "X 1999 (Le Film)",
+      "X La Película",
+      "X: Der Film",
+      "X: La película",
+      "X: The Movie",
+      "エックス",
+      "エックス, X/1999",
+      "엑스 (극장판)"
+    ]
+  }
+]

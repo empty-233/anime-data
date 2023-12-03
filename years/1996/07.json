@@ -1,57 +1,616 @@
-{
-  "title": "ガンバリスト! 駿",
-  "titleTranslate": {
-    "zh-Hans": [
-      "奥运高手"
+[
+  {
+    "title": "赤ちゃんと僕",
+    "titleTranslate": {
+      "zh-Hans": [
+        "BB有心事",
+        "天才宝贝",
+        "反斗小宝贝",
+        "BB与我",
+        "智慧反斗星"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://pierrot.jp/archives/tv_list_1995/tv_033.html",
+    "begin": "1996-07-11T16:00:00.000Z",
+    "end": "1997-03-26T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "61649"
+      },
+      {
+        "site": "bilibili",
+        "id": "3130",
+        "begin": "2015-12-03T06:10:00.000Z",
+        "broadcast": "R/2015-12-03T06:10:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1996,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 35,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/49693.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/49693t.jpg",
+    "synonyms": [
+      "A Baby and I",
+      "Aka-chan to Boku",
+      "BB有心事",
+      "Baby & I",
+      "Baby & Me",
+      "Baby and Me",
+      "Аз и брат ми",
+      "أنا و أخي",
+      "أنا وأخي",
+      "あかちゃんとぼく",
+      "赤ちゃんと僕",
+      "아기와 나"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1996-06-30T16:00:00.000Z",
-  "end": "1997-03-09T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "23181"
+  {
+    "title": "YAWARA! Special ずっと君のことが…。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "以柔克刚！特别篇 一直对你……。"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "2294",
-      "begin": "2012-08-21T11:11:00.000Z",
-      "broadcast": "R/2012-08-21T11:11:00.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-07-19T16:00:00.000Z",
+    "end": "1996-07-19T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "121819"
+      },
+      {
+        "site": "anidb",
+        "id": "806"
+      },
+      {
+        "site": "anilist",
+        "id": "2008"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yawara-a-fashionable-judo-girl"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yawara-sore-yuke-koshinuke-kids"
+      },
+      {
+        "site": "anisearch",
+        "id": "803"
+      },
+      {
+        "site": "kitsu",
+        "id": "632"
+      },
+      {
+        "site": "livechart",
+        "id": "11131"
+      },
+      {
+        "site": "livechart",
+        "id": "7376"
+      },
+      {
+        "site": "myanimelist",
+        "id": "691"
+      },
+      {
+        "site": "notify",
+        "id": "e5IA5Kmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1996,
+      "month": "07"
     },
-    {
-      "site": "anime-planet",
-      "id": "shounen-sunday-cm-ganba-fly-high"
-    },
-    {
-      "site": "kitsu",
-      "id": "46356"
-    },
-    {
-      "site": "myanimelist",
-      "id": "40350"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 1996,
-    "month": "07"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1/2125.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1/2125t.jpg",
+    "synonyms": [
+      "YAWARA! Special ずっと君のことが... .",
+      "YAWARA! Special ずっと君のことが…。",
+      "YAWARA! Special: Zutto Kimi no Koto ga... .",
+      "YAWARA! ずっと君のことが…。",
+      "Yawara! Atlanta Special",
+      "Yawara! Special - Zutto Kimi no Koto ga",
+      "Yawara! Special: It's You I've Always...",
+      "Yawara! Special: Zutto Kimi no Koto ga",
+      "Yawara! Special: Zutto Kimi no Koto ga...",
+      "Yawara! Special: Zutto Kimi no Koto ga... .",
+      "Yawara! スペシャル ずっと君のことが...。",
+      "やわらすぺしゃるずっときみのことが"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 30,
-  "picture": "https://cdn.myanimelist.net/images/anime/1867/132229.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1867/132229t.jpg",
-  "synonyms": [
-    "Fly High",
-    "Fly High Ganbarist!",
-    "Gambalist! Shun",
-    "Ganba Fly High",
-    "Persistor! Shun",
-    "Shun the Gymnast",
-    "ガンバリスト! 駿",
-    "ガンバリスト！ 駿"
-  ]
-}
+  {
+    "title": "ゲゲゲの鬼太郎 大海獣",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼太郎 大海兽"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-07-06T16:00:00.000Z",
+    "end": "1996-07-06T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "207961"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4kld",
+        "begin": "2015-08-11T08:03:32.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "1455"
+      },
+      {
+        "site": "anilist",
+        "id": "7619"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-1968"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-1971"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-1985"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-1996"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-2007"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-2018"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-chisougan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-gekitotsu-ijigen-youkai-no-daihanran"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-jigoku-hen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-kitarou-no-yuurei-densha"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-kitarou-tanjou-hen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-movie-1985"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-nippon-bakuretsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-obake-nighter"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-saikyou-youkai-gundan-nihon-jouriku"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-youkai-daisensou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-youkai-japan-rally-3d"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-youkai-tokkyuu-maboroshi-no-kisha"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hakaba-kitarou"
+      },
+      {
+        "site": "anisearch",
+        "id": "1673"
+      },
+      {
+        "site": "kitsu",
+        "id": "7746"
+      },
+      {
+        "site": "livechart",
+        "id": "10454"
+      },
+      {
+        "site": "livechart",
+        "id": "10813"
+      },
+      {
+        "site": "livechart",
+        "id": "3050"
+      },
+      {
+        "site": "livechart",
+        "id": "6548"
+      },
+      {
+        "site": "livechart",
+        "id": "7176"
+      },
+      {
+        "site": "livechart",
+        "id": "7326"
+      },
+      {
+        "site": "livechart",
+        "id": "7365"
+      },
+      {
+        "site": "livechart",
+        "id": "7979"
+      },
+      {
+        "site": "livechart",
+        "id": "8059"
+      },
+      {
+        "site": "livechart",
+        "id": "8082"
+      },
+      {
+        "site": "livechart",
+        "id": "8093"
+      },
+      {
+        "site": "livechart",
+        "id": "8817"
+      },
+      {
+        "site": "livechart",
+        "id": "9113"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7619"
+      },
+      {
+        "site": "notify",
+        "id": "4xStpKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1996,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/20380.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/20380t.jpg",
+    "synonyms": [
+      "GeGeGe no Kitaro movie #7: The Giant Sea Monster",
+      "GeGeGe no Kitarou: Daikaijuu",
+      "Gegege no Kitaro: Daikaiju",
+      "Gegege no Kitaro: Great Sea Beast",
+      "Gegege no Kitaro: The Giant Sea Monster",
+      "Gegege no Kitarou Dai Kaijuu",
+      "Gegege no Kitarou: The Great Sea Beast",
+      "Gegege no Kitarō: Daikaijū",
+      "Giant Sea Monster",
+      "Spooky Kitaro: Giant Sea Monster",
+      "ゲゲゲの鬼太郎 大海獣",
+      "劇場版 ゲゲゲの鬼太郎　大海獣"
+    ]
+  },
+  {
+    "title": "スレイヤーズすぺしゃる",
+    "titleTranslate": {
+      "zh-Hans": [
+        "秀逗魔导士SPECIAL",
+        "秀逗魔导士 SPECIAL"
+      ],
+      "zh-Hant": [
+        "秀逗魔導士 SPECIAL"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-07-25T16:00:00.000Z",
+    "end": "1997-05-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "11646"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhwb77x",
+        "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "31128",
+        "begin": "2019-01-30T04:00:00.000Z",
+        "broadcast": "R/2019-01-30T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "3904",
+        "begin": "2016-05-03T03:32:00.000Z",
+        "broadcast": "R/2016-05-03T03:32:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "349"
+      },
+      {
+        "site": "anidb",
+        "id": "363"
+      },
+      {
+        "site": "anidb",
+        "id": "39"
+      },
+      {
+        "site": "anilist",
+        "id": "1171"
+      },
+      {
+        "site": "anilist",
+        "id": "534"
+      },
+      {
+        "site": "anilist",
+        "id": "536"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slayers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slayers-evolution-r"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slayers-excellent"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slayers-gorgeous"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slayers-great"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slayers-next"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slayers-premium"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slayers-return"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slayers-revolution"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slayers-the-motion-picture"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slayers-try"
+      },
+      {
+        "site": "anisearch",
+        "id": "447"
+      },
+      {
+        "site": "anisearch",
+        "id": "678"
+      },
+      {
+        "site": "kitsu",
+        "id": "1052"
+      },
+      {
+        "site": "kitsu",
+        "id": "493"
+      },
+      {
+        "site": "kitsu",
+        "id": "495"
+      },
+      {
+        "site": "livechart",
+        "id": "4050"
+      },
+      {
+        "site": "livechart",
+        "id": "4461"
+      },
+      {
+        "site": "livechart",
+        "id": "4578"
+      },
+      {
+        "site": "livechart",
+        "id": "5007"
+      },
+      {
+        "site": "livechart",
+        "id": "5109"
+      },
+      {
+        "site": "livechart",
+        "id": "5275"
+      },
+      {
+        "site": "livechart",
+        "id": "5569"
+      },
+      {
+        "site": "livechart",
+        "id": "5582"
+      },
+      {
+        "site": "livechart",
+        "id": "5717"
+      },
+      {
+        "site": "livechart",
+        "id": "5860"
+      },
+      {
+        "site": "livechart",
+        "id": "5991"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1171"
+      },
+      {
+        "site": "myanimelist",
+        "id": "534"
+      },
+      {
+        "site": "myanimelist",
+        "id": "536"
+      },
+      {
+        "site": "notify",
+        "id": "blnx5Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "mz-T5KmmR"
+      },
+      {
+        "site": "notify",
+        "id": "pPbo5Fmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1996,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/1372/92532.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1372/92532t.jpg",
+    "synonyms": [
+      "Slayers OAV",
+      "Slayers Special",
+      "Slayers Special - The Book of Spells",
+      "Slayers Special OVA",
+      "Slayers Special: Book of Spells",
+      "Slayers Special: The Book of Spells",
+      "Slayers: Księga zaklęć",
+      "Slayers: Storie di specchi, chimere e mammoni",
+      "Slayers: The Book of Spells",
+      "すれいやーずすぺしゃる",
+      "スレイヤーズすぺしゃる",
+      "秀逗魔导士OVA(1996)"
+    ]
+  },
+  {
+    "title": "ガンバリスト! 駿",
+    "titleTranslate": {
+      "zh-Hans": [
+        "奥运高手"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-06-30T16:00:00.000Z",
+    "end": "1997-03-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "23181"
+      },
+      {
+        "site": "bilibili",
+        "id": "2294",
+        "begin": "2012-08-21T11:11:00.000Z",
+        "broadcast": "R/2012-08-21T11:11:00.000Z/P7D"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shounen-sunday-cm-ganba-fly-high"
+      },
+      {
+        "site": "kitsu",
+        "id": "46356"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40350"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1996,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 30,
+    "picture": "https://cdn.myanimelist.net/images/anime/1867/132229.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1867/132229t.jpg",
+    "synonyms": [
+      "Fly High",
+      "Fly High Ganbarist!",
+      "Gambalist! Shun",
+      "Ganba Fly High",
+      "Persistor! Shun",
+      "Shun the Gymnast",
+      "ガンバリスト! 駿",
+      "ガンバリスト！ 駿"
+    ]
+  }
+]

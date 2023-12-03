@@ -1,89 +1,513 @@
-{
-  "title": "ちっちゃな雪使いシュガー 特別編",
-  "titleTranslate": {
-    "zh-Hans": [
-      "小小雪精灵 夏季特别篇"
+[
+  {
+    "title": "まっすぐにいこう。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "狗狗向前冲",
+        "大城小狗"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.ytv.co.jp/massugu03/",
+    "begin": "2003-08-18T00:55:00.000Z",
+    "end": "2003-08-21T01:20:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "96047"
+      },
+      {
+        "site": "bilibili",
+        "id": "131032",
+        "begin": "2018-09-06T10:28:00.000Z",
+        "broadcast": "R/2018-09-06T10:28:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "2327"
+      },
+      {
+        "site": "anilist",
+        "id": "3182"
+      },
+      {
+        "site": "anime-planet",
+        "id": "massugu-ni-ikou-2004"
+      },
+      {
+        "site": "anisearch",
+        "id": "1975"
+      },
+      {
+        "site": "kitsu",
+        "id": "2843"
+      },
+      {
+        "site": "livechart",
+        "id": "11284"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3182"
+      },
+      {
+        "site": "notify",
+        "id": "JlWQcFimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2003,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/76159.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/76159t.jpg",
+    "synonyms": [
+      "Go Forward",
+      "Go forward",
+      "Let's Go Straight Ahead!",
+      "Let's Walk Straight",
+      "Let`s Go Straight Ahead!",
+      "Massugu ni Ikou",
+      "Massugu ni Ikō",
+      "MnI",
+      "まっすぐにいこう",
+      "まっすぐにいこう.",
+      "まっすぐにいこう。"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "2003-08-22T16:00:00.000Z",
-  "end": "2003-08-29T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "2415"
+  {
+    "title": "ルパン三世 お宝返却大作戦!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世 夺宝大作战"
+      ]
     },
-    {
-      "site": "pptv",
-      "id": "CjsGhOxSwgBj4Uk",
-      "begin": ""
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://lupin-3rd.net/sakuhin_tvsp.html",
+    "begin": "2003-08-01T16:00:00.000Z",
+    "end": "2003-08-01T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "84993"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lupin-3rd-SP",
+        "begin": ""
+      },
+      {
+        "site": "pptv",
+        "id": "ibZ32dNxCsvBT0Tk",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3952",
+        "begin": "2003-07-31T16:00:01.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "1485"
+      },
+      {
+        "site": "anilist",
+        "id": "1412"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-iii-special-19-the-elusiveness-of-the-fog"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-dead-or-alive"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-dragon-of-doom"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-farewall-to-nostradamus"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-goemons-blood-spray"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-green-vs-red"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-jigens-gravestone"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-legend-of-the-gold-of-babylon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-lupin-family-all-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-4"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-pilot-film"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-return-of-pycal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-secret-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-1-bye-bye-lady-liberty"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-11-the-columbus-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-12-missed-by-a-dollar"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-13-alcatraz-connection"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-14-episode-0-first-contact"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-16-stolen-lupin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-17-angel-tactics"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-18-seven-days-rhapsody"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-2-the-hemingway-papers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-20-sweet-lost-night"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-21-lupin-the-third-vs-detective-conan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-22-the-last-job"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-23-blood-seal-of-the-eternal-mermaid"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-24-touhou-kenbunroku-another-page"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-25-princess-of-the-breeze-kakusareta-kuuchuu-toshi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-26-italian-game"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-27-goodbye-partner"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-3-napoleons-dictionary"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-4-from-siberia-with-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-5-voyage-to-danger"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-8-secret-of-the-twilight-gemini"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-9-island-of-assassins"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-speical-10-crisis-in-tokyo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-castle-of-cagliostro"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-first"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-fuma-conspiracy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-mystery-of-mamo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-woman-called-fujiko-mine"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-pursuit-of-harimaos-treasure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-viii-arsene-and-cie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "monkey-majik-lupin-the-third"
+      },
+      {
+        "site": "anisearch",
+        "id": "1138"
+      },
+      {
+        "site": "kitsu",
+        "id": "1265"
+      },
+      {
+        "site": "livechart",
+        "id": "11512"
+      },
+      {
+        "site": "livechart",
+        "id": "12098"
+      },
+      {
+        "site": "livechart",
+        "id": "12099"
+      },
+      {
+        "site": "livechart",
+        "id": "4165"
+      },
+      {
+        "site": "livechart",
+        "id": "4320"
+      },
+      {
+        "site": "livechart",
+        "id": "5905"
+      },
+      {
+        "site": "livechart",
+        "id": "6281"
+      },
+      {
+        "site": "livechart",
+        "id": "6402"
+      },
+      {
+        "site": "livechart",
+        "id": "6731"
+      },
+      {
+        "site": "livechart",
+        "id": "7324"
+      },
+      {
+        "site": "livechart",
+        "id": "7545"
+      },
+      {
+        "site": "livechart",
+        "id": "7552"
+      },
+      {
+        "site": "livechart",
+        "id": "8223"
+      },
+      {
+        "site": "livechart",
+        "id": "9298"
+      },
+      {
+        "site": "livechart",
+        "id": "9350"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1412"
+      },
+      {
+        "site": "notify",
+        "id": "Dnk-5Fmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2003,
+      "month": "08"
     },
-    {
-      "site": "bilibili",
-      "id": "3969",
-      "begin": "2003-08-21T16:00:01.000Z",
-      "broadcast": "R/2016-05-06T07:24:00.000Z/P7D"
-    },
-    {
-      "site": "anidb",
-      "id": "9"
-    },
-    {
-      "site": "anilist",
-      "id": "831"
-    },
-    {
-      "site": "anime-planet",
-      "id": "a-little-snow-fairy-sugar"
-    },
-    {
-      "site": "anisearch",
-      "id": "2422"
-    },
-    {
-      "site": "kitsu",
-      "id": "736"
-    },
-    {
-      "site": "livechart",
-      "id": "6721"
-    },
-    {
-      "site": "myanimelist",
-      "id": "831"
-    },
-    {
-      "site": "notify",
-      "id": "3yYA5FmiR"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 2003,
-    "month": "08"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1547/100586.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1547/100586t.jpg",
+    "synonyms": [
+      "Edgar de la Cambriole : Opération Diamant",
+      "Edgar de la Cambriole: Opération Diamant",
+      "Edgar de la cambriole - Opération diamant",
+      "Lupin III - Opération diamant",
+      "Lupin III - Un diamante per sempre",
+      "Lupin III Special 15: Operation Return the Treasure",
+      "Lupin III: Operation Return the Treasure",
+      "Lupin III: The Big Operation to Return The Treasures",
+      "Lupin III: Un Diamante è per sempre",
+      "Lupin III: Un diamante per sempre",
+      "Lupin III: Un diamante è per sempre",
+      "Lupin Sansei Special 15",
+      "Lupin Sansei: Otakara Henkyaku Dai-sakusen!!",
+      "Lupin Sansei: Otakara Henkyaku Daisakusen!!",
+      "Lupin the 3rd - Operation: Return the Treasure",
+      "Lupin the 3rd: Never Wants a Diamond",
+      "Lupin the 3rd: Operation Return the Treasure",
+      "Lupin the Third: Operation Return the Treasure",
+      "Rupan Sansei",
+      "Rupan Sansei: Otakara Henkyaku Dai-sakusen!!",
+      "Люпен Трети: Операция - върни съкровището!",
+      "ルパン三世 お宝返却大作戦!!",
+      "ルパン三世: お宝返却大作戦！！",
+      "鲁邦三世 宝物返还大作战"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 2,
-  "picture": "https://cdn.myanimelist.net/images/anime/12/23190.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/12/23190t.jpg",
-  "synonyms": [
-    "A Little Snow Fairy Sugar OVA",
-    "A Little Snow Fairy Sugar Special",
-    "A Little Snow Fairy Sugar Summer 2003 Special",
-    "A Little Snow Fairy Sugar Summer Specials",
-    "Chiccha na Yuki Tsukai Sugar Special",
-    "Chiccha na Yuki Tsukai Sugar Tokubetsu Hen",
-    "Chiccha na Yuki Tsukai Sugar Tokubetsuhen",
-    "Chiccha na Yukitsukai Sugar Special",
-    "Chiccha na Yukitsukai Sugar Tokubetsu Hen",
-    "Chicchana Yuki Tsukai Sugar Tokubetsu Hen",
-    "Chicchana Yuki Tsukai Sugar Tokubetsu-hen",
-    "Sugar: A Little Snow Fairy Special",
-    "Sugar: A Little Snow Fairy Summer Special",
-    "Tiny Snow Fairy Sugar - Summer Special",
-    "ちっちゃな雪使いシュガー 特別編",
-    "ちっちゃな雪使いシュガー特別編"
-  ]
-}
+  {
+    "title": "ちっちゃな雪使いシュガー 特別編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小小雪精灵 夏季特别篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-08-22T16:00:00.000Z",
+    "end": "2003-08-29T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2415"
+      },
+      {
+        "site": "pptv",
+        "id": "CjsGhOxSwgBj4Uk",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3969",
+        "begin": "2003-08-21T16:00:01.000Z",
+        "broadcast": "R/2016-05-06T07:24:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "9"
+      },
+      {
+        "site": "anilist",
+        "id": "831"
+      },
+      {
+        "site": "anime-planet",
+        "id": "a-little-snow-fairy-sugar"
+      },
+      {
+        "site": "anisearch",
+        "id": "2422"
+      },
+      {
+        "site": "kitsu",
+        "id": "736"
+      },
+      {
+        "site": "livechart",
+        "id": "6721"
+      },
+      {
+        "site": "myanimelist",
+        "id": "831"
+      },
+      {
+        "site": "notify",
+        "id": "3yYA5FmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2003,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/23190.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/23190t.jpg",
+    "synonyms": [
+      "A Little Snow Fairy Sugar OVA",
+      "A Little Snow Fairy Sugar Special",
+      "A Little Snow Fairy Sugar Summer 2003 Special",
+      "A Little Snow Fairy Sugar Summer Specials",
+      "Chiccha na Yuki Tsukai Sugar Special",
+      "Chiccha na Yuki Tsukai Sugar Tokubetsu Hen",
+      "Chiccha na Yuki Tsukai Sugar Tokubetsuhen",
+      "Chiccha na Yukitsukai Sugar Special",
+      "Chiccha na Yukitsukai Sugar Tokubetsu Hen",
+      "Chicchana Yuki Tsukai Sugar Tokubetsu Hen",
+      "Chicchana Yuki Tsukai Sugar Tokubetsu-hen",
+      "Sugar: A Little Snow Fairy Special",
+      "Sugar: A Little Snow Fairy Summer Special",
+      "Tiny Snow Fairy Sugar - Summer Special",
+      "ちっちゃな雪使いシュガー 特別編",
+      "ちっちゃな雪使いシュガー特別編"
+    ]
+  }
+]

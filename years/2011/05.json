@@ -1,67 +1,480 @@
-{
-  "title": "かってに改蔵",
-  "titleTranslate": {
-    "zh-Hans": [
-      "妄想改造人改藏"
+[
+  {
+    "title": "イナズマイレブンGO",
+    "titleTranslate": {
+      "zh-Hans": [
+        "闪电十一人GO"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/inazumago/",
+    "begin": "2011-05-04T10:00:00.000Z",
+    "end": "2012-04-11T10:27:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "42560",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "16594"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgjddhh",
+        "begin": "2013-12-31T07:10:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "134852",
+        "begin": "2011-05-04T16:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "11027"
+      },
+      {
+        "site": "anidb",
+        "id": "6143"
+      },
+      {
+        "site": "anidb",
+        "id": "8512"
+      },
+      {
+        "site": "anidb",
+        "id": "9045"
+      },
+      {
+        "site": "anidb",
+        "id": "9265"
+      },
+      {
+        "site": "anilist",
+        "id": "10999"
+      },
+      {
+        "site": "anilist",
+        "id": "13261"
+      },
+      {
+        "site": "anilist",
+        "id": "16964"
+      },
+      {
+        "site": "anilist",
+        "id": "5231"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven-ares-no-tenbin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven-chou-jigen-dream-match"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven-go-chrono-stone"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven-go-galaxy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven-go-kyuukyoku-no-kizuna-gryphon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven-go-tokubetsu-hen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven-go-vs-danball-senki-w-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven-outer-code"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven-saikyou-gundan-ogre-shuurai"
+      },
+      {
+        "site": "anisearch",
+        "id": "10121"
+      },
+      {
+        "site": "anisearch",
+        "id": "5069"
+      },
+      {
+        "site": "anisearch",
+        "id": "7194"
+      },
+      {
+        "site": "anisearch",
+        "id": "7679"
+      },
+      {
+        "site": "anisearch",
+        "id": "7912"
+      },
+      {
+        "site": "kitsu",
+        "id": "4000"
+      },
+      {
+        "site": "kitsu",
+        "id": "6435"
+      },
+      {
+        "site": "kitsu",
+        "id": "6769"
+      },
+      {
+        "site": "kitsu",
+        "id": "6927"
+      },
+      {
+        "site": "kitsu",
+        "id": "7309"
+      },
+      {
+        "site": "livechart",
+        "id": "1112"
+      },
+      {
+        "site": "livechart",
+        "id": "2264"
+      },
+      {
+        "site": "livechart",
+        "id": "2392"
+      },
+      {
+        "site": "livechart",
+        "id": "3483"
+      },
+      {
+        "site": "livechart",
+        "id": "4070"
+      },
+      {
+        "site": "livechart",
+        "id": "5271"
+      },
+      {
+        "site": "livechart",
+        "id": "5663"
+      },
+      {
+        "site": "livechart",
+        "id": "5852"
+      },
+      {
+        "site": "livechart",
+        "id": "5897"
+      },
+      {
+        "site": "livechart",
+        "id": "5908"
+      },
+      {
+        "site": "livechart",
+        "id": "593"
+      },
+      {
+        "site": "livechart",
+        "id": "820"
+      },
+      {
+        "site": "livechart",
+        "id": "8715"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10999"
+      },
+      {
+        "site": "myanimelist",
+        "id": "12585"
+      },
+      {
+        "site": "myanimelist",
+        "id": "13261"
+      },
+      {
+        "site": "myanimelist",
+        "id": "15785"
+      },
+      {
+        "site": "myanimelist",
+        "id": "16964"
+      },
+      {
+        "site": "myanimelist",
+        "id": "51123"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5231"
+      },
+      {
+        "site": "notify",
+        "id": "4DMItKmig"
+      },
+      {
+        "site": "notify",
+        "id": "MTGFpKiig"
+      },
+      {
+        "site": "notify",
+        "id": "UBYNtKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "d-mj5FmmR"
+      },
+      {
+        "site": "notify",
+        "id": "qIODpKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2011,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 47,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/48959.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/48959t.jpg",
+    "synonyms": [
+      "Inazuma Eleven GO",
+      "Inazuma Eleven GO!",
+      "iego",
+      "イナズマイレブン GO",
+      "イナズマイレブン GO!",
+      "イナズマイレブン Go",
+      "イナズマイレブンGO",
+      "闪电十一人GO"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "http://www.starchild.co.jp/special/kaizo/",
-  "begin": "2011-05-25T16:00:00.000Z",
-  "end": "2011-05-25T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "pptv",
-      "id": "pOjUUrogkM4xrxc",
-      "begin": ""
+  {
+    "title": "星を追う子ども",
+    "titleTranslate": {
+      "zh-Hans": [
+        "追逐繁星的孩子"
+      ]
     },
-    {
-      "site": "bangumi",
-      "id": "10940"
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.hoshi-o-kodomo.jp/",
+    "begin": "2011-05-07T16:00:00.000Z",
+    "end": "2011-05-07T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "begin": "",
+        "url": "http://www.iqiyi.com/v_19rrk78dhk.html"
+      },
+      {
+        "site": "letv",
+        "id": "87681",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "9911"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hoshi-o-kodomo",
+        "begin": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2011,
+      "month": "05"
     },
-    {
-      "site": "anilist",
-      "id": "10191"
-    },
-    {
-      "site": "anime-planet",
-      "id": "katte-ni-kaizou"
-    },
-    {
-      "site": "anisearch",
-      "id": "6851"
-    },
-    {
-      "site": "kitsu",
-      "id": "6069"
-    },
-    {
-      "site": "livechart",
-      "id": "4945"
-    },
-    {
-      "site": "myanimelist",
-      "id": "10191"
-    },
-    {
-      "site": "notify",
-      "id": "0ix7tFmmR"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 2011,
-    "month": "05"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1000/133740.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1000/133740t.jpg",
+    "synonyms": [
+      "Children Who Chase Lost Voices",
+      "Children Who Chase Lost Voices from Deep Below",
+      "Children Who Chase Stars",
+      "Children who Chase Lost Voices",
+      "Children who Chase Lost Voices from Deep Below",
+      "Crianças que Perseguem as Vozes Perdidas",
+      "Csillaghajsza",
+      "Die Reise nach Agartha",
+      "Dzieci, które ścigają zagubione głosy",
+      "Děti, které následují hvězdy",
+      "Hoshi o Ou Kodomo",
+      "Hoshi o Ō Kodomo",
+      "I Bambini Che Inseguono Le Stelle",
+      "I bambini che inseguono le stelle",
+      "Journey to Agartha",
+      "Podróż do Agarthy",
+      "Vaikai, kurie vijosi žvaigždes",
+      "Viagem a Agartha",
+      "Viagem para Agartha",
+      "Viaggio verso Agartha",
+      "Viaje A Agartha",
+      "Viaje a Agartha",
+      "Voyage vers Agartha",
+      "hoshiko",
+      "Децата",
+      "Діти",
+      "Ловцы забытых голосов",
+      "които преследваха загубените гласове",
+      "що женуться за зорями",
+      "เด็กสาวกับเสียงเพรียกแห่งพิภพเทวา",
+      "ほしをおうこども",
+      "星を追う子ども",
+      "追逐繁星的孩子",
+      "별을 쫓는 아이",
+      "별을 쫓는 아이:아가르타의 전설"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 3,
-  "picture": "https://cdn.myanimelist.net/images/anime/11/36477.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/11/36477t.jpg",
-  "synonyms": [
-    "Katte ni Kaizō Specials",
-    "Katteni Kaizou Specials",
-    "かってにかいぞう",
-    "かってに改蔵"
-  ]
-}
+  {
+    "title": "+チック姉さん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "+模型姐妹"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2011-05-06T16:00:00.000Z",
+    "end": "2012-08-22T16:03:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "n8mzMZnicb60QjvY",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "19021"
+      },
+      {
+        "site": "bilibili",
+        "id": "930",
+        "begin": "2011-05-06T16:00:00.000Z"
+      },
+      {
+        "site": "letv",
+        "id": "44251",
+        "begin": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2011,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/76583.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/76583t.jpg",
+    "synonyms": [
+      "+Tic Elder Sister",
+      "+Tic Nee-san",
+      "+Tic Neesan",
+      "+tic Elder Sister",
+      "+tic Nee-san",
+      "+ticneesan",
+      "+チック姉さん",
+      "+模型姐妹",
+      "Plastic Elder Sister",
+      "Plastic Nee-san",
+      "Plastic Nesan",
+      "Plastic Nēsan",
+      "Plustic Neesan",
+      "Purasu Chikku Neesan",
+      "Пластиковая сестренка",
+      "Сестрёнка-моделистка",
+      "＋チック姉さん"
+    ]
+  },
+  {
+    "title": "かってに改蔵",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妄想改造人改藏"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.starchild.co.jp/special/kaizo/",
+    "begin": "2011-05-25T16:00:00.000Z",
+    "end": "2011-05-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "pOjUUrogkM4xrxc",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "10940"
+      },
+      {
+        "site": "anilist",
+        "id": "10191"
+      },
+      {
+        "site": "anime-planet",
+        "id": "katte-ni-kaizou"
+      },
+      {
+        "site": "anisearch",
+        "id": "6851"
+      },
+      {
+        "site": "kitsu",
+        "id": "6069"
+      },
+      {
+        "site": "livechart",
+        "id": "4945"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10191"
+      },
+      {
+        "site": "notify",
+        "id": "0ix7tFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2011,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/36477.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/36477t.jpg",
+    "synonyms": [
+      "Katte ni Kaizō Specials",
+      "Katteni Kaizou Specials",
+      "かってにかいぞう",
+      "かってに改蔵"
+    ]
+  }
+]

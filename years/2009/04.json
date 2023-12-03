@@ -1,170 +1,4769 @@
-{
-  "title": "劇場版 天元突破グレンラガン 螺巌篇",
-  "titleTranslate": {
-    "zh-Hans": [
-      "天元突破红莲螺岩 螺岩篇"
+[
+  {
+    "title": "グイン・サーガ",
+    "titleTranslate": {
+      "en": [
+        "GUIN SAGA"
+      ],
+      "zh-Hans": [
+        "豹头王传说"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.guinsaga.net/",
+    "begin": "2009-04-05T14:29:00.000Z",
+    "end": "2009-09-27T14:54:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "xV8qqBB25iaSHBW0",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1452"
+      },
+      {
+        "site": "bilibili",
+        "id": "1131",
+        "begin": "2009-04-04T16:00:00.000Z",
+        "broadcast": "R/2014-10-10T02:11:00.000Z/P7D"
+      }
     ],
-    "zh-Hant": [
-      "天元突破 紅蓮螺巖 螺巖篇"
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/75553.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/75553t.jpg",
+    "synonyms": [
+      "Sakmė apie Guiną",
+      "Сага за Гуин",
+      "Сага о Гуине",
+      "ぐいんさーが",
+      "グイン・サーガ",
+      "豹头王传说",
+      "구인 사가"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "http://www.gurren-lagann-movie.net/",
-  "begin": "2009-04-25T16:00:00.000Z",
-  "end": "2009-04-25T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "3996"
+  {
+    "title": "花咲ける青少年",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天国少女"
+      ]
     },
-    {
-      "site": "nicovideo",
-      "id": "gurren-lagann-movie-lagann",
-      "begin": "2018-05-31T15:00:00.000Z"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www3.nhk.or.jp/anime/hana/",
+    "begin": "2009-04-05T14:01:00.000Z",
+    "end": "2010-02-14T14:26:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "0nVQzjacDEqtK5M",
+        "begin": ""
+      },
+      {
+        "site": "letv",
+        "id": "5341",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2093"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhbp039",
+        "begin": "2017-10-31T16:01:40.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "1133",
+        "begin": "2009-04-04T16:00:00.000Z",
+        "broadcast": "R/2013-08-01T04:30:00.000Z/P7D"
+      },
+      {
+        "site": "qq",
+        "id": "7/7nnibq9kn718cfn",
+        "begin": ""
+      },
+      {
+        "site": "anime-planet",
+        "id": "hanasakeru-seishounen"
+      },
+      {
+        "site": "anisearch",
+        "id": "5177"
+      },
+      {
+        "site": "kitsu",
+        "id": "4297"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5835"
+      },
+      {
+        "site": "notify",
+        "id": "mhRqcFmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2009,
+      "month": "04"
     },
-    {
-      "site": "qq",
-      "id": "m/mke5ph5agqe154z",
-      "begin": "",
-      "broadcast": ""
-    },
-    {
-      "site": "gamer",
-      "id": "22665",
-      "begin": "2021-02-28T16:00:00.000Z",
-      "broadcast": "R/2021-02-28T16:00:00.000Z/P7D"
-    },
-    {
-      "site": "bilibili",
-      "id": "24789198",
-      "begin": "2014-08-01T11:16:00.000Z",
-      "broadcast": "R/2014-08-01T11:16:00.000Z/P7D"
-    },
-    {
-      "site": "anidb",
-      "id": "4575"
-    },
-    {
-      "site": "anidb",
-      "id": "5783"
-    },
-    {
-      "site": "anilist",
-      "id": "2001"
-    },
-    {
-      "site": "anilist",
-      "id": "4107"
-    },
-    {
-      "site": "anime-planet",
-      "id": "gurren-lagann-movie-1-childhoods-end"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tengen-toppa-gurren-lagann"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tengen-toppa-gurren-lagann-gekijouban-zenyasai-special-virals-sweet-dream"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tengen-toppa-gurren-lagann-kirameki-yoko-box-pieces-of-sweet-stars"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tengen-toppa-gurren-lagann-ova"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tengen-toppa-gurren-lagann-parallel-works"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tengen-toppa-gurren-lagann-parallel-works-2"
-    },
-    {
-      "site": "anisearch",
-      "id": "3711"
-    },
-    {
-      "site": "anisearch",
-      "id": "4842"
-    },
-    {
-      "site": "kitsu",
-      "id": "1801"
-    },
-    {
-      "site": "kitsu",
-      "id": "3471"
-    },
-    {
-      "site": "livechart",
-      "id": "3583"
-    },
-    {
-      "site": "livechart",
-      "id": "3819"
-    },
-    {
-      "site": "livechart",
-      "id": "4520"
-    },
-    {
-      "site": "livechart",
-      "id": "4535"
-    },
-    {
-      "site": "livechart",
-      "id": "4558"
-    },
-    {
-      "site": "myanimelist",
-      "id": "2001"
-    },
-    {
-      "site": "myanimelist",
-      "id": "4107"
-    },
-    {
-      "site": "notify",
-      "id": "D7dYcKmmR"
-    },
-    {
-      "site": "notify",
-      "id": "VMNX5Fmig"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 2009,
-    "month": "04"
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/15465.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/15465t.jpg",
+    "synonyms": [
+      "Hanasakeru Seishonen Specials",
+      "Hanasakeru Seishounen 12.5, 25.5, 39.5",
+      "Hanasakeru Seishounen Special",
+      "Hanasakeru Seishōnen Special",
+      "はなさけるせいしょうねん",
+      "花咲ける青少年",
+      "花咲ける青少年スペシャル"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/12/19698.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/12/19698t.jpg",
-  "synonyms": [
-    "Gekijouban Tengen Toppa Gurren Lagann: Lagann Hen",
-    "Gekijouban Tengen Toppa Gurren Lagann: Lagann-hen",
-    "Gekijōban Tengen Toppa Gurren Lagann: Lagann-hen",
-    "Gurren Lagann Movie 2: The Lights in the Sky Are Stars",
-    "Gurren Lagann Película II: Las Luces en el Cielo son Estrellas",
-    "Gurren Lagann The Movie: The Lights in the Sky are Stars",
-    "Gurren Lagann the Movie: The Lights in the Sky Are Stars",
-    "Gurren Lagann. Película 2: Las luces del cielo son estrellas",
-    "Gurren Lagann: The Movie II",
-    "Gurren-Lagann Movie: Lagann Arc",
-    "Tengen Toppa Gurren Lagann Movie 2",
-    "Tengen Toppa Gurren Lagann The Movie: Spiral Stone Chapter",
-    "Tengen Toppa Gurren Lagann: Lagann-hen",
-    "ttgl movie 2",
-    "Гуррен Лаганн: Арката Лаганн",
-    "劇場版 天元突破グレンラガン 螺巌篇",
-    "天元突破グレンラガン 螺巌篇",
-    "극장판 천원돌파 그렌라간: 나암편"
-  ]
-}
+  {
+    "title": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+    "titleTranslate": {
+      "zh-Hans": [
+        "钢之炼金术师 FULLMETAL ALCHEMIST",
+        "钢之炼金术师 FA",
+        "钢之炼金术师 2009"
+      ],
+      "en": [
+        "Fullmetal Alchemist: Brotherhood"
+      ],
+      "zh-Hant": [
+        "鋼之鍊金術師 FA"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.hagaren.jp/",
+    "begin": "2009-04-05T08:00:00.000Z",
+    "end": "2010-07-04T08:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "Jwr1c9tBse9S0Dg",
+        "begin": ""
+      },
+      {
+        "site": "letv",
+        "id": "45402",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1428"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hagaren-fa",
+        "begin": "2015-04-10T06:00:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "70204981",
+        "begin": "2018-01-01T08:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "1089",
+        "begin": "2009-04-04T16:00:01.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "youku",
+        "id": "028d1d1aca8911de97c0",
+        "begin": "2011-08-23T08:23:59.000Z"
+      },
+      {
+        "site": "viu",
+        "id": "50830",
+        "begin": "2017-06-30T16:00:00.000Z",
+        "broadcast": "R/2017-06-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "fullmetalalchemistbrotherhood0001_107563",
+        "begin": "1999-12-31T16:00:00.000Z",
+        "broadcast": "R/1999-12-31T16:00:00.000Z/P7D",
+        "comment": "粵日雙語"
+      },
+      {
+        "site": "anilist",
+        "id": "5114"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fullmetal-alchemist-brotherhood"
+      },
+      {
+        "site": "anisearch",
+        "id": "5048"
+      },
+      {
+        "site": "kitsu",
+        "id": "3936"
+      },
+      {
+        "site": "livechart",
+        "id": "3406"
+      },
+      {
+        "site": "livechart",
+        "id": "3407"
+      },
+      {
+        "site": "livechart",
+        "id": "3408"
+      },
+      {
+        "site": "livechart",
+        "id": "3409"
+      },
+      {
+        "site": "livechart",
+        "id": "3411"
+      },
+      {
+        "site": "livechart",
+        "id": "5830"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5114"
+      },
+      {
+        "site": "notify",
+        "id": "UhurcKmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/1493/91571.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1493/91571t.jpg",
+    "synonyms": [
+      "Brotherhood OVA Collection",
+      "FMA",
+      "Fullmetal Alchemist : Brotherhood - OVAs",
+      "Fullmetal Alchemist: Brootherhood OVA Collection",
+      "Fullmetal Alchemist: Brotherhood - OVA Collection",
+      "Fullmetal Alchemist: Brotherhood OAV Collection",
+      "Fullmetal Alchemist: Brotherhood OVA Collection",
+      "Hagane no Renkinjutsushi: Brotherhood Specials",
+      "Hagane no Renkinjutsushi: Eizou Tokuten",
+      "Hagane no Renkinjutsushi: Eizō Tokuten",
+      "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST Mihousou Episode",
+      "Hagane no Renkinjutsushi: Furumetaru Arukemisuto Specials",
+      "Moumoku no Renkinjutsushi",
+      "Shinpuru na Hitobito",
+      "Simple People",
+      "Tales of the Master",
+      "The Blind Alchemist",
+      "The Tale of Teacher",
+      "Yet Another Man's Battlefield",
+      "{\"Fullmetal Alchemist\"=>\"Brotherhood OVA Collection\"}",
+      "はがねのれんきんじゅつし",
+      "鋼の錬金術師",
+      "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "鋼の錬金術師 FULLMETAL ALCHEMIST 映像特典",
+      "鋼の錬金術師 FULLMETAL ALCHEMIST 未放送エピソード"
+    ]
+  },
+  {
+    "title": "こんにちは アン ～Before Green Gables",
+    "titleTranslate": {
+      "zh-Hans": [
+        "你好 安妮",
+        "你好 安妮 ～Before Green Gables",
+        "世界名作剧场 你好 安妮",
+        "清秀佳人前传"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.nippon-animation.co.jp/before_GG/index.html",
+    "begin": "2009-04-05T10:30:00.000Z",
+    "end": "2009-12-27T11:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "gqWgHobsXJr9eibM",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3643"
+      },
+      {
+        "site": "letv",
+        "id": "6172",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "1061"
+      },
+      {
+        "site": "anilist",
+        "id": "283"
+      },
+      {
+        "site": "anilist",
+        "id": "8950"
+      },
+      {
+        "site": "anime-planet",
+        "id": "akage-no-anne-green-gables-e-no-michi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "anne-of-green-gables"
+      },
+      {
+        "site": "anime-planet",
+        "id": "before-green-gables-specials"
+      },
+      {
+        "site": "anisearch",
+        "id": "11219"
+      },
+      {
+        "site": "anisearch",
+        "id": "1164"
+      },
+      {
+        "site": "kitsu",
+        "id": "258"
+      },
+      {
+        "site": "livechart",
+        "id": "5434"
+      },
+      {
+        "site": "livechart",
+        "id": "8839"
+      },
+      {
+        "site": "livechart",
+        "id": "9127"
+      },
+      {
+        "site": "myanimelist",
+        "id": "283"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53638"
+      },
+      {
+        "site": "notify",
+        "id": "1bt2cFimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 39,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/54069.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/54069t.jpg",
+    "synonyms": [
+      "Akage no Anne Prequel",
+      "Anne of Green Gables Prequel",
+      "Before Green Gables",
+      "Konnichiwa Anne",
+      "Konnichiwa Anne Before Green Gables",
+      "Sorridi, Piccola Anna",
+      "Sorridi, piccola Anna",
+      "anne (2009)",
+      "حكايات آن",
+      "ذات الشعر الأحمر",
+      "مرحباً يا آن",
+      "こんにちは アン",
+      "こんにちは アン 〜Before Green Gables",
+      "こんにちは アン ～Before Green Gables",
+      "こんにちはあんびふぉーぐりーんげいぶるず",
+      "你好安妮"
+    ]
+  },
+  {
+    "title": "ティアーズ・トゥ・ティアラ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "花冠之泪",
+        "提亚拉之泪"
+      ],
+      "en": [
+        "Tears to Tiara"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://ponican.jp/ttt/",
+    "begin": "2009-04-03T11:00:00.000Z",
+    "end": "2009-09-27T17:05:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "ynpFwyuRATibiaIIg",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrjzen3l",
+        "begin": "2012-07-01T06:25:22.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "1423"
+      },
+      {
+        "site": "bilibili",
+        "id": "3224",
+        "begin": "2015-12-20T06:33:00.000Z",
+        "broadcast": "R/2015-12-20T06:33:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/18547.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/18547t.jpg",
+    "synonyms": [
+      "Tränen von Tiara",
+      "TtT",
+      "てぃあーずとぅてぃあら",
+      "ティアーズ・トゥ・ティアラ",
+      "提亚拉之泪",
+      "泪染三重冠",
+      "花冠之泪"
+    ]
+  },
+  {
+    "title": "初恋限定。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "初恋限定。"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.j-hatsukoi.com/",
+    "begin": "2009-04-11T15:00:00.000Z",
+    "end": "2009-06-27T15:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "vop181vBMWicSULg",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1450"
+      },
+      {
+        "site": "letv",
+        "id": "7433",
+        "begin": ""
+      },
+      {
+        "site": "anilist",
+        "id": "6882"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hatsukoi-limited-limited-girl"
+      },
+      {
+        "site": "anisearch",
+        "id": "6162"
+      },
+      {
+        "site": "kitsu",
+        "id": "4766"
+      },
+      {
+        "site": "livechart",
+        "id": "3571"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6882"
+      },
+      {
+        "site": "notify",
+        "id": "ErzRtKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/15520.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/15520t.jpg",
+    "synonyms": [
+      "First Love Limited",
+      "HatsuLimi",
+      "Hatsukoi Gentei",
+      "Hatsukoi Gentei.",
+      "Hatsukoi Limited",
+      "Компания «Первая любовь»",
+      "はつこいりみてっど",
+      "初恋限定",
+      "初恋限定.",
+      "初恋限定。",
+      "첫사랑 한정"
+    ]
+  },
+  {
+    "title": "夏のあらし！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "夏之岚",
+        "夏之岚!",
+        "夏日风暴"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.starchild.co.jp/special/natsunoarashi/",
+    "begin": "2009-04-05T16:30:00.000Z",
+    "end": "2009-06-28T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "BCAbmQFn1xV49l4",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1454"
+      },
+      {
+        "site": "bilibili",
+        "id": "1135",
+        "begin": "2009-04-04T16:00:00.000Z",
+        "broadcast": "R/2010-09-21T09:36:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "6672"
+      },
+      {
+        "site": "anilist",
+        "id": "6712"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsu-no-arashi-akinaichuu"
+      },
+      {
+        "site": "anisearch",
+        "id": "5484"
+      },
+      {
+        "site": "kitsu",
+        "id": "4680"
+      },
+      {
+        "site": "livechart",
+        "id": "5659"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6712"
+      },
+      {
+        "site": "notify",
+        "id": "k9fe5KmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/75256.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/75256t.jpg",
+    "synonyms": [
+      "Natsu no Arashi",
+      "Stormy Summer",
+      "Summer Storm",
+      "Summer Storm!",
+      "natsu no arashi",
+      "nna",
+      "عاصفة الصيف!",
+      "なつのあらし",
+      "夏のあらし!",
+      "夏のあらし！",
+      "夏之岚",
+      "夏之岚!"
+    ]
+  },
+  {
+    "title": "クイーンズブレイド 流浪の戦士",
+    "titleTranslate": {
+      "zh-Hans": [
+        "女皇之刃 流浪的战士",
+        "女王之刃 流浪的战士"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://queensblade.tv/",
+    "begin": "2009-04-01T23:00:00.000Z",
+    "end": "2009-06-17T23:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1434"
+      },
+      {
+        "site": "nicovideo",
+        "id": "queensblade01",
+        "begin": "2012-04-11T06:00:00.000Z"
+      },
+      {
+        "site": "anilist",
+        "id": "4719"
+      },
+      {
+        "site": "anilist",
+        "id": "7740"
+      },
+      {
+        "site": "anime-planet",
+        "id": "queens-blade-2-the-evil-eye-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "queens-blade-beautiful-warriors"
+      },
+      {
+        "site": "anime-planet",
+        "id": "queens-blade-grimoire"
+      },
+      {
+        "site": "anime-planet",
+        "id": "queens-blade-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "queens-blade-ova-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "queens-blade-rebellion"
+      },
+      {
+        "site": "anime-planet",
+        "id": "queens-blade-rebellion-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "queens-blade-the-exiled-virgin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "queens-blade-unlimited"
+      },
+      {
+        "site": "anime-planet",
+        "id": "queens-blade-vanquished-queens"
+      },
+      {
+        "site": "anime-planet",
+        "id": "queens-blade-vanquished-queens-specials"
+      },
+      {
+        "site": "anisearch",
+        "id": "4479"
+      },
+      {
+        "site": "kitsu",
+        "id": "5103"
+      },
+      {
+        "site": "kitsu",
+        "id": "7762"
+      },
+      {
+        "site": "livechart",
+        "id": "1127"
+      },
+      {
+        "site": "livechart",
+        "id": "1574"
+      },
+      {
+        "site": "livechart",
+        "id": "2553"
+      },
+      {
+        "site": "livechart",
+        "id": "3924"
+      },
+      {
+        "site": "livechart",
+        "id": "4269"
+      },
+      {
+        "site": "livechart",
+        "id": "4947"
+      },
+      {
+        "site": "livechart",
+        "id": "5411"
+      },
+      {
+        "site": "livechart",
+        "id": "5821"
+      },
+      {
+        "site": "livechart",
+        "id": "7394"
+      },
+      {
+        "site": "livechart",
+        "id": "7695"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4719"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7740"
+      },
+      {
+        "site": "notify",
+        "id": "MqvttFiig"
+      },
+      {
+        "site": "notify",
+        "id": "ek2zpKmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/22751.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/22751t.jpg",
+    "synonyms": [
+      "Queen's Blade Specials",
+      "Queen's Blade: The Exiled Virgin",
+      "Queen's Blade: The Exiled Virgin Specials",
+      "Queen's Blade: The Wandering Warrior Specials",
+      "Queen’s Blade Specials",
+      "Queen’s Blade: Everyone Appears - Gainos Academy Rampage!",
+      "Queen’s Blade: Rurou no Senshi - Minna Dechau yo Gainos Gakuen Daiobare!",
+      "Queen’s Blade: Rurō no Senshi - Minna Dechau yo Gainos Gakuen Daiobare!",
+      "Queen’s Blade: The Exiled Virgin OVA",
+      "Queen’s Blade: The Exiled Virgin Specials",
+      "Queen’s Blade: Wandering Warrior Specials",
+      "くいーんずぶれいどるろうのせんし",
+      "クイーンズブレイド 流浪の戦士",
+      "クイーンズブレイド 流浪の戦士 みんなでちゃうよ♥ガイノス学園大暴れ！"
+    ]
+  },
+  {
+    "title": "タユタマ -Kiss on my Deity-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "游魂 -Kiss on my Deity-"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tayutama.com/",
+    "begin": "2009-04-05T15:30:00.000Z",
+    "end": "2009-06-21T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "mtWvLZX7a6kMiavI",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1605"
+      },
+      {
+        "site": "anilist",
+        "id": "6705"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tayutayu-pure-my-heart"
+      },
+      {
+        "site": "anisearch",
+        "id": "8492"
+      },
+      {
+        "site": "kitsu",
+        "id": "4677"
+      },
+      {
+        "site": "livechart",
+        "id": "6456"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6705"
+      },
+      {
+        "site": "notify",
+        "id": "vdfe5Kimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/11972.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/11972t.jpg",
+    "synonyms": [
+      "Tayutama",
+      "Tayutama -Kiss on my Deity-",
+      "Tayutama ~Kiss on my Deity~",
+      "Tayutama: Kiss on my Deity",
+      "tayutama",
+      "Таютама - божественный поцелуй",
+      "Таютама - поцелуй мою богиню",
+      "たゆたまきすおんまいでぃあてぃ",
+      "タユタマ -Kiss on my Deity-",
+      "游魂",
+      "游魂 -Kiss on my Deity-"
+    ]
+  },
+  {
+    "title": "07-GHOST",
+    "titleTranslate": {
+      "zh-Hans": [
+        "七鬼神",
+        "神幻拍档"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://07-ghost.net/",
+    "begin": "2009-04-06T16:40:00.000Z",
+    "end": "2009-09-21T17:10:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "spVw7la8LGrNS7M",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrjzmccx",
+        "begin": "2012-07-01T06:24:21.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "1466"
+      },
+      {
+        "site": "mgtv",
+        "id": "319823",
+        "begin": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 25,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/22605.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/22605t.jpg",
+    "synonyms": [
+      "07 Ghost",
+      "07 vaiduokliai",
+      "07-GHOST",
+      "07-Hayalet",
+      "07-روح",
+      "07ghost",
+      "7 Ghosts",
+      "Septyni vaiduokliai",
+      "Seven Ghost",
+      "Seven Ghosts",
+      "Seventh Ghost",
+      "The Seven Ghost",
+      "The Seven Ghosts",
+      "Zero Seven Ghost",
+      "Седемте призрака",
+      "Седьмой Дух",
+      "Семь Душ",
+      "せぶんごーすと",
+      "セブンゴースト",
+      "七鬼神"
+    ]
+  },
+  {
+    "title": "戦場のヴァルキュリア",
+    "titleTranslate": {
+      "en": [
+        "VALKYRIA CHRONICLES"
+      ],
+      "zh-Hans": [
+        "战场女武神",
+        "战场上的女武神"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.valkyria-anime.com/",
+    "begin": "2009-04-04T16:35:00.000Z",
+    "end": "2009-09-26T17:05:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "m9WvLZX7a6kMiavI",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1421"
+      },
+      {
+        "site": "qq",
+        "id": "d/dzrw32cutvxpp5n",
+        "begin": ""
+      },
+      {
+        "site": "letv",
+        "id": "41926",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "1127",
+        "begin": "2013-03-11T06:07:00.000Z",
+        "broadcast": "R/2013-03-11T06:07:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "8158"
+      },
+      {
+        "site": "anilist",
+        "id": "7016"
+      },
+      {
+        "site": "anilist",
+        "id": "9793"
+      },
+      {
+        "site": "anime-planet",
+        "id": "senjou-no-valkyria-3-tagatame-no-juusou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "valkyria-chronicles-gallian-chronicles-theater"
+      },
+      {
+        "site": "anime-planet",
+        "id": "valkyria-chronicles-special"
+      },
+      {
+        "site": "anisearch",
+        "id": "18674"
+      },
+      {
+        "site": "anisearch",
+        "id": "6686"
+      },
+      {
+        "site": "anisearch",
+        "id": "8443"
+      },
+      {
+        "site": "kitsu",
+        "id": "41326"
+      },
+      {
+        "site": "kitsu",
+        "id": "4832"
+      },
+      {
+        "site": "kitsu",
+        "id": "5871"
+      },
+      {
+        "site": "livechart",
+        "id": "5287"
+      },
+      {
+        "site": "livechart",
+        "id": "5559"
+      },
+      {
+        "site": "livechart",
+        "id": "8048"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37908"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7016"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9793"
+      },
+      {
+        "site": "notify",
+        "id": "5D1qxNDmg"
+      },
+      {
+        "site": "notify",
+        "id": "I9dRpKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "izYMpFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/53901.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/53901t.jpg",
+    "synonyms": [
+      "Battlefield Valkyria: Gallian Chronicles",
+      "Senjou no Valkyria: Gallian Chronicles",
+      "Senjou no Valkyria: Valkyria Chronicles",
+      "Senjō no Valkyria: Valkyria Chronicles",
+      "Valkyria Chronicles",
+      "senjou",
+      "senval",
+      "senvaru",
+      "valkyria",
+      "vc",
+      "Хроники Валькирии",
+      "せんじょうのばるきゅりあ",
+      "战场女武神",
+      "戦ヴァル",
+      "戦場のヴァルキュリア",
+      "戦場のヴァルキュリア -Gallian Chronicles-",
+      "戦場のヴァルキュリア Valkyria Chronicles"
+    ]
+  },
+  {
+    "title": "極上!!めちゃモテ委員長",
+    "titleTranslate": {
+      "zh-Hans": [
+        "极上！！超人气委员长",
+        "恋爱班长"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://mechamote.tv/",
+    "begin": "2009-04-04T00:00:00.000Z",
+    "end": "2010-03-27T00:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "IQL9eibNJufda2EA",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3640"
+      },
+      {
+        "site": "anidb",
+        "id": "7546"
+      },
+      {
+        "site": "anilist",
+        "id": "8538"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gokujou-mecha-mote-iinchou-second-collection"
+      },
+      {
+        "site": "anisearch",
+        "id": "6325"
+      },
+      {
+        "site": "kitsu",
+        "id": "5379"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8538"
+      },
+      {
+        "site": "notify",
+        "id": "rb-ipKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 51,
+    "picture": "https://cdn.myanimelist.net/images/anime/1306/133581.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1306/133581t.jpg",
+    "synonyms": [
+      "Gokujo!! Mecha Mote Iincho",
+      "Gokujō!! Mecha Mote Īnchō",
+      "Ragazze di Successo",
+      "Superfine! Hecka MOTE Chair",
+      "The Best!! Extremely Cool Student Council President",
+      "ごくじょうめちゃもていいんちょう",
+      "极上!!超激人气委员长",
+      "極上!!めちゃモテ委員長",
+      "極上！！めちゃモテ委員長"
+    ]
+  },
+  {
+    "title": "ハヤテのごとく!!",
+    "titleTranslate": {
+      "en": [
+        "Hayate the combat﻿ butler﻿ 2nd season"
+      ],
+      "zh-Hans": [
+        "旋风管家 第二季",
+        "旋风管家 第2季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://hayatenogotoku.com/index.html",
+    "begin": "2009-04-03T16:23:00.000Z",
+    "end": "2009-09-18T16:53:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgift5l",
+        "begin": "2014-09-12T06:31:25.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "1427"
+      },
+      {
+        "site": "qq",
+        "id": "e/e3u2eiee16p0fqx",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "6389"
+      },
+      {
+        "site": "anidb",
+        "id": "8130"
+      },
+      {
+        "site": "anilist",
+        "id": "5521"
+      },
+      {
+        "site": "anilist",
+        "id": "9958"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hayate-the-combat-butler"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hayate-the-combat-butler-2014"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hayate-the-combat-butler-cant-take-my-eyes-off-you"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hayate-the-combat-butler-cuties"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hayate-the-combat-butler-heaven-is-a-place-on-earth"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hayate-the-combat-butler-ova"
+      },
+      {
+        "site": "anisearch",
+        "id": "5189"
+      },
+      {
+        "site": "anisearch",
+        "id": "6664"
+      },
+      {
+        "site": "kitsu",
+        "id": "4133"
+      },
+      {
+        "site": "kitsu",
+        "id": "5965"
+      },
+      {
+        "site": "livechart",
+        "id": "3692"
+      },
+      {
+        "site": "livechart",
+        "id": "4516"
+      },
+      {
+        "site": "livechart",
+        "id": "4605"
+      },
+      {
+        "site": "livechart",
+        "id": "466"
+      },
+      {
+        "site": "livechart",
+        "id": "550"
+      },
+      {
+        "site": "livechart",
+        "id": "551"
+      },
+      {
+        "site": "livechart",
+        "id": "816"
+      },
+      {
+        "site": "livechart",
+        "id": "940"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5521"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9958"
+      },
+      {
+        "site": "notify",
+        "id": "6_1j5Kimg"
+      },
+      {
+        "site": "notify",
+        "id": "ofk7pFimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 25,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/75212.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/75212t.jpg",
+    "synonyms": [
+      "Hayate no Gotoku 2",
+      "Hayate no gotoku 2",
+      "Hayate no gotoku!!",
+      "Hayate the Combat Butler 2",
+      "Hayate the Combat Butler 2nd Season",
+      "Hayate the Combat Butler Saison 2",
+      "Hayate the Combat Butler Season 2",
+      "Hayate the Combat Butler! Season 2",
+      "Hayate the Combat Butler! Temporada 2",
+      "Hayate the Combat Butler!!",
+      "Hayate the Combat Butler: 2nd Season",
+      "hayate2",
+      "hng!!",
+      "hng2",
+      "はやてのごとく",
+      "ハヤテのごとく!!",
+      "ハヤテのごとく!! Hayate the combat butler 2nd season",
+      "ハヤテのごとく！！",
+      "旋风管家 第二季",
+      "旋风管家2",
+      "旋风管家！！"
+    ]
+  },
+  {
+    "title": "咲-Saki-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天才麻将少女"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.saki-anime.com/1st/",
+    "begin": "2009-04-05T17:00:00.000Z",
+    "end": "2009-09-27T17:48:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1444"
+      },
+      {
+        "site": "youku",
+        "id": "6a35f680de5c11de97c0",
+        "begin": "2012-03-20T02:55:26.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "10849"
+      },
+      {
+        "site": "anidb",
+        "id": "9490"
+      },
+      {
+        "site": "anilist",
+        "id": "10884"
+      },
+      {
+        "site": "anilist",
+        "id": "16123"
+      },
+      {
+        "site": "anilist",
+        "id": "21642"
+      },
+      {
+        "site": "anilist",
+        "id": "7759"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saki-biyori"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saki-episode-of-side-a"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saki-episode-of-side-a-kuros-birthday"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saki-episode-of-side-a-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saki-picture-drama"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saki-the-nationals"
+      },
+      {
+        "site": "anisearch",
+        "id": "7337"
+      },
+      {
+        "site": "anisearch",
+        "id": "8147"
+      },
+      {
+        "site": "anisearch",
+        "id": "8594"
+      },
+      {
+        "site": "anisearch",
+        "id": "9929"
+      },
+      {
+        "site": "kitsu",
+        "id": "5110"
+      },
+      {
+        "site": "kitsu",
+        "id": "6392"
+      },
+      {
+        "site": "kitsu",
+        "id": "7375"
+      },
+      {
+        "site": "kitsu",
+        "id": "9563"
+      },
+      {
+        "site": "livechart",
+        "id": "1104"
+      },
+      {
+        "site": "livechart",
+        "id": "1130"
+      },
+      {
+        "site": "livechart",
+        "id": "1304"
+      },
+      {
+        "site": "livechart",
+        "id": "173"
+      },
+      {
+        "site": "livechart",
+        "id": "5203"
+      },
+      {
+        "site": "livechart",
+        "id": "9346"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10884"
+      },
+      {
+        "site": "myanimelist",
+        "id": "16123"
+      },
+      {
+        "site": "myanimelist",
+        "id": "27709"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7759"
+      },
+      {
+        "site": "notify",
+        "id": "BDgLpFiig"
+      },
+      {
+        "site": "notify",
+        "id": "DA2KtFimR"
+      },
+      {
+        "site": "notify",
+        "id": "jTq4tFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "kuhkpKmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 25,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/73933.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/73933t.jpg",
+    "synonyms": [
+      "Saki - The Player",
+      "ساكي",
+      "さき",
+      "咲",
+      "咲-Saki-",
+      "天才麻将少女"
+    ]
+  },
+  {
+    "title": "戦国BASARA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "战国BASARA",
+        "战国basara 第1季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://web.archive.org/web/*/www.sengokubasara.tv/basara1/index2.html",
+    "begin": "2009-04-01T16:34:00.000Z",
+    "end": "2009-06-17T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "Gjchnwdt3RtibicGQ",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrk44cp1",
+        "begin": "2014-09-12T06:44:11.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "5/5xvc2gtn2s9mf43",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1429"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch327",
+        "begin": "2010-07-31T15:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "1590",
+        "begin": "2009-03-31T16:00:00.000Z",
+        "broadcast": "R/2010-10-06T16:17:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "14001"
+      },
+      {
+        "site": "anidb",
+        "id": "7490"
+      },
+      {
+        "site": "anilist",
+        "id": "101470"
+      },
+      {
+        "site": "anilist",
+        "id": "20612"
+      },
+      {
+        "site": "anilist",
+        "id": "6581"
+      },
+      {
+        "site": "anilist",
+        "id": "6634"
+      },
+      {
+        "site": "anilist",
+        "id": "7857"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gakuen-basara-samurai-high-school"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mini-sengoku-basara-chousokabe-kun-to-mouri-kun"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sengoku-basara-end-of-judgement"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sengoku-basara-movie-4-koma-gekijou-another-last-party"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sengoku-basara-samurai-kings-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sengoku-basara-samurai-kings-clash-in-the-inland-sea-of-seto-fugaku-the-great-fire-belching-fortress-of-the-sea"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sengoku-basara-samurai-kings-movie-the-last-party"
+      },
+      {
+        "site": "anisearch",
+        "id": "13538"
+      },
+      {
+        "site": "anisearch",
+        "id": "5553"
+      },
+      {
+        "site": "anisearch",
+        "id": "6829"
+      },
+      {
+        "site": "anisearch",
+        "id": "8775"
+      },
+      {
+        "site": "kitsu",
+        "id": "41263"
+      },
+      {
+        "site": "kitsu",
+        "id": "4621"
+      },
+      {
+        "site": "kitsu",
+        "id": "4643"
+      },
+      {
+        "site": "kitsu",
+        "id": "5142"
+      },
+      {
+        "site": "livechart",
+        "id": "415"
+      },
+      {
+        "site": "livechart",
+        "id": "4935"
+      },
+      {
+        "site": "livechart",
+        "id": "5441"
+      },
+      {
+        "site": "livechart",
+        "id": "5789"
+      },
+      {
+        "site": "livechart",
+        "id": "6624"
+      },
+      {
+        "site": "livechart",
+        "id": "7505"
+      },
+      {
+        "site": "livechart",
+        "id": "7616"
+      },
+      {
+        "site": "livechart",
+        "id": "7803"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37657"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6581"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6634"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7857"
+      },
+      {
+        "site": "notify",
+        "id": "1gA65Kimg"
+      },
+      {
+        "site": "notify",
+        "id": "93c65Fiig"
+      },
+      {
+        "site": "notify",
+        "id": "jw-ztKimR"
+      },
+      {
+        "site": "notify",
+        "id": "kWV9Sq7mR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/21849.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/21849t.jpg",
+    "synonyms": [
+      "Demonų Valdovai",
+      "Devil Kings",
+      "Sengoku BASARA",
+      "Sengoku Basara - Samurai Kings",
+      "Sengoku Basara Samurai Kings",
+      "Sengoku Basara: Samurai Kings",
+      "せんごくばさら",
+      "战国BASARA",
+      "戦国BASARA",
+      "戦国Basara"
+    ]
+  },
+  {
+    "title": "アスラクライン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机巧魔神"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.starchild.co.jp/special/asura/",
+    "begin": "2009-04-02T00:30:00.000Z",
+    "end": "2009-06-25T01:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1436"
+      },
+      {
+        "site": "bilibili",
+        "id": "1765",
+        "begin": "2009-04-01T16:00:00.000Z",
+        "broadcast": "R/2018-09-08T07:17:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "6374"
+      },
+      {
+        "site": "anilist",
+        "id": "5342"
+      },
+      {
+        "site": "anime-planet",
+        "id": "asura-cryin"
+      },
+      {
+        "site": "anisearch",
+        "id": "5144"
+      },
+      {
+        "site": "kitsu",
+        "id": "4064"
+      },
+      {
+        "site": "livechart",
+        "id": "3857"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5342"
+      },
+      {
+        "site": "notify",
+        "id": "RfOC5Kmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/50897.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/50897t.jpg",
+    "synonyms": [
+      "Asura Cryin` 2",
+      "Asura Cryin’ 2",
+      "Asura2",
+      "Асура Краин 2",
+      "Плачущий Асура",
+      "آسورا کرایین 2",
+      "アスラクライン",
+      "アスラクライン 2",
+      "アスラクライン2",
+      "机巧魔神2"
+    ]
+  },
+  {
+    "title": "けいおん！",
+    "titleTranslate": {
+      "en": [
+        "K-ON!"
+      ],
+      "zh-Hans": [
+        "轻音少女"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/anime/k-on/k-on_tv/index-j.html",
+    "begin": "2009-04-02T17:09:00.000Z",
+    "end": "2013-06-22T22:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1424"
+      },
+      {
+        "site": "nicovideo",
+        "id": "k-on_anime",
+        "begin": "2018-12-27T15:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28220978",
+        "begin": "2019-05-13T04:00:00.000Z",
+        "broadcast": "R/2019-05-13T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "7307"
+      },
+      {
+        "site": "anilist",
+        "id": "6862"
+      },
+      {
+        "site": "anilist",
+        "id": "7017"
+      },
+      {
+        "site": "anilist",
+        "id": "7791"
+      },
+      {
+        "site": "anime-planet",
+        "id": "k-on-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "k-on-live-house"
+      },
+      {
+        "site": "anime-planet",
+        "id": "k-on-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "k-on-plan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "k-on-ura-on"
+      },
+      {
+        "site": "anime-planet",
+        "id": "k-on-ura-on-2"
+      },
+      {
+        "site": "anisearch",
+        "id": "7048"
+      },
+      {
+        "site": "anisearch",
+        "id": "7069"
+      },
+      {
+        "site": "kitsu",
+        "id": "4758"
+      },
+      {
+        "site": "kitsu",
+        "id": "4833"
+      },
+      {
+        "site": "kitsu",
+        "id": "5124"
+      },
+      {
+        "site": "livechart",
+        "id": "1042"
+      },
+      {
+        "site": "livechart",
+        "id": "3302"
+      },
+      {
+        "site": "livechart",
+        "id": "3303"
+      },
+      {
+        "site": "livechart",
+        "id": "3304"
+      },
+      {
+        "site": "livechart",
+        "id": "3305"
+      },
+      {
+        "site": "livechart",
+        "id": "3306"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6862"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7017"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7791"
+      },
+      {
+        "site": "notify",
+        "id": "4n1zpKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "Z7gRtFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "tRFRpKmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/76120.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/76120t.jpg",
+    "synonyms": [
+      "!קיי-און",
+      "Hafif Müzik Kulübü",
+      "K on",
+      "K-ON",
+      "K-ON!",
+      "K-ON! Season 1",
+      "K-on",
+      "Keion",
+      "k-on 1",
+      "k-on1",
+      "keion",
+      "Клуб легкої музики!",
+      "Кэйон!",
+      "Легка музика",
+      "Лёгкая музыка",
+      "เค-อง!",
+      "けいおん",
+      "けいおん!",
+      "けいおん！",
+      "轻音少女",
+      "케이온!"
+    ]
+  },
+  {
+    "title": "シャングリ・ラ",
+    "titleTranslate": {
+      "en": [
+        "SHANGRI-LA"
+      ],
+      "zh-Hans": [
+        "香格里拉"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://web.archive.org/web/*/www.anime-shangri-la.jp/index.html",
+    "begin": "2009-04-05T15:00:00.000Z",
+    "end": "2009-09-13T15:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1445"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anime-shangrila",
+        "begin": "2020-06-15T06:00:00.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/1780/121358.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1780/121358t.jpg",
+    "synonyms": [
+      "Shangri-la",
+      "Shangrila",
+      "شانغريلا",
+      "しゃんぐりら",
+      "シャングリ・ラ",
+      "香格里拉",
+      "샹그리라"
+    ]
+  },
+  {
+    "title": "神曲奏界ポリフォニカ クリムゾンS",
+    "titleTranslate": {
+      "zh-Hans": [
+        "神曲奏界Polyphonica crimson S",
+        "神曲奏界 第2季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://web.archive.org/web/*/www.polyphonica.tv/",
+    "begin": "2009-04-04T16:30:00.000Z",
+    "end": "2009-06-20T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "lriaDAWnPP33gXsY",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrg7wqah",
+        "begin": "2014-09-12T06:28:24.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "1442"
+      },
+      {
+        "site": "nicovideo",
+        "id": "polyphonica_cs",
+        "begin": "2013-07-30T07:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "1129",
+        "begin": "2009-04-03T16:00:00.000Z",
+        "broadcast": "R/2012-10-16T13:39:29.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "4792"
+      },
+      {
+        "site": "anilist",
+        "id": "1727"
+      },
+      {
+        "site": "anime-planet",
+        "id": "polyphonica"
+      },
+      {
+        "site": "anisearch",
+        "id": "3932"
+      },
+      {
+        "site": "kitsu",
+        "id": "1548"
+      },
+      {
+        "site": "livechart",
+        "id": "4533"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1727"
+      },
+      {
+        "site": "notify",
+        "id": "b7vBcFiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1550/95575.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1550/95575t.jpg",
+    "synonyms": [
+      "Polyphonica Crimson S",
+      "Polyphonica: Crimson S",
+      "Shinkyoku Soukai Polyphonica crimson S",
+      "Shinkyoku Soukai Polyphonica: Crimson S",
+      "Shinkyoku Sōkai Polyphonica Crimson S",
+      "神曲奏界POLYPHONICA crimson S",
+      "神曲奏界ポリフォニカ crimson S",
+      "神曲奏界ポリフォニカ クリムゾンS",
+      "神曲奏界ポリフォニカcrimsonS"
+    ]
+  },
+  {
+    "title": "バスカッシュ！",
+    "titleTranslate": {
+      "en": [
+        "BASQUASH"
+      ],
+      "zh-Hans": [
+        "飞篮扣杀",
+        "机械篮球"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://basquash.com/",
+    "begin": "2009-04-02T16:30:00.000Z",
+    "end": "2009-10-01T17:15:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "YauVE3vhUYicycNg",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1419"
+      },
+      {
+        "site": "bilibili",
+        "id": "1124",
+        "begin": "2009-04-01T16:00:00.000Z",
+        "broadcast": "R/2020-11-12T02:59:00.000Z/P7D"
+      },
+      {
+        "site": "qq",
+        "id": "q/q0sx66mq40cphgf",
+        "begin": "",
+        "broadcast": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/13680.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/13680t.jpg",
+    "synonyms": [
+      "BASQUASH!",
+      "Bashquash!",
+      "Basukasshu",
+      "basquash",
+      "باسكواش!",
+      "باسکواش",
+      "ばすかっしゅ",
+      "バスカッシュ!",
+      "バスカッシュ！",
+      "飞篮扣杀"
+    ]
+  },
+  {
+    "title": "東のエデン",
+    "titleTranslate": {
+      "en": [
+        "Eden of The East"
+      ],
+      "zh-Hans": [
+        "东之伊甸"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.juiz.jp/",
+    "begin": "2009-04-09T15:45:00.000Z",
+    "end": "2009-06-18T16:15:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "8VMurBR66iaiaLCXE",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrg7wn7t",
+        "begin": "2014-09-12T06:35:48.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "1451"
+      },
+      {
+        "site": "bilibili",
+        "id": "2674",
+        "begin": "2009-04-08T16:00:00.000Z",
+        "broadcast": "R/2015-07-02T03:53:00.000Z/P7D"
+      },
+      {
+        "site": "letv",
+        "id": "7351",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "6636"
+      },
+      {
+        "site": "anidb",
+        "id": "6763"
+      },
+      {
+        "site": "anilist",
+        "id": "6372"
+      },
+      {
+        "site": "anilist",
+        "id": "6399"
+      },
+      {
+        "site": "anilist",
+        "id": "6927"
+      },
+      {
+        "site": "anime-planet",
+        "id": "eden-of-the-east-compilation-air-communication"
+      },
+      {
+        "site": "anime-planet",
+        "id": "eden-of-the-east-movie-i-the-king-of-eden"
+      },
+      {
+        "site": "anime-planet",
+        "id": "eden-of-the-east-movie-ii-paradise-lost"
+      },
+      {
+        "site": "anime-planet",
+        "id": "oasis-falling-down"
+      },
+      {
+        "site": "anisearch",
+        "id": "5258"
+      },
+      {
+        "site": "anisearch",
+        "id": "5483"
+      },
+      {
+        "site": "anisearch",
+        "id": "5501"
+      },
+      {
+        "site": "kitsu",
+        "id": "4534"
+      },
+      {
+        "site": "kitsu",
+        "id": "4547"
+      },
+      {
+        "site": "kitsu",
+        "id": "4789"
+      },
+      {
+        "site": "livechart",
+        "id": "3842"
+      },
+      {
+        "site": "livechart",
+        "id": "3888"
+      },
+      {
+        "site": "livechart",
+        "id": "7989"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6372"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6399"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6927"
+      },
+      {
+        "site": "notify",
+        "id": "NAgecKimR"
+      },
+      {
+        "site": "notify",
+        "id": "Ntie5Kmig"
+      },
+      {
+        "site": "notify",
+        "id": "hEMRpKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 11,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/15033.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/15033t.jpg",
+    "synonyms": [
+      "Eden",
+      "Eden of The East",
+      "Eden of the East",
+      "Edenul din Est",
+      "Edén del Este",
+      "Ráj východu",
+      "Wschodni Raj",
+      "Österns Paradis",
+      "Восточный Эдем",
+      "На изток от Рая",
+      "Хіґаші но Еден",
+      "עדן המזרח",
+      "جنة الشرق",
+      "ひがしのえでん",
+      "东之伊甸",
+      "東のエデン",
+      "동쪽의 에덴"
+    ]
+  },
+  {
+    "title": "リストランテ・パラディーゾ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天堂餐馆"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://web.archive.org/web/*/www.rispara.tv/",
+    "begin": "2009-04-08T17:08:00.000Z",
+    "end": "2009-06-24T17:38:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "1G9a2ECmFlS3NZ0",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1505"
+      },
+      {
+        "site": "bilibili",
+        "id": "1141",
+        "begin": "2009-04-07T16:00:00.000Z",
+        "broadcast": "R/2020-11-18T06:49:00.000Z/P7D"
+      },
+      {
+        "site": "qq",
+        "id": "d/de9i4hjubhgwo6x",
+        "begin": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 11,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/17488.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/17488t.jpg",
+    "synonyms": [
+      "Paradise Restaurant",
+      "RisPara",
+      "Rispara",
+      "Risupara",
+      "リストランテパラディーゾ",
+      "リストランテ・パラディーゾ",
+      "天堂餐馆"
+    ]
+  },
+  {
+    "title": "蒼天航路",
+    "titleTranslate": {
+      "zh-Hans": [
+        "苍天航路"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.ntv.co.jp/souten/",
+    "begin": "2009-04-07T16:14:00.000Z",
+    "end": "2009-09-29T16:29:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "0HJNyzOZCUeqKJA",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2088"
+      },
+      {
+        "site": "nicovideo",
+        "id": "souten_anime",
+        "begin": "2016-06-22T06:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "1140",
+        "begin": "2009-04-06T16:00:00.000Z",
+        "broadcast": "R/2016-05-05T06:27:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/13994.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/13994t.jpg",
+    "synonyms": [
+      "Beyond the Heavens",
+      "Soten Koro",
+      "Sōten Kōro",
+      "За Небесами",
+      "ما وراء السماء",
+      "そうてんこうろ",
+      "苍天航路",
+      "蒼天航路"
+    ]
+  },
+  {
+    "title": "ドラゴンボール改",
+    "titleTranslate": {
+      "en": [
+        "DRAGON BALL KAI"
+      ],
+      "zh-Hans": [
+        "龙珠改",
+        "七龙珠改"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/tv/dragon_kai/",
+    "begin": "2009-04-05T00:00:00.000Z",
+    "end": "2011-03-27T00:30:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb1cvx",
+        "begin": "2015-08-14T17:02:27.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "2103"
+      },
+      {
+        "site": "anidb",
+        "id": "11210"
+      },
+      {
+        "site": "anidb",
+        "id": "6399"
+      },
+      {
+        "site": "anilist",
+        "id": "11359"
+      },
+      {
+        "site": "anilist",
+        "id": "21175"
+      },
+      {
+        "site": "anilist",
+        "id": "813"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-episode-of-bardock"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-plan-to-destroy-the-saiyajin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-yo-the-return-of-son-goku-and-friends"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-atsumare-goku-world"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-battle-of-gods"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-kai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-kai-bring-peace-to-the-future-gokus-spirit-is-eternal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-1-dead-zone"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-10-broly-second-coming"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-11-bio-broly"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-12-fusion-reborn"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-13-wrath-of-the-dragon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-15-resurrection-f"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-2-the-world-s-strongest"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-3-the-tree-of-might"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-4-lord-slug"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-5-cooler-s-revenge"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-6-return-of-cooler"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-7-super-android-13"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-8-broly-the-legendary-super-saiyan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-9-bojack-unbound"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-plan-to-destroy-the-saiyajin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-special-1-bardock-the-father-of-goku"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-special-2-the-history-of-trunks"
+      },
+      {
+        "site": "anisearch",
+        "id": "10022"
+      },
+      {
+        "site": "anisearch",
+        "id": "2938"
+      },
+      {
+        "site": "kitsu",
+        "id": "10879"
+      },
+      {
+        "site": "kitsu",
+        "id": "6500"
+      },
+      {
+        "site": "kitsu",
+        "id": "720"
+      },
+      {
+        "site": "livechart",
+        "id": "3632"
+      },
+      {
+        "site": "livechart",
+        "id": "3636"
+      },
+      {
+        "site": "livechart",
+        "id": "4152"
+      },
+      {
+        "site": "livechart",
+        "id": "4177"
+      },
+      {
+        "site": "livechart",
+        "id": "4206"
+      },
+      {
+        "site": "livechart",
+        "id": "4219"
+      },
+      {
+        "site": "livechart",
+        "id": "4287"
+      },
+      {
+        "site": "livechart",
+        "id": "4294"
+      },
+      {
+        "site": "livechart",
+        "id": "4312"
+      },
+      {
+        "site": "livechart",
+        "id": "4572"
+      },
+      {
+        "site": "livechart",
+        "id": "4719"
+      },
+      {
+        "site": "livechart",
+        "id": "4815"
+      },
+      {
+        "site": "livechart",
+        "id": "4919"
+      },
+      {
+        "site": "livechart",
+        "id": "5906"
+      },
+      {
+        "site": "livechart",
+        "id": "6390"
+      },
+      {
+        "site": "myanimelist",
+        "id": "11359"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30694"
+      },
+      {
+        "site": "myanimelist",
+        "id": "813"
+      },
+      {
+        "site": "notify",
+        "id": "Mj2_pFimR"
+      },
+      {
+        "site": "notify",
+        "id": "ir-05Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "lutIpFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2014,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 61,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/59275.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/59275t.jpg",
+    "synonyms": [
+      "Bola de Drac Z Kai: Els capítols finals",
+      "DB Kai",
+      "DBK",
+      "DBZ Kai",
+      "DBZ Kai,",
+      "Dragon Ball Kai",
+      "Dragon Ball Kai: Majin Buu Saga",
+      "Dragon Ball Kai: Majinbuu Hen",
+      "Dragon Ball Z Kai: The Final Chapters",
+      "Dragonball Kai",
+      "Dragonball Z Kai: Boo-Saga",
+      "db s5",
+      "dbk2",
+      "dbkai2",
+      "دراغون بول كاي (2014)",
+      "どらごんぼーるかい",
+      "ドラゴンボール改",
+      "ドラゴンボール改 (2014)",
+      "ドラゴンボール改 魔人ブウ編",
+      "ドラゴンボール改 （2014）",
+      "龙珠改 魔人布欧篇"
+    ]
+  },
+  {
+    "title": "アラド戦記 ～スラップアップパーティー～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿拉德战记",
+        "地下城与勇士",
+        "阿拉德战记 Slap-up Party",
+        "地下城与勇士 组队篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://web.archive.org/web/*/www.sup-arad.jp/",
+    "begin": "2009-04-03T17:45:00.000Z",
+    "end": "2009-09-25T18:15:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "pZRv7VW7K2nMSrI",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "y/ye76z23ahqk7ro4",
+        "begin": ""
+      },
+      {
+        "site": "letv",
+        "id": "5334",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1593"
+      },
+      {
+        "site": "bilibili",
+        "id": "1123",
+        "begin": "2009-04-02T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "14559"
+      },
+      {
+        "site": "anidb",
+        "id": "14560"
+      },
+      {
+        "site": "anilist",
+        "id": "99884"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-fate-of-arad"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38413"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/1301/134025.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1301/134025t.jpg",
+    "synonyms": [
+      "Dungeon & Fighter - Arad Senki",
+      "Dungeon & Fighter - The Animation",
+      "Slap Up Party Arad Senki",
+      "Slap Up Party: Arad Senki",
+      "arad tv",
+      "slap up party",
+      "あらどせんきすらっぷあっぷぱーてぃー",
+      "アラド戦記 ～スラップアップパーティー～",
+      "アラド戦記~スラップアップパーティー~",
+      "スラップアップパーティ -アラド戦記-",
+      "スラップアップパーティ −アラド戦記−",
+      "地下城与勇士 -阿拉德战记"
+    ]
+  },
+  {
+    "title": "ジュエルペット",
+    "titleTranslate": {
+      "en": [
+        "Jewelpet"
+      ],
+      "zh-Hans": [
+        "宝石宠物"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.jewelpet.jp/",
+    "begin": "2009-04-05T00:30:00.000Z",
+    "end": "2010-03-28T01:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "xF4ppw915SOGBGw",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "16981"
+      },
+      {
+        "site": "letv",
+        "id": "6171",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "11076"
+      },
+      {
+        "site": "anidb",
+        "id": "11930"
+      },
+      {
+        "site": "anidb",
+        "id": "15290"
+      },
+      {
+        "site": "anidb",
+        "id": "7414"
+      },
+      {
+        "site": "anilist",
+        "id": "10359"
+      },
+      {
+        "site": "anilist",
+        "id": "113689"
+      },
+      {
+        "site": "anilist",
+        "id": "116150"
+      },
+      {
+        "site": "anilist",
+        "id": "12963"
+      },
+      {
+        "site": "anilist",
+        "id": "17497"
+      },
+      {
+        "site": "anilist",
+        "id": "20784"
+      },
+      {
+        "site": "anilist",
+        "id": "21134"
+      },
+      {
+        "site": "anilist",
+        "id": "21553"
+      },
+      {
+        "site": "anilist",
+        "id": "8217"
+      },
+      {
+        "site": "anime-planet",
+        "id": "jewelpet-attack-chance"
+      },
+      {
+        "site": "anime-planet",
+        "id": "jewelpet-happiness"
+      },
+      {
+        "site": "anime-planet",
+        "id": "jewelpet-kira-deco"
+      },
+      {
+        "site": "anime-planet",
+        "id": "jewelpet-magical-change"
+      },
+      {
+        "site": "anime-planet",
+        "id": "jewelpet-movie-2-attack-travel"
+      },
+      {
+        "site": "anime-planet",
+        "id": "jewelpet-movie-sweets-dance-princess"
+      },
+      {
+        "site": "anime-planet",
+        "id": "jewelpet-sunshine"
+      },
+      {
+        "site": "anime-planet",
+        "id": "jewelpet-twinkle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "jewelpet-twinkle-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lady-jewelpet"
+      },
+      {
+        "site": "anisearch",
+        "id": "6098"
+      },
+      {
+        "site": "anisearch",
+        "id": "7736"
+      },
+      {
+        "site": "kitsu",
+        "id": "10597"
+      },
+      {
+        "site": "kitsu",
+        "id": "11840"
+      },
+      {
+        "site": "kitsu",
+        "id": "5249"
+      },
+      {
+        "site": "kitsu",
+        "id": "6147"
+      },
+      {
+        "site": "kitsu",
+        "id": "6857"
+      },
+      {
+        "site": "kitsu",
+        "id": "6858"
+      },
+      {
+        "site": "kitsu",
+        "id": "7650"
+      },
+      {
+        "site": "kitsu",
+        "id": "8354"
+      },
+      {
+        "site": "livechart",
+        "id": "1056"
+      },
+      {
+        "site": "livechart",
+        "id": "1113"
+      },
+      {
+        "site": "livechart",
+        "id": "1406"
+      },
+      {
+        "site": "livechart",
+        "id": "1533"
+      },
+      {
+        "site": "livechart",
+        "id": "2036"
+      },
+      {
+        "site": "livechart",
+        "id": "437"
+      },
+      {
+        "site": "livechart",
+        "id": "7567"
+      },
+      {
+        "site": "livechart",
+        "id": "7751"
+      },
+      {
+        "site": "livechart",
+        "id": "821"
+      },
+      {
+        "site": "livechart",
+        "id": "9742"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10359"
+      },
+      {
+        "site": "myanimelist",
+        "id": "12963"
+      },
+      {
+        "site": "myanimelist",
+        "id": "12965"
+      },
+      {
+        "site": "myanimelist",
+        "id": "17497"
+      },
+      {
+        "site": "myanimelist",
+        "id": "22693"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30030"
+      },
+      {
+        "site": "myanimelist",
+        "id": "32707"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40808"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8217"
+      },
+      {
+        "site": "notify",
+        "id": "4EzitKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "8TzDpFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "8uu_9vYMg"
+      },
+      {
+        "site": "notify",
+        "id": "Cu4QtFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "IfzvtKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "QueTpFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "cqB5tFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "tC9npKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "tCXqtKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 52,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/20954.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/20954t.jpg",
+    "synonyms": [
+      "Jewel Pet",
+      "Jewel Pet - Zvířátka z drahokamu",
+      "Jewel Pets",
+      "Jewelpet : Le Royaume des Bijoux",
+      "Драгоценный зверушки",
+      "じゅえるぺっと",
+      "ジュエルペット",
+      "宝石宠物"
+    ]
+  },
+  {
+    "title": "真マジンガー 衝撃！Z編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "真魔神 突击！Z篇",
+        "真无敌铁金刚 冲击z篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.shin-mazinger.com/",
+    "begin": "2009-04-04T14:20:00.000Z",
+    "end": "2009-09-26T14:45:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "e7WPDXXbS4nsatI",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhbvpa9",
+        "begin": "2014-08-19T01:23:12.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "3637"
+      },
+      {
+        "site": "letv",
+        "id": "10018941",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "1126",
+        "begin": "2009-04-04T16:00:00.000Z",
+        "broadcast": "R/2019-04-25T06:47:00.000Z/P7D"
+      },
+      {
+        "site": "qq",
+        "id": "e/eqb7m0emrqrf7l0",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "950"
+      },
+      {
+        "site": "anilist",
+        "id": "2253"
+      },
+      {
+        "site": "anime-planet",
+        "id": "great-mazinger"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mazinger-z"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mazinger-z-1973"
+      },
+      {
+        "site": "anisearch",
+        "id": "1891"
+      },
+      {
+        "site": "kitsu",
+        "id": "2041"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2253"
+      },
+      {
+        "site": "notify",
+        "id": "rMDEcKmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/1022/92865.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1022/92865t.jpg",
+    "synonyms": [
+      "Mazinger Edición Z Impacto!",
+      "Mazinger Edition Z: The Impact!",
+      "Mazinger Z: Edición Impacto!",
+      "Mazinger: Shin Mazinger Shougeki! Z Hen on Television",
+      "Shin Mazinger",
+      "Shin Mazinger Edition Z: The Impact!",
+      "Shin Mazinger Shogeki! Z-Hen",
+      "Shin Mazinger Shogeki! Z-hen",
+      "Shin Mazinger Shougeki! Z Hen",
+      "Shin Mazinger Shougeki! Z Hen on Television",
+      "Shin Mazinger Shougeki! Z-Hen",
+      "Shin Mazinger Shōgeki! Z Hen",
+      "True Mazinger",
+      "True Mazinger Impact! Z Chapter",
+      "True Mazinger Impact! Z Chapter on television",
+      "Z Mazinger",
+      "مازنجر الحقيقي",
+      "真マジンガー 衝撃! Z編 on television",
+      "真マジンガー 衝撃！Z編",
+      "真マジンガー 衝撃！Z編 on television",
+      "真魔神Z",
+      "Ｚマジンガー",
+      "Ｚマジンガー; 真マジンガー 衝撃！Z編"
+    ]
+  },
+  {
+    "title": "クロスゲーム",
+    "titleTranslate": {
+      "en": [
+        "CROSS GAME"
+      ],
+      "zh-Hans": [
+        "四叶游戏"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.shopro.co.jp/tv/crossgame/",
+    "begin": "2009-04-05T01:00:00.000Z",
+    "end": "2010-03-28T01:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "y2xX1T2jE1G0Mpo",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "7/7d8pewhl60n7jbd",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1443"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 50,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/22103.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/22103t.jpg",
+    "synonyms": [
+      "crossgame",
+      "Перекрестная игра",
+      "Перехрестна гра",
+      "くろすげーむ",
+      "クロスゲーム",
+      "四葉遊戲",
+      "幸运四叶草",
+      "크로스 게임"
+    ]
+  },
+  {
+    "title": "毎日かあさん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "毎日妈妈"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.kaasan.jp/",
+    "begin": "2009-04-01T10:00:00.000Z",
+    "end": "2012-03-25T09:00:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrjz44hh",
+        "begin": "2012-06-07T09:16:44.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "125562"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 142,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/70931.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/70931t.jpg",
+    "synonyms": [
+      "Every Day Mom",
+      "Kaasan - Mom's Life",
+      "Kaasan Mom's Life",
+      "Kaasan Mom`s Life",
+      "Kaasan: Mom's Life",
+      "Mainichi Kaa-san",
+      "Mainichi Kāsan",
+      "まいにちかあさん",
+      "毎日かあさん",
+      "每日妈妈"
+    ]
+  },
+  {
+    "title": "メタルファイト ベイブレード",
+    "titleTranslate": {
+      "en": [
+        "Metalfight Beyblade"
+      ],
+      "zh-Hans": [
+        "战斗陀螺金属对决"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/mf-beyblade/",
+    "begin": "2009-04-04T23:30:00.000Z",
+    "end": "2010-03-28T00:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1998"
+      },
+      {
+        "site": "bilibili",
+        "id": "5336",
+        "begin": "2001-01-07T16:00:01.000Z",
+        "broadcast": "R/2016-07-25T06:29:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "11291"
+      },
+      {
+        "site": "anidb",
+        "id": "595"
+      },
+      {
+        "site": "anidb",
+        "id": "7426"
+      },
+      {
+        "site": "anidb",
+        "id": "7520"
+      },
+      {
+        "site": "anilist",
+        "id": "136668"
+      },
+      {
+        "site": "anilist",
+        "id": "288"
+      },
+      {
+        "site": "anilist",
+        "id": "8410"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade-burst"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade-burst-god"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade-g-revolution"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade-metal-fury"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade-metal-masters"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade-shogun-steel"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade-shogun-steel-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade-the-movie-fierce-battle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade-v-force"
+      },
+      {
+        "site": "anime-planet",
+        "id": "metal-fight-beyblade-vs-taiyou-shakunetsu-no-shinryakusha"
+      },
+      {
+        "site": "anisearch",
+        "id": "10543"
+      },
+      {
+        "site": "anisearch",
+        "id": "6096"
+      },
+      {
+        "site": "anisearch",
+        "id": "6302"
+      },
+      {
+        "site": "anisearch",
+        "id": "78"
+      },
+      {
+        "site": "kitsu",
+        "id": "263"
+      },
+      {
+        "site": "kitsu",
+        "id": "5326"
+      },
+      {
+        "site": "livechart",
+        "id": "10273"
+      },
+      {
+        "site": "livechart",
+        "id": "1122"
+      },
+      {
+        "site": "livechart",
+        "id": "1537"
+      },
+      {
+        "site": "livechart",
+        "id": "1665"
+      },
+      {
+        "site": "livechart",
+        "id": "2546"
+      },
+      {
+        "site": "livechart",
+        "id": "3092"
+      },
+      {
+        "site": "livechart",
+        "id": "5031"
+      },
+      {
+        "site": "livechart",
+        "id": "5235"
+      },
+      {
+        "site": "livechart",
+        "id": "5321"
+      },
+      {
+        "site": "livechart",
+        "id": "5324"
+      },
+      {
+        "site": "livechart",
+        "id": "6592"
+      },
+      {
+        "site": "livechart",
+        "id": "6655"
+      },
+      {
+        "site": "livechart",
+        "id": "6747"
+      },
+      {
+        "site": "livechart",
+        "id": "9228"
+      },
+      {
+        "site": "livechart",
+        "id": "9832"
+      },
+      {
+        "site": "myanimelist",
+        "id": "288"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31049"
+      },
+      {
+        "site": "myanimelist",
+        "id": "56566"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8410"
+      },
+      {
+        "site": "notify",
+        "id": "D2KmtFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "DazbblkSg"
+      },
+      {
+        "site": "notify",
+        "id": "sSh2cKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 51,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/21387.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/21387t.jpg",
+    "synonyms": [
+      "BEYBLADE",
+      "Bayblade Metal Fusion",
+      "Beyblade Metal Fusion",
+      "Beyblade metal fusion",
+      "Beyblade(2)",
+      "Beyblade: Metal Fusion",
+      "בייבלייד - עידן המתכת",
+      "בייבלייד: עידן המתכת",
+      "بي بليد المعركة الحديدية",
+      "めたるふぁいとべいぶれーど",
+      "メタルファイト ベイブレード",
+      "战斗陀螺金属对决"
+    ]
+  },
+  {
+    "title": "ヒゲぴよ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "胡子小鸡",
+        "胡须鸡仔"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.higepiyo-tv.com/",
+    "begin": "2009-04-03T09:20:00.000Z",
+    "end": "2010-02-19T09:54:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "RIaCAGjOPnzfXcU",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1467"
+      },
+      {
+        "site": "bilibili",
+        "id": "1122",
+        "begin": "2009-04-02T16:00:00.000Z",
+        "broadcast": "R/2011-04-02T16:05:03.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 39,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/23125.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/23125t.jpg",
+    "synonyms": [
+      "Hige Piyo",
+      "Higepiyo - Ūsuotas Viščiukas",
+      "Mustache-Peep",
+      "Хигепио",
+      "ひげぴよ",
+      "ひげぴよ, ヒゲぴよ",
+      "ヒゲぴよ",
+      "胡子小鸡"
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん オタケベ！カスカベ野生王国",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新 春日部野生王国"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.shinchan-movie.com/",
+    "begin": "2009-04-18T16:00:00.000Z",
+    "end": "2009-04-18T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "3aGLCXHXR4XoZs4",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "begin": "",
+        "url": "http://www.iqiyi.com/dongman/20130715/dea630dffb9ba638.html"
+      },
+      {
+        "site": "bangumi",
+        "id": "8998"
+      },
+      {
+        "site": "qq",
+        "id": "b/bymafsjpccgo4bw",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "10532",
+        "begin": "2009-04-17T16:00:01.000Z",
+        "broadcast": "R/2017-12-04T08:47:00.000Z/P7D"
+      },
+      {
+        "site": "youku",
+        "id": "f10edbba61ad11e0bea1",
+        "begin": "2012-11-27T17:48:22.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "708"
+      },
+      {
+        "site": "anilist",
+        "id": "8367"
+      },
+      {
+        "site": "anilist",
+        "id": "8369"
+      },
+      {
+        "site": "anilist",
+        "id": "966"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-arashi-o-yobu-ora-to-uchuu-no-princess"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-arashi-o-yobu-utau-ketsu-dake-bakudan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-chou-jikuu-arashi-wo-yobu-ora-no-hanayome"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-1-action-kamen-vs-daigure-maou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-10-arashi-wo-yobu-appare-sengoku-daikassen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-11-arashi-wo-yobu-eikou-no-yakiniku-road"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-12-arashi-wo-yobu-yuuhi-no-kasukabe-boys"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-13-densetsu-wo-yobu-buriburi-3-pun-dai-shingeki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-14-densetsu-wo-yobu-odore-amigo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-16-chou-arashi-wo-yobu-kinpoko-no-yuusha"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-19-arashi-wo-yobu-ougon-no-spy-daisakusen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-2-buriburi-oukoku-no-hihou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-21-bakauma-b-kyuu-gourmet-survival-battle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-22-gachinko-gyakushuu-no-robo-to-chan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-23-ora-no-hikkoshi-monogatari-saboten-dai-shuugeki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-24-bakusui-yumemi-world-dai-totsugeki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-25-shurai-uchujin-shiriri"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-26-bakumori-kung-fu-boys-ramen-tairan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-27-shinkon-ryokou-hurricane-ushinawareta-hiroshi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-28-gekitotsu-rakuga-kingdom-to-hobo-yonin-no-yuusha"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-29-nazo-meki-hana-no-tenkasu-gakuen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-3-unkokusai-no-yabou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-4-henderland-no-daibouken"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-5-ankoku-tamatama-daitsuiseki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-6-dengeki-buta-no-hizume-daisakusen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-7-bakuhatsu-onsen-wakuwaku-daikessen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-8-arashi-wo-yobu-jungle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-9-the-adult-empire-strikes-back"
+      },
+      {
+        "site": "anisearch",
+        "id": "178"
+      },
+      {
+        "site": "kitsu",
+        "id": "5316"
+      },
+      {
+        "site": "kitsu",
+        "id": "5318"
+      },
+      {
+        "site": "kitsu",
+        "id": "856"
+      },
+      {
+        "site": "livechart",
+        "id": "1608"
+      },
+      {
+        "site": "livechart",
+        "id": "7211"
+      },
+      {
+        "site": "livechart",
+        "id": "7625"
+      },
+      {
+        "site": "livechart",
+        "id": "8546"
+      },
+      {
+        "site": "livechart",
+        "id": "8547"
+      },
+      {
+        "site": "livechart",
+        "id": "8591"
+      },
+      {
+        "site": "livechart",
+        "id": "8622"
+      },
+      {
+        "site": "livechart",
+        "id": "8624"
+      },
+      {
+        "site": "livechart",
+        "id": "8625"
+      },
+      {
+        "site": "livechart",
+        "id": "8626"
+      },
+      {
+        "site": "livechart",
+        "id": "8627"
+      },
+      {
+        "site": "livechart",
+        "id": "8628"
+      },
+      {
+        "site": "livechart",
+        "id": "8629"
+      },
+      {
+        "site": "livechart",
+        "id": "8630"
+      },
+      {
+        "site": "livechart",
+        "id": "8631"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8367"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8369"
+      },
+      {
+        "site": "myanimelist",
+        "id": "966"
+      },
+      {
+        "site": "notify",
+        "id": "H-vJ5Fimg"
+      },
+      {
+        "site": "notify",
+        "id": "H3DipKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "w7OitKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/22032.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/22032t.jpg",
+    "synonyms": [
+      "Crayon Shin-Chan Movie 17",
+      "Crayon Shin-chan - Film 17",
+      "Crayon Shin-chan Movie 17",
+      "Crayon Shin-chan: Otakebe! Kasukabe Animal Kingdom",
+      "Crayon Shin-chan: Otakebe! Kasukabe Yasei Oukoku",
+      "Crayon Shin-chan: Otakebe! Kasukabe Yasei Ōkoku",
+      "Crayon Shin-chan: Roar! Kasukabe Animal Kingdom",
+      "Crayon Shinchan the Movie 17: Roar! Kasukabe Animal Kingdom",
+      "Eiga Crayon Shin-chan: Otakebe! Kasukabe Yasei Oukoku",
+      "Shin Chan Película 17: Esto es una Animalada",
+      "Shin Chan: ¡Esto es una animalada!",
+      "Shin-Chan - Transformação Animal em Kasukabe",
+      "Shin-chan: ¡Esto es una animalada!",
+      "クレヨンしんちゃん オタケベ!カスカベ野生王国",
+      "クレヨンしんちゃん オタケベ！カスカベ野生王国",
+      "映画 クレヨンしんちゃん オタケベ! カスカベ野生王国",
+      "映画クレヨンしんちゃん オタケベ！ カスカベ野生王国",
+      "蜡笔小新 春日部野生王国"
+    ]
+  },
+  {
+    "title": "名探偵コナン 漆黒の追跡者",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 漆黑的追迹者"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "2009-04-18T16:00:00.000Z",
+    "end": "2009-04-18T17:40:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zual",
+        "begin": "2016-11-11T08:33:52.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "2783"
+      },
+      {
+        "site": "pptv",
+        "id": "NQHradE3pibVIxia4",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "b/bu8qr3h1vbia2kd",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "00e9fa62b34111e0a046",
+        "begin": "2013-03-19T13:39:19.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228955",
+        "begin": "2020-05-21T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "266"
+      },
+      {
+        "site": "anidb",
+        "id": "7232"
+      },
+      {
+        "site": "anilist",
+        "id": "235"
+      },
+      {
+        "site": "anilist",
+        "id": "6231"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-countdown-to-heaven"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-crossroad-in-the-ancient-capital"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-full-score-of-fear"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-jolly-roger-in-the-deep-azure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-magician-of-the-silver-sky"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-14-the-lost-ship-in-the-sky"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-15-quarter-of-silence"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-18-the-sniper-from-another-dimension"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-19-the-hellfire-sunflowers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-20-the-darkest-nightmare"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-21-the-crimson-love-letter"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-22-zero-the-enforcer"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-23-the-fist-of-blue-sapphire"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-24-the-scarlet-bullet"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-3-the-last-magician-of-the-century"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-4-captured-in-her-eyes"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-6-the-phantom-of-baker-street"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-9-strategy-above-the-depths"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-the-eleventh-striker"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-the-fourteenth-target"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-the-private-eyes-requiem"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-the-time-bombed-skyscraper"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-zekkai-no-private-eye"
+      },
+      {
+        "site": "anisearch",
+        "id": "1721"
+      },
+      {
+        "site": "anisearch",
+        "id": "5424"
+      },
+      {
+        "site": "kitsu",
+        "id": "210"
+      },
+      {
+        "site": "kitsu",
+        "id": "4487"
+      },
+      {
+        "site": "livechart",
+        "id": "319"
+      },
+      {
+        "site": "livechart",
+        "id": "4579"
+      },
+      {
+        "site": "livechart",
+        "id": "4615"
+      },
+      {
+        "site": "livechart",
+        "id": "4634"
+      },
+      {
+        "site": "livechart",
+        "id": "4688"
+      },
+      {
+        "site": "livechart",
+        "id": "4710"
+      },
+      {
+        "site": "livechart",
+        "id": "4732"
+      },
+      {
+        "site": "livechart",
+        "id": "4783"
+      },
+      {
+        "site": "livechart",
+        "id": "4809"
+      },
+      {
+        "site": "livechart",
+        "id": "6391"
+      },
+      {
+        "site": "livechart",
+        "id": "6392"
+      },
+      {
+        "site": "livechart",
+        "id": "6400"
+      },
+      {
+        "site": "livechart",
+        "id": "6411"
+      },
+      {
+        "site": "livechart",
+        "id": "6441"
+      },
+      {
+        "site": "livechart",
+        "id": "8185"
+      },
+      {
+        "site": "myanimelist",
+        "id": "235"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6231"
+      },
+      {
+        "site": "notify",
+        "id": "bZl3cFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "lWnhcKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/22558.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/22558t.jpg",
+    "synonyms": [
+      "Case Closed Movie 13",
+      "Case Closed: The Jet Black Chaser",
+      "Case Closed: The Raven Chaser",
+      "DC M13",
+      "Dedektif Conan: Gizemli Avcı",
+      "Detective Conan 13 - El perseguidor negro",
+      "Detective Conan Film 13: Le Chasseur Noir de Jais",
+      "Detective Conan Movie 13",
+      "Detective Conan Movie 13: ...E le stelle stanno a guardare",
+      "Detective Conan Película 13: El Perseguidor Negro",
+      "Detective Conan: ...E Le Stelle Stanno A Guardare",
+      "Detective Conan: El perseguidor negro",
+      "Detective Conan: Movie 13",
+      "Detective Conan: The Jet Black Chaser",
+      "Detective Conan: The Raven Chaser",
+      "Detective Conan: … E le stelle stanno a guardare",
+      "Detektiv Conan - 13. Film: Der nachtschwarze Jäger",
+      "Detektiv Conan Film 13",
+      "Detektiv Conan Film 13: Der nachtschwarze Jäger",
+      "Detektiv Conan: Der nachtschwarze Jäger",
+      "Détective Conan: Le Chasseur Noir de Jais",
+      "Meitantei Conan Movie 13",
+      "Meitantei Conan Movie 13: Shikkoku no Chaser",
+      "Meitantei Conan Movie 13: The Raven Chaser",
+      "Meitantei Conan: Shikkoku no Chaser",
+      "Детектив Конан: Гарван преследвач",
+      "المحقق كونان: مطارد الغراب",
+      "劇場版 名探偵コナン 漆黒の追跡者(チェイサー)",
+      "名探偵コナン 漆黒の追跡者",
+      "名探偵コナン 漆黒の追跡者(チェイサー)",
+      "名探偵コナン漆黒の追跡者(チェイサー)"
+    ]
+  },
+  {
+    "title": "ゆるめいつ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "希望宅邸"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2009-04-24T16:00:00.000Z",
+    "end": "2009-04-24T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "DUE7uSGH9zWYFn4",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "12655"
+      },
+      {
+        "site": "bilibili",
+        "id": "775",
+        "begin": "2012-04-02T16:00:00.000Z",
+        "broadcast": "R/2012-04-02T18:14:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "8253"
+      },
+      {
+        "site": "anilist",
+        "id": "11699"
+      },
+      {
+        "site": "anilist",
+        "id": "12123"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yurumates-2012"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yurumates-3d"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yurumates-3d-plus"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yurumates-wa"
+      },
+      {
+        "site": "anisearch",
+        "id": "6884"
+      },
+      {
+        "site": "kitsu",
+        "id": "6568"
+      },
+      {
+        "site": "kitsu",
+        "id": "6669"
+      },
+      {
+        "site": "myanimelist",
+        "id": "11699"
+      },
+      {
+        "site": "myanimelist",
+        "id": "12123"
+      },
+      {
+        "site": "notify",
+        "id": "594HtFmig"
+      },
+      {
+        "site": "notify",
+        "id": "qMUSpFiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/13506.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/13506t.jpg",
+    "synonyms": [
+      "Yurumeitsu",
+      "ゆるめいつ"
+    ]
+  },
+  {
+    "title": "ToHeart2 adplus",
+    "titleTranslate": {
+      "zh-Hans": [
+        "心之彼端2 Adplus"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://aquaplus.jp/th2adplus/",
+    "begin": "2009-04-24T16:00:00.000Z",
+    "end": "2009-10-07T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1011"
+      },
+      {
+        "site": "nicovideo",
+        "id": "th2adplus",
+        "begin": "2012-03-03T13:30:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "4051",
+        "begin": "2016-05-25T03:36:00.000Z",
+        "broadcast": "R/2016-05-25T03:36:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "5592"
+      },
+      {
+        "site": "anidb",
+        "id": "7624"
+      },
+      {
+        "site": "anilist",
+        "id": "4166"
+      },
+      {
+        "site": "anilist",
+        "id": "9005"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-2-ad-next"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-2-ad-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-2-dungeon-travelers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-2-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-2-special-compilation"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-remember-my-memories"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-remember-my-memories-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-heart-specials"
+      },
+      {
+        "site": "anisearch",
+        "id": "4676"
+      },
+      {
+        "site": "anisearch",
+        "id": "6489"
+      },
+      {
+        "site": "kitsu",
+        "id": "3500"
+      },
+      {
+        "site": "kitsu",
+        "id": "5570"
+      },
+      {
+        "site": "livechart",
+        "id": "5093"
+      },
+      {
+        "site": "livechart",
+        "id": "5477"
+      },
+      {
+        "site": "livechart",
+        "id": "5964"
+      },
+      {
+        "site": "livechart",
+        "id": "6011"
+      },
+      {
+        "site": "livechart",
+        "id": "6038"
+      },
+      {
+        "site": "livechart",
+        "id": "6447"
+      },
+      {
+        "site": "livechart",
+        "id": "6648"
+      },
+      {
+        "site": "livechart",
+        "id": "7451"
+      },
+      {
+        "site": "livechart",
+        "id": "7806"
+      },
+      {
+        "site": "livechart",
+        "id": "9343"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4166"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9005"
+      },
+      {
+        "site": "notify",
+        "id": "NLFu5KmiR"
+      },
+      {
+        "site": "notify",
+        "id": "l-tZtFimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/74022.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/74022t.jpg",
+    "synonyms": [
+      "To Heart 2 ad Plus",
+      "To Heart 2 adplus",
+      "To Heart 2: Another Days Plus",
+      "ToHeart 2: Another Days Plus",
+      "ToHeart2 adplus",
+      "ToHeart2adplus",
+      "Для сердца 2: Другие дни — Продолжение",
+      "とぅーはーとつーえーでぃーぷらす",
+      "トゥハート2 adplus"
+    ]
+  },
+  {
+    "title": "天上人とアクト人最後の戦い",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天上人与亚克托人最后的战斗"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2009-04-18T16:00:00.000Z",
+    "end": "2009-04-18T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2454"
+      },
+      {
+        "site": "anidb",
+        "id": "2181"
+      },
+      {
+        "site": "anidb",
+        "id": "6263"
+      },
+      {
+        "site": "anilist",
+        "id": "5702"
+      },
+      {
+        "site": "anime-planet",
+        "id": "munto"
+      },
+      {
+        "site": "anime-planet",
+        "id": "munto-2-beyond-the-walls-of-time"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sora-wo-miageru-shoujo-no-hitomi-ni-utsuru-sekai"
+      },
+      {
+        "site": "anisearch",
+        "id": "5145"
+      },
+      {
+        "site": "kitsu",
+        "id": "4251"
+      },
+      {
+        "site": "livechart",
+        "id": "4252"
+      },
+      {
+        "site": "livechart",
+        "id": "5815"
+      },
+      {
+        "site": "livechart",
+        "id": "5904"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5702"
+      },
+      {
+        "site": "notify",
+        "id": "2alCcKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/28140.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/28140t.jpg",
+    "synonyms": [
+      "Gekijouban Munto",
+      "Gekijouban Munto Tenjounin to Akutonin Saigo no Tatakai",
+      "Gekijōban Munto Tenjōnin to Akutonin Saigo no Tatakai",
+      "Last War of Heavenloids and Akutoloids",
+      "Munto Finale",
+      "Munto Movie",
+      "Munto Movie: Tenjoubito to Akutobito Saigo no Tatakai",
+      "Munto3",
+      "Munto: The Movie",
+      "Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai Movie",
+      "Tenjou-bito to Akuto-bito Saigo no Tatakai",
+      "Tenjou-jin to Akuto-jin Saigo no Tatakai",
+      "The World Reflected in the Eyes of a Girl Looking Up at the Heavens Movie",
+      "劇場版ムント",
+      "劇場版ムント 天上人とアクト人 最後の戦い",
+      "劇場版空を見上げる少女の瞳に映る世界",
+      "天上人とアクト人最後の戦い",
+      "天上人とアクト人最後の戦い Last war of Heavenloids and Akutoloids",
+      "天上人与亚克托人最后的战斗"
+    ]
+  },
+  {
+    "title": "劇場版 天元突破グレンラガン 螺巌篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天元突破红莲螺岩 螺岩篇"
+      ],
+      "zh-Hant": [
+        "天元突破 紅蓮螺巖 螺巖篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.gurren-lagann-movie.net/",
+    "begin": "2009-04-25T16:00:00.000Z",
+    "end": "2009-04-25T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3996"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gurren-lagann-movie-lagann",
+        "begin": "2018-05-31T15:00:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "m/mke5ph5agqe154z",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "22665",
+        "begin": "2021-02-28T16:00:00.000Z",
+        "broadcast": "R/2021-02-28T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "24789198",
+        "begin": "2014-08-01T11:16:00.000Z",
+        "broadcast": "R/2014-08-01T11:16:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "4575"
+      },
+      {
+        "site": "anidb",
+        "id": "5783"
+      },
+      {
+        "site": "anilist",
+        "id": "2001"
+      },
+      {
+        "site": "anilist",
+        "id": "4107"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gurren-lagann-movie-1-childhoods-end"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tengen-toppa-gurren-lagann"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tengen-toppa-gurren-lagann-gekijouban-zenyasai-special-virals-sweet-dream"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tengen-toppa-gurren-lagann-kirameki-yoko-box-pieces-of-sweet-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tengen-toppa-gurren-lagann-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tengen-toppa-gurren-lagann-parallel-works"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tengen-toppa-gurren-lagann-parallel-works-2"
+      },
+      {
+        "site": "anisearch",
+        "id": "3711"
+      },
+      {
+        "site": "anisearch",
+        "id": "4842"
+      },
+      {
+        "site": "kitsu",
+        "id": "1801"
+      },
+      {
+        "site": "kitsu",
+        "id": "3471"
+      },
+      {
+        "site": "livechart",
+        "id": "3583"
+      },
+      {
+        "site": "livechart",
+        "id": "3819"
+      },
+      {
+        "site": "livechart",
+        "id": "4520"
+      },
+      {
+        "site": "livechart",
+        "id": "4535"
+      },
+      {
+        "site": "livechart",
+        "id": "4558"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2001"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4107"
+      },
+      {
+        "site": "notify",
+        "id": "D7dYcKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "VMNX5Fmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/19698.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/19698t.jpg",
+    "synonyms": [
+      "Gekijouban Tengen Toppa Gurren Lagann: Lagann Hen",
+      "Gekijouban Tengen Toppa Gurren Lagann: Lagann-hen",
+      "Gekijōban Tengen Toppa Gurren Lagann: Lagann-hen",
+      "Gurren Lagann Movie 2: The Lights in the Sky Are Stars",
+      "Gurren Lagann Película II: Las Luces en el Cielo son Estrellas",
+      "Gurren Lagann The Movie: The Lights in the Sky are Stars",
+      "Gurren Lagann the Movie: The Lights in the Sky Are Stars",
+      "Gurren Lagann. Película 2: Las luces del cielo son estrellas",
+      "Gurren Lagann: The Movie II",
+      "Gurren-Lagann Movie: Lagann Arc",
+      "Tengen Toppa Gurren Lagann Movie 2",
+      "Tengen Toppa Gurren Lagann The Movie: Spiral Stone Chapter",
+      "Tengen Toppa Gurren Lagann: Lagann-hen",
+      "ttgl movie 2",
+      "Гуррен Лаганн: Арката Лаганн",
+      "劇場版 天元突破グレンラガン 螺巌篇",
+      "天元突破グレンラガン 螺巌篇",
+      "극장판 천원돌파 그렌라간: 나암편"
+    ]
+  }
+]

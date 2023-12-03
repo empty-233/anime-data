@@ -1,99 +1,339 @@
-{
-  "title": "鲤氏侦探事务所",
-  "titleTranslate": {
-    "zh-Hans": [
-      "鲤氏侦探事务所"
+[
+  {
+    "title": "僕とロボコ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我与机器妹",
+        "我与机器子"
+      ],
+      "zh-Hant": [
+        "我與機器子"
+      ],
+      "en": [
+        "ME & ROBOCO"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://boku-to-roboco.com/",
+    "begin": "2022-12-04T15:40:00.000Z",
+    "broadcast": "R/2022-12-04T15:40:00.000Z/P7D",
+    "end": "2023-06-18T15:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "385411"
+      },
+      {
+        "site": "mytv",
+        "id": "meroboco_137333",
+        "begin": "2022-12-04T17:00:00.000Z",
+        "broadcast": "R/2022-12-04T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "125724",
+        "begin": "2022-12-04T17:00:00.000Z",
+        "broadcast": "R/2022-12-04T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "18068"
+      },
+      {
+        "site": "anilist",
+        "id": "166249"
+      },
+      {
+        "site": "anime-planet",
+        "id": "me-roboco-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "18463"
+      },
+      {
+        "site": "kitsu",
+        "id": "47637"
+      },
+      {
+        "site": "livechart",
+        "id": "12114"
+      },
+      {
+        "site": "myanimelist",
+        "id": "55709"
+      },
+      {
+        "site": "notify",
+        "id": "-SLLn5uVR"
+      }
     ],
-    "zh-Hant": [
-      "鯉氏偵探事務所"
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2023,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 28,
+    "picture": "https://cdn.myanimelist.net/images/anime/1986/134747.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1986/134747t.jpg",
+    "synonyms": [
+      "Boku to Roboco",
+      "ME & ROBOCO",
+      "Me & Roboco",
+      "Me and Roboco",
+      "Roboco and I",
+      "ผมกับโรโบโกะ หุ่นเมดพันธุ์ซ่า",
+      "僕とロボコ",
+      "我与机器妹"
     ]
   },
-  "type": "web",
-  "lang": "ja",
-  "officialSite": "https://ak.hypergryph.com/lee",
-  "begin": "2022-12-23T11:00:00.000Z",
-  "broadcast": "R/2022-12-23T11:00:00.000Z/P7D",
-  "end": "2023-02-02T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "383649"
+  {
+    "title": "七つの大罪 怨嗟のエジンバラ 前編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "七大罪 怨嗟的爱丁堡 前篇",
+        "七大罪：爱丁堡的恩怨 1"
+      ],
+      "zh-Hant": [
+        "七大罪：愛丁堡的恩怨 1"
+      ],
+      "en": [
+        "The Seven Deadly Sins: Grudge of Edinburgh Part 1"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "28351529",
-      "begin": "2022-12-23T11:00:01.000Z",
-      "broadcast": "R/2022-12-23T11:00:01.000Z/P7D",
-      "comment": "中配: 28351530"
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-12-19T16:00:00.000Z",
+    "end": "2022-12-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "356670"
+      },
+      {
+        "site": "netflix",
+        "id": "81302750",
+        "begin": "2022-12-20T00:00:00.000Z",
+        "broadcast": "R/2022-12-20T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "15997"
+      },
+      {
+        "site": "anilist",
+        "id": "128740"
+      },
+      {
+        "site": "anilist",
+        "id": "162291"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-seven-deadly-sins-dragons-judgement"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-seven-deadly-sins-grudge-of-edinburgh-part-ii"
+      },
+      {
+        "site": "anisearch",
+        "id": "15918"
+      },
+      {
+        "site": "kitsu",
+        "id": "43458"
+      },
+      {
+        "site": "kitsu",
+        "id": "47155"
+      },
+      {
+        "site": "livechart",
+        "id": "10292"
+      },
+      {
+        "site": "livechart",
+        "id": "10358"
+      },
+      {
+        "site": "livechart",
+        "id": "11213"
+      },
+      {
+        "site": "livechart",
+        "id": "1447"
+      },
+      {
+        "site": "livechart",
+        "id": "1844"
+      },
+      {
+        "site": "livechart",
+        "id": "2333"
+      },
+      {
+        "site": "livechart",
+        "id": "2796"
+      },
+      {
+        "site": "livechart",
+        "id": "527"
+      },
+      {
+        "site": "livechart",
+        "id": "9410"
+      },
+      {
+        "site": "livechart",
+        "id": "9851"
+      },
+      {
+        "site": "myanimelist",
+        "id": "41491"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53911"
+      },
+      {
+        "site": "notify",
+        "id": "FxQcV8j4g"
+      },
+      {
+        "site": "notify",
+        "id": "mhYRwj9Wg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2022,
+      "month": "12"
     },
-    {
-      "site": "anilist",
-      "id": "140665"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lees-detective-agency-a-day-in-lungmen"
-    },
-    {
-      "site": "anisearch",
-      "id": "17932"
-    },
-    {
-      "site": "kitsu",
-      "id": "46897"
-    },
-    {
-      "site": "livechart",
-      "id": "10853"
-    },
-    {
-      "site": "livechart",
-      "id": "11719"
-    },
-    {
-      "site": "livechart",
-      "id": "11735"
-    },
-    {
-      "site": "livechart",
-      "id": "12380"
-    },
-    {
-      "site": "myanimelist",
-      "id": "53852"
-    },
-    {
-      "site": "notify",
-      "id": "QWuLZPA4g"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 2023,
-    "month": "12"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1343/131784.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1343/131784t.jpg",
+    "synonyms": [
+      "Nanatsu no Taizai Movie: Ensa no Edinburgh",
+      "Nanatsu no Taizai: Ensa no Edinburgh - Zenpen",
+      "Nanatsu no Taizai: Ensa no Edinburgh Part 1",
+      "The Seven Deadly Sins : Grudge of Edinburgh",
+      "The Seven Deadly Sins: El Rencor de Edimburgo",
+      "The Seven Deadly Sins: El rencor de Edimburgo",
+      "The Seven Deadly Sins: Grudge of Edinburgh",
+      "The Seven Deadly Sins: Grudge of Edinburgh Part 1",
+      "sds (2022)",
+      "Сім смертних гріхів: Гнів Единбургу. Частина 1",
+      "ศึกตำนาน 7 อัศวิน: แค้นเอดินเบอระ",
+      "七つの大罪 怨嗟のエジンバラ",
+      "七つの大罪 怨嗟のエジンバラ 前編",
+      "七つの大罪　怨嗟のエジンバラ",
+      "七大罪 怨嗟的爱丁堡"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1614/133158.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1614/133158t.jpg",
-  "synonyms": [
-    "Lee Shi Zhentan Shiwusuo: Once Upon a Time in Lungmen",
-    "Lee Tantei Jimusho",
-    "Lee's Detective Agency - Special Episode",
-    "Lee's Detective Agency Specials",
-    "Lee's Detective Agency: Once Upon a Time in Lungmen",
-    "Lee’s Detective Agency : Il était une fois à Lungmen",
-    "Lee’s Detective Agency: C’era una volta a Lungmen",
-    "Lee’s Detective Agency: Especial",
-    "Lee’s Detective Agency: Once upon a Time in Lungmen",
-    "Li Shi Zhen Tan Shi Wu Suo: Once upon a Time in Lungmen",
-    "Li Shi Zhentan Shiwusuo Specials",
-    "Li Shi Zhentan Shiwusuo: A Day in Lungmen Special",
-    "Li Shi Zhentan Shiwusuo: Once upon a Time in Lungmen",
-    "リー探偵事務所",
-    "鯉氏偵探事務所",
-    "鲤氏侦探事务所",
-    "鲤氏侦探事务所 Once Upon a Time in Lungmen"
-  ]
-}
+  {
+    "title": "鲤氏侦探事务所",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲤氏侦探事务所"
+      ],
+      "zh-Hant": [
+        "鯉氏偵探事務所"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://ak.hypergryph.com/lee",
+    "begin": "2022-12-23T11:00:00.000Z",
+    "broadcast": "R/2022-12-23T11:00:00.000Z/P7D",
+    "end": "2023-02-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "383649"
+      },
+      {
+        "site": "bilibili",
+        "id": "28351529",
+        "begin": "2022-12-23T11:00:01.000Z",
+        "broadcast": "R/2022-12-23T11:00:01.000Z/P7D",
+        "comment": "中配: 28351530"
+      },
+      {
+        "site": "anilist",
+        "id": "140665"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lees-detective-agency-a-day-in-lungmen"
+      },
+      {
+        "site": "anisearch",
+        "id": "17932"
+      },
+      {
+        "site": "kitsu",
+        "id": "46897"
+      },
+      {
+        "site": "livechart",
+        "id": "10853"
+      },
+      {
+        "site": "livechart",
+        "id": "11719"
+      },
+      {
+        "site": "livechart",
+        "id": "11735"
+      },
+      {
+        "site": "livechart",
+        "id": "12380"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53852"
+      },
+      {
+        "site": "notify",
+        "id": "QWuLZPA4g"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2023,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1614/133158.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1614/133158t.jpg",
+    "synonyms": [
+      "Lee Shi Zhentan Shiwusuo: Once Upon a Time in Lungmen",
+      "Lee Tantei Jimusho",
+      "Lee's Detective Agency - Special Episode",
+      "Lee's Detective Agency Specials",
+      "Lee's Detective Agency: Once Upon a Time in Lungmen",
+      "Lee’s Detective Agency : Il était une fois à Lungmen",
+      "Lee’s Detective Agency: C’era una volta a Lungmen",
+      "Lee’s Detective Agency: Especial",
+      "Lee’s Detective Agency: Once upon a Time in Lungmen",
+      "Li Shi Zhen Tan Shi Wu Suo: Once upon a Time in Lungmen",
+      "Li Shi Zhentan Shiwusuo Specials",
+      "Li Shi Zhentan Shiwusuo: A Day in Lungmen Special",
+      "Li Shi Zhentan Shiwusuo: Once upon a Time in Lungmen",
+      "リー探偵事務所",
+      "鯉氏偵探事務所",
+      "鲤氏侦探事务所",
+      "鲤氏侦探事务所 Once Upon a Time in Lungmen"
+    ]
+  }
+]

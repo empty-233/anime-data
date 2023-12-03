@@ -1,48 +1,691 @@
-{
-  "title": "メタルファイター♥MIKU",
-  "titleTranslate": {
-    "zh-Hans": [
-      "重装甲少女组"
+[
+  {
+    "title": "ルパン三世 燃えよ斬鉄剣",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世：燃烧的斩铁剑"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://lupin-3rd.net/sakuhin_tvsp.html",
+    "begin": "1994-07-29T16:00:00.000Z",
+    "end": "1994-07-29T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "54372"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lupin-3rd-SP",
+        "begin": ""
+      },
+      {
+        "site": "pptv",
+        "id": "ibZ32dNxCsvBT0Tk",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3937",
+        "begin": "1994-07-28T16:00:01.000Z",
+        "broadcast": "R/2021-03-31T12:08:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1485"
+      },
+      {
+        "site": "anilist",
+        "id": "1412"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-iii-special-19-the-elusiveness-of-the-fog"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-dead-or-alive"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-farewall-to-nostradamus"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-goemons-blood-spray"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-green-vs-red"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-jigens-gravestone"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-legend-of-the-gold-of-babylon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-lupin-family-all-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-4"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-pilot-film"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-return-of-pycal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-secret-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-1-bye-bye-lady-liberty"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-11-the-columbus-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-12-missed-by-a-dollar"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-13-alcatraz-connection"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-14-episode-0-first-contact"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-15-operation-return-the-treasures"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-16-stolen-lupin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-17-angel-tactics"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-18-seven-days-rhapsody"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-2-the-hemingway-papers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-20-sweet-lost-night"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-21-lupin-the-third-vs-detective-conan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-22-the-last-job"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-23-blood-seal-of-the-eternal-mermaid"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-24-touhou-kenbunroku-another-page"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-25-princess-of-the-breeze-kakusareta-kuuchuu-toshi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-26-italian-game"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-27-goodbye-partner"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-3-napoleons-dictionary"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-4-from-siberia-with-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-5-voyage-to-danger"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-8-secret-of-the-twilight-gemini"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-9-island-of-assassins"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-speical-10-crisis-in-tokyo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-castle-of-cagliostro"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-first"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-fuma-conspiracy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-mystery-of-mamo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-woman-called-fujiko-mine"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-pursuit-of-harimaos-treasure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-viii-arsene-and-cie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "monkey-majik-lupin-the-third"
+      },
+      {
+        "site": "anisearch",
+        "id": "1138"
+      },
+      {
+        "site": "kitsu",
+        "id": "1265"
+      },
+      {
+        "site": "livechart",
+        "id": "12098"
+      },
+      {
+        "site": "livechart",
+        "id": "12099"
+      },
+      {
+        "site": "livechart",
+        "id": "4165"
+      },
+      {
+        "site": "livechart",
+        "id": "4320"
+      },
+      {
+        "site": "livechart",
+        "id": "5905"
+      },
+      {
+        "site": "livechart",
+        "id": "6281"
+      },
+      {
+        "site": "livechart",
+        "id": "6402"
+      },
+      {
+        "site": "livechart",
+        "id": "6731"
+      },
+      {
+        "site": "livechart",
+        "id": "7324"
+      },
+      {
+        "site": "livechart",
+        "id": "7545"
+      },
+      {
+        "site": "livechart",
+        "id": "7552"
+      },
+      {
+        "site": "livechart",
+        "id": "7772"
+      },
+      {
+        "site": "livechart",
+        "id": "8223"
+      },
+      {
+        "site": "livechart",
+        "id": "9298"
+      },
+      {
+        "site": "livechart",
+        "id": "9350"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1412"
+      },
+      {
+        "site": "notify",
+        "id": "Dnk-5Fmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1994,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/77771.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/77771t.jpg",
+    "synonyms": [
+      "Edgar de la cambriole - Le dragon maudit",
+      "Lupin III - Der Goldene Drache",
+      "Lupin III - Le dragon maudit",
+      "Lupin III Special 6: Dragon of Doom",
+      "Lupin III Special 6: Moeyo Zantetsuken",
+      "Lupin III: Brenne Zantetsuken! Der goldene Drache",
+      "Lupin III: Burn",
+      "Lupin III: Burn, Zantetsuken!",
+      "Lupin III: Der Goldene Drache",
+      "Lupin III: Der goldene Drache",
+      "Lupin III: Dragon of Doom",
+      "Lupin III: Il mistero del Dragone",
+      "Lupin III: Le Dragon Maudit",
+      "Lupin III: Moeyo Zantetsuken",
+      "Lupin III: Spada Zantetsu, infuocati!",
+      "Lupin III: Zantetsu Sword Is On Fire",
+      "Lupin III: Zantetsu Sword is on Fire",
+      "Lupin Sansei Special 06",
+      "Lupin Sansei: Moeyo Zantetsuken",
+      "Lupin Sansei: Moeyo Zantetsuken!",
+      "Lupin the 3rd: Dragon of Doom",
+      "Lupin the Third: Dragon of Doom",
+      "Rupan - Le dragon maudit",
+      "Rupan Sansei: Moeyo Zantetsuken",
+      "Zantetsuken!",
+      "ルパン三世 燃えよ斬鉄剣",
+      "ルパン三世『燃えよ斬鉄剣』",
+      "鲁邦三世：燃烧的斩铁剑"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1994-07-07T16:00:00.000Z",
-  "end": "1994-09-29T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "25497"
+  {
+    "title": "Dr.スランプ アラレちゃん んちゃ!!わくわくハートの夏休み",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿拉蕾 心跳的暑假"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "5616",
-      "begin": "2016-10-23T02:30:00.000Z",
-      "broadcast": "R/2016-10-23T02:30:00.000Z/P7D"
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-07-09T16:00:00.000Z",
+    "end": "1994-07-09T16:20:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "82727"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb54vl",
+        "begin": "2015-08-04T01:02:58.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "1925"
+      },
+      {
+        "site": "anilist",
+        "id": "2222"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan-hoyoyo-nanaba-shiro-no-hihou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan-hoyoyo-tasuketa-same-ni-tsurerarete"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan-hoyoyo-yume-no-to-mecha-police"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan-n-cha-penguin-mura-wa-hare-nochi-hare"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan-penguin-mura-eiyuu-densetsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-no-bikkuriman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-dr-mashirito-and-abale-chan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-movie-3-the-great-race-around-the-world"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-movie-7-arale-chan-n-cha-pengin-mura-yori-ai-wo-komete"
+      },
+      {
+        "site": "anisearch",
+        "id": "2134"
+      },
+      {
+        "site": "kitsu",
+        "id": "2013"
+      },
+      {
+        "site": "livechart",
+        "id": "10983"
+      },
+      {
+        "site": "livechart",
+        "id": "10989"
+      },
+      {
+        "site": "livechart",
+        "id": "10990"
+      },
+      {
+        "site": "livechart",
+        "id": "10991"
+      },
+      {
+        "site": "livechart",
+        "id": "10992"
+      },
+      {
+        "site": "livechart",
+        "id": "10993"
+      },
+      {
+        "site": "livechart",
+        "id": "10994"
+      },
+      {
+        "site": "livechart",
+        "id": "10995"
+      },
+      {
+        "site": "livechart",
+        "id": "10997"
+      },
+      {
+        "site": "livechart",
+        "id": "6206"
+      },
+      {
+        "site": "livechart",
+        "id": "7468"
+      },
+      {
+        "site": "livechart",
+        "id": "8828"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2222"
+      },
+      {
+        "site": "notify",
+        "id": "_nnPcKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1994,
+      "month": "07"
     },
-    {
-      "site": "anime-planet",
-      "id": "metal-fighter-miku-game-op"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 1994,
-    "month": "07"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1122/97475.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1122/97475t.jpg",
+    "synonyms": [
+      "Dr. Slump & Arale-chan Ncha! Trembling Hot Summer Holiday",
+      "Dr. Slump Movie 09: Arale-chan N-cha!! Wakuwaku Hot no Natsuyasumi",
+      "Dr. Slump Movie 9",
+      "Dr. Slump Movie 9: Arale-chan N-cha!! Wakuwaku Hot no Natsuyasumi",
+      "Dr. Slump Movie 9: Arale-chan Ncha!! Wakuwaku Hot no Natsuyasumi",
+      "Dr. Slump and Arale-chan: N-cha!! Excited Heart of Summer Vacation",
+      "Dr. Slump and Arale-chan: N-cha!! Trembling Heart of the Summer",
+      "Dr. Slump and Arale-chan: Ncha!! Trembling Heart of the Summer",
+      "Dr. Slump e Arale the Movie: Una vacanza mostruosa",
+      "Dr. Slump: Arale-chan N-cha!! Wakuwaku Heart no Natsuyasumi",
+      "Dr. Slump: Arale-chan Ncha!! Wakuwaku Heart no Natsuyasumi",
+      "Dr. Slump: Ncha! the Super exciting Summer Vacation",
+      "Dr.スランプ アラレちゃん んちゃ!!わくわくハートの夏休み",
+      "Ｄｒ．スランプ んちゃ!!わくわくハートの夏休み"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 13,
-  "picture": "https://cdn.myanimelist.net/images/anime/1160/97198.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1160/97198t.jpg",
-  "synonyms": [
-    "Metal Fighter MIKU",
-    "Metal Fighters",
-    "Metal Fighters - Frauen aus Stahl",
-    "Metal Fighters Miku",
-    "Metal Fighters: Frauen aus Stahl",
-    "メタルファイター♥MIKU",
-    "メタルファイター・MIKU",
-    "メタルファイター・Miku"
-  ]
-}
+  {
+    "title": "マップス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "星图传说"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-07-08T16:00:00.000Z",
+    "end": "1995-02-24T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "tINibicGTKOnjbWcE",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "80861"
+      },
+      {
+        "site": "anidb",
+        "id": "2081"
+      },
+      {
+        "site": "anilist",
+        "id": "3183"
+      },
+      {
+        "site": "anime-planet",
+        "id": "maps-densetsu-no-samayoeru-seijin-tachi"
+      },
+      {
+        "site": "anisearch",
+        "id": "213"
+      },
+      {
+        "site": "kitsu",
+        "id": "2844"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3183"
+      },
+      {
+        "site": "notify",
+        "id": "vqWQ5FiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1994,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/22262.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/22262t.jpg",
+    "synonyms": [
+      "MAPS",
+      "MAPS (1994)",
+      "MAPS: La leggenda dell'uragano di luce",
+      "Maps (1994)",
+      "Maps: La leggenda dell`uragano di luce",
+      "マップス"
+    ]
+  },
+  {
+    "title": "平成狸合戦ぽんぽこ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "百变狸猫"
+      ],
+      "zh-Hant": [
+        "平成狸合戰",
+        "百變狸貓"
+      ],
+      "en": [
+        "Pom Poko"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-07-15T16:00:00.000Z",
+    "end": "1994-07-15T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "407"
+      },
+      {
+        "site": "netflix",
+        "id": "70035036",
+        "begin": "2020-03-30T16:00:00.000Z",
+        "broadcast": "R/2020-03-30T16:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1994,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1962/138712.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1962/138712t.jpg",
+    "synonyms": [
+      "Die Schlacht der Waschbären in der Pompoko-Ära",
+      "Heisei Era Raccoon War Pom Poko",
+      "Heisei Tanuki Gassen Pompoko",
+      "Heisei Tanukigassen Ponpoko",
+      "La guerra de los mapaches",
+      "Pom Poko",
+      "Pom Poko - A tanukik birodalma",
+      "Pom Poko: Meškėnų karas",
+      "Pom Poko: Pesukarude sõda",
+      "Pompoko",
+      "Rakunların Savaşı",
+      "Szopy w natarciu",
+      "The Raccoon War",
+      "ponpoko",
+      "Η Αντεπίθεση των Ρακούν",
+      "Война тануки в периоды Хэйсэй и Помпоко",
+      "Пом Поко",
+      "מלחמת הדביבונים",
+      "へいせいたぬきがっせんぽんぽこ",
+      "平成狸合战",
+      "平成狸合戦ぽんぽこ",
+      "百變狸貓"
+    ]
+  },
+  {
+    "title": "メタルファイター♥MIKU",
+    "titleTranslate": {
+      "zh-Hans": [
+        "重装甲少女组"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-07-07T16:00:00.000Z",
+    "end": "1994-09-29T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "25497"
+      },
+      {
+        "site": "bilibili",
+        "id": "5616",
+        "begin": "2016-10-23T02:30:00.000Z",
+        "broadcast": "R/2016-10-23T02:30:00.000Z/P7D"
+      },
+      {
+        "site": "anime-planet",
+        "id": "metal-fighter-miku-game-op"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1994,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/1160/97198.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1160/97198t.jpg",
+    "synonyms": [
+      "Metal Fighter MIKU",
+      "Metal Fighters",
+      "Metal Fighters - Frauen aus Stahl",
+      "Metal Fighters Miku",
+      "Metal Fighters: Frauen aus Stahl",
+      "メタルファイター♥MIKU",
+      "メタルファイター・MIKU",
+      "メタルファイター・Miku"
+    ]
+  }
+]

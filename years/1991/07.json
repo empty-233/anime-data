@@ -1,83 +1,525 @@
-{
-  "title": "おもひでぽろぽろ",
-  "titleTranslate": {
-    "zh-Hans": [
-      "岁月的童话"
+[
+  {
+    "title": "おにいさまへ…",
+    "titleTranslate": {
+      "zh-Hans": [
+        "青兰圆舞曲"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-07-14T16:00:00.000Z",
+    "end": "1992-05-31T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "7408"
+      },
+      {
+        "site": "bilibili",
+        "id": "2346",
+        "begin": "1991-07-13T16:00:00.000Z"
+      }
     ],
-    "zh-Hant": [
-      "兒時的點點滴滴",
-      "歲月的童話"
-    ],
-    "en": [
-      "Only Yesterday"
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1991,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 39,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/18531.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/18531t.jpg",
+    "synonyms": [
+      "Brother",
+      "Brother, Dear Brother",
+      "Caro Fratello",
+      "Caro fratello",
+      "Dear Brother",
+      "Escuela de Cenicientas",
+      "Onii-sama E",
+      "Onii-sama e",
+      "Onii-sama e...",
+      "Oniisama E...",
+      "Oniisama e …",
+      "Onīsama e …",
+      "Querido Hermano",
+      "Querido Irmão...",
+      "Sevgili Abime...",
+      "To My Brother...",
+      "Tres Cher frère",
+      "Très Cher Frère...",
+      "Très cher frère",
+      "oe",
+      "Милому брату...",
+      "Уважаемый старший брат",
+      "אחי היקר",
+      "أخي العزيز",
+      "おにいさまへ",
+      "おにいさまへ...",
+      "おにいさまへ…",
+      "青兰圆舞曲"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1991-07-19T16:00:00.000Z",
-  "end": "1991-07-19T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "512"
+  {
+    "title": "ドラゴンボールZ とびっきりの最強対最強",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙珠Z 最强对最强"
+      ]
     },
-    {
-      "site": "netflix",
-      "id": "80092922",
-      "begin": "2020-01-30T16:00:00.000Z",
-      "broadcast": "R/2020-01-30T16:00:00.000Z/P7D"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 1991,
-    "month": "07"
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-07-20T16:00:00.000Z",
+    "end": "1991-07-20T16:45:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "44943"
+      },
+      {
+        "site": "nicovideo",
+        "id": "DBZ_tobikkiri",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4015",
+        "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "1046"
+      },
+      {
+        "site": "anidb",
+        "id": "1530"
+      },
+      {
+        "site": "anilist",
+        "id": "138864"
+      },
+      {
+        "site": "anilist",
+        "id": "813"
+      },
+      {
+        "site": "anilist",
+        "id": "899"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-episode-of-bardock"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-plan-to-destroy-the-saiyajin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-yo-the-return-of-son-goku-and-friends"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-atsumare-goku-world"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-battle-of-gods"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-kai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-kai-bring-peace-to-the-future-gokus-spirit-is-eternal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-kai-the-final-chapters"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-1-dead-zone"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-10-broly-second-coming"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-11-bio-broly"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-12-fusion-reborn"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-13-wrath-of-the-dragon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-15-resurrection-f"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-2-the-world-s-strongest"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-3-the-tree-of-might"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-4-lord-slug"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-6-return-of-cooler"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-7-super-android-13"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-8-broly-the-legendary-super-saiyan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-9-bojack-unbound"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-plan-to-destroy-the-saiyajin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-special-1-bardock-the-father-of-goku"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-special-2-the-history-of-trunks"
+      },
+      {
+        "site": "anisearch",
+        "id": "1011"
+      },
+      {
+        "site": "anisearch",
+        "id": "2938"
+      },
+      {
+        "site": "kitsu",
+        "id": "720"
+      },
+      {
+        "site": "kitsu",
+        "id": "799"
+      },
+      {
+        "site": "livechart",
+        "id": "3632"
+      },
+      {
+        "site": "livechart",
+        "id": "4152"
+      },
+      {
+        "site": "livechart",
+        "id": "4177"
+      },
+      {
+        "site": "livechart",
+        "id": "4206"
+      },
+      {
+        "site": "livechart",
+        "id": "4219"
+      },
+      {
+        "site": "livechart",
+        "id": "4264"
+      },
+      {
+        "site": "livechart",
+        "id": "4268"
+      },
+      {
+        "site": "livechart",
+        "id": "4287"
+      },
+      {
+        "site": "livechart",
+        "id": "4304"
+      },
+      {
+        "site": "livechart",
+        "id": "4312"
+      },
+      {
+        "site": "livechart",
+        "id": "4367"
+      },
+      {
+        "site": "livechart",
+        "id": "5074"
+      },
+      {
+        "site": "livechart",
+        "id": "5540"
+      },
+      {
+        "site": "livechart",
+        "id": "5906"
+      },
+      {
+        "site": "livechart",
+        "id": "6390"
+      },
+      {
+        "site": "myanimelist",
+        "id": "813"
+      },
+      {
+        "site": "myanimelist",
+        "id": "899"
+      },
+      {
+        "site": "notify",
+        "id": "L2gJ5KmiR"
+      },
+      {
+        "site": "notify",
+        "id": "ir-05Fmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1991,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1113/121523.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1113/121523t.jpg",
+    "synonyms": [
+      "Bảy Viên Ngọc Rồng Z: Cooler Phục Hận",
+      "DBZ Movie 5",
+      "DRAGON BALL Z とびっきりの最強対最強",
+      "Dragon Ball Z - Pahimmat viholliset",
+      "Dragon Ball Z 05 - La revanche de Cooler",
+      "Dragon Ball Z 5 - Os Grandes Rivais",
+      "Dragon Ball Z : La Revanche de Cooler",
+      "Dragon Ball Z Film 5: La revanche de Cooler",
+      "Dragon Ball Z Film 5: Rache für Freezer",
+      "Dragon Ball Z Movie 05: Cooler's Revenge",
+      "Dragon Ball Z Movie 5: Cooler's Revenge",
+      "Dragon Ball Z Película 5: El más Poderoso contra el más Poderoso",
+      "Dragon Ball Z: Battle of the Strongest",
+      "Dragon Ball Z: Battle of the Strongest vs. the Strongest",
+      "Dragon Ball Z: Cooler's Revenge",
+      "Dragon Ball Z: Cooler`s Revenge",
+      "Dragon Ball Z: Cooler’s Revenge",
+      "Dragon Ball Z: Il destino dei Saiyan",
+      "Dragon Ball Z: Los Mejores Rivales",
+      "Dragon Ball Z: Los increíblemente más poderosos contra el más poderoso",
+      "Dragon Ball Z: Los rivales más poderosos",
+      "Dragon Ball Z: Movie 5",
+      "Dragon Ball Z: The Best of Strongest versus Strongest",
+      "Dragon Ball Z: The Strongest Rivals",
+      "Dragon Ball Z: Tobikkiri no Saikyou Tai Saikyou",
+      "Dragon Ball Z: Tobikkiri no Saikyou tai Saikyou",
+      "Dragon Ball Z: Tobikkiri no Saikyō tai Saikyō",
+      "Dragon Ball Z: Zemsta Coolera",
+      "Dragonball Z - The Movie: Rache für Freezer",
+      "Dragonball Z: Rache für Freezer",
+      "Os adversarios máis fortes",
+      "ดราก้อนบอล Z เดอะมูฟวี่ 5 การแก้แค้นของคูลเลอร์",
+      "ドラゴンボールZ とびっきりの最強対最強"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1289/138708.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1289/138708t.jpg",
-  "synonyms": [
-    "Alles eile",
-    "Dün Gibi",
-    "Eilisen kuiskaus",
-    "Memories Like Falling Rain Drops",
-    "Memories Like Falling Teardrops",
-    "Memories of Teardrops",
-    "Memories of Yesterday",
-    "Memórias de Ontem",
-    "Omohide Poro Poro",
-    "Omohide Poro-poro",
-    "Omohide Poroporo",
-    "Omoide Poro Poro",
-    "Omoide Poro-poro",
-    "Omoide Poroporo : Souvenirs Goutte à Goutte",
-    "Omoide Poroporo: Souvenirs Goutte à Goutte",
-    "Only Yesterday",
-    "Only Yesterday: Tränen der Erinnerung",
-    "Pioggia di ricordi",
-    "Powrót do marzeń",
-    "Printre Amintiri",
-    "Recuerdos del Ayer",
-    "Recuerdos del ayer",
-    "Souvenirs goutte à goutte",
-    "Souvenirs, goutte à goutte",
-    "Tränen der Erinnerung - Only Yesterday",
-    "Tränen der Erinnerung: Only Yesterday",
-    "Yesterday - Vissza a gyerekkorba",
-    "Ταξιδιώτες στο Παρελθόν",
-    "Единствено Вчера",
-    "Ещё вчера",
-    "Сочащиеся воспоминания",
-    "Спогади наче краплі дощу",
-    "Ще учора",
-    "רק אתמול",
-    "البارحة فقط",
-    "مطر الذكريات",
-    "ในความทรงจำที่ไม่มีวันจาง",
-    "おもひでぽろぽろ",
-    "兒時的點點滴滴",
-    "歲月的童話"
-  ]
-}
+  {
+    "title": "3×3 EYES",
+    "titleTranslate": {
+      "zh-Hans": [
+        "三只眼"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-07-25T16:00:00.000Z",
+    "end": "1992-03-19T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "Ej0Ihu5UxAJl40s",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "8356"
+      },
+      {
+        "site": "anidb",
+        "id": "3"
+      },
+      {
+        "site": "anilist",
+        "id": "1225"
+      },
+      {
+        "site": "anime-planet",
+        "id": "3x3-eyes-seima-densetsu"
+      },
+      {
+        "site": "anisearch",
+        "id": "3354"
+      },
+      {
+        "site": "kitsu",
+        "id": "1102"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1225"
+      },
+      {
+        "site": "notify",
+        "id": "J2tbcFimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1991,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/26940.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/26940t.jpg",
+    "synonyms": [
+      "3 x 3 Augen",
+      "3x3",
+      "3x3 Augen",
+      "3x3 Augen (OVA 1)",
+      "3x3 EYES",
+      "3x3 Eyes - Immortals",
+      "3x3 Eyes: Immortals",
+      "3x3 Occhi",
+      "3x3 Oczy",
+      "3x3 Ojos",
+      "3x3 Ojos [1-4]",
+      "3x3 Olhos",
+      "3x3 Oči",
+      "3x3 Ulls",
+      "3x3 occhi",
+      "3x3 Ögon",
+      "3x3 глаза",
+      "3×3 Augen",
+      "3×3 EYES",
+      "3×3 Eyes",
+      "3×3 Eyes: Immortals",
+      "3×3 Occhi",
+      "3×3 Ojos",
+      "3×3EYES",
+      "Sazan Aizu",
+      "Sazan Eyes",
+      "Southern Eyes",
+      "サザンアイズ",
+      "三隻眼"
+    ]
+  },
+  {
+    "title": "おもひでぽろぽろ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "岁月的童话"
+      ],
+      "zh-Hant": [
+        "兒時的點點滴滴",
+        "歲月的童話"
+      ],
+      "en": [
+        "Only Yesterday"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-07-19T16:00:00.000Z",
+    "end": "1991-07-19T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "512"
+      },
+      {
+        "site": "netflix",
+        "id": "80092922",
+        "begin": "2020-01-30T16:00:00.000Z",
+        "broadcast": "R/2020-01-30T16:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1991,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1289/138708.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1289/138708t.jpg",
+    "synonyms": [
+      "Alles eile",
+      "Dün Gibi",
+      "Eilisen kuiskaus",
+      "Memories Like Falling Rain Drops",
+      "Memories Like Falling Teardrops",
+      "Memories of Teardrops",
+      "Memories of Yesterday",
+      "Memórias de Ontem",
+      "Omohide Poro Poro",
+      "Omohide Poro-poro",
+      "Omohide Poroporo",
+      "Omoide Poro Poro",
+      "Omoide Poro-poro",
+      "Omoide Poroporo : Souvenirs Goutte à Goutte",
+      "Omoide Poroporo: Souvenirs Goutte à Goutte",
+      "Only Yesterday",
+      "Only Yesterday: Tränen der Erinnerung",
+      "Pioggia di ricordi",
+      "Powrót do marzeń",
+      "Printre Amintiri",
+      "Recuerdos del Ayer",
+      "Recuerdos del ayer",
+      "Souvenirs goutte à goutte",
+      "Souvenirs, goutte à goutte",
+      "Tränen der Erinnerung - Only Yesterday",
+      "Tränen der Erinnerung: Only Yesterday",
+      "Yesterday - Vissza a gyerekkorba",
+      "Ταξιδιώτες στο Παρελθόν",
+      "Единствено Вчера",
+      "Ещё вчера",
+      "Сочащиеся воспоминания",
+      "Спогади наче краплі дощу",
+      "Ще учора",
+      "רק אתמול",
+      "البارحة فقط",
+      "مطر الذكريات",
+      "ในความทรงจำที่ไม่มีวันจาง",
+      "おもひでぽろぽろ",
+      "兒時的點點滴滴",
+      "歲月的童話"
+    ]
+  }
+]

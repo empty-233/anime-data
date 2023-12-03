@@ -1,93 +1,1169 @@
-{
-  "title": "ノラガミ ARAGOTO OAD",
-  "titleTranslate": {
-    "zh-Hans": [
-      "野良神 ARAGOTO OAD"
+[
+  {
+    "title": "ミニはま",
+    "titleTranslate": {
+      "zh-Hans": [
+        "浜虎SD",
+        "迷你浜虎"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://hamatorapj.com/minihama/",
+    "begin": "2015-11-02T12:24:00.000Z",
+    "end": "2016-01-04T12:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "MRz4dt5EtPJV0zs",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "127817"
+      },
+      {
+        "site": "bilibili",
+        "id": "2978",
+        "begin": "2015-11-01T16:00:00.000Z",
+        "broadcast": "R/2015-11-10T20:39:00.000Z/P7D"
+      },
+      {
+        "site": "youku",
+        "id": "71e66704b8ce11e5a080",
+        "begin": "2016-02-16T07:41:44.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "11727"
+      },
+      {
+        "site": "anilist",
+        "id": "20521"
+      },
+      {
+        "site": "anilist",
+        "id": "21447"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fw-hamatora"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hamatora"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hamatora-the-animation-saishuukai-chokuzen-mao-ga-okuru"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mini-hama-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "re-hamatora"
+      },
+      {
+        "site": "anisearch",
+        "id": "10925"
+      },
+      {
+        "site": "anisearch",
+        "id": "9031"
+      },
+      {
+        "site": "kitsu",
+        "id": "11508"
+      },
+      {
+        "site": "kitsu",
+        "id": "8057"
+      },
+      {
+        "site": "livechart",
+        "id": "1433"
+      },
+      {
+        "site": "livechart",
+        "id": "1906"
+      },
+      {
+        "site": "livechart",
+        "id": "258"
+      },
+      {
+        "site": "livechart",
+        "id": "500"
+      },
+      {
+        "site": "myanimelist",
+        "id": "20689"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31923"
+      },
+      {
+        "site": "notify",
+        "id": "OHPhpFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "aw5jtKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2015,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 8,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/76833.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/76833t.jpg",
+    "synonyms": [
+      "Hamatora: Mini Hama",
+      "MINIMUM-HAMATORA",
+      "Mini Hama",
+      "Mini Hama: Minimum-Hamatora",
+      "Minimum-Hamatora",
+      "SD Hamatora",
+      "ミニはま",
+      "ミニはま -MINIMUM HAMATORA-",
+      "ミニはま MINIMUM-HAMATORA",
+      "浜虎SD"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "2015-11-17T16:00:00.000Z",
-  "end": "2016-03-17T16:30:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "147364"
+  {
+    "title": "想いのかけら",
+    "titleTranslate": {
+      "zh-Hans": [
+        "思念的碎片"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "3420",
-      "begin": "2015-11-16T16:00:00.000Z",
-      "broadcast": "R/2016-03-11T09:22:00.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.nhk.or.jp/daisuki-tohoku/kakera/",
+    "begin": "2015-11-27T16:00:00.000Z",
+    "end": "2015-11-27T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10021758",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "158315"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2016,
+      "month": "11"
     },
-    {
-      "site": "anidb",
-      "id": "11170"
-    },
-    {
-      "site": "anilist",
-      "id": "21128"
-    },
-    {
-      "site": "anime-planet",
-      "id": "noragami"
-    },
-    {
-      "site": "anime-planet",
-      "id": "noragami-aragoto"
-    },
-    {
-      "site": "anime-planet",
-      "id": "noragami-ova"
-    },
-    {
-      "site": "anisearch",
-      "id": "10382"
-    },
-    {
-      "site": "kitsu",
-      "id": "10800"
-    },
-    {
-      "site": "livechart",
-      "id": "1494"
-    },
-    {
-      "site": "livechart",
-      "id": "154"
-    },
-    {
-      "site": "livechart",
-      "id": "305"
-    },
-    {
-      "site": "myanimelist",
-      "id": "30503"
-    },
-    {
-      "site": "notify",
-      "id": "-TMlpKmig"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 2015,
-    "month": "11"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/80101.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/80101t.jpg",
+    "synonyms": [
+      "Fragments of Feelings",
+      "思念的碎片",
+      "想いのかけら"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 2,
-  "picture": "https://cdn.myanimelist.net/images/anime/11/77510.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/11/77510t.jpg",
-  "synonyms": [
-    "Noragami 2 OAD",
-    "Noragami ARAGOTO OVA",
-    "Noragami Aragoto OAD",
-    "noragami ova 2",
-    "ノラガミ ARAGOTO OAD",
-    "ノラガミ OAD",
-    "ノラガミ アラゴト OAD",
-    "野良神 ARAGOTO OAD"
-  ]
-}
+  {
+    "title": "デジモンアドベンチャー tri. 第1章「再会」",
+    "titleTranslate": {
+      "zh-Hans": [
+        "数码兽大冒险 tri. 第一章「再会」",
+        "数码宝贝tri."
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://digimon-adventure.net/",
+    "begin": "2015-11-21T16:00:00.000Z",
+    "end": "2015-11-21T17:40:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhbcjih",
+        "begin": "2016-02-15T09:09:13.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "109739"
+      },
+      {
+        "site": "nicovideo",
+        "id": "digimon-matome",
+        "begin": "2016-04-01T15:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "c25cae1ed50811e49e2a",
+        "begin": "2015-11-21T09:27:18.000Z"
+      },
+      {
+        "site": "anilist",
+        "id": "21500"
+      },
+      {
+        "site": "anilist",
+        "id": "2398"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-tri-movie-2-determination"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-tri-movie-3-confession"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-tri-movie-4-loss"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-tri-movie-5-coexistence"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-tri-movie-6-future"
+      },
+      {
+        "site": "kitsu",
+        "id": "11546"
+      },
+      {
+        "site": "kitsu",
+        "id": "2175"
+      },
+      {
+        "site": "livechart",
+        "id": "3730"
+      },
+      {
+        "site": "livechart",
+        "id": "3917"
+      },
+      {
+        "site": "livechart",
+        "id": "3980"
+      },
+      {
+        "site": "livechart",
+        "id": "3990"
+      },
+      {
+        "site": "livechart",
+        "id": "4234"
+      },
+      {
+        "site": "livechart",
+        "id": "4251"
+      },
+      {
+        "site": "livechart",
+        "id": "4604"
+      },
+      {
+        "site": "livechart",
+        "id": "4643"
+      },
+      {
+        "site": "livechart",
+        "id": "4864"
+      },
+      {
+        "site": "livechart",
+        "id": "5139"
+      },
+      {
+        "site": "livechart",
+        "id": "5520"
+      },
+      {
+        "site": "livechart",
+        "id": "5638"
+      },
+      {
+        "site": "livechart",
+        "id": "5655"
+      },
+      {
+        "site": "livechart",
+        "id": "5704"
+      },
+      {
+        "site": "livechart",
+        "id": "5846"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2398"
+      },
+      {
+        "site": "myanimelist",
+        "id": "32108"
+      },
+      {
+        "site": "notify",
+        "id": "R7xCtFimR"
+      },
+      {
+        "site": "notify",
+        "id": "YoLE5Fimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2015,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/75493.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/75493t.jpg",
+    "synonyms": [
+      "Digimon Adventure Tri. Movie 1: Reunion",
+      "Digimon Adventure Tri. Movie 1: Saikai",
+      "Digimon Adventure tri Película: Reunión",
+      "Digimon Adventure tri. 1: Reunion",
+      "Digimon Adventure tri. Chapter 1: Reunion",
+      "Digimon Adventure tri. Film - Reunion",
+      "Digimon Adventure tri. Film: Reunión",
+      "Digimon Adventure tri. Reunion",
+      "Digimon tri. 1",
+      "デジモンアドベンチャー tri. 第1章「再会」",
+      "デジモンアドベンチャーtri.（トライ）第1章「再会」",
+      "デジモンアドベンチャーtri.（トライ）第１章「再会」"
+    ]
+  },
+  {
+    "title": "ハーモニー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "和谐",
+        "调和"
+      ],
+      "en": [
+        "Harmony"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://project-itoh.com/",
+    "begin": "2015-11-13T16:00:00.000Z",
+    "end": "2015-11-13T18:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "UiczYVr4klNI1sxs",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "100448"
+      },
+      {
+        "site": "livechart",
+        "id": "484"
+      },
+      {
+        "site": "livechart",
+        "id": "485"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2015,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/76993.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/76993t.jpg",
+    "synonyms": [
+      "<harmony/>",
+      "<harmony/> ハーモニー",
+      "Project Itoh",
+      "Project Itoh: Harmony",
+      "Гармония",
+      "ハーモニー"
+    ]
+  },
+  {
+    "title": "ストライク・ザ・ブラッド ヴァルキュリアの王国篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "噬血狂袭 女武神的王国篇"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.strike-the-blood.com/",
+    "begin": "2015-11-25T16:00:00.000Z",
+    "end": "2015-12-23T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "128322"
+      },
+      {
+        "site": "nicovideo",
+        "id": "strike-the-blood-ova",
+        "begin": "2016-11-17T15:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "12121"
+      },
+      {
+        "site": "anidb",
+        "id": "9772"
+      },
+      {
+        "site": "anilist",
+        "id": "18277"
+      },
+      {
+        "site": "anime-planet",
+        "id": "strike-the-blood"
+      },
+      {
+        "site": "anime-planet",
+        "id": "strike-the-blood-final"
+      },
+      {
+        "site": "anime-planet",
+        "id": "strike-the-blood-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "strike-the-blood-iii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "strike-the-blood-iv"
+      },
+      {
+        "site": "anime-planet",
+        "id": "strike-the-blood-kieta-seisou-hen"
+      },
+      {
+        "site": "anisearch",
+        "id": "8480"
+      },
+      {
+        "site": "kitsu",
+        "id": "7715"
+      },
+      {
+        "site": "livechart",
+        "id": "10668"
+      },
+      {
+        "site": "livechart",
+        "id": "107"
+      },
+      {
+        "site": "livechart",
+        "id": "2186"
+      },
+      {
+        "site": "livechart",
+        "id": "3145"
+      },
+      {
+        "site": "livechart",
+        "id": "9623"
+      },
+      {
+        "site": "livechart",
+        "id": "9625"
+      },
+      {
+        "site": "myanimelist",
+        "id": "18277"
+      },
+      {
+        "site": "notify",
+        "id": "6bmppKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2015,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/77275.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/77275t.jpg",
+    "synonyms": [
+      "Strike The Blood - OVA",
+      "Strike The Blood: Kingdom of the Valkyria",
+      "Strike the Blood (2015)",
+      "Strike the Blood OVA",
+      "Strike the Blood OVAs",
+      "Strike the Blood Valkyria no Ôkoku-hen",
+      "Strike the Blood: El reino de la valquiria",
+      "Strike the Blood: Kingdom of the Valkyria",
+      "Strike the Blood: Königreich der Valkyre",
+      "Strike the Blood: Valkyria no Oukoku Hen",
+      "Strike the Blood: Valkyria no Ōkoku-hen",
+      "stb ova",
+      "Удар крови OVA",
+      "ストライク・ザ・ブラッド ヴァルキュリアの王国篇",
+      "ストライク・ザ・ブラッド ヴァルキュリアの王国編",
+      "ストライク・ザ・ブラッド　ヴァルキュリアの王国篇",
+      "噬血狂袭 女武神的王国篇",
+      "스트라이크 더 블러드: 발큐리아 왕국편"
+    ]
+  },
+  {
+    "title": "亜人 -衝動-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "亚人 -冲动-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.ajin.net/",
+    "begin": "2015-11-27T16:00:00.000Z",
+    "end": "2015-11-27T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "135805"
+      },
+      {
+        "site": "pptv",
+        "id": "lruVE3vhUYicycNg",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "61739bc0a9fc11e5b432",
+        "begin": "2016-01-02T09:18:16.000Z"
+      },
+      {
+        "site": "anilist",
+        "id": "21341"
+      },
+      {
+        "site": "anilist",
+        "id": "21505"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ajin-demi-human"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ajin-demi-human-2nd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ajin-movie-2-shoutotsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ajin-movie-3-shougeki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ajin-ova"
+      },
+      {
+        "site": "kitsu",
+        "id": "10950"
+      },
+      {
+        "site": "kitsu",
+        "id": "11368"
+      },
+      {
+        "site": "livechart",
+        "id": "1622"
+      },
+      {
+        "site": "livechart",
+        "id": "1623"
+      },
+      {
+        "site": "livechart",
+        "id": "1815"
+      },
+      {
+        "site": "livechart",
+        "id": "1910"
+      },
+      {
+        "site": "livechart",
+        "id": "2179"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30869"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31580"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36625"
+      },
+      {
+        "site": "notify",
+        "id": "5--9pKiig"
+      },
+      {
+        "site": "notify",
+        "id": "l1w_tFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2015,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1038/112814.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1038/112814t.jpg",
+    "synonyms": [
+      "AJIN: Demi-Human -Compel-",
+      "Ajin - Demi-Human Movie Part 1: Compel",
+      "Ajin Movie 1: Shoudou",
+      "Ajin: Demi-Human - Compel",
+      "Ajin: Demi-Human Movie 1: Compel",
+      "Ajin: Impulse Teil 1 der Movie",
+      "Ajin: Shoudou",
+      "亜人 -衝動-",
+      "亜人　第１部「衝動」"
+    ]
+  },
+  {
+    "title": "サイボーグ009VSデビルマン",
+    "titleTranslate": {
+      "en": [
+        "Cyborg 009 VS Devilman"
+      ],
+      "zh-Hans": [
+        "人造人009VS恶魔人"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://009vsdevilman.com/",
+    "begin": "2015-11-10T16:00:00.000Z",
+    "end": "2015-11-10T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "129976"
+      },
+      {
+        "site": "netflix",
+        "id": "80094557",
+        "begin": "2016-04-01T07:00:00.000Z",
+        "broadcast": "",
+        "comment": "分割为 TV 放送"
+      },
+      {
+        "site": "anidb",
+        "id": "1236"
+      },
+      {
+        "site": "anidb",
+        "id": "1527"
+      },
+      {
+        "site": "anilist",
+        "id": "2252"
+      },
+      {
+        "site": "anilist",
+        "id": "4690"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cyborg-009-the-cyborg-soldier"
+      },
+      {
+        "site": "anime-planet",
+        "id": "devilman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mazinger-z"
+      },
+      {
+        "site": "anisearch",
+        "id": "1426"
+      },
+      {
+        "site": "anisearch",
+        "id": "820"
+      },
+      {
+        "site": "kitsu",
+        "id": "2040"
+      },
+      {
+        "site": "kitsu",
+        "id": "7868"
+      },
+      {
+        "site": "livechart",
+        "id": "2257"
+      },
+      {
+        "site": "livechart",
+        "id": "2331"
+      },
+      {
+        "site": "livechart",
+        "id": "2332"
+      },
+      {
+        "site": "livechart",
+        "id": "5863"
+      },
+      {
+        "site": "livechart",
+        "id": "6271"
+      },
+      {
+        "site": "livechart",
+        "id": "7088"
+      },
+      {
+        "site": "livechart",
+        "id": "7536"
+      },
+      {
+        "site": "livechart",
+        "id": "7544"
+      },
+      {
+        "site": "livechart",
+        "id": "8611"
+      },
+      {
+        "site": "livechart",
+        "id": "8649"
+      },
+      {
+        "site": "livechart",
+        "id": "966"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2252"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4690"
+      },
+      {
+        "site": "notify",
+        "id": "kkvE5Kmmg"
+      },
+      {
+        "site": "notify",
+        "id": "wG_ptKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2015,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/1985/121991.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1985/121991t.jpg",
+    "synonyms": [
+      "Cyborg 009 vs Devilman",
+      "Cyborg 009 vs. Devilman",
+      "Cyborg 009: Cyborg 009 vs. Devilman",
+      "Devilman (2015)",
+      "סייבורג 009 נגד דווילמן",
+      "サイボーグ009VSデビルマン",
+      "デビルマン (2015)",
+      "人造人009VS恶魔人",
+      "人造人009VS惡魔人"
+    ]
+  },
+  {
+    "title": "ガールズ&パンツァー 劇場版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少女与战车 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://girls-und-panzer.jp/",
+    "begin": "2015-11-21T16:00:00.000Z",
+    "end": "2015-11-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "72266"
+      },
+      {
+        "site": "bilibili",
+        "id": "4114",
+        "begin": "2016-05-26T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "12361"
+      },
+      {
+        "site": "anidb",
+        "id": "9227"
+      },
+      {
+        "site": "anilist",
+        "id": "14131"
+      },
+      {
+        "site": "anilist",
+        "id": "154146"
+      },
+      {
+        "site": "anilist",
+        "id": "21649"
+      },
+      {
+        "site": "anime-planet",
+        "id": "girls-und-panzer"
+      },
+      {
+        "site": "anime-planet",
+        "id": "girls-und-panzer-das-finale-part-1"
+      },
+      {
+        "site": "anime-planet",
+        "id": "girls-und-panzer-der-film-3-pun-chotto-de-wakaru-girls-panzer"
+      },
+      {
+        "site": "anime-planet",
+        "id": "girls-und-panzer-der-film-akiyama-yukari-no-sensha-kouza"
+      },
+      {
+        "site": "anime-planet",
+        "id": "girls-und-panzer-der-film-arisu-war"
+      },
+      {
+        "site": "anisearch",
+        "id": "11307"
+      },
+      {
+        "site": "anisearch",
+        "id": "11308"
+      },
+      {
+        "site": "anisearch",
+        "id": "11767"
+      },
+      {
+        "site": "anisearch",
+        "id": "7865"
+      },
+      {
+        "site": "kitsu",
+        "id": "12203"
+      },
+      {
+        "site": "kitsu",
+        "id": "12305"
+      },
+      {
+        "site": "kitsu",
+        "id": "12628"
+      },
+      {
+        "site": "kitsu",
+        "id": "13085"
+      },
+      {
+        "site": "kitsu",
+        "id": "7087"
+      },
+      {
+        "site": "livechart",
+        "id": "10762"
+      },
+      {
+        "site": "livechart",
+        "id": "2041"
+      },
+      {
+        "site": "livechart",
+        "id": "2042"
+      },
+      {
+        "site": "livechart",
+        "id": "2304"
+      },
+      {
+        "site": "livechart",
+        "id": "2594"
+      },
+      {
+        "site": "livechart",
+        "id": "2595"
+      },
+      {
+        "site": "livechart",
+        "id": "2740"
+      },
+      {
+        "site": "livechart",
+        "id": "308"
+      },
+      {
+        "site": "livechart",
+        "id": "5013"
+      },
+      {
+        "site": "livechart",
+        "id": "5475"
+      },
+      {
+        "site": "livechart",
+        "id": "5719"
+      },
+      {
+        "site": "livechart",
+        "id": "6230"
+      },
+      {
+        "site": "livechart",
+        "id": "938"
+      },
+      {
+        "site": "livechart",
+        "id": "9662"
+      },
+      {
+        "site": "livechart",
+        "id": "987"
+      },
+      {
+        "site": "myanimelist",
+        "id": "14131"
+      },
+      {
+        "site": "myanimelist",
+        "id": "32740"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33720"
+      },
+      {
+        "site": "myanimelist",
+        "id": "49153"
+      },
+      {
+        "site": "notify",
+        "id": "1Utg2Fmig"
+      },
+      {
+        "site": "notify",
+        "id": "3wROpFmig"
+      },
+      {
+        "site": "notify",
+        "id": "ChKmhFimR"
+      },
+      {
+        "site": "notify",
+        "id": "Gg3R2KmmR"
+      },
+      {
+        "site": "notify",
+        "id": "pR4M2FiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2015,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1776/91467.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1776/91467t.jpg",
+    "synonyms": [
+      "Gekijouban Girls und Panzer",
+      "Gekijouban GuP",
+      "Girls & Panzer Gekijouban",
+      "Girls & Panzer: Der Film",
+      "Girls und Panzer Gekijouban",
+      "Girls und Panzer Gekijōban",
+      "Girls und Panzer Movie",
+      "Girls und Panzer der Film",
+      "Girls und Panzer: Der Film",
+      "GuP Movie",
+      "がーるずあんどぱんつぁーげきじょうばん",
+      "ガールズ&パンツァー 劇場版",
+      "少女与战车 剧场版",
+      "少女與戰車 劇場版"
+    ]
+  },
+  {
+    "title": "弱酸性ミリオンアーサー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "弱酸性百万亚瑟王"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://portal.million-arthurs.com/kairi/jma/",
+    "begin": "2015-11-20T16:00:00.000Z",
+    "end": "2019-10-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "136913"
+      },
+      {
+        "site": "bilibili",
+        "id": "5206",
+        "begin": "2015-11-19T16:00:00.000Z",
+        "broadcast": "R/2016-07-14T02:29:37.000Z/P7D"
+      },
+      {
+        "site": "livechart",
+        "id": "1654"
+      }
+    ],
+    "animeSeason": {
+      "season": "UNDEFINED",
+      "year": null,
+      "month": "11"
+    },
+    "status": "UPCOMING",
+    "episodes": 0,
+    "picture": "https://u.livechart.me/anime/3562/poster_image/30e9d650a13ecaa47bbd746b0df2d4af.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/3562/poster_image/30e9d650a13ecaa47bbd746b0df2d4af.png/small.jpg",
+    "synonyms": [
+      "弱酸性ミリオンアーサー"
+    ]
+  },
+  {
+    "title": "ノラガミ ARAGOTO OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "野良神 ARAGOTO OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2015-11-17T16:00:00.000Z",
+    "end": "2016-03-17T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "147364"
+      },
+      {
+        "site": "bilibili",
+        "id": "3420",
+        "begin": "2015-11-16T16:00:00.000Z",
+        "broadcast": "R/2016-03-11T09:22:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "11170"
+      },
+      {
+        "site": "anilist",
+        "id": "21128"
+      },
+      {
+        "site": "anime-planet",
+        "id": "noragami"
+      },
+      {
+        "site": "anime-planet",
+        "id": "noragami-aragoto"
+      },
+      {
+        "site": "anime-planet",
+        "id": "noragami-ova"
+      },
+      {
+        "site": "anisearch",
+        "id": "10382"
+      },
+      {
+        "site": "kitsu",
+        "id": "10800"
+      },
+      {
+        "site": "livechart",
+        "id": "1494"
+      },
+      {
+        "site": "livechart",
+        "id": "154"
+      },
+      {
+        "site": "livechart",
+        "id": "305"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30503"
+      },
+      {
+        "site": "notify",
+        "id": "-TMlpKmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2015,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/77510.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/77510t.jpg",
+    "synonyms": [
+      "Noragami 2 OAD",
+      "Noragami ARAGOTO OVA",
+      "Noragami Aragoto OAD",
+      "noragami ova 2",
+      "ノラガミ ARAGOTO OAD",
+      "ノラガミ OAD",
+      "ノラガミ アラゴト OAD",
+      "野良神 ARAGOTO OAD"
+    ]
+  }
+]

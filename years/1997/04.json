@@ -1,78 +1,1846 @@
-{
-  "title": "超特急ヒカリアン",
-  "titleTranslate": {
-    "zh-Hans": [
-      "铁胆火车侠"
+[
+  {
+    "title": "ポケットモンスター",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦",
+        "神奇宝贝",
+        "宠物小精灵",
+        "口袋妖怪",
+        "精灵宝可梦 第1季",
+        "精灵宝可梦 无印"
+      ],
+      "zh-Hant": [
+        "寵物小精靈",
+        "神奇寶貝"
+      ],
+      "en": [
+        "Pokemon",
+        "Pocket Monsters"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.shopro.co.jp/tv/archive/pokemon/",
+    "begin": "1997-04-01T09:30:00.000Z",
+    "end": "2002-11-14T10:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "ASUPjfVbywls6lI",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrifpgxp",
+        "begin": "2014-04-09T23:55:28.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "t/tyeqdw6rof7t5ow",
+        "begin": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2017/jlbkm1",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3019"
+      },
+      {
+        "site": "youku",
+        "id": "cc004076962411de83b1",
+        "begin": "2014-11-15T05:38:59.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "5761",
+        "begin": "2016-12-07T09:33:00.000Z",
+        "broadcast": "R/2016-12-07T09:33:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "12407"
+      },
+      {
+        "site": "anidb",
+        "id": "15745"
+      },
+      {
+        "site": "anidb",
+        "id": "17151"
+      },
+      {
+        "site": "anidb",
+        "id": "17780"
+      },
+      {
+        "site": "anilist",
+        "id": "113932"
+      },
+      {
+        "site": "anilist",
+        "id": "114564"
+      },
+      {
+        "site": "anilist",
+        "id": "119964"
+      },
+      {
+        "site": "anilist",
+        "id": "126909"
+      },
+      {
+        "site": "anilist",
+        "id": "142794"
+      },
+      {
+        "site": "anilist",
+        "id": "144990"
+      },
+      {
+        "site": "anilist",
+        "id": "145813"
+      },
+      {
+        "site": "anilist",
+        "id": "155767"
+      },
+      {
+        "site": "anilist",
+        "id": "158869"
+      },
+      {
+        "site": "anilist",
+        "id": "158870"
+      },
+      {
+        "site": "anilist",
+        "id": "169404"
+      },
+      {
+        "site": "anilist",
+        "id": "97634"
+      },
+      {
+        "site": "anime-planet",
+        "id": "arceus-the-one-called-god"
+      },
+      {
+        "site": "anime-planet",
+        "id": "planetarium-pokemon-aurora-kara-no-message"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-advanced"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-aim-to-be-a-pokemon-master"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-black-and-white"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-black-and-white-adventures-in-unova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-black-and-white-adventures-in-unova-and-beyond"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-black-and-white-rival-destinies"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-diamond-and-pearl"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-journeys-harukanaru-aoi-sora"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-journeys-right-before-summer-vacation-1-hour-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-sun-and-moon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-xy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-xy-and-z"
+      },
+      {
+        "site": "anisearch",
+        "id": "11757"
+      },
+      {
+        "site": "anisearch",
+        "id": "14824"
+      },
+      {
+        "site": "anisearch",
+        "id": "15585"
+      },
+      {
+        "site": "anisearch",
+        "id": "15641"
+      },
+      {
+        "site": "anisearch",
+        "id": "15746"
+      },
+      {
+        "site": "anisearch",
+        "id": "17047"
+      },
+      {
+        "site": "anisearch",
+        "id": "17946"
+      },
+      {
+        "site": "anisearch",
+        "id": "18211"
+      },
+      {
+        "site": "kitsu",
+        "id": "12533"
+      },
+      {
+        "site": "kitsu",
+        "id": "42869"
+      },
+      {
+        "site": "kitsu",
+        "id": "43025"
+      },
+      {
+        "site": "kitsu",
+        "id": "43585"
+      },
+      {
+        "site": "kitsu",
+        "id": "45599"
+      },
+      {
+        "site": "kitsu",
+        "id": "45851"
+      },
+      {
+        "site": "kitsu",
+        "id": "46497"
+      },
+      {
+        "site": "kitsu",
+        "id": "46631"
+      },
+      {
+        "site": "kitsu",
+        "id": "46857"
+      },
+      {
+        "site": "kitsu",
+        "id": "46858"
+      },
+      {
+        "site": "livechart",
+        "id": "3702"
+      },
+      {
+        "site": "livechart",
+        "id": "3816"
+      },
+      {
+        "site": "livechart",
+        "id": "3979"
+      },
+      {
+        "site": "livechart",
+        "id": "3992"
+      },
+      {
+        "site": "livechart",
+        "id": "4045"
+      },
+      {
+        "site": "livechart",
+        "id": "4466"
+      },
+      {
+        "site": "livechart",
+        "id": "4505"
+      },
+      {
+        "site": "livechart",
+        "id": "5008"
+      },
+      {
+        "site": "livechart",
+        "id": "5217"
+      },
+      {
+        "site": "livechart",
+        "id": "5345"
+      },
+      {
+        "site": "livechart",
+        "id": "5371"
+      },
+      {
+        "site": "livechart",
+        "id": "5627"
+      },
+      {
+        "site": "livechart",
+        "id": "5641"
+      },
+      {
+        "site": "livechart",
+        "id": "5643"
+      },
+      {
+        "site": "livechart",
+        "id": "8945"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34034"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40861"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42161"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42914"
+      },
+      {
+        "site": "myanimelist",
+        "id": "49321"
+      },
+      {
+        "site": "myanimelist",
+        "id": "50673"
+      },
+      {
+        "site": "myanimelist",
+        "id": "51145"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53873"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53874"
+      },
+      {
+        "site": "myanimelist",
+        "id": "57003"
+      },
+      {
+        "site": "notify",
+        "id": "G_sKn15Vg"
+      },
+      {
+        "site": "notify",
+        "id": "eoDgWYcVg"
+      },
+      {
+        "site": "notify",
+        "id": "sv1ocKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2019,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 136,
+    "picture": "https://cdn.myanimelist.net/images/anime/1689/105554.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1689/105554t.jpg",
+    "synonyms": [
+      "Esplorazioni Pokémon",
+      "Esplorazioni Pokémon Master",
+      "Esplorazioni Pokémon Super",
+      "Jornadas Pokémon",
+      "Jornadas Pokémon: A Série",
+      "La serie Viajes Definitivos Pokémon",
+      "La serie Viajes Maestros Pokémon",
+      "La serie Viajes Pokémon",
+      "La série : Pokémon",
+      "La série : Pokémon, les voyages",
+      "Pocket Monsters",
+      "Pocket Monsters (2019)",
+      "Pocket Monsters: Project Mew",
+      "Pokemon (Shin Series)",
+      "Pokemon 2019",
+      "Pokemon Journeys",
+      "Pokemon Journeys: The Series",
+      "Pokemon Master Journeys: The Series",
+      "Pokemon Reisen: Die Serie",
+      "Pokémon",
+      "Pokémon (2019)",
+      "Pokémon : Les Voyages",
+      "Pokémon Journeys",
+      "Pokémon Journeys: The Series",
+      "Pokémon Master Journeys",
+      "Pokémon Meester Reizen: De serie",
+      "Pokémon Meister-Reisen: Die Serie",
+      "Pokémon Reisen: Die Serie",
+      "Pokémon Reiser: Serien",
+      "Pokémon Reizen: De serie",
+      "Pokémon Sword & Shield Anime Series",
+      "Pokémon Ultieme Reizen: De serie",
+      "Pokémon Ultimate Journeys",
+      "Pokémon Ultimate Journeys: The Series",
+      "Pokémon Ultimative Reisen: Die Serie",
+      "Pokémon Viajes Serie",
+      "Pokémon på rejse",
+      "Pokémon, les voyages",
+      "Pokémon: Podróże – Seria",
+      "Serie Viajes Definitivos Pokémon",
+      "Serie Viajes Maestros Pokémon",
+      "Serie Viajes Pokémon",
+      "Viajes Pokémon",
+      "les voyages d’un Maître",
+      "les voyages ultimes",
+      "pm s13",
+      "pm19",
+      "pm2019",
+      "Сериал Покемон: Приключения",
+      "ポケットモンスター",
+      "ポケットモンスター (2019)",
+      "ポケットモンスター （2019）",
+      "ポケットモンスター(2019)",
+      "宝可梦",
+      "포켓몬스터W"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1997-04-02T16:00:00.000Z",
-  "end": "2000-03-29T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "pptv",
-      "id": "3WpV0zuhEUibyMJg",
-      "begin": ""
+  {
+    "title": "新・天地無用！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新・天地无用!"
+      ]
     },
-    {
-      "site": "bangumi",
-      "id": "8412"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tenchi-web.com/",
+    "begin": "1997-04-01T09:00:00.000Z",
+    "end": "1997-09-23T09:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "TibDbWcEnl9U4th4",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "19542"
+      },
+      {
+        "site": "anidb",
+        "id": "205"
+      },
+      {
+        "site": "anidb",
+        "id": "409"
+      },
+      {
+        "site": "anilist",
+        "id": "539"
+      },
+      {
+        "site": "anilist",
+        "id": "8767"
+      },
+      {
+        "site": "anime-planet",
+        "id": "magical-girl-pretty-sammy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "magical-girl-pretty-sammy-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "magical-girl-pretty-sammy-tv"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sasami-magical-girls-club"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sasami-magical-girls-club-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-in-tokyo-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-movie-3-tenchi-forever"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-muyo-gxp"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-muyo-mihoshi-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-muyo-ryo-ohki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-muyo-ryo-ohki-final-confrontations"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-muyo-war-on-geminar"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-the-movie-2-the-daughter-of-darkness"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-the-movie-tenchi-muyo-in-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-universe"
+      },
+      {
+        "site": "anisearch",
+        "id": "782"
+      },
+      {
+        "site": "kitsu",
+        "id": "498"
+      },
+      {
+        "site": "kitsu",
+        "id": "5485"
+      },
+      {
+        "site": "livechart",
+        "id": "3716"
+      },
+      {
+        "site": "livechart",
+        "id": "4231"
+      },
+      {
+        "site": "livechart",
+        "id": "4613"
+      },
+      {
+        "site": "livechart",
+        "id": "4911"
+      },
+      {
+        "site": "livechart",
+        "id": "5496"
+      },
+      {
+        "site": "livechart",
+        "id": "5631"
+      },
+      {
+        "site": "livechart",
+        "id": "5664"
+      },
+      {
+        "site": "livechart",
+        "id": "5716"
+      },
+      {
+        "site": "livechart",
+        "id": "5721"
+      },
+      {
+        "site": "livechart",
+        "id": "594"
+      },
+      {
+        "site": "livechart",
+        "id": "6254"
+      },
+      {
+        "site": "livechart",
+        "id": "6460"
+      },
+      {
+        "site": "livechart",
+        "id": "6564"
+      },
+      {
+        "site": "livechart",
+        "id": "6698"
+      },
+      {
+        "site": "livechart",
+        "id": "7727"
+      },
+      {
+        "site": "myanimelist",
+        "id": "539"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8767"
+      },
+      {
+        "site": "notify",
+        "id": "Up-TcFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "k_RWtKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1997,
+      "month": "04"
     },
-    {
-      "site": "bilibili",
-      "id": "2031",
-      "begin": "1997-04-01T16:00:00.000Z",
-      "broadcast": "R/2011-12-28T20:30:00.000Z/P7D"
-    },
-    {
-      "site": "anidb",
-      "id": "4064"
-    },
-    {
-      "site": "anilist",
-      "id": "8956"
-    },
-    {
-      "site": "anime-planet",
-      "id": "denkou-chou-tokkyuu-hikarian"
-    },
-    {
-      "site": "anisearch",
-      "id": "2792"
-    },
-    {
-      "site": "kitsu",
-      "id": "5548"
-    },
-    {
-      "site": "myanimelist",
-      "id": "8956"
-    },
-    {
-      "site": "notify",
-      "id": "1LdZpKimR"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 1997,
-    "month": "04"
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/61149.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/61149t.jpg",
+    "synonyms": [
+      "New Tenchi Muyo",
+      "Shin Tenchi Muyo",
+      "Shin Tenchi Muyō!",
+      "Tenchi Muyo! Tenchi in Tokyo",
+      "Tenchi en Tokyo",
+      "Tenchi in Tokyo",
+      "tenchi (1997)",
+      "新・天地无用!",
+      "新・天地無用!",
+      "新・天地無用！",
+      "신・천지무용!"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 156,
-  "picture": "https://cdn.myanimelist.net/images/anime/7/74463.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/7/74463t.jpg",
-  "synonyms": [
-    "Chou Tokkyuu Hikarian: Japan Hikarian Railroad (超特急ヒカリアン JAPAN HIKARIAN RAILROAD)",
-    "Chō Tokkyū Hikarian",
-    "Hikarian",
-    "Hikarian - Great Railroad Protector",
-    "Hikarian: Great Railroad Protector",
-    "Super Express Hikarian",
-    "正義の超特急 ヒカリアン JAPAN HIKARIAN RAILROAD",
-    "超特急ヒカリアン",
-    "铁胆火车侠"
-  ]
-}
+  {
+    "title": "少女革命ウテナ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少女革命"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.starchild.co.jp/special/utena/",
+    "begin": "1997-04-02T09:00:00.000Z",
+    "end": "1997-12-24T09:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "ToB8ibmLIOHbZV78",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1453"
+      },
+      {
+        "site": "nicovideo",
+        "id": "utena-anime",
+        "begin": "2018-03-07T21:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "2277",
+        "begin": "1997-04-01T16:00:00.000Z",
+        "broadcast": "R/2013-05-11T10:54:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "256"
+      },
+      {
+        "site": "anilist",
+        "id": "441"
+      },
+      {
+        "site": "anime-planet",
+        "id": "revolutionary-girl-utena-the-adolescence-of-utena"
+      },
+      {
+        "site": "anisearch",
+        "id": "1159"
+      },
+      {
+        "site": "kitsu",
+        "id": "404"
+      },
+      {
+        "site": "livechart",
+        "id": "4737"
+      },
+      {
+        "site": "myanimelist",
+        "id": "441"
+      },
+      {
+        "site": "notify",
+        "id": "HZMo5KmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1997,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 39,
+    "picture": "https://cdn.myanimelist.net/images/anime/1078/95285.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1078/95285t.jpg",
+    "synonyms": [
+      "La rivoluzione di Utena",
+      "Revolutionary Girl Utena",
+      "Revolutionary Girl Utena TV",
+      "Rewolucjonistka Utena",
+      "Shoujo Kakumei Utena TV",
+      "Shōjo Kakumei Utena",
+      "Ursula's Kiss",
+      "Utena",
+      "Utena - La fillette révolutionnaire",
+      "Utena TV",
+      "Utena la fillette révolutionnaire",
+      "Utena la ragazza della rivoluzione",
+      "Utena, La Chica Revolucionaria",
+      "Utena: La fillette révolutionnaire",
+      "rgu",
+      "sku",
+      "Юная революционерка Утэна",
+      "しょうじょかくめいうてな",
+      "少女革命",
+      "少女革命ウテナ"
+    ]
+  },
+  {
+    "title": "白鯨伝説",
+    "titleTranslate": {
+      "en": [
+        "Hakugei: Legend of Moby Dick"
+      ],
+      "zh-Hans": [
+        "白鲸传说"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.at-x.com/program/detail/3549",
+    "begin": "1997-04-09T16:00:00.000Z",
+    "end": "1999-05-12T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "105129"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1997,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/1521/92985.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1521/92985t.jpg",
+    "synonyms": [
+      "Hakugei - Legend of the Moby Dick",
+      "Hakugei: Legend of the Moby Dick",
+      "Legend of Moby Dick",
+      "Legend of the White Whale",
+      "Moby",
+      "أسطورة الحوت الأبيض",
+      "الأشاوس",
+      "はくげいでんせつ",
+      "白鯨伝説"
+    ]
+  },
+  {
+    "title": "はいぱーぽりす",
+    "titleTranslate": {
+      "zh-Hans": [
+        "猫狐警探"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://pierrot.jp/archives/tv_list_1995/tv_034.html",
+    "begin": "1997-04-03T16:00:00.000Z",
+    "end": "1997-09-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "85436"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1997,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 25,
+    "picture": "https://cdn.myanimelist.net/images/anime/1401/119360.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1401/119360t.jpg",
+    "synonyms": [
+      "hp",
+      "hyperpolice",
+      "Гиперполиция",
+      "はいぱーぽりす"
+    ]
+  },
+  {
+    "title": "シティーハンタースペシャル グッド・バイ・マイ・スイート・ハート",
+    "titleTranslate": {
+      "zh-Hans": [
+        "城市猎人 再见 我的爱人"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-04-25T16:00:00.000Z",
+    "end": "1997-04-25T16:45:00.000Z",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "m/mvc7etmp0qsi89x",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "53939"
+      },
+      {
+        "site": "letv",
+        "id": "10004313",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2496",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "1569"
+      },
+      {
+        "site": "anidb",
+        "id": "1571"
+      },
+      {
+        "site": "anilist",
+        "id": "1477"
+      },
+      {
+        "site": "anilist",
+        "id": "1479"
+      },
+      {
+        "site": "anime-planet",
+        "id": "city-hunter"
+      },
+      {
+        "site": "anime-planet",
+        "id": "city-hunter-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "city-hunter-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "city-hunter-357-magnum"
+      },
+      {
+        "site": "anime-planet",
+        "id": "city-hunter-91"
+      },
+      {
+        "site": "anime-planet",
+        "id": "city-hunter-bay-city-wars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "city-hunter-death-of-the-vicious-criminal-ryo-saeba"
+      },
+      {
+        "site": "anime-planet",
+        "id": "city-hunter-million-dollar-conspiracy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "city-hunter-ryou-no-propose"
+      },
+      {
+        "site": "anime-planet",
+        "id": "city-hunter-the-secret-service"
+      },
+      {
+        "site": "anisearch",
+        "id": "3365"
+      },
+      {
+        "site": "kitsu",
+        "id": "1323"
+      },
+      {
+        "site": "kitsu",
+        "id": "1325"
+      },
+      {
+        "site": "livechart",
+        "id": "11179"
+      },
+      {
+        "site": "livechart",
+        "id": "1609"
+      },
+      {
+        "site": "livechart",
+        "id": "3166"
+      },
+      {
+        "site": "livechart",
+        "id": "4648"
+      },
+      {
+        "site": "livechart",
+        "id": "8407"
+      },
+      {
+        "site": "livechart",
+        "id": "8409"
+      },
+      {
+        "site": "livechart",
+        "id": "8410"
+      },
+      {
+        "site": "livechart",
+        "id": "8411"
+      },
+      {
+        "site": "livechart",
+        "id": "8412"
+      },
+      {
+        "site": "livechart",
+        "id": "8413"
+      },
+      {
+        "site": "livechart",
+        "id": "8414"
+      },
+      {
+        "site": "livechart",
+        "id": "8416"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1477"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1479"
+      },
+      {
+        "site": "notify",
+        "id": "Vlva5Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "cxva5Kimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1997,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1814/94961.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1814/94961t.jpg",
+    "synonyms": [
+      "CITY HUNTER スペシャル グッド・バイ・マイ・スイート・ハート",
+      "City Hunter - Goodbye My Sweetheart",
+      "City Hunter : Goodbye My Sweetheart",
+      "City Hunter Special 5 - La Rosa Nera",
+      "City Hunter Special: Good-by My Sweet Heart",
+      "City Hunter Special: Goodbye My Sweetheart",
+      "City Hunter: Adiós, mi Vida",
+      "City Hunter: Adiós, mi vida",
+      "City Hunter: La rosa nera",
+      "City Hunter: The Motion Picture",
+      "La Rosa Nera",
+      "Nicky Larson - Goodbye My Sweetheart",
+      "Nicky Larson - Goodbye my Sweetheart",
+      "Pemburu Kota -Selamat Tinggal Kekasihku",
+      "Thợ Săn Thành Phố: Tạm Biệt Người Yêu Của Tôi",
+      "ซิตี้ฮันเตอร์ ลาก่อน สุดที่รักของฉัน",
+      "シティーハンター スペシャル グッド・バイ・マイ・スイート・ハート",
+      "シティーハンタースペシャル グッド・バイ・マイ・スイート・ハート",
+      "城市猎人 再见 我的爱人"
+    ]
+  },
+  {
+    "title": "金田一少年の事件簿",
+    "titleTranslate": {
+      "zh-Hans": [
+        "金田一少年事件簿"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/tv/kindaichi/",
+    "begin": "1997-04-07T16:00:00.000Z",
+    "end": "2000-09-11T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb1avt",
+        "begin": "2015-08-14T16:12:33.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "9588"
+      },
+      {
+        "site": "anidb",
+        "id": "1240"
+      },
+      {
+        "site": "anidb",
+        "id": "2126"
+      },
+      {
+        "site": "anidb",
+        "id": "5555"
+      },
+      {
+        "site": "anilist",
+        "id": "2076"
+      },
+      {
+        "site": "anilist",
+        "id": "3245"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kindaichi-shounen-no-jikenbo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kindaichi-shounen-no-jikenbo-2007"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kindaichi-shounen-no-jikenbo-kuromajutsu-satsujin-jiken-hen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kindaichi-shounen-no-jikenbo-movie-2-satsuriku-no-deep-blue"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kindaichi-shounen-no-jikenbo-returns"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kindaichi-shounen-no-jikenbo-returns-2015"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kindaichi-shounen-no-jikenbo-returns-akechi--keibu-no-jikenbo"
+      },
+      {
+        "site": "anisearch",
+        "id": "1175"
+      },
+      {
+        "site": "anisearch",
+        "id": "2185"
+      },
+      {
+        "site": "kitsu",
+        "id": "1875"
+      },
+      {
+        "site": "kitsu",
+        "id": "2880"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2076"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3245"
+      },
+      {
+        "site": "notify",
+        "id": "8fNQ5KmiR"
+      },
+      {
+        "site": "notify",
+        "id": "MvBY5KmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1996,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/25372.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/25372t.jpg",
+    "synonyms": [
+      "Kindaichi Movie 1",
+      "Kindaichi Shounen no Jikenbo",
+      "Kindaichi Shounen no Jikenbo: Operazakan - Aratanaru Satsujin",
+      "Kindaichi Shōnen no Jikenbo",
+      "The Case Files of Young Kindaichi Movie",
+      "The Cases of Young Kindaichi",
+      "Young Kindaichi's Casebook",
+      "Young Kindaichi`s Casebook",
+      "金田一少年の事件簿",
+      "金田一少年の事件簿・オペラ座館・新たなる殺人"
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん 暗黒タマタマ大追跡",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新之黑暗珠珠大追击"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.shinchan-movie.com/",
+    "begin": "1997-04-19T16:00:00.000Z",
+    "end": "1997-04-19T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "3aGLCXHXR4XoZs4",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "begin": "",
+        "url": "http://www.iqiyi.com/dongman/20130715/75c20dc1fe211093.html"
+      },
+      {
+        "site": "bangumi",
+        "id": "8971"
+      },
+      {
+        "site": "qq",
+        "id": "b/bymafsjpccgo4bw",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "11652",
+        "begin": "1997-04-18T16:00:01.000Z",
+        "broadcast": "R/2017-12-12T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "youku",
+        "id": "f071c50061ad11e0bea1",
+        "begin": "2013-03-15T12:02:56.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "708"
+      },
+      {
+        "site": "anilist",
+        "id": "8359"
+      },
+      {
+        "site": "anilist",
+        "id": "8360"
+      },
+      {
+        "site": "anilist",
+        "id": "966"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-arashi-o-yobu-ora-to-uchuu-no-princess"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-arashi-o-yobu-utau-ketsu-dake-bakudan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-chou-jikuu-arashi-wo-yobu-ora-no-hanayome"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-1-action-kamen-vs-daigure-maou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-10-arashi-wo-yobu-appare-sengoku-daikassen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-11-arashi-wo-yobu-eikou-no-yakiniku-road"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-12-arashi-wo-yobu-yuuhi-no-kasukabe-boys"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-13-densetsu-wo-yobu-buriburi-3-pun-dai-shingeki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-14-densetsu-wo-yobu-odore-amigo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-16-chou-arashi-wo-yobu-kinpoko-no-yuusha"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-17-otakebe-kasukabe-yasei-oukoku"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-19-arashi-wo-yobu-ougon-no-spy-daisakusen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-2-buriburi-oukoku-no-hihou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-21-bakauma-b-kyuu-gourmet-survival-battle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-22-gachinko-gyakushuu-no-robo-to-chan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-23-ora-no-hikkoshi-monogatari-saboten-dai-shuugeki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-24-bakusui-yumemi-world-dai-totsugeki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-25-shurai-uchujin-shiriri"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-26-bakumori-kung-fu-boys-ramen-tairan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-27-shinkon-ryokou-hurricane-ushinawareta-hiroshi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-28-gekitotsu-rakuga-kingdom-to-hobo-yonin-no-yuusha"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-29-nazo-meki-hana-no-tenkasu-gakuen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-3-unkokusai-no-yabou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-4-henderland-no-daibouken"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-6-dengeki-buta-no-hizume-daisakusen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-7-bakuhatsu-onsen-wakuwaku-daikessen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-8-arashi-wo-yobu-jungle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan-movie-9-the-adult-empire-strikes-back"
+      },
+      {
+        "site": "anisearch",
+        "id": "178"
+      },
+      {
+        "site": "kitsu",
+        "id": "5308"
+      },
+      {
+        "site": "kitsu",
+        "id": "5309"
+      },
+      {
+        "site": "kitsu",
+        "id": "856"
+      },
+      {
+        "site": "livechart",
+        "id": "1608"
+      },
+      {
+        "site": "livechart",
+        "id": "7211"
+      },
+      {
+        "site": "livechart",
+        "id": "8457"
+      },
+      {
+        "site": "livechart",
+        "id": "8546"
+      },
+      {
+        "site": "livechart",
+        "id": "8547"
+      },
+      {
+        "site": "livechart",
+        "id": "8591"
+      },
+      {
+        "site": "livechart",
+        "id": "8622"
+      },
+      {
+        "site": "livechart",
+        "id": "8624"
+      },
+      {
+        "site": "livechart",
+        "id": "8625"
+      },
+      {
+        "site": "livechart",
+        "id": "8626"
+      },
+      {
+        "site": "livechart",
+        "id": "8627"
+      },
+      {
+        "site": "livechart",
+        "id": "8628"
+      },
+      {
+        "site": "livechart",
+        "id": "8629"
+      },
+      {
+        "site": "livechart",
+        "id": "8630"
+      },
+      {
+        "site": "livechart",
+        "id": "8631"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8359"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8360"
+      },
+      {
+        "site": "myanimelist",
+        "id": "966"
+      },
+      {
+        "site": "notify",
+        "id": "G6HitFimg"
+      },
+      {
+        "site": "notify",
+        "id": "H-vJ5Fimg"
+      },
+      {
+        "site": "notify",
+        "id": "gWDipFimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1997,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/22021.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/22021t.jpg",
+    "synonyms": [
+      "Crayon Shin-chan - Film 05",
+      "Crayon Shin-chan Movie 05",
+      "Crayon Shin-chan Movie 1997",
+      "Crayon Shin-chan Movie 5: Ankoku Tamatama Daitsuiseki",
+      "Crayon Shin-chan: Ankoku Tamatama Daitsuiseki",
+      "Crayon Shin-chan: Pursuit of the Balls of Darkness",
+      "Crayon Shinchan The Movie: The Dark Ball Chase",
+      "Crayon Shinchan the Movie 05: Pursuit of the Balls of Darkness",
+      "Eiga Crayon Shin-chan: Ankoku Tamatama Daitsuiseki",
+      "Shin - Cậu Bé Bút Chì: Cuộc Truy Đuổi Viên Ngọc Hắc Ám",
+      "Shin Chan Película 5: Shin Chan en Busca de las Bolas Perdidas",
+      "Shin Chan: en busca de las bolas perdidas",
+      "Shin-chan: en busca de las bolas perdidas",
+      "ชินจัง เดอะมูฟวี่ 5 : โล้นซ่าสาวแสบ กับลูกแก้วแห่งความมืด",
+      "クレヨンしんちゃん 暗黒タマタマ大追跡",
+      "映画 クレヨンしんちゃん 暗黒タマタマ大追跡",
+      "映画 クレヨンしんちゃん　暗黒タマタマ大追跡",
+      "蜡笔小新之黑暗珠珠大追击"
+    ]
+  },
+  {
+    "title": "名探偵コナン 時計じかけの摩天楼",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 引爆摩天楼"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "1997-04-19T16:00:00.000Z",
+    "end": "1997-04-19T17:35:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zual",
+        "begin": "2016-11-11T08:33:52.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "2968"
+      },
+      {
+        "site": "pptv",
+        "id": "NQHradE3pibVIxia4",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "7/7yps65l58q1djte",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "youku",
+        "id": "fa1f2fac61ad11e0bea1",
+        "begin": "2013-03-10T17:17:36.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228964",
+        "begin": "2020-05-21T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "266"
+      },
+      {
+        "site": "anilist",
+        "id": "235"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-countdown-to-heaven"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-crossroad-in-the-ancient-capital"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-full-score-of-fear"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-jolly-roger-in-the-deep-azure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-magician-of-the-silver-sky"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-14-the-lost-ship-in-the-sky"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-15-quarter-of-silence"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-18-the-sniper-from-another-dimension"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-19-the-hellfire-sunflowers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-20-the-darkest-nightmare"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-21-the-crimson-love-letter"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-22-zero-the-enforcer"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-23-the-fist-of-blue-sapphire"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-24-the-scarlet-bullet"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-3-the-last-magician-of-the-century"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-4-captured-in-her-eyes"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-6-the-phantom-of-baker-street"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-movie-9-strategy-above-the-depths"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-the-eleventh-striker"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-the-fourteenth-target"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-the-private-eyes-requiem"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-the-raven-chaser"
+      },
+      {
+        "site": "anime-planet",
+        "id": "detective-conan-zekkai-no-private-eye"
+      },
+      {
+        "site": "anisearch",
+        "id": "1721"
+      },
+      {
+        "site": "kitsu",
+        "id": "210"
+      },
+      {
+        "site": "livechart",
+        "id": "319"
+      },
+      {
+        "site": "livechart",
+        "id": "4615"
+      },
+      {
+        "site": "livechart",
+        "id": "4634"
+      },
+      {
+        "site": "livechart",
+        "id": "4688"
+      },
+      {
+        "site": "livechart",
+        "id": "4710"
+      },
+      {
+        "site": "livechart",
+        "id": "4732"
+      },
+      {
+        "site": "livechart",
+        "id": "4783"
+      },
+      {
+        "site": "livechart",
+        "id": "4809"
+      },
+      {
+        "site": "livechart",
+        "id": "4860"
+      },
+      {
+        "site": "livechart",
+        "id": "6391"
+      },
+      {
+        "site": "livechart",
+        "id": "6392"
+      },
+      {
+        "site": "livechart",
+        "id": "6400"
+      },
+      {
+        "site": "livechart",
+        "id": "6411"
+      },
+      {
+        "site": "livechart",
+        "id": "6441"
+      },
+      {
+        "site": "livechart",
+        "id": "8185"
+      },
+      {
+        "site": "myanimelist",
+        "id": "235"
+      },
+      {
+        "site": "notify",
+        "id": "lWnhcKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1997,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/77131.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/77131t.jpg",
+    "synonyms": [
+      "Case Closed Movie 1",
+      "Case Closed Movie: The Time-Bombed Skyscraper",
+      "Case Closed The Movie: The Time Bombed Skyscraper",
+      "Case Closed: The Time Bombed Skyscraper",
+      "Conan, a detektív - Bomba a felhőkarcolóban",
+      "DC M1",
+      "Detective Conan 1 - Peligro en el rascacielos",
+      "Detective Conan Movie 01: Fino alla fine del tempo",
+      "Detective Conan Movie 01: The Timed Skyscraper",
+      "Detective Conan Movie 1: The Time Bombed Skyscraper",
+      "Detective Conan Movie 1: The Timed Skyscraper",
+      "Detective Conan la Película 1: El Rascacielos del Tiempo",
+      "Detective Conan: Fino alla fine del tempo",
+      "Detective Conan: Movie 1",
+      "Detective Conan: Movie 1: The Timed Skyscraper",
+      "Detective Conan: Peligro en el rascacielos",
+      "Detective Conan: The Timed Skyscraper",
+      "Detektiv Conan - 1. Film: Der tickende Wolkenkratzer",
+      "Detektiv Conan Film 1: Zeitbombe im Wolkenkratzer",
+      "Detektiv Conan der Film: Der tickende Wolkenkratzer",
+      "Detektiv Conan: Der tickende Wolkenkratzer",
+      "Detektyw Conan: Architekt Zniszczenia",
+      "Détective Conan - Film 1",
+      "Détective Conan - Le gratte-ciel infernal",
+      "Détective Conan le Film: Le Gratte-Ciel infernal",
+      "Détective Conan: Le Gratte-Ciel infernal",
+      "Meitantei Conan Movie 1",
+      "Meitantei Conan Movie 1: Tokei Jikake no Matenrou",
+      "Meitantei Conan: Tokei Jikake no Matenrou",
+      "Meitantei Conan: Tokei Jikake no Matenrō",
+      "Детектив Конан: Временно на върха",
+      "ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 1 ตอน คดีปริศนาระเบิดฟ้า",
+      "めいたんていこなんとけいじかけのまてんろう",
+      "名侦探柯南 引爆摩天楼",
+      "名探偵コナン 時計じかけの摩天楼",
+      "计时引爆摩天楼",
+      "명탐정 코난: 시한장치의 마천루"
+    ]
+  },
+  {
+    "title": "HAUNTEDじゃんくしょん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "猛鬼校园"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-04-02T16:00:00.000Z",
+    "end": "1997-06-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "JmlT0TmfD02wLpY",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "19454"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1997,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1163/94507.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1163/94507t.jpg",
+    "synonyms": [
+      "HAUNTED Junction",
+      "HAUNTED じゃんくしょん",
+      "HAUNTEDじゃんくしょん",
+      "Haunted じゃんくしょん",
+      "Перекрёсток духов",
+      "הונטד ג`ונקשיון",
+      "ホーンテッドじゃんくしょん",
+      "猛鬼校园"
+    ]
+  },
+  {
+    "title": "超特急ヒカリアン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "铁胆火车侠"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-04-02T16:00:00.000Z",
+    "end": "2000-03-29T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "3WpV0zuhEUibyMJg",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "8412"
+      },
+      {
+        "site": "bilibili",
+        "id": "2031",
+        "begin": "1997-04-01T16:00:00.000Z",
+        "broadcast": "R/2011-12-28T20:30:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "4064"
+      },
+      {
+        "site": "anilist",
+        "id": "8956"
+      },
+      {
+        "site": "anime-planet",
+        "id": "denkou-chou-tokkyuu-hikarian"
+      },
+      {
+        "site": "anisearch",
+        "id": "2792"
+      },
+      {
+        "site": "kitsu",
+        "id": "5548"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8956"
+      },
+      {
+        "site": "notify",
+        "id": "1LdZpKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1997,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 156,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/74463.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/74463t.jpg",
+    "synonyms": [
+      "Chou Tokkyuu Hikarian: Japan Hikarian Railroad (超特急ヒカリアン JAPAN HIKARIAN RAILROAD)",
+      "Chō Tokkyū Hikarian",
+      "Hikarian",
+      "Hikarian - Great Railroad Protector",
+      "Hikarian: Great Railroad Protector",
+      "Super Express Hikarian",
+      "正義の超特急 ヒカリアン JAPAN HIKARIAN RAILROAD",
+      "超特急ヒカリアン",
+      "铁胆火车侠"
+    ]
+  }
+]

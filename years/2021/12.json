@@ -1,42 +1,823 @@
-{
-  "title": "フラ・フラダンス",
-  "titleTranslate": {
-    "zh-Hans": [
-      "扶桑花之舞"
+[
+  {
+    "title": "鬼滅の刃 遊郭編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼灭之刃 游郭篇"
+      ],
+      "zh-Hant": [
+        "鬼滅之刃 遊郭篇"
+      ],
+      "en": [
+        "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://kimetsu.com/anime/yukakuhen/",
+    "begin": "2021-12-05T14:15:00.000Z",
+    "broadcast": "R/2021-12-05T14:15:00.000Z/P7D",
+    "end": "2022-02-13T15:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "328195"
+      },
+      {
+        "site": "viu",
+        "id": "411458",
+        "begin": "2021-12-05T15:45:00.000Z",
+        "broadcast": "R/2021-12-05T15:45:00.000Z/P7D",
+        "comment": "粵語版: 419032"
+      },
+      {
+        "site": "netflix",
+        "id": "81091393",
+        "begin": "2021-12-05T14:15:00.000Z",
+        "broadcast": "R/2021-12-05T14:15:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "1DuIg0wour9D",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "115835",
+        "begin": "2021-12-05T15:45:00.000Z",
+        "broadcast": "R/2021-12-05T15:45:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28235125",
+        "begin": "2022-03-12T12:00:00.000Z",
+        "broadcast": "R/2022-03-12T12:00:00.000Z/P7D",
+        "comment": "中配版: 20316645"
+      },
+      {
+        "site": "mytv",
+        "id": "demonslayerkimetsunoyaibaentertainmentdistrictarc0001_133873",
+        "begin": "2022-01-12T16:00:00.000Z",
+        "broadcast": "R/2022-01-12T16:00:00.000Z/P7D",
+        "comment": "雙語版"
+      },
+      {
+        "site": "anidb",
+        "id": "16803"
+      },
+      {
+        "site": "anidb",
+        "id": "17198"
+      },
+      {
+        "site": "anidb",
+        "id": "17976"
+      },
+      {
+        "site": "anilist",
+        "id": "112151"
+      },
+      {
+        "site": "anilist",
+        "id": "129874"
+      },
+      {
+        "site": "anilist",
+        "id": "145139"
+      },
+      {
+        "site": "anime-planet",
+        "id": "demon-slayer-kimetsu-no-yaiba"
+      },
+      {
+        "site": "anime-planet",
+        "id": "demon-slayer-kimetsu-no-yaiba-movie-mugen-train"
+      },
+      {
+        "site": "anime-planet",
+        "id": "demon-slayer-kimetsu-no-yaiba-mugen-train"
+      },
+      {
+        "site": "anime-planet",
+        "id": "demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc"
+      },
+      {
+        "site": "anisearch",
+        "id": "14653"
+      },
+      {
+        "site": "anisearch",
+        "id": "16614"
+      },
+      {
+        "site": "anisearch",
+        "id": "17088"
+      },
+      {
+        "site": "anisearch",
+        "id": "18149"
+      },
+      {
+        "site": "kitsu",
+        "id": "42586"
+      },
+      {
+        "site": "kitsu",
+        "id": "45249"
+      },
+      {
+        "site": "kitsu",
+        "id": "45866"
+      },
+      {
+        "site": "kitsu",
+        "id": "47122"
+      },
+      {
+        "site": "livechart",
+        "id": "10399"
+      },
+      {
+        "site": "livechart",
+        "id": "10816"
+      },
+      {
+        "site": "livechart",
+        "id": "11084"
+      },
+      {
+        "site": "livechart",
+        "id": "11722"
+      },
+      {
+        "site": "livechart",
+        "id": "11814"
+      },
+      {
+        "site": "livechart",
+        "id": "12113"
+      },
+      {
+        "site": "livechart",
+        "id": "3311"
+      },
+      {
+        "site": "livechart",
+        "id": "9232"
+      },
+      {
+        "site": "livechart",
+        "id": "9614"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40456"
+      },
+      {
+        "site": "myanimelist",
+        "id": "49926"
+      },
+      {
+        "site": "myanimelist",
+        "id": "51019"
+      },
+      {
+        "site": "myanimelist",
+        "id": "54591"
+      },
+      {
+        "site": "notify",
+        "id": "CqN9Rja7R"
+      },
+      {
+        "site": "notify",
+        "id": "TxfF-ab4g"
+      },
+      {
+        "site": "notify",
+        "id": "a8hdTT2WR"
+      }
     ],
-    "zh-Hant": [
-      "扶桑花女孩之舞"
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2021,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 11,
+    "picture": "https://cdn.myanimelist.net/images/anime/1908/120036.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1908/120036t.jpg",
+    "synonyms": [
+      "Demon Slayer 2",
+      "Demon Slayer : Kimetsu no Yaiba - Le Quartier des Plaisirs",
+      "Demon Slayer Season 2",
+      "Demon Slayer: Entertainment District Arc",
+      "Demon Slayer: Kimetsu no Yaiba - Arco del Distrito Rojo",
+      "Demon Slayer: Kimetsu no Yaiba - Entertainment District Arc",
+      "Demon Slayer: Kimetsu no Yaiba - Il Distretto di Piacere",
+      "Demon Slayer: Kimetsu no Yaiba - Le quartier des plaisirs",
+      "Demon Slayer: Kimetsu no Yaiba - Quartiere di Piacere",
+      "Demon Slayer: Kimetsu no Yaiba - Yuukaku-hen",
+      "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+      "Demon Slayer: Kimetsu no Yaiba Season 2",
+      "Demon Slayer: Kimetsu no Yaiba Season 3",
+      "Demon Slayer: Kimetsu no Yaiba: Entertainment District Arc",
+      "Guardianes de la Noche: Kimetsu no Yaiba - Arco \"El Barrio del Placer\"",
+      "Kimetsu no Yaiba 2",
+      "Kimetsu no Yaiba: Yuukaku Hen",
+      "Kimetsu no Yaiba: Yūkaku-hen",
+      "KnY 2",
+      "KnY s3",
+      "ds s3",
+      "Истребитель демонов: Квартал красных фонарей",
+      "ดาบพิฆาตอสูร ภาค 2 บทย่านเริงรมย์",
+      "鬼滅の刃 遊郭編",
+      "鬼滅之刃 遊郭篇",
+      "鬼灭之刃 游郭篇"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "https://hula-fulladance.com",
-  "begin": "2021-12-02T16:00:00.000Z",
-  "end": "2021-12-02T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "318543"
+  {
+    "title": "かなしきデブ猫ちゃん",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.nhk.or.jp/matsuyama/debunekochan/",
+    "begin": "2021-12-19T15:53:00.000Z",
+    "broadcast": "R/2021-12-19T15:53:00.000Z/P7D",
+    "end": "2022-02-28T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "366528"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2021,
+      "month": "12"
     },
-    {
-      "site": "gamer",
-      "id": "114473",
-      "begin": "2023-08-03T16:00:00.000Z",
-      "broadcast": "R/2023-08-03T16:00:00.000Z/P7D"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 2021,
-    "month": "12"
+    "status": "FINISHED",
+    "episodes": 10,
+    "picture": "https://cdn.myanimelist.net/images/anime/1626/116549.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1626/116549t.jpg",
+    "synonyms": [
+      "The Sad and Fat Cat",
+      "かなしきデブ猫ちゃん"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1874/117582.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1874/117582t.jpg",
-  "synonyms": [
-    "フラ・フラダンス",
-    "扶桑花之舞"
-  ]
-}
+  {
+    "title": "魔法科高校の劣等生 追憶編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法科高校的劣等生 追忆篇"
+      ],
+      "zh-Hant": [
+        "魔法科高中的劣等生: 追憶篇",
+        "魔法科高中的劣等生 追憶篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://mahouka.jp/",
+    "begin": "2021-12-31T14:57:00.000Z",
+    "end": "2021-12-31T14:57:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "329436"
+      },
+      {
+        "site": "viu",
+        "id": "416948",
+        "begin": "2021-12-31T16:00:00.000Z",
+        "broadcast": "R/2021-12-31T16:00:00.000Z/P0D"
+      },
+      {
+        "site": "gamer",
+        "id": "120950",
+        "begin": "2021-12-31T16:30:00.000Z",
+        "broadcast": "R/2021-12-31T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "10182"
+      },
+      {
+        "site": "anilist",
+        "id": "20458"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-honor-student-at-magic-high-school"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-irregular-at-magic-high-school"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-irregular-at-magic-high-school-10th-anniversary-pv"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-irregular-at-magic-high-school-movie-the-girl-who-summons-the-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-irregular-at-magic-high-school-new"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-irregular-at-magic-high-school-visitor-arc"
+      },
+      {
+        "site": "anisearch",
+        "id": "9057"
+      },
+      {
+        "site": "kitsu",
+        "id": "8053"
+      },
+      {
+        "site": "livechart",
+        "id": "10295"
+      },
+      {
+        "site": "livechart",
+        "id": "11006"
+      },
+      {
+        "site": "livechart",
+        "id": "2068"
+      },
+      {
+        "site": "livechart",
+        "id": "265"
+      },
+      {
+        "site": "livechart",
+        "id": "4551"
+      },
+      {
+        "site": "livechart",
+        "id": "5068"
+      },
+      {
+        "site": "livechart",
+        "id": "9626"
+      },
+      {
+        "site": "myanimelist",
+        "id": "20785"
+      },
+      {
+        "site": "notify",
+        "id": "OtYhtFimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2021,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1847/120234.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1847/120234t.jpg",
+    "synonyms": [
+      "Mahouka Koukou no Rettousei: Tsuioku Hen",
+      "Mahōka Kōkō no Rettōsei: Tsuioku-hen",
+      "The Irregular at Magic High School : Reminiscence Arc",
+      "The Irregular at Magic High School: Reminiscence Arc",
+      "mahouka special",
+      "พี่น้องปริศนาโรงเรียนมหาเวท ภาคย้อนความหลัง",
+      "魔法科高校の劣等生 追憶編",
+      "魔法科高校的劣等生 追忆篇"
+    ]
+  },
+  {
+    "title": "劇場版 呪術廻戦 0",
+    "titleTranslate": {
+      "zh-Hans": [
+        "咒术回战 0：剧场版"
+      ],
+      "zh-Hant": [
+        "咒術迴戰 0 劇場版",
+        "劇場版咒術迴戰 0",
+        "劇場版 咒術迴戰 0"
+      ],
+      "en": [
+        "Jujutsu Kaisen 0: The Movie"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://jujutsukaisen-movie.jp/",
+    "begin": "2021-12-23T16:00:00.000Z",
+    "end": "2021-12-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "331559"
+      },
+      {
+        "site": "netflix",
+        "id": "81602834",
+        "begin": "2022-09-20T16:00:00.000Z",
+        "broadcast": "R/2022-09-20T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339655",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "15275"
+      },
+      {
+        "site": "anilist",
+        "id": "113415"
+      },
+      {
+        "site": "anime-planet",
+        "id": "jujutsu-kaisen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "jujutsu-kaisen-2nd-season-recaps"
+      },
+      {
+        "site": "anisearch",
+        "id": "14790"
+      },
+      {
+        "site": "kitsu",
+        "id": "42765"
+      },
+      {
+        "site": "livechart",
+        "id": "10184"
+      },
+      {
+        "site": "livechart",
+        "id": "11083"
+      },
+      {
+        "site": "livechart",
+        "id": "9680"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40748"
+      },
+      {
+        "site": "myanimelist",
+        "id": "56243"
+      },
+      {
+        "site": "notify",
+        "id": "gJxHH6gGR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2021,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1121/119044.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1121/119044t.jpg",
+    "synonyms": [
+      "Gekijouban Jujutsu Kaisen 0",
+      "Gekijōban Jujutsu Kaisen 0",
+      "JJK 0",
+      "JJK0",
+      "JUJUTSU KAISEN 0",
+      "Jujutsu Kaisen 0",
+      "Jujutsu Kaisen 0: O Filme",
+      "Jujutsu Kaisen 0: Städtische Fachoberschule für Magie Tokyo",
+      "Jujutsu Kaisen 0: The Movie",
+      "Tokyo Metropolitan Magic Technical School",
+      "jjk0",
+      "มหาเวทย์ผนึกมาร : ซีโร่",
+      "‎جوجوتسو كايسن 0",
+      "剧场版 咒术回战 0",
+      "劇場版 呪術廻戦 0",
+      "呪術廻戦 0",
+      "咒术回战0"
+    ]
+  },
+  {
+    "title": "ARIA The BENEDIZIONE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "水星领航员 The BENEDIZIONE"
+      ],
+      "zh-Hant": [
+        "水星領航員 ARIA The BENEDIZIONE"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://ariacompany.net",
+    "begin": "2021-12-02T16:00:00.000Z",
+    "end": "2021-12-02T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "329948"
+      },
+      {
+        "site": "gamer",
+        "id": "116200",
+        "begin": "2022-07-27T04:00:00.000Z",
+        "broadcast": "R/2022-07-27T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "15499"
+      },
+      {
+        "site": "anilist",
+        "id": "117556"
+      },
+      {
+        "site": "anime-planet",
+        "id": "aria-the-animation"
+      },
+      {
+        "site": "anime-planet",
+        "id": "aria-the-avvenire"
+      },
+      {
+        "site": "anime-planet",
+        "id": "aria-the-crepuscolo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "aria-the-natural"
+      },
+      {
+        "site": "anime-planet",
+        "id": "aria-the-origination"
+      },
+      {
+        "site": "anisearch",
+        "id": "15177"
+      },
+      {
+        "site": "kitsu",
+        "id": "43481"
+      },
+      {
+        "site": "livechart",
+        "id": "1393"
+      },
+      {
+        "site": "livechart",
+        "id": "3740"
+      },
+      {
+        "site": "livechart",
+        "id": "3898"
+      },
+      {
+        "site": "livechart",
+        "id": "4078"
+      },
+      {
+        "site": "livechart",
+        "id": "5085"
+      },
+      {
+        "site": "livechart",
+        "id": "5212"
+      },
+      {
+        "site": "livechart",
+        "id": "5645"
+      },
+      {
+        "site": "livechart",
+        "id": "5707"
+      },
+      {
+        "site": "livechart",
+        "id": "9888"
+      },
+      {
+        "site": "myanimelist",
+        "id": "41674"
+      },
+      {
+        "site": "notify",
+        "id": "opJeT4qWg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2021,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1707/117069.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1707/117069t.jpg",
+    "synonyms": [
+      "ARIA The BENEDIZIONE",
+      "Aria7",
+      "Aria: The Final Chapter",
+      "アリア ザ ベネディジオーネ",
+      "水星領航員 The BENEDIZIONE",
+      "水星领航员 The BENEDIZIONE"
+    ]
+  },
+  {
+    "title": "ギヴン うらがわの存在",
+    "titleTranslate": {
+      "zh-Hans": [
+        "GIVEN 内侧的存在"
+      ],
+      "zh-Hant": [
+        "GIVEN 被贈與的未來 劇場版：反面的存在"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://given-anime.com/oad/",
+    "begin": "2021-12-01T16:00:00.000Z",
+    "end": "2021-12-01T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "337433"
+      },
+      {
+        "site": "gamer",
+        "id": "120753",
+        "begin": "2022-06-24T04:00:00.000Z",
+        "broadcast": "R/2022-06-24T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "15102"
+      },
+      {
+        "site": "anilist",
+        "id": "111734"
+      },
+      {
+        "site": "anime-planet",
+        "id": "given"
+      },
+      {
+        "site": "anime-planet",
+        "id": "given-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "14627"
+      },
+      {
+        "site": "kitsu",
+        "id": "42572"
+      },
+      {
+        "site": "livechart",
+        "id": "11893"
+      },
+      {
+        "site": "livechart",
+        "id": "9356"
+      },
+      {
+        "site": "livechart",
+        "id": "9604"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40421"
+      },
+      {
+        "site": "notify",
+        "id": "rpnAwnQWg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2021,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1031/115154.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1031/115154t.jpg",
+    "synonyms": [
+      "Given : Celui de l’autre côté",
+      "Given OAD",
+      "Given OVA",
+      "Given: Can't Say Goodbye, I'm Still Drifting With Your Echoes.",
+      "Given: L’esistenza dall’altra parte",
+      "Given: On the Other Hand",
+      "Given: on the other hand",
+      "[given] Can't Say Goodbye, I'm Still Drifting With Your Echoes.",
+      "given - on the other hand",
+      "given: Uragawa no Sonzai",
+      "given: on the other hand",
+      "ギヴン うらがわの存在"
+    ]
+  },
+  {
+    "title": "空色ユーティリティ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "一杆青空",
+        "空色Utility"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.yostar-pictures.co.jp/sorairo-utility",
+    "begin": "2021-12-31T10:30:00.000Z",
+    "end": "2021-12-31T10:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "354247"
+      },
+      {
+        "site": "bilibili",
+        "id": "28235977",
+        "begin": "",
+        "broadcast": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2021,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1291/118973.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1291/118973t.jpg",
+    "synonyms": [
+      "Sky Blue Utility",
+      "Sora Iro Utility",
+      "Sorairo Utility OVA",
+      "一杆青空",
+      "空色ユーティリティ"
+    ]
+  },
+  {
+    "title": "フラ・フラダンス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "扶桑花之舞"
+      ],
+      "zh-Hant": [
+        "扶桑花女孩之舞"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://hula-fulladance.com",
+    "begin": "2021-12-02T16:00:00.000Z",
+    "end": "2021-12-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "318543"
+      },
+      {
+        "site": "gamer",
+        "id": "114473",
+        "begin": "2023-08-03T16:00:00.000Z",
+        "broadcast": "R/2023-08-03T16:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2021,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1874/117582.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1874/117582t.jpg",
+    "synonyms": [
+      "フラ・フラダンス",
+      "扶桑花之舞"
+    ]
+  }
+]

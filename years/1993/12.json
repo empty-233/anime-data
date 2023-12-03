@@ -1,81 +1,535 @@
-{
-  "title": "超時空世紀オーガス02",
-  "titleTranslate": {
-    "zh-Hans": [
-      "超时空世纪02"
+[
+  {
+    "title": "劇場版 美少女戦士セーラームーンR",
+    "titleTranslate": {
+      "zh-Hans": [
+        "美少女战士R 花朵的约定"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-12-05T16:00:00.000Z",
+    "end": "1993-12-05T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "5435"
+      },
+      {
+        "site": "anidb",
+        "id": "2539"
+      },
+      {
+        "site": "anilist",
+        "id": "2937"
+      },
+      {
+        "site": "anilist",
+        "id": "740"
+      },
+      {
+        "site": "anilist",
+        "id": "997"
+      },
+      {
+        "site": "anime-planet",
+        "id": "momoiro-clover-z-moon-pride"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-guardian-sailor-moon-crystal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-guardian-sailor-moon-crystal-2016"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-guardian-sailor-moon-eternal-movie-1"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-memorial"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-r"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-r-make-up-sailor-guardians"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-r-memorial"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-s"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-s-memorial"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-s-the-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-sailor-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-sailor-stars-hero-club"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-sailor-stars-memorial"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-super-s"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-super-s-memorial"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-super-s-plus-amis-first-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-super-s-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-super-s-the-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "2110"
+      },
+      {
+        "site": "anisearch",
+        "id": "4505"
+      },
+      {
+        "site": "kitsu",
+        "id": "2660"
+      },
+      {
+        "site": "kitsu",
+        "id": "664"
+      },
+      {
+        "site": "livechart",
+        "id": "113"
+      },
+      {
+        "site": "livechart",
+        "id": "1845"
+      },
+      {
+        "site": "livechart",
+        "id": "2521"
+      },
+      {
+        "site": "livechart",
+        "id": "3884"
+      },
+      {
+        "site": "livechart",
+        "id": "4684"
+      },
+      {
+        "site": "livechart",
+        "id": "4962"
+      },
+      {
+        "site": "livechart",
+        "id": "5112"
+      },
+      {
+        "site": "livechart",
+        "id": "5146"
+      },
+      {
+        "site": "livechart",
+        "id": "6265"
+      },
+      {
+        "site": "livechart",
+        "id": "6665"
+      },
+      {
+        "site": "livechart",
+        "id": "6794"
+      },
+      {
+        "site": "livechart",
+        "id": "7224"
+      },
+      {
+        "site": "livechart",
+        "id": "7436"
+      },
+      {
+        "site": "livechart",
+        "id": "7590"
+      },
+      {
+        "site": "livechart",
+        "id": "7867"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2937"
+      },
+      {
+        "site": "myanimelist",
+        "id": "740"
+      },
+      {
+        "site": "notify",
+        "id": "IAF05Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "sLT85Fiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1993,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/18897.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/18897t.jpg",
+    "synonyms": [
+      "As Navegantes da Lua R: O Filme - A Promessa de uma Rosa",
+      "BSSM R Movie",
+      "Bishoujo Senshi Sailor Moon R (1993)",
+      "Bishoujo Senshi Sailor Moon R: THE MOVIE",
+      "Czarodziejka z Księżyca: Sailor Moon R the Movie",
+      "Gekijouban Bishoujo Senshi Sailor Moon R: The Movie",
+      "Gekijōban Bishōjo Senshi Sailor Moon R: The Movie",
+      "Pretty Soldier Sailor Moon R: The Movie",
+      "SM R Movie",
+      "Sailor Moon : Les Fleurs maléfiques",
+      "Sailor Moon R - The Movie - La promessa della rosa",
+      "Sailor Moon R Movie",
+      "Sailor Moon R Movie: Dangerous Flowers",
+      "Sailor Moon R Movie: Gefährliche Blumen",
+      "Sailor Moon R The Movie: La Promessa della Rosa",
+      "Sailor Moon R the Movie: Promise of the Rose",
+      "Sailor Moon R: A Promessa da Rosa",
+      "Sailor Moon R: Czarodziejka z Księżyca – Film kinowy",
+      "Sailor Moon R: Dangerous Flowers",
+      "Sailor Moon R: Der Film",
+      "Sailor Moon R: La Película",
+      "Sailor Moon R: Le Film",
+      "Sailor Moon R: The Movie",
+      "Sailor Moon R: The Movie - The Promise of the Rose",
+      "Sailor Moon R: The Promise of the Rose",
+      "Sailor Moon, le film",
+      "Sailor Moon, le film: La Fleur Maléfique",
+      "Sailor Moon: La Película",
+      "Varázslatos álmok - A rózsa ígérete",
+      "sm (1993)",
+      "Красавица-воин Сейлор Мун Эр - Фильм",
+      "เซเลอร์มูน R \"สงครามปีศาจดอกไม้จากอวกาศ\"",
+      "げきじょうばんびしょうじょせんしせーらーむーんあーる",
+      "劇場版 美少女戦士セーラームーンR",
+      "劇場版 美少女戦士セーラームーンR The Movie",
+      "美少女战士R剧场版 花朵的约定",
+      "美少女戦士セーラームーンR",
+      "美少女戦士セーラームーンＲ THE MOVIE"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1993-12-04T16:00:00.000Z",
-  "end": "1995-01-20T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "37173"
+  {
+    "title": "メイクアップ！ セーラー戦士",
+    "titleTranslate": {
+      "zh-Hans": [
+        "美少女战士R剧场版 - 美少女战士变身"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "4004",
-      "begin": "2016-05-17T07:06:00.000Z",
-      "broadcast": "R/2016-05-17T07:06:00.000Z/P7D"
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-12-05T16:00:00.000Z",
+    "end": "1993-12-05T16:16:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "27358"
+      },
+      {
+        "site": "anilist",
+        "id": "531"
+      },
+      {
+        "site": "anime-planet",
+        "id": "momoiro-clover-z-moon-pride"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-guardian-sailor-moon-crystal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-guardian-sailor-moon-crystal-2016"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-memorial"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-r"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-r-memorial"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-r-the-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-s"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-s-memorial"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-s-the-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-sailor-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-sailor-stars-hero-club"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-sailor-stars-memorial"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-super-s"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-super-s-memorial"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-super-s-plus-amis-first-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-super-s-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-super-s-the-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "2150"
+      },
+      {
+        "site": "kitsu",
+        "id": "490"
+      },
+      {
+        "site": "livechart",
+        "id": "113"
+      },
+      {
+        "site": "livechart",
+        "id": "1845"
+      },
+      {
+        "site": "livechart",
+        "id": "2521"
+      },
+      {
+        "site": "livechart",
+        "id": "3884"
+      },
+      {
+        "site": "livechart",
+        "id": "4684"
+      },
+      {
+        "site": "livechart",
+        "id": "4962"
+      },
+      {
+        "site": "livechart",
+        "id": "5112"
+      },
+      {
+        "site": "livechart",
+        "id": "5146"
+      },
+      {
+        "site": "livechart",
+        "id": "5684"
+      },
+      {
+        "site": "livechart",
+        "id": "6265"
+      },
+      {
+        "site": "livechart",
+        "id": "6665"
+      },
+      {
+        "site": "livechart",
+        "id": "6794"
+      },
+      {
+        "site": "livechart",
+        "id": "7224"
+      },
+      {
+        "site": "livechart",
+        "id": "7590"
+      },
+      {
+        "site": "livechart",
+        "id": "7867"
+      },
+      {
+        "site": "myanimelist",
+        "id": "531"
+      },
+      {
+        "site": "notify",
+        "id": "-HxTcKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1993,
+      "month": "12"
     },
-    {
-      "site": "anidb",
-      "id": "1039"
-    },
-    {
-      "site": "anilist",
-      "id": "2089"
-    },
-    {
-      "site": "anime-planet",
-      "id": "super-dimension-century-orguss"
-    },
-    {
-      "site": "anisearch",
-      "id": "616"
-    },
-    {
-      "site": "kitsu",
-      "id": "1888"
-    },
-    {
-      "site": "livechart",
-      "id": "6926"
-    },
-    {
-      "site": "myanimelist",
-      "id": "2089"
-    },
-    {
-      "site": "notify",
-      "id": "bqYLcKmig"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 1993,
-    "month": "12"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1822/117349.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1822/117349t.jpg",
+    "synonyms": [
+      "Bishōjo Senshi Sailor Moon R: Make Up! Sailor Senshi",
+      "Make Up! Guerriere Sailor",
+      "Przemieńcie się, czarodziejki!",
+      "Sailor Moon R Make Up! Sailor Guardians",
+      "Sailor Moon R: Make Up! Sailor Guardians",
+      "Sailor Moon R: Make Up! Sailor Guardians Featurette",
+      "Sailor Moon R: Make-Up! Sailor Senshi",
+      "Sailor Moon R: Qui sont les Sailors ? Un portrait des guerrières",
+      "メイクアップ！ セーラー戦士",
+      "美少女戦士セーラームーンR メイクアップ！ セーラー戦士"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 6,
-  "picture": "https://cdn.myanimelist.net/images/anime/7/13797.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/7/13797t.jpg",
-  "synonyms": [
-    "Cho Jiku Seiki Orguss 02",
-    "Chōjikū Seiki Orguss 02",
-    "ORGUSS 02",
-    "Orguss 02",
-    "Orguss 2",
-    "Orguss2",
-    "SUPER DIMENSION CENTURY ORGUSS TWO",
-    "Super Dimension Century Orguss 02",
-    "The Super Dimension Century Orguss 02",
-    "orguss ova",
-    "Оргусс 2",
-    "超時空世紀オーガス02"
-  ]
-}
+  {
+    "title": "超時空世紀オーガス02",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超时空世纪02"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-12-04T16:00:00.000Z",
+    "end": "1995-01-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37173"
+      },
+      {
+        "site": "bilibili",
+        "id": "4004",
+        "begin": "2016-05-17T07:06:00.000Z",
+        "broadcast": "R/2016-05-17T07:06:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1039"
+      },
+      {
+        "site": "anilist",
+        "id": "2089"
+      },
+      {
+        "site": "anime-planet",
+        "id": "super-dimension-century-orguss"
+      },
+      {
+        "site": "anisearch",
+        "id": "616"
+      },
+      {
+        "site": "kitsu",
+        "id": "1888"
+      },
+      {
+        "site": "livechart",
+        "id": "6926"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2089"
+      },
+      {
+        "site": "notify",
+        "id": "bqYLcKmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1993,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/13797.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/13797t.jpg",
+    "synonyms": [
+      "Cho Jiku Seiki Orguss 02",
+      "Chōjikū Seiki Orguss 02",
+      "ORGUSS 02",
+      "Orguss 02",
+      "Orguss 2",
+      "Orguss2",
+      "SUPER DIMENSION CENTURY ORGUSS TWO",
+      "Super Dimension Century Orguss 02",
+      "The Super Dimension Century Orguss 02",
+      "orguss ova",
+      "Оргусс 2",
+      "超時空世紀オーガス02"
+    ]
+  }
+]

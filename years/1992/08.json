@@ -1,71 +1,127 @@
-{
-  "title": "間の楔",
-  "titleTranslate": {
-    "en": [
-      "Ai no Kusabi"
+[
+  {
+    "title": "ヤダモン",
+    "titleTranslate": {
+      "en": [
+        "Yadamon: Magical Dreamer"
+      ],
+      "zh-Hans": [
+        "小讨厌"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://cgi2.nhk.or.jp/etv50/request/detail/index.cgi?program_id=94",
+    "begin": "1992-08-24T16:00:00.000Z",
+    "end": "1995-11-20T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10561"
+      },
+      {
+        "site": "anilist",
+        "id": "8501"
+      },
+      {
+        "site": "kitsu",
+        "id": "5363"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8501"
+      },
+      {
+        "site": "notify",
+        "id": "NZ1ipKmmR"
+      }
     ],
-    "zh-Hans": [
-      "间之楔"
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1992,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 170,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/82764.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/82764t.jpg",
+    "synonyms": [
+      "Chibikko Kaijuu Yadamon",
+      "Yadamon: Magical Dreamer",
+      "やだもん",
+      "ヤダモン",
+      "小讨厌"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1992-08-01T16:00:00.000Z",
-  "end": "1994-05-01T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "qq",
-      "id": "9/90m19poyuet6mjj",
-      "begin": ""
+  {
+    "title": "間の楔",
+    "titleTranslate": {
+      "en": [
+        "Ai no Kusabi"
+      ],
+      "zh-Hans": [
+        "间之楔"
+      ]
     },
-    {
-      "site": "bangumi",
-      "id": "2909"
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-08-01T16:00:00.000Z",
+    "end": "1994-05-01T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "9/90m19poyuet6mjj",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2909"
+      },
+      {
+        "site": "anidb",
+        "id": "793"
+      },
+      {
+        "site": "anilist",
+        "id": "719"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ai-no-kusabi"
+      },
+      {
+        "site": "anisearch",
+        "id": "2628"
+      },
+      {
+        "site": "kitsu",
+        "id": "649"
+      },
+      {
+        "site": "myanimelist",
+        "id": "719"
+      },
+      {
+        "site": "notify",
+        "id": "g-DA5KmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2012,
+      "month": "08"
     },
-    {
-      "site": "anidb",
-      "id": "793"
-    },
-    {
-      "site": "anilist",
-      "id": "719"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ai-no-kusabi"
-    },
-    {
-      "site": "anisearch",
-      "id": "2628"
-    },
-    {
-      "site": "kitsu",
-      "id": "649"
-    },
-    {
-      "site": "myanimelist",
-      "id": "719"
-    },
-    {
-      "site": "notify",
-      "id": "g-DA5KmiR"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 2012,
-    "month": "08"
-  },
-  "status": "FINISHED",
-  "episodes": 4,
-  "picture": "https://cdn.myanimelist.net/images/anime/7/75531.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/7/75531t.jpg",
-  "synonyms": [
-    "Ai no Kusabi: The Space Between",
-    "aikusabi (2012)",
-    "間の楔",
-    "間の楔 (2012)",
-    "間の楔 （2012）"
-  ]
-}
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/75531.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/75531t.jpg",
+    "synonyms": [
+      "Ai no Kusabi: The Space Between",
+      "aikusabi (2012)",
+      "間の楔",
+      "間の楔 (2012)",
+      "間の楔 （2012）"
+    ]
+  }
+]

@@ -1,83 +1,183 @@
-{
-  "title": "科学忍者隊ガッチャマンF",
-  "titleTranslate": {
-    "zh-Hans": [
-      "科学小飞侠F",
-      "旋风小飞侠"
+[
+  {
+    "title": "ベルサイユのばら",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凡尔赛玫瑰"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.mxtv.co.jp/berubara/",
+    "begin": "1979-10-10T12:00:00.000Z",
+    "end": "1980-09-03T12:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "frGLCXHXR4XoZs4",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "12579"
+      },
+      {
+        "site": "bilibili",
+        "id": "2458",
+        "begin": "1979-10-09T16:00:00.000Z",
+        "broadcast": "R/2021-03-31T09:13:00.000Z/P7D"
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200pin2sf7",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "181"
+      },
+      {
+        "site": "anilist",
+        "id": "338"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-rose-of-versailles"
+      },
+      {
+        "site": "anisearch",
+        "id": "1831"
+      },
+      {
+        "site": "kitsu",
+        "id": "305"
+      },
+      {
+        "site": "livechart",
+        "id": "4067"
+      },
+      {
+        "site": "livechart",
+        "id": "7510"
+      },
+      {
+        "site": "livechart",
+        "id": "8069"
+      },
+      {
+        "site": "myanimelist",
+        "id": "338"
+      },
+      {
+        "site": "notify",
+        "id": "I7B25Kmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "UNDEFINED",
+      "year": null,
+      "month": "10"
+    },
+    "status": "UPCOMING",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1483/127709.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1483/127709t.jpg",
+    "synonyms": [
+      "Gekijou Versailles no Bara",
+      "Gekijō Versailles no Bara",
+      "Lady Oscar Movie",
+      "Lady Oscar: Die Rose von Versailles der Film",
+      "The Rose of Versailles Movie",
+      "Verbara",
+      "Verbara Movie",
+      "Versailles no Bara Movie",
+      "ベルサイユのばら",
+      "劇場 ベルサイユのばら",
+      "劇場ベルサイユのばら",
+      "劇場版 ベルサイユのばら"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1979-10-06T16:00:00.000Z",
-  "end": "1980-08-30T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "61601"
+  {
+    "title": "科学忍者隊ガッチャマンF",
+    "titleTranslate": {
+      "zh-Hans": [
+        "科学小飞侠F",
+        "旋风小飞侠"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "6160",
-      "begin": "2017-05-09T05:48:00.000Z",
-      "broadcast": "R/2017-05-09T05:48:00.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1979-10-06T16:00:00.000Z",
+    "end": "1980-08-30T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "61601"
+      },
+      {
+        "site": "bilibili",
+        "id": "6160",
+        "begin": "2017-05-09T05:48:00.000Z",
+        "broadcast": "R/2017-05-09T05:48:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1449"
+      },
+      {
+        "site": "anilist",
+        "id": "6374"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gatchaman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gatchaman-ii"
+      },
+      {
+        "site": "anisearch",
+        "id": "2179"
+      },
+      {
+        "site": "kitsu",
+        "id": "4535"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6374"
+      },
+      {
+        "site": "notify",
+        "id": "qYR65Kmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1979,
+      "month": "10"
     },
-    {
-      "site": "anidb",
-      "id": "1449"
-    },
-    {
-      "site": "anilist",
-      "id": "6374"
-    },
-    {
-      "site": "anime-planet",
-      "id": "gatchaman"
-    },
-    {
-      "site": "anime-planet",
-      "id": "gatchaman-ii"
-    },
-    {
-      "site": "anisearch",
-      "id": "2179"
-    },
-    {
-      "site": "kitsu",
-      "id": "4535"
-    },
-    {
-      "site": "myanimelist",
-      "id": "6374"
-    },
-    {
-      "site": "notify",
-      "id": "qYR65Kmig"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 1979,
-    "month": "10"
-  },
-  "status": "FINISHED",
-  "episodes": 48,
-  "picture": "https://cdn.myanimelist.net/images/anime/2/45630.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/2/45630t.jpg",
-  "synonyms": [
-    "Comando Águila (2)",
-    "Eagle Riders (2)",
-    "Esquadrão Águia (2)",
-    "Gatchaman (1979)",
-    "Gatchaman F",
-    "Gatchaman Fighter",
-    "Kagaku Ninja-Tai Gatchaman F",
-    "Kagaku Ninjatai Gatchaman Fighter",
-    "La Patrouille des Aigles (2)",
-    "La patrouille des aigles (suite)",
-    "Science Ninja Team Gatchaman F",
-    "Science Ninja Team Gatchaman Fighter",
-    "科学忍者隊ガッチャマン F",
-    "科学忍者隊ガッチャマンF"
-  ]
-}
+    "status": "FINISHED",
+    "episodes": 48,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/45630.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/45630t.jpg",
+    "synonyms": [
+      "Comando Águila (2)",
+      "Eagle Riders (2)",
+      "Esquadrão Águia (2)",
+      "Gatchaman (1979)",
+      "Gatchaman F",
+      "Gatchaman Fighter",
+      "Kagaku Ninja-Tai Gatchaman F",
+      "Kagaku Ninjatai Gatchaman Fighter",
+      "La Patrouille des Aigles (2)",
+      "La patrouille des aigles (suite)",
+      "Science Ninja Team Gatchaman F",
+      "Science Ninja Team Gatchaman Fighter",
+      "科学忍者隊ガッチャマン F",
+      "科学忍者隊ガッチャマンF"
+    ]
+  }
+]

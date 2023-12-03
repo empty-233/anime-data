@@ -1,48 +1,475 @@
-{
-  "title": "RWBY Volume 9",
-  "titleTranslate": {
-    "zh-Hans": [
-      "红白黑黄 第九季",
-      "四色战记 / RWBY 第九季"
+[
+  {
+    "title": "ひろがるスカイ！プリキュア",
+    "titleTranslate": {
+      "zh-Hans": [
+        "开阔天空！光之美少女",
+        "伸向天空！光之美少女",
+        "海阔天空！光之美少女",
+        "天空Q娃",
+        "空Q"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.asahi.co.jp/precure/hirogarusky/",
+    "begin": "2023-02-04T23:30:00.000Z",
+    "broadcast": "R/2023-02-04T23:30:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "409323"
+      },
+      {
+        "site": "anidb",
+        "id": "1413"
+      },
+      {
+        "site": "anilist",
+        "id": "100661"
+      },
+      {
+        "site": "anilist",
+        "id": "105857"
+      },
+      {
+        "site": "anilist",
+        "id": "112748"
+      },
+      {
+        "site": "anilist",
+        "id": "12191"
+      },
+      {
+        "site": "anilist",
+        "id": "126905"
+      },
+      {
+        "site": "anilist",
+        "id": "142080"
+      },
+      {
+        "site": "anilist",
+        "id": "1534"
+      },
+      {
+        "site": "anilist",
+        "id": "159429"
+      },
+      {
+        "site": "anilist",
+        "id": "16419"
+      },
+      {
+        "site": "anilist",
+        "id": "1932"
+      },
+      {
+        "site": "anilist",
+        "id": "20577"
+      },
+      {
+        "site": "anilist",
+        "id": "21001"
+      },
+      {
+        "site": "anilist",
+        "id": "21506"
+      },
+      {
+        "site": "anilist",
+        "id": "5684"
+      },
+      {
+        "site": "anilist",
+        "id": "603"
+      },
+      {
+        "site": "anilist",
+        "id": "7645"
+      },
+      {
+        "site": "anilist",
+        "id": "98059"
+      },
+      {
+        "site": "anilist",
+        "id": "9893"
+      },
+      {
+        "site": "anisearch",
+        "id": "18342"
+      },
+      {
+        "site": "anisearch",
+        "id": "2594"
+      },
+      {
+        "site": "kitsu",
+        "id": "10034"
+      },
+      {
+        "site": "kitsu",
+        "id": "11688"
+      },
+      {
+        "site": "kitsu",
+        "id": "12927"
+      },
+      {
+        "site": "kitsu",
+        "id": "1742"
+      },
+      {
+        "site": "kitsu",
+        "id": "42650"
+      },
+      {
+        "site": "kitsu",
+        "id": "43821"
+      },
+      {
+        "site": "kitsu",
+        "id": "45733"
+      },
+      {
+        "site": "kitsu",
+        "id": "6687"
+      },
+      {
+        "site": "kitsu",
+        "id": "7426"
+      },
+      {
+        "site": "kitsu",
+        "id": "8269"
+      },
+      {
+        "site": "livechart",
+        "id": "5176"
+      },
+      {
+        "site": "livechart",
+        "id": "5317"
+      },
+      {
+        "site": "livechart",
+        "id": "5318"
+      },
+      {
+        "site": "livechart",
+        "id": "5363"
+      },
+      {
+        "site": "livechart",
+        "id": "5446"
+      },
+      {
+        "site": "livechart",
+        "id": "5476"
+      },
+      {
+        "site": "livechart",
+        "id": "5599"
+      },
+      {
+        "site": "livechart",
+        "id": "5668"
+      },
+      {
+        "site": "livechart",
+        "id": "5706"
+      },
+      {
+        "site": "livechart",
+        "id": "5787"
+      },
+      {
+        "site": "livechart",
+        "id": "5818"
+      },
+      {
+        "site": "livechart",
+        "id": "5851"
+      },
+      {
+        "site": "livechart",
+        "id": "6039"
+      },
+      {
+        "site": "livechart",
+        "id": "6275"
+      },
+      {
+        "site": "livechart",
+        "id": "6550"
+      },
+      {
+        "site": "myanimelist",
+        "id": "12191"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1534"
+      },
+      {
+        "site": "myanimelist",
+        "id": "16419"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1929"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1932"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21407"
+      },
+      {
+        "site": "myanimelist",
+        "id": "28669"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31884"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34290"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36593"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38578"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40610"
+      },
+      {
+        "site": "myanimelist",
+        "id": "44191"
+      },
+      {
+        "site": "myanimelist",
+        "id": "50281"
+      },
+      {
+        "site": "myanimelist",
+        "id": "54650"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5684"
+      },
+      {
+        "site": "myanimelist",
+        "id": "603"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7645"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9893"
+      },
+      {
+        "site": "notify",
+        "id": "-pNkpKimg"
+      },
+      {
+        "site": "notify",
+        "id": "0k6QH90WR"
+      },
+      {
+        "site": "notify",
+        "id": "3TDHtFimR"
+      },
+      {
+        "site": "notify",
+        "id": "GJjFDTPmg"
+      },
+      {
+        "site": "notify",
+        "id": "Gb-opKiig"
+      },
+      {
+        "site": "notify",
+        "id": "Gmsx8N_4g"
+      },
+      {
+        "site": "notify",
+        "id": "INPKpKiig"
+      },
+      {
+        "site": "notify",
+        "id": "SG9MtKiig"
+      },
+      {
+        "site": "notify",
+        "id": "TrDU4H0nR"
+      },
+      {
+        "site": "notify",
+        "id": "ZhI3pKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "fVOCkIAGR"
+      },
+      {
+        "site": "notify",
+        "id": "fgjTcKiig"
+      },
+      {
+        "site": "notify",
+        "id": "hgrEtFimg"
+      },
+      {
+        "site": "notify",
+        "id": "o_wj5KiiR"
+      },
+      {
+        "site": "notify",
+        "id": "re0WhFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "tzmLcFiig"
+      },
+      {
+        "site": "notify",
+        "id": "uszHhFimR"
+      },
+      {
+        "site": "notify",
+        "id": "yBkLcFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "yo0-cKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2023,
+      "month": "02"
+    },
+    "status": "ONGOING",
+    "episodes": 39,
+    "picture": "https://cdn.myanimelist.net/images/anime/1762/135268.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1762/135268t.jpg",
+    "synonyms": [
+      "Hirogaru Sky! Pretty Cure",
+      "Pretty Cure Season 20",
+      "Soaring Sky! Precure",
+      "Soaring Sky! Pretty Cure",
+      "hiropre",
+      "precure20",
+      "ひろがるスカイ! プリキュア",
+      "ひろがるスカイ！ プリキュア",
+      "ひろがるスカイ！プリキュア",
+      "开阔天空！光之美少女"
     ]
   },
-  "type": "web",
-  "lang": "en",
-  "officialSite": "https://roosterteeth.com/series/rwby",
-  "begin": "2023-02-17T16:00:00.000Z",
-  "end": "2023-04-21T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "390395"
+  {
+    "title": "MAKE MY DAY",
+    "titleTranslate": {
+      "zh-Hans": [
+        "冰雪极境"
+      ],
+      "zh-Hant": [
+        "冰雪極境"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "21090783",
-      "begin": "2023-10-05T10:00:01.000Z",
-      "broadcast": "R/2023-10-05T10:00:01.000Z/P7D"
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.asahi.co.jp/precure/delicious/",
+    "begin": "2023-02-01T16:00:00.000Z",
+    "broadcast": "R/2023-02-01T16:00:00.000Z/P0D",
+    "end": "2023-02-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "338655"
+      },
+      {
+        "site": "netflix",
+        "id": "81176967",
+        "begin": "2023-02-01T16:00:00.000Z",
+        "broadcast": "R/2023-02-01T16:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2023,
+      "month": "02"
     },
-    {
-      "site": "kitsu",
-      "id": "42599"
-    },
-    {
-      "site": "kitsu",
-      "id": "47335"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 2023,
-    "month": "02"
+    "status": "FINISHED",
+    "episodes": 8,
+    "picture": "https://cdn.myanimelist.net/images/anime/1105/137747.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1105/137747t.jpg",
+    "synonyms": [
+      "MAKE MY DAY",
+      "冰雪极境"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 10,
-  "picture": "https://media.kitsu.io/anime/42600/poster_image/small-5e90ab7bba913efa67155020812f8c45.jpeg",
-  "thumbnail": "https://media.kitsu.io/anime/42600/poster_image/tiny-8e507911a27a3ede76ddac60a49dea07.jpeg",
-  "synonyms": [
-    "RWBY Season 9",
-    "RWBY Volume 9"
-  ]
-}
+  {
+    "title": "RWBY Volume 9",
+    "titleTranslate": {
+      "zh-Hans": [
+        "红白黑黄 第九季",
+        "四色战记 / RWBY 第九季"
+      ]
+    },
+    "type": "web",
+    "lang": "en",
+    "officialSite": "https://roosterteeth.com/series/rwby",
+    "begin": "2023-02-17T16:00:00.000Z",
+    "end": "2023-04-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "390395"
+      },
+      {
+        "site": "bilibili",
+        "id": "21090783",
+        "begin": "2023-10-05T10:00:01.000Z",
+        "broadcast": "R/2023-10-05T10:00:01.000Z/P7D"
+      },
+      {
+        "site": "kitsu",
+        "id": "42599"
+      },
+      {
+        "site": "kitsu",
+        "id": "47335"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2023,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 10,
+    "picture": "https://media.kitsu.io/anime/42600/poster_image/small-5e90ab7bba913efa67155020812f8c45.jpeg",
+    "thumbnail": "https://media.kitsu.io/anime/42600/poster_image/tiny-8e507911a27a3ede76ddac60a49dea07.jpeg",
+    "synonyms": [
+      "RWBY Season 9",
+      "RWBY Volume 9"
+    ]
+  }
+]

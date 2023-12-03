@@ -1,115 +1,380 @@
-{
-  "title": "宝島",
-  "titleTranslate": {
-    "en": [
-      "Treasure Island"
+[
+  {
+    "title": "宇宙戦艦ヤマト2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰大和号2"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1978-10-14T16:00:00.000Z",
+    "end": "1979-04-07T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53788"
+      },
+      {
+        "site": "anidb",
+        "id": "12051"
+      },
+      {
+        "site": "anidb",
+        "id": "2229"
+      },
+      {
+        "site": "anidb",
+        "id": "2811"
+      },
+      {
+        "site": "anidb",
+        "id": "648"
+      },
+      {
+        "site": "anilist",
+        "id": "1650"
+      },
+      {
+        "site": "anilist",
+        "id": "1652"
+      },
+      {
+        "site": "anilist",
+        "id": "3067"
+      },
+      {
+        "site": "anilist",
+        "id": "3071"
+      },
+      {
+        "site": "anime-planet",
+        "id": "be-forever-yamato"
+      },
+      {
+        "site": "anime-planet",
+        "id": "farewell-to-space-battleship-yamato-in-the-name-of-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "final-yamato"
+      },
+      {
+        "site": "anime-planet",
+        "id": "space-battleship-yamato-2199-odyssey-of-the-celestial-ark"
+      },
+      {
+        "site": "anime-planet",
+        "id": "space-battleship-yamato-2199-tsuikou-no-koukai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "space-battleship-yamato-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "space-battleship-yamato-resurrection"
+      },
+      {
+        "site": "anime-planet",
+        "id": "space-battleship-yamato-the-new-voyage"
+      },
+      {
+        "site": "anime-planet",
+        "id": "star-blazers-space-battleship-yamato-2199"
+      },
+      {
+        "site": "anime-planet",
+        "id": "star-blazers-space-battleship-yamato-2202"
+      },
+      {
+        "site": "anime-planet",
+        "id": "star-blazers-the-bolar-wars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "star-blazers-the-quest-for-iscandar"
+      },
+      {
+        "site": "anime-planet",
+        "id": "uchuu-senkan-yamato-ii-yamato-yo-eien-nare"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yamato-2520"
+      },
+      {
+        "site": "anisearch",
+        "id": "1968"
+      },
+      {
+        "site": "anisearch",
+        "id": "2259"
+      },
+      {
+        "site": "anisearch",
+        "id": "965"
+      },
+      {
+        "site": "kitsu",
+        "id": "12017"
+      },
+      {
+        "site": "kitsu",
+        "id": "1483"
+      },
+      {
+        "site": "kitsu",
+        "id": "2766"
+      },
+      {
+        "site": "kitsu",
+        "id": "2769"
+      },
+      {
+        "site": "livechart",
+        "id": "10540"
+      },
+      {
+        "site": "livechart",
+        "id": "1775"
+      },
+      {
+        "site": "livechart",
+        "id": "2965"
+      },
+      {
+        "site": "livechart",
+        "id": "431"
+      },
+      {
+        "site": "livechart",
+        "id": "4380"
+      },
+      {
+        "site": "livechart",
+        "id": "6082"
+      },
+      {
+        "site": "livechart",
+        "id": "6100"
+      },
+      {
+        "site": "livechart",
+        "id": "7010"
+      },
+      {
+        "site": "livechart",
+        "id": "7140"
+      },
+      {
+        "site": "livechart",
+        "id": "7319"
+      },
+      {
+        "site": "livechart",
+        "id": "7604"
+      },
+      {
+        "site": "livechart",
+        "id": "7752"
+      },
+      {
+        "site": "livechart",
+        "id": "7789"
+      },
+      {
+        "site": "livechart",
+        "id": "8016"
+      },
+      {
+        "site": "livechart",
+        "id": "8022"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1650"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3067"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3071"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33064"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40554"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53625"
+      },
+      {
+        "site": "notify",
+        "id": "21ea5Kiig"
+      },
+      {
+        "site": "notify",
+        "id": "EzuU5KiiR"
+      },
+      {
+        "site": "notify",
+        "id": "UBsE9dKGg"
+      },
+      {
+        "site": "notify",
+        "id": "ae-6pKmig"
+      },
+      {
+        "site": "notify",
+        "id": "i2u8cFimR"
+      }
     ],
-    "zh-Hans": [
-      "宝岛"
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1978,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/83049.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/83049t.jpg",
+    "synonyms": [
+      "La Corazzata Spaziale Yamato II",
+      "Space Battleship Yamato 2",
+      "Space Battleship Yamato: The Comet Empire",
+      "Space Cruiser Yamato 2",
+      "Star Blazers 2",
+      "Star Blazers 2 - The Comet Empire",
+      "Star Blazers: The Comet Empire",
+      "Uchu Senkan Yamato 2",
+      "Uchū Senkan Yamato 2",
+      "yamato2",
+      "نسور الفضاء: الجزء الثاني",
+      "うちゅうせんかんやまとつー",
+      "宇宙戦艦ヤマト2"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "http://www.moviesquare.jp/channel/catalog?c=takra",
-  "begin": "1978-10-08T22:30:00.000Z",
-  "end": "1979-04-01T23:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "38941"
+  {
+    "title": "宝島",
+    "titleTranslate": {
+      "en": [
+        "Treasure Island"
+      ],
+      "zh-Hans": [
+        "宝岛"
+      ]
     },
-    {
-      "site": "anidb",
-      "id": "10513"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.moviesquare.jp/channel/catalog?c=takra",
+    "begin": "1978-10-08T22:30:00.000Z",
+    "end": "1979-04-01T23:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "38941"
+      },
+      {
+        "site": "anidb",
+        "id": "10513"
+      },
+      {
+        "site": "anidb",
+        "id": "2214"
+      },
+      {
+        "site": "anidb",
+        "id": "4724"
+      },
+      {
+        "site": "anidb",
+        "id": "8576"
+      },
+      {
+        "site": "anilist",
+        "id": "113656"
+      },
+      {
+        "site": "anilist",
+        "id": "11685"
+      },
+      {
+        "site": "anime-planet",
+        "id": "takarajima-memorial-yuunagi-to-yobareta-otoko"
+      },
+      {
+        "site": "anime-planet",
+        "id": "takarajima-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "7534"
+      },
+      {
+        "site": "anisearch",
+        "id": "9613"
+      },
+      {
+        "site": "kitsu",
+        "id": "6561"
+      },
+      {
+        "site": "kitsu",
+        "id": "9167"
+      },
+      {
+        "site": "myanimelist",
+        "id": "11685"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21255"
+      },
+      {
+        "site": "notify",
+        "id": "3isIpFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "4HT-tFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1978,
+      "month": "10"
     },
-    {
-      "site": "anidb",
-      "id": "2214"
-    },
-    {
-      "site": "anidb",
-      "id": "4724"
-    },
-    {
-      "site": "anidb",
-      "id": "8576"
-    },
-    {
-      "site": "anilist",
-      "id": "113656"
-    },
-    {
-      "site": "anilist",
-      "id": "11685"
-    },
-    {
-      "site": "anime-planet",
-      "id": "takarajima-memorial-yuunagi-to-yobareta-otoko"
-    },
-    {
-      "site": "anime-planet",
-      "id": "takarajima-movie"
-    },
-    {
-      "site": "anisearch",
-      "id": "7534"
-    },
-    {
-      "site": "anisearch",
-      "id": "9613"
-    },
-    {
-      "site": "kitsu",
-      "id": "6561"
-    },
-    {
-      "site": "kitsu",
-      "id": "9167"
-    },
-    {
-      "site": "myanimelist",
-      "id": "11685"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21255"
-    },
-    {
-      "site": "notify",
-      "id": "3isIpFmmg"
-    },
-    {
-      "site": "notify",
-      "id": "4HT-tFiiR"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 1978,
-    "month": "10"
-  },
-  "status": "FINISHED",
-  "episodes": 26,
-  "picture": "https://cdn.myanimelist.net/images/anime/11/56123.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/11/56123t.jpg",
-  "synonyms": [
-    "A Ilha do Tesouro",
-    "Die Schatzinsel",
-    "Hazine Adası",
-    "Kincses sziget",
-    "L'isola del tesoro",
-    "L'Île au Trésor",
-    "L`isola del tesoro",
-    "L`île au trésor",
-    "La Isla Del Tesoro",
-    "La Isla del Tesoro",
-    "L’Île au Trésor",
-    "Schateiland",
-    "Skateiland",
-    "Treasure Island",
-    "אי המטמון",
-    "جزيرة الكنز",
-    "たからじま",
-    "宝島"
-  ]
-}
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/56123.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/56123t.jpg",
+    "synonyms": [
+      "A Ilha do Tesouro",
+      "Die Schatzinsel",
+      "Hazine Adası",
+      "Kincses sziget",
+      "L'isola del tesoro",
+      "L'Île au Trésor",
+      "L`isola del tesoro",
+      "L`île au trésor",
+      "La Isla Del Tesoro",
+      "La Isla del Tesoro",
+      "L’Île au Trésor",
+      "Schateiland",
+      "Skateiland",
+      "Treasure Island",
+      "אי המטמון",
+      "جزيرة الكنز",
+      "たからじま",
+      "宝島"
+    ]
+  }
+]

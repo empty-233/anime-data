@@ -1,170 +1,2381 @@
-{
-  "title": "装甲騎兵ボトムズ 孤影再び",
-  "titleTranslate": {
-    "zh-Hans": [
-      "装甲骑兵 孤影再临"
+[
+  {
+    "title": "テレビまんが 昭和物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "昭和物语"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.showa-movie.jp/index.php",
+    "begin": "2011-01-07T09:00:00.000Z",
+    "end": "2011-06-26T13:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "A003tR2D8zGUEno",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "10435"
+      },
+      {
+        "site": "bilibili",
+        "id": "1739",
+        "begin": "2011-04-02T16:00:00.000Z",
+        "broadcast": "R/2014-01-07T15:17:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "8135"
+      },
+      {
+        "site": "anilist",
+        "id": "10013"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shouwa-monogatari"
+      },
+      {
+        "site": "anisearch",
+        "id": "6675"
+      },
+      {
+        "site": "kitsu",
+        "id": "5993"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10013"
+      },
+      {
+        "site": "notify",
+        "id": "jB77pFiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2011,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/41117.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/41117t.jpg",
+    "synonyms": [
+      "Shouwa Monogatari TV",
+      "Showa Monogatari",
+      "Showa Monogatari TV",
+      "TV Manga Shouwa Monogatari",
+      "TV Manga Shōwa Monogatari",
+      "The story of Showa",
+      "shouwa tv",
+      "テレビまんが 昭和物語",
+      "テレビマンガ 昭和物語",
+      "昭和物語 TV"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "2011-01-08T16:00:00.000Z",
-  "end": "2011-01-08T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "41736"
+  {
+    "title": "ドラゴンクライシス！",
+    "titleTranslate": {
+      "en": [
+        "Dragon Crisis"
+      ],
+      "zh-Hans": [
+        "龙之界点",
+        "龙之界点！"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "4547",
-      "begin": "2011-01-07T16:00:00.000Z",
-      "broadcast": "R/2016-06-07T03:15:00.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://dragoncrisis.jp/",
+    "begin": "2011-01-10T16:30:00.000Z",
+    "end": "2011-03-28T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "114ppw915SOGBGw",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "9783"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgigw49",
+        "begin": "2017-11-30T16:05:46.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "3361",
+        "begin": "2011-01-09T16:00:01.000Z",
+        "broadcast": "R/2016-02-23T09:40:00.000Z/P7D"
+      },
+      {
+        "site": "qq",
+        "id": "m/mkcdt9egiik2h6b",
+        "begin": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2011,
+      "month": "01"
     },
-    {
-      "site": "anidb",
-      "id": "3998"
-    },
-    {
-      "site": "anidb",
-      "id": "7279"
-    },
-    {
-      "site": "anilist",
-      "id": "2586"
-    },
-    {
-      "site": "anilist",
-      "id": "8017"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armor-hunter-mellowlink"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-big-battle"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-case-irvine"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-finder"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-pailsen-files"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-pailsen-files-movie"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-red-shoulder-document-roots-of-treachery"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-the-brilliant-heretic"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-the-last-red-shoulder"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-tropper-votoms-phantom-arc"
-    },
-    {
-      "site": "anisearch",
-      "id": "2070"
-    },
-    {
-      "site": "anisearch",
-      "id": "5937"
-    },
-    {
-      "site": "kitsu",
-      "id": "2351"
-    },
-    {
-      "site": "kitsu",
-      "id": "5172"
-    },
-    {
-      "site": "livechart",
-      "id": "10797"
-    },
-    {
-      "site": "livechart",
-      "id": "10798"
-    },
-    {
-      "site": "livechart",
-      "id": "4892"
-    },
-    {
-      "site": "livechart",
-      "id": "6497"
-    },
-    {
-      "site": "livechart",
-      "id": "6839"
-    },
-    {
-      "site": "livechart",
-      "id": "6913"
-    },
-    {
-      "site": "livechart",
-      "id": "7666"
-    },
-    {
-      "site": "myanimelist",
-      "id": "2586"
-    },
-    {
-      "site": "myanimelist",
-      "id": "8017"
-    },
-    {
-      "site": "notify",
-      "id": "DFsktKmiR"
-    },
-    {
-      "site": "notify",
-      "id": "HkvycFmmR"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 2011,
-    "month": "01"
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/50311.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/50311t.jpg",
+    "synonyms": [
+      "Dragon Crisis",
+      "dc!",
+      "Драконова криза!",
+      "ドラクラ!",
+      "ドラゴンクライシス!",
+      "ドラゴンクライシス！",
+      "龙之界点"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/4/82162.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/4/82162t.jpg",
-  "synonyms": [
-    "Alone Again",
-    "Armored Trooper VOTOMS: Chirico’s Return",
-    "Armored Trooper Votoms: Alone Again",
-    "Armored Trooper Votoms: Chirico's Return",
-    "Armored Trooper Votoms: Chirico`s Return",
-    "Soko Kihei Votoms: Koei Futatabi",
-    "Sōkō Kihei Votoms: Koei Futatabi",
-    "Zırhlı Piyade Votoms: Gene Tek Başına",
-    "votoms s3",
-    "Бронированные воины Вотомы: Опять Одинокий",
-    "そうこうきへいぼとむずこえいふたたび",
-    "装甲騎兵ボトムズ 孤影再び",
-    "装甲骑兵 孤影再临"
-  ]
-}
+  {
+    "title": "GOSICK -ゴシック-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "GOSICK",
+        "哥特萝莉侦探事件薄",
+        "哥特萝莉霍去病"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.gosick.tv/",
+    "begin": "2011-01-07T16:53:00.000Z",
+    "end": "2011-07-01T16:53:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "vYhz8VmicL23QTrY",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "9781"
+      },
+      {
+        "site": "bilibili",
+        "id": "856",
+        "begin": "2011-01-06T16:00:00.000Z",
+        "broadcast": "R/2016-02-25T06:24:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gosick",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhwajpl",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "u/ude9rf8yxnrjig3",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "ff4e38a661ad11e0bea1",
+        "begin": "2012-06-03T06:54:07.000Z"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gosick-recap"
+      },
+      {
+        "site": "anisearch",
+        "id": "15613"
+      },
+      {
+        "site": "kitsu",
+        "id": "6211"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10504"
+      },
+      {
+        "site": "notify",
+        "id": "XT74tFimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2011,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/27906.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/27906t.jpg",
+    "synonyms": [
+      "GOSICK",
+      "GOSICK -ゴシック-",
+      "Goshiku",
+      "Госик",
+      "Готика",
+      "Готически свят",
+      "قوطي",
+      "ごしっく",
+      "ゴシック"
+    ]
+  },
+  {
+    "title": "フリージング",
+    "titleTranslate": {
+      "en": [
+        "FREEZING"
+      ],
+      "zh-Hans": [
+        "零度战姬",
+        "结界女王"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://freezing.tv/season1/",
+    "begin": "2011-01-08T00:30:00.000Z",
+    "end": "2011-04-07T01:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10040"
+      },
+      {
+        "site": "nicovideo",
+        "id": "freezing",
+        "begin": "2013-09-09T06:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "9789"
+      },
+      {
+        "site": "anilist",
+        "id": "10172"
+      },
+      {
+        "site": "anilist",
+        "id": "18001"
+      },
+      {
+        "site": "anime-planet",
+        "id": "freezing-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "freezing-vibration"
+      },
+      {
+        "site": "anisearch",
+        "id": "7031"
+      },
+      {
+        "site": "anisearch",
+        "id": "8456"
+      },
+      {
+        "site": "kitsu",
+        "id": "6063"
+      },
+      {
+        "site": "kitsu",
+        "id": "7710"
+      },
+      {
+        "site": "livechart",
+        "id": "335"
+      },
+      {
+        "site": "livechart",
+        "id": "4069"
+      },
+      {
+        "site": "livechart",
+        "id": "69"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10172"
+      },
+      {
+        "site": "myanimelist",
+        "id": "18001"
+      },
+      {
+        "site": "notify",
+        "id": "4M1ntKimR"
+      },
+      {
+        "site": "notify",
+        "id": "BegppFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2011,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/28535.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/28535t.jpg",
+    "synonyms": [
+      "ふりーじんぐ",
+      "フリージング",
+      "结界女王",
+      "零度战姬",
+      "프리징"
+    ]
+  },
+  {
+    "title": "これはゾンビですか？",
+    "titleTranslate": {
+      "zh-Hans": [
+        "这个是僵尸吗？"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://newtype.kadocomic.jp/zombie/",
+    "begin": "2011-01-10T16:30:00.000Z",
+    "end": "2011-03-29T18:50:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9774"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch279",
+        "begin": "2011-01-13T13:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "697",
+        "begin": "2011-01-09T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "8448"
+      },
+      {
+        "site": "anilist",
+        "id": "10209"
+      },
+      {
+        "site": "anime-planet",
+        "id": "is-this-a-zombie-of-the-dead"
+      },
+      {
+        "site": "anime-planet",
+        "id": "is-this-a-zombie-of-the-dead-yes-this-suits-me-just-fine"
+      },
+      {
+        "site": "anime-planet",
+        "id": "is-this-a-zombie-ova"
+      },
+      {
+        "site": "anisearch",
+        "id": "7141"
+      },
+      {
+        "site": "kitsu",
+        "id": "6079"
+      },
+      {
+        "site": "livechart",
+        "id": "1002"
+      },
+      {
+        "site": "livechart",
+        "id": "1117"
+      },
+      {
+        "site": "livechart",
+        "id": "3299"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10209"
+      },
+      {
+        "site": "notify",
+        "id": "3ta7tKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2011,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/75521.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/75521t.jpg",
+    "synonyms": [
+      "Bu Bir Zombi Mi?",
+      "Is This a Zombie?",
+      "Is this a Zombie?",
+      "Kore ha Zombie Desu ka?",
+      "Kore wa Zombie Desu ka?",
+      "Kore wa Zombie Desuka?",
+      "Kore wa Zombie desu ka",
+      "Koreha Zombie Desuka?",
+      "This is a Zombie?",
+      "korezom",
+      "korezombie",
+      "То це зомбі?",
+      "Уж не зомби ли это?",
+      "این یه زامبیه؟",
+      "کوره وا زامبی دس کا؟",
+      "เจ้านี่เหรอซอมบี้",
+      "これはゾンビですか?",
+      "これはゾンビですか？",
+      "これゾン",
+      "这个是僵尸吗？",
+      "这是僵尸吗?",
+      "這樣算是殭屍嗎？",
+      "이것은 좀비입니까?"
+    ]
+  },
+  {
+    "title": "べるぜバブ",
+    "titleTranslate": {
+      "en": [
+        "BEELZEBUB"
+      ],
+      "zh-Hans": [
+        "恶魔奶爸"
+      ],
+      "zh-Hant": [
+        "惡魔奶爸"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.ytv.co.jp/beelze/",
+    "begin": "2011-01-08T22:00:00.000Z",
+    "end": "2012-03-24T22:30:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhbarjh",
+        "begin": "2016-12-15T00:49:56.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "9779"
+      },
+      {
+        "site": "qq",
+        "id": "d/dajt5gn3hpincr4",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "ff4fd22461ad11e0bea1",
+        "begin": "2011-07-23T01:15:11.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "952",
+        "begin": "2020-05-05T16:00:00.000Z",
+        "broadcast": "R/2020-05-06T09:16:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "319209",
+        "begin": "2020-12-17T16:00:00.000Z",
+        "broadcast": "R/2020-12-17T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucj7UynUWPF5mMG1HCD_kDAw",
+        "begin": "2022-04-23T16:00:00.000Z",
+        "broadcast": "R/2022-04-23T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "38204",
+        "begin": "2020-03-13T02:00:00.000Z",
+        "broadcast": "R/2020-03-13T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "9513"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beelzebub"
+      },
+      {
+        "site": "kitsu",
+        "id": "5766"
+      },
+      {
+        "site": "livechart",
+        "id": "1571"
+      },
+      {
+        "site": "livechart",
+        "id": "5106"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9513"
+      },
+      {
+        "site": "notify",
+        "id": "E6nGtFimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2011,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 16,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/31637.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/31637t.jpg",
+    "synonyms": [
+      "Beelzebub: Hashire! Beel-bo Keiji!!",
+      "Beelzebub: Hashire! Beru-bo Keiji!!",
+      "Beelzebub: Kaiketsu!! Beel-bo Meitantei Suiri",
+      "Beelzebub: Run! Detective Beel-bo!!",
+      "Beelzebub: Sakigake!! Beel to Shinsengumi",
+      "べるぜばぶ",
+      "べるぜバブ",
+      "べるぜバブ 走れ！ベル坊刑事！！"
+    ]
+  },
+  {
+    "title": "魔法少女まどか☆マギカ",
+    "titleTranslate": {
+      "en": [
+        "PUELLA MAGI MADOKA MAGICA"
+      ],
+      "zh-Hans": [
+        "魔法少女小圆"
+      ],
+      "zh-Hant": [
+        "魔法少女小圓"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.madoka-magica.com/tv/",
+    "begin": "2011-01-06T16:25:00.000Z",
+    "end": "2011-04-21T18:40:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9717"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch260",
+        "begin": "2011-01-12T18:00:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "70302572",
+        "begin": "2017-04-05T07:00:00.000Z",
+        "broadcast": "R/2021-01-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "2539",
+        "begin": "2011-01-05T16:00:00.000Z",
+        "broadcast": "R/2014-08-01T11:15:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "41319",
+        "begin": "2019-04-15T09:00:00.000Z",
+        "broadcast": "R/2019-04-15T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "14360"
+      },
+      {
+        "site": "anidb",
+        "id": "8778"
+      },
+      {
+        "site": "anilist",
+        "id": "101090"
+      },
+      {
+        "site": "anilist",
+        "id": "104051"
+      },
+      {
+        "site": "anilist",
+        "id": "10519"
+      },
+      {
+        "site": "anilist",
+        "id": "11977"
+      },
+      {
+        "site": "anilist",
+        "id": "11979"
+      },
+      {
+        "site": "anilist",
+        "id": "11981"
+      },
+      {
+        "site": "anime-planet",
+        "id": "magia-record-puella-magi-madoka-magica-side-story"
+      },
+      {
+        "site": "anime-planet",
+        "id": "magia-record-puella-magi-madoka-magica-side-story-season-2-the-eve-of-awakening"
+      },
+      {
+        "site": "anime-planet",
+        "id": "puella-magi-madoka-magica-concept-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "puella-magi-madoka-magica-the-movie-part-1-beginnings"
+      },
+      {
+        "site": "anime-planet",
+        "id": "puella-magi-madoka-magica-the-movie-part-2-eternal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "puella-magi-madoka-magica-the-movie-part-3-rebellion"
+      },
+      {
+        "site": "anime-planet",
+        "id": "puella-magi-madoka-magica-the-movie-part-4-walpurgisnacht-rising"
+      },
+      {
+        "site": "anime-planet",
+        "id": "puella-magi-sonico-magica"
+      },
+      {
+        "site": "anisearch",
+        "id": "13854"
+      },
+      {
+        "site": "anisearch",
+        "id": "6993"
+      },
+      {
+        "site": "anisearch",
+        "id": "7409"
+      },
+      {
+        "site": "kitsu",
+        "id": "11573"
+      },
+      {
+        "site": "kitsu",
+        "id": "13871"
+      },
+      {
+        "site": "kitsu",
+        "id": "42016"
+      },
+      {
+        "site": "kitsu",
+        "id": "6218"
+      },
+      {
+        "site": "kitsu",
+        "id": "6636"
+      },
+      {
+        "site": "kitsu",
+        "id": "6637"
+      },
+      {
+        "site": "kitsu",
+        "id": "6638"
+      },
+      {
+        "site": "livechart",
+        "id": "10663"
+      },
+      {
+        "site": "livechart",
+        "id": "1947"
+      },
+      {
+        "site": "livechart",
+        "id": "3495"
+      },
+      {
+        "site": "livechart",
+        "id": "4910"
+      },
+      {
+        "site": "livechart",
+        "id": "74"
+      },
+      {
+        "site": "livechart",
+        "id": "972"
+      },
+      {
+        "site": "livechart",
+        "id": "973"
+      },
+      {
+        "site": "livechart",
+        "id": "9862"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10519"
+      },
+      {
+        "site": "myanimelist",
+        "id": "11977"
+      },
+      {
+        "site": "myanimelist",
+        "id": "11979"
+      },
+      {
+        "site": "myanimelist",
+        "id": "11981"
+      },
+      {
+        "site": "myanimelist",
+        "id": "32153"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35300"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38256"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53932"
+      },
+      {
+        "site": "myanimelist",
+        "id": "54209"
+      },
+      {
+        "site": "notify",
+        "id": "A7iNtFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "BGPCpKimR"
+      },
+      {
+        "site": "notify",
+        "id": "GBmHtKimR"
+      },
+      {
+        "site": "notify",
+        "id": "N24VtFimg"
+      },
+      {
+        "site": "notify",
+        "id": "UtiHtKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "aP-I2Kmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2011,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/55225.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/55225t.jpg",
+    "synonyms": [
+      "Büyücü Kız Madoka Magica",
+      "Cô gái phép thuật Madoka",
+      "MSMM",
+      "Madoka",
+      "Madoka Magica",
+      "Magical Girl Madoka Magica",
+      "Magical Girl Madoka Magika",
+      "Mahou Shoujo Madoka Magica",
+      "Mahou Shoujo Madoka Magika",
+      "Mahou Shoujo Madoka☆Magica",
+      "Mahō Shōjo Madoka Magica",
+      "Meduka Meguca",
+      "PMMM",
+      "Puella Magi Madoka Magica",
+      "madokamagica",
+      "madomagi",
+      "pmagi",
+      "Μάντοκα, το Μαγικό Κορίτσι",
+      "Волшебница Мадока Магика",
+      "Девочка-волшебница Мадока Магика",
+      "Девочка-волшебница Мадока☆Волшебство",
+      "Дівчина-чарівниця Мадока Маґіка",
+      "Чарівниця Мадока Магіка",
+      "הנערה הקסומה מאדוקה מאגיקה",
+      "مادوكا ماجيكا",
+      "مدوکا مجیکا دختر جادویی",
+      "สาวน้อยเวทมนตร์ มาโดกะ",
+      "まどマギ",
+      "まほうしょうじょまどかまぎか",
+      "マドマギ",
+      "小圆",
+      "魔法少女まどか★マギカ",
+      "魔法少女まどか★マギカ PUELLA MAGI MADOKA MAGICA",
+      "魔法少女まどか☆マギカ",
+      "魔法少女小圆",
+      "魔法少女小圓",
+      "마법소녀 마도카 마기카"
+    ]
+  },
+  {
+    "title": "お兄ちゃんのことなんかぜんぜん好きじゃないんだからねっ!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "腹黑妹妹控兄记",
+        "人家一点都不喜欢啦！",
+        "我才不会喜欢上像哥哥这样的人呢一点都不喜欢！！"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.starchild.co.jp/special/oniichan/",
+    "begin": "2011-01-08T15:30:00.000Z",
+    "end": "2011-03-26T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "b/buifm97guxf51ld",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "9801"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch319",
+        "begin": "2011-01-11T17:00:00.000Z"
+      },
+      {
+        "site": "anilist",
+        "id": "9587"
+      },
+      {
+        "site": "anime-planet",
+        "id": "because-i-dont-like-my-big-brother-at-all"
+      },
+      {
+        "site": "anisearch",
+        "id": "6532"
+      },
+      {
+        "site": "kitsu",
+        "id": "5799"
+      },
+      {
+        "site": "livechart",
+        "id": "3834"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9587"
+      },
+      {
+        "site": "notify",
+        "id": "_AdGtFimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2011,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/50539.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/50539t.jpg",
+    "synonyms": [
+      "Because I Don`t Like My Big Brother at All! Special",
+      "I Don’t Like My Big Brother at All!!: From Little Sister with Love – Big Brother’s Chronicle of Turn-Ons",
+      "Little Sister's Diary of Brother's Perverted Habits",
+      "Little Sister’s Diary of Brother’s Perverted Habits",
+      "Ochinko Special",
+      "Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne!! Imouto Yori Ai o Komete Ani no \"Sei Tai Kansatsuki\"",
+      "Onii-chan no Koto Nanka Zenzen Suki Janain dakara ne!! Special",
+      "Onii-chan no Koto nanka Zenzen Suki Janain Dakara ne!! Special",
+      "Onii-chan no Koto nanka Zenzen Suki JanainDakara ne!! Special",
+      "Oniichan no Koto nanka Zenzen Suki Janain Dakara ne!! Special",
+      "Oniichan no Koto nanka Zenzen Suki ja Nain da kara ne!!: Imouto yori Ai o Komete – Ani no ”Seitai Kansatsu-ki“",
+      "Oniichan no Koto nanka Zenzen Suki ja Nain da kara ne!!: Imouto yori Ai wo Komete – Ani no ”Seitai Kansatsu-ki“",
+      "Oniichan no Koto nanka Zenzen Suki ja Nain da kara ne!!: Imōto yori Ai o Komete – Ani no ”Seitai Kansatsu-ki“",
+      "おにいちゃんのことなんかぜんぜんすきじゃないんだからねっ",
+      "お兄ちゃんのことなんかぜんぜん好きじゃないんだからねっ!!",
+      "お兄ちゃんのことなんかぜんぜん好きじゃないんだからねっ!! 第13話 妹より愛をこめて兄の『性態観察記』",
+      "お兄ちゃんのことなんかぜんぜん好きじゃないんだからねっ！！ 妹より愛をこめて 兄の『性態観察記』"
+    ]
+  },
+  {
+    "title": "みつどもえ 増量中！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超元气三姐妹 增量中！",
+        "超元气三姐妹 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.mitsudomoe-anime.com/",
+    "begin": "2011-01-08T17:58:00.000Z",
+    "end": "2011-02-26T18:28:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "35949",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "10071"
+      },
+      {
+        "site": "anidb",
+        "id": "7224"
+      },
+      {
+        "site": "anilist",
+        "id": "7627"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mitsudomoe"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mitsudomoe-special"
+      },
+      {
+        "site": "anisearch",
+        "id": "7071"
+      },
+      {
+        "site": "kitsu",
+        "id": "5060"
+      },
+      {
+        "site": "livechart",
+        "id": "3858"
+      },
+      {
+        "site": "livechart",
+        "id": "5081"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7627"
+      },
+      {
+        "site": "notify",
+        "id": "yESktKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2011,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 8,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/71554.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/71554t.jpg",
+    "synonyms": [
+      "MDOM 2",
+      "Mitsudomoe 2-ki",
+      "Mitsudomoe Dai Ni Ki",
+      "Mitsudomoe Season 2",
+      "Mitsudomoe Zōryōchū!",
+      "Three Way Struggle Increases!",
+      "mdom s2",
+      "mitsudomoe 2",
+      "mitsudomoe2",
+      "みつどもえ 増量中!",
+      "みつどもえ 増量中！",
+      "みつどもえ増量中！",
+      "超元气三姐妹 增量中!"
+    ]
+  },
+  {
+    "title": "カードファイト!! ヴァンガード",
+    "titleTranslate": {
+      "en": [
+        "CARDFIGHT!! Vanguard"
+      ],
+      "zh-Hans": [
+        "卡片战斗先导者"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://cf-vanguard.com/",
+    "begin": "2011-01-07T23:00:00.000Z",
+    "end": "2012-03-30T23:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "vIl08lrAMG7RT7c",
+        "begin": ""
+      },
+      {
+        "site": "letv",
+        "id": "35930",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "10225"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch318",
+        "begin": "2011-01-09T01:30:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "10090"
+      },
+      {
+        "site": "anidb",
+        "id": "13635"
+      },
+      {
+        "site": "anidb",
+        "id": "8974"
+      },
+      {
+        "site": "anilist",
+        "id": "101594"
+      },
+      {
+        "site": "anilist",
+        "id": "121962"
+      },
+      {
+        "site": "anilist",
+        "id": "13145"
+      },
+      {
+        "site": "anilist",
+        "id": "18391"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cardfight-vanguard-2018"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cardfight-vanguard-asia-circuit"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cardfight-vanguard-g"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cardfight-vanguard-g-girs-crisis"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cardfight-vanguard-g-next"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cardfight-vanguard-g-stride-gate"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cardfight-vanguard-g-z"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cardfight-vanguard-gaiden-if"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cardfight-vanguard-legion-mate"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cardfight-vanguard-link-joker"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mini-vanguard"
+      },
+      {
+        "site": "anisearch",
+        "id": "13499"
+      },
+      {
+        "site": "anisearch",
+        "id": "6120"
+      },
+      {
+        "site": "anisearch",
+        "id": "7604"
+      },
+      {
+        "site": "anisearch",
+        "id": "8470"
+      },
+      {
+        "site": "kitsu",
+        "id": "11394"
+      },
+      {
+        "site": "kitsu",
+        "id": "41145"
+      },
+      {
+        "site": "kitsu",
+        "id": "43061"
+      },
+      {
+        "site": "kitsu",
+        "id": "44181"
+      },
+      {
+        "site": "kitsu",
+        "id": "6893"
+      },
+      {
+        "site": "kitsu",
+        "id": "8589"
+      },
+      {
+        "site": "kitsu",
+        "id": "8655"
+      },
+      {
+        "site": "livechart",
+        "id": "1098"
+      },
+      {
+        "site": "livechart",
+        "id": "1222"
+      },
+      {
+        "site": "livechart",
+        "id": "1716"
+      },
+      {
+        "site": "livechart",
+        "id": "1762"
+      },
+      {
+        "site": "livechart",
+        "id": "2047"
+      },
+      {
+        "site": "livechart",
+        "id": "2259"
+      },
+      {
+        "site": "livechart",
+        "id": "2814"
+      },
+      {
+        "site": "livechart",
+        "id": "3005"
+      },
+      {
+        "site": "livechart",
+        "id": "323"
+      },
+      {
+        "site": "livechart",
+        "id": "361"
+      },
+      {
+        "site": "livechart",
+        "id": "719"
+      },
+      {
+        "site": "livechart",
+        "id": "825"
+      },
+      {
+        "site": "livechart",
+        "id": "9221"
+      },
+      {
+        "site": "livechart",
+        "id": "9527"
+      },
+      {
+        "site": "livechart",
+        "id": "9796"
+      },
+      {
+        "site": "myanimelist",
+        "id": "13145"
+      },
+      {
+        "site": "myanimelist",
+        "id": "18391"
+      },
+      {
+        "site": "myanimelist",
+        "id": "23991"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31410"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37476"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38199"
+      },
+      {
+        "site": "myanimelist",
+        "id": "41283"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42516"
+      },
+      {
+        "site": "notify",
+        "id": "3fK1pFmig"
+      },
+      {
+        "site": "notify",
+        "id": "5WVDtFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "KUINXoBGR"
+      },
+      {
+        "site": "notify",
+        "id": "TudaCe9Wg"
+      },
+      {
+        "site": "notify",
+        "id": "dIgJpKmig"
+      },
+      {
+        "site": "notify",
+        "id": "pbU9tFimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2011,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 65,
+    "picture": "https://cdn.myanimelist.net/images/anime/1856/113654.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1856/113654t.jpg",
+    "synonyms": [
+      "CARDFIGHT!! ヴァンガード",
+      "Cardfight Vanguard",
+      "かーどふぁいとヴぁんがーど",
+      "カードファイト!! ヴァンガード",
+      "カードファイト！！ ヴァンガード",
+      "卡片战斗先导者"
+    ]
+  },
+  {
+    "title": "夢喰いメリー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "食梦者玛利"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/anime/yumekui/",
+    "begin": "2011-01-06T16:55:00.000Z",
+    "end": "2011-04-07T17:59:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "qZxn5U2zI2HEQqo",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "8990"
+      },
+      {
+        "site": "bilibili",
+        "id": "865",
+        "begin": "2011-01-05T16:00:00.000Z",
+        "broadcast": "R/2011-04-10T17:10:00.000Z/P7D"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36805"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2011,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/30869.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/30869t.jpg",
+    "synonyms": [
+      "Dream Eater Merry",
+      "Merry - pożeraczka snów",
+      "Merry Nightmare",
+      "Pożeracz snów",
+      "Pożeraczka snów Merry.",
+      "dem",
+      "ym",
+      "Мері",
+      "пожирачка сновидінь",
+      "ゆめくいめりー",
+      "夢喰いメリー",
+      "食梦者玛利"
+    ]
+  },
+  {
+    "title": "レベルE",
+    "titleTranslate": {
+      "en": [
+        "LEVEL E"
+      ],
+      "zh-Hans": [
+        "灵异E接触",
+        "E级水平",
+        "灵异E计划"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/level-e/",
+    "begin": "2011-01-10T16:45:00.000Z",
+    "end": "2011-04-04T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "22pV0zuhEUibyMJg",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "9853"
+      },
+      {
+        "site": "bilibili",
+        "id": "947",
+        "begin": "2011-01-09T16:00:00.000Z",
+        "broadcast": "R/2011-01-11T01:37:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "level-e",
+        "begin": "2019-01-24T15:00:00.000Z"
+      },
+      {
+        "site": "anilist",
+        "id": "11061"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2011,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/29668.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/29668t.jpg",
+    "synonyms": [
+      "Ниво Е",
+      "れべるいー",
+      "レベルE"
+    ]
+  },
+  {
+    "title": "放浪息子",
+    "titleTranslate": {
+      "zh-Hans": [
+        "放浪男孩"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.houroumusuko.jp/",
+    "begin": "2011-01-13T16:15:00.000Z",
+    "end": "2011-03-31T16:35:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "EF0npQ1z4yGEAmo",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "8474"
+      },
+      {
+        "site": "bilibili",
+        "id": "951",
+        "begin": "2011-01-12T16:00:00.000Z",
+        "broadcast": "R/2011-01-14T00:46:00.000Z/P7D"
+      },
+      {
+        "site": "qq",
+        "id": "3/3y6r941k791up2w",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anilist",
+        "id": "8426"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hourou-musuko"
+      },
+      {
+        "site": "kitsu",
+        "id": "5331"
+      },
+      {
+        "site": "livechart",
+        "id": "3817"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8426"
+      },
+      {
+        "site": "notify",
+        "id": "t2citKmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2011,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/30177.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/30177t.jpg",
+    "synonyms": [
+      "Hourou Musuko Episode 10",
+      "Hourou Musuko Episode 11",
+      "The Transient Son Specials",
+      "Wandering Son Specials",
+      "ほうろうむすこ",
+      "放浪息子"
+    ]
+  },
+  {
+    "title": "フラクタル",
+    "titleTranslate": {
+      "en": [
+        "FRACTALE"
+      ],
+      "zh-Hans": [
+        "分形世界"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://fractale-anime.com/",
+    "begin": "2011-01-13T15:45:00.000Z",
+    "end": "2011-03-31T16:05:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "HSMenARq2hh7ibWE",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "8218"
+      },
+      {
+        "site": "bilibili",
+        "id": "953",
+        "begin": "2011-01-12T16:00:00.000Z",
+        "broadcast": "R/2014-10-06T12:19:03.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2011,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 11,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/28197.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/28197t.jpg",
+    "synonyms": [
+      "Fraktale",
+      "Фрактал",
+      "Фрактейл",
+      "ふらくたる",
+      "フラクタル",
+      "프랙탈"
+    ]
+  },
+  {
+    "title": "ウルヴァリン",
+    "titleTranslate": {
+      "en": [
+        "WOLVERINE"
+      ],
+      "zh-Hans": [
+        "金刚狼"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.animax.co.jp/marvelanime/wolverine/",
+    "begin": "2011-01-07T13:00:00.000Z",
+    "end": "2011-03-25T13:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "wHVQzjacDEqtK5M",
+        "begin": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2013/wolverine",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "9850"
+      },
+      {
+        "site": "bilibili",
+        "id": "956",
+        "begin": "2011-01-07T16:00:00.000Z",
+        "broadcast": "R/2011-05-27T11:18:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "7723"
+      },
+      {
+        "site": "anidb",
+        "id": "8058"
+      },
+      {
+        "site": "anidb",
+        "id": "8162"
+      },
+      {
+        "site": "anilist",
+        "id": "6875"
+      },
+      {
+        "site": "anilist",
+        "id": "6919"
+      },
+      {
+        "site": "anilist",
+        "id": "6920"
+      },
+      {
+        "site": "anime-planet",
+        "id": "x-men"
+      },
+      {
+        "site": "anisearch",
+        "id": "5532"
+      },
+      {
+        "site": "anisearch",
+        "id": "5571"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6875"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6919"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6920"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2011,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1939/121861.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1939/121861t.jpg",
+    "synonyms": [
+      "Ernis",
+      "Farkas",
+      "Marvel Animated Series: Wolverine",
+      "Marvel Anime Season 2",
+      "Marvel Anime: Wolverine",
+      "Rozsomák",
+      "うるヴぁりん",
+      "ウルヴァリン",
+      "金刚狼"
+    ]
+  },
+  {
+    "title": "DD北斗之拳",
+    "titleTranslate": {
+      "zh-Hans": [
+        "DD北斗之拳"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.ktv.jp/hokuto/index.html",
+    "begin": "2011-01-11T18:00:00.000Z",
+    "end": "2011-04-05T18:10:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "118810"
+      },
+      {
+        "site": "anidb",
+        "id": "386"
+      },
+      {
+        "site": "anidb",
+        "id": "9674"
+      },
+      {
+        "site": "anilist",
+        "id": "17705"
+      },
+      {
+        "site": "anilist",
+        "id": "967"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dd-fist-of-the-north-star"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dd-fist-of-the-north-star-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-blue-sky"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-blue-sky-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star-legend-of-kenshiro"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star-legend-of-raoh-death-for-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star-legend-of-raoh-fierce-fight"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star-legend-of-toki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star-legend-of-yuria"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star-strawberry-flavor"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fist-of-the-north-star-the-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hokuto-no-ken-legend-of-heroes"
+      },
+      {
+        "site": "anime-planet",
+        "id": "legends-of-the-dark-king-a-fist-of-the-north-star-story"
+      },
+      {
+        "site": "anime-planet",
+        "id": "new-fist-of-the-north-star"
+      },
+      {
+        "site": "anisearch",
+        "id": "3053"
+      },
+      {
+        "site": "anisearch",
+        "id": "8347"
+      },
+      {
+        "site": "kitsu",
+        "id": "7646"
+      },
+      {
+        "site": "livechart",
+        "id": "12325"
+      },
+      {
+        "site": "livechart",
+        "id": "1661"
+      },
+      {
+        "site": "livechart",
+        "id": "4523"
+      },
+      {
+        "site": "livechart",
+        "id": "6310"
+      },
+      {
+        "site": "livechart",
+        "id": "6672"
+      },
+      {
+        "site": "livechart",
+        "id": "6822"
+      },
+      {
+        "site": "livechart",
+        "id": "7006"
+      },
+      {
+        "site": "livechart",
+        "id": "809"
+      },
+      {
+        "site": "livechart",
+        "id": "8239"
+      },
+      {
+        "site": "livechart",
+        "id": "8251"
+      },
+      {
+        "site": "livechart",
+        "id": "8265"
+      },
+      {
+        "site": "livechart",
+        "id": "8281"
+      },
+      {
+        "site": "livechart",
+        "id": "8301"
+      },
+      {
+        "site": "myanimelist",
+        "id": "17705"
+      },
+      {
+        "site": "notify",
+        "id": "2of5pFmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2011,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/28072.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/28072t.jpg",
+    "synonyms": [
+      "DD Fist of the North Star",
+      "DD北斗之拳",
+      "でぃーでぃーほくとのけん"
+    ]
+  },
+  {
+    "title": "大人女子のアニメタイム「川面を滑る風」",
+    "titleTranslate": {
+      "zh-Hans": [
+        "滑过河面的风"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.nhk.or.jp/tamago/program/20110107_doc.html",
+    "begin": "2011-01-07T15:15:00.000Z",
+    "end": "2011-01-07T15:41:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "CfXfXcUrm9k8uiaI",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "12351"
+      },
+      {
+        "site": "bilibili",
+        "id": "603",
+        "begin": "2011-01-07T16:00:00.000Z",
+        "broadcast": "R/2013-03-12T08:21:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "9559"
+      },
+      {
+        "site": "anime-planet",
+        "id": "otona-joshi-no-anime-time-2"
+      },
+      {
+        "site": "anisearch",
+        "id": "8265"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2011,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.anime-planet.com/anime/primary/otona-joshi-no-anime-time-kawamo-o-suberu-kaze-1.jpg?t=1625896025",
+    "thumbnail": "https://cdn.anime-planet.com/anime/primary/otona-joshi-no-anime-time-kawamo-o-suberu-kaze-1-190x269.jpg?t=1625896025",
+    "synonyms": [
+      "A Wind Skimming the River's Surface",
+      "A Wind Skimming the River`s Surface",
+      "Otona Joshi no Anime Time - Kawamo wo Suberu Kaze",
+      "Otona Joshi no Anime Time: Kawamo wo Suberu Kaze",
+      "大人女子のアニメタイム「川面を滑る風」",
+      "滑过河面的风"
+    ]
+  },
+  {
+    "title": "君に届け 2ND SEASON",
+    "titleTranslate": {
+      "zh-Hans": [
+        "好想告诉你 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.ntv.co.jp/kiminitodoke/",
+    "begin": "2011-01-04T17:05:00.000Z",
+    "end": "2011-03-29T17:34:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "naiaTEXnfT43wbtY",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "9757"
+      },
+      {
+        "site": "bilibili",
+        "id": "858",
+        "begin": "2011-01-03T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80236253",
+        "begin": "2022-10-31T00:00:00.000Z",
+        "broadcast": "R/2022-10-31T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "18179"
+      },
+      {
+        "site": "anidb",
+        "id": "6466"
+      },
+      {
+        "site": "anilist",
+        "id": "10536"
+      },
+      {
+        "site": "anilist",
+        "id": "168872"
+      },
+      {
+        "site": "anilist",
+        "id": "6045"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kimi-ni-todoke-from-me-to-you"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kimi-ni-todoke-from-me-to-you-2nd-season-a-crush"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kimi-ni-todoke-from-me-to-you-2nd-season-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kimi-ni-todoke-from-me-to-you-season-3"
+      },
+      {
+        "site": "anisearch",
+        "id": "18680"
+      },
+      {
+        "site": "anisearch",
+        "id": "5257"
+      },
+      {
+        "site": "anisearch",
+        "id": "8013"
+      },
+      {
+        "site": "kitsu",
+        "id": "4397"
+      },
+      {
+        "site": "kitsu",
+        "id": "47905"
+      },
+      {
+        "site": "kitsu",
+        "id": "6055"
+      },
+      {
+        "site": "kitsu",
+        "id": "6230"
+      },
+      {
+        "site": "livechart",
+        "id": "12319"
+      },
+      {
+        "site": "livechart",
+        "id": "3616"
+      },
+      {
+        "site": "livechart",
+        "id": "4257"
+      },
+      {
+        "site": "livechart",
+        "id": "4718"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10152"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10536"
+      },
+      {
+        "site": "myanimelist",
+        "id": "56538"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6045"
+      },
+      {
+        "site": "notify",
+        "id": "8mE6FxzSg"
+      },
+      {
+        "site": "notify",
+        "id": "HmonpKmig"
+      },
+      {
+        "site": "notify",
+        "id": "ZLp3cKmig"
+      },
+      {
+        "site": "notify",
+        "id": "qIN4tFiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2011,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1311/121574.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1311/121574t.jpg",
+    "synonyms": [
+      "Arrivare a te 2",
+      "Chegando Até Você 2",
+      "Chegando Até Você: Segunda Temporada",
+      "From Me to You 2nd Season",
+      "Kimi ni Todoke - From Me To You Season 2",
+      "Kimi ni Todoke 2",
+      "Kimi ni Todoke 2ND SEASON",
+      "Kimi ni Todoke: From Me To You 2",
+      "Kimi ni Todoke: From Me to You (2011)",
+      "Kimi ni Todoke: From Me to You - Season 2",
+      "Kimi ni Todoke: From Me to You - Staffel 2",
+      "Kimi ni Todoke: From Me to You 2nd Season",
+      "Kimi ni Todoke: From Me to You Season 2",
+      "Kimi ni todoke: Sawako Saison 2",
+      "Kimitodo 2",
+      "Llegando a ti 2",
+      "Llegando a ti: Temporada 2",
+      "Reaching You 2nd Season",
+      "Sawako : Kimi ni Todoke - Saison 2",
+      "kimitodo 2",
+      "knt2",
+      "Достучаться до тебя 2 сезон",
+      "Дотянуться до тебя [ТВ-2]",
+      "به تو برسد",
+      "きみにとどけせかんどしーずん",
+      "君に届け 2ND SEASON",
+      "君届2",
+      "好想告诉你 2nd",
+      "好想告诉你 第二季"
+    ]
+  },
+  {
+    "title": "マジンカイザーSKL",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔神凯撒SKL"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.mazinkaizer-skl.com/",
+    "begin": "2011-01-28T16:00:00.000Z",
+    "end": "2011-01-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "15885"
+      },
+      {
+        "site": "bilibili",
+        "id": "4542",
+        "begin": "2011-01-27T16:00:00.000Z",
+        "broadcast": "R/2016-06-07T03:06:18.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "953"
+      },
+      {
+        "site": "anilist",
+        "id": "1064"
+      },
+      {
+        "site": "anisearch",
+        "id": "920"
+      },
+      {
+        "site": "kitsu",
+        "id": "951"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1064"
+      },
+      {
+        "site": "notify",
+        "id": "gGyJcKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/75427.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/75427t.jpg",
+    "synonyms": [
+      "Mazinger: Mazinkaizer SKL",
+      "Mazinkaiser",
+      "Mazinkaiser Skull",
+      "Mazinkaizer SKL",
+      "Mazinkaizer Skull",
+      "マジンカイザー SKL",
+      "マジンカイザーSKL"
+    ]
+  },
+  {
+    "title": "ノラゲキ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "野良剧"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://dbeat.bandaivisual.co.jp/norageki/",
+    "begin": "2011-01-22T16:00:00.000Z",
+    "end": "2011-01-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "28206"
+      },
+      {
+        "site": "bilibili",
+        "id": "4552",
+        "begin": "2011-01-21T16:00:00.000Z",
+        "broadcast": "R/2016-06-07T03:27:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2011,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/31755.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/31755t.jpg",
+    "synonyms": [
+      "5 Numbers!",
+      "Five Numbers!",
+      "のらげき",
+      "ノラゲキ!",
+      "ノラゲキ！",
+      "野良剧"
+    ]
+  },
+  {
+    "title": "装甲騎兵ボトムズ 孤影再び",
+    "titleTranslate": {
+      "zh-Hans": [
+        "装甲骑兵 孤影再临"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2011-01-08T16:00:00.000Z",
+    "end": "2011-01-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "41736"
+      },
+      {
+        "site": "bilibili",
+        "id": "4547",
+        "begin": "2011-01-07T16:00:00.000Z",
+        "broadcast": "R/2016-06-07T03:15:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "3998"
+      },
+      {
+        "site": "anidb",
+        "id": "7279"
+      },
+      {
+        "site": "anilist",
+        "id": "2586"
+      },
+      {
+        "site": "anilist",
+        "id": "8017"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armor-hunter-mellowlink"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-big-battle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-case-irvine"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-finder"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-pailsen-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-pailsen-files-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-red-shoulder-document-roots-of-treachery"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-the-brilliant-heretic"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-the-last-red-shoulder"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-tropper-votoms-phantom-arc"
+      },
+      {
+        "site": "anisearch",
+        "id": "2070"
+      },
+      {
+        "site": "anisearch",
+        "id": "5937"
+      },
+      {
+        "site": "kitsu",
+        "id": "2351"
+      },
+      {
+        "site": "kitsu",
+        "id": "5172"
+      },
+      {
+        "site": "livechart",
+        "id": "10797"
+      },
+      {
+        "site": "livechart",
+        "id": "10798"
+      },
+      {
+        "site": "livechart",
+        "id": "4892"
+      },
+      {
+        "site": "livechart",
+        "id": "6497"
+      },
+      {
+        "site": "livechart",
+        "id": "6839"
+      },
+      {
+        "site": "livechart",
+        "id": "6913"
+      },
+      {
+        "site": "livechart",
+        "id": "7666"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2586"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8017"
+      },
+      {
+        "site": "notify",
+        "id": "DFsktKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "HkvycFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2011,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/82162.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/82162t.jpg",
+    "synonyms": [
+      "Alone Again",
+      "Armored Trooper VOTOMS: Chirico’s Return",
+      "Armored Trooper Votoms: Alone Again",
+      "Armored Trooper Votoms: Chirico's Return",
+      "Armored Trooper Votoms: Chirico`s Return",
+      "Soko Kihei Votoms: Koei Futatabi",
+      "Sōkō Kihei Votoms: Koei Futatabi",
+      "Zırhlı Piyade Votoms: Gene Tek Başına",
+      "votoms s3",
+      "Бронированные воины Вотомы: Опять Одинокий",
+      "そうこうきへいぼとむずこえいふたたび",
+      "装甲騎兵ボトムズ 孤影再び",
+      "装甲骑兵 孤影再临"
+    ]
+  }
+]

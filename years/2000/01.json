@@ -1,129 +1,354 @@
-{
-  "title": "勇者王ガオガイガーFINAL",
-  "titleTranslate": {
-    "zh-Hans": [
-      "勇者王GaoGaiGar Final"
+[
+  {
+    "title": "風まかせ月影蘭",
+    "titleTranslate": {
+      "zh-Hans": [
+        "随风舞月影兰"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.b-ch.com/cgi-bin/contents/ttl/det.cgi?ttl_c=416",
+    "begin": "2000-01-26T16:00:00.000Z",
+    "end": "2000-04-19T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "4047"
+      },
+      {
+        "site": "bilibili",
+        "id": "2151",
+        "begin": "2000-01-25T16:00:00.000Z",
+        "broadcast": "R/2016-05-05T06:35:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2000,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/16745.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/16745t.jpg",
+    "synonyms": [
+      "Carried By The Wind: Tsukikage Ran",
+      "Carried by the Wind",
+      "Carried by the Wind: Tsukikage Ran",
+      "KTR",
+      "Ran",
+      "Ran The Samurai Girl",
+      "Ran, The Samurai Girl",
+      "The Samurai Girl",
+      "Wind-borne Moon-lit Ran",
+      "la chica samurai",
+      "Перекати-поле Цукикагэ Ран",
+      "かぜまかせつきかげらん",
+      "随风飘的月影兰",
+      "風まかせ月影蘭"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "http://www.gaogaigar.net/",
-  "begin": "2000-01-20T16:00:00.000Z",
-  "end": "2003-03-20T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "2979"
+  {
+    "title": "女神候補生",
+    "titleTranslate": {
+      "zh-Hans": [
+        "女神候补生"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "3957",
-      "begin": "2016-05-04T08:35:16.000Z",
-      "broadcast": "R/2016-05-04T08:35:16.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-01-10T16:00:00.000Z",
+    "end": "2000-03-27T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "m/m0gjz15r0yh4530",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "37487"
+      },
+      {
+        "site": "bilibili",
+        "id": "2167",
+        "begin": "2000-01-09T16:00:00.000Z",
+        "broadcast": "R/2014-04-12T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "263"
+      },
+      {
+        "site": "anilist",
+        "id": "887"
+      },
+      {
+        "site": "anime-planet",
+        "id": "candidate-for-goddess-ova"
+      },
+      {
+        "site": "anisearch",
+        "id": "2830"
+      },
+      {
+        "site": "kitsu",
+        "id": "787"
+      },
+      {
+        "site": "livechart",
+        "id": "9126"
+      },
+      {
+        "site": "myanimelist",
+        "id": "887"
+      },
+      {
+        "site": "notify",
+        "id": "JdqAcKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2000,
+      "month": "01"
     },
-    {
-      "site": "anidb",
-      "id": "3152"
-    },
-    {
-      "site": "anidb",
-      "id": "745"
-    },
-    {
-      "site": "anidb",
-      "id": "957"
-    },
-    {
-      "site": "anilist",
-      "id": "156024"
-    },
-    {
-      "site": "anilist",
-      "id": "4416"
-    },
-    {
-      "site": "anilist",
-      "id": "890"
-    },
-    {
-      "site": "anime-planet",
-      "id": "betterman"
-    },
-    {
-      "site": "anime-planet",
-      "id": "gaogaigar"
-    },
-    {
-      "site": "anime-planet",
-      "id": "gaogaigar-final-grand-glorious-gathering"
-    },
-    {
-      "site": "anisearch",
-      "id": "3149"
-    },
-    {
-      "site": "anisearch",
-      "id": "93"
-    },
-    {
-      "site": "kitsu",
-      "id": "3600"
-    },
-    {
-      "site": "kitsu",
-      "id": "790"
-    },
-    {
-      "site": "livechart",
-      "id": "5012"
-    },
-    {
-      "site": "livechart",
-      "id": "7158"
-    },
-    {
-      "site": "myanimelist",
-      "id": "4416"
-    },
-    {
-      "site": "myanimelist",
-      "id": "890"
-    },
-    {
-      "site": "notify",
-      "id": "K3qA5FiiR"
-    },
-    {
-      "site": "notify",
-      "id": "q0sX5Kimg"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 2000,
-    "month": "01"
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/75472.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/75472t.jpg",
+    "synonyms": [
+      "Candidate for Goddess",
+      "Candidate for Goddesses",
+      "CfG",
+      "Megami Kōhosei",
+      "Pilot Candidate",
+      "The Candidate for Goddess",
+      "女神候补生",
+      "女神候補生"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 8,
-  "picture": "https://cdn.myanimelist.net/images/anime/1187/132740.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1187/132740t.jpg",
-  "synonyms": [
-    "Brave King GaoGaiGar Final",
-    "Brave King GaoGaiGar OVA",
-    "GGG Final",
-    "GaoGaiGar Final",
-    "GaoGaiGar OVA",
-    "King of Braves GaoGaiGar Final",
-    "The King of Braves GaoGaiGar Final",
-    "The King of Braves: GaoGaiGar Final",
-    "Yuusha Ou GaoGaiGar Final",
-    "Yuusha-Oh GaoGaiGar Final",
-    "Yuusha-Ou GaoGaiGar FINAL",
-    "Yūsha Ō GaoGaiGar Final",
-    "ゆうしゃおうがおがいがーふぁいなる",
-    "勇者王.最终结合",
-    "勇者王ガオガイガー FINAL",
-    "勇者王ガオガイガーFINAL",
-    "가오가이거 파이널"
-  ]
-}
+  {
+    "title": "ブギーポップは笑わない Boogiepop Phantom",
+    "titleTranslate": {
+      "zh-Hans": [
+        "幻影死神"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-01-05T16:00:00.000Z",
+    "end": "2000-03-22T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "BCkUkvpg0A5x71c",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3769"
+      },
+      {
+        "site": "bilibili",
+        "id": "2150",
+        "begin": "2000-01-04T16:00:00.000Z",
+        "broadcast": "R/2012-10-15T10:38:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "boogiepop-phantom",
+        "begin": "2018-09-21T09:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "13899"
+      },
+      {
+        "site": "anilist",
+        "id": "101283"
+      },
+      {
+        "site": "anime-planet",
+        "id": "boogiepop-and-others"
+      },
+      {
+        "site": "anisearch",
+        "id": "13456"
+      },
+      {
+        "site": "kitsu",
+        "id": "46381"
+      },
+      {
+        "site": "livechart",
+        "id": "3146"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37451"
+      },
+      {
+        "site": "myanimelist",
+        "id": "52131"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2000,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1327/95777.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1327/95777t.jpg",
+    "synonyms": [
+      "BP",
+      "Boogiepop",
+      "Boogiepop Doesn't Laugh",
+      "Boogiepop Doesn’t Laugh",
+      "Boogiepop Never Laughs",
+      "Boogiepop Phantom",
+      "Boogiepop wa Warawanai: Boogiepop Phantom",
+      "Бугипоп",
+      "Бугипоп никогда не смеется",
+      "Бугіпоп-Фантом",
+      "Фантомът Бугипоп никога не се смее",
+      "בוגיפופ",
+      "ブギーポップは笑わない Boogiepop Phantom",
+      "幻影死神"
+    ]
+  },
+  {
+    "title": "勇者王ガオガイガーFINAL",
+    "titleTranslate": {
+      "zh-Hans": [
+        "勇者王GaoGaiGar Final"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.gaogaigar.net/",
+    "begin": "2000-01-20T16:00:00.000Z",
+    "end": "2003-03-20T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2979"
+      },
+      {
+        "site": "bilibili",
+        "id": "3957",
+        "begin": "2016-05-04T08:35:16.000Z",
+        "broadcast": "R/2016-05-04T08:35:16.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "3152"
+      },
+      {
+        "site": "anidb",
+        "id": "745"
+      },
+      {
+        "site": "anidb",
+        "id": "957"
+      },
+      {
+        "site": "anilist",
+        "id": "156024"
+      },
+      {
+        "site": "anilist",
+        "id": "4416"
+      },
+      {
+        "site": "anilist",
+        "id": "890"
+      },
+      {
+        "site": "anime-planet",
+        "id": "betterman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gaogaigar"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gaogaigar-final-grand-glorious-gathering"
+      },
+      {
+        "site": "anisearch",
+        "id": "3149"
+      },
+      {
+        "site": "anisearch",
+        "id": "93"
+      },
+      {
+        "site": "kitsu",
+        "id": "3600"
+      },
+      {
+        "site": "kitsu",
+        "id": "790"
+      },
+      {
+        "site": "livechart",
+        "id": "5012"
+      },
+      {
+        "site": "livechart",
+        "id": "7158"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4416"
+      },
+      {
+        "site": "myanimelist",
+        "id": "890"
+      },
+      {
+        "site": "notify",
+        "id": "K3qA5FiiR"
+      },
+      {
+        "site": "notify",
+        "id": "q0sX5Kimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2000,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 8,
+    "picture": "https://cdn.myanimelist.net/images/anime/1187/132740.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1187/132740t.jpg",
+    "synonyms": [
+      "Brave King GaoGaiGar Final",
+      "Brave King GaoGaiGar OVA",
+      "GGG Final",
+      "GaoGaiGar Final",
+      "GaoGaiGar OVA",
+      "King of Braves GaoGaiGar Final",
+      "The King of Braves GaoGaiGar Final",
+      "The King of Braves: GaoGaiGar Final",
+      "Yuusha Ou GaoGaiGar Final",
+      "Yuusha-Oh GaoGaiGar Final",
+      "Yuusha-Ou GaoGaiGar FINAL",
+      "Yūsha Ō GaoGaiGar Final",
+      "ゆうしゃおうがおがいがーふぁいなる",
+      "勇者王.最终结合",
+      "勇者王ガオガイガー FINAL",
+      "勇者王ガオガイガーFINAL",
+      "가오가이거 파이널"
+    ]
+  }
+]

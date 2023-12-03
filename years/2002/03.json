@@ -1,65 +1,1278 @@
-{
-  "title": "パルムの樹",
-  "titleTranslate": {
-    "zh-Hans": [
-      "帕卢姆之树"
+[
+  {
+    "title": "ロックマンエグゼ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "洛克人EXE Season",
+        "网络英雄洛克人"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.shopro.co.jp/tv/archive/rockman/",
+    "begin": "2002-03-04T09:30:00.000Z",
+    "end": "2003-03-31T10:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "5230"
+      },
+      {
+        "site": "anidb",
+        "id": "1143"
+      },
+      {
+        "site": "anidb",
+        "id": "1144"
+      },
+      {
+        "site": "anidb",
+        "id": "4791"
+      },
+      {
+        "site": "anidb",
+        "id": "5973"
+      },
+      {
+        "site": "anilist",
+        "id": "1854"
+      },
+      {
+        "site": "anilist",
+        "id": "2108"
+      },
+      {
+        "site": "anilist",
+        "id": "2808"
+      },
+      {
+        "site": "anime-planet",
+        "id": "megaman-maverick-hunter-x-the-day-of-sigma"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rockman-exe-axess"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rockman-exe-beast"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rockman-exe-beast-plus"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rockman-exe-stream"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rockman-hoshi-ni-negai-wo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rockmanexe-hikari-to-yami-no-program"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ryuusei-no-rockman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ryuusei-no-rockman-tribe"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sound-holic-x-buster"
+      },
+      {
+        "site": "anisearch",
+        "id": "16375"
+      },
+      {
+        "site": "anisearch",
+        "id": "287"
+      },
+      {
+        "site": "anisearch",
+        "id": "3556"
+      },
+      {
+        "site": "anisearch",
+        "id": "885"
+      },
+      {
+        "site": "kitsu",
+        "id": "1671"
+      },
+      {
+        "site": "kitsu",
+        "id": "1907"
+      },
+      {
+        "site": "kitsu",
+        "id": "2563"
+      },
+      {
+        "site": "kitsu",
+        "id": "4021"
+      },
+      {
+        "site": "livechart",
+        "id": "11203"
+      },
+      {
+        "site": "livechart",
+        "id": "11204"
+      },
+      {
+        "site": "livechart",
+        "id": "7090"
+      },
+      {
+        "site": "livechart",
+        "id": "8238"
+      },
+      {
+        "site": "livechart",
+        "id": "8972"
+      },
+      {
+        "site": "livechart",
+        "id": "9302"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1854"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2108"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2808"
+      },
+      {
+        "site": "notify",
+        "id": "NK7U5FmiR"
+      },
+      {
+        "site": "notify",
+        "id": "ZJULcKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "ytnj5Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "zJ8f5FiiR"
+      }
     ],
-    "zh-Hant": [
-      "帕盧姆之樹"
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2002,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 56,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/26575.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/26575t.jpg",
+    "synonyms": [
+      "MegaMan - NT Warrior",
+      "MegaMan NT Warrior",
+      "MegaMan: NT Warrior",
+      "MegaMan: NT Warrior Einklinken!",
+      "Megaman",
+      "Megaman NT Warrior",
+      "Mégaman NT Warrior",
+      "Rockman EXE",
+      "מגה מן: לוחם הרשת",
+      "ميجا مان محارب النت",
+      "ร็อกแมน EXE",
+      "ロックマン エグゼ",
+      "ロックマンエグゼ"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "2002-03-16T16:00:00.000Z",
-  "end": "2002-03-16T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "25411"
+  {
+    "title": "ドラえもん のび太とロボット王国",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦 大雄与机器人王国"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄與機器人王國"
+      ]
     },
-    {
-      "site": "qq",
-      "id": "m/mzc0020082ywx0v",
-      "begin": ""
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.shopro.co.jp/tv/archive/rockman/",
+    "begin": "2002-03-09T16:00:00.000Z",
+    "end": "2003-03-09T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "80962",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "468"
+      },
+      {
+        "site": "pptv",
+        "id": "7qoHhe1TwwFk4ko",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "z/z8alyhrvkd3jp2y",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh6mrdl",
+        "begin": "2018-05-31T16:00:12.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "3866",
+        "begin": "2002-03-08T16:00:00.000Z",
+        "broadcast": "R/2016-04-27T09:07:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "32224",
+        "begin": "2023-03-16T02:00:00.000Z",
+        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1078"
+      },
+      {
+        "site": "anidb",
+        "id": "7014"
+      },
+      {
+        "site": "anidb",
+        "id": "7049"
+      },
+      {
+        "site": "anilist",
+        "id": "2471"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-1979"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back-1998"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-doraemons-strange-sweets-strange"
+      },
+      {
+        "site": "anisearch",
+        "id": "5099"
+      },
+      {
+        "site": "anisearch",
+        "id": "540"
+      },
+      {
+        "site": "anisearch",
+        "id": "6060"
+      },
+      {
+        "site": "kitsu",
+        "id": "2395"
+      },
+      {
+        "site": "kitsu",
+        "id": "2416"
+      },
+      {
+        "site": "kitsu",
+        "id": "460"
+      },
+      {
+        "site": "livechart",
+        "id": "12164"
+      },
+      {
+        "site": "livechart",
+        "id": "5614"
+      },
+      {
+        "site": "livechart",
+        "id": "6575"
+      },
+      {
+        "site": "livechart",
+        "id": "6880"
+      },
+      {
+        "site": "livechart",
+        "id": "8740"
+      },
+      {
+        "site": "livechart",
+        "id": "8868"
+      },
+      {
+        "site": "livechart",
+        "id": "8871"
+      },
+      {
+        "site": "livechart",
+        "id": "8877"
+      },
+      {
+        "site": "livechart",
+        "id": "8878"
+      },
+      {
+        "site": "livechart",
+        "id": "8884"
+      },
+      {
+        "site": "livechart",
+        "id": "8897"
+      },
+      {
+        "site": "livechart",
+        "id": "8900"
+      },
+      {
+        "site": "livechart",
+        "id": "8901"
+      },
+      {
+        "site": "livechart",
+        "id": "8902"
+      },
+      {
+        "site": "livechart",
+        "id": "8998"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2471"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2631"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2652"
+      },
+      {
+        "site": "notify",
+        "id": "A7oycFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "BRto5KimR"
+      },
+      {
+        "site": "notify",
+        "id": "H91y5Kmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2002,
+      "month": "03"
     },
-    {
-      "site": "gamer",
-      "id": "106245",
-      "begin": "2019-06-27T04:00:00.000Z",
-      "broadcast": "R/2019-06-27T04:00:00.000Z/P7D"
-    },
-    {
-      "site": "bilibili",
-      "id": "5265",
-      "begin": "",
-      "broadcast": ""
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 2002,
-    "month": "03"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/72428.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/72428t.jpg",
+    "synonyms": [
+      "Doraemon - Gladiador",
+      "Doraemon Movie 23",
+      "Doraemon Movie 23: Nobita & Robot Kingdom",
+      "Doraemon Película 23. Doraemon: El Gladiador",
+      "Doraemon el gladiador",
+      "Doraemon the Movie: Nobita in the Robot Kingdom",
+      "Doraemon: El gladiador",
+      "Doraemon: Nobita & Robot Kingdom",
+      "Doraemon: Nobita in the Robot Kingdom",
+      "Doraemon: Nobita to Robot Kingdom",
+      "Doraemon: Nobita to Robot Oukoku",
+      "Doraemon: Nobita's Robot Kingdom",
+      "Doraemon: Nobita`s Robot Kingdom",
+      "Doraemon: O gladiador",
+      "ドラえもん のび太とロボット王国",
+      "哆啦A梦 大雄与机器人王国",
+      "映画 ドラえもん のび太とロボット王国[キングダム]"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/12/12909.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/12/12909t.jpg",
-  "synonyms": [
-    "A Tree Of Palme",
-    "A Tree of Palme",
-    "Arbre de Palmem",
-    "El Arbol de Palme",
-    "Un arbre de Palme",
-    "Дерево Палме",
-    "Дух у Колоді",
-    "Майже людина",
-    "Мрії Андроїда",
-    "Почти человек",
-    "ぱるむのき",
-    "パルムの樹",
-    "帕卢姆之树",
-    "파름의 나무"
-  ]
-}
+  {
+    "title": "私立荒磯高等学校生徒会執行部",
+    "titleTranslate": {
+      "zh-Hans": [
+        "私立荒矶高等学校生徒会执行部"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-03-29T16:00:00.000Z",
+    "end": "2002-07-26T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "o/ouf9a0601tiexsy",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "95526"
+      },
+      {
+        "site": "anidb",
+        "id": "9105"
+      },
+      {
+        "site": "anilist",
+        "id": "13843"
+      },
+      {
+        "site": "anisearch",
+        "id": "7771"
+      },
+      {
+        "site": "myanimelist",
+        "id": "13843"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2002,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/31701.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/31701t.jpg",
+    "synonyms": [
+      "Araiso Private High School Student Council Executive Committee",
+      "Shiritsu Araiso Koutou Gakkou Seitokai Shikkoubu",
+      "Shiritsu Araiso Kōtō Gakkō Seitokai Shikkōbu",
+      "araiso",
+      "私立荒磯高等学校生徒会執行部"
+    ]
+  },
+  {
+    "title": "WXIII 機動警察パトレイバー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动警察 十三号废弃物"
+      ],
+      "zh-Hant": [
+        "機動警察 劇場版 3"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-03-30T16:00:00.000Z",
+    "end": "2002-03-30T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "a/aj5o1l8zjhv7etb",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3499"
+      },
+      {
+        "site": "bilibili",
+        "id": "4017",
+        "begin": "2002-03-29T16:00:01.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "38224",
+        "begin": "2020-08-06T06:35:00.000Z",
+        "broadcast": "R/2020-08-06T06:35:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "395"
+      },
+      {
+        "site": "anidb",
+        "id": "770"
+      },
+      {
+        "site": "anidb",
+        "id": "777"
+      },
+      {
+        "site": "anilist",
+        "id": "1095"
+      },
+      {
+        "site": "anilist",
+        "id": "1096"
+      },
+      {
+        "site": "anilist",
+        "id": "2733"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-police-patlabor-minimum-minipato"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-police-patlabor-reboot"
+      },
+      {
+        "site": "anime-planet",
+        "id": "patlabor-2-the-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "patlabor-the-mobile-police"
+      },
+      {
+        "site": "anime-planet",
+        "id": "patlabor-the-mobile-police-new-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "patlabor-the-mobile-police-tv"
+      },
+      {
+        "site": "anime-planet",
+        "id": "patlabor-the-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "2712"
+      },
+      {
+        "site": "anisearch",
+        "id": "2835"
+      },
+      {
+        "site": "kitsu",
+        "id": "12470"
+      },
+      {
+        "site": "kitsu",
+        "id": "981"
+      },
+      {
+        "site": "livechart",
+        "id": "2266"
+      },
+      {
+        "site": "livechart",
+        "id": "2730"
+      },
+      {
+        "site": "livechart",
+        "id": "4349"
+      },
+      {
+        "site": "livechart",
+        "id": "4526"
+      },
+      {
+        "site": "livechart",
+        "id": "4863"
+      },
+      {
+        "site": "livechart",
+        "id": "4942"
+      },
+      {
+        "site": "livechart",
+        "id": "5473"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1096"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33741"
+      },
+      {
+        "site": "notify",
+        "id": "q1azhKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "ubXJ5Fmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2002,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1/1290.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1/1290t.jpg",
+    "synonyms": [
+      "Mobile Police Patlabor: WXIII",
+      "Patlabor 3 : WXIII",
+      "Patlabor 3: WXIII",
+      "Patlabor 3: WXIII - Der Film",
+      "Patlabor Movie 3: WXIII",
+      "Patlabor WXIII",
+      "Patlabor the Movie 3",
+      "Patlabor the Movie 3: WXIII",
+      "WXIII PATLABOR THE MOVIE 3",
+      "WXIII 機動警察パトレイバー",
+      "WXIII: Patlabor La Película 3",
+      "WXIII: Patlabor Le Film 3",
+      "WXIII: Patlabor the Movie 3",
+      "Wasted 13: Patlabor - The Movie 3",
+      "Wasted 13: Patlabor the Movie 3",
+      "Wasted Thirteen Kidou Keisatsu Patlabor",
+      "Полиция будущего: Монстр",
+      "פאטלייבור: הסרט ה-3",
+      "うぇいすてっどさーてぃーんきどうけいさつぱとれいばー",
+      "パトレイバー WXIII",
+      "机动警察 十三号废弃物"
+    ]
+  },
+  {
+    "title": "ONE PIECE 珍獣島のチョッパー王国",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海贼王 珍兽岛之乔巴王国"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-03-02T16:00:00.000Z",
+    "end": "2002-03-02T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1901"
+      },
+      {
+        "site": "anidb",
+        "id": "69"
+      },
+      {
+        "site": "anilist",
+        "id": "21"
+      },
+      {
+        "site": "anilist",
+        "id": "2386"
+      },
+      {
+        "site": "anilist",
+        "id": "460"
+      },
+      {
+        "site": "anilist",
+        "id": "462"
+      },
+      {
+        "site": "anime-planet",
+        "id": "one-piece"
+      },
+      {
+        "site": "anisearch",
+        "id": "2227"
+      },
+      {
+        "site": "anisearch",
+        "id": "3790"
+      },
+      {
+        "site": "kitsu",
+        "id": "12"
+      },
+      {
+        "site": "kitsu",
+        "id": "2163"
+      },
+      {
+        "site": "livechart",
+        "id": "321"
+      },
+      {
+        "site": "livechart",
+        "id": "4028"
+      },
+      {
+        "site": "livechart",
+        "id": "4104"
+      },
+      {
+        "site": "livechart",
+        "id": "4166"
+      },
+      {
+        "site": "livechart",
+        "id": "4187"
+      },
+      {
+        "site": "livechart",
+        "id": "4208"
+      },
+      {
+        "site": "livechart",
+        "id": "4720"
+      },
+      {
+        "site": "livechart",
+        "id": "4723"
+      },
+      {
+        "site": "livechart",
+        "id": "4817"
+      },
+      {
+        "site": "livechart",
+        "id": "4824"
+      },
+      {
+        "site": "livechart",
+        "id": "4938"
+      },
+      {
+        "site": "livechart",
+        "id": "5000"
+      },
+      {
+        "site": "livechart",
+        "id": "5174"
+      },
+      {
+        "site": "livechart",
+        "id": "5208"
+      },
+      {
+        "site": "livechart",
+        "id": "6598"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2386"
+      },
+      {
+        "site": "notify",
+        "id": "BGfE5KiiR"
+      },
+      {
+        "site": "notify",
+        "id": "jdZp5KmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2002,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1017/97698.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1017/97698t.jpg",
+    "synonyms": [
+      "ONE PIECE 珍獣島のチョッパー王国",
+      "ONE PIECE: Chinjuu-jima no Chopper Oukoku",
+      "OP Movie 3",
+      "One Piece - 3. Film: Chopper auf der Insel der seltsamen Tiere",
+      "One Piece - Il tesoro del re",
+      "One Piece : Le Royaume de Chopper - L’étrange île des animaux",
+      "One Piece : Le Royaume de Chopper, l`étrange île des animaux",
+      "One Piece : Le Royaume de Chopper, l’île des bêtes étranges",
+      "One Piece Film 3: Chopper auf der Insel der seltsamen Tiere",
+      "One Piece Film 3: Le Royaume de Chopper, L'étrange île des Animaux",
+      "One Piece Movie 03",
+      "One Piece Movie 3",
+      "One Piece Movie 3: Chinjuu-jima no Chopper Oukoku",
+      "One Piece Movie 3: Chopper Kingdom of Strange Animal Island",
+      "One Piece Película 3: El Reino de Chopper en la Isla de los Animales Raros",
+      "One Piece The Movie 3: Chopper’s Kingdom of Strange Animal Island",
+      "One Piece: 3. Film - Chopper auf der Insel der seltsamen Tiere",
+      "One Piece: Chinjou Shima no Chopper Oukoku",
+      "One Piece: Chinjuu-jima no Chopper Oukoku",
+      "One Piece: Chinjuujima no Chopper Oukoku",
+      "One Piece: Chinjū-jima no Chopper Ōkoku",
+      "One Piece: Chopper Kingdom of Strange Animal Island",
+      "One Piece: Chopper auf der Insel der seltsamen Tiere",
+      "One Piece: Chopper`s Kingdom in the Strange Animal Island",
+      "One Piece: Chopper’s Kingdom in the Strange Animal Island",
+      "One Piece: Chopper’s Kingdom on the Island of Strange Animals",
+      "One Piece: El Reino De Chopper En La Isla De Los Animales Raros",
+      "One Piece: Il Tesoro del Re",
+      "One Piece: Il tesoro del re",
+      "Vua Hải Tặc: Vương quốc Chopper trên đảo của những sinh vật lạ",
+      "opm3",
+      "วันพีซ เดอะมูฟวี่ 3 เกาะแห่งสรรพสัตว์และราชันย์ช็อปเปอร์",
+      "ワンピース 珍獣島のチョッパー王国"
+    ]
+  },
+  {
+    "title": "デジモンテイマーズ 暴走デジモン特急",
+    "titleTranslate": {
+      "zh-Hans": [
+        "数码暴龙03驯兽师之王 暴走的数码列车"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-03-02T16:00:00.000Z",
+    "end": "2002-03-02T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3138"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4tgp",
+        "begin": "2015-08-06T12:03:19.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "1227"
+      },
+      {
+        "site": "anilist",
+        "id": "874"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-tamers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-tamers-movie-the-adventurers-battle"
+      },
+      {
+        "site": "anisearch",
+        "id": "1670"
+      },
+      {
+        "site": "kitsu",
+        "id": "774"
+      },
+      {
+        "site": "livechart",
+        "id": "3730"
+      },
+      {
+        "site": "livechart",
+        "id": "3917"
+      },
+      {
+        "site": "livechart",
+        "id": "3980"
+      },
+      {
+        "site": "livechart",
+        "id": "3990"
+      },
+      {
+        "site": "livechart",
+        "id": "4234"
+      },
+      {
+        "site": "livechart",
+        "id": "4251"
+      },
+      {
+        "site": "livechart",
+        "id": "4604"
+      },
+      {
+        "site": "livechart",
+        "id": "4643"
+      },
+      {
+        "site": "livechart",
+        "id": "4864"
+      },
+      {
+        "site": "livechart",
+        "id": "5520"
+      },
+      {
+        "site": "livechart",
+        "id": "5638"
+      },
+      {
+        "site": "livechart",
+        "id": "5655"
+      },
+      {
+        "site": "livechart",
+        "id": "5704"
+      },
+      {
+        "site": "livechart",
+        "id": "5834"
+      },
+      {
+        "site": "livechart",
+        "id": "5846"
+      },
+      {
+        "site": "myanimelist",
+        "id": "874"
+      },
+      {
+        "site": "notify",
+        "id": "ogrAcFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2002,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/4418.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/4418t.jpg",
+    "synonyms": [
+      "Digimon Movie 02 - Season 03",
+      "Digimon Movie 6",
+      "Digimon Tamers - Runaway Digimon Express",
+      "Digimon Tamers Movie: Bousou Digimon Tokkyuu",
+      "Digimon Tamers Movie: Runaway Locomon",
+      "Digimon Tamers: Bōsō Digimon Tokkyū",
+      "Digimon Tamers: Reckless Driving - Digimon Super-Express",
+      "Digimon Tamers: Runaway Locomon",
+      "Digimon Tamers: The Runaway Digimon Express",
+      "digitame movie 2",
+      "デジモンテイマーズ 暴走デジモン特急",
+      "디지몬 테이머즈: 폭주 디지몬 특급"
+    ]
+  },
+  {
+    "title": "ミニパト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动警察迷你版"
+      ],
+      "zh-Hant": [
+        "機動警察 迷你版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-03-30T16:00:00.000Z",
+    "end": "2002-03-30T16:35:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "sYVv7VW7K2nMSrI",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "13612"
+      },
+      {
+        "site": "bilibili",
+        "id": "5266",
+        "begin": "2002-03-29T16:00:01.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "103955",
+        "begin": "2020-08-06T06:35:00.000Z",
+        "broadcast": "R/2020-08-06T06:35:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "537"
+      },
+      {
+        "site": "anilist",
+        "id": "1095"
+      },
+      {
+        "site": "anilist",
+        "id": "1096"
+      },
+      {
+        "site": "anilist",
+        "id": "1288"
+      },
+      {
+        "site": "anilist",
+        "id": "1290"
+      },
+      {
+        "site": "anilist",
+        "id": "324"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-police-patlabor-reboot"
+      },
+      {
+        "site": "anime-planet",
+        "id": "patlabor-2-the-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "patlabor-the-mobile-police"
+      },
+      {
+        "site": "anime-planet",
+        "id": "patlabor-the-mobile-police-new-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "patlabor-the-mobile-police-tv"
+      },
+      {
+        "site": "anime-planet",
+        "id": "patlabor-the-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "patlabor-wxiii"
+      },
+      {
+        "site": "anisearch",
+        "id": "132"
+      },
+      {
+        "site": "kitsu",
+        "id": "291"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1288"
+      },
+      {
+        "site": "notify",
+        "id": "Dkx2cFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2002,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/23501.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/23501t.jpg",
+    "synonyms": [
+      "Mini Pato",
+      "Minipato",
+      "Mobile Police Patlabor Minimum",
+      "Mobile Police Patlabor Minimum: Minipato",
+      "Mobile Police Patlabor: MiniPato",
+      "みにぱと",
+      "ミニパト"
+    ]
+  },
+  {
+    "title": "サイキックアカデミー煌羅万象",
+    "titleTranslate": {
+      "zh-Hans": [
+        "煌罗万象"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.starchild.co.jp/special/aura/index.html",
+    "begin": "2002-03-29T16:00:00.000Z",
+    "end": "2002-09-13T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "4210"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2002,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/1886/98806.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1886/98806t.jpg",
+    "synonyms": [
+      "PA",
+      "PAAB",
+      "Psychic Academy Aura Banshou",
+      "Psychic Academy Aura Banshō",
+      "Psychic Academy Ourabanshou",
+      "Psychic Academy: Oura Banshou",
+      "Ψchic academy",
+      "φchic academy",
+      "サイキックアカデミー　煌羅万象",
+      "サイキックアカデミー煌羅万象",
+      "煌罗万象"
+    ]
+  },
+  {
+    "title": "ガンフロンティア",
+    "titleTranslate": {
+      "zh-Hans": [
+        "枪之国度"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-03-28T16:00:00.000Z",
+    "end": "2002-06-24T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "2BHradE3pibVIxia4",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "69698"
+      },
+      {
+        "site": "anidb",
+        "id": "661"
+      },
+      {
+        "site": "anidb",
+        "id": "725"
+      },
+      {
+        "site": "anilist",
+        "id": "1000"
+      },
+      {
+        "site": "anilist",
+        "id": "1645"
+      },
+      {
+        "site": "anisearch",
+        "id": "1017"
+      },
+      {
+        "site": "kitsu",
+        "id": "890"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1000"
+      },
+      {
+        "site": "notify",
+        "id": "i521cKmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2002,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/15442.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/15442t.jpg",
+    "synonyms": [
+      "Frontera sin ley",
+      "GUN FRONTIER",
+      "ガンフロンティア"
+    ]
+  },
+  {
+    "title": "パルムの樹",
+    "titleTranslate": {
+      "zh-Hans": [
+        "帕卢姆之树"
+      ],
+      "zh-Hant": [
+        "帕盧姆之樹"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-03-16T16:00:00.000Z",
+    "end": "2002-03-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "25411"
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc0020082ywx0v",
+        "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "106245",
+        "begin": "2019-06-27T04:00:00.000Z",
+        "broadcast": "R/2019-06-27T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "5265",
+        "begin": "",
+        "broadcast": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2002,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/12909.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/12909t.jpg",
+    "synonyms": [
+      "A Tree Of Palme",
+      "A Tree of Palme",
+      "Arbre de Palmem",
+      "El Arbol de Palme",
+      "Un arbre de Palme",
+      "Дерево Палме",
+      "Дух у Колоді",
+      "Майже людина",
+      "Мрії Андроїда",
+      "Почти человек",
+      "ぱるむのき",
+      "パルムの樹",
+      "帕卢姆之树",
+      "파름의 나무"
+    ]
+  }
+]

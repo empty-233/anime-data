@@ -1,102 +1,6976 @@
-{
-  "title": "夜は短し歩けよ乙女",
-  "titleTranslate": {
-    "zh-Hans": [
-      "春宵苦短，少女前进吧！"
+[
+  {
+    "title": "GRANBLUE FANTASY The Animation",
+    "titleTranslate": {
+      "zh-Hans": [
+        "碧蓝幻想"
+      ],
+      "zh-Hant": [
+        "碧藍幻想"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://anime.granbluefantasy.jp/",
+    "begin": "2017-04-01T15:00:00.000Z",
+    "end": "2017-06-24T15:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "fTEamXXn3hxicicWU",
+        "begin": "2017-04-01T16:30:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "146732"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anime_granbluefantasy",
+        "begin": "2017-04-04T03:00:00.000Z"
+      },
+      {
+        "site": "acfun",
+        "id": "6000602",
+        "begin": "2019-11-12T13:03:12.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "77679",
+        "begin": "2017-04-02T06:46:00.000Z",
+        "broadcast": "R/2017-04-02T06:46:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_tw",
+        "id": "4313002",
+        "begin": "2018-11-26T10:10:47.000Z",
+        "broadcast": "R/2018-11-26T10:10:47.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "13524"
+      },
+      {
+        "site": "anidb",
+        "id": "15483"
+      },
+      {
+        "site": "anilist",
+        "id": "100469"
+      },
+      {
+        "site": "anilist",
+        "id": "107346"
+      },
+      {
+        "site": "anilist",
+        "id": "117086"
+      },
+      {
+        "site": "anilist",
+        "id": "145433"
+      },
+      {
+        "site": "anime-planet",
+        "id": "follow-your-fantasy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "granblue-fantasy-robomi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "granblue-fantasy-the-animation-jack-olantern"
+      },
+      {
+        "site": "anime-planet",
+        "id": "granblue-fantasy-the-animation-season-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "grand-blues"
+      },
+      {
+        "site": "anisearch",
+        "id": "12579"
+      },
+      {
+        "site": "anisearch",
+        "id": "12914"
+      },
+      {
+        "site": "anisearch",
+        "id": "15144"
+      },
+      {
+        "site": "anisearch",
+        "id": "15716"
+      },
+      {
+        "site": "anisearch",
+        "id": "15832"
+      },
+      {
+        "site": "anisearch",
+        "id": "16322"
+      },
+      {
+        "site": "anisearch",
+        "id": "16503"
+      },
+      {
+        "site": "anisearch",
+        "id": "16932"
+      },
+      {
+        "site": "kitsu",
+        "id": "13154"
+      },
+      {
+        "site": "kitsu",
+        "id": "13626"
+      },
+      {
+        "site": "kitsu",
+        "id": "14132"
+      },
+      {
+        "site": "kitsu",
+        "id": "45665"
+      },
+      {
+        "site": "livechart",
+        "id": "2760"
+      },
+      {
+        "site": "livechart",
+        "id": "2940"
+      },
+      {
+        "site": "livechart",
+        "id": "9719"
+      },
+      {
+        "site": "livechart",
+        "id": "9861"
+      },
+      {
+        "site": "livechart",
+        "id": "9876"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34454"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35814"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36587"
+      },
+      {
+        "site": "myanimelist",
+        "id": "41574"
+      },
+      {
+        "site": "notify",
+        "id": "5pEN2KiiR"
+      },
+      {
+        "site": "notify",
+        "id": "B8b42Kimg"
+      },
+      {
+        "site": "notify",
+        "id": "PTxZ1hSMg"
+      },
+      {
+        "site": "notify",
+        "id": "rxTGhKimR"
+      }
     ],
-    "zh-Hant": [
-      "夜短夢長，少女前進吧！"
-    ],
-    "en": [
-      "The Night Is Short, Walk On Girl"
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/81630.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/81630t.jpg",
+    "synonyms": [
+      "GRANBLUE FANTASY The Animation",
+      "GRANBLUE FANTASY: The Animation",
+      "Gran`ın Gök Hayali",
+      "Granblue",
+      "Granblue Fantasy",
+      "Granblue Fantasy: The Animation",
+      "guraburu s1",
+      "グランブルーファンタジー",
+      "グランブルーファンタジー The Animation",
+      "碧蓝幻想",
+      "碧藍幻想",
+      "그랑블루 판타지 The Animation"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "http://kurokaminootome.com/",
-  "begin": "2017-04-07T16:00:00.000Z",
-  "end": "2017-04-07T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "202240"
+  {
+    "title": "冴えない彼女の育てかた♭",
+    "titleTranslate": {
+      "en": [
+        "Saenai heroine no sodate kata. flat"
+      ],
+      "zh-Hans": [
+        "路人女主的养成方法 ♭",
+        "路人女主的养成方法 第2季"
+      ],
+      "zh-Hant": [
+        "不起眼女主角培育法 第二季"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "7752",
-      "begin": "2017-04-06T16:00:00.000Z",
-      "broadcast": ""
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.saenai.tv/",
+    "begin": "2017-04-13T15:55:00.000Z",
+    "end": "2017-06-22T16:25:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "SP3XVb0jk9E0sho",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9f1yl",
+        "begin": "2017-04-13T16:30:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "132734"
+      },
+      {
+        "site": "nicovideo",
+        "id": "saenai2",
+        "begin": "2019-09-12T03:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228738",
+        "begin": "2020-04-29T16:00:00.000Z",
+        "broadcast": "R/2020-04-30T10:05:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "76948",
+        "begin": "2021-11-12T06:00:00.000Z",
+        "broadcast": "R/2021-11-12T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "10538"
+      },
+      {
+        "site": "anidb",
+        "id": "13626"
+      },
+      {
+        "site": "anilist",
+        "id": "100675"
+      },
+      {
+        "site": "anilist",
+        "id": "20657"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saekano-how-to-raise-a-boring-girlfriend"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saekano-how-to-raise-a-boring-girlfriend-fan-service-of-love-and-youth"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saekano-how-to-raise-a-boring-girlfriend-fine"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saekano-how-to-raise-a-boring-girlfriend-flat-fan-service-of-love-and-pure-heart"
+      },
+      {
+        "site": "anisearch",
+        "id": "12390"
+      },
+      {
+        "site": "anisearch",
+        "id": "13083"
+      },
+      {
+        "site": "kitsu",
+        "id": "13322"
+      },
+      {
+        "site": "kitsu",
+        "id": "14050"
+      },
+      {
+        "site": "kitsu",
+        "id": "8406"
+      },
+      {
+        "site": "livechart",
+        "id": "3002"
+      },
+      {
+        "site": "livechart",
+        "id": "476"
+      },
+      {
+        "site": "myanimelist",
+        "id": "23277"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35338"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36885"
+      },
+      {
+        "site": "notify",
+        "id": "29FH2Kimg"
+      },
+      {
+        "site": "notify",
+        "id": "UiI0tFiig"
+      },
+      {
+        "site": "notify",
+        "id": "ovO72FmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
     },
-    {
-      "site": "netflix",
-      "id": "80990742",
-      "begin": "2021-12-30T00:00:00.000Z",
-      "broadcast": "R/2021-12-30T00:00:00.000Z/P7D"
-    },
-    {
-      "site": "anidb",
-      "id": "7243"
-    },
-    {
-      "site": "anilist",
-      "id": "7785"
-    },
-    {
-      "site": "anime-planet",
-      "id": "the-tatami-galaxy"
-    },
-    {
-      "site": "anime-planet",
-      "id": "the-tatami-time-machine-blues"
-    },
-    {
-      "site": "anisearch",
-      "id": "5845"
-    },
-    {
-      "site": "livechart",
-      "id": "10745"
-    },
-    {
-      "site": "livechart",
-      "id": "3631"
-    },
-    {
-      "site": "livechart",
-      "id": "5364"
-    },
-    {
-      "site": "myanimelist",
-      "id": "7785"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 2017,
-    "month": "04"
+    "status": "FINISHED",
+    "episodes": 11,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/84797.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/84797t.jpg",
+    "synonyms": [
+      "Saekano -How to Raise a Boring Girlfriend- .flat",
+      "Saekano 2",
+      "Saekano Cómo criar a una novia aburrida",
+      "Saekano Flat",
+      "Saekano S2",
+      "Saekano ♭",
+      "Saekano: How to Raise a Boring Girlfriend .flat",
+      "Saekano: How to Raise a Boring Girlfriend Flat",
+      "Saekano: How to Raise a Boring Girlfriend ♭",
+      "Saekano: How to Raise a Boring Girlfriend.flat",
+      "Saekano♭ How to Raise a Boring Girlfriend.flat",
+      "Saenai : Saison 2",
+      "Saenai Heroine no Sodate-kata ♭",
+      "Saenai Heroine no Sodatekata 2",
+      "Saenai Heroine no Sodatekata Flat",
+      "Saenai Kanojo no Sodatekata Flat",
+      "saekanoflat",
+      "วิธีปั้นสาวบ้านให้มาเป็นนางเอกของผม ภาค 2",
+      "さえないひろいんのそだてかたふらっと",
+      "不起眼女主角培育法♭",
+      "冴えない彼女[ヒロイン]の育てかた♭",
+      "冴えない彼女〈ヒロイン〉の育てかた♭",
+      "冴えない彼女の育てかた ♭",
+      "冴えない彼女の育てかた♭",
+      "路人女主的养成方法 ♭",
+      "시원찮은 그녀를 위한 육성방법♭"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/2/86940.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/2/86940t.jpg",
-  "synonyms": [
-    "Night Is Short, Walk on Girl",
-    "Night is Short",
-    "Night is Short, Walk On Girl",
-    "Night is Short, Walk on Girl",
-    "The Night Is Short",
-    "The Night Is Short, Walk On Girl",
-    "The Night Is Short, Walk on Girl",
-    "The Night is Short, Walk On Girl",
-    "The Night is Short, Walk on Girl",
-    "Walk On Girl",
-    "Walk on Girl",
-    "Yoru wa Mijikashi Aruke yo Otome",
-    "yorumi",
-    "夜は短し歩けよ乙女",
-    "春宵苦短,少女前进吧!",
-    "春宵苦短，少女前进吧！",
-    "밤은 짧아 걸어 아가씨야"
-  ]
-}
+  {
+    "title": "ソード・オラトリア",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剑姬神圣谭",
+        "期待在地下城邂逅有错吗 外传 剑姬神圣谭",
+        "剑姬神圣谭: 在地下城结识女孩有错吗 外传"
+      ],
+      "en": [
+        "Sword Oratoria",
+        "Sword Oratoria: Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side"
+      ],
+      "zh-Hant": [
+        "劍姬神聖譚(地下城外傳)",
+        "劍姬神聖譚",
+        "在地下城尋求邂逅是否搞錯了什麼外傳-劍姬神聖譚"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://danmachi.com/sword_oratoria/",
+    "begin": "2017-04-14T15:30:00.000Z",
+    "end": "2017-06-30T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9f4qt",
+        "begin": "2017-04-14T17:00:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "172155"
+      },
+      {
+        "site": "nicovideo",
+        "id": "danmachi_gaiden",
+        "begin": "2017-04-18T03:00:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200yho3rg6",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28228037",
+        "begin": "2017-04-13T16:00:00.000Z",
+        "broadcast": "R/2020-02-28T07:40:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjjOJ9nWXXro1Y9rQv04c2C",
+        "begin": "2020-04-10T16:00:00.000Z",
+        "broadcast": "R/2020-04-10T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "82306",
+        "begin": "2017-04-14T17:21:00.000Z",
+        "broadcast": "R/2017-04-14T17:21:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "2Mj3DLJdrkpa",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "10894"
+      },
+      {
+        "site": "anilist",
+        "id": "20920"
+      },
+      {
+        "site": "anime-planet",
+        "id": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kano-day-by-day-short-ver"
+      },
+      {
+        "site": "anisearch",
+        "id": "9940"
+      },
+      {
+        "site": "kitsu",
+        "id": "9962"
+      },
+      {
+        "site": "livechart",
+        "id": "10279"
+      },
+      {
+        "site": "livechart",
+        "id": "10382"
+      },
+      {
+        "site": "livechart",
+        "id": "11536"
+      },
+      {
+        "site": "livechart",
+        "id": "12398"
+      },
+      {
+        "site": "livechart",
+        "id": "1274"
+      },
+      {
+        "site": "livechart",
+        "id": "2045"
+      },
+      {
+        "site": "livechart",
+        "id": "3107"
+      },
+      {
+        "site": "livechart",
+        "id": "3108"
+      },
+      {
+        "site": "livechart",
+        "id": "9612"
+      },
+      {
+        "site": "livechart",
+        "id": "9613"
+      },
+      {
+        "site": "myanimelist",
+        "id": "28121"
+      },
+      {
+        "site": "notify",
+        "id": "LTTPtKmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1181/123312.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1181/123312t.jpg",
+    "synonyms": [
+      "DanMachi Gaiden: Sword Oratoria",
+      "DanMachi: Sword Oratoria",
+      "Danmachi Gaiden: Sword Oratoria",
+      "Danmachi Sword Oratoria",
+      "Danmachi: Sword Oratoria",
+      "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka Gaiden: Sword Oratoria",
+      "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden: Sword Oratoria",
+      "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darō ka Gaiden: Sword Oratoria",
+      "Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darou ka Gaiden: Sword Oratoria",
+      "Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darouka Gaiden: Sword Oratoria",
+      "Is It Wrong to Hope to Meet a Girl in a Dungeon? On the Side: Sword Oratoria",
+      "Is It Wrong to Try to Pick Up Girls in a Dungeon? Sword Oratoria",
+      "Sword Oratoria",
+      "Sword Oratoria (DanMachi)",
+      "Sword Oratoria: Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side",
+      "Sword Oratoria: Is it Wrong to Try to Pick Up Girls in a Dungeon? On the Side",
+      "danmachi gaiden",
+      "¿Qué tiene de Malo intentar ligar en una Mazmorra? Familia Myth: Sword Oratoria",
+      "ソード・オラトリア",
+      "ダンジョンに出会いを求めるのは間違っているだろうか外伝 ソード・オラトリア",
+      "期待在地下城邂逅有错吗 外传 剑姬神圣谭",
+      "소드 오라토리아: 던전에서 만남을 추구하면 안 되는 걸까 외전"
+    ]
+  },
+  {
+    "title": "サクラダリセット",
+    "titleTranslate": {
+      "en": [
+        "SAGRADA RESET"
+      ],
+      "zh-Hans": [
+        "咲良田重置",
+        "重启咲良田"
+      ],
+      "zh-Hant": [
+        "重啟咲良田"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://sagrada-anime.com/",
+    "begin": "2017-04-05T14:30:00.000Z",
+    "end": "2017-09-13T15:00:00.000Z",
+    "sites": [
+      {
+        "site": "youku",
+        "id": "ac0ab02ad88911e69e06",
+        "begin": "2017-04-05T16:00:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "193378"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sagrada-anime",
+        "begin": "2017-04-07T15:00:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhwajr5",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "h/hsrxv2r5jd205hf",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28226651",
+        "begin": "2017-04-04T16:00:00.000Z",
+        "broadcast": "R/2019-12-27T07:43:00.000Z/P7D"
+      },
+      {
+        "site": "acfun",
+        "id": "6003894",
+        "begin": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucio698xvGdbbZtRLzqwyL8_",
+        "begin": "2019-09-26T16:00:00.000Z",
+        "broadcast": "R/2019-09-26T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "86183",
+        "begin": "2017-04-05T16:00:00.000Z",
+        "broadcast": "R/2017-04-05T16:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/87743.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/87743t.jpg",
+    "synonyms": [
+      "Sagrada Reset",
+      "sagrada",
+      "sakurada",
+      "Перезапуск Сакуради",
+      "Переустановка Сакурады",
+      "サクラダリセット",
+      "重启咲良田",
+      "사쿠라다 리셋"
+    ]
+  },
+  {
+    "title": "進撃の巨人 Season2",
+    "titleTranslate": {
+      "en": [
+        "attack on titan Season2"
+      ],
+      "zh-Hans": [
+        "进击的巨人 第二季",
+        "自由之翼"
+      ],
+      "zh-Hant": [
+        "進擊的巨人 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://shingeki.tv/season2/",
+    "begin": "2017-04-01T13:00:00.000Z",
+    "end": "2017-06-17T13:30:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9brh9",
+        "begin": "2017-04-01T20:00:00.000Z"
+      },
+      {
+        "site": "bilibili_tw",
+        "id": "5970",
+        "begin": "2017-04-01T20:30:03.000Z",
+        "broadcast": "R/2017-04-01T20:30:03.000Z/P7D"
+      },
+      {
+        "site": "bangumi",
+        "id": "118335"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shingeki_season2",
+        "begin": "2017-03-24T06:00:00.000Z"
+      },
+      {
+        "site": "viu",
+        "id": "467500",
+        "begin": "2022-12-22T16:00:00.000Z",
+        "broadcast": "R/2022-12-22T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "72755",
+        "begin": "2017-04-01T19:27:00.000Z",
+        "broadcast": "R/2017-04-01T19:27:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchkFx6Rl70VbQeT10lIKoL7",
+        "begin": "2023-06-11T13:55:55.059Z",
+        "broadcast": "R/2023-06-11T13:55:55.059Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5D0Qx5ecSvHm",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "13241"
+      },
+      {
+        "site": "anidb",
+        "id": "13546"
+      },
+      {
+        "site": "anidb",
+        "id": "15582"
+      },
+      {
+        "site": "anidb",
+        "id": "9541"
+      },
+      {
+        "site": "anilist",
+        "id": "100465"
+      },
+      {
+        "site": "anilist",
+        "id": "110640"
+      },
+      {
+        "site": "anilist",
+        "id": "119113"
+      },
+      {
+        "site": "anilist",
+        "id": "16498"
+      },
+      {
+        "site": "anilist",
+        "id": "99147"
+      },
+      {
+        "site": "anime-planet",
+        "id": "10-pun-de-oitsukeru-attack-on-titan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "15-pun-de-oitsukeru-attack-on-titan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "20-pun-de-oitsukeru-attack-on-titan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "attack-on-titan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "attack-on-titan-3rd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "attack-on-titan-3rd-season-part-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "attack-on-titan-movie-3-the-roar-of-awakening"
+      },
+      {
+        "site": "anime-planet",
+        "id": "attack-on-titan-movie-4-chronicle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "attack-on-titan-the-final-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "attack-on-titan-the-final-season-part-ii"
+      },
+      {
+        "site": "anisearch",
+        "id": "12550"
+      },
+      {
+        "site": "anisearch",
+        "id": "12951"
+      },
+      {
+        "site": "anisearch",
+        "id": "15289"
+      },
+      {
+        "site": "anisearch",
+        "id": "18451"
+      },
+      {
+        "site": "anisearch",
+        "id": "18609"
+      },
+      {
+        "site": "anisearch",
+        "id": "18614"
+      },
+      {
+        "site": "anisearch",
+        "id": "8219"
+      },
+      {
+        "site": "kitsu",
+        "id": "13569"
+      },
+      {
+        "site": "kitsu",
+        "id": "41487"
+      },
+      {
+        "site": "kitsu",
+        "id": "47129"
+      },
+      {
+        "site": "kitsu",
+        "id": "47130"
+      },
+      {
+        "site": "kitsu",
+        "id": "47131"
+      },
+      {
+        "site": "kitsu",
+        "id": "47259"
+      },
+      {
+        "site": "kitsu",
+        "id": "7442"
+      },
+      {
+        "site": "livechart",
+        "id": "10487"
+      },
+      {
+        "site": "livechart",
+        "id": "11010"
+      },
+      {
+        "site": "livechart",
+        "id": "139"
+      },
+      {
+        "site": "livechart",
+        "id": "1756"
+      },
+      {
+        "site": "livechart",
+        "id": "2737"
+      },
+      {
+        "site": "livechart",
+        "id": "2830"
+      },
+      {
+        "site": "livechart",
+        "id": "2959"
+      },
+      {
+        "site": "livechart",
+        "id": "3558"
+      },
+      {
+        "site": "livechart",
+        "id": "38"
+      },
+      {
+        "site": "livechart",
+        "id": "3968"
+      },
+      {
+        "site": "livechart",
+        "id": "513"
+      },
+      {
+        "site": "livechart",
+        "id": "514"
+      },
+      {
+        "site": "livechart",
+        "id": "755"
+      },
+      {
+        "site": "livechart",
+        "id": "9491"
+      },
+      {
+        "site": "livechart",
+        "id": "9996"
+      },
+      {
+        "site": "myanimelist",
+        "id": "16498"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35760"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36702"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39478"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42091"
+      },
+      {
+        "site": "myanimelist",
+        "id": "51239"
+      },
+      {
+        "site": "myanimelist",
+        "id": "51240"
+      },
+      {
+        "site": "myanimelist",
+        "id": "51241"
+      },
+      {
+        "site": "notify",
+        "id": "EuNTC3dmg"
+      },
+      {
+        "site": "notify",
+        "id": "_7O42FiiR"
+      },
+      {
+        "site": "notify",
+        "id": "tzUFpKiig"
+      },
+      {
+        "site": "notify",
+        "id": "yQjTRLzGg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/84177.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/84177t.jpg",
+    "synonyms": [
+      "+מתקפת הטיטאנים עונה 2",
+      "Angreifende Riesen 2",
+      "AoT 2",
+      "AoT2",
+      "Ataque A Los Titanes Secunda Temporada",
+      "Ataque A Los Titanes Temporada 2",
+      "Ataque a los Titanes Temporada 2",
+      "Attack on Titan (2017)",
+      "Attack on Titan 2",
+      "Attack on Titan 2nd Season",
+      "Attack on Titan Season 2",
+      "Attack on Titan Staffel 2",
+      "Attack on Titan – 2. Staffel",
+      "Attack on Titan: Season 2",
+      "L'Attacco dei Giganti - Seconda Stagione",
+      "L'Attacco dei Giganti 2",
+      "L'Attacco dei Giganti Stagione 2",
+      "L'Attaque des Titans Saison 2",
+      "L`attacco dei Giganti - Seconda stagione",
+      "L`attacco dei Giganti - Stagione 2",
+      "L`attaque des Titans saison 2",
+      "L’Attaque des Titans Saison 2",
+      "Shingeki no Kyojin (2017)",
+      "Shingeki no Kyojin 2",
+      "Shingeki no Kyojin 2nd Season",
+      "Shingeki no Kyojin S2",
+      "Shingeki no Kyojin Second Season",
+      "SnK 2",
+      "SnK2",
+      "Атака титанов 2 сезон",
+      "מתקפת הטיטאנים עונה 2",
+      "حمله به تایتان فصل 2",
+      "هجوم العمالقة 2",
+      "ผ่าพิภพไททัน ภาค 2",
+      "进击的巨人 第二季",
+      "進撃の巨人 Season 2",
+      "進撃の巨人 Season2",
+      "進撃の巨人 attack on titan Season 2",
+      "進撃の巨人2",
+      "進撃の巨人２",
+      "진격의 거인 2"
+    ]
+  },
+  {
+    "title": "アイドルマスター シンデレラガールズ劇場",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像大师 灰姑娘女孩剧场"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://cingeki-anime.com/",
+    "begin": "2017-04-04T12:55:00.000Z",
+    "end": "2017-06-27T13:00:00.000Z",
+    "sites": [
+      {
+        "site": "sohu",
+        "id": "s2017/dhpoxdsjcb",
+        "begin": "2017-04-04T13:55:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "70efbfbd5d23144811ef",
+        "begin": "2017-04-04T13:55:00.000Z"
+      },
+      {
+        "site": "mgtv",
+        "id": "314020",
+        "begin": "2017-04-04T13:55:00.000Z"
+      },
+      {
+        "site": "pptv",
+        "id": "MgbycNgibruxPzTU",
+        "begin": "2017-04-04T13:55:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "5966",
+        "begin": "2017-04-04T13:55:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "195328"
+      },
+      {
+        "site": "nicovideo",
+        "id": "cingeki-anime",
+        "begin": "2017-05-17T03:00:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "2/2d6emafoseqv8n2",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "10585"
+      },
+      {
+        "site": "anidb",
+        "id": "13274"
+      },
+      {
+        "site": "anilist",
+        "id": "102723"
+      },
+      {
+        "site": "anilist",
+        "id": "115519"
+      },
+      {
+        "site": "anilist",
+        "id": "122205"
+      },
+      {
+        "site": "anilist",
+        "id": "20693"
+      },
+      {
+        "site": "anilist",
+        "id": "98556"
+      },
+      {
+        "site": "anilist",
+        "id": "99742"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-idolmaster-cinderella-girls"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-idolmaster-cinderella-girls-second-series"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-idolmaster-cinderella-girls-special-anytime-anywhere-with-cinderella"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-idolmaster-cinderella-girls-special-program"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-idolmaster-cinderella-girls-theater-2nd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-idolmaster-cinderella-girls-theater-2nd-season-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-idolmaster-cinderella-girls-theater-2nd-season-web"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-idolmaster-cinderella-girls-theater-3rd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-idolmaster-cinderella-girls-theater-3rd-season-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-idolmaster-cinderella-girls-theater-3rd-season-web"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-idolmaster-cinderella-girls-theater-climax-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-idolmaster-cinderella-girls-theater-extra-stage"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-idolmaster-cinderella-girls-theater-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-idolmaster-cinderella-girls-theater-web"
+      },
+      {
+        "site": "anisearch",
+        "id": "12399"
+      },
+      {
+        "site": "anisearch",
+        "id": "12431"
+      },
+      {
+        "site": "anisearch",
+        "id": "12652"
+      },
+      {
+        "site": "anisearch",
+        "id": "12776"
+      },
+      {
+        "site": "anisearch",
+        "id": "9590"
+      },
+      {
+        "site": "kitsu",
+        "id": "13076"
+      },
+      {
+        "site": "kitsu",
+        "id": "13327"
+      },
+      {
+        "site": "kitsu",
+        "id": "13625"
+      },
+      {
+        "site": "kitsu",
+        "id": "13895"
+      },
+      {
+        "site": "kitsu",
+        "id": "8777"
+      },
+      {
+        "site": "livechart",
+        "id": "2673"
+      },
+      {
+        "site": "livechart",
+        "id": "2785"
+      },
+      {
+        "site": "livechart",
+        "id": "2786"
+      },
+      {
+        "site": "livechart",
+        "id": "3125"
+      },
+      {
+        "site": "livechart",
+        "id": "3336"
+      },
+      {
+        "site": "livechart",
+        "id": "5519"
+      },
+      {
+        "site": "livechart",
+        "id": "6599"
+      },
+      {
+        "site": "livechart",
+        "id": "7910"
+      },
+      {
+        "site": "livechart",
+        "id": "7963"
+      },
+      {
+        "site": "livechart",
+        "id": "8376"
+      },
+      {
+        "site": "livechart",
+        "id": "9798"
+      },
+      {
+        "site": "livechart",
+        "id": "9995"
+      },
+      {
+        "site": "myanimelist",
+        "id": "23587"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34489"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35346"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35805"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35883"
+      },
+      {
+        "site": "notify",
+        "id": "8UMM2Fmig"
+      },
+      {
+        "site": "notify",
+        "id": "fxsS2Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "hRq1tFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "iWF7hFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "yBxVhFmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/89786.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/89786t.jpg",
+    "synonyms": [
+      "Cinderella Girls Theater",
+      "Cingeki",
+      "IDOLM@STER: Cinderella Girls Gekijou",
+      "IDOLM@STER: Cinderella Girls Gekijō",
+      "Idolmaster Cinderella Girls Gekijou",
+      "THE IDOLM@STER CINDERELLA GIRLS Gekijô",
+      "THE IDOLM@STER CINDERELLA GIRLS Theater",
+      "THE IDOLM@STER Cinderella Girls Theater",
+      "The IDOLM@STER Cinderella Girls Gekijou (TV)",
+      "The IDOLM@STER: Cinderella Girls Gekijou",
+      "The IDOLM@STER: Cinderella Girls Gekijô (TV)",
+      "The IDOLM@STER: Cinderella Girls Theater",
+      "The IDOLM@STER: Cinderella Girls Theater (TV)",
+      "The Idolm@ster Cinderella Girls Theater",
+      "The Idolmaster Cinderella Girls Gekijou",
+      "The Idolmaster Cinderella Girls Theater",
+      "The iDOLM@STER Cinderella Girls Gekijou",
+      "The iDOLM@STER Cinderella Girls Theater",
+      "Идолмастер: Девушки-золушки",
+      "アイドルマスター シンデレラガールズ劇場",
+      "シンデレラガールズ劇場",
+      "偶像大师 灰姑娘女孩剧场",
+      "아이돌 마스터 신데렐라 걸즈 극장"
+    ]
+  },
+  {
+    "title": "トミカハイパーレスキュー ドライブヘッド 機動救急警察",
+    "titleTranslate": {
+      "zh-Hans": [
+        "多美卡超救援 DRIVEHEAD 机动救急警察"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/anime/drivehead/",
+    "begin": "2017-04-14T22:00:00.000Z",
+    "end": "2017-06-30T22:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "205376"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrheijc5",
+        "begin": "2017-10-25T21:41:27.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "6084",
+        "begin": "2017-04-15T01:30:00.000Z",
+        "broadcast": "R/2017-04-15T01:30:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "13606"
+      },
+      {
+        "site": "anidb",
+        "id": "13607"
+      },
+      {
+        "site": "anidb",
+        "id": "15355"
+      },
+      {
+        "site": "anidb",
+        "id": "8741"
+      },
+      {
+        "site": "anilist",
+        "id": "100654"
+      },
+      {
+        "site": "anilist",
+        "id": "100655"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tomica-hyper-rescue-drive-head-kidou-kyuukyuu-keisatsu-2018"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tomica-hyper-rescue-drive-head-kidou-kyuukyuu-keisatsu-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tomica-hyper-series-next-stage"
+      },
+      {
+        "site": "anisearch",
+        "id": "13063"
+      },
+      {
+        "site": "anisearch",
+        "id": "13070"
+      },
+      {
+        "site": "livechart",
+        "id": "2990"
+      },
+      {
+        "site": "livechart",
+        "id": "2991"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36856"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36857"
+      },
+      {
+        "site": "myanimelist",
+        "id": "49057"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 37,
+    "picture": "https://cdn.myanimelist.net/images/anime/1385/95682.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1385/95682t.jpg",
+    "synonyms": [
+      "Mobile Emergency Police",
+      "Tomica Hyper Rescue Drive Head Kidou Kyuukyuu Keisatsu",
+      "Tomica Hyper Rescue Drive Head Mobile Emergency Police",
+      "Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu (TV)",
+      "Tomica Hyper Rescue Drive Head: Kidō Kyūkyū Keisatsu",
+      "トミカハイパーレスキュー ドライブヘッド 機動救急警察",
+      "多美卡超救援 DRIVEHEAD 机动救急警察"
+    ]
+  },
+  {
+    "title": "クロックワーク・プラネット",
+    "titleTranslate": {
+      "zh-Hans": [
+        "时钟机关之星"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/anime/cp/",
+    "begin": "2017-04-06T16:59:00.000Z",
+    "end": "2017-06-22T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "6000",
+        "begin": "2017-04-07T04:00:00.000Z",
+        "broadcast": "R/2017-04-07T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi",
+        "id": "162715"
+      },
+      {
+        "site": "nicovideo",
+        "id": "cp",
+        "begin": "2017-04-12T03:00:00.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/85989.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/85989t.jpg",
+    "synonyms": [
+      "CloPla",
+      "ClockWork Planet",
+      "Механическая планета",
+      "クロックワーク・プラネット",
+      "クロプラ",
+      "时钟机关之星",
+      "클락워크 플래닛"
+    ]
+  },
+  {
+    "title": "ロクでなし魔術講師と禁忌教典",
+    "titleTranslate": {
+      "en": [
+        "Akashic records of bastard magic instructor"
+      ],
+      "zh-Hans": [
+        "不正经的魔术讲师与禁忌教典",
+        "不三不四的幻术讲师与隐讳教典",
+        "不正经的魔法讲师与禁忌教典"
+      ],
+      "zh-Hant": [
+        "不正經的魔術講師與禁忌教典"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://rokuaka.jp/",
+    "begin": "2017-04-04T11:30:00.000Z",
+    "end": "2017-06-20T12:00:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9f27t",
+        "begin": "2017-04-04T13:00:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "174138"
+      },
+      {
+        "site": "nicovideo",
+        "id": "rokuaka",
+        "begin": "2017-04-08T15:30:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28230162",
+        "begin": "2020-09-29T10:00:01.000Z",
+        "broadcast": "R/2020-09-29T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JhgECCmAq4rlTGlPT-5AvuA",
+        "begin": "2019-12-16T16:00:00.000Z",
+        "broadcast": "R/2019-12-16T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTSgY082GehVYBm37ahyQiZ",
+        "begin": "2022-07-24T16:00:00.000Z",
+        "broadcast": "R/2022-07-24T16:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/85593.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/85593t.jpg",
+    "synonyms": [
+      "Akashic Records of Bastard Magic Instructor",
+      "Akashic Records of Bastard Magical Instructor",
+      "Roku de Nashi Majutsu Koushi to Akashic Records",
+      "Roku de Nashi Majutsu Koushi to Kinki Kyouten",
+      "RokuAka",
+      "Rokudenashi Majutsu Kōshi to Akashic Records",
+      "rmktar",
+      "rokuaka",
+      "Никудышный учитель магии и Хроники Акаши",
+      "Хроники Акаши - худшего магического преподавателя",
+      "อาจารย์เวทมนตร์ไม่เอาไหนกับตำนานปราสาทลอยฟ้า",
+      "ろくでなしまじゅつこうしとあかしっくれこーど",
+      "ロクでなし魔術講師と禁忌教典",
+      "ロクでなし魔術講師と禁忌教典(アカシックレコード)",
+      "不正经的魔术讲师与禁忌教典",
+      "변변찮은 마술강사와 금기교전"
+    ]
+  },
+  {
+    "title": "フレームアームズ・ガール",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机甲少女 FRAME ARMS GIRL",
+        "FRAME ARMS GIRL"
+      ],
+      "en": [
+        "FRAME ARMS GIRL"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.fagirl.com/",
+    "begin": "2017-04-03T16:05:00.000Z",
+    "end": "2017-06-19T16:35:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9f66t",
+        "begin": "2017-04-03T17:30:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "5994",
+        "begin": "2017-04-03T17:30:00.000Z",
+        "broadcast": "R/2017-04-03T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi",
+        "id": "198961"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fagirl",
+        "begin": "2017-04-07T13:00:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "h/hver5bior6zuv9f",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "11071"
+      },
+      {
+        "site": "anidb",
+        "id": "13981"
+      },
+      {
+        "site": "anilist",
+        "id": "105907"
+      },
+      {
+        "site": "anilist",
+        "id": "21254"
+      },
+      {
+        "site": "anime-planet",
+        "id": "frame-arms-girl-kyakkyau-fufu-na-wonderland"
+      },
+      {
+        "site": "anisearch",
+        "id": "13517"
+      },
+      {
+        "site": "kitsu",
+        "id": "10586"
+      },
+      {
+        "site": "kitsu",
+        "id": "42150"
+      },
+      {
+        "site": "livechart",
+        "id": "3191"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30010"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37600"
+      },
+      {
+        "site": "notify",
+        "id": "DDLva5eiR"
+      },
+      {
+        "site": "notify",
+        "id": "Ko7QtFiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/86625.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/86625t.jpg",
+    "synonyms": [
+      "F.A. Girl",
+      "FRAME ARMS GIRL",
+      "Frame Arms Girls",
+      "fag",
+      "ふれーむあーむずがーる",
+      "フレームアームズ・ガール",
+      "机甲少女 FRAME ARMS GIRL",
+      "프레임 암즈 걸"
+    ]
+  },
+  {
+    "title": "アリスと蔵六",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爱丽丝与藏六",
+        "爱丽丝和藏六"
+      ],
+      "zh-Hant": [
+        "愛麗絲與藏六"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.alicetozouroku.com/",
+    "begin": "2017-04-02T13:30:00.000Z",
+    "end": "2017-06-25T14:00:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "5995",
+        "begin": "2017-04-02T15:00:00.000Z",
+        "broadcast": "R/2017-04-02T15:23:00.000Z/P7D"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9f64p",
+        "begin": "2017-04-02T15:00:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "197441"
+      },
+      {
+        "site": "nicovideo",
+        "id": "alicetozouroku",
+        "begin": "2017-05-31T03:00:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "0/0js9smvlptpgtol",
+        "begin": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UciBdfbJ1yxz5l5VuJhZfBRe",
+        "begin": "2020-09-12T16:00:00.000Z",
+        "broadcast": "R/2020-09-12T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "85918",
+        "begin": "2017-04-02T15:00:00.000Z",
+        "broadcast": "R/2017-04-02T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "anisearch",
+        "id": "12590"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/84598.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/84598t.jpg",
+    "synonyms": [
+      "Alice & Zoroku",
+      "Alice & Zouroku",
+      "Alice & Zôroku",
+      "Alice and Zoroku",
+      "Alice and Zouroku",
+      "Alice to Zōroku",
+      "a&z",
+      "atoz",
+      "az",
+      "Алиса и Зороку",
+      "アリスと蔵六",
+      "爱丽丝与藏六",
+      "앨리스와 조로쿠"
+    ]
+  },
+  {
+    "title": "恋愛暴君",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恋爱暴君"
+      ],
+      "zh-Hant": [
+        "戀愛暴君"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://renaiboukun.com/",
+    "begin": "2017-04-06T17:35:00.000Z",
+    "end": "2017-06-22T18:05:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "159795"
+      },
+      {
+        "site": "nicovideo",
+        "id": "renaiboukun",
+        "begin": "2017-04-07T03:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "80882",
+        "begin": "2017-04-06T19:10:00.000Z",
+        "broadcast": "R/2017-04-06T19:10:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/84266.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/84266t.jpg",
+    "synonyms": [
+      "Kiss Note",
+      "Love Tyrant",
+      "Love Tyrant (Renai Bokun)",
+      "Love Tyrant!",
+      "Ren`ai Boukun",
+      "Renbo",
+      "Ren’ai Boukun",
+      "Ren’ai Bōkun",
+      "The very lovely tyrant of love",
+      "The very lovely tyrant of love ♥",
+      "The very lovely tyrant of love♥",
+      "れんあいぼうくん",
+      "恋愛暴君",
+      "恋爱暴君",
+      "연애폭군"
+    ]
+  },
+  {
+    "title": "エロマンガ先生",
+    "titleTranslate": {
+      "zh-Hans": [
+        "埃罗芒阿老师",
+        "情色漫画老师",
+        "我的妹妹是黄漫老师"
+      ],
+      "zh-Hant": [
+        "情色漫畫老師"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://eromanga-sensei.com/",
+    "begin": "2017-04-08T15:30:00.000Z",
+    "end": "2017-06-24T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "5997",
+        "begin": "2017-04-08T17:00:00.000Z",
+        "broadcast": "R/2017-04-08T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi",
+        "id": "172498"
+      },
+      {
+        "site": "nicovideo",
+        "id": "eromanga-sensei",
+        "begin": "2017-04-12T15:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "82419",
+        "begin": "2023-06-02T03:00:00.000Z",
+        "broadcast": "R/2023-06-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "13580"
+      },
+      {
+        "site": "anidb",
+        "id": "7525"
+      },
+      {
+        "site": "anilist",
+        "id": "100523"
+      },
+      {
+        "site": "anilist",
+        "id": "11757"
+      },
+      {
+        "site": "anilist",
+        "id": "20458"
+      },
+      {
+        "site": "anilist",
+        "id": "2966"
+      },
+      {
+        "site": "anilist",
+        "id": "8769"
+      },
+      {
+        "site": "anime-planet",
+        "id": "eromanga-sensei-ova"
+      },
+      {
+        "site": "anisearch",
+        "id": "13012"
+      },
+      {
+        "site": "anisearch",
+        "id": "6232"
+      },
+      {
+        "site": "kitsu",
+        "id": "14016"
+      },
+      {
+        "site": "livechart",
+        "id": "2971"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36792"
+      },
+      {
+        "site": "notify",
+        "id": "dvSH2FimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/86468.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/86468t.jpg",
+    "synonyms": [
+      "Ero Manga Sensei",
+      "EroManga Sensei",
+      "Eromanga Sensei",
+      "erosen",
+      "น้องสาวของผมคืออาจารย์เอโรมังงะ",
+      "エロマンガ先生",
+      "埃罗芒阿老师",
+      "情色漫画老师",
+      "色情漫画老师",
+      "에로망가 선생"
+    ]
+  },
+  {
+    "title": "終末なにしてますか？忙しいですか？救ってもらっていいですか？",
+    "titleTranslate": {
+      "zh-Hans": [
+        "末日时在做什么？有没有空？可以来拯救吗？"
+      ],
+      "zh-Hant": [
+        "末日時在做什麼？有沒有空？可以來拯救嗎？"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://sukasuka-anime.com",
+    "begin": "2017-04-11T14:30:00.000Z",
+    "end": "2017-06-27T15:00:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9f4gx",
+        "begin": "2017-04-11T17:00:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "185943"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sukasuka_anime",
+        "begin": "2017-04-19T15:30:00.000Z"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcgzArKinjJ5ohkHYKYE9v7G",
+        "begin": "2020-12-26T16:00:00.000Z",
+        "broadcast": "R/2020-12-26T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "84118",
+        "begin": "2017-04-11T16:00:00.000Z",
+        "broadcast": "R/2017-04-11T16:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/85260.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/85260t.jpg",
+    "synonyms": [
+      "Apa yang Engkau Lakukan Saat Akhir Dunia? Apakah Engkau Sibuk? Bisakah Engkau Menolongku?",
+      "Do You Have What The End? Are You Busy? Shall You Save XXX?",
+      "Do you have what THE END? Are you busy? Shall you save xxx?",
+      "Shuumatsu Nani Shitemasu ka?",
+      "Shuumatsu Nani Shitemasuka? Isogashii Desuka? Sukutte Moratte Ii Desuka?",
+      "Shūmatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
+      "Shūmatsu Nani Shitemasu ka? Isogashī desu ka? Sukutte Moratte Ī desu ka?",
+      "SukaSuka",
+      "Sukasuka",
+      "What are you doing at the end? Are you busy? Can you save me?",
+      "What do you do at the end of the world? Are you busy? Will you save us?",
+      "World End: What Do You Do at the End of the World? Are You Busy? Will You Save Us?",
+      "WorldEnd",
+      "WorldEnd: What Are You Doing at the End of the World? Are You Busy? Will You Save Us?",
+      "WorldEnd: What Do You Do at The End of The World? Are You Busy? Will You Save Us?",
+      "WorldEnd: What Do You Do at the End of the World? Are You Busy? Will You Save Us?",
+      "WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?",
+      "WorldEnd: What do you do at the end of the world? Are you busy? Will you save us?",
+      "sukasuka",
+      "Какие планы на конец света? Не занят? Не спасёшь нас?",
+      "Конец человечества. Что ты будешь делать после того, как людей не стало?",
+      "เวิลด์เอนด์: วันสิ้นโลกนี้ทำอะไร ยุ่งหรือเปล่า มาช่วยเราได้ไหม",
+      "すかすか",
+      "末日时在做什么？有没有空？可以来拯救吗？",
+      "末日時在做什麼？有沒有空？可以來拯救嗎？",
+      "終末なにしてますか? 忙しいですか? 救ってもらっていいですか?",
+      "終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？",
+      "終末なにしてますか？忙しいですか？救ってもらっていいですか？",
+      "종말에 뭐하세요? 바쁘세요? 구해주실 수 있나요?"
+    ]
+  },
+  {
+    "title": "月がきれい",
+    "titleTranslate": {
+      "zh-Hans": [
+        "月色真美"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://tsukigakirei.jp",
+    "begin": "2017-04-06T15:00:00.000Z",
+    "end": "2017-06-29T15:30:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "5989",
+        "begin": "2017-04-06T15:00:00.000Z",
+        "broadcast": "R/2017-04-06T15:00:00.000Z/P7D",
+        "comment": "SP: 10732"
+      },
+      {
+        "site": "bangumi",
+        "id": "207573"
+      },
+      {
+        "site": "anilist",
+        "id": "98202"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tsukigakirei"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tsukigakirei-first-half-the-road-so-far"
+      },
+      {
+        "site": "anisearch",
+        "id": "12204"
+      },
+      {
+        "site": "kitsu",
+        "id": "13234"
+      },
+      {
+        "site": "livechart",
+        "id": "2526"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34822"
+      },
+      {
+        "site": "notify",
+        "id": "sXlGhKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/88307.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/88307t.jpg",
+    "synonyms": [
+      "As the Moon",
+      "As the Moon, So Beautiful Special",
+      "So Beautiful Special",
+      "The Moon is Beautiful Special",
+      "Tsuki ga Kirei ex.",
+      "Tsukigakirei Short Episode",
+      "Tsukigakirei Special",
+      "as the moon so beautiful",
+      "月がきれい",
+      "月がきれい ex."
+    ]
+  },
+  {
+    "title": "つぐもも",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪怪守护神"
+      ],
+      "zh-Hant": [
+        "怪怪守護神"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://tsugumomo.com",
+    "begin": "2017-04-02T14:30:00.000Z",
+    "end": "2017-06-18T15:00:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "5988",
+        "begin": "2017-04-02T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "192428"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tsugumomo",
+        "begin": "2017-04-06T15:00:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "1/1vs7qcavuhkbl0v",
+        "begin": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucijtu2qDGXBPta-G2fPbx1P",
+        "begin": "2019-09-19T16:00:00.000Z",
+        "broadcast": "R/2019-09-19T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "14728"
+      },
+      {
+        "site": "anidb",
+        "id": "14729"
+      },
+      {
+        "site": "anilist",
+        "id": "108266"
+      },
+      {
+        "site": "anilist",
+        "id": "108267"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tsugumomo-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tsugumomo-ova"
+      },
+      {
+        "site": "anisearch",
+        "id": "14238"
+      },
+      {
+        "site": "anisearch",
+        "id": "14267"
+      },
+      {
+        "site": "kitsu",
+        "id": "42180"
+      },
+      {
+        "site": "kitsu",
+        "id": "42181"
+      },
+      {
+        "site": "livechart",
+        "id": "9261"
+      },
+      {
+        "site": "livechart",
+        "id": "9262"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39469"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39470"
+      },
+      {
+        "site": "notify",
+        "id": "ILt79OeiR"
+      },
+      {
+        "site": "notify",
+        "id": "UcaM9Oeig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/84461.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/84461t.jpg",
+    "synonyms": [
+      "สึกุโมโมะ ภูตสาวแสบดุ",
+      "つぐもも",
+      "怪怪守护神",
+      "츠구모모"
+    ]
+  },
+  {
+    "title": "ゼロから始める魔法の書",
+    "titleTranslate": {
+      "zh-Hans": [
+        "从零开始的魔法书",
+        "零之魔法书"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://zeronosyo.com",
+    "begin": "2017-04-10T14:30:00.000Z",
+    "end": "2017-06-26T15:00:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "6001",
+        "begin": "2017-04-10T15:30:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "315437",
+        "begin": "2017-04-10T15:30:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "194259"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zeronosyo",
+        "begin": "2017-04-17T15:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "16280"
+      },
+      {
+        "site": "anilist",
+        "id": "133175"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-dawn-of-the-witch"
+      },
+      {
+        "site": "anisearch",
+        "id": "16224"
+      },
+      {
+        "site": "kitsu",
+        "id": "44511"
+      },
+      {
+        "site": "myanimelist",
+        "id": "48842"
+      },
+      {
+        "site": "notify",
+        "id": "VbAKVtrGR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/85224.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/85224t.jpg",
+    "synonyms": [
+      "El Libro Mágico de Zero",
+      "El mágico libro de Zero",
+      "Grimoire of Zero",
+      "Grymuar Zero",
+      "Zero kara Hajimeru Mahō no Sho",
+      "zeronosyo",
+      "zerosho",
+      "zkhmns",
+      "ปฐมมนตรา ตำราพลิกโลก",
+      "ゼロから始める魔法の書",
+      "从零开始的魔法书",
+      "제로부터 시작하는 마법의 서"
+    ]
+  },
+  {
+    "title": "サクラクエスト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "樱花任务",
+        "樱花探索"
+      ],
+      "zh-Hant": [
+        "櫻花任務"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://sakura-quest.com",
+    "begin": "2017-04-05T15:00:00.000Z",
+    "end": "2017-09-20T15:30:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "5992",
+        "begin": "2017-04-05T16:30:00.000Z",
+        "broadcast": "R/2017-04-05T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi",
+        "id": "200547"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sakura-quest",
+        "begin": "2017-04-07T14:30:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "86468",
+        "begin": "2021-07-13T08:00:00.000Z",
+        "broadcast": "R/2021-07-13T08:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 25,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/85222.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/85222t.jpg",
+    "synonyms": [
+      "サクラクエスト",
+      "樱花任务",
+      "사쿠라 퀘스트"
+    ]
+  },
+  {
+    "title": "信長の忍び～伊勢・金ヶ崎篇～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "信长的忍者 伊势·金崎篇",
+        "信长的忍者 第二季",
+        "忍者少女千鸟～伊势・金崎篇～",
+        "忍者少女千鸟 第2季",
+        "忍者少女千鸟 伊势·金崎篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://nobunaga-no-shinobi.com/",
+    "begin": "2017-04-07T16:35:00.000Z",
+    "end": "2017-09-29T16:40:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9f8t5",
+        "begin": "2017-04-07T17:35:00.000Z"
+      },
+      {
+        "site": "letv",
+        "id": "10035912",
+        "begin": "2017-04-07T17:35:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "efbfbd7cefbfbd10112f",
+        "begin": "2017-04-07T17:35:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "5965",
+        "begin": "2017-04-07T17:35:00.000Z",
+        "broadcast": "R/2017-04-07T17:35:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi",
+        "id": "209839"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nobunaga-no-shinobi02",
+        "begin": "2017-04-09T03:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "11951"
+      },
+      {
+        "site": "anidb",
+        "id": "13740"
+      },
+      {
+        "site": "anilist",
+        "id": "100966"
+      },
+      {
+        "site": "anilist",
+        "id": "21666"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ninja-girl-and-samurai-master"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ninja-girl-samurai-master-3rd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ninja-girl-samurai-master-episode-0"
+      },
+      {
+        "site": "anisearch",
+        "id": "11288"
+      },
+      {
+        "site": "anisearch",
+        "id": "13247"
+      },
+      {
+        "site": "kitsu",
+        "id": "11871"
+      },
+      {
+        "site": "kitsu",
+        "id": "14207"
+      },
+      {
+        "site": "livechart",
+        "id": "2050"
+      },
+      {
+        "site": "livechart",
+        "id": "3049"
+      },
+      {
+        "site": "livechart",
+        "id": "5090"
+      },
+      {
+        "site": "myanimelist",
+        "id": "32829"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37126"
+      },
+      {
+        "site": "notify",
+        "id": "Ze6HhKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "fTg6tFimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/84890.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/84890t.jpg",
+    "synonyms": [
+      "Ninja Girl & Samurai Master 2nd",
+      "Ninja Girl & Samurai Master 2nd Season",
+      "Ninja Girl & Samurai Master: Ise and Kanegasaki Arc",
+      "Nobunaga no Shinobi (Saison 2)",
+      "Nobunaga no Shinobi - Saga de Ise/Kanagasaki",
+      "Nobunaga no Shinobi Saison 2",
+      "Nobunaga no Shinobi: Ise Kanegasaki Hen",
+      "Nobunaga no Shinobi: Saga de Ise/Kanagasaki",
+      "Ниндзя Нобунаги 2",
+      "信長の忍び~伊勢・金ヶ崎篇~",
+      "信長の忍び～伊勢・金ヶ崎篇～",
+      "信长的忍者 伊势·金崎篇",
+      "노부나가의 닌자: 이세 카네가사키편"
+    ]
+  },
+  {
+    "title": "夏目友人帳 陸",
+    "titleTranslate": {
+      "zh-Hans": [
+        "夏目友人帐 陆",
+        "夏目友人帐 第6季",
+        "夏目友人帐 六"
+      ],
+      "zh-Hant": [
+        "夏目友人帳 陸"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.natsume-anime.jp/",
+    "begin": "2017-04-11T16:35:00.000Z",
+    "end": "2017-06-20T17:05:00.000Z",
+    "sites": [
+      {
+        "site": "mgtv",
+        "id": "314036",
+        "begin": "2017-04-11T19:00:00.000Z"
+      },
+      {
+        "site": "sohu",
+        "id": "s2017/xmyrz6",
+        "begin": "2017-04-11T19:00:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9f5ut",
+        "begin": "2017-04-11T19:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "efbfbd7defbfbd3d06ef",
+        "begin": "2017-04-11T19:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "5977",
+        "begin": "2017-04-11T19:00:00.000Z",
+        "broadcast": "R/2017-04-11T19:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi",
+        "id": "203387"
+      },
+      {
+        "site": "nicovideo",
+        "id": "natsume6",
+        "begin": "2017-04-12T03:00:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "r/rzuinvatj34ekz7",
+        "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "86651",
+        "begin": "2017-04-11T19:00:00.000Z",
+        "broadcast": "R/2017-04-11T19:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "12009"
+      },
+      {
+        "site": "anidb",
+        "id": "13512"
+      },
+      {
+        "site": "anilist",
+        "id": "100268"
+      },
+      {
+        "site": "anilist",
+        "id": "100283"
+      },
+      {
+        "site": "anilist",
+        "id": "124132"
+      },
+      {
+        "site": "anilist",
+        "id": "166611"
+      },
+      {
+        "site": "anilist",
+        "id": "21710"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsume-yuujinchou-itsuka-yuki-no-hi-ni"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-movie-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-movie-ephemeral-bond"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-nyanko-sensei-and-the-first-errand"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-season-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-season-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-season-4"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-season-5"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-season-6-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-season-7"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zoku-natsume-yuujinchou-3d-nyanko-sensei-gekijou"
+      },
+      {
+        "site": "anisearch",
+        "id": "11238"
+      },
+      {
+        "site": "anisearch",
+        "id": "12785"
+      },
+      {
+        "site": "anisearch",
+        "id": "12897"
+      },
+      {
+        "site": "kitsu",
+        "id": "11950"
+      },
+      {
+        "site": "kitsu",
+        "id": "13757"
+      },
+      {
+        "site": "kitsu",
+        "id": "13940"
+      },
+      {
+        "site": "kitsu",
+        "id": "47678"
+      },
+      {
+        "site": "livechart",
+        "id": "10155"
+      },
+      {
+        "site": "livechart",
+        "id": "1154"
+      },
+      {
+        "site": "livechart",
+        "id": "1220"
+      },
+      {
+        "site": "livechart",
+        "id": "12234"
+      },
+      {
+        "site": "livechart",
+        "id": "2093"
+      },
+      {
+        "site": "livechart",
+        "id": "2482"
+      },
+      {
+        "site": "livechart",
+        "id": "255"
+      },
+      {
+        "site": "livechart",
+        "id": "2612"
+      },
+      {
+        "site": "livechart",
+        "id": "2929"
+      },
+      {
+        "site": "livechart",
+        "id": "3400"
+      },
+      {
+        "site": "livechart",
+        "id": "3401"
+      },
+      {
+        "site": "myanimelist",
+        "id": "32983"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36275"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36538"
+      },
+      {
+        "site": "notify",
+        "id": "1fjShFimg"
+      },
+      {
+        "site": "notify",
+        "id": "Pkt6pFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "X_MShFmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 11,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/84416.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/84416t.jpg",
+    "synonyms": [
+      "Natsume Yujin-cho 6",
+      "Natsume Yujin-cho Roku",
+      "Natsume Yuujinchou 6th Season",
+      "Natsume Yuujinchou Season 6",
+      "Natsume Yūjinchō Roku",
+      "Natsume's Book of Friends 6",
+      "Natsume's Book of Friends Season 6",
+      "Natsume's Book of Friends Six",
+      "Natsume`s Book of Friends Season 6",
+      "Natsume’s Book of Friends 6",
+      "Pakt der Yokai 6",
+      "natsume6",
+      "nyc s6",
+      "なつめゆうじんちょうろく",
+      "夏目友人帐 陆",
+      "夏目友人帳 陸",
+      "나츠메 우인장 6"
+    ]
+  },
+  {
+    "title": "ツインエンジェルBREAK",
+    "titleTranslate": {
+      "zh-Hans": [
+        "快盗天使双胞胎 BREAK",
+        "双天使 BREAK",
+        "快盗天使BREAK"
+      ],
+      "zh-Hant": [
+        "快盜天使 Twin Angels BREAK"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://twinangel-break.com/",
+    "begin": "2017-04-07T13:00:00.000Z",
+    "end": "2017-06-23T13:30:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "5955",
+        "begin": "2017-04-15T03:00:00.000Z",
+        "broadcast": "R/2017-04-15T02:56:00.000Z/P7D"
+      },
+      {
+        "site": "letv",
+        "id": "10036007",
+        "begin": ""
+      },
+      {
+        "site": "pptv",
+        "id": "LRXicfeVLuiclc2kI",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "186220"
+      },
+      {
+        "site": "nicovideo",
+        "id": "twinangel-break",
+        "begin": "2017-04-17T15:30:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "85412",
+        "begin": "2018-05-17T04:00:00.000Z",
+        "broadcast": "R/2018-05-17T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "8212"
+      },
+      {
+        "site": "anilist",
+        "id": "10217"
+      },
+      {
+        "site": "anilist",
+        "id": "3805"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kaitou-tenshi-twin-angel"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise-ova"
+      },
+      {
+        "site": "anisearch",
+        "id": "4698"
+      },
+      {
+        "site": "anisearch",
+        "id": "6813"
+      },
+      {
+        "site": "kitsu",
+        "id": "3261"
+      },
+      {
+        "site": "kitsu",
+        "id": "6083"
+      },
+      {
+        "site": "kitsu",
+        "id": "9985"
+      },
+      {
+        "site": "livechart",
+        "id": "1213"
+      },
+      {
+        "site": "livechart",
+        "id": "257"
+      },
+      {
+        "site": "livechart",
+        "id": "3283"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10217"
+      },
+      {
+        "site": "myanimelist",
+        "id": "27997"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3805"
+      },
+      {
+        "site": "notify",
+        "id": "5cfnpFiig"
+      },
+      {
+        "site": "notify",
+        "id": "TU1_cKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "nsBEtKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/86505.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/86505t.jpg",
+    "synonyms": [
+      "Kaitou Tenshi Twin Angel",
+      "Kaitou Tenshi Twin Angel (2017)",
+      "Kaitou Tenshi Twin Angel 2017 (快盗天使ツインエンジェル 2017)",
+      "Kaitou Tenshi Twin Angel TV",
+      "Twin Angels BREAK",
+      "Twin Angels BREAK TV",
+      "Twin Angels Break",
+      "ついんえんじぇるぶれいく",
+      "ツインエンジェルBREAK",
+      "ツインエンジェルBreak",
+      "快盗天使 BREAK",
+      "트윈엔젤 BREAK"
+    ]
+  },
+  {
+    "title": "正解するカド",
+    "titleTranslate": {
+      "en": [
+        "KADO: The Right Answer"
+      ],
+      "zh-Hans": [
+        "正确的KADO"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://seikaisuru-kado.com/",
+    "begin": "2017-04-07T13:30:00.000Z",
+    "end": "2017-06-29T03:25:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10036008",
+        "begin": ""
+      },
+      {
+        "site": "pptv",
+        "id": "UibfRT7cdjcsurBQ",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "161765"
+      },
+      {
+        "site": "nicovideo",
+        "id": "seikaisuru-kado",
+        "begin": "2017-04-13T03:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "14101"
+      },
+      {
+        "site": "anilist",
+        "id": "119548"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kado-beyond-information"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kado-the-right-answer-ekwari"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kado-the-right-answer-ninovo"
+      },
+      {
+        "site": "anisearch",
+        "id": "12395"
+      },
+      {
+        "site": "anisearch",
+        "id": "12500"
+      },
+      {
+        "site": "anisearch",
+        "id": "13639"
+      },
+      {
+        "site": "kitsu",
+        "id": "13323"
+      },
+      {
+        "site": "kitsu",
+        "id": "13523"
+      },
+      {
+        "site": "kitsu",
+        "id": "41390"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35369"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35603"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37922"
+      },
+      {
+        "site": "notify",
+        "id": "GAOnhFmig"
+      },
+      {
+        "site": "notify",
+        "id": "HnMVhKiig"
+      },
+      {
+        "site": "notify",
+        "id": "utFHQ3Dmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/85255.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/85255t.jpg",
+    "synonyms": [
+      "\"KADO\" Correct Answer for...",
+      "KADO: The Right Answer",
+      "Kado: Correct Answer For...",
+      "Kado: The Right Answer",
+      "Seikai Suru Kado",
+      "Кой знае отговора",
+      "Правильный ответ: «Кадо»",
+      "正确的KADO",
+      "正解するカド",
+      "카도: The Right Answer"
+    ]
+  },
+  {
+    "title": "武装少女マキャヴェリズム",
+    "titleTranslate": {
+      "en": [
+        "ARMED GIRL'S MACHIAVELLISM"
+      ],
+      "zh-Hans": [
+        "武装少女",
+        "武装少女 Machiavellism",
+        "武装少女 马基雅维利主义",
+        "武装少女权术剑姬独裁主义"
+      ],
+      "zh-Hant": [
+        "武裝少女Machiavellism",
+        "武裝少女 Machiavellism"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://machiavellism-anime.jp/",
+    "begin": "2017-04-05T14:00:00.000Z",
+    "end": "2017-06-21T14:30:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9f4jd",
+        "begin": "2017-04-05T16:30:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "185562"
+      },
+      {
+        "site": "nicovideo",
+        "id": "machiavellism",
+        "begin": "2017-04-16T16:00:00.000Z"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjJUudQE3g3K3yiyoaJot1q",
+        "begin": "2020-12-13T16:00:00.000Z",
+        "broadcast": "R/2020-12-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "83973",
+        "begin": "2017-04-05T16:30:00.000Z",
+        "broadcast": "R/2017-04-05T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229470",
+        "begin": "2020-07-15T03:43:00.000Z",
+        "broadcast": "R/2020-07-15T03:43:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "12230"
+      },
+      {
+        "site": "anilist",
+        "id": "21851"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armed-girls-machiavellism"
+      },
+      {
+        "site": "anisearch",
+        "id": "11547"
+      },
+      {
+        "site": "kitsu",
+        "id": "12265"
+      },
+      {
+        "site": "livechart",
+        "id": "2224"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33475"
+      },
+      {
+        "site": "notify",
+        "id": "FGsRhFimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/89687.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/89687t.jpg",
+    "synonyms": [
+      "Armed Girl's Machiavellism OVA",
+      "Armed Girl`s Machiavellism: Badump! A Pleasure Trip with all the Five Swords",
+      "Armed Girl’s Machiavellism OAD",
+      "Armed Girl’s Machiavellism: Badump! A Pleasure Trip with All the Five Swords",
+      "Armed Girl’s Machiavellism: Herzklopfen! Betriebsausflug der „Fünf Schwerter“",
+      "Busou Shoujo Machiavellianism Episode 13",
+      "Busou Shoujo Machiavellianism OVA",
+      "Busou Shoujo Machiavellianism: Doki! “Goken-darake” no Ian Ryokou",
+      "Busou Shoujo Machiavellism OVA",
+      "Busō Shōjo Machiavellianism: Doki! “Goken-darake” no Ian Ryokō",
+      "busoumachi ova",
+      "machiave ova",
+      "マキャヴェ ova",
+      "武装少女 OAD",
+      "武装少女マキャヴェリズム",
+      "武装少女マキャヴェリズム OVA",
+      "武装少女マキャヴェリズム ドキッ! 「五剣だらけ」の慰安旅行",
+      "武装少女マキャヴェリズム ドキッ！ 「五剣だらけ」の慰安旅行",
+      "武装少女マキャヴェリズム ドキッ！「五剣だらけ」の慰安旅行"
+    ]
+  },
+  {
+    "title": "有頂天家族2",
+    "titleTranslate": {
+      "en": [
+        "The Eccentric Family"
+      ],
+      "zh-Hans": [
+        "有顶天家族2"
+      ],
+      "zh-Hant": [
+        "有頂天家族 2"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://uchoten2-anime.com/",
+    "begin": "2017-04-09T13:00:00.000Z",
+    "end": "2017-06-25T13:30:00.000Z",
+    "sites": [
+      {
+        "site": "youku",
+        "id": "efbfbdefbfbdefbfbd08",
+        "begin": "2017-04-09T13:30:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "193042"
+      },
+      {
+        "site": "nicovideo",
+        "id": "uchoten2-anime",
+        "begin": "2017-04-14T15:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "85200",
+        "begin": "2022-12-02T01:30:00.000Z",
+        "broadcast": "R/2022-12-02T01:30:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "9782"
+      },
+      {
+        "site": "anilist",
+        "id": "17909"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-eccentric-family"
+      },
+      {
+        "site": "anisearch",
+        "id": "8644"
+      },
+      {
+        "site": "kitsu",
+        "id": "7675"
+      },
+      {
+        "site": "livechart",
+        "id": "22"
+      },
+      {
+        "site": "myanimelist",
+        "id": "17909"
+      },
+      {
+        "site": "notify",
+        "id": "P9w5pFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/85354.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/85354t.jpg",
+    "synonyms": [
+      "La Famille Excentrique 2",
+      "La Famille Excentrique: Saison 2",
+      "The Eccentric Family - Saison 2",
+      "The Eccentric Family 2",
+      "The Eccentric Family Temporada 2",
+      "The Eccentric Family season 2",
+      "Uchoten Kazoku 2",
+      "Uchouten Kazoku S2",
+      "Uchōten Kazoku 2",
+      "有頂天家族 2",
+      "有頂天家族2",
+      "有顶天家族2",
+      "유정천 가족 2"
+    ]
+  },
+  {
+    "title": "Re:CREATORS",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Re:CREATORS",
+        "Re：创世主们",
+        "Re：创造主"
+      ],
+      "zh-Hant": [
+        "Re:CREATORS"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://recreators.tv/",
+    "begin": "2017-04-08T14:30:00.000Z",
+    "end": "2017-09-16T15:00:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "5998",
+        "begin": "2017-04-08T16:00:00.000Z",
+        "broadcast": "R/2017-04-08T16:00:02.000Z/P7D"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9f1v5",
+        "begin": "2017-04-08T16:00:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "202419"
+      },
+      {
+        "site": "youku",
+        "id": "efbfbd42efbfbdefbfbd",
+        "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "86606",
+        "begin": "2022-04-15T03:00:00.000Z",
+        "broadcast": "R/2022-04-15T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 22,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/85469.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/85469t.jpg",
+    "synonyms": [
+      "Re 创世主们",
+      "Re-Creators",
+      "Re: Creadores",
+      "Re:CREATORS",
+      "Re:CREATORS 〈レクリエイターズ〉",
+      "Re:CREATORS（レクリエイターズ）",
+      "Re:CRIADORES",
+      "Re:Creadores",
+      "Возрождающие",
+      "レクリエイターズ",
+      "리 크리에이터즈"
+    ]
+  },
+  {
+    "title": "笑ゥせぇるすまんNEW",
+    "titleTranslate": {
+      "zh-Hans": [
+        "黑色推销员NEW",
+        "笑面推销员NEW"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://warau-new.jp/",
+    "begin": "2017-04-03T14:00:00.000Z",
+    "end": "2017-06-19T14:30:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "5951",
+        "begin": "2017-04-03T15:00:00.000Z",
+        "broadcast": "R/2017-04-03T15:00:02.000Z/P7D"
+      },
+      {
+        "site": "bangumi",
+        "id": "202421"
+      },
+      {
+        "site": "nicovideo",
+        "id": "warau-new",
+        "begin": "2017-04-04T15:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "2106"
+      },
+      {
+        "site": "anilist",
+        "id": "3077"
+      },
+      {
+        "site": "anime-planet",
+        "id": "warau-salesman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "warau-salesman-episode-0"
+      },
+      {
+        "site": "anime-planet",
+        "id": "warau-salesman-tokubetsu-bangumi"
+      },
+      {
+        "site": "anisearch",
+        "id": "2717"
+      },
+      {
+        "site": "kitsu",
+        "id": "2775"
+      },
+      {
+        "site": "livechart",
+        "id": "11261"
+      },
+      {
+        "site": "livechart",
+        "id": "11262"
+      },
+      {
+        "site": "livechart",
+        "id": "11263"
+      },
+      {
+        "site": "livechart",
+        "id": "7495"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3077"
+      },
+      {
+        "site": "notify",
+        "id": "jz9U5KmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/85132.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/85132t.jpg",
+    "synonyms": [
+      "Laughing Salesman New",
+      "Smiling Salesman New",
+      "The Laughing Salesman",
+      "The Laughing Salesman NEW",
+      "The Laughing Salesman New",
+      "Warau Salesman (Nueva versión)",
+      "Warau Salesman NEW",
+      "Смеющийся коммивояжер",
+      "笑ゥせぇるすまんNEW",
+      "笑ゥせぇるすまんNew",
+      "黑色推销员NEW",
+      "웃는 세일즈맨 NEW"
+    ]
+  },
+  {
+    "title": "覆面系ノイズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "假面Noise",
+        "覆面系NOISE"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://fukumenkei-anime.jp/",
+    "begin": "2017-04-11T14:00:00.000Z",
+    "end": "2017-06-27T14:30:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9f60d",
+        "begin": "2017-04-11T15:30:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "5981",
+        "begin": "2017-04-11T15:30:00.000Z",
+        "broadcast": "R/2017-04-11T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi",
+        "id": "179795"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/85350.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/85350t.jpg",
+    "synonyms": [
+      "Anonymous Noise",
+      "Fukuno s1",
+      "Masked Noiz",
+      "The Anonymous Noise",
+      "Unmasked Noise",
+      "fukumenkeinoise",
+      "Не скрывая крик",
+      "假面Noise",
+      "覆面系ノイズ",
+      "복면계 노이즈"
+    ]
+  },
+  {
+    "title": "カブキブ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "青春歌舞伎",
+        "歌舞伎部！"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/anime/kabukibu/",
+    "begin": "2017-04-06T17:29:00.000Z",
+    "end": "2017-06-22T18:00:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "5991",
+        "begin": "2017-04-06T18:28:00.000Z",
+        "broadcast": "R/2017-04-06T18:29:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi",
+        "id": "189793"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kabukibu",
+        "begin": "2017-04-21T14:00:00.000Z"
+      },
+      {
+        "site": "anilist",
+        "id": "98851"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kabukibu-special"
+      },
+      {
+        "site": "anisearch",
+        "id": "12712"
+      },
+      {
+        "site": "livechart",
+        "id": "2670"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35416"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/85291.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/85291t.jpg",
+    "synonyms": [
+      "Kabuki Club!",
+      "Kabukibu",
+      "Kabukibu!",
+      "Клуб кабуки",
+      "カブキブ!",
+      "カブキブ！",
+      "青春歌舞伎",
+      "카부키부!"
+    ]
+  },
+  {
+    "title": "デュエル・マスターズ(2017)",
+    "titleTranslate": {
+      "en": [
+        "DUEL MASTERS"
+      ],
+      "zh-Hans": [
+        "决斗大师 新系列",
+        "决斗大师"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.shopro.co.jp/tv/duelmasters/",
+    "begin": "2017-04-01T23:30:00.000Z",
+    "end": "2018-03-25T23:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "209680"
+      },
+      {
+        "site": "nicovideo",
+        "id": "duelmasters_2017",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "11891"
+      },
+      {
+        "site": "anidb",
+        "id": "13914"
+      },
+      {
+        "site": "anilist",
+        "id": "101425"
+      },
+      {
+        "site": "anilist",
+        "id": "146859"
+      },
+      {
+        "site": "anilist",
+        "id": "21603"
+      },
+      {
+        "site": "anime-planet",
+        "id": "40-shuunen-da-yo-coro-coro-all-star-shougakkou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "duel-masters-2018"
+      },
+      {
+        "site": "anime-planet",
+        "id": "duel-masters-2019"
+      },
+      {
+        "site": "anime-planet",
+        "id": "duel-masters-king"
+      },
+      {
+        "site": "anime-planet",
+        "id": "duel-masters-king-2021"
+      },
+      {
+        "site": "anime-planet",
+        "id": "duel-masters-versus"
+      },
+      {
+        "site": "anime-planet",
+        "id": "duel-masters-versus-revolution"
+      },
+      {
+        "site": "anime-planet",
+        "id": "duel-masters-vs-revolution-final"
+      },
+      {
+        "site": "anisearch",
+        "id": "11311"
+      },
+      {
+        "site": "anisearch",
+        "id": "13476"
+      },
+      {
+        "site": "kitsu",
+        "id": "11809"
+      },
+      {
+        "site": "kitsu",
+        "id": "41078"
+      },
+      {
+        "site": "livechart",
+        "id": "11011"
+      },
+      {
+        "site": "livechart",
+        "id": "11012"
+      },
+      {
+        "site": "livechart",
+        "id": "11013"
+      },
+      {
+        "site": "livechart",
+        "id": "1374"
+      },
+      {
+        "site": "livechart",
+        "id": "1519"
+      },
+      {
+        "site": "livechart",
+        "id": "2005"
+      },
+      {
+        "site": "livechart",
+        "id": "2075"
+      },
+      {
+        "site": "livechart",
+        "id": "3154"
+      },
+      {
+        "site": "livechart",
+        "id": "503"
+      },
+      {
+        "site": "livechart",
+        "id": "6826"
+      },
+      {
+        "site": "livechart",
+        "id": "7230"
+      },
+      {
+        "site": "livechart",
+        "id": "7488"
+      },
+      {
+        "site": "livechart",
+        "id": "8568"
+      },
+      {
+        "site": "livechart",
+        "id": "9199"
+      },
+      {
+        "site": "livechart",
+        "id": "9874"
+      },
+      {
+        "site": "myanimelist",
+        "id": "32582"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35745"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37484"
+      },
+      {
+        "site": "notify",
+        "id": "2os3tKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "37IFhKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 51,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/86604.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/86604t.jpg",
+    "synonyms": [
+      "DUEL MASTERS (2017)",
+      "でゅえるますたーず",
+      "デュエル・マスターズ (2017)",
+      "デュエル・マスターズ （2017）",
+      "デュエル・マスターズ(2017)",
+      "决斗大师（2017）"
+    ]
+  },
+  {
+    "title": "ベイブレードバースト ゴッド",
+    "titleTranslate": {
+      "en": [
+        "BEYBLADE BURST GOD",
+        "Beyblade Burst Evolution"
+      ],
+      "zh-Hans": [
+        "霸旋陀螺 爆刃战神",
+        "战斗陀螺 爆烈 神",
+        "霸旋陀螺 爆刃对决 神",
+        "爆旋陀螺 擊爆戰魂 神",
+        "戰鬥陀螺 爆烈世代 神"
+      ],
+      "zh-Hant": [
+        "戰鬥陀螺：爆烈世代：神",
+        "爆旋陀螺：擊爆戰魂·進化"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.beyblade.tv/",
+    "begin": "2017-04-03T08:55:00.000Z",
+    "end": "2018-03-26T09:25:00.000Z",
+    "sites": [
+      {
+        "site": "youku",
+        "id": "4fefbfbdefbfbd7816ef",
+        "begin": "2017-04-03T16:30:00.000Z"
+      },
+      {
+        "site": "pptv",
+        "id": "LxP9eibNJufda2EA",
+        "begin": "2017-04-03T16:30:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "208756"
+      },
+      {
+        "site": "netflix",
+        "id": "81018295",
+        "begin": "2022-11-30T00:00:00.000Z",
+        "broadcast": "R/2022-11-30T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "11291"
+      },
+      {
+        "site": "anidb",
+        "id": "13791"
+      },
+      {
+        "site": "anilist",
+        "id": "101115"
+      },
+      {
+        "site": "anilist",
+        "id": "21236"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade-burst"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade-burst-chouzetsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade-burst-dynamite-battle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade-burst-gachi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade-burst-surge"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade-g-revolution"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade-metal-fury"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade-metal-fusion"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade-metal-masters"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade-shogun-steel"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade-shogun-steel-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade-the-movie-fierce-battle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "beyblade-v-force"
+      },
+      {
+        "site": "anime-planet",
+        "id": "metal-fight-beyblade-vs-taiyou-shakunetsu-no-shinryakusha"
+      },
+      {
+        "site": "anisearch",
+        "id": "10543"
+      },
+      {
+        "site": "anisearch",
+        "id": "13326"
+      },
+      {
+        "site": "kitsu",
+        "id": "11113"
+      },
+      {
+        "site": "kitsu",
+        "id": "41128"
+      },
+      {
+        "site": "livechart",
+        "id": "10273"
+      },
+      {
+        "site": "livechart",
+        "id": "11788"
+      },
+      {
+        "site": "livechart",
+        "id": "1665"
+      },
+      {
+        "site": "livechart",
+        "id": "3092"
+      },
+      {
+        "site": "livechart",
+        "id": "9228"
+      },
+      {
+        "site": "livechart",
+        "id": "9832"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31049"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37283"
+      },
+      {
+        "site": "notify",
+        "id": "0gbX4ximR"
+      },
+      {
+        "site": "notify",
+        "id": "QohupFmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 51,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/84704.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/84704t.jpg",
+    "synonyms": [
+      "Beyblade Burst 2",
+      "Beyblade Burst Evolution",
+      "Beyblade Burst Season 2",
+      "Beyblade Burst Staffel 2",
+      "Beyblade Burst: Evolution",
+      "Beyblade: Beyblade Burst Evolution",
+      "Beyblade: Burst Evolution",
+      "Beyblade: Burst God",
+      "ベイブレードバースト ゴッド",
+      "ベイブレードバースト 神[ゴッド]",
+      "ベイブレードバースト 神〈ゴッド〉",
+      "战斗陀螺 爆烈 神",
+      "베이블레이드 버스트 갓"
+    ]
+  },
+  {
+    "title": "わしも-wasimo-(第5シリーズ)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "WASIMO 第五季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www9.nhk.or.jp/anime/wasimo/",
+    "begin": "2017-04-03T09:00:00.000Z",
+    "end": "2017-11-14T09:10:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212272"
+      },
+      {
+        "site": "anidb",
+        "id": "12061"
+      },
+      {
+        "site": "anidb",
+        "id": "13993"
+      },
+      {
+        "site": "anilist",
+        "id": "109930"
+      },
+      {
+        "site": "anilist",
+        "id": "98764"
+      },
+      {
+        "site": "anime-planet",
+        "id": "washimo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "washimo-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "washimo-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "washimo-4"
+      },
+      {
+        "site": "anime-planet",
+        "id": "washimo-6"
+      },
+      {
+        "site": "anime-planet",
+        "id": "washimo-7"
+      },
+      {
+        "site": "anime-planet",
+        "id": "washimo-8"
+      },
+      {
+        "site": "anime-planet",
+        "id": "washimo-9"
+      },
+      {
+        "site": "anisearch",
+        "id": "11347"
+      },
+      {
+        "site": "anisearch",
+        "id": "13547"
+      },
+      {
+        "site": "kitsu",
+        "id": "41139"
+      },
+      {
+        "site": "livechart",
+        "id": "10479"
+      },
+      {
+        "site": "livechart",
+        "id": "11120"
+      },
+      {
+        "site": "livechart",
+        "id": "1355"
+      },
+      {
+        "site": "livechart",
+        "id": "1511"
+      },
+      {
+        "site": "livechart",
+        "id": "2144"
+      },
+      {
+        "site": "livechart",
+        "id": "3198"
+      },
+      {
+        "site": "livechart",
+        "id": "422"
+      },
+      {
+        "site": "livechart",
+        "id": "9392"
+      },
+      {
+        "site": "livechart",
+        "id": "9857"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33099"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37630"
+      },
+      {
+        "site": "notify",
+        "id": "3GEepKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "Nj0hIximg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 44,
+    "picture": "https://cdn.myanimelist.net/images/anime/1297/119067.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1297/119067t.jpg",
+    "synonyms": [
+      "Washimo (2017)",
+      "Washimo 5",
+      "Washimo Fifth Season",
+      "Washimo Season 5",
+      "Wasimo 5",
+      "わしも 5",
+      "わしも-wasimo- (2017)",
+      "わしも-wasimo-(第5シリーズ)"
+    ]
+  },
+  {
+    "title": "アイドルタイムプリパラ",
+    "titleTranslate": {
+      "en": [
+        "IDOL TIME PRIPARA"
+      ],
+      "zh-Hans": [
+        "偶像时间 美妙天堂",
+        "Idol Time 美妙天堂",
+        "美妙天堂 偶像时间",
+        "偶像时间美妙天堂"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/ipp/",
+    "begin": "2017-04-04T08:55:00.000Z",
+    "end": "2018-03-27T09:25:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10035810",
+        "begin": "2017-04-04T09:55:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9f5s1",
+        "begin": "2017-04-04T09:55:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "105b2befbfbd09efbfbd",
+        "begin": "2017-04-04T09:55:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "5963",
+        "begin": "2017-04-04T09:55:00.000Z",
+        "broadcast": "R/2017-04-04T09:55:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi",
+        "id": "204200"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ipp",
+        "begin": "2017-04-14T12:30:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "10515"
+      },
+      {
+        "site": "anilist",
+        "id": "107755"
+      },
+      {
+        "site": "anilist",
+        "id": "132679"
+      },
+      {
+        "site": "anilist",
+        "id": "136206"
+      },
+      {
+        "site": "anilist",
+        "id": "21559"
+      },
+      {
+        "site": "anime-planet",
+        "id": "idol-land-pripara"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pripara"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pripara-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pripara-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pripara-and-kiratto-pri-chan-kira-kira-memorial-live"
+      },
+      {
+        "site": "anisearch",
+        "id": "15807"
+      },
+      {
+        "site": "anisearch",
+        "id": "9554"
+      },
+      {
+        "site": "livechart",
+        "id": "10251"
+      },
+      {
+        "site": "livechart",
+        "id": "1670"
+      },
+      {
+        "site": "livechart",
+        "id": "1887"
+      },
+      {
+        "site": "livechart",
+        "id": "2396"
+      },
+      {
+        "site": "livechart",
+        "id": "3121"
+      },
+      {
+        "site": "livechart",
+        "id": "463"
+      },
+      {
+        "site": "livechart",
+        "id": "768"
+      },
+      {
+        "site": "myanimelist",
+        "id": "23135"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37398"
+      },
+      {
+        "site": "notify",
+        "id": "oAbWXqviR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 51,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/86056.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/86056t.jpg",
+    "synonyms": [
+      "Idol Time Pripara",
+      "Idol Time 美妙天堂",
+      "pripara s2",
+      "pripara2",
+      "あいどるたいむぷりぱら",
+      "アイドルタイムプリパラ",
+      "아이돌 타임 프리파라"
+    ]
+  },
+  {
+    "title": "世界の闇図鑑",
+    "titleTranslate": {
+      "zh-Hans": [
+        "世界黑暗图鉴",
+        "世界之暗图鉴"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/yamizukan/",
+    "begin": "2017-04-02T18:35:00.000Z",
+    "end": "2017-06-25T18:40:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9f8xh",
+        "begin": "2017-04-02T19:35:00.000Z"
+      },
+      {
+        "site": "letv",
+        "id": "10035761",
+        "begin": "2017-04-02T19:35:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "6e07112411efbfbd11ef",
+        "begin": "2017-04-02T19:35:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "6011",
+        "begin": "2017-04-02T19:05:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "210940"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yamizukan",
+        "begin": "2017-04-03T03:00:00.000Z"
+      },
+      {
+        "site": "anilist",
+        "id": "19383"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/84611.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/84611t.jpg",
+    "synonyms": [
+      "Sekai no Yamizukan",
+      "The World YAMIZUKAN",
+      "The World Yamizukan",
+      "World of Dark Encyclopedia",
+      "世界の闇図鑑",
+      "世界之暗图鉴"
+    ]
+  },
+  {
+    "title": "僧侶と交わる色欲の夜に…",
+    "titleTranslate": {
+      "zh-Hans": [
+        "与僧侣交合的色欲之夜"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://soryo.w-anime.com/",
+    "begin": "2017-04-02T16:00:00.000Z",
+    "end": "2017-06-18T16:05:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "t4xo5k60JGLFQ6s",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "207567"
+      },
+      {
+        "site": "nicovideo",
+        "id": "soryo-w-anime",
+        "begin": "2017-12-22T09:00:00.000Z"
+      },
+      {
+        "site": "anime-planet",
+        "id": "souryo-to-majiwaru-shikiyoku-no-yoru-ni-recap"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/86606.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/86606t.jpg",
+    "synonyms": [
+      "On a Lustful Night Mingling with a Priest",
+      "On a Lustful Night Mingling with a Priest...",
+      "Souryo to Majiwaru Shikiyoku no Yoru ni …",
+      "Sōryo to Majiwaru Shikiyoku no Yoru ni …",
+      "僧侶と交わる色欲の夜に...",
+      "僧侶と交わる色欲の夜に…"
+    ]
+  },
+  {
+    "title": "少年アシベ GO!GO!ゴマちゃん(第2シリーズ)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少年阿贝 GO!GO!小芝麻 第二季",
+        "少年阿瑞 GO!GO!小海豹 第二季",
+        "少年阿贝 GO!GO!小芝麻 第2季"
+      ],
+      "zh-Hant": [
+        "少年阿貝GO！GO！小芝麻 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://gogo-gomachan.com/",
+    "begin": "2017-04-04T09:45:00.000Z",
+    "end": "2018-02-13T10:15:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9f6b5",
+        "begin": "2017-04-04T12:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "410affe6e5d311e5b32f",
+        "begin": "2016-04-05T11:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "6010",
+        "begin": "2017-04-04T12:00:00.000Z",
+        "broadcast": "R/2017-04-04T12:00:03.000Z/P7D"
+      },
+      {
+        "site": "bangumi",
+        "id": "209352"
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc002006bqvrhw",
+        "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "88264",
+        "begin": "2017-04-18T12:00:00.000Z",
+        "broadcast": "R/2017-04-18T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "11887"
+      },
+      {
+        "site": "anidb",
+        "id": "13838"
+      },
+      {
+        "site": "anilist",
+        "id": "101498"
+      },
+      {
+        "site": "anilist",
+        "id": "21601"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shounen-ashibe-go-go-goma-chan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shounen-ashibe-go-go-goma-chan-2018"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shounen-ashibe-go-go-goma-chan-2019"
+      },
+      {
+        "site": "anisearch",
+        "id": "11313"
+      },
+      {
+        "site": "anisearch",
+        "id": "13382"
+      },
+      {
+        "site": "kitsu",
+        "id": "12038"
+      },
+      {
+        "site": "kitsu",
+        "id": "41138"
+      },
+      {
+        "site": "livechart",
+        "id": "2000"
+      },
+      {
+        "site": "livechart",
+        "id": "3113"
+      },
+      {
+        "site": "livechart",
+        "id": "9245"
+      },
+      {
+        "site": "myanimelist",
+        "id": "32571"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37368"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8829"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8832"
+      },
+      {
+        "site": "notify",
+        "id": "6xsVIbmig"
+      },
+      {
+        "site": "notify",
+        "id": "WSsetFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 32,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/89580.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/89580t.jpg",
+    "synonyms": [
+      "Goma-chan Season 2",
+      "Shonen Ashibe GO! GO! Goma-chan",
+      "Shonen Ashibe GO! GO! Goma-chan (Season 2)",
+      "Shonen Ashibe GO! GO! Goma-chan (Staffel 2)",
+      "Shonen Ashibe GO! GO! Goma-chan (Stagione 2)",
+      "Shonen Ashibe GO! GO! Goma-chan (Temporada 2)",
+      "Shonen Ashibe GO! GO! Goma-chan 2",
+      "Shonen Ashibe GO! GO! Goma-chan Temporada 2",
+      "Shonen Ashibe Go! Go! Goma-chan (2017)",
+      "Shounen Ashibe GO! GO! Goma-chan 2",
+      "Shounen Ashibe GO! GO! Goma-chan 2nd Season",
+      "Shounen Ashibe: Go! Go! Goma-chan (2017)",
+      "Shônen Ashibe Go! Go! Goma-chan",
+      "Shônen Ashibe Go! Go! Goma-chan (Saison 2)",
+      "Shōnen Ashibe: Go! Go! Goma-chan (2017)",
+      "Young Ashibe: Go! Go! Goma-chan",
+      "Young Ashibe: Go! Go! Goma-chan 2",
+      "少年アシベ GO! GO! ゴマちゃん (2017)",
+      "少年アシベ GO!GO!ゴマちゃん(第2シリーズ)",
+      "少年アシベ GO！ GO！ ゴマちゃん （2017）",
+      "少年アシベ GO！GO！ゴマちゃん",
+      "少年アシベ GO！GO！ゴマちゃん 2"
+    ]
+  },
+  {
+    "title": "王室教師ハイネ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "王室教师海涅"
+      ],
+      "zh-Hant": [
+        "王室教師海涅"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://heine-royal.com/",
+    "begin": "2017-04-04T17:05:00.000Z",
+    "end": "2017-06-20T17:35:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9f8up",
+        "begin": "2017-04-04T18:05:00.000Z"
+      },
+      {
+        "site": "letv",
+        "id": "10035811",
+        "begin": "2017-04-04T18:05:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "efbfbdefbfbd3befbfbd",
+        "begin": "2017-04-04T18:05:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "5990",
+        "begin": "2017-04-04T18:05:00.000Z",
+        "broadcast": "R/2017-04-04T18:05:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi",
+        "id": "195434"
+      },
+      {
+        "site": "nicovideo",
+        "id": "heine-royal",
+        "begin": "2017-04-05T15:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "86675",
+        "begin": "2017-04-04T19:40:00.000Z",
+        "broadcast": "R/2017-04-04T19:40:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "14394"
+      },
+      {
+        "site": "anilist",
+        "id": "104286"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-royal-tutor-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "13887"
+      },
+      {
+        "site": "kitsu",
+        "id": "42058"
+      },
+      {
+        "site": "livechart",
+        "id": "3511"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38313"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/85517.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/85517t.jpg",
+    "synonyms": [
+      "Oshitsu Kyoshi Haine",
+      "Oushitsu Kyoushi Haine",
+      "The Royal Tutor",
+      "heine",
+      "Ôshitsu Kyôshi Heine",
+      "Ōshitsu Kyōshi Heine",
+      "おうしつきょうしはいね",
+      "王室教师海涅",
+      "王室教師ハイネ",
+      "왕실교사 하이네"
+    ]
+  },
+  {
+    "title": "BORUTO-ボルト- NARUTO NEXT GENERATIONS",
+    "titleTranslate": {
+      "zh-Hans": [
+        "火影忍者 博人传之火影次世代",
+        "博人传 火影忍者新时代",
+        "博人传-火影次世代-",
+        "BORUTO-火影新世代-NARUTO NEXT GENERATIONS-",
+        "BORUTO -火影新世代-",
+        "火影忍者：博人传之次世代继承者",
+        "BORUTO ─慕留人─ ─NARUTO NEXT GENERATIONS─",
+        "博人传-火影忍者新生代-",
+        "博人传之火影忍者次世代"
+      ],
+      "zh-Hant": [
+        "慕留人 - 火影新世代 -",
+        "慕留人：火影新世代"
+      ],
+      "en": [
+        "Boruto: Naruto Next Generations"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/boruto/",
+    "begin": "2017-04-05T08:55:00.000Z",
+    "broadcast": "R/2018-10-07T08:30:00.000Z/P7D",
+    "end": "2023-03-26T09:00:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9f0tx",
+        "begin": "2017-04-05T09:30:00.000Z",
+        "broadcast": "R/2018-10-07T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "youku",
+        "id": "311801efbfbd111211ef",
+        "begin": "2017-04-05T09:30:00.000Z",
+        "broadcast": "R/2018-10-07T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "5978",
+        "begin": "2017-04-05T09:30:00.000Z",
+        "broadcast": "R/2018-10-07T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi",
+        "id": "202661"
+      },
+      {
+        "site": "nicovideo",
+        "id": "boruto",
+        "begin": "2017-04-05T09:30:00.000Z",
+        "broadcast": "R/2018-10-07T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "86598",
+        "begin": "2020-02-27T06:00:00.000Z",
+        "broadcast": "R/2020-02-27T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81080523",
+        "begin": "2023-06-29T16:00:00.000Z",
+        "broadcast": "R/2023-06-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "10961"
+      },
+      {
+        "site": "anidb",
+        "id": "13334"
+      },
+      {
+        "site": "anidb",
+        "id": "17896"
+      },
+      {
+        "site": "anidb",
+        "id": "9588"
+      },
+      {
+        "site": "anilist",
+        "id": "100721"
+      },
+      {
+        "site": "anilist",
+        "id": "165523"
+      },
+      {
+        "site": "anilist",
+        "id": "1735"
+      },
+      {
+        "site": "anilist",
+        "id": "21220"
+      },
+      {
+        "site": "anime-planet",
+        "id": "boruto-jump-festa-2016-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "boruto-naruto-next-generations-part-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "boruto-naruto-the-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "boruto-naruto-the-movie-the-day-naruto-became-hokage"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kamiusagi-rope-x-boruto-naruto-next-generations"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-shippuden"
+      },
+      {
+        "site": "anisearch",
+        "id": "10223"
+      },
+      {
+        "site": "anisearch",
+        "id": "12678"
+      },
+      {
+        "site": "anisearch",
+        "id": "18259"
+      },
+      {
+        "site": "anisearch",
+        "id": "3972"
+      },
+      {
+        "site": "kitsu",
+        "id": "10089"
+      },
+      {
+        "site": "kitsu",
+        "id": "1555"
+      },
+      {
+        "site": "kitsu",
+        "id": "47181"
+      },
+      {
+        "site": "livechart",
+        "id": "1318"
+      },
+      {
+        "site": "livechart",
+        "id": "1970"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1735"
+      },
+      {
+        "site": "myanimelist",
+        "id": "28755"
+      },
+      {
+        "site": "myanimelist",
+        "id": "32365"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35072"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36564"
+      },
+      {
+        "site": "myanimelist",
+        "id": "54687"
+      },
+      {
+        "site": "notify",
+        "id": "97dB5Kmmg"
+      },
+      {
+        "site": "notify",
+        "id": "Va4ypKimg"
+      },
+      {
+        "site": "notify",
+        "id": "gdvr4h-4R"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 293,
+    "picture": "https://cdn.myanimelist.net/images/anime/1091/99847.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1091/99847t.jpg",
+    "synonyms": [
+      "BORUTO -NARUTO NEXT GENERATIONS-",
+      "BORUTO-ボルト- NARUTO NEXT GENERATIONS",
+      "BORUTO: NARUTO NEXT GENERATIONS",
+      "Boruto",
+      "Boruto - Naruto Next Generations",
+      "Boruto: Naruto Next Generation",
+      "Naruto: Next Generations",
+      "boruto tv",
+      "Боруто: Новое поколение",
+      "بوروتو: الأجيال القادمة من ناروتو",
+      "โบรูโตะ: นารูโตะ เน็กซ์ เจนเนเรชั่น",
+      "ボルト",
+      "ボルト ～Naruto Next Generations～",
+      "博人传 火影忍者新时代",
+      "博人传之火影忍者次世代",
+      "火影忍者 博人传之火影次世代"
+    ]
+  },
+  {
+    "title": "ラブ米 -WE LOVE RICE-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爱米-WE LOVE RICE-",
+        "爱米 -WE LOVE RICE-"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://love-kome.com/",
+    "begin": "2017-04-05T13:45:00.000Z",
+    "end": "2017-06-21T13:55:00.000Z",
+    "sites": [
+      {
+        "site": "mgtv",
+        "id": "313990",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "7e4458bae2ca11e6b9bb",
+        "begin": "2017-04-05T14:45:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "198598"
+      },
+      {
+        "site": "nicovideo",
+        "id": "love-kome-anime",
+        "begin": "2017-04-07T15:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229855",
+        "begin": "2020-09-08T03:23:00.000Z",
+        "broadcast": "R/2020-09-08T03:23:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "12553"
+      },
+      {
+        "site": "anilist",
+        "id": "97862"
+      },
+      {
+        "site": "anime-planet",
+        "id": "love-kome-we-love-rice"
+      },
+      {
+        "site": "anisearch",
+        "id": "12201"
+      },
+      {
+        "site": "kitsu",
+        "id": "13148"
+      },
+      {
+        "site": "livechart",
+        "id": "2419"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34402"
+      },
+      {
+        "site": "notify",
+        "id": "aU2MhFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/88115.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/88115t.jpg",
+    "synonyms": [
+      "Love Kome: WE LOVE RICE 2nd Season",
+      "Love Kome: We Love Rice - Nikisaku",
+      "Love Kome: We Love Rice 2",
+      "Love Kome: We Love Rice 2nd Season",
+      "Love Rice 2",
+      "Love Rice 2nd Season",
+      "らぶこめうぃーらぶらいす",
+      "ラブ米 -WE LOVE RICE-",
+      "ラブ米 -WE LOVE RICE- 二期作",
+      "爱米 -WE LOVE RICE- 第二季"
+    ]
+  },
+  {
+    "title": "神撃のバハムート VIRGIN SOUL",
+    "titleTranslate": {
+      "zh-Hans": [
+        "巴哈姆特之怒 VIRGIN SOUL",
+        "神击的巴哈姆特 VIRGIN SOUL"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://shingekinobahamut-virginsoul.jp",
+    "begin": "2017-04-07T17:10:00.000Z",
+    "end": "2017-09-29T17:25:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10036009",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5968",
+        "begin": "2017-04-08T02:15:00.000Z",
+        "broadcast": "R/2017-04-08T02:11:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi",
+        "id": "132981"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bahamut-vs",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "4dbc9c25e2bf11e6acec",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "10373"
+      },
+      {
+        "site": "anilist",
+        "id": "98629"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mysteria-friends"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rage-of-bahamut-genesis"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rage-of-bahamut-genesis-roundup"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rage-of-bahamut-genesis-short-stories"
+      },
+      {
+        "site": "anisearch",
+        "id": "12538"
+      },
+      {
+        "site": "anisearch",
+        "id": "16932"
+      },
+      {
+        "site": "anisearch",
+        "id": "9317"
+      },
+      {
+        "site": "kitsu",
+        "id": "11354"
+      },
+      {
+        "site": "kitsu",
+        "id": "13013"
+      },
+      {
+        "site": "kitsu",
+        "id": "45665"
+      },
+      {
+        "site": "kitsu",
+        "id": "8195"
+      },
+      {
+        "site": "livechart",
+        "id": "1584"
+      },
+      {
+        "site": "livechart",
+        "id": "387"
+      },
+      {
+        "site": "livechart",
+        "id": "4002"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21843"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31537"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34642"
+      },
+      {
+        "site": "notify",
+        "id": "Qi19pKiig"
+      },
+      {
+        "site": "notify",
+        "id": "ueDopFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "xLXZhFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/85564.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/85564t.jpg",
+    "synonyms": [
+      "A Fúria de Bahamut: Alma Imaculada",
+      "BAHAMUTS VREDE – JUNGFRUSJÄL",
+      "BAHAMUT`UN ÖFKESİ: BAKİRE RUH",
+      "BahaSoul",
+      "La Furia de Bahamut: Alma Virgen",
+      "Rage of Bahamut: Virgin Soul",
+      "Shimut2",
+      "Shingeki no Bahamut: VIRGIN SOUL",
+      "shimut s2",
+      "snbvirginsoul",
+      "virginsoul",
+      "ГНЕВ БАХАМУТА: НЕВИННАЯ ДУША",
+      "Гневът на Бахамут: Чиста душа",
+      "זעמו של בהמוט: נשמת הבתולה",
+      "غضب \"باهاموت\" الروح العذراء",
+      "रेज ऑफ़ बहामट विर्जिन सोल",
+      "ரேஜ் ஆஃப் பஹாமத் விர்ஜின் ஸோல்",
+      "రేజ్ ఆఫ్ బహమట్ వర్జిన్ సోల్",
+      "เรจออฟบาฮามุตเวอร์จินโซล",
+      "巴哈姆特之怒 VIRGIN SOUL",
+      "神撃のバハムート VIRGIN SOUL",
+      "신격의 바하무트 VIRGIN SOUL"
+    ]
+  },
+  {
+    "title": "喧嘩番長 乙女 -Girl Beats Boys-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "喧哗番长 乙女-Girl Beats Boys-",
+        "喧哗番长 乙女 Girl Beats Boys",
+        "最强番长是少女",
+        "喧嘩番長 乙女 —Girl Beats Boys—"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://kbo-anime.com/",
+    "begin": "2017-04-12T13:30:00.000Z",
+    "end": "2017-06-28T13:40:00.000Z",
+    "sites": [
+      {
+        "site": "mgtv",
+        "id": "314097",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "200859"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kbo-anime",
+        "begin": "2017-04-12T15:00:00.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/85022.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/85022t.jpg",
+    "synonyms": [
+      "Kenka Bancho Otome -Girl Beats Boys-",
+      "Kenka Bancho Otome: Girl Beats Boys",
+      "Kenka Banchô Otome: Girl Beats Boys",
+      "Kenka Banchō Otome: Girl Beats Boys",
+      "Zui Jiang Pan Chang Shi Shao Nu",
+      "喧哗番长 乙女 Girl Beats Boys",
+      "喧嘩番長 乙女 -GIRL BEATS BOYS-",
+      "喧嘩番長 乙女 -Girl Beats Boys-",
+      "喧嘩番長 乙女-Girl Beats Boys-",
+      "最强番长是少女",
+      "싸움반장 소녀 -Girl Beats Boys-"
+    ]
+  },
+  {
+    "title": "sin 七つの大罪",
+    "titleTranslate": {
+      "zh-Hans": [
+        "sin 七宗罪",
+        "sin 七大罪"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.7-sins.tv/",
+    "begin": "2017-04-14T15:00:00.000Z",
+    "end": "2017-07-29T13:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "189784"
+      },
+      {
+        "site": "nicovideo",
+        "id": "7-sins",
+        "begin": "2017-04-15T03:00:00.000Z"
+      },
+      {
+        "site": "anilist",
+        "id": "98622"
+      },
+      {
+        "site": "anime-planet",
+        "id": "seven-mortal-sins"
+      },
+      {
+        "site": "anime-planet",
+        "id": "seven-mortal-sins-confession"
+      },
+      {
+        "site": "anime-planet",
+        "id": "seven-mortal-sins-this-is-indeed-the-work-of-demons"
+      },
+      {
+        "site": "anisearch",
+        "id": "12477"
+      },
+      {
+        "site": "kitsu",
+        "id": "12540"
+      },
+      {
+        "site": "livechart",
+        "id": "2279"
+      },
+      {
+        "site": "livechart",
+        "id": "2672"
+      },
+      {
+        "site": "livechart",
+        "id": "2988"
+      },
+      {
+        "site": "livechart",
+        "id": "3054"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35417"
+      },
+      {
+        "site": "notify",
+        "id": "2p3z2KmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 7,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/89582.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/89582t.jpg",
+    "synonyms": [
+      "Seven Mortal Sins Mini Episoden (Teil 2)",
+      "Seven Mortal Sins Specials",
+      "Seven Mortal Sins Zange-roku Specials",
+      "Seven Mortal Sins: Confession Specials",
+      "Sin Nanatsu no Taizai Specials",
+      "Sin: Nanatsu no Taizai - Records of Confessions",
+      "Sin: Nanatsu no Taizai - Zange-roku 2",
+      "Sin: Nanatsu no Taizai - Zange-roku Specials",
+      "Sin: Nanatsu no Taizai Specials",
+      "Sin: Nanatsu no Taizai Zangeroku",
+      "sin 七つの大罪",
+      "sin 七つの大罪 ショートアニメ「懺悔録」",
+      "sin 七つの大罪 ショートアニメ「懺悔録」2",
+      "sin: Nanatsu no Taizai Zange-roku Specials",
+      "しんななつのたいざい"
+    ]
+  },
+  {
+    "title": "アトム ザ・ビギニング",
+    "titleTranslate": {
+      "en": [
+        "ATOM THE BEGINNING"
+      ],
+      "zh-Hans": [
+        "阿童木起源"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://atom-tb.com/",
+    "begin": "2017-04-15T14:00:00.000Z",
+    "end": "2017-07-08T14:30:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "5979",
+        "begin": "2017-04-15T16:30:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "184059"
+      },
+      {
+        "site": "nicovideo",
+        "id": "atom-tb",
+        "begin": "2017-04-17T06:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "1440"
+      },
+      {
+        "site": "anilist",
+        "id": "2747"
+      },
+      {
+        "site": "anilist",
+        "id": "3044"
+      },
+      {
+        "site": "anilist",
+        "id": "971"
+      },
+      {
+        "site": "anime-planet",
+        "id": "astro-boy-1963"
+      },
+      {
+        "site": "anime-planet",
+        "id": "astro-boy-1980"
+      },
+      {
+        "site": "anime-planet",
+        "id": "astro-boy-2003"
+      },
+      {
+        "site": "anime-planet",
+        "id": "astro-boy-the-brave-in-space"
+      },
+      {
+        "site": "anime-planet",
+        "id": "astro-boy-volume-of-the-blue-knight"
+      },
+      {
+        "site": "anisearch",
+        "id": "1095"
+      },
+      {
+        "site": "anisearch",
+        "id": "1624"
+      },
+      {
+        "site": "anisearch",
+        "id": "3497"
+      },
+      {
+        "site": "anisearch",
+        "id": "5374"
+      },
+      {
+        "site": "kitsu",
+        "id": "2507"
+      },
+      {
+        "site": "kitsu",
+        "id": "2748"
+      },
+      {
+        "site": "kitsu",
+        "id": "861"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2747"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3044"
+      },
+      {
+        "site": "myanimelist",
+        "id": "971"
+      },
+      {
+        "site": "notify",
+        "id": "98Q85FimR"
+      },
+      {
+        "site": "notify",
+        "id": "ahOJ5KiiR"
+      },
+      {
+        "site": "notify",
+        "id": "mjjy5FmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/86607.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/86607t.jpg",
+    "synonyms": [
+      "ATOM THE BEGINNING",
+      "Atom The Beginning",
+      "atomtb",
+      "Атом: Начало",
+      "アトム ザ・ビギニング",
+      "阿童木起源",
+      "아톰 더 비기닝"
+    ]
+  },
+  {
+    "title": "ねこねこ日本史(第2シリーズ)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "猫猫日本史 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://neco-neco.jp/",
+    "begin": "2017-04-05T09:45:00.000Z",
+    "end": "2018-02-28T10:15:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "211114"
+      },
+      {
+        "site": "youku",
+        "id": "2cefbfbdefbfbd7c1456",
+        "begin": "2017-04-18T01:20:37.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "11888"
+      },
+      {
+        "site": "anidb",
+        "id": "13837"
+      },
+      {
+        "site": "anilist",
+        "id": "101523"
+      },
+      {
+        "site": "anilist",
+        "id": "21600"
+      },
+      {
+        "site": "anime-planet",
+        "id": "meow-meow-japanese-history"
+      },
+      {
+        "site": "anime-planet",
+        "id": "meow-meow-japanese-history-3rd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "meow-meow-japanese-history-4th-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "meow-meow-japanese-history-5th-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "meow-meow-japanese-history-movie-ryouma-no-hachamecha-time-travel-ze-yo"
+      },
+      {
+        "site": "anisearch",
+        "id": "11312"
+      },
+      {
+        "site": "anisearch",
+        "id": "13381"
+      },
+      {
+        "site": "anisearch",
+        "id": "13460"
+      },
+      {
+        "site": "kitsu",
+        "id": "41137"
+      },
+      {
+        "site": "livechart",
+        "id": "2001"
+      },
+      {
+        "site": "livechart",
+        "id": "3128"
+      },
+      {
+        "site": "livechart",
+        "id": "9250"
+      },
+      {
+        "site": "livechart",
+        "id": "9606"
+      },
+      {
+        "site": "livechart",
+        "id": "9825"
+      },
+      {
+        "site": "myanimelist",
+        "id": "32572"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37369"
+      },
+      {
+        "site": "notify",
+        "id": "3bADSbmmR"
+      },
+      {
+        "site": "notify",
+        "id": "x9yqtFmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 32,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/89586.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/89586t.jpg",
+    "synonyms": [
+      "Historia Gatuna Japonesa (Temporada 2)",
+      "Meow Meow Japanese History",
+      "Meow Meow Japanese History (2017)",
+      "Meow Meow Japanese History (Season 2)",
+      "Meow Meow Japanese History 2nd Season",
+      "Neko Neko Nihonshi (2017)",
+      "Neko Neko Nihonshi 2",
+      "Neko Neko Nihonshi Season 2",
+      "Neko Neko Nihonshi Second Season",
+      "ねこねこ日本史",
+      "ねこねこ日本史 (2017)",
+      "ねこねこ日本史 第2シリーズ",
+      "ねこねこ日本史 （2017）",
+      "ねこねこ日本史(第2シリーズ)",
+      "猫猫日本史 第二季"
+    ]
+  },
+  {
+    "title": "銀の墓守り",
+    "titleTranslate": {
+      "en": [
+        "THE SILVER GUARDIAN"
+      ],
+      "zh-Hans": [
+        "银之守墓人"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://ginno-guardian.jp/",
+    "begin": "2017-04-01T12:00:00.000Z",
+    "end": "2017-06-17T12:15:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "6060",
+        "begin": "2017-03-31T02:00:00.000Z",
+        "broadcast": "R/2017-03-24T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "letv",
+        "id": "10035880",
+        "begin": "2017-03-31T02:00:00.000Z"
+      },
+      {
+        "site": "mgtv",
+        "id": "313603",
+        "begin": "2017-03-31T02:00:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9fkfl",
+        "begin": "2017-03-31T02:00:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "y/yn3kar593j2b1lm",
+        "begin": "2017-03-31T02:00:00.000Z"
+      },
+      {
+        "site": "sohu",
+        "id": "s2017/dhpyzsmr",
+        "begin": "2017-03-31T02:00:00.000Z"
+      },
+      {
+        "site": "pptv",
+        "id": "TfXfXcUrm9k8uiaI",
+        "begin": "2017-03-31T02:00:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "173850"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ginno-guardian",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "14380"
+      },
+      {
+        "site": "anilist",
+        "id": "98575"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-be-heroine"
+      },
+      {
+        "site": "anisearch",
+        "id": "13510"
+      },
+      {
+        "site": "kitsu",
+        "id": "40592"
+      },
+      {
+        "site": "livechart",
+        "id": "11591"
+      },
+      {
+        "site": "livechart",
+        "id": "2653"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35044"
+      },
+      {
+        "site": "notify",
+        "id": "ahFDhFiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2016,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/82347.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/82347t.jpg",
+    "synonyms": [
+      "2B HERO",
+      "TO BE HERO",
+      "Tu Bian Ying Xiong",
+      "Tu Bian Ying Xiong Baba",
+      "Tu Bian Yingxiong",
+      "Tu Bian Yingxiong BABA",
+      "أن تكون بطل",
+      "トゥ・ビー・ヒーロー",
+      "トゥー・ビー・ヒーロー",
+      "凸变英雄",
+      "凸变英雄 BABA",
+      "凸变英雄BABA",
+      "突变英雄",
+      "銀の墓守り"
+    ]
+  },
+  {
+    "title": "银之守墓人",
+    "titleTranslate": {
+      "en": [
+        "THE SILVER GUARDIAN"
+      ],
+      "ja": [
+        "銀の墓守り"
+      ]
+    },
+    "type": "tv",
+    "lang": "zh-Hans",
+    "officialSite": "http://ginno-guardian.jp/",
+    "begin": "2017-04-01T12:00:00.000Z",
+    "end": "2017-06-17T12:15:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "173850"
+      },
+      {
+        "site": "bilibili",
+        "id": "5856",
+        "begin": "2017-03-31T02:00:00.000Z",
+        "broadcast": "R/2017-03-31T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "letv",
+        "id": "10035403",
+        "begin": "2017-03-31T02:00:00.000Z"
+      },
+      {
+        "site": "mgtv",
+        "id": "313299",
+        "begin": "2017-03-31T02:00:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9fs0d",
+        "begin": "2017-03-31T02:00:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "c/co1rct64uxcugab",
+        "begin": "2017-03-31T02:00:00.000Z"
+      },
+      {
+        "site": "sohu",
+        "id": "s2017/yzsmrzwb",
+        "begin": "2017-03-31T02:00:00.000Z"
+      },
+      {
+        "site": "pptv",
+        "id": "q5B8ibmLIOHbZV78",
+        "begin": "2017-03-31T02:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "13237"
+      },
+      {
+        "site": "anilist",
+        "id": "99148"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-silver-guardian-ii"
+      },
+      {
+        "site": "anisearch",
+        "id": "12602"
+      },
+      {
+        "site": "anisearch",
+        "id": "12913"
+      },
+      {
+        "site": "kitsu",
+        "id": "13573"
+      },
+      {
+        "site": "livechart",
+        "id": "2733"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35757"
+      },
+      {
+        "site": "notify",
+        "id": "iCd4hKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/86525.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/86525t.jpg",
+    "synonyms": [
+      "Gin no Hakamori",
+      "Gümüş Koruyucu",
+      "Shirogane no Guardian",
+      "The Silver Guardian",
+      "The Silver Guardian (Chinese Web-Version)",
+      "The Silver Gurdian",
+      "Yin Zhi Shou Mu Ren",
+      "Yin Zhi Shoumuren",
+      "Серебряный страж",
+      "ぎんのがーでぃあん",
+      "銀の墓守り",
+      "銀の墓守り[ガーディアン]",
+      "銀の墓守り〈ガーディアン〉",
+      "銀之守墓人",
+      "银之守墓人",
+      "은의 묘지기"
+    ]
+  },
+  {
+    "title": "アキンド星のリトル・ペソ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "商人之星的小比索"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://ch.nicovideo.jp/peso-game-line-me-anime",
+    "begin": "2017-04-03T12:55:00.000Z",
+    "end": "2017-06-19T13:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "209544"
+      },
+      {
+        "site": "nicovideo",
+        "id": "peso-game-line-me-anime",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "6068",
+        "begin": "2017-04-02T16:00:01.000Z",
+        "broadcast": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/84307.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/84307t.jpg",
+    "synonyms": [
+      "Akindo Sei Little Peso",
+      "Akindo's Little Peso",
+      "あきんどせいのりとるぺそ",
+      "アキンド星のリトル・ペソ"
+    ]
+  },
+  {
+    "title": "ひなこのーと",
+    "titleTranslate": {
+      "zh-Hans": [
+        "雏子的笔记",
+        "雏子日记",
+        "雏子的本子"
+      ],
+      "zh-Hant": [
+        "雛子的筆記"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://hinakonote.jp",
+    "begin": "2017-04-07T12:00:00.000Z",
+    "end": "2017-06-23T12:30:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "5993",
+        "begin": "2017-04-07T13:30:00.000Z",
+        "broadcast": "R/2017-04-07T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi",
+        "id": "190907"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hinakonote",
+        "begin": "2017-04-14T16:00:00.000Z"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgxwFThB5rk1sXCgsiWhHr6",
+        "begin": "2020-05-04T16:00:00.000Z",
+        "broadcast": "R/2020-05-04T16:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/84858.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/84858t.jpg",
+    "synonyms": [
+      "ひなこのーと",
+      "雏子的笔记",
+      "히나코 노트"
+    ]
+  },
+  {
+    "title": "ふるさとめぐり 日本の昔ばなし",
+    "titleTranslate": {
+      "zh-Hans": [
+        "故乡漫游 日本的古老传说"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/mukashibanashi/",
+    "begin": "2017-04-02T00:00:00.000Z",
+    "end": "2018-03-25T00:00:00.000Z",
+    "sites": [
+      {
+        "site": "youku",
+        "id": "7c49efbfbdefbfbd11ef",
+        "begin": "2017-04-02T01:00:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "212331"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrheh3kd",
+        "begin": "2018-01-07T00:55:04.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "19632",
+        "begin": "2018-01-06T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "9016"
+      },
+      {
+        "site": "anilist",
+        "id": "13163"
+      },
+      {
+        "site": "anime-planet",
+        "id": "folktales-from-japan"
+      },
+      {
+        "site": "anisearch",
+        "id": "7639"
+      },
+      {
+        "site": "kitsu",
+        "id": "6897"
+      },
+      {
+        "site": "livechart",
+        "id": "1105"
+      },
+      {
+        "site": "myanimelist",
+        "id": "13163"
+      },
+      {
+        "site": "notify",
+        "id": "Iy4vpKmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 50,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/85025.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/85025t.jpg",
+    "synonyms": [
+      "Folktales from Japan 2nd Season",
+      "Folktales from Japan Season 2",
+      "Furusato Meguri Nippon no Mukashibanashi",
+      "Furusato Meguri: Nippon no Mukashi Banashi",
+      "Historias tradicionales japonesas para la reconstrucción de los pueblos 2",
+      "Hometown Visiting: Folktales from Japan",
+      "ふるさとめぐり 日本の昔ばなし",
+      "故乡漫游 日本的古老传说"
+    ]
+  },
+  {
+    "title": "あはれ！名作くん(第2期)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "做得很好！名作君 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://meisakukun.com/",
+    "begin": "2017-04-07T09:20:00.000Z",
+    "end": "2018-02-23T09:55:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212813"
+      },
+      {
+        "site": "anidb",
+        "id": "12006"
+      },
+      {
+        "site": "anidb",
+        "id": "14761"
+      },
+      {
+        "site": "anime-planet",
+        "id": "aware-meisaku-kun"
+      },
+      {
+        "site": "anime-planet",
+        "id": "aware-meisaku-kun-3"
+      },
+      {
+        "site": "anisearch",
+        "id": "11255"
+      },
+      {
+        "site": "anisearch",
+        "id": "15460"
+      },
+      {
+        "site": "livechart",
+        "id": "10622"
+      },
+      {
+        "site": "livechart",
+        "id": "2088"
+      },
+      {
+        "site": "livechart",
+        "id": "9402"
+      },
+      {
+        "site": "livechart",
+        "id": "9403"
+      },
+      {
+        "site": "livechart",
+        "id": "9823"
+      },
+      {
+        "site": "notify",
+        "id": "Rk2WYOvng"
+      },
+      {
+        "site": "notify",
+        "id": "yZDRhKmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 39,
+    "picture": "https://cdn.anime-planet.com/anime/primary/aware-meisaku-kun-2-1.webp?t=1635923302",
+    "thumbnail": "https://cdn.anime-planet.com/anime/primary/aware-meisaku-kun-2-1-285x400.webp?t=1635923302",
+    "synonyms": [
+      "Ahare! Meisaku-kun (2017)",
+      "Ahare! Meisaku-kun 2nd Season",
+      "Aware! Meisaku-kun (2017)",
+      "Aware! Meisaku-kun 2nd Season",
+      "Aware! Meisakukun (Season 2)",
+      "あはれ! 名作くん (2017)",
+      "あはれ！ 名作くん （2017）",
+      "あはれ！名作くん(第2期)"
+    ]
+  },
+  {
+    "title": "スナックワールド",
+    "titleTranslate": {
+      "en": [
+        "THE SNACK WORLD"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/snack-world/",
+    "begin": "2017-04-13T10:25:00.000Z",
+    "end": "2018-04-19T10:25:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "188174"
+      },
+      {
+        "site": "nicovideo",
+        "id": "snack-world",
+        "begin": "2017-04-20T03:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "6004",
+        "begin": "2017-04-12T16:00:01.000Z",
+        "broadcast": "R/2017-05-29T08:00:05.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "11181"
+      },
+      {
+        "site": "anidb",
+        "id": "12559"
+      },
+      {
+        "site": "anilist",
+        "id": "145492"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-snack-world-2015"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-snack-world-hitogirai-no-renny"
+      },
+      {
+        "site": "anisearch",
+        "id": "10995"
+      },
+      {
+        "site": "anisearch",
+        "id": "12150"
+      },
+      {
+        "site": "kitsu",
+        "id": "12426"
+      },
+      {
+        "site": "kitsu",
+        "id": "12848"
+      },
+      {
+        "site": "myanimelist",
+        "id": "32593"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34416"
+      },
+      {
+        "site": "notify",
+        "id": "0OpzhKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "CGvWhKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 50,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/83341.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/83341t.jpg",
+    "synonyms": [
+      "SNACK WORLD",
+      "Snack World",
+      "Snack World : On va Croquer du Méchant !",
+      "THE SNACK WORLD",
+      "The Snack World",
+      "スナックワールド",
+      "スナックワールド (TV)"
+    ]
+  },
+  {
+    "title": "拡張少女系トライナリー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "扩张少女系Trinary"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://anime.kakutora.com/",
+    "begin": "2017-04-12T07:00:00.000Z",
+    "end": "2017-11-29T07:30:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "6069",
+        "begin": "2017-04-14T03:00:00.000Z",
+        "broadcast": "R/2017-04-14T02:53:00.000Z/P7D"
+      },
+      {
+        "site": "letv",
+        "id": "10036060",
+        "begin": ""
+      },
+      {
+        "site": "pptv",
+        "id": "hrqWFHziaUpDzcdk",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "192637"
+      },
+      {
+        "site": "nicovideo",
+        "id": "trinary",
+        "begin": "2017-04-26T15:00:00.000Z"
+      },
+      {
+        "site": "anilist",
+        "id": "106158"
+      },
+      {
+        "site": "anilist",
+        "id": "106159"
+      },
+      {
+        "site": "anilist",
+        "id": "106160"
+      },
+      {
+        "site": "anilist",
+        "id": "106161"
+      },
+      {
+        "site": "anilist",
+        "id": "106162"
+      },
+      {
+        "site": "anisearch",
+        "id": "13311"
+      },
+      {
+        "site": "anisearch",
+        "id": "13314"
+      },
+      {
+        "site": "anisearch",
+        "id": "13324"
+      },
+      {
+        "site": "anisearch",
+        "id": "13332"
+      },
+      {
+        "site": "anisearch",
+        "id": "13333"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36782"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 34,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/85753.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/85753t.jpg",
+    "synonyms": [
+      "Augmented Reality Girls Trinary",
+      "Kakuchou Shoujo Kei Trinary",
+      "Kakuchou Shoujo-Kei Trinary",
+      "Kakuchō Shōjo Kei Trinary",
+      "kakutora",
+      "扩张少女系Trinary",
+      "拡張少女系トライナリー"
+    ]
+  },
+  {
+    "title": "100%パスカル先生",
+    "titleTranslate": {
+      "zh-Hans": [
+        "100%帕斯卡老师"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://pasu-chi.com/",
+    "begin": "2017-04-14T21:30:00.000Z",
+    "end": "2017-12-16T22:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "nqKODHTaSojradE",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "206011"
+      },
+      {
+        "site": "anime-planet",
+        "id": "100-pascal-sensei"
+      },
+      {
+        "site": "anime-planet",
+        "id": "40-shuunen-da-yo-coro-coro-all-star-shougakkou"
+      },
+      {
+        "site": "anisearch",
+        "id": "12221"
+      },
+      {
+        "site": "kitsu",
+        "id": "13412"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35447"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35745"
+      },
+      {
+        "site": "notify",
+        "id": "vBY7hFmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 36,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/86858.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/86858t.jpg",
+    "synonyms": [
+      "100% Pascal-sensei",
+      "100% Pascal-sensei (2017)",
+      "100% Pasukaru-sensei",
+      "100% Teacher Pascal",
+      "100% Teacher Pascal (2017)",
+      "100%パスカル先生",
+      "100%パスカル先生 (2017)",
+      "100%パスカル先生 (TV)",
+      "100%帕斯卡老师"
+    ]
+  },
+  {
+    "title": "プリプリちぃちゃん!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "噗利噗利奇!!"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://pasu-chi.com/",
+    "begin": "2017-04-14T21:30:00.000Z",
+    "end": "2017-12-16T22:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "lqqGBGzSQoDjYck",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "207242"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 36,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/83963.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/83963t.jpg",
+    "synonyms": [
+      "Mochi et compagnie",
+      "PriPri Chi-chan!!",
+      "Pripri Chi-chan!!",
+      "Pripri Chii-chan!!",
+      "Puri Puri",
+      "Puri Puri Chii-chan!!",
+      "Puripuri Chii-chan!!",
+      "Puripuri Chī-chan!!",
+      "プリプリちぃちゃん!!",
+      "プリプリちぃちゃん！！",
+      "噗利噗利奇!!"
+    ]
+  },
+  {
+    "title": "モンスターストライク セカンドシーズン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪物弹珠 第二季",
+        "怪物弹珠 第2季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://anime.monster-strike.com/",
+    "begin": "2017-04-01T15:00:00.000Z",
+    "end": "2017-09-02T15:15:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "205015"
+      },
+      {
+        "site": "bilibili",
+        "id": "6059",
+        "begin": "2017-03-27T03:24:00.000Z",
+        "broadcast": "R/2017-03-27T03:24:00.000Z/P7D"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhdz2gt",
+        "begin": "2017-08-14T10:31:53.000Z"
+      },
+      {
+        "site": "pptv",
+        "id": "xnVf3UWrG1m8OqI",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "w/wrqntnqyx2vhs7v",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "45efbfbd1fefbfbd5bef",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "11238"
+      },
+      {
+        "site": "anidb",
+        "id": "13197"
+      },
+      {
+        "site": "anidb",
+        "id": "13486"
+      },
+      {
+        "site": "anilist",
+        "id": "100262"
+      },
+      {
+        "site": "anilist",
+        "id": "98096"
+      },
+      {
+        "site": "anilist",
+        "id": "98791"
+      },
+      {
+        "site": "anilist",
+        "id": "98846"
+      },
+      {
+        "site": "anime-planet",
+        "id": "monster-strike"
+      },
+      {
+        "site": "anime-planet",
+        "id": "monster-strike-a-rhapsody-called-lucy-the-very-first-song"
+      },
+      {
+        "site": "anime-planet",
+        "id": "monster-strike-an-encore-and-continuance-pandoras-box"
+      },
+      {
+        "site": "anime-planet",
+        "id": "monster-strike-mermaid-rhapsody"
+      },
+      {
+        "site": "anime-planet",
+        "id": "monster-strike-rain-of-memories"
+      },
+      {
+        "site": "anime-planet",
+        "id": "monster-strike-the-animation"
+      },
+      {
+        "site": "anime-planet",
+        "id": "monster-strike-the-animation-trouble-in-monster-strike"
+      },
+      {
+        "site": "anime-planet",
+        "id": "monster-strike-the-fading-cosmos"
+      },
+      {
+        "site": "anime-planet",
+        "id": "monster-strike-the-long-awaited-utopia"
+      },
+      {
+        "site": "anime-planet",
+        "id": "monster-strike-the-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "monster-strike-the-movie-3-lucifer-dawn-of-despair"
+      },
+      {
+        "site": "anime-planet",
+        "id": "msonic-dartagnyans-rise-to-fame"
+      },
+      {
+        "site": "anisearch",
+        "id": "10568"
+      },
+      {
+        "site": "anisearch",
+        "id": "12340"
+      },
+      {
+        "site": "anisearch",
+        "id": "12457"
+      },
+      {
+        "site": "anisearch",
+        "id": "12757"
+      },
+      {
+        "site": "kitsu",
+        "id": "12983"
+      },
+      {
+        "site": "kitsu",
+        "id": "13343"
+      },
+      {
+        "site": "kitsu",
+        "id": "13970"
+      },
+      {
+        "site": "livechart",
+        "id": "10164"
+      },
+      {
+        "site": "livechart",
+        "id": "1594"
+      },
+      {
+        "site": "livechart",
+        "id": "2261"
+      },
+      {
+        "site": "livechart",
+        "id": "2695"
+      },
+      {
+        "site": "livechart",
+        "id": "2709"
+      },
+      {
+        "site": "livechart",
+        "id": "2900"
+      },
+      {
+        "site": "livechart",
+        "id": "3312"
+      },
+      {
+        "site": "livechart",
+        "id": "3358"
+      },
+      {
+        "site": "livechart",
+        "id": "8517"
+      },
+      {
+        "site": "livechart",
+        "id": "8523"
+      },
+      {
+        "site": "livechart",
+        "id": "8552"
+      },
+      {
+        "site": "livechart",
+        "id": "9586"
+      },
+      {
+        "site": "livechart",
+        "id": "9859"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35265"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35465"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36246"
+      },
+      {
+        "site": "notify",
+        "id": "MAkHhKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "ObRdhFimR"
+      },
+      {
+        "site": "notify",
+        "id": "kMUW2FmiR"
+      },
+      {
+        "site": "notify",
+        "id": "lDt72Kmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 23,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/84735.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/84735t.jpg",
+    "synonyms": [
+      "MonSuto",
+      "Monster Strike",
+      "Monster Strike (Saison 2)",
+      "Monster Strike 2",
+      "Monster Strike 2nd Season",
+      "Monster Strike Anime 2017",
+      "Monster Strike Saison 2",
+      "Monster Strike Season 2",
+      "Monster Strike Staffel 2",
+      "Monster Strike the Anime 2nd Season",
+      "Monster Strike the Anime Temporada 2",
+      "Monsuto Anime",
+      "モンスターストライク 2",
+      "モンスターストライク セカンドシーズン",
+      "モンストアニメ"
+    ]
+  },
+  {
+    "title": "パンパカパンツ おNEWさん",
+    "titleTranslate": {
+      "zh-Hant": [
+        "胖胖褲豬"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.panpaka.com",
+    "begin": "2017-04-06T16:46:00.000Z",
+    "broadcast": "R/2017-04-06T16:46:00.000Z/P7D",
+    "end": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "238403"
+      },
+      {
+        "site": "anidb",
+        "id": "12068"
+      },
+      {
+        "site": "anilist",
+        "id": "21725"
+      },
+      {
+        "site": "anime-planet",
+        "id": "panpaka-pants"
+      },
+      {
+        "site": "anime-planet",
+        "id": "panpaka-pants-o-new"
+      },
+      {
+        "site": "anime-planet",
+        "id": "panpaka-pants-wo-new"
+      },
+      {
+        "site": "anisearch",
+        "id": "12034"
+      },
+      {
+        "site": "anisearch",
+        "id": "13150"
+      },
+      {
+        "site": "anisearch",
+        "id": "13286"
+      },
+      {
+        "site": "myanimelist",
+        "id": "32842"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33002"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/84705.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/84705t.jpg",
+    "synonyms": [
+      "Panpaka Pants O NEW-san",
+      "パンパカパンツ おNEWさん"
+    ]
+  },
+  {
+    "title": "阿拉德：宿命之门",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿拉德：宿命之门"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2017-04-28T16:00:00.000Z",
+    "end": "2017-09-01T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "209955"
+      },
+      {
+        "site": "mgtv",
+        "id": "314318",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "efbfbd17efbfbd6f3aef",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "14559"
+      },
+      {
+        "site": "anidb",
+        "id": "6226"
+      },
+      {
+        "site": "anilist",
+        "id": "124341"
+      },
+      {
+        "site": "anilist",
+        "id": "4657"
+      },
+      {
+        "site": "anime-planet",
+        "id": "arad-reversal-of-fate"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slap-up-party-arad-senki"
+      },
+      {
+        "site": "anisearch",
+        "id": "15490"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38416"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4657"
+      },
+      {
+        "site": "notify",
+        "id": "SxSiRadGg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 20,
+    "picture": "https://cdn.myanimelist.net/images/anime/1143/94976.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1143/94976t.jpg",
+    "synonyms": [
+      "Alade : Suming Zhi Men",
+      "Alade Suming Zhi Men",
+      "Arad De: Suming Zhi Men",
+      "Arad: Shukumei no Mon",
+      "Arad: Su Ming Zhi Men",
+      "Arad: Suming zhi Men",
+      "Arad: The Gate of Destiny",
+      "DNF: The Fate of Arad",
+      "Dungeon Fighter Online: The Fate of Arad",
+      "The Fate of Arad",
+      "アラド: 宿命の門",
+      "アラド：運命の門",
+      "アラド：運命の門 - THE FATE OF ARAD",
+      "阿拉徳 宿命之門",
+      "阿拉徳: 宿命之門",
+      "阿拉德: 宿命之门",
+      "阿拉德:宿命之门",
+      "阿拉德：宿命之門",
+      "阿拉德：宿命之门"
+    ]
+  },
+  {
+    "title": "劇場版 Free!-Timeless Medley- 絆",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 Free!-Timeless Medley- 绊"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://tm.iwatobi-sc.com/",
+    "begin": "2017-04-22T16:00:00.000Z",
+    "end": "2017-04-22T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "211616"
+      },
+      {
+        "site": "nicovideo",
+        "id": "free-tm-movie",
+        "begin": "2018-07-01T06:00:00.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2007,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://media.kitsu.io/anime/poster_images/13555/small.jpg",
+    "thumbnail": "https://media.kitsu.io/anime/poster_images/13555/tiny.jpg",
+    "synonyms": [
+      "Winx Club - Il Segreto Del Regno Perduto",
+      "劇場版 Free!-Timeless Medley- 絆"
+    ]
+  },
+  {
+    "title": "夜は短し歩けよ乙女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "春宵苦短，少女前进吧！"
+      ],
+      "zh-Hant": [
+        "夜短夢長，少女前進吧！"
+      ],
+      "en": [
+        "The Night Is Short, Walk On Girl"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kurokaminootome.com/",
+    "begin": "2017-04-07T16:00:00.000Z",
+    "end": "2017-04-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "202240"
+      },
+      {
+        "site": "bilibili",
+        "id": "7752",
+        "begin": "2017-04-06T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80990742",
+        "begin": "2021-12-30T00:00:00.000Z",
+        "broadcast": "R/2021-12-30T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "7243"
+      },
+      {
+        "site": "anilist",
+        "id": "7785"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-tatami-galaxy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-tatami-time-machine-blues"
+      },
+      {
+        "site": "anisearch",
+        "id": "5845"
+      },
+      {
+        "site": "livechart",
+        "id": "10745"
+      },
+      {
+        "site": "livechart",
+        "id": "3631"
+      },
+      {
+        "site": "livechart",
+        "id": "5364"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7785"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/86940.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/86940t.jpg",
+    "synonyms": [
+      "Night Is Short, Walk on Girl",
+      "Night is Short",
+      "Night is Short, Walk On Girl",
+      "Night is Short, Walk on Girl",
+      "The Night Is Short",
+      "The Night Is Short, Walk On Girl",
+      "The Night Is Short, Walk on Girl",
+      "The Night is Short, Walk On Girl",
+      "The Night is Short, Walk on Girl",
+      "Walk On Girl",
+      "Walk on Girl",
+      "Yoru wa Mijikashi Aruke yo Otome",
+      "yorumi",
+      "夜は短し歩けよ乙女",
+      "春宵苦短,少女前进吧!",
+      "春宵苦短，少女前进吧！",
+      "밤은 짧아 걸어 아가씨야"
+    ]
+  }
+]

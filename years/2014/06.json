@@ -1,296 +1,810 @@
-{
-  "title": "LUPIN THE IIIRD 次元大介の墓標",
-  "titleTranslate": {
-    "zh-Hans": [
-      "鲁邦三世 次元大介的墓标"
+[
+  {
+    "title": "王牌御史",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "zh-Hans",
+    "officialSite": "http://ac.qq.com/event/sxdh/index.shtml",
+    "begin": "2014-06-27T12:00:00.000Z",
+    "end": "2016-01-20T12:15:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "1700",
+        "begin": "2014-07-24T16:00:00.000Z",
+        "broadcast": "R/2014-06-27T06:07:00.000Z/P7D"
+      },
+      {
+        "site": "pptv",
+        "id": "tQfQT7cdjcsurDA",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "b/bo64ctd5rtyc2fi",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhlwfaw",
+        "begin": "2014-09-12T06:20:12.000Z"
+      },
+      {
+        "site": "letv",
+        "id": "10002875",
+        "begin": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2014/wpys",
+        "begin": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "100147",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "107443"
+      },
+      {
+        "site": "anime-planet",
+        "id": "wangpai-yushi-episode-0"
+      },
+      {
+        "site": "anisearch",
+        "id": "11130"
+      },
+      {
+        "site": "kitsu",
+        "id": "10697"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30166"
+      },
+      {
+        "site": "notify",
+        "id": "F4fwtKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2014,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 39,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/82852.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/82852t.jpg",
+    "synonyms": [
+      "Ace Censorate",
+      "Wang Pai Yu Shi",
+      "王牌御史"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "http://jigen-movie.com",
-  "begin": "2014-06-21T16:00:00.000Z",
-  "end": "2014-06-21T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "100437"
+  {
+    "title": "聖闘士星矢 LEGEND of SANCTUARY",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圣斗士星矢 圣域传说"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "19724023",
-      "begin": "2014-06-20T16:00:00.000Z",
-      "broadcast": "R/2019-03-05T06:06:15.000Z/P7D"
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/movie/seiya_cg/",
+    "begin": "2014-06-21T16:00:00.000Z",
+    "end": "2014-06-21T17:35:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "38228"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4um9",
+        "begin": "2016-02-16T07:22:34.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "826"
+      },
+      {
+        "site": "anilist",
+        "id": "1254"
+      },
+      {
+        "site": "anilist",
+        "id": "151659"
+      },
+      {
+        "site": "anilist",
+        "id": "158988"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saint-seiya-knights-of-the-zodiac"
+      },
+      {
+        "site": "anisearch",
+        "id": "318"
+      },
+      {
+        "site": "kitsu",
+        "id": "1129"
+      },
+      {
+        "site": "livechart",
+        "id": "1279"
+      },
+      {
+        "site": "livechart",
+        "id": "2464"
+      },
+      {
+        "site": "livechart",
+        "id": "324"
+      },
+      {
+        "site": "livechart",
+        "id": "4117"
+      },
+      {
+        "site": "livechart",
+        "id": "5236"
+      },
+      {
+        "site": "livechart",
+        "id": "5381"
+      },
+      {
+        "site": "livechart",
+        "id": "5421"
+      },
+      {
+        "site": "livechart",
+        "id": "5439"
+      },
+      {
+        "site": "livechart",
+        "id": "5586"
+      },
+      {
+        "site": "livechart",
+        "id": "5772"
+      },
+      {
+        "site": "livechart",
+        "id": "5911"
+      },
+      {
+        "site": "livechart",
+        "id": "5931"
+      },
+      {
+        "site": "livechart",
+        "id": "6034"
+      },
+      {
+        "site": "livechart",
+        "id": "6500"
+      },
+      {
+        "site": "livechart",
+        "id": "7696"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1254"
+      },
+      {
+        "site": "notify",
+        "id": "HSJb5Fimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2014,
+      "month": "06"
     },
-    {
-      "site": "anidb",
-      "id": "12398"
-    },
-    {
-      "site": "anidb",
-      "id": "9031"
-    },
-    {
-      "site": "anilist",
-      "id": "13203"
-    },
-    {
-      "site": "anilist",
-      "id": "1412"
-    },
-    {
-      "site": "anilist",
-      "id": "97619"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-iii-special-19-the-elusiveness-of-the-fog"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-dead-or-alive"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-dragon-of-doom"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-farewall-to-nostradamus"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-fujikos-lie"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-goemons-blood-spray"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-green-vs-red"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-legend-of-the-gold-of-babylon"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-lupin-family-all-stars"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-part-2"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-part-3"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-part-4"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-pilot-film"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-return-of-pycal"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-secret-files"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-special-1-bye-bye-lady-liberty"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-special-11-the-columbus-files"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-special-12-missed-by-a-dollar"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-special-13-alcatraz-connection"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-special-14-episode-0-first-contact"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-special-15-operation-return-the-treasures"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-special-16-stolen-lupin"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-special-17-angel-tactics"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-special-18-seven-days-rhapsody"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-special-2-the-hemingway-papers"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-special-20-sweet-lost-night"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-special-22-the-last-job"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-special-23-blood-seal-of-the-eternal-mermaid"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-special-24-touhou-kenbunroku-another-page"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-special-25-princess-of-the-breeze-kakusareta-kuuchuu-toshi"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-special-26-italian-game"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-special-3-napoleons-dictionary"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-special-4-from-siberia-with-love"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-special-5-voyage-to-danger"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-special-8-secret-of-the-twilight-gemini"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-special-9-island-of-assassins"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-speical-10-crisis-in-tokyo"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-the-castle-of-cagliostro"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-the-first"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-the-fuma-conspiracy"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-the-mystery-of-mamo"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-3rd-the-woman-called-fujiko-mine"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-the-pursuit-of-harimaos-treasure"
-    },
-    {
-      "site": "anime-planet",
-      "id": "lupin-viii-arsene-and-cie"
-    },
-    {
-      "site": "anime-planet",
-      "id": "monkey-majik-lupin-the-third"
-    },
-    {
-      "site": "anisearch",
-      "id": "7647"
-    },
-    {
-      "site": "kitsu",
-      "id": "12530"
-    },
-    {
-      "site": "kitsu",
-      "id": "6910"
-    },
-    {
-      "site": "myanimelist",
-      "id": "13203"
-    },
-    {
-      "site": "myanimelist",
-      "id": "34021"
-    },
-    {
-      "site": "notify",
-      "id": "LO9zhKiig"
-    },
-    {
-      "site": "notify",
-      "id": "PTNvtFmiR"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 2014,
-    "month": "06"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1286/93994.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1286/93994t.jpg",
+    "synonyms": [
+      "Els Cavallers del Zodíac: La Llegenda del Santuari",
+      "I Cavalieri dello Zodiaco: La Leggenda del Grande Tempio",
+      "I Cavalieri dello Zodiaco: La leggenda del Grande Tempio",
+      "Les Chevaliers du Zodiaque - La Légende du Sanctuaire",
+      "Les Chevaliers du Zodiaque: La légende du Sanctuaire",
+      "Los Caballeros del Zodiaco - La Leyenda del Santuario",
+      "Los Caballeros del Zodiaco: La Leyenda del Santuario",
+      "Os Cavaleiros do Zodíaco: A Lenda do Santuário",
+      "Saint Seiya (2013)",
+      "Saint Seiya (2014)",
+      "Saint Seiya (Movie)",
+      "Saint Seiya Film 6: Les Chevaliers du Zodiaque - La Légende du Sanctuaire",
+      "Saint Seiya Película 6: Los Caballeros del Zodiaco. La Leyenda del Santuario",
+      "Saint Seiya: LEGEND of SANCTUARY",
+      "Saint Seiya: Los Caballeros Del Zodiaco - La Leyenda Del Santuario",
+      "圣斗士星矢 圣域传说",
+      "圣斗士星矢：圣域传说",
+      "聖闘士星矢 LEGEND of SANCTUARY",
+      "聖闘士星矢 Legend of Sanctuary"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/12/69457.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/12/69457t.jpg",
-  "synonyms": [
-    "LUPIN THE IIIRD 次元大介の墓標",
-    "LUPIN THE IIIRD: Jigen Daisuke no Bohyou",
-    "Lupin 3: Jigen Daisuke",
-    "Lupin III : Le Tombeau de Daisuke Jigen",
-    "Lupin III der Film: Daisuke Jigens Grabstein",
-    "Lupin III le Film: Le tombeau de Daisuke Jigen",
-    "Lupin III.: Daisuke Jigens Grabstein",
-    "Lupin III: Jigen Daisuke no Bohyou",
-    "Lupin III: Jigen's Gravestone",
-    "Lupin III: La lapide di Jigen Daisuke",
-    "Lupin III: La tomba di Jigen Daisuke",
-    "Lupin Sansei: Jigen Daisuke no Bohyou",
-    "Lupin the 3rd: Jigen's Grave Marker",
-    "Lupin the 3rd: Jigen’s Grave Marker",
-    "Lupin the IIIrd - La lapide di Jigen Daisuke",
-    "Lupin the IIIrd 次元大介の墓標",
-    "Lupin the IIIrd: Daisuke Jigen's Gravestone",
-    "Lupin the IIIrd: Daisuke Jigen`s Gravestone",
-    "Lupin the IIIrd: Daisuke Jigen’s Gravestone",
-    "Lupin the IIIrd: Jigen Daisuke no Bohyō",
-    "Lupin the IIIrd: Jigen's Gravestone",
-    "Lupin the Third: Daisuke Jigen's Gravestone",
-    "Lupin the Third: Jigen Daisuke no Bohyou",
-    "Lupin the Third: Jigen's Gravestone",
-    "Lupin the Third: Jigen`s Gravestone",
-    "Lupin the Third: Jigen’s Gravestone",
-    "鲁邦三世 次元大介的墓标"
-  ]
-}
+  {
+    "title": "イナズマイレブン 超次元ドリームマッチ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "闪电十一人 超次元梦幻比赛"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/inazumago/best_eleven/",
+    "begin": "2014-06-13T16:00:00.000Z",
+    "end": "2014-06-13T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "50AsqhJ46CaJB28",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "103890"
+      },
+      {
+        "site": "anidb",
+        "id": "6143"
+      },
+      {
+        "site": "anidb",
+        "id": "8381"
+      },
+      {
+        "site": "anilist",
+        "id": "5231"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven-ares-no-tenbin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven-go"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven-go-chrono-stone"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven-go-galaxy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven-go-kyuukyoku-no-kizuna-gryphon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven-outer-code"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven-saikyou-gundan-ogre-shuurai"
+      },
+      {
+        "site": "anisearch",
+        "id": "5069"
+      },
+      {
+        "site": "anisearch",
+        "id": "7041"
+      },
+      {
+        "site": "anisearch",
+        "id": "8452"
+      },
+      {
+        "site": "kitsu",
+        "id": "4000"
+      },
+      {
+        "site": "livechart",
+        "id": "1112"
+      },
+      {
+        "site": "livechart",
+        "id": "1532"
+      },
+      {
+        "site": "livechart",
+        "id": "2264"
+      },
+      {
+        "site": "livechart",
+        "id": "2392"
+      },
+      {
+        "site": "livechart",
+        "id": "3483"
+      },
+      {
+        "site": "livechart",
+        "id": "4070"
+      },
+      {
+        "site": "livechart",
+        "id": "5271"
+      },
+      {
+        "site": "livechart",
+        "id": "5663"
+      },
+      {
+        "site": "livechart",
+        "id": "5852"
+      },
+      {
+        "site": "livechart",
+        "id": "5897"
+      },
+      {
+        "site": "livechart",
+        "id": "5908"
+      },
+      {
+        "site": "livechart",
+        "id": "820"
+      },
+      {
+        "site": "livechart",
+        "id": "8715"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5231"
+      },
+      {
+        "site": "notify",
+        "id": "d-mj5FmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2014,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/62875.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/62875t.jpg",
+    "synonyms": [
+      "Inazuma Eleven: Choujigen Dream Match",
+      "Inazuma Eleven: Chō Jigen Dream Match",
+      "イナズマイレブン 超次元ドリームマッチ",
+      "イナズマイレブン超次元ドリームマッチ",
+      "ナズマイレブン超次元ドリームマッチ"
+    ]
+  },
+  {
+    "title": "あぐかる PLAY WITH IBARAKI編",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://puyukai.com/agukaru/",
+    "begin": "2014-06-06T16:00:00.000Z",
+    "end": "2015-03-28T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "238437"
+      },
+      {
+        "site": "nicovideo",
+        "id": "agukaru",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "7944"
+      },
+      {
+        "site": "anilist",
+        "id": "9689"
+      },
+      {
+        "site": "anime-planet",
+        "id": "agukaru-agriculture-angel-baraki"
+      },
+      {
+        "site": "anisearch",
+        "id": "11193"
+      },
+      {
+        "site": "anisearch",
+        "id": "6502"
+      },
+      {
+        "site": "kitsu",
+        "id": "10885"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30732"
+      },
+      {
+        "site": "notify",
+        "id": "klT_pKmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2014,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 20,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/64027.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/64027t.jpg",
+    "synonyms": [
+      "Agriculture Angel BARAKI: Play with Ibaraki",
+      "Agriculture Angel Baraki: Play with Ibaraki",
+      "Agukaru: Agriculture Angel Baraki - Play with Ibaraki Hen",
+      "Agukaru: Agriculture Angel Baraki - Play with Ibaraki-hen",
+      "Agukaru: PLAY WITH IBARAKI-hen",
+      "あぐかる Agriculture Angel BARAKI PLAY WITH IBARAKI編",
+      "あぐかる Agriculture Angel Baraki Play with Ibaraki編",
+      "あぐかる PLAY WITH IBARAKI編"
+    ]
+  },
+  {
+    "title": "ねむれ思い子 空のしとねに",
+    "titleTranslate": {
+      "zh-Hans": [
+        "记忆沉睡的孩子 奔向天空的摇篮"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.hand-to-mouse.jp/shitone/index.html",
+    "begin": "2014-06-27T16:00:00.000Z",
+    "end": "2014-06-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "184408"
+      },
+      {
+        "site": "bilibili",
+        "id": "5263",
+        "begin": "2016-08-05T16:00:00.000Z",
+        "broadcast": "R/2016-07-20T08:50:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2014,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/82924.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/82924t.jpg",
+    "synonyms": [
+      "Cradled in the Sky",
+      "Nemure Omoi Ko Sora no Shitone ni",
+      "Nemure Omoi Ko, Sora no Shitone ni",
+      "Rest Tight My Newborn, Cradled in the Sky",
+      "Sleep Tight My Baby",
+      "Sleep Tight My Baby, Cradled in the Sky",
+      "Sleep tight my baby",
+      "Sleep tight my baby, cradled in the sky",
+      "ねむれ思い子 空のしとねに"
+    ]
+  },
+  {
+    "title": "LUPIN THE IIIRD 次元大介の墓標",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世 次元大介的墓标"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://jigen-movie.com",
+    "begin": "2014-06-21T16:00:00.000Z",
+    "end": "2014-06-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "100437"
+      },
+      {
+        "site": "bilibili",
+        "id": "19724023",
+        "begin": "2014-06-20T16:00:00.000Z",
+        "broadcast": "R/2019-03-05T06:06:15.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "12398"
+      },
+      {
+        "site": "anidb",
+        "id": "9031"
+      },
+      {
+        "site": "anilist",
+        "id": "13203"
+      },
+      {
+        "site": "anilist",
+        "id": "1412"
+      },
+      {
+        "site": "anilist",
+        "id": "97619"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-iii-special-19-the-elusiveness-of-the-fog"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-dead-or-alive"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-dragon-of-doom"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-farewall-to-nostradamus"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-fujikos-lie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-goemons-blood-spray"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-green-vs-red"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-legend-of-the-gold-of-babylon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-lupin-family-all-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-4"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-pilot-film"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-return-of-pycal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-secret-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-1-bye-bye-lady-liberty"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-11-the-columbus-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-12-missed-by-a-dollar"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-13-alcatraz-connection"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-14-episode-0-first-contact"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-15-operation-return-the-treasures"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-16-stolen-lupin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-17-angel-tactics"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-18-seven-days-rhapsody"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-2-the-hemingway-papers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-20-sweet-lost-night"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-22-the-last-job"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-23-blood-seal-of-the-eternal-mermaid"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-24-touhou-kenbunroku-another-page"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-25-princess-of-the-breeze-kakusareta-kuuchuu-toshi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-26-italian-game"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-3-napoleons-dictionary"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-4-from-siberia-with-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-5-voyage-to-danger"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-8-secret-of-the-twilight-gemini"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-9-island-of-assassins"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-speical-10-crisis-in-tokyo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-castle-of-cagliostro"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-first"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-fuma-conspiracy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-mystery-of-mamo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-woman-called-fujiko-mine"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-pursuit-of-harimaos-treasure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-viii-arsene-and-cie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "monkey-majik-lupin-the-third"
+      },
+      {
+        "site": "anisearch",
+        "id": "7647"
+      },
+      {
+        "site": "kitsu",
+        "id": "12530"
+      },
+      {
+        "site": "kitsu",
+        "id": "6910"
+      },
+      {
+        "site": "myanimelist",
+        "id": "13203"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34021"
+      },
+      {
+        "site": "notify",
+        "id": "LO9zhKiig"
+      },
+      {
+        "site": "notify",
+        "id": "PTNvtFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2014,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/69457.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/69457t.jpg",
+    "synonyms": [
+      "LUPIN THE IIIRD 次元大介の墓標",
+      "LUPIN THE IIIRD: Jigen Daisuke no Bohyou",
+      "Lupin 3: Jigen Daisuke",
+      "Lupin III : Le Tombeau de Daisuke Jigen",
+      "Lupin III der Film: Daisuke Jigens Grabstein",
+      "Lupin III le Film: Le tombeau de Daisuke Jigen",
+      "Lupin III.: Daisuke Jigens Grabstein",
+      "Lupin III: Jigen Daisuke no Bohyou",
+      "Lupin III: Jigen's Gravestone",
+      "Lupin III: La lapide di Jigen Daisuke",
+      "Lupin III: La tomba di Jigen Daisuke",
+      "Lupin Sansei: Jigen Daisuke no Bohyou",
+      "Lupin the 3rd: Jigen's Grave Marker",
+      "Lupin the 3rd: Jigen’s Grave Marker",
+      "Lupin the IIIrd - La lapide di Jigen Daisuke",
+      "Lupin the IIIrd 次元大介の墓標",
+      "Lupin the IIIrd: Daisuke Jigen's Gravestone",
+      "Lupin the IIIrd: Daisuke Jigen`s Gravestone",
+      "Lupin the IIIrd: Daisuke Jigen’s Gravestone",
+      "Lupin the IIIrd: Jigen Daisuke no Bohyō",
+      "Lupin the IIIrd: Jigen's Gravestone",
+      "Lupin the Third: Daisuke Jigen's Gravestone",
+      "Lupin the Third: Jigen Daisuke no Bohyou",
+      "Lupin the Third: Jigen's Gravestone",
+      "Lupin the Third: Jigen`s Gravestone",
+      "Lupin the Third: Jigen’s Gravestone",
+      "鲁邦三世 次元大介的墓标"
+    ]
+  }
+]

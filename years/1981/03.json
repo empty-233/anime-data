@@ -1,159 +1,1662 @@
-{
-  "title": "ユニコ",
-  "titleTranslate": {
-    "zh-Hans": [
-      "小白角"
+[
+  {
+    "title": "機動戦士ガンダム",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达 剧场版Ⅰ"
+      ],
+      "zh-Hant": [
+        "機動戰士高達 1：劇場版"
+      ],
+      "en": [
+        "Mobile Suit Gundam I"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1981-03-14T16:00:00.000Z",
+    "end": "1981-03-14T18:15:00.000Z",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "y/y6cv70z00o6a8m2",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "38435"
+      },
+      {
+        "site": "netflix",
+        "id": "70014611",
+        "begin": "2021-06-16T16:00:00.000Z",
+        "broadcast": "R/2021-06-16T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "10708"
+      },
+      {
+        "site": "anidb",
+        "id": "11199"
+      },
+      {
+        "site": "anidb",
+        "id": "11207"
+      },
+      {
+        "site": "anidb",
+        "id": "1125"
+      },
+      {
+        "site": "anidb",
+        "id": "11372"
+      },
+      {
+        "site": "anidb",
+        "id": "11740"
+      },
+      {
+        "site": "anidb",
+        "id": "13774"
+      },
+      {
+        "site": "anidb",
+        "id": "14497"
+      },
+      {
+        "site": "anidb",
+        "id": "14812"
+      },
+      {
+        "site": "anidb",
+        "id": "15346"
+      },
+      {
+        "site": "anidb",
+        "id": "15506"
+      },
+      {
+        "site": "anidb",
+        "id": "16384"
+      },
+      {
+        "site": "anidb",
+        "id": "16700"
+      },
+      {
+        "site": "anidb",
+        "id": "16702"
+      },
+      {
+        "site": "anidb",
+        "id": "18096"
+      },
+      {
+        "site": "anidb",
+        "id": "2144"
+      },
+      {
+        "site": "anidb",
+        "id": "217"
+      },
+      {
+        "site": "anidb",
+        "id": "229"
+      },
+      {
+        "site": "anidb",
+        "id": "252"
+      },
+      {
+        "site": "anidb",
+        "id": "4166"
+      },
+      {
+        "site": "anidb",
+        "id": "4167"
+      },
+      {
+        "site": "anidb",
+        "id": "4741"
+      },
+      {
+        "site": "anidb",
+        "id": "5252"
+      },
+      {
+        "site": "anidb",
+        "id": "596"
+      },
+      {
+        "site": "anidb",
+        "id": "716"
+      },
+      {
+        "site": "anidb",
+        "id": "717"
+      },
+      {
+        "site": "anidb",
+        "id": "729"
+      },
+      {
+        "site": "anidb",
+        "id": "7454"
+      },
+      {
+        "site": "anidb",
+        "id": "7466"
+      },
+      {
+        "site": "anidb",
+        "id": "755"
+      },
+      {
+        "site": "anidb",
+        "id": "7670"
+      },
+      {
+        "site": "anidb",
+        "id": "8423"
+      },
+      {
+        "site": "anidb",
+        "id": "8494"
+      },
+      {
+        "site": "anidb",
+        "id": "8517"
+      },
+      {
+        "site": "anidb",
+        "id": "9038"
+      },
+      {
+        "site": "anidb",
+        "id": "915"
+      },
+      {
+        "site": "anidb",
+        "id": "916"
+      },
+      {
+        "site": "anidb",
+        "id": "9723"
+      },
+      {
+        "site": "anidb",
+        "id": "9778"
+      },
+      {
+        "site": "anidb",
+        "id": "9960"
+      },
+      {
+        "site": "anilist",
+        "id": "108039"
+      },
+      {
+        "site": "anilist",
+        "id": "108041"
+      },
+      {
+        "site": "anilist",
+        "id": "10808"
+      },
+      {
+        "site": "anilist",
+        "id": "1090"
+      },
+      {
+        "site": "anilist",
+        "id": "1091"
+      },
+      {
+        "site": "anilist",
+        "id": "1092"
+      },
+      {
+        "site": "anilist",
+        "id": "10937"
+      },
+      {
+        "site": "anilist",
+        "id": "110419"
+      },
+      {
+        "site": "anilist",
+        "id": "112450"
+      },
+      {
+        "site": "anilist",
+        "id": "113138"
+      },
+      {
+        "site": "anilist",
+        "id": "114841"
+      },
+      {
+        "site": "anilist",
+        "id": "135645"
+      },
+      {
+        "site": "anilist",
+        "id": "139273"
+      },
+      {
+        "site": "anilist",
+        "id": "139274"
+      },
+      {
+        "site": "anilist",
+        "id": "14007"
+      },
+      {
+        "site": "anilist",
+        "id": "166703"
+      },
+      {
+        "site": "anilist",
+        "id": "18449"
+      },
+      {
+        "site": "anilist",
+        "id": "1917"
+      },
+      {
+        "site": "anilist",
+        "id": "19319"
+      },
+      {
+        "site": "anilist",
+        "id": "1967"
+      },
+      {
+        "site": "anilist",
+        "id": "19977"
+      },
+      {
+        "site": "anilist",
+        "id": "20355"
+      },
+      {
+        "site": "anilist",
+        "id": "20477"
+      },
+      {
+        "site": "anilist",
+        "id": "20658"
+      },
+      {
+        "site": "anilist",
+        "id": "20756"
+      },
+      {
+        "site": "anilist",
+        "id": "20947"
+      },
+      {
+        "site": "anilist",
+        "id": "21268"
+      },
+      {
+        "site": "anilist",
+        "id": "21458"
+      },
+      {
+        "site": "anilist",
+        "id": "21893"
+      },
+      {
+        "site": "anilist",
+        "id": "2302"
+      },
+      {
+        "site": "anilist",
+        "id": "2391"
+      },
+      {
+        "site": "anilist",
+        "id": "2581"
+      },
+      {
+        "site": "anilist",
+        "id": "3288"
+      },
+      {
+        "site": "anilist",
+        "id": "4540"
+      },
+      {
+        "site": "anilist",
+        "id": "5270"
+      },
+      {
+        "site": "anilist",
+        "id": "7060"
+      },
+      {
+        "site": "anilist",
+        "id": "7113"
+      },
+      {
+        "site": "anilist",
+        "id": "81"
+      },
+      {
+        "site": "anilist",
+        "id": "82"
+      },
+      {
+        "site": "anilist",
+        "id": "8287"
+      },
+      {
+        "site": "anilist",
+        "id": "84"
+      },
+      {
+        "site": "anilist",
+        "id": "85"
+      },
+      {
+        "site": "anilist",
+        "id": "90"
+      },
+      {
+        "site": "anilist",
+        "id": "9040"
+      },
+      {
+        "site": "anilist",
+        "id": "92"
+      },
+      {
+        "site": "anilist",
+        "id": "93"
+      },
+      {
+        "site": "anilist",
+        "id": "95"
+      },
+      {
+        "site": "anilist",
+        "id": "96"
+      },
+      {
+        "site": "anime-planet",
+        "id": "30th-gundam-perfect-mission"
+      },
+      {
+        "site": "anime-planet",
+        "id": "after-war-gundam-x"
+      },
+      {
+        "site": "anime-planet",
+        "id": "all-that-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "chou-denei-ban-sd-gundam-sangokuden-brave-battle-warriors"
+      },
+      {
+        "site": "anime-planet",
+        "id": "collection-of-key-animation-films"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gundam-breaker-battlogue"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gundam-build-divers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gundam-build-fighters"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gundam-build-metaverse"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gundam-mission-to-the-rise"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gundam-vs-hello-kitty"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-fighter-g-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-00"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-0080-war-in-the-pocket"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-0083-stardust-memory"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-age"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-akai-shouzou-char-soshite-frontal-e"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-battlefield-record-avant-title"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-chars-counterattack"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-cucuruz-doans-island"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-evolve"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-f91"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-g40"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-hathaways-flash-i"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-hikaru-inochi-chronicle-uc"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-i"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-ii-soldiers-of-sorrow"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-iii-encounters-in-space"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-iron-blooded-orphans"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-more-information-on-the-universal-century"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-ms-igloo-2-juuryoku-sensen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-ms-igloo-apocalypse-0079"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-ms-igloo-the-hidden-one-year-war"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-narrative"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-san"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-seed"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-seed-destiny"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-the-08th-ms-team"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-the-origin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-the-witch-from-mercury"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-thunderbolt"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-thunderbolt-2nd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-twilight-axis"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-unicorn"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-wing"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-zz"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-sd-gundam-mk-i"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-victory-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-zeta-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ring-of-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-impression-of-first-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "turn-a-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zeonic-front-mobile-suit-gundam-0079-indignation-of-zeon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zeonic-toyota-special-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "10060"
+      },
+      {
+        "site": "anisearch",
+        "id": "10546"
+      },
+      {
+        "site": "anisearch",
+        "id": "10601"
+      },
+      {
+        "site": "anisearch",
+        "id": "10672"
+      },
+      {
+        "site": "anisearch",
+        "id": "10932"
+      },
+      {
+        "site": "anisearch",
+        "id": "14332"
+      },
+      {
+        "site": "anisearch",
+        "id": "1440"
+      },
+      {
+        "site": "anisearch",
+        "id": "14870"
+      },
+      {
+        "site": "anisearch",
+        "id": "1515"
+      },
+      {
+        "site": "anisearch",
+        "id": "1657"
+      },
+      {
+        "site": "anisearch",
+        "id": "16601"
+      },
+      {
+        "site": "anisearch",
+        "id": "174"
+      },
+      {
+        "site": "anisearch",
+        "id": "18509"
+      },
+      {
+        "site": "anisearch",
+        "id": "2428"
+      },
+      {
+        "site": "anisearch",
+        "id": "2688"
+      },
+      {
+        "site": "anisearch",
+        "id": "2690"
+      },
+      {
+        "site": "anisearch",
+        "id": "3351"
+      },
+      {
+        "site": "anisearch",
+        "id": "4302"
+      },
+      {
+        "site": "anisearch",
+        "id": "5813"
+      },
+      {
+        "site": "anisearch",
+        "id": "5932"
+      },
+      {
+        "site": "anisearch",
+        "id": "6091"
+      },
+      {
+        "site": "anisearch",
+        "id": "647"
+      },
+      {
+        "site": "anisearch",
+        "id": "7175"
+      },
+      {
+        "site": "anisearch",
+        "id": "7192"
+      },
+      {
+        "site": "anisearch",
+        "id": "746"
+      },
+      {
+        "site": "anisearch",
+        "id": "8757"
+      },
+      {
+        "site": "anisearch",
+        "id": "8926"
+      },
+      {
+        "site": "anisearch",
+        "id": "9"
+      },
+      {
+        "site": "anisearch",
+        "id": "9532"
+      },
+      {
+        "site": "anisearch",
+        "id": "9691"
+      },
+      {
+        "site": "kitsu",
+        "id": "11476"
+      },
+      {
+        "site": "kitsu",
+        "id": "1727"
+      },
+      {
+        "site": "kitsu",
+        "id": "3671"
+      },
+      {
+        "site": "kitsu",
+        "id": "45216"
+      },
+      {
+        "site": "kitsu",
+        "id": "4855"
+      },
+      {
+        "site": "kitsu",
+        "id": "60"
+      },
+      {
+        "site": "kitsu",
+        "id": "61"
+      },
+      {
+        "site": "kitsu",
+        "id": "64"
+      },
+      {
+        "site": "kitsu",
+        "id": "6415"
+      },
+      {
+        "site": "kitsu",
+        "id": "975"
+      },
+      {
+        "site": "livechart",
+        "id": "4607"
+      },
+      {
+        "site": "livechart",
+        "id": "4659"
+      },
+      {
+        "site": "livechart",
+        "id": "4683"
+      },
+      {
+        "site": "livechart",
+        "id": "4695"
+      },
+      {
+        "site": "livechart",
+        "id": "4944"
+      },
+      {
+        "site": "livechart",
+        "id": "5926"
+      },
+      {
+        "site": "livechart",
+        "id": "5947"
+      },
+      {
+        "site": "livechart",
+        "id": "6906"
+      },
+      {
+        "site": "livechart",
+        "id": "6987"
+      },
+      {
+        "site": "livechart",
+        "id": "7514"
+      },
+      {
+        "site": "livechart",
+        "id": "7582"
+      },
+      {
+        "site": "livechart",
+        "id": "7662"
+      },
+      {
+        "site": "livechart",
+        "id": "7717"
+      },
+      {
+        "site": "livechart",
+        "id": "7848"
+      },
+      {
+        "site": "livechart",
+        "id": "8121"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10808"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1090"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1091"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1092"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10937"
+      },
+      {
+        "site": "myanimelist",
+        "id": "14007"
+      },
+      {
+        "site": "myanimelist",
+        "id": "18449"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1917"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1939"
+      },
+      {
+        "site": "myanimelist",
+        "id": "19977"
+      },
+      {
+        "site": "myanimelist",
+        "id": "20667"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2302"
+      },
+      {
+        "site": "myanimelist",
+        "id": "23259"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2391"
+      },
+      {
+        "site": "myanimelist",
+        "id": "24371"
+      },
+      {
+        "site": "myanimelist",
+        "id": "24835"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2581"
+      },
+      {
+        "site": "myanimelist",
+        "id": "28149"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31251"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31973"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3288"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39674"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40464"
+      },
+      {
+        "site": "myanimelist",
+        "id": "41063"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4540"
+      },
+      {
+        "site": "myanimelist",
+        "id": "49211"
+      },
+      {
+        "site": "myanimelist",
+        "id": "49827"
+      },
+      {
+        "site": "myanimelist",
+        "id": "49828"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5270"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5723"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7060"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7113"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7953"
+      },
+      {
+        "site": "myanimelist",
+        "id": "81"
+      },
+      {
+        "site": "myanimelist",
+        "id": "82"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8287"
+      },
+      {
+        "site": "myanimelist",
+        "id": "85"
+      },
+      {
+        "site": "myanimelist",
+        "id": "90"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9040"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9170"
+      },
+      {
+        "site": "myanimelist",
+        "id": "92"
+      },
+      {
+        "site": "myanimelist",
+        "id": "93"
+      },
+      {
+        "site": "myanimelist",
+        "id": "95"
+      },
+      {
+        "site": "myanimelist",
+        "id": "96"
+      },
+      {
+        "site": "notify",
+        "id": "-att5Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "12M0tFimg"
+      },
+      {
+        "site": "notify",
+        "id": "7u0RtFimg"
+      },
+      {
+        "site": "notify",
+        "id": "E9fP5Kmig"
+      },
+      {
+        "site": "notify",
+        "id": "EQ2ZpKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "FQnj5Kmig"
+      },
+      {
+        "site": "notify",
+        "id": "GNHs5Fimg"
+      },
+      {
+        "site": "notify",
+        "id": "GRXJ5Kiig"
+      },
+      {
+        "site": "notify",
+        "id": "Mp2PcKimg"
+      },
+      {
+        "site": "notify",
+        "id": "NVtp5KmmR"
+      },
+      {
+        "site": "notify",
+        "id": "NXqJpFiig"
+      },
+      {
+        "site": "notify",
+        "id": "Np3ucKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "PFhp5Kimg"
+      },
+      {
+        "site": "notify",
+        "id": "P_iYcFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "Qt_4tKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "R2XupKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "SPl1cKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "SchRtFimR"
+      },
+      {
+        "site": "notify",
+        "id": "XMopcFimg"
+      },
+      {
+        "site": "notify",
+        "id": "b38ApKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "bXl15Kmmg"
+      },
+      {
+        "site": "notify",
+        "id": "bog1pKimg"
+      },
+      {
+        "site": "notify",
+        "id": "dFot5Fmig"
+      },
+      {
+        "site": "notify",
+        "id": "dkDmYca7g"
+      },
+      {
+        "site": "notify",
+        "id": "dlH2pFmig"
+      },
+      {
+        "site": "notify",
+        "id": "eWhyo-o7g"
+      },
+      {
+        "site": "notify",
+        "id": "fEHjtFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "fYht5Fiig"
+      },
+      {
+        "site": "notify",
+        "id": "fvUPtKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "itEbCB8Wg"
+      },
+      {
+        "site": "notify",
+        "id": "lDA1pFimR"
+      },
+      {
+        "site": "notify",
+        "id": "p7RLcKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "qwhpcKiig"
+      },
+      {
+        "site": "notify",
+        "id": "r_kStKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "ugtpcKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "wS3vtKiig"
+      },
+      {
+        "site": "notify",
+        "id": "xRLWpFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "xbnitFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "zauj5KmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1979,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 43,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/88524.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/88524t.jpg",
+    "synonyms": [
+      "First Gundam",
+      "Gundam",
+      "Kidō Senshi Gundam",
+      "MSG",
+      "MSG: 0079",
+      "Mobile Soldier Gundam",
+      "Mobile Suit Gundam",
+      "Mobile Suit Gundam 0079",
+      "Mobile Suit Gundam: 0079",
+      "Mobile Suit Gundam: Il ritorno di Gundam",
+      "gundam 79",
+      "gundam1",
+      "Ґандам",
+      "החליפה המונעת גאנדם",
+      "きどうせんしがんだむ",
+      "机动战士高达",
+      "机动战士高达u.c 0079",
+      "機動戦士ガンダム",
+      "機動戰士高達",
+      "기동전사 건담"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "http://www.tms-e.com/library/old/tv/data/t_spank.html",
-  "begin": "1981-03-12T16:00:00.000Z",
-  "end": "1981-03-12T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "32489"
+  {
+    "title": "ドラえもん のび太の宇宙開拓史",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：大雄的宇宙开拓史"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "5598",
-      "begin": "2016-10-17T05:30:33.000Z",
-      "broadcast": "R/2016-10-17T05:30:33.000Z/P7D"
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1981-03-16T16:00:00.000Z",
+    "end": "1981-03-16T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "80790",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "436"
+      },
+      {
+        "site": "qq",
+        "id": "z/z8alyhrvkd3jp2y",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2550",
+        "begin": "1981-03-13T16:00:00.000Z",
+        "broadcast": "R/2015-02-13T08:01:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1078"
+      },
+      {
+        "site": "anidb",
+        "id": "6383"
+      },
+      {
+        "site": "anilist",
+        "id": "2471"
+      },
+      {
+        "site": "anilist",
+        "id": "6930"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-1979"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back-1998"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-29-shin-nobita-no-uchuu-kaitakushi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-nobita-no-shin-kyouryuu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-doraemons-strange-sweets-strange"
+      },
+      {
+        "site": "anisearch",
+        "id": "4996"
+      },
+      {
+        "site": "anisearch",
+        "id": "540"
+      },
+      {
+        "site": "kitsu",
+        "id": "460"
+      },
+      {
+        "site": "kitsu",
+        "id": "4790"
+      },
+      {
+        "site": "livechart",
+        "id": "12164"
+      },
+      {
+        "site": "livechart",
+        "id": "5614"
+      },
+      {
+        "site": "livechart",
+        "id": "6575"
+      },
+      {
+        "site": "livechart",
+        "id": "6880"
+      },
+      {
+        "site": "livechart",
+        "id": "7693"
+      },
+      {
+        "site": "livechart",
+        "id": "8740"
+      },
+      {
+        "site": "livechart",
+        "id": "8868"
+      },
+      {
+        "site": "livechart",
+        "id": "8871"
+      },
+      {
+        "site": "livechart",
+        "id": "8877"
+      },
+      {
+        "site": "livechart",
+        "id": "8878"
+      },
+      {
+        "site": "livechart",
+        "id": "8884"
+      },
+      {
+        "site": "livechart",
+        "id": "8900"
+      },
+      {
+        "site": "livechart",
+        "id": "8901"
+      },
+      {
+        "site": "livechart",
+        "id": "8902"
+      },
+      {
+        "site": "livechart",
+        "id": "8998"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2471"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6930"
+      },
+      {
+        "site": "notify",
+        "id": "BRto5KimR"
+      },
+      {
+        "site": "notify",
+        "id": "nrGRpKmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1981,
+      "month": "03"
     },
-    {
-      "site": "anidb",
-      "id": "1361"
-    },
-    {
-      "site": "anidb",
-      "id": "1379"
-    },
-    {
-      "site": "anidb",
-      "id": "6396"
-    },
-    {
-      "site": "anidb",
-      "id": "7876"
-    },
-    {
-      "site": "anidb",
-      "id": "8488"
-    },
-    {
-      "site": "anidb",
-      "id": "9448"
-    },
-    {
-      "site": "anilist",
-      "id": "2213"
-    },
-    {
-      "site": "anilist",
-      "id": "2428"
-    },
-    {
-      "site": "anilist",
-      "id": "2429"
-    },
-    {
-      "site": "anime-planet",
-      "id": "saving-our-fragile-earth-unico-special-chapter"
-    },
-    {
-      "site": "anime-planet",
-      "id": "unico-in-the-island-of-magic"
-    },
-    {
-      "site": "anime-planet",
-      "id": "unico-kuroi-kumo-to-shiroi-hane"
-    },
-    {
-      "site": "anisearch",
-      "id": "3403"
-    },
-    {
-      "site": "anisearch",
-      "id": "7171"
-    },
-    {
-      "site": "anisearch",
-      "id": "779"
-    },
-    {
-      "site": "anisearch",
-      "id": "8116"
-    },
-    {
-      "site": "kitsu",
-      "id": "2202"
-    },
-    {
-      "site": "kitsu",
-      "id": "2203"
-    },
-    {
-      "site": "kitsu",
-      "id": "8988"
-    },
-    {
-      "site": "livechart",
-      "id": "6924"
-    },
-    {
-      "site": "livechart",
-      "id": "8137"
-    },
-    {
-      "site": "myanimelist",
-      "id": "23661"
-    },
-    {
-      "site": "myanimelist",
-      "id": "2428"
-    },
-    {
-      "site": "myanimelist",
-      "id": "2429"
-    },
-    {
-      "site": "notify",
-      "id": "DjUE5KmiR"
-    },
-    {
-      "site": "notify",
-      "id": "VzwPcFiig"
-    },
-    {
-      "site": "notify",
-      "id": "Z1wxpFmmR"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 1981,
-    "month": "03"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/72406.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/72406t.jpg",
+    "synonyms": [
+      "Doraemon Movie 2",
+      "Doraemon Movie 2: Nobita no Uchuu Kaitakushi",
+      "Doraemon Película 2: Doraemon The Space Hero",
+      "Doraemon The Space Hero",
+      "Doraemon esplora lo spazio",
+      "Doraemon the Movie: The Records of Nobita",
+      "Doraemon the Movie: The Records of Nobita, Spaceblazer",
+      "Doraemon: Nobita No Uchukaitakush",
+      "Doraemon: Nobita no Uchuu Kaitakushi",
+      "Doraemon: Nobita no Uchū Kaitakushi",
+      "Doraemon: Nobita's Space Story",
+      "Doraemon: The Records of Nobita",
+      "Doraemon: The Records of Nobita, Spaceblazer",
+      "Doraemon: The Space Hero",
+      "Nobita the Space Colonist",
+      "Nobita's How the Space Was Won",
+      "Spaceblazer",
+      "のび太の宇宙開拓史",
+      "ドラえもん のび太の宇宙開拓史",
+      "映画 ドラえもん のび太の宇宙開拓史"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1601/112164.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1601/112164t.jpg",
-  "synonyms": [
-    "A kis egyszarvú",
-    "Fantastic Adventures of Unico",
-    "Le fantastiche avventure di Unico",
-    "The Fantastic Adventures Of Unico",
-    "The Fantastic Adventures of Unico",
-    "The Fantastic Adventures of Unico 1",
-    "Unico - Das Hörnchen",
-    "Unico Movie 1",
-    "Unico il piccolo unicorno",
-    "Unico. El Pequeño Unicornio",
-    "Unico: Das phantastische Abenteuer eines Hörnchens",
-    "Unico: El Pequeño Unicornio",
-    "Юнико",
-    "ユニコ",
-    "小白角"
-  ]
-}
+  {
+    "title": "黄金戦士ゴールドライタン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "黄金战士Gold Lightan"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tatsunoko.co.jp/works_animation/archive/goldlightan.html",
+    "begin": "1981-03-01T14:00:00.000Z",
+    "end": "1982-02-18T14:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37235"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1981,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 52,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/60089.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/60089t.jpg",
+    "synonyms": [
+      "Gold Lightan",
+      "Gold Lightan - Golden Warrior",
+      "Gold Lightan Golden Warrior",
+      "Gold Lightan: Golden Warrior",
+      "Golden Warrior - The Gold Lightan",
+      "Golden Warrior Gold Lightan",
+      "Golden Warrior: The Gold Lightan",
+      "Ougon Senshi Gold Lightan (黄金戦士ゴールドライタン)",
+      "Ougon Senshi Gold Raitan",
+      "Златният боец",
+      "البطل الذهبي",
+      "ゴールドライタン",
+      "黄金戦士ゴールドライタン",
+      "黄金戦士ゴールド・ライタン"
+    ]
+  },
+  {
+    "title": "おはよう！スパンク",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tms-e.com/library/old/tv/data/t_spank.html",
+    "begin": "1981-03-07T22:30:00.000Z",
+    "end": "1982-03-29T23:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "213663"
+      },
+      {
+        "site": "anidb",
+        "id": "7615"
+      },
+      {
+        "site": "anilist",
+        "id": "19897"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ohayo-spank-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "4230"
+      },
+      {
+        "site": "kitsu",
+        "id": "9504"
+      },
+      {
+        "site": "myanimelist",
+        "id": "19897"
+      },
+      {
+        "site": "notify",
+        "id": "HQ8BtFmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1981,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 63,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/17542.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/17542t.jpg",
+    "synonyms": [
+      "Claire et Tipoune",
+      "Hallo Kurt",
+      "Hallo Kurt!",
+      "Hello Spank!",
+      "Hello! Spank",
+      "Hello! Spank (1981)",
+      "Les Aventures de Claire et Tipoune",
+      "Les aventures de Claire et Tipoune",
+      "Ohayo! Spank",
+      "Ohayō! Spank",
+      "Ola",
+      "Spanky",
+      "Spanky!",
+      "مغامرات سبانك",
+      "おはよう! スパンク",
+      "おはようすぱんく",
+      "おはよう！スパンク",
+      "小狗亚斑"
+    ]
+  },
+  {
+    "title": "ユニコ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小白角"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.tms-e.com/library/old/tv/data/t_spank.html",
+    "begin": "1981-03-12T16:00:00.000Z",
+    "end": "1981-03-12T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "32489"
+      },
+      {
+        "site": "bilibili",
+        "id": "5598",
+        "begin": "2016-10-17T05:30:33.000Z",
+        "broadcast": "R/2016-10-17T05:30:33.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1361"
+      },
+      {
+        "site": "anidb",
+        "id": "1379"
+      },
+      {
+        "site": "anidb",
+        "id": "6396"
+      },
+      {
+        "site": "anidb",
+        "id": "7876"
+      },
+      {
+        "site": "anidb",
+        "id": "8488"
+      },
+      {
+        "site": "anidb",
+        "id": "9448"
+      },
+      {
+        "site": "anilist",
+        "id": "2213"
+      },
+      {
+        "site": "anilist",
+        "id": "2428"
+      },
+      {
+        "site": "anilist",
+        "id": "2429"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saving-our-fragile-earth-unico-special-chapter"
+      },
+      {
+        "site": "anime-planet",
+        "id": "unico-in-the-island-of-magic"
+      },
+      {
+        "site": "anime-planet",
+        "id": "unico-kuroi-kumo-to-shiroi-hane"
+      },
+      {
+        "site": "anisearch",
+        "id": "3403"
+      },
+      {
+        "site": "anisearch",
+        "id": "7171"
+      },
+      {
+        "site": "anisearch",
+        "id": "779"
+      },
+      {
+        "site": "anisearch",
+        "id": "8116"
+      },
+      {
+        "site": "kitsu",
+        "id": "2202"
+      },
+      {
+        "site": "kitsu",
+        "id": "2203"
+      },
+      {
+        "site": "kitsu",
+        "id": "8988"
+      },
+      {
+        "site": "livechart",
+        "id": "6924"
+      },
+      {
+        "site": "livechart",
+        "id": "8137"
+      },
+      {
+        "site": "myanimelist",
+        "id": "23661"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2428"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2429"
+      },
+      {
+        "site": "notify",
+        "id": "DjUE5KmiR"
+      },
+      {
+        "site": "notify",
+        "id": "VzwPcFiig"
+      },
+      {
+        "site": "notify",
+        "id": "Z1wxpFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1981,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1601/112164.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1601/112164t.jpg",
+    "synonyms": [
+      "A kis egyszarvú",
+      "Fantastic Adventures of Unico",
+      "Le fantastiche avventure di Unico",
+      "The Fantastic Adventures Of Unico",
+      "The Fantastic Adventures of Unico",
+      "The Fantastic Adventures of Unico 1",
+      "Unico - Das Hörnchen",
+      "Unico Movie 1",
+      "Unico il piccolo unicorno",
+      "Unico. El Pequeño Unicornio",
+      "Unico: Das phantastische Abenteuer eines Hörnchens",
+      "Unico: El Pequeño Unicornio",
+      "Юнико",
+      "ユニコ",
+      "小白角"
+    ]
+  }
+]

@@ -1,97 +1,1076 @@
-{
-  "title": "劇場版 艦これ",
-  "titleTranslate": {
-    "zh-Hans": [
-      "舰队Collection 剧场版",
-      "舰队收藏 剧场版"
+[
+  {
+    "title": "ポケットモンスター サン＆ムーン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦 太阳&月亮"
+      ],
+      "zh-Hant": [
+        "寶可夢 太陽＆月亮"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/pokemon_sunmoon/",
+    "begin": "2016-11-17T10:55:00.000Z",
+    "end": "2019-11-03T09:30:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10032274",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "192680"
+      },
+      {
+        "site": "mgtv",
+        "id": "321993",
+        "begin": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2018/jlbkmtyyl",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "8/8rbtcil5a2heb7d",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgzmpot",
+        "begin": "2018-04-30T16:01:59.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "a89b558cb12211e6bdbb",
+        "begin": "2017-03-21T02:17:39.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "5707",
+        "begin": "2016-11-16T16:00:00.000Z",
+        "broadcast": "",
+        "comment": "中配: 75472"
+      },
+      {
+        "site": "gamer",
+        "id": "85168",
+        "begin": "2020-09-10T08:30:00.000Z",
+        "broadcast": "R/2020-09-10T08:30:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "11585"
+      },
+      {
+        "site": "anidb",
+        "id": "13432"
+      },
+      {
+        "site": "anidb",
+        "id": "15067"
+      },
+      {
+        "site": "anilist",
+        "id": "100744"
+      },
+      {
+        "site": "anilist",
+        "id": "112153"
+      },
+      {
+        "site": "anilist",
+        "id": "126908"
+      },
+      {
+        "site": "anilist",
+        "id": "133469"
+      },
+      {
+        "site": "anilist",
+        "id": "21356"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-advanced"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-aim-to-be-a-pokemon-master"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-black-and-white"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-black-and-white-adventures-in-unova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-black-and-white-adventures-in-unova-and-beyond"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-black-and-white-rival-destinies"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-diamond-and-pearl"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-journeys"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-no-heisei-shi-kayou-kara-mokuyou-soshite-nichiyou-e"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-sun-and-moon-planetarium"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-xy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-xy-and-z"
+      },
+      {
+        "site": "anisearch",
+        "id": "10759"
+      },
+      {
+        "site": "anisearch",
+        "id": "13078"
+      },
+      {
+        "site": "anisearch",
+        "id": "14596"
+      },
+      {
+        "site": "kitsu",
+        "id": "11367"
+      },
+      {
+        "site": "kitsu",
+        "id": "12941"
+      },
+      {
+        "site": "kitsu",
+        "id": "42534"
+      },
+      {
+        "site": "livechart",
+        "id": "3702"
+      },
+      {
+        "site": "livechart",
+        "id": "3816"
+      },
+      {
+        "site": "livechart",
+        "id": "3936"
+      },
+      {
+        "site": "livechart",
+        "id": "3979"
+      },
+      {
+        "site": "livechart",
+        "id": "3992"
+      },
+      {
+        "site": "livechart",
+        "id": "4045"
+      },
+      {
+        "site": "livechart",
+        "id": "4148"
+      },
+      {
+        "site": "livechart",
+        "id": "4505"
+      },
+      {
+        "site": "livechart",
+        "id": "5217"
+      },
+      {
+        "site": "livechart",
+        "id": "5359"
+      },
+      {
+        "site": "livechart",
+        "id": "5371"
+      },
+      {
+        "site": "livechart",
+        "id": "5627"
+      },
+      {
+        "site": "livechart",
+        "id": "5641"
+      },
+      {
+        "site": "livechart",
+        "id": "5643"
+      },
+      {
+        "site": "livechart",
+        "id": "8945"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31592"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34540"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35551"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36836"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36927"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37966"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40351"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42139"
+      },
+      {
+        "site": "myanimelist",
+        "id": "50840"
+      },
+      {
+        "site": "notify",
+        "id": "Hh-rtFmig"
+      },
+      {
+        "site": "notify",
+        "id": "pExWhKimg"
+      }
     ],
-    "zh-Hant": [
-      "劇場版 艦隊 Collection"
-    ],
-    "en": [
-      "Fleet Girls Collection Kancolle Movie Sequence"
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2016,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 146,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/84673.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/84673t.jpg",
+    "synonyms": [
+      "PkMn: Sun and Moon (Season 20) / Sonne und Mond (Staffel 20)",
+      "Pocket Monsters Sun & Moon",
+      "Pocket Monsters: Sun & Moon",
+      "Pokemon the Series: Sun & Moon",
+      "Pokemon the Series: Sun & Moon - Ultra Adventures",
+      "Pokemon the Series: Sun & Moon - Ultra Legends",
+      "Pokemon: Sun & Moon",
+      "Pokèmon: Sun & Moon",
+      "Pokémon : Soleil et Lune",
+      "Pokémon Die TV-Serie: Sonne und Mond Staffel 20",
+      "Pokémon La Serie: Soleil et Lune Saison 20",
+      "Pokémon Serie: Sol y Luna Temporada 20",
+      "Pokémon Sole e Luna",
+      "Pokémon Sun & Moon",
+      "Pokémon the Series: Sun & Moon",
+      "Pokémon – Die TV-Serie: Sonne & Mond",
+      "Pokémon – Seria: Słońce i Księżyc",
+      "Pokémon, A Série: Sol & Lua",
+      "Pokémon, la Série : Soleil & Lune",
+      "Pokémon-serien: Sol og Måne",
+      "Pokémon: Die TV-Serie - Sonne & Mond",
+      "Pokémon: Die TV-Serie - Sonne & Mond - Ultra-Abenteuer (Staffel 21)",
+      "Pokémon: Die TV-Serie - Sonne & Mond - Ultra-Legenden (Staffel 22)",
+      "Pokémon: Sol y Luna",
+      "Pokémon: The Series - Sun & Moon",
+      "Pokémon: The TV Series - Sun & Moon - Ultra Adventures (Season 21)",
+      "Pokémon: The TV Series - Sun & Moon - Ultra Legends (Season 22)",
+      "Serie Pokèmon Sole e Luna",
+      "pm s12",
+      "pmsm",
+      "Покемон Сериал: Солнце и Луна",
+      "ポケットモンスター サン&ムーン",
+      "ポケットモンスター サン＆ムーン",
+      "宝可梦 太阳&月亮",
+      "精灵宝可梦 太阳&月亮"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "http://kancolle-anime.jp/",
-  "begin": "2016-11-25T16:00:00.000Z",
-  "end": "2016-11-25T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "143093"
+  {
+    "title": "神々の記",
+    "titleTranslate": {
+      "zh-Hans": [
+        "神明之记",
+        "众神记"
+      ]
     },
-    {
-      "site": "gamer",
-      "id": "78981",
-      "begin": "2020-03-01T04:00:00.000Z",
-      "broadcast": "R/2020-03-01T04:00:00.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://kamigaminoki.com/",
+    "begin": "2016-11-24T16:25:00.000Z",
+    "end": "2017-04-27T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "dculI4vxYZ8CgOg",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "196075"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kamigaminoki",
+        "begin": "2017-01-13T09:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "5909",
+        "begin": "2016-11-23T16:00:01.000Z",
+        "broadcast": "R/2017-02-03T01:47:37.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "119541"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kamigami-no-ki-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "oh-suddenly-egyptian-god"
+      },
+      {
+        "site": "anisearch",
+        "id": "12426"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35007"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2016,
+      "month": "11"
     },
-    {
-      "site": "anidb",
-      "id": "10161"
-    },
-    {
-      "site": "anilist",
-      "id": "20553"
-    },
-    {
-      "site": "anime-planet",
-      "id": "kan-colle-see-you-again-on-another-quiet-blue-sea"
-    },
-    {
-      "site": "anime-planet",
-      "id": "kantai-collection-kan-colle"
-    },
-    {
-      "site": "anisearch",
-      "id": "9021"
-    },
-    {
-      "site": "livechart",
-      "id": "1477"
-    },
-    {
-      "site": "livechart",
-      "id": "252"
-    },
-    {
-      "site": "myanimelist",
-      "id": "21511"
-    },
-    {
-      "site": "notify",
-      "id": "Dnf2tKiig"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 2016,
-    "month": "11"
+    "status": "FINISHED",
+    "episodes": 16,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/82539.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/82539t.jpg",
+    "synonyms": [
+      "Kamigaminoki",
+      "神々の記",
+      "神明之记"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/7/87590.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/7/87590t.jpg",
-  "synonyms": [
-    "Fleet Girls Collection KanColle Movie",
-    "Fleet Girls Collection KanColle Movie Sequence",
-    "Gekijouban KanColle",
-    "Gekijouban Kantai Collection",
-    "Gekijouban Kantai Collection: KanColle",
-    "Gekijōban Kantai Collection: KanColle",
-    "KanColle: The Movie",
-    "KanKore Movie",
-    "Kankore Movie",
-    "Kantai Collection Movie",
-    "Kantai Collection: Kan Colle Movie",
-    "げきじょうばんかんこれ",
-    "劇場版 艦これ",
-    "劇場版 艦隊これくしょん",
-    "劇場版 艦隊これくしょん -艦これ-",
-    "舰队Collection 剧场版",
-    "극장판 칸코레"
-  ]
-}
+  {
+    "title": "アッカァくんのACCA講座",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿卡君的ACCA讲座"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2016-11-11T16:00:00.000Z",
+    "end": "2016-12-21T16:01:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "4FZCwCiaOicjyfHYU",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "211227"
+      },
+      {
+        "site": "anilist",
+        "id": "21823"
+      },
+      {
+        "site": "anisearch",
+        "id": "11482"
+      },
+      {
+        "site": "kitsu",
+        "id": "12202"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33337"
+      },
+      {
+        "site": "notify",
+        "id": "3Ttg2Kmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2016,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 10,
+    "picture": "https://cdn.myanimelist.net/images/anime/1412/135936.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1412/135936t.jpg",
+    "synonyms": [
+      "ACCA: 13-Territory Inspection Dept. Twitter Anime",
+      "Acca-kun no Acca Kouza",
+      "Acca-kun no Acca Kōza",
+      "アッカァくんのACCA講座"
+    ]
+  },
+  {
+    "title": "暗殺教室 第2期 課外授業編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "暗杀教室 第二季 课外授课篇"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2016-04-01T16:30:00.000Z",
+    "end": "2016-11-25T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "NgzoZs40pOJFwys",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "170762"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ansatsu2-kagaijugyo",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "11203"
+      },
+      {
+        "site": "anilist",
+        "id": "21170"
+      },
+      {
+        "site": "anime-planet",
+        "id": "assassination-classroom"
+      },
+      {
+        "site": "anime-planet",
+        "id": "assassination-classroom-2nd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "assassination-classroom-episode-0-meeting-time"
+      },
+      {
+        "site": "anime-planet",
+        "id": "assassination-classroom-jump-festa-2013-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "assassination-classroom-the-movie-365-days-time"
+      },
+      {
+        "site": "anime-planet",
+        "id": "koro-sensei-q"
+      },
+      {
+        "site": "anime-planet",
+        "id": "koro-sensei-quest"
+      },
+      {
+        "site": "anisearch",
+        "id": "10438"
+      },
+      {
+        "site": "kitsu",
+        "id": "10877"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30654"
+      },
+      {
+        "site": "notify",
+        "id": "YFh_tKmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2016,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 8,
+    "picture": "https://cdn.myanimelist.net/images/anime/1807/96939.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1807/96939t.jpg",
+    "synonyms": [
+      "Ansatsu Kyoushitsu (TV) 2: Kagaijugyou-hen",
+      "Ansatsu Kyoushitsu (TV) 2nd Season: Kagaijugyou-hen",
+      "Ansatsu Kyoushitsu 2: Kagaijugyou-hen",
+      "Ansatsu Kyoushitsu 2nd Season: Kagaijugyou-hen",
+      "Ansatsu Kyoushitsu Second Season: Kagaijugyou-hen",
+      "Ansatsu Kyoushitsu: Dai 2 Ki - Kagaijugyou Hen",
+      "Ansatsu Kyoushitsu: Second Season - Kagaijugyou Hen",
+      "Ansatsu Kyōshitsu Second Season: Kagaijugyō-hen",
+      "AssClass: Extracurricular Lesson",
+      "Assassination Classroom 2nd Season: Kagaijugyou-hen",
+      "Assassination Classroom: Extracurricular Lesson",
+      "Assassination Classroom: Lezioni Supplementari",
+      "Assassination Classroom: Second Season - Extra Lesson",
+      "actv2: ona",
+      "assclass2: ona",
+      "Класс убийц 2: Дополнительный урок",
+      "暗殺教室 2 課外授業編",
+      "暗殺教室 ASSASSINATION CLASSROOM SECOND SEASON 課外授業編",
+      "暗殺教室 SECOND SEASON 課外授業編",
+      "暗殺教室 第2期 課外授業編",
+      "暗殺教室　第２期　課外授業編",
+      "暗殺教室　課外授業編"
+    ]
+  },
+  {
+    "title": "きんいろモザイク Pretty Days",
+    "titleTranslate": {
+      "zh-Hans": [
+        "黄金拼图 Pretty Days"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.kinmosa.com/",
+    "begin": "2016-11-12T16:00:00.000Z",
+    "end": "2016-11-12T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "175532"
+      },
+      {
+        "site": "pptv",
+        "id": "t4Fr6VG3J2XIRq4",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "8692",
+        "begin": "2016-11-11T16:00:01.000Z",
+        "broadcast": "R/2017-11-30T03:14:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "10603"
+      },
+      {
+        "site": "anidb",
+        "id": "15450"
+      },
+      {
+        "site": "anilist",
+        "id": "116676"
+      },
+      {
+        "site": "anilist",
+        "id": "20654"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hello-kinmoza"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kinmoza"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kinmoza-movie-thank-you"
+      },
+      {
+        "site": "anisearch",
+        "id": "15395"
+      },
+      {
+        "site": "anisearch",
+        "id": "9614"
+      },
+      {
+        "site": "kitsu",
+        "id": "43107"
+      },
+      {
+        "site": "kitsu",
+        "id": "8431"
+      },
+      {
+        "site": "livechart",
+        "id": "29"
+      },
+      {
+        "site": "livechart",
+        "id": "474"
+      },
+      {
+        "site": "livechart",
+        "id": "9845"
+      },
+      {
+        "site": "myanimelist",
+        "id": "23269"
+      },
+      {
+        "site": "myanimelist",
+        "id": "41471"
+      },
+      {
+        "site": "notify",
+        "id": "JIGs4UZMg"
+      },
+      {
+        "site": "notify",
+        "id": "XadAtKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2016,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/81607.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/81607t.jpg",
+    "synonyms": [
+      "Hello!! Kiniro Mosaic Special",
+      "KINMOZA! Movie 1",
+      "KINMOZA! Pretty Days",
+      "KINMOZA: Pretty Days",
+      "Kin`iro Mosaic: Pretty Days",
+      "Kiniro Mosaic Movie 1",
+      "Kinmoza! Pretty Days",
+      "Kinmoza: Pretty Days",
+      "Kin’iro Mosaic Special Episode",
+      "Kin’iro Mosaic: Pretty Days",
+      "kinmosa ova",
+      "kinmoza ova",
+      "きんいろモザイク Pretty Days",
+      "黃金拼圖 Pretty Days",
+      "黄金拼图 Pretty Days"
+    ]
+  },
+  {
+    "title": "この世界の片隅に",
+    "titleTranslate": {
+      "zh-Hans": [
+        "在这世界的角落"
+      ],
+      "en": [
+        "In This Corner of the World"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.konosekai.jp/",
+    "begin": "2016-11-11T16:00:00.000Z",
+    "end": "2016-11-12T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "54550"
+      },
+      {
+        "site": "netflix",
+        "id": "80192244",
+        "begin": "2018-03-15T07:00:00.000Z",
+        "broadcast": "R/2021-12-30T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "14233"
+      },
+      {
+        "site": "anilist",
+        "id": "112135"
+      },
+      {
+        "site": "anisearch",
+        "id": "13771"
+      },
+      {
+        "site": "livechart",
+        "id": "3429"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2016,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/87704.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/87704t.jpg",
+    "synonyms": [
+      "Dans Un Recoin de Ce Monde",
+      "Dans un recoin de ce monde",
+      "Dünyanın Bu Köşesinde",
+      "En Este Rincón del Mundo",
+      "En este Rincón del Mundo",
+      "En este rincón del mundo",
+      "In Questo Angolo Di Mondo",
+      "In This Corner of the World",
+      "In a Corner of This World",
+      "In questo angolo di mondo",
+      "In this Corner of the World",
+      "To All The Corners of the World",
+      "To All the Corners of the World",
+      "V koutě našeho světa",
+      "konosumi",
+      "Ở một góc nhân gian",
+      "この世界の片隅に",
+      "在这世界的角落"
+    ]
+  },
+  {
+    "title": "天地無用! 魎皇鬼 第四期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天地无用! 魉皇鬼 第4期"
+      ],
+      "zh-Hant": [
+        "天地無用！魎皇鬼 第 4 期"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://tenchimuyo4th.com/",
+    "begin": "2016-11-30T16:00:00.000Z",
+    "end": "2017-08-30T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "157922"
+      },
+      {
+        "site": "youku",
+        "id": "993682dfa0ce11e69e06",
+        "begin": "2016-11-30T15:58:11.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "80136",
+        "begin": "2020-06-11T06:30:00.000Z",
+        "broadcast": "R/2020-06-11T06:30:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "15007"
+      },
+      {
+        "site": "anidb",
+        "id": "2510"
+      },
+      {
+        "site": "anidb",
+        "id": "358"
+      },
+      {
+        "site": "anilist",
+        "id": "165749"
+      },
+      {
+        "site": "anilist",
+        "id": "541"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-muyo-mihoshi-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-muyo-ryo-ohki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-muyo-ryo-ohki-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-muyo-ryo-ohki-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-muyo-ryo-ohki-5"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-muyo-ryo-ohki-final-confrontations"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-muyo-the-night-before-the-carnival"
+      },
+      {
+        "site": "anisearch",
+        "id": "14681"
+      },
+      {
+        "site": "anisearch",
+        "id": "2754"
+      },
+      {
+        "site": "kitsu",
+        "id": "1028"
+      },
+      {
+        "site": "kitsu",
+        "id": "42491"
+      },
+      {
+        "site": "kitsu",
+        "id": "47499"
+      },
+      {
+        "site": "livechart",
+        "id": "3716"
+      },
+      {
+        "site": "livechart",
+        "id": "4231"
+      },
+      {
+        "site": "livechart",
+        "id": "4613"
+      },
+      {
+        "site": "livechart",
+        "id": "4911"
+      },
+      {
+        "site": "livechart",
+        "id": "5004"
+      },
+      {
+        "site": "livechart",
+        "id": "5496"
+      },
+      {
+        "site": "livechart",
+        "id": "5631"
+      },
+      {
+        "site": "livechart",
+        "id": "5664"
+      },
+      {
+        "site": "livechart",
+        "id": "5716"
+      },
+      {
+        "site": "livechart",
+        "id": "5721"
+      },
+      {
+        "site": "livechart",
+        "id": "6254"
+      },
+      {
+        "site": "livechart",
+        "id": "6460"
+      },
+      {
+        "site": "livechart",
+        "id": "6564"
+      },
+      {
+        "site": "livechart",
+        "id": "6698"
+      },
+      {
+        "site": "livechart",
+        "id": "7727"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1147"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40097"
+      },
+      {
+        "site": "notify",
+        "id": "5Jmx5Kiig"
+      },
+      {
+        "site": "notify",
+        "id": "uO7O9EQZg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2016,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/1068/133804.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1068/133804t.jpg",
+    "synonyms": [
+      "Tenchi Muyo! Ryo-Ohki (2016)",
+      "Tenchi Muyo! Ryo-Ohki (Saison 4)",
+      "Tenchi Muyo! Ryo-Ohki 4",
+      "Tenchi Muyo! Ryo-Ohki 4th Season",
+      "Tenchi Muyo! Ryo-Ohki Saison 4",
+      "Tenchi Muyo! Ryo-Ohki Season 4",
+      "Tenchi Muyo! Ryo-Ohki Staffel 4",
+      "Tenchi Muyo! Ryo-Ohki Temporada 4",
+      "Tenchi Muyou! Ryo-Ohki 4",
+      "Tenchi Muyou! Ryououki Dai 4-ki",
+      "Tenchi Muyou! Ryououki Dai Yon-ki",
+      "Tenchi Muyō! Ryōōki Dai Yon-ki",
+      "tenchi ova 4",
+      "Тэнти - лишний! Рёоки 4 сезон",
+      "天地无用! 魉皇鬼 第4期",
+      "天地無用! 魎皇鬼 第4期",
+      "天地無用! 魎皇鬼 第四期",
+      "天地無用！ 魎皇鬼 第四期",
+      "天地無用！魎皇鬼 第四期",
+      "天地無用！魎皇鬼　第四期"
+    ]
+  },
+  {
+    "title": "劇場版 艦これ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "舰队Collection 剧场版",
+        "舰队收藏 剧场版"
+      ],
+      "zh-Hant": [
+        "劇場版 艦隊 Collection"
+      ],
+      "en": [
+        "Fleet Girls Collection Kancolle Movie Sequence"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kancolle-anime.jp/",
+    "begin": "2016-11-25T16:00:00.000Z",
+    "end": "2016-11-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "143093"
+      },
+      {
+        "site": "gamer",
+        "id": "78981",
+        "begin": "2020-03-01T04:00:00.000Z",
+        "broadcast": "R/2020-03-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "10161"
+      },
+      {
+        "site": "anilist",
+        "id": "20553"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kan-colle-see-you-again-on-another-quiet-blue-sea"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kantai-collection-kan-colle"
+      },
+      {
+        "site": "anisearch",
+        "id": "9021"
+      },
+      {
+        "site": "livechart",
+        "id": "1477"
+      },
+      {
+        "site": "livechart",
+        "id": "252"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21511"
+      },
+      {
+        "site": "notify",
+        "id": "Dnf2tKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2016,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/87590.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/87590t.jpg",
+    "synonyms": [
+      "Fleet Girls Collection KanColle Movie",
+      "Fleet Girls Collection KanColle Movie Sequence",
+      "Gekijouban KanColle",
+      "Gekijouban Kantai Collection",
+      "Gekijouban Kantai Collection: KanColle",
+      "Gekijōban Kantai Collection: KanColle",
+      "KanColle: The Movie",
+      "KanKore Movie",
+      "Kankore Movie",
+      "Kantai Collection Movie",
+      "Kantai Collection: Kan Colle Movie",
+      "げきじょうばんかんこれ",
+      "劇場版 艦これ",
+      "劇場版 艦隊これくしょん",
+      "劇場版 艦隊これくしょん -艦これ-",
+      "舰队Collection 剧场版",
+      "극장판 칸코레"
+    ]
+  }
+]

@@ -1,203 +1,491 @@
-{
-  "title": "天地無用! 魎皇鬼 第三期",
-  "titleTranslate": {
-    "zh-Hans": [
-      "天地无用! 魉皇鬼 第3期"
+[
+  {
+    "title": "PAPUWA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "南国少年巴布华",
+        "巴布华",
+        "南国少年小奇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.nippon-animation.co.jp/na/papuwa/",
+    "begin": "2003-09-30T09:00:00.000Z",
+    "end": "2004-03-30T09:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "S4VicicWXLO3ncWsI",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "121286"
+      },
+      {
+        "site": "anidb",
+        "id": "1126"
+      },
+      {
+        "site": "anilist",
+        "id": "2503"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nangoku-shounen-papuwa-kun"
+      },
+      {
+        "site": "anisearch",
+        "id": "2718"
+      },
+      {
+        "site": "kitsu",
+        "id": "2271"
+      },
+      {
+        "site": "livechart",
+        "id": "12310"
+      },
+      {
+        "site": "livechart",
+        "id": "12311"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2503"
+      },
+      {
+        "site": "notify",
+        "id": "zB6P5Kimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2003,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/3061.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/3061t.jpg",
+    "synonyms": [
+      "PAPUWA",
+      "Papuwa 2",
+      "パプワ"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "2003-09-18T16:00:00.000Z",
-  "end": "2005-03-16T16:30:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "54258"
+  {
+    "title": "True Love Story Summer Days, and yet...",
+    "titleTranslate": {
+      "zh-Hans": [
+        "纯爱物语"
+      ]
     },
-    {
-      "site": "anidb",
-      "id": "11715"
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.enterbrain.co.jp/game_site/tls/tlss/top.htm",
+    "begin": "2003-09-26T16:00:00.000Z",
+    "end": "2004-04-23T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "GVIurBR66iaiaLCXE",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "29280"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2003,
+      "month": "09"
     },
-    {
-      "site": "anidb",
-      "id": "2509"
-    },
-    {
-      "site": "anilist",
-      "id": "1147"
-    },
-    {
-      "site": "anilist",
-      "id": "21429"
-    },
-    {
-      "site": "anilist",
-      "id": "540"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tenchi-muyo-ryo-ohki"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tenchi-muyo-ryo-ohki-2"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tenchi-muyo-ryo-ohki-3-radio-specials"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tenchi-muyo-ryo-ohki-4"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tenchi-muyo-ryo-ohki-5"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tenchi-muyo-ryo-ohki-final-confrontations"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tenchi-muyo-the-night-before-the-carnival"
-    },
-    {
-      "site": "anisearch",
-      "id": "11750"
-    },
-    {
-      "site": "anisearch",
-      "id": "18031"
-    },
-    {
-      "site": "anisearch",
-      "id": "1994"
-    },
-    {
-      "site": "kitsu",
-      "id": "1028"
-    },
-    {
-      "site": "kitsu",
-      "id": "499"
-    },
-    {
-      "site": "livechart",
-      "id": "3716"
-    },
-    {
-      "site": "livechart",
-      "id": "4231"
-    },
-    {
-      "site": "livechart",
-      "id": "4613"
-    },
-    {
-      "site": "livechart",
-      "id": "4911"
-    },
-    {
-      "site": "livechart",
-      "id": "5004"
-    },
-    {
-      "site": "livechart",
-      "id": "5496"
-    },
-    {
-      "site": "livechart",
-      "id": "5631"
-    },
-    {
-      "site": "livechart",
-      "id": "5664"
-    },
-    {
-      "site": "livechart",
-      "id": "5716"
-    },
-    {
-      "site": "livechart",
-      "id": "594"
-    },
-    {
-      "site": "livechart",
-      "id": "6254"
-    },
-    {
-      "site": "livechart",
-      "id": "6460"
-    },
-    {
-      "site": "livechart",
-      "id": "6564"
-    },
-    {
-      "site": "livechart",
-      "id": "6698"
-    },
-    {
-      "site": "livechart",
-      "id": "7727"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1147"
-    },
-    {
-      "site": "myanimelist",
-      "id": "37789"
-    },
-    {
-      "site": "myanimelist",
-      "id": "540"
-    },
-    {
-      "site": "notify",
-      "id": "5Jmx5Kiig"
-    },
-    {
-      "site": "notify",
-      "id": "TCqbSqNMg"
-    },
-    {
-      "site": "notify",
-      "id": "UJ-T5Kmmg"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 2003,
-    "month": "09"
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/3798.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/3798t.jpg",
+    "synonyms": [
+      "TLS",
+      "True Love Story Summer Days",
+      "True Love Story Summer Days, and yet...",
+      "True Love Story Summer Days; and yet...",
+      "True Love Story Summer days, and yet...",
+      "True Love Story: Summer days, and yet...",
+      "TrueLove",
+      "and yet...",
+      "トゥルー・ラブストーリー",
+      "纯爱物语"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 6,
-  "picture": "https://cdn.myanimelist.net/images/anime/8/31587.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/8/31587t.jpg",
-  "synonyms": [
-    "TMR3",
-    "Tenchi Muyo! Ryo Ohki",
-    "Tenchi Muyo! Ryo-Ohki",
-    "Tenchi Muyo! Ryo-Ohki (2003)",
-    "Tenchi Muyo! Ryo-Ohki 3",
-    "Tenchi Muyo! Ryo-Ohki 3rd Season",
-    "Tenchi Muyou! Ryo-Ohki 3",
-    "Tenchi Muyou! Ryououki (2003)",
-    "Tenchi Muyou! Ryououki Dai 3-ki",
-    "Tenchi Muyou! Ryououki Daisanki",
-    "Tenchi Muyō! Ryōōki (2003)",
-    "tenchi ova 3",
-    "tenchiova3",
-    "tm3",
-    "天地无用! 魉皇鬼 第3期",
-    "天地無用! 魎皇鬼 (2003)",
-    "天地無用! 魎皇鬼 第3期",
-    "天地無用! 魎皇鬼 第三期",
-    "天地無用！ 魎皇鬼 （2003）",
-    "天地無用！魎皇鬼 第三期"
-  ]
-}
+  {
+    "title": "はじめの一歩 間柴vs木村 死刑執行",
+    "titleTranslate": {
+      "zh-Hans": [
+        "第一神拳 间柴vs木村 死刑执行"
+      ],
+      "zh-Hant": [
+        "第一神拳 間柴 VS 木村 死刑執行"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-09-05T16:00:00.000Z",
+    "end": "2003-09-05T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "135196"
+      },
+      {
+        "site": "pptv",
+        "id": "bpJu7FS6KmjLSbE",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "u/uulh5mobvy7cfiy",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "118865",
+        "begin": "2021-08-01T05:00:00.000Z",
+        "broadcast": "R/2021-08-01T05:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28221028",
+        "begin": "2019-05-20T02:44:00.000Z",
+        "broadcast": "R/2019-05-20T02:44:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "6153"
+      },
+      {
+        "site": "anidb",
+        "id": "982"
+      },
+      {
+        "site": "anilist",
+        "id": "264"
+      },
+      {
+        "site": "anilist",
+        "id": "5258"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hajime-no-ippo-champion-road"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hajime-no-ippo-new-challenger"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hajime-no-ippo-rising"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hajime-no-ippo-the-fighting"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hajime-no-ippo-the-fighting-special"
+      },
+      {
+        "site": "anisearch",
+        "id": "3028"
+      },
+      {
+        "site": "anisearch",
+        "id": "5149"
+      },
+      {
+        "site": "kitsu",
+        "id": "239"
+      },
+      {
+        "site": "kitsu",
+        "id": "4016"
+      },
+      {
+        "site": "livechart",
+        "id": "144"
+      },
+      {
+        "site": "livechart",
+        "id": "3731"
+      },
+      {
+        "site": "livechart",
+        "id": "4246"
+      },
+      {
+        "site": "livechart",
+        "id": "4493"
+      },
+      {
+        "site": "livechart",
+        "id": "5419"
+      },
+      {
+        "site": "livechart",
+        "id": "9005"
+      },
+      {
+        "site": "myanimelist",
+        "id": "264"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5258"
+      },
+      {
+        "site": "notify",
+        "id": "4tdhcFimg"
+      },
+      {
+        "site": "notify",
+        "id": "PUMj5KiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2003,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/64737.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/64737t.jpg",
+    "synonyms": [
+      "Fighting Spirit: Mashiba vs Kimura",
+      "Fighting Spirit: Mashiba vs. Kimura",
+      "Hajime no Ippo : The Fighting! Mashiba vs Kimura",
+      "Hajime no Ippo: Extra Round",
+      "Hajime no Ippo: Mashiba vs Kimura",
+      "Hajime no Ippo: Mashiba vs Kimura - Shikei Shikkou",
+      "Hajime no Ippo: The Fighting! - Kimura Tatsuya vs Mashiba Ryo",
+      "Hajime no Ippo: The Fighting! - Mashiba vs Kimura",
+      "Hajime no Ippo: The Fighting! - Mashiba vs Kimura: Shikei Shikkou",
+      "Hajime no Ippo: The Fighting! - Mashiba vs Kimura: Shikei Shikkō",
+      "Hajime no Ippo: The Fighting! Mashiba vs Kimura",
+      "hni ova",
+      "Боен дух: Машиба срещу Кимура",
+      "はじめの一歩 THE FIGHTING! 木村達也vs間柴了",
+      "はじめの一歩 The Fighting！ 間柴vs木村 死刑執行",
+      "はじめの一歩 間柴vs木村 死刑執行",
+      "第一神拳 间柴vs木村 死刑执行"
+    ]
+  },
+  {
+    "title": "天地無用! 魎皇鬼 第三期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天地无用! 魉皇鬼 第3期"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-09-18T16:00:00.000Z",
+    "end": "2005-03-16T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "54258"
+      },
+      {
+        "site": "anidb",
+        "id": "11715"
+      },
+      {
+        "site": "anidb",
+        "id": "2509"
+      },
+      {
+        "site": "anilist",
+        "id": "1147"
+      },
+      {
+        "site": "anilist",
+        "id": "21429"
+      },
+      {
+        "site": "anilist",
+        "id": "540"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-muyo-ryo-ohki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-muyo-ryo-ohki-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-muyo-ryo-ohki-3-radio-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-muyo-ryo-ohki-4"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-muyo-ryo-ohki-5"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-muyo-ryo-ohki-final-confrontations"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenchi-muyo-the-night-before-the-carnival"
+      },
+      {
+        "site": "anisearch",
+        "id": "11750"
+      },
+      {
+        "site": "anisearch",
+        "id": "18031"
+      },
+      {
+        "site": "anisearch",
+        "id": "1994"
+      },
+      {
+        "site": "kitsu",
+        "id": "1028"
+      },
+      {
+        "site": "kitsu",
+        "id": "499"
+      },
+      {
+        "site": "livechart",
+        "id": "3716"
+      },
+      {
+        "site": "livechart",
+        "id": "4231"
+      },
+      {
+        "site": "livechart",
+        "id": "4613"
+      },
+      {
+        "site": "livechart",
+        "id": "4911"
+      },
+      {
+        "site": "livechart",
+        "id": "5004"
+      },
+      {
+        "site": "livechart",
+        "id": "5496"
+      },
+      {
+        "site": "livechart",
+        "id": "5631"
+      },
+      {
+        "site": "livechart",
+        "id": "5664"
+      },
+      {
+        "site": "livechart",
+        "id": "5716"
+      },
+      {
+        "site": "livechart",
+        "id": "594"
+      },
+      {
+        "site": "livechart",
+        "id": "6254"
+      },
+      {
+        "site": "livechart",
+        "id": "6460"
+      },
+      {
+        "site": "livechart",
+        "id": "6564"
+      },
+      {
+        "site": "livechart",
+        "id": "6698"
+      },
+      {
+        "site": "livechart",
+        "id": "7727"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1147"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37789"
+      },
+      {
+        "site": "myanimelist",
+        "id": "540"
+      },
+      {
+        "site": "notify",
+        "id": "5Jmx5Kiig"
+      },
+      {
+        "site": "notify",
+        "id": "TCqbSqNMg"
+      },
+      {
+        "site": "notify",
+        "id": "UJ-T5Kmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2003,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/31587.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/31587t.jpg",
+    "synonyms": [
+      "TMR3",
+      "Tenchi Muyo! Ryo Ohki",
+      "Tenchi Muyo! Ryo-Ohki",
+      "Tenchi Muyo! Ryo-Ohki (2003)",
+      "Tenchi Muyo! Ryo-Ohki 3",
+      "Tenchi Muyo! Ryo-Ohki 3rd Season",
+      "Tenchi Muyou! Ryo-Ohki 3",
+      "Tenchi Muyou! Ryououki (2003)",
+      "Tenchi Muyou! Ryououki Dai 3-ki",
+      "Tenchi Muyou! Ryououki Daisanki",
+      "Tenchi Muyō! Ryōōki (2003)",
+      "tenchi ova 3",
+      "tenchiova3",
+      "tm3",
+      "天地无用! 魉皇鬼 第3期",
+      "天地無用! 魎皇鬼 (2003)",
+      "天地無用! 魎皇鬼 第3期",
+      "天地無用! 魎皇鬼 第三期",
+      "天地無用！ 魎皇鬼 （2003）",
+      "天地無用！魎皇鬼 第三期"
+    ]
+  }
+]

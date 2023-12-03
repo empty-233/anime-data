@@ -1,99 +1,373 @@
-{
-  "title": "ふしぎの海のナディア",
-  "titleTranslate": {
-    "en": [
-      "Nadia: The Secret of Blue Water"
+[
+  {
+    "title": "もーれつア太郎",
+    "titleTranslate": {
+      "zh-Hans": [
+        "猛烈太郎"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.koredeiinoda.net/manga/ataro_anime.html",
+    "begin": "1990-04-21T16:00:00.000Z",
+    "end": "1990-12-22T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "87782"
+      },
+      {
+        "site": "anidb",
+        "id": "1898"
+      },
+      {
+        "site": "anilist",
+        "id": "12391"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mooretsu-50-nen-tarou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mooretsu-atarou-1990"
+      },
+      {
+        "site": "anisearch",
+        "id": "1370"
+      },
+      {
+        "site": "kitsu",
+        "id": "43345"
+      },
+      {
+        "site": "kitsu",
+        "id": "6719"
+      },
+      {
+        "site": "livechart",
+        "id": "11700"
+      },
+      {
+        "site": "livechart",
+        "id": "11701"
+      },
+      {
+        "site": "myanimelist",
+        "id": "12391"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42111"
+      },
+      {
+        "site": "notify",
+        "id": "dZhHpKmig"
+      }
     ],
-    "zh-Hans": [
-      "蓝宝石之谜"
-    ],
-    "zh-Hant": [
-      "海底兩萬哩"
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1969,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 90,
+    "picture": "https://cdn.myanimelist.net/images/anime/1895/124352.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1895/124352t.jpg",
+    "synonyms": [
+      "Extraordinary Ataro",
+      "Furious Ataro",
+      "Mooretsu Atarou",
+      "Moretsu Ataro",
+      "Mōretsu Atarō",
+      "もーれつア太郎"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "http://www.nhk.or.jp/anime/nadia/",
-  "begin": "1990-04-13T16:00:00.000Z",
-  "end": "1991-03-29T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "pptv",
-      "id": "NXdRzzedDUuuLJQ",
-      "begin": ""
+  {
+    "title": "楽しいムーミン一家",
+    "titleTranslate": {
+      "zh-Hans": [
+        "姆明一族"
+      ]
     },
-    {
-      "site": "bangumi",
-      "id": "1981"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.mxtv.co.jp/moomin/",
+    "begin": "1990-04-12T16:00:00.000Z",
+    "end": "1991-10-03T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8622"
+      },
+      {
+        "site": "letv",
+        "id": "10005863",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "1008"
+      },
+      {
+        "site": "anidb",
+        "id": "1010"
+      },
+      {
+        "site": "anidb",
+        "id": "3570"
+      },
+      {
+        "site": "anilist",
+        "id": "2313"
+      },
+      {
+        "site": "anilist",
+        "id": "5712"
+      },
+      {
+        "site": "anilist",
+        "id": "8234"
+      },
+      {
+        "site": "anilist",
+        "id": "8235"
+      },
+      {
+        "site": "anime-planet",
+        "id": "comet-in-moominland"
+      },
+      {
+        "site": "anime-planet",
+        "id": "moomin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "moomin-1972"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tanoshii-moomin-ikka-bouken-nikki"
+      },
+      {
+        "site": "anisearch",
+        "id": "16"
+      },
+      {
+        "site": "anisearch",
+        "id": "2029"
+      },
+      {
+        "site": "kitsu",
+        "id": "2095"
+      },
+      {
+        "site": "kitsu",
+        "id": "4253"
+      },
+      {
+        "site": "kitsu",
+        "id": "5258"
+      },
+      {
+        "site": "kitsu",
+        "id": "5259"
+      },
+      {
+        "site": "livechart",
+        "id": "11264"
+      },
+      {
+        "site": "livechart",
+        "id": "6955"
+      },
+      {
+        "site": "livechart",
+        "id": "9122"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2313"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5712"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8234"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8235"
+      },
+      {
+        "site": "notify",
+        "id": "ewTEcFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "gj_jcFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "uZWitKiig"
+      },
+      {
+        "site": "notify",
+        "id": "wemmpFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1990,
+      "month": "04"
     },
-    {
-      "site": "bilibili",
-      "id": "2358",
-      "begin": "1990-04-12T16:00:00.000Z",
-      "broadcast": "R/2012-04-07T13:46:00.000Z/P7D"
-    },
-    {
-      "site": "gamer",
-      "id": "17772",
-      "begin": "2021-10-22T06:00:00.000Z",
-      "broadcast": "R/2021-10-22T06:00:00.000Z/P7D"
-    },
-    {
-      "site": "anilist",
-      "id": "1251"
-    },
-    {
-      "site": "anime-planet",
-      "id": "nadia-secret-of-blue-water"
-    },
-    {
-      "site": "anime-planet",
-      "id": "nadia-the-motion-picture"
-    },
-    {
-      "site": "anisearch",
-      "id": "355"
-    },
-    {
-      "site": "kitsu",
-      "id": "1126"
-    },
-    {
-      "site": "livechart",
-      "id": "4995"
-    },
-    {
-      "site": "livechart",
-      "id": "7030"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1251"
-    },
-    {
-      "site": "notify",
-      "id": "d_0bcKmmR"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 2003,
-    "month": "04"
+    "status": "FINISHED",
+    "episodes": 78,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/26765.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/26765t.jpg",
+    "synonyms": [
+      "Adventures from Moominvalley",
+      "Delightful Moomin Family",
+      "Die Mumins",
+      "Fun Family Moomin",
+      "I Mumindalen",
+      "Les Moomins",
+      "Les moomins",
+      "Los Moomin",
+      "Los Moomins",
+      "Los Mumins",
+      "Moomin",
+      "Moomin (1990)",
+      "Moominland, un mondo di serenità",
+      "Muminki",
+      "Mumins",
+      "Mumintroll",
+      "Mumitroldene",
+      "Mummitrollet",
+      "Mumínci",
+      "Muumilaakson tarinoita",
+      "Muumin",
+      "Muumioru lood",
+      "Muumit",
+      "Múmínálfarnir",
+      "TMI",
+      "Tales From Moominvalley",
+      "Tanoshii Moomin Ikka",
+      "Tanoshī Mūmin Ikka",
+      "The Moomins",
+      "The Tales from Moominvalley",
+      "The Tales of Moomin Valley",
+      "Troliai Mumiai",
+      "Οι Μούμιν",
+      "Приключения муми-троллей",
+      "המומינים",
+      "وادي الأمان",
+      "たのしいむーみんいっか",
+      "小肥肥一族",
+      "楽しいムーミン一家",
+      "무민 잉글리쉬",
+      "무민 잉글리시"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 10,
-  "picture": "https://cdn.myanimelist.net/images/anime/2/21653.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/2/21653t.jpg",
-  "synonyms": [
-    "Fushigi no Umi no Nadia Omakes",
-    "Fushigi no Umi no Nadia Specials",
-    "Nadia Omake Gekijou",
-    "Nadia Omake Gekijō",
-    "Nadia: Secret of Blue Water Specials",
-    "Nadia: Secret of the Blue Water Specials",
-    "ふしぎのうみのなでぃあ",
-    "ふしぎの海のナディア",
-    "ふしぎの海のナディア おまけ劇場",
-    "ナディアおまけ劇場"
-  ]
-}
+  {
+    "title": "ふしぎの海のナディア",
+    "titleTranslate": {
+      "en": [
+        "Nadia: The Secret of Blue Water"
+      ],
+      "zh-Hans": [
+        "蓝宝石之谜"
+      ],
+      "zh-Hant": [
+        "海底兩萬哩"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.nhk.or.jp/anime/nadia/",
+    "begin": "1990-04-13T16:00:00.000Z",
+    "end": "1991-03-29T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "NXdRzzedDUuuLJQ",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1981"
+      },
+      {
+        "site": "bilibili",
+        "id": "2358",
+        "begin": "1990-04-12T16:00:00.000Z",
+        "broadcast": "R/2012-04-07T13:46:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "17772",
+        "begin": "2021-10-22T06:00:00.000Z",
+        "broadcast": "R/2021-10-22T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "1251"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nadia-secret-of-blue-water"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nadia-the-motion-picture"
+      },
+      {
+        "site": "anisearch",
+        "id": "355"
+      },
+      {
+        "site": "kitsu",
+        "id": "1126"
+      },
+      {
+        "site": "livechart",
+        "id": "4995"
+      },
+      {
+        "site": "livechart",
+        "id": "7030"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1251"
+      },
+      {
+        "site": "notify",
+        "id": "d_0bcKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2003,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 10,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/21653.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/21653t.jpg",
+    "synonyms": [
+      "Fushigi no Umi no Nadia Omakes",
+      "Fushigi no Umi no Nadia Specials",
+      "Nadia Omake Gekijou",
+      "Nadia Omake Gekijō",
+      "Nadia: Secret of Blue Water Specials",
+      "Nadia: Secret of the Blue Water Specials",
+      "ふしぎのうみのなでぃあ",
+      "ふしぎの海のナディア",
+      "ふしぎの海のナディア おまけ劇場",
+      "ナディアおまけ劇場"
+    ]
+  }
+]

@@ -1,43 +1,184 @@
-{
-  "title": "エンゼルコップ",
-  "titleTranslate": {
-    "zh-Hans": [
-      "天使特警"
+[
+  {
+    "title": "MEGAZONE23 III",
+    "titleTranslate": {
+      "zh-Hans": [
+        "无限地带23 PART III"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-09-28T16:00:00.000Z",
+    "end": "1989-12-22T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "JBznZc0zoibFEwiao",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "37033"
+      },
+      {
+        "site": "anidb",
+        "id": "2891"
+      },
+      {
+        "site": "anidb",
+        "id": "3544"
+      },
+      {
+        "site": "anilist",
+        "id": "129595"
+      },
+      {
+        "site": "anime-planet",
+        "id": "megazone-23"
+      },
+      {
+        "site": "anime-planet",
+        "id": "megazone-23-part-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "megazone-23-xi"
+      },
+      {
+        "site": "anisearch",
+        "id": "1848"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1989,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.anime-planet.com/anime/primary/megazone-23-part-3-1.jpg?t=1638338511",
+    "thumbnail": "https://cdn.anime-planet.com/anime/primary/megazone-23-part-3-1-285x400.jpg?t=1638338511",
+    "synonyms": [
+      "MEGAZONE 23 The Third",
+      "MEGAZONE23 III",
+      "MEGAZONE23III",
+      "Megazone 23 - Part III",
+      "Megazone 23 III",
+      "Megazone 23 PART III",
+      "megazone s3",
+      "メガゾーン23 Part III",
+      "无限地带23 PART III"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1989-09-01T16:00:00.000Z",
-  "end": "1994-05-20T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "23618"
+  {
+    "title": "緑山高校 甲子園編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "绿山高校甲子园編"
+      ]
     },
-    {
-      "site": "nicovideo",
-      "id": "angel-cop",
-      "begin": ""
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-09-25T16:00:00.000Z",
+    "end": "1990-12-16T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "238305"
+      },
+      {
+        "site": "nicovideo",
+        "id": "midoriyama",
+        "begin": "2016-08-01T06:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "7464"
+      },
+      {
+        "site": "anilist",
+        "id": "5994"
+      },
+      {
+        "site": "anime-planet",
+        "id": "midoriyama-koukou-koushien-hen"
+      },
+      {
+        "site": "kitsu",
+        "id": "4377"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5994"
+      },
+      {
+        "site": "notify",
+        "id": "fzFqcFmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1990,
+      "month": "09"
     },
-    {
-      "site": "bilibili",
-      "id": "2059",
-      "begin": "2002-10-07T16:00:00.000Z"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 1989,
-    "month": "09"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/23071.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/23071t.jpg",
+    "synonyms": [
+      "Midoriyama Koko Koshien hen",
+      "Midoriyama Koukou Koushien Hen (Gekijouban)",
+      "Midoriyama Koukou Koushien-hen",
+      "Midoriyama Koukou Koushien-hen Movie",
+      "Midoriyama Kōkō Kōshien-hen",
+      "緑山高校 甲子園編",
+      "緑山高校 甲子園編 (劇場版)",
+      "緑山高校　甲子園編（劇場版）"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 6,
-  "picture": "https://cdn.myanimelist.net/images/anime/1377/110296.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1377/110296t.jpg",
-  "synonyms": [
-    "エンジェルコップ",
-    "エンゼルコップ",
-    "エンゼル・コップ"
-  ]
-}
+  {
+    "title": "エンゼルコップ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天使特警"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-09-01T16:00:00.000Z",
+    "end": "1994-05-20T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "23618"
+      },
+      {
+        "site": "nicovideo",
+        "id": "angel-cop",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2059",
+        "begin": "2002-10-07T16:00:00.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1989,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/1377/110296.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1377/110296t.jpg",
+    "synonyms": [
+      "エンジェルコップ",
+      "エンゼルコップ",
+      "エンゼル・コップ"
+    ]
+  }
+]

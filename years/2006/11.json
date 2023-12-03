@@ -1,318 +1,782 @@
-{
-  "title": "攻殻機動隊 STAND ALONE COMPLEX Solid State Society",
-  "titleTranslate": {
-    "zh-Hans": [
-      "攻壳机动队 S.A.C. Solid State Society"
+[
+  {
+    "title": "TOKYO TRIBE 2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "东京暴走族"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tt2-anime.com/top.html",
+    "begin": "2006-11-11T16:00:00.000Z",
+    "end": "2007-02-17T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "36485"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2006,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/50493.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/50493t.jpg",
+    "synonyms": [
+      "TOKYO TRIBE 2",
+      "tt2",
+      "قبيلة طوكيو 2",
+      "とうきょうとらいぶつー"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "http://www.kokaku-s.com/",
-  "begin": "2006-11-24T16:00:00.000Z",
-  "end": "2006-11-24T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "320"
+  {
+    "title": "RGBアドベンチャー",
+    "titleTranslate": {
+      "en": [
+        "RGB ADVENTURE"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "1705",
-      "begin": "2016-04-07T09:03:04.000Z",
-      "broadcast": "R/2016-04-07T09:03:04.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://web.archive.org/web/*/www.rgbadv.com/",
+    "begin": "2006-11-19T00:30:00.000Z",
+    "end": "2007-01-21T01:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "106291"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rgb-adventure-recaps"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42191"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2006,
+      "month": "11"
     },
-    {
-      "site": "anidb",
-      "id": "1176"
-    },
-    {
-      "site": "anidb",
-      "id": "12360"
-    },
-    {
-      "site": "anidb",
-      "id": "13098"
-    },
-    {
-      "site": "anilist",
-      "id": "106154"
-    },
-    {
-      "site": "anilist",
-      "id": "10870"
-    },
-    {
-      "site": "anilist",
-      "id": "3447"
-    },
-    {
-      "site": "anilist",
-      "id": "801"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-2-0"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-2-innocence"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-arise"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-arise-alternate-architecture"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-arise-another-mission"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-arise-border-less-project-working-high"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-arise-logicoma-specials"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-ghost-chaser"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-individual-eleven"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-nyuumon-arise"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-stand-alone-complex"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-stand-alone-complex-2nd-gig"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-stand-alone-complex-2nd-gig-tachikoma-days"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-stand-alone-complex-individual-eleven-tachikoma-days"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-stand-alone-complex-solid-state-society-3d-tachikoma-na-hibi"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-stand-alone-complex-tachikoma-days"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-stand-alone-complex-tachikoma-days-2007"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-stand-alone-complex-the-laughing-man-tachikoma-days"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-standalone-complex-the-laughing-man"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-the-new-movie"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-uchikomatic-days"
-    },
-    {
-      "site": "anisearch",
-      "id": "14020"
-    },
-    {
-      "site": "anisearch",
-      "id": "15092"
-    },
-    {
-      "site": "anisearch",
-      "id": "2569"
-    },
-    {
-      "site": "anisearch",
-      "id": "6845"
-    },
-    {
-      "site": "kitsu",
-      "id": "1190"
-    },
-    {
-      "site": "kitsu",
-      "id": "3016"
-    },
-    {
-      "site": "kitsu",
-      "id": "42036"
-    },
-    {
-      "site": "kitsu",
-      "id": "6030"
-    },
-    {
-      "site": "kitsu",
-      "id": "715"
-    },
-    {
-      "site": "livechart",
-      "id": "3607"
-    },
-    {
-      "site": "livechart",
-      "id": "3662"
-    },
-    {
-      "site": "livechart",
-      "id": "3767"
-    },
-    {
-      "site": "livechart",
-      "id": "3782"
-    },
-    {
-      "site": "livechart",
-      "id": "4054"
-    },
-    {
-      "site": "livechart",
-      "id": "4823"
-    },
-    {
-      "site": "livechart",
-      "id": "5530"
-    },
-    {
-      "site": "livechart",
-      "id": "5793"
-    },
-    {
-      "site": "livechart",
-      "id": "6022"
-    },
-    {
-      "site": "livechart",
-      "id": "6221"
-    },
-    {
-      "site": "livechart",
-      "id": "6604"
-    },
-    {
-      "site": "livechart",
-      "id": "7133"
-    },
-    {
-      "site": "livechart",
-      "id": "7156"
-    },
-    {
-      "site": "livechart",
-      "id": "7289"
-    },
-    {
-      "site": "livechart",
-      "id": "7353"
-    },
-    {
-      "site": "myanimelist",
-      "id": "10090"
-    },
-    {
-      "site": "myanimelist",
-      "id": "10870"
-    },
-    {
-      "site": "myanimelist",
-      "id": "3447"
-    },
-    {
-      "site": "myanimelist",
-      "id": "38799"
-    },
-    {
-      "site": "myanimelist",
-      "id": "801"
-    },
-    {
-      "site": "notify",
-      "id": "1ZQbcFiig"
-    },
-    {
-      "site": "notify",
-      "id": "FGsw5FmiR"
-    },
-    {
-      "site": "notify",
-      "id": "JYF7tKimg"
-    },
-    {
-      "site": "notify",
-      "id": "U6xA5Fimg"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 2006,
-    "month": "11"
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/30308.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/30308t.jpg",
+    "synonyms": [
+      "RGBアドベンチャ",
+      "RGBアドベンチャー"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/4/29816.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/4/29816t.jpg",
-  "synonyms": [
-    "Ghost in The Shell-Stand Alone Complex: Solid State Society",
-    "Ghost in the Shell - Stand Alone Complex - Solid State Society",
-    "Ghost in the Shell S.A.C. Solid State Society",
-    "Ghost in the Shell-Stand Alone Complex: Solid State Society",
-    "Ghost in the Shell: S.A.C. Solid State Society",
-    "Ghost in the Shell: Stand Alone Complex - Solid State Society",
-    "Ghost in the Shell: Stand Alone Complex: Zestalone społeczeństwo",
-    "GitS SAC SSS",
-    "GitS SAC3",
-    "GitS: SAC 3",
-    "GitS: SSC",
-    "GitSSAC3",
-    "Koukaku Kidoutai Stand Alone Complex - Solid State Society",
-    "Koukaku Kidoutai Stand Alone Complex: Solid State Society",
-    "Koukaku Kidoutai: STAND ALONE COMPLEX - Solid State Society",
-    "Kōkaku Kidōtai: Stand Alone Complex - Solid State Society",
-    "SAC3",
-    "SSS",
-    "gits sac3",
-    "gitssac3",
-    "sac3",
-    "sss",
-    "Дух в оболонці: Комплекс окремості - Напівпровідникове суспільство",
-    "Дух у Латах: С.С. - С.С.С.",
-    "Дух у Латах: Синдром Самітника - Суспільство Спаяного Стану",
-    "Призрак в доспехах: Синдром одиночки - Сообщество стабильной государственности",
-    "こうかくきどうたいすたんどあろーんこんぷれっくすそりっどすてーとそさいえてぃ",
-    "攻壳机动队 S.A.C. Solid State Society",
-    "攻殻機動隊 STAND ALONE COMPLEX Solid State Society",
-    "攻殻機動隊 Stand Alone Complex - Solid State Society",
-    "攻殻機動隊 Stand Alone Complex - Solid State Society -ANOTHER DIMENSION-",
-    "攻殻機動隊 Stand Alone Complex Solid State Society",
-    "공각기동대 Stand Alone Complex - Solid State Society"
-  ]
-}
+  {
+    "title": "奏光のストレイン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "奏光之Strain"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://web.archive.org/web/*/www.s-strain.jp/",
+    "begin": "2006-11-01T22:00:00.000Z",
+    "end": "2007-02-14T15:35:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "zficJR68VhcMmpAw",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "4887"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2006,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/75409.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/75409t.jpg",
+    "synonyms": [
+      "SStrain",
+      "STRAIN: Strategic Armored Infantry",
+      "Str.A.In.: Strategic Armored Infantry",
+      "Strain: Strategic Armored Infantry",
+      "Sōkō no Strain",
+      "s-strain",
+      "Мерцающий Стрэйн",
+      "そうこうのすとれいん",
+      "奏光のストレイン",
+      "奏光的strain",
+      "주광의 스트레인"
+    ]
+  },
+  {
+    "title": "パプリカ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "盗梦侦探",
+        "红辣椒"
+      ],
+      "zh-Hant": [
+        "盜夢偵探",
+        "盜夢探偵"
+      ],
+      "en": [
+        "Paprika"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.sonypictures.jp/movies/paprika/",
+    "begin": "2006-11-25T16:00:00.000Z",
+    "end": "2006-11-25T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "QCoGhOxSwgBj4Uk",
+        "begin": ""
+      },
+      {
+        "site": "letv",
+        "id": "10002033",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "841"
+      },
+      {
+        "site": "netflix",
+        "id": "70065105",
+        "begin": "2020-12-10T00:00:00.000Z",
+        "broadcast": "R/2020-12-10T00:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2019,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1023/102380.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1023/102380t.jpg",
+    "synonyms": [
+      "Kenshi Yonezu: Paprika",
+      "Minna no Uta",
+      "Minna no Uta: Paprika",
+      "Paprika",
+      "Paprika (2019)",
+      "Paprika Kenshi Yonezu Version",
+      "Paprika Kenshi Yonezu Version, Minna no Uta",
+      "パプリカ",
+      "パプリカ （2019）",
+      "パプリカ　米津玄師バージョン"
+    ]
+  },
+  {
+    "title": "マリア様がみてる 3rdシーズン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圣母在上 第3季"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.gokigenyou.com/",
+    "begin": "2006-11-29T16:00:00.000Z",
+    "end": "2007-07-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "4216"
+      },
+      {
+        "site": "pptv",
+        "id": "Mn1HxS2TA0GkIoo",
+        "begin": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "maria_watches_over_us3",
+        "begin": "2019-10-23T15:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "2025"
+      },
+      {
+        "site": "anidb",
+        "id": "5694"
+      },
+      {
+        "site": "anilist",
+        "id": "2954"
+      },
+      {
+        "site": "anilist",
+        "id": "3750"
+      },
+      {
+        "site": "anilist",
+        "id": "444"
+      },
+      {
+        "site": "anime-planet",
+        "id": "maria-sama-ga-miteru-haru-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "maria-watches-over-us"
+      },
+      {
+        "site": "anime-planet",
+        "id": "maria-watches-over-us-season-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "maria-watches-over-us-season-3-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "maria-watches-over-us-season-4"
+      },
+      {
+        "site": "anime-planet",
+        "id": "maria-watches-over-us-season-4-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "maria-watches-over-us-specials"
+      },
+      {
+        "site": "anisearch",
+        "id": "1329"
+      },
+      {
+        "site": "anisearch",
+        "id": "4723"
+      },
+      {
+        "site": "anisearch",
+        "id": "9377"
+      },
+      {
+        "site": "kitsu",
+        "id": "3228"
+      },
+      {
+        "site": "kitsu",
+        "id": "7816"
+      },
+      {
+        "site": "kitsu",
+        "id": "7817"
+      },
+      {
+        "site": "livechart",
+        "id": "4056"
+      },
+      {
+        "site": "livechart",
+        "id": "5794"
+      },
+      {
+        "site": "livechart",
+        "id": "7084"
+      },
+      {
+        "site": "livechart",
+        "id": "7120"
+      },
+      {
+        "site": "livechart",
+        "id": "7292"
+      },
+      {
+        "site": "livechart",
+        "id": "8276"
+      },
+      {
+        "site": "livechart",
+        "id": "8282"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2954"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3750"
+      },
+      {
+        "site": "myanimelist",
+        "id": "444"
+      },
+      {
+        "site": "notify",
+        "id": "GH1ptFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "avt_5Fmig"
+      },
+      {
+        "site": "notify",
+        "id": "t5JtpKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2006,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 5,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/75209.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/75209t.jpg",
+    "synonyms": [
+      "La Vierge Marie Vous Regarde",
+      "La Vierge Marie Vous Regarde - 3rd season Original Video Animation",
+      "MariMite OVA",
+      "Maria Watches Over Us 3rd",
+      "Maria Watches Over Us 3rd Season OVA",
+      "Maria Watches Over Us Season 3",
+      "Maria Watches over Us 3rd Season",
+      "Maria-sama ga Miteru 3rd Season",
+      "Maria-sama ga Miteru 3rd Season OVA",
+      "Maria-sama ga Miteru OAV",
+      "Maria-sama ga Miteru OVA",
+      "María Nos Mira. Los Ovas.",
+      "María nos mira: 3ª Temporada",
+      "Rosen unter Marias Obhut OVA",
+      "The Virgin Mary is Watching You",
+      "maria3",
+      "marimite3",
+      "Дева Мария смотрит за вами OVA",
+      "マリア様がみてる 3rdシーズン",
+      "マリア様がみてる〜３rd〜",
+      "マリア様がみてる～3rdシーズンOVA～",
+      "圣母在上 第3季",
+      "圣母在上 第三季 ova"
+    ]
+  },
+  {
+    "title": "舞-乙HiME Zwei",
+    "titleTranslate": {
+      "zh-Hans": [
+        "舞-乙HiME Zwei"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.my-zhime.net/ova/index.html",
+    "begin": "2006-11-24T16:00:00.000Z",
+    "end": "2007-08-24T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3944"
+      },
+      {
+        "site": "qq",
+        "id": "1/1tzf4brkxs07agw",
+        "begin": ""
+      },
+      {
+        "site": "acfun",
+        "id": "6002266",
+        "begin": "2020-04-30T16:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "3973",
+        "begin": "2016-05-09T06:36:00.000Z",
+        "broadcast": "R/2016-05-09T06:36:00.000Z/P7D"
+      },
+      {
+        "site": "kitsu",
+        "id": "1448"
+      },
+      {
+        "site": "livechart",
+        "id": "4010"
+      },
+      {
+        "site": "livechart",
+        "id": "4685"
+      },
+      {
+        "site": "livechart",
+        "id": "5066"
+      },
+      {
+        "site": "livechart",
+        "id": "6307"
+      },
+      {
+        "site": "livechart",
+        "id": "6636"
+      },
+      {
+        "site": "livechart",
+        "id": "7124"
+      },
+      {
+        "site": "livechart",
+        "id": "7546"
+      },
+      {
+        "site": "livechart",
+        "id": "7837"
+      },
+      {
+        "site": "notify",
+        "id": "sLu-cKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2008,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://media.kitsu.io/anime/poster_images/4470/small.jpg",
+    "thumbnail": "https://media.kitsu.io/anime/poster_images/4470/tiny.jpg",
+    "synonyms": [
+      "Mai-Otome Zwei Extended Ending",
+      "まいおとめつばい",
+      "舞-乙HiME ZWEI",
+      "舞-乙HiME Zwei"
+    ]
+  },
+  {
+    "title": "攻殻機動隊 STAND ALONE COMPLEX Solid State Society",
+    "titleTranslate": {
+      "zh-Hans": [
+        "攻壳机动队 S.A.C. Solid State Society"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.kokaku-s.com/",
+    "begin": "2006-11-24T16:00:00.000Z",
+    "end": "2006-11-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "320"
+      },
+      {
+        "site": "bilibili",
+        "id": "1705",
+        "begin": "2016-04-07T09:03:04.000Z",
+        "broadcast": "R/2016-04-07T09:03:04.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1176"
+      },
+      {
+        "site": "anidb",
+        "id": "12360"
+      },
+      {
+        "site": "anidb",
+        "id": "13098"
+      },
+      {
+        "site": "anilist",
+        "id": "106154"
+      },
+      {
+        "site": "anilist",
+        "id": "10870"
+      },
+      {
+        "site": "anilist",
+        "id": "3447"
+      },
+      {
+        "site": "anilist",
+        "id": "801"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-2-0"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-2-innocence"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-arise"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-arise-alternate-architecture"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-arise-another-mission"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-arise-border-less-project-working-high"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-arise-logicoma-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-ghost-chaser"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-individual-eleven"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-nyuumon-arise"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-2nd-gig"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-2nd-gig-tachikoma-days"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-individual-eleven-tachikoma-days"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-solid-state-society-3d-tachikoma-na-hibi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-tachikoma-days"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-tachikoma-days-2007"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-the-laughing-man-tachikoma-days"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-standalone-complex-the-laughing-man"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-the-new-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-uchikomatic-days"
+      },
+      {
+        "site": "anisearch",
+        "id": "14020"
+      },
+      {
+        "site": "anisearch",
+        "id": "15092"
+      },
+      {
+        "site": "anisearch",
+        "id": "2569"
+      },
+      {
+        "site": "anisearch",
+        "id": "6845"
+      },
+      {
+        "site": "kitsu",
+        "id": "1190"
+      },
+      {
+        "site": "kitsu",
+        "id": "3016"
+      },
+      {
+        "site": "kitsu",
+        "id": "42036"
+      },
+      {
+        "site": "kitsu",
+        "id": "6030"
+      },
+      {
+        "site": "kitsu",
+        "id": "715"
+      },
+      {
+        "site": "livechart",
+        "id": "3607"
+      },
+      {
+        "site": "livechart",
+        "id": "3662"
+      },
+      {
+        "site": "livechart",
+        "id": "3767"
+      },
+      {
+        "site": "livechart",
+        "id": "3782"
+      },
+      {
+        "site": "livechart",
+        "id": "4054"
+      },
+      {
+        "site": "livechart",
+        "id": "4823"
+      },
+      {
+        "site": "livechart",
+        "id": "5530"
+      },
+      {
+        "site": "livechart",
+        "id": "5793"
+      },
+      {
+        "site": "livechart",
+        "id": "6022"
+      },
+      {
+        "site": "livechart",
+        "id": "6221"
+      },
+      {
+        "site": "livechart",
+        "id": "6604"
+      },
+      {
+        "site": "livechart",
+        "id": "7133"
+      },
+      {
+        "site": "livechart",
+        "id": "7156"
+      },
+      {
+        "site": "livechart",
+        "id": "7289"
+      },
+      {
+        "site": "livechart",
+        "id": "7353"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10090"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10870"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3447"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38799"
+      },
+      {
+        "site": "myanimelist",
+        "id": "801"
+      },
+      {
+        "site": "notify",
+        "id": "1ZQbcFiig"
+      },
+      {
+        "site": "notify",
+        "id": "FGsw5FmiR"
+      },
+      {
+        "site": "notify",
+        "id": "JYF7tKimg"
+      },
+      {
+        "site": "notify",
+        "id": "U6xA5Fimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2006,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/29816.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/29816t.jpg",
+    "synonyms": [
+      "Ghost in The Shell-Stand Alone Complex: Solid State Society",
+      "Ghost in the Shell - Stand Alone Complex - Solid State Society",
+      "Ghost in the Shell S.A.C. Solid State Society",
+      "Ghost in the Shell-Stand Alone Complex: Solid State Society",
+      "Ghost in the Shell: S.A.C. Solid State Society",
+      "Ghost in the Shell: Stand Alone Complex - Solid State Society",
+      "Ghost in the Shell: Stand Alone Complex: Zestalone społeczeństwo",
+      "GitS SAC SSS",
+      "GitS SAC3",
+      "GitS: SAC 3",
+      "GitS: SSC",
+      "GitSSAC3",
+      "Koukaku Kidoutai Stand Alone Complex - Solid State Society",
+      "Koukaku Kidoutai Stand Alone Complex: Solid State Society",
+      "Koukaku Kidoutai: STAND ALONE COMPLEX - Solid State Society",
+      "Kōkaku Kidōtai: Stand Alone Complex - Solid State Society",
+      "SAC3",
+      "SSS",
+      "gits sac3",
+      "gitssac3",
+      "sac3",
+      "sss",
+      "Дух в оболонці: Комплекс окремості - Напівпровідникове суспільство",
+      "Дух у Латах: С.С. - С.С.С.",
+      "Дух у Латах: Синдром Самітника - Суспільство Спаяного Стану",
+      "Призрак в доспехах: Синдром одиночки - Сообщество стабильной государственности",
+      "こうかくきどうたいすたんどあろーんこんぷれっくすそりっどすてーとそさいえてぃ",
+      "攻壳机动队 S.A.C. Solid State Society",
+      "攻殻機動隊 STAND ALONE COMPLEX Solid State Society",
+      "攻殻機動隊 Stand Alone Complex - Solid State Society",
+      "攻殻機動隊 Stand Alone Complex - Solid State Society -ANOTHER DIMENSION-",
+      "攻殻機動隊 Stand Alone Complex Solid State Society",
+      "공각기동대 Stand Alone Complex - Solid State Society"
+    ]
+  }
+]

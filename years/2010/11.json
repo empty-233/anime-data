@@ -1,154 +1,671 @@
-{
-  "title": "装甲騎兵ボトムズ Case;IRVINE",
-  "titleTranslate": {
-    "zh-Hans": [
-      "装甲骑兵 Case;IRVINE"
+[
+  {
+    "title": "カッコカワイイ宣言！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "好帅好可爱宣言!"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://kakokawa.com/",
+    "begin": "2010-11-05T09:55:00.000Z",
+    "end": "2010-12-03T10:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "rpZx71e9LWvOTLQ",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "10494"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kakokawa",
+        "begin": "2010-10-12T03:00:05.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "1757",
+        "begin": "2010-11-04T16:00:00.000Z",
+        "broadcast": "R/2010-12-22T14:28:22.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "10908"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kakko-kawaii-sengen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kakko-kawaii-sengen-2"
+      },
+      {
+        "site": "kitsu",
+        "id": "5813"
+      },
+      {
+        "site": "kitsu",
+        "id": "6402"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10908"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9627"
+      },
+      {
+        "site": "notify",
+        "id": "4AcMtKiig"
+      },
+      {
+        "site": "notify",
+        "id": "EX64pKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2011,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 14,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/73741.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/73741t.jpg",
+    "synonyms": [
+      "Kakko Kawaii Sengen! 2 Specials",
+      "Kakko Kawaii Sengen! Kocho Kocho-hen",
+      "Kakko Kawaii Sengen! OVA",
+      "Kakko Kawaii Sengen! Sugokunai?-hen",
+      "Kakko Kawaii Sengen! Tawake ga!-hen",
+      "Kakko Kawaii Sengen! Umee kara-hen",
+      "Kakko-Kawaii Sengen! Specials",
+      "KakoKawa OVA",
+      "かっこかわいいせんげん",
+      "カッコカワイイ宣言！",
+      "カッコカワイイ宣言！ うめーから編",
+      "カッコカワイイ宣言！ こちょこちょ編",
+      "カッコカワイイ宣言！ すごくない？編",
+      "カッコカワイイ宣言！ たわけが！編",
+      "カッコカワイイ宣言！OVA"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "2010-11-06T16:00:00.000Z",
-  "end": "2010-11-06T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "13406"
+  {
+    "title": "SHIN-MEN",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小新超人"
+      ]
     },
-    {
-      "site": "anidb",
-      "id": "1698"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2010-11-16T16:00:00.000Z",
+    "end": "2012-09-14T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "TOHLSbEXh8Uopg4",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhabi5p",
+        "begin": "2016-01-08T03:33:40.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "h/h6ve1mfenzo3v0f",
+        "begin": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2016/dhpxxcr",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "210466"
+      },
+      {
+        "site": "mgtv",
+        "id": "167707",
+        "begin": ""
+      },
+      {
+        "site": "letv",
+        "id": "10016940",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "708"
+      },
+      {
+        "site": "anime-planet",
+        "id": "crayon-shin-chan"
+      },
+      {
+        "site": "anisearch",
+        "id": "178"
+      },
+      {
+        "site": "kitsu",
+        "id": "856"
+      },
+      {
+        "site": "myanimelist",
+        "id": "966"
+      },
+      {
+        "site": "notify",
+        "id": "H-vJ5Fimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "11"
     },
-    {
-      "site": "anilist",
-      "id": "145751"
-    },
-    {
-      "site": "anilist",
-      "id": "3256"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armor-hunter-mellowlink"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-alone-again"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-big-battle"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-case-irvine-tenmatsu"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-finder"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-pailsen-files"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-pailsen-files-movie"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-red-shoulder-document-roots-of-treachery"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-the-brilliant-heretic"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-the-last-red-shoulder"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-tropper-votoms-phantom-arc"
-    },
-    {
-      "site": "anisearch",
-      "id": "2498"
-    },
-    {
-      "site": "kitsu",
-      "id": "2347"
-    },
-    {
-      "site": "livechart",
-      "id": "10285"
-    },
-    {
-      "site": "livechart",
-      "id": "10797"
-    },
-    {
-      "site": "livechart",
-      "id": "4892"
-    },
-    {
-      "site": "livechart",
-      "id": "6497"
-    },
-    {
-      "site": "livechart",
-      "id": "6839"
-    },
-    {
-      "site": "livechart",
-      "id": "6913"
-    },
-    {
-      "site": "livechart",
-      "id": "7666"
-    },
-    {
-      "site": "myanimelist",
-      "id": "2582"
-    },
-    {
-      "site": "myanimelist",
-      "id": "49936"
-    },
-    {
-      "site": "notify",
-      "id": "V1Ny5KmiR"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 2010,
-    "month": "11"
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/27158.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/27158t.jpg",
+    "synonyms": [
+      "Crayon Shin-chan: Shin-Men",
+      "SHIN-MEN",
+      "シン-メン",
+      "シンメン"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/7/23338.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/7/23338t.jpg",
-  "synonyms": [
-    "Armored Trooper Votoms Case;Irvine",
-    "Armored Trooper Votoms: Case",
-    "Armored Trooper Votoms: Case; Irvine",
-    "Irvine",
-    "Soukou Kihei Votoms Case;Irvine",
-    "Soukou Kihei Votoms: Case; IRVINE",
-    "Soukou Kihei Votoms: Case; Irvine",
-    "Sōkō Kihei Votoms Case;Irvine",
-    "Zırhlı Piyade Votoms: Neden; Irvine",
-    "case;irvine",
-    "装甲騎兵ボトムズ Case; IRVINE",
-    "装甲騎兵ボトムズ Case;IRVINE",
-    "装甲騎兵ボトムズ Case;IRVINE -ケース;アービン-",
-    "装甲騎兵ボトムズ Case;IRVINE —ケース;アービン—",
-    "装甲骑兵 Case;IRVINE"
-  ]
-}
+  {
+    "title": "たまゆら",
+    "titleTranslate": {
+      "zh-Hans": [
+        "玉响"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.tamayura.info/",
+    "begin": "2010-11-26T16:00:00.000Z",
+    "end": "2010-12-23T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "BDQPjfVbywls6lI",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "h/hsac5f0iqzra0pl",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "8452"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tamayura",
+        "begin": "2012-02-29T15:00:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgjbxcp",
+        "begin": "2014-01-15T08:57:11.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "8234"
+      },
+      {
+        "site": "anilist",
+        "id": "10232"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tamayura-hitotose"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tamayura-hitotose-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tamayura-more-aggressive"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tamayura-more-aggressive-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tamayura-more-aggressive-picture-drama"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tamayura-sotsugyou-shashin-movie-1-kizashi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tamayura-sotsugyou-shashin-movie-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tamayura-sotsugyou-shashin-movie-3-akogare"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tamayura-sotsugyou-shashin-movie-4-tamayura-sotsugyou-shashin-movie-4tamayura-sotsugyou-shashin-movie-4-ashita"
+      },
+      {
+        "site": "anisearch",
+        "id": "6863"
+      },
+      {
+        "site": "kitsu",
+        "id": "6087"
+      },
+      {
+        "site": "livechart",
+        "id": "1204"
+      },
+      {
+        "site": "livechart",
+        "id": "1387"
+      },
+      {
+        "site": "livechart",
+        "id": "1388"
+      },
+      {
+        "site": "livechart",
+        "id": "1389"
+      },
+      {
+        "site": "livechart",
+        "id": "34"
+      },
+      {
+        "site": "livechart",
+        "id": "373"
+      },
+      {
+        "site": "livechart",
+        "id": "750"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10232"
+      },
+      {
+        "site": "notify",
+        "id": "heB7pKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/1612/132744.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1612/132744t.jpg",
+    "synonyms": [
+      "Tamayura OVA Series",
+      "たまゆら",
+      "幸福光暈",
+      "玉响"
+    ]
+  },
+  {
+    "title": "TRIP TREK",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://trip.oh-news.net/",
+    "begin": "2010-11-10T16:00:00.000Z",
+    "end": "2011-01-26T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10070"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch84",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "10333"
+      },
+      {
+        "site": "anilist",
+        "id": "102290"
+      },
+      {
+        "site": "anisearch",
+        "id": "9450"
+      },
+      {
+        "site": "kitsu",
+        "id": "9682"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21509"
+      },
+      {
+        "site": "notify",
+        "id": "A9hLtKmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2003,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/65073.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/65073t.jpg",
+    "synonyms": [
+      "TRIP TREK",
+      "TRIP TREK [トリップトレック]",
+      "トリップトレック"
+    ]
+  },
+  {
+    "title": "眼鏡なカノジョ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "眼镜女友"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://meganenakanojo.com/",
+    "begin": "2010-11-25T16:00:00.000Z",
+    "end": "2010-11-25T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9368"
+      },
+      {
+        "site": "pptv",
+        "id": "4FMurBR66iaiaLCXE",
+        "begin": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/1358/112335.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1358/112335t.jpg",
+    "synonyms": [
+      "Gankyou na Kanojo",
+      "Glasses Girlfriends",
+      "めがねなかのじょ",
+      "眼鏡なカノジョ",
+      "眼镜女友"
+    ]
+  },
+  {
+    "title": "エア・ギア 黒の羽と眠りの森 -Break on the sky-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "飞轮少年 黑翼与沉睡森林 -Break on the sky-"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2010-11-17T16:00:00.000Z",
+    "end": "2011-06-17T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10299"
+      },
+      {
+        "site": "pptv",
+        "id": "ROicaWMAmltQ3tR0",
+        "begin": ""
+      },
+      {
+        "site": "letv",
+        "id": "39836",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "4196"
+      },
+      {
+        "site": "anilist",
+        "id": "857"
+      },
+      {
+        "site": "anime-planet",
+        "id": "air-gear"
+      },
+      {
+        "site": "anime-planet",
+        "id": "air-gear-special-trick"
+      },
+      {
+        "site": "anisearch",
+        "id": "2561"
+      },
+      {
+        "site": "kitsu",
+        "id": "759"
+      },
+      {
+        "site": "livechart",
+        "id": "3710"
+      },
+      {
+        "site": "livechart",
+        "id": "4434"
+      },
+      {
+        "site": "myanimelist",
+        "id": "857"
+      },
+      {
+        "site": "notify",
+        "id": "sxQ05FmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/74158.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/74158t.jpg",
+    "synonyms": [
+      "AG OVA",
+      "AIR GEAR: Kuro no Hane to Nemuri no Mori - Break on the Sky",
+      "Air Gear OVA",
+      "Air Gear: Black Wings and Sleeping Forest - Break on the Sky",
+      "Air Gear: Kuro no Hane to Nemuri no Mori -Break on the Sky-",
+      "Еър Гиър: Черни крила и Спящата гора - път към небето",
+      "دنده هوایی: بال های سیاه و جنگل خواب - توقف در آسمان",
+      "エア・ギア 黒の羽と眠りの森 -Break on the Sky-",
+      "エア・ギア 黒の羽と眠りの森 -Break on the sky-",
+      "飞轮少年 黑翼与沉睡森林 -Break on the sky-"
+    ]
+  },
+  {
+    "title": "装甲騎兵ボトムズ Case;IRVINE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "装甲骑兵 Case;IRVINE"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2010-11-06T16:00:00.000Z",
+    "end": "2010-11-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "13406"
+      },
+      {
+        "site": "anidb",
+        "id": "1698"
+      },
+      {
+        "site": "anilist",
+        "id": "145751"
+      },
+      {
+        "site": "anilist",
+        "id": "3256"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armor-hunter-mellowlink"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-alone-again"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-big-battle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-case-irvine-tenmatsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-finder"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-pailsen-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-pailsen-files-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-red-shoulder-document-roots-of-treachery"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-the-brilliant-heretic"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-the-last-red-shoulder"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-tropper-votoms-phantom-arc"
+      },
+      {
+        "site": "anisearch",
+        "id": "2498"
+      },
+      {
+        "site": "kitsu",
+        "id": "2347"
+      },
+      {
+        "site": "livechart",
+        "id": "10285"
+      },
+      {
+        "site": "livechart",
+        "id": "10797"
+      },
+      {
+        "site": "livechart",
+        "id": "4892"
+      },
+      {
+        "site": "livechart",
+        "id": "6497"
+      },
+      {
+        "site": "livechart",
+        "id": "6839"
+      },
+      {
+        "site": "livechart",
+        "id": "6913"
+      },
+      {
+        "site": "livechart",
+        "id": "7666"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2582"
+      },
+      {
+        "site": "myanimelist",
+        "id": "49936"
+      },
+      {
+        "site": "notify",
+        "id": "V1Ny5KmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/23338.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/23338t.jpg",
+    "synonyms": [
+      "Armored Trooper Votoms Case;Irvine",
+      "Armored Trooper Votoms: Case",
+      "Armored Trooper Votoms: Case; Irvine",
+      "Irvine",
+      "Soukou Kihei Votoms Case;Irvine",
+      "Soukou Kihei Votoms: Case; IRVINE",
+      "Soukou Kihei Votoms: Case; Irvine",
+      "Sōkō Kihei Votoms Case;Irvine",
+      "Zırhlı Piyade Votoms: Neden; Irvine",
+      "case;irvine",
+      "装甲騎兵ボトムズ Case; IRVINE",
+      "装甲騎兵ボトムズ Case;IRVINE",
+      "装甲騎兵ボトムズ Case;IRVINE -ケース;アービン-",
+      "装甲騎兵ボトムズ Case;IRVINE —ケース;アービン—",
+      "装甲骑兵 Case;IRVINE"
+    ]
+  }
+]

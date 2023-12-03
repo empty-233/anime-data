@@ -1,178 +1,674 @@
-{
-  "title": "弱虫ペダル Re:RIDE",
-  "titleTranslate": {
-    "zh-Hans": [
-      "飙速宅男 Re:RIDE"
+[
+  {
+    "title": "TERRAFORMARS",
+    "titleTranslate": {
+      "zh-Hans": [
+        "火星异种"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.terraformars.tv/",
+    "begin": "2014-09-26T15:30:00.000Z",
+    "end": "2014-12-19T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "youku",
+        "id": "ff86b776cf5f11e3b8b7",
+        "begin": "2014-09-26T16:30:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhc139h",
+        "begin": "2014-09-26T16:30:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "96787"
+      },
+      {
+        "site": "anidb",
+        "id": "10456"
+      },
+      {
+        "site": "anidb",
+        "id": "11493"
+      },
+      {
+        "site": "anilist",
+        "id": "20630"
+      },
+      {
+        "site": "anilist",
+        "id": "21300"
+      },
+      {
+        "site": "anime-planet",
+        "id": "terra-formars-earth-arc"
+      },
+      {
+        "site": "anime-planet",
+        "id": "terra-formars-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "terra-formars-revenge"
+      },
+      {
+        "site": "anisearch",
+        "id": "10673"
+      },
+      {
+        "site": "anisearch",
+        "id": "9649"
+      },
+      {
+        "site": "kitsu",
+        "id": "11344"
+      },
+      {
+        "site": "kitsu",
+        "id": "8355"
+      },
+      {
+        "site": "livechart",
+        "id": "1774"
+      },
+      {
+        "site": "livechart",
+        "id": "3228"
+      },
+      {
+        "site": "livechart",
+        "id": "439"
+      },
+      {
+        "site": "myanimelist",
+        "id": "22689"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31430"
+      },
+      {
+        "site": "notify",
+        "id": "Ye6opFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "v7o9pKmmg"
+      }
     ],
-    "zh-Hant": [
-      "飆速宅男 Re: RIDE"
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2014,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/67117.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/67117t.jpg",
+    "synonyms": [
+      "TERRA FORMARS",
+      "TERRA FORMARS [テラフォーマーズ]",
+      "TERRAFORMARS",
+      "Terraformars",
+      "Terraformars S1",
+      "Тера Формарс",
+      "Тераформар",
+      "Тераформарсяване",
+      "پسگرفتن مریخ",
+      "てらふぉーまーず",
+      "テラフォーマーズ",
+      "火星异种",
+      "테라포마스"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "http://yowapeda.com/reride/",
-  "begin": "2014-09-19T16:00:00.000Z",
-  "end": "2014-09-19T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "110062"
+  {
+    "title": "トライブクルクル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "舞力四射"
+      ],
+      "en": [
+        "tribe cool crew"
+      ]
     },
-    {
-      "site": "gamer",
-      "id": "72236",
-      "begin": "2021-07-02T02:40:00.000Z",
-      "broadcast": "R/2021-07-02T02:40:00.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tribecoolcrew.net/",
+    "begin": "2014-09-27T22:00:00.000Z",
+    "end": "2015-10-03T22:30:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhc0yh5",
+        "begin": "2014-09-30T06:35:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "109775"
+      },
+      {
+        "site": "bilibili",
+        "id": "3241",
+        "begin": "2014-09-27T16:00:01.000Z",
+        "broadcast": "R/2015-12-24T10:32:00.000Z/P7D"
+      },
+      {
+        "site": "youku",
+        "id": "1543189e3ed611e4b522",
+        "begin": "2014-10-04T17:34:50.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2014,
+      "month": "09"
     },
-    {
-      "site": "anidb",
-      "id": "11252"
-    },
-    {
-      "site": "anidb",
-      "id": "9591"
-    },
-    {
-      "site": "anilist",
-      "id": "18179"
-    },
-    {
-      "site": "anilist",
-      "id": "21194"
-    },
-    {
-      "site": "anime-planet",
-      "id": "chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuuanzen"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yowamushi-pedal"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yowamushi-pedal-glory-line"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yowamushi-pedal-grande-road"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yowamushi-pedal-new-generation"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yowamushi-pedal-re-road"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yowamushi-pedal-regeneration"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yowamushi-pedal-spare-bike"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yowamushi-pedal-special-ride"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yowamushi-pedal-the-movie"
-    },
-    {
-      "site": "anisearch",
-      "id": "8308"
-    },
-    {
-      "site": "kitsu",
-      "id": "10940"
-    },
-    {
-      "site": "kitsu",
-      "id": "7700"
-    },
-    {
-      "site": "livechart",
-      "id": "10928"
-    },
-    {
-      "site": "livechart",
-      "id": "1464"
-    },
-    {
-      "site": "livechart",
-      "id": "1603"
-    },
-    {
-      "site": "livechart",
-      "id": "1864"
-    },
-    {
-      "site": "livechart",
-      "id": "2190"
-    },
-    {
-      "site": "livechart",
-      "id": "2755"
-    },
-    {
-      "site": "livechart",
-      "id": "2784"
-    },
-    {
-      "site": "livechart",
-      "id": "53"
-    },
-    {
-      "site": "livechart",
-      "id": "560"
-    },
-    {
-      "site": "livechart",
-      "id": "68"
-    },
-    {
-      "site": "myanimelist",
-      "id": "18179"
-    },
-    {
-      "site": "myanimelist",
-      "id": "30790"
-    },
-    {
-      "site": "notify",
-      "id": "HQ3cpFmiR"
-    },
-    {
-      "site": "notify",
-      "id": "mqslpFiiR"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 2014,
-    "month": "09"
+    "status": "FINISHED",
+    "episodes": 50,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/67523.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/67523t.jpg",
+    "synonyms": [
+      "とらいぶくるくる",
+      "トライブクルクル",
+      "舞力四射"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/10/86876.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/10/86876t.jpg",
-  "synonyms": [
-    "Gekijouban Yowamushi Pedal",
-    "YowaPeda Movie",
-    "YowaPeda Re:RIDE",
-    "YowaPeda Re:Ride",
-    "Yowamushi Pedal Movie",
-    "Yowamushi Pedal Re:RIDE",
-    "Yowamushi Pedal Re:Ride",
-    "Yowamushi Pedal: La Película",
-    "Yowamushi Pedal: Re:RIDE",
-    "Yowamushi Pedal: Re:Ride!",
-    "Yowapeda Re:RIDE",
-    "Yowapeda: Re:RIDE",
-    "弱虫ペダル Re:RIDE",
-    "弱虫ペダル Re:Ride"
-  ]
-}
+  {
+    "title": "バディ・コンプレックス 完結編 -あの空に還る未来で-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "BUDDY COMPLEX 完结篇 -回到那片天空的未来-",
+        "Buddy Complex 完结篇",
+        "心灵盟友 完结篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://buddy-complex.jp/",
+    "begin": "2014-09-29T15:00:00.000Z",
+    "end": "2014-09-30T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhc1759",
+        "begin": "2014-09-30T16:00:00.000Z"
+      },
+      {
+        "site": "sohu",
+        "id": "s2014/buddycomplex",
+        "begin": "2014-09-30T16:00:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "105214"
+      },
+      {
+        "site": "anidb",
+        "id": "10291"
+      },
+      {
+        "site": "anilist",
+        "id": "20533"
+      },
+      {
+        "site": "anime-planet",
+        "id": "buddy-complex"
+      },
+      {
+        "site": "anisearch",
+        "id": "9251"
+      },
+      {
+        "site": "kitsu",
+        "id": "8139"
+      },
+      {
+        "site": "livechart",
+        "id": "342"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21437"
+      },
+      {
+        "site": "notify",
+        "id": "yGzTpKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2014,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/67521.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/67521t.jpg",
+    "synonyms": [
+      "BUDDY COMPLEX 完结篇 -回到那片天空的未来-",
+      "Buddy Complex Final Chapter",
+      "Buddy Complex Finale: In the Future When We Return to Those Skies",
+      "Buddy Complex Kanketsu-hen - Ano Sora ni Kaeru Mirai de",
+      "Buddy Complex Kanketsu-hen -Ano Sora ni Kaeru Mirai de-",
+      "Buddy Complex: Into the Skies of Tomorrow",
+      "Buddy Complex: Kanketsuhen - Ano Sora ni Kaeru Mirai de",
+      "バディ・コンプレックス 完結編 -あの空に還る未来で-",
+      "バディ・コンプレックス 完結編 ―あの空に還る未来で―",
+      "버디 컴플렉스: 완결편 - 그 하늘로 돌아갈 미래에서"
+    ]
+  },
+  {
+    "title": "ふうせんいぬティニー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "气球狗迪尼"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://tinnyballoon.com/animation/",
+    "begin": "2014-09-26T08:25:00.000Z",
+    "end": "2015-03-27T08:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "99092"
+      },
+      {
+        "site": "anidb",
+        "id": "11614"
+      },
+      {
+        "site": "anilist",
+        "id": "21367"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fuusen-inu-tinny-2nd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fuusen-inu-tinny-nandaka-fushigi-na-kyouryuu-no-kuni"
+      },
+      {
+        "site": "anisearch",
+        "id": "10880"
+      },
+      {
+        "site": "kitsu",
+        "id": "11386"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31640"
+      },
+      {
+        "site": "notify",
+        "id": "7Fy9pFimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2014,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/66013.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/66013t.jpg",
+    "synonyms": [
+      "Balloon Dog Tinny",
+      "Fūsen Inu Tinny",
+      "Tinny and the Balloon",
+      "Tinny the Balloon Dog",
+      "ふうせんいぬてぃにー",
+      "ふうせんいぬティニー"
+    ]
+  },
+  {
+    "title": "夏恋戦機",
+    "titleTranslate": {
+      "zh-Hans": [
+        "夏恋战机"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.karensenki.com/",
+    "begin": "2014-09-27T16:00:00.000Z",
+    "end": "2014-12-06T16:15:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "7kgkogpw4B6Bic2c",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "113078"
+      },
+      {
+        "site": "bilibili",
+        "id": "343",
+        "begin": "2014-09-26T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "letv",
+        "id": "10006162",
+        "begin": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2014,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 11,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/66677.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/66677t.jpg",
+    "synonyms": [
+      "Karen Troopers",
+      "Хроники Карен",
+      "夏恋戦機"
+    ]
+  },
+  {
+    "title": "ファンタジスタ ステラ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "梦幻足球手Stella"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.shogakukan.co.jp/pr/anisun/fs/index.html",
+    "begin": "2014-09-16T16:00:00.000Z",
+    "end": "2015-02-16T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "ACQQjvZczApt61M",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "103866"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2014,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/1886/96085.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1886/96085t.jpg",
+    "synonyms": [
+      "Fantasista Stella OVA",
+      "ふぁんたじすたすてら",
+      "ファンタジスタ ステラ"
+    ]
+  },
+  {
+    "title": "ディーふらぐ! OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "属性同好会 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-09-23T16:00:00.000Z",
+    "end": "2014-09-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "100705"
+      },
+      {
+        "site": "pptv",
+        "id": "xV85txibF9TOWFHw",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "1964b766550b11e4b2ad",
+        "begin": "2014-10-16T07:14:01.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "10011"
+      },
+      {
+        "site": "anilist",
+        "id": "20031"
+      },
+      {
+        "site": "anime-planet",
+        "id": "d-frag"
+      },
+      {
+        "site": "anisearch",
+        "id": "9112"
+      },
+      {
+        "site": "kitsu",
+        "id": "8001"
+      },
+      {
+        "site": "livechart",
+        "id": "235"
+      },
+      {
+        "site": "myanimelist",
+        "id": "20031"
+      },
+      {
+        "site": "notify",
+        "id": "DrphtFiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2014,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/67077.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/67077t.jpg",
+    "synonyms": [
+      "D-Frag! OAD",
+      "D-Frag! OVA",
+      "D-Frag!: Water!!",
+      "ディーふらぐ! OAD",
+      "ディーふらぐ! ウォーター!!",
+      "ディーふらぐ！ OAD"
+    ]
+  },
+  {
+    "title": "弱虫ペダル Re:RIDE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "飙速宅男 Re:RIDE"
+      ],
+      "zh-Hant": [
+        "飆速宅男 Re: RIDE"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://yowapeda.com/reride/",
+    "begin": "2014-09-19T16:00:00.000Z",
+    "end": "2014-09-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "110062"
+      },
+      {
+        "site": "gamer",
+        "id": "72236",
+        "begin": "2021-07-02T02:40:00.000Z",
+        "broadcast": "R/2021-07-02T02:40:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "11252"
+      },
+      {
+        "site": "anidb",
+        "id": "9591"
+      },
+      {
+        "site": "anilist",
+        "id": "18179"
+      },
+      {
+        "site": "anilist",
+        "id": "21194"
+      },
+      {
+        "site": "anime-planet",
+        "id": "chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuuanzen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-glory-line"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-grande-road"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-new-generation"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-re-road"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-regeneration"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-spare-bike"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-special-ride"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-the-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "8308"
+      },
+      {
+        "site": "kitsu",
+        "id": "10940"
+      },
+      {
+        "site": "kitsu",
+        "id": "7700"
+      },
+      {
+        "site": "livechart",
+        "id": "10928"
+      },
+      {
+        "site": "livechart",
+        "id": "1464"
+      },
+      {
+        "site": "livechart",
+        "id": "1603"
+      },
+      {
+        "site": "livechart",
+        "id": "1864"
+      },
+      {
+        "site": "livechart",
+        "id": "2190"
+      },
+      {
+        "site": "livechart",
+        "id": "2755"
+      },
+      {
+        "site": "livechart",
+        "id": "2784"
+      },
+      {
+        "site": "livechart",
+        "id": "53"
+      },
+      {
+        "site": "livechart",
+        "id": "560"
+      },
+      {
+        "site": "livechart",
+        "id": "68"
+      },
+      {
+        "site": "myanimelist",
+        "id": "18179"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30790"
+      },
+      {
+        "site": "notify",
+        "id": "HQ3cpFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "mqslpFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2014,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/86876.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/86876t.jpg",
+    "synonyms": [
+      "Gekijouban Yowamushi Pedal",
+      "YowaPeda Movie",
+      "YowaPeda Re:RIDE",
+      "YowaPeda Re:Ride",
+      "Yowamushi Pedal Movie",
+      "Yowamushi Pedal Re:RIDE",
+      "Yowamushi Pedal Re:Ride",
+      "Yowamushi Pedal: La Película",
+      "Yowamushi Pedal: Re:RIDE",
+      "Yowamushi Pedal: Re:Ride!",
+      "Yowapeda Re:RIDE",
+      "Yowapeda: Re:RIDE",
+      "弱虫ペダル Re:RIDE",
+      "弱虫ペダル Re:Ride"
+    ]
+  }
+]

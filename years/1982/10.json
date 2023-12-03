@@ -1,70 +1,561 @@
-{
-  "title": "ときめきトゥナイト",
-  "titleTranslate": {
-    "zh-Hans": [
-      "心跳今夜",
-      "家有酷妹",
-      "心跳晚上",
-      "心跳在今夜",
-      "我们一家都是鬼",
-      "魔界传说",
-      "精灵俏女巫"
+[
+  {
+    "title": "スペースコブラ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哥普拉"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1982-10-07T14:00:00.000Z",
+    "end": "1983-05-19T14:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "X5Bs6lK4KGbJR68",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "67756"
+      },
+      {
+        "site": "nicovideo",
+        "id": "cobra",
+        "begin": "2011-09-20T06:00:00.000Z"
+      },
+      {
+        "site": "anilist",
+        "id": "2451"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cobra-the-animation"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cobra-the-animation-the-psychogun"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cobra-the-animation-time-drive"
+      },
+      {
+        "site": "anime-planet",
+        "id": "space-adventure-cobra"
+      },
+      {
+        "site": "anime-planet",
+        "id": "space-adventure-cobra-movie"
+      },
+      {
+        "site": "kitsu",
+        "id": "2225"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2451"
+      },
+      {
+        "site": "notify",
+        "id": "KawE5FimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1981,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/12000.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/12000t.jpg",
+    "synonyms": [
+      "Space Adventure Cobra Pilot",
+      "すぺーすこぶら",
+      "スペースコブラ"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "http://www.animax.co.jp/program/NN10000104",
-  "begin": "1982-10-07T11:30:00.000Z",
-  "end": "1983-09-22T12:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "102932"
+  {
+    "title": "わが青春のアルカディア 無限軌道SSX",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我青春的世外桃源 无限轨道SSX"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "2442",
-      "begin": "1982-10-06T16:00:00.000Z"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1982-10-13T13:00:00.000Z",
+    "end": "1983-03-30T14:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "51947"
+      },
+      {
+        "site": "anidb",
+        "id": "725"
+      },
+      {
+        "site": "anidb",
+        "id": "728"
+      },
+      {
+        "site": "anilist",
+        "id": "1000"
+      },
+      {
+        "site": "anilist",
+        "id": "2202"
+      },
+      {
+        "site": "anime-planet",
+        "id": "arcadia-of-my-youth"
+      },
+      {
+        "site": "anime-planet",
+        "id": "captain-harlock"
+      },
+      {
+        "site": "anime-planet",
+        "id": "captain-harlock-mystery-of-the-arcadia"
+      },
+      {
+        "site": "anime-planet",
+        "id": "harlock-saga"
+      },
+      {
+        "site": "anime-planet",
+        "id": "harlock-space-pirate"
+      },
+      {
+        "site": "anime-planet",
+        "id": "space-pirate-captain-herlock-the-endless-odyssey"
+      },
+      {
+        "site": "anisearch",
+        "id": "2892"
+      },
+      {
+        "site": "kitsu",
+        "id": "1993"
+      },
+      {
+        "site": "kitsu",
+        "id": "890"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1000"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2202"
+      },
+      {
+        "site": "notify",
+        "id": "2LmE5FimR"
+      },
+      {
+        "site": "notify",
+        "id": "i521cKmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1982,
+      "month": "10"
     },
-    {
-      "site": "anime-planet",
-      "id": "tokimeki-tonight-recaps"
-    },
-    {
-      "site": "kitsu",
-      "id": "6259"
-    },
-    {
-      "site": "myanimelist",
-      "id": "10594"
-    },
-    {
-      "site": "notify",
-      "id": "mjKVtFimg"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 1982,
-    "month": "10"
+    "status": "FINISHED",
+    "episodes": 22,
+    "picture": "https://cdn.myanimelist.net/images/anime/1541/92869.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1541/92869t.jpg",
+    "synonyms": [
+      "Albator 84",
+      "Arcadia of My Youth: Endless Orbit SSX",
+      "Arcadia of My Youth: Infinite Course SSX",
+      "Capitan Harlock SSX: Rotta verso l`infinito",
+      "Capitan Harlock SSX: Rotta verso l’infinito",
+      "Captain Harlock SSX",
+      "Captain Harlock: Arcadia of My Youth - Endless Orbit SSX",
+      "Captain Harlock: Arcadia of my Youth - Endless Orbit SSX",
+      "Endless Orbit SSX",
+      "Harlock 84",
+      "Mi juventud en la Arcadia: camino del infinito SSX",
+      "My Youth in Arcadia: Endless Orbit SSX",
+      "My Youth in Arcadia: Endless Road SSX",
+      "Waga Seishun no Arcadia: Mugen Kidō SSX",
+      "わが青春のアルカディア 無限軌道SSX",
+      "わが青春のアルカディア・無限軌道SSX",
+      "わが青春のアルカディア・無限軌道ＳＳＸ"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 34,
-  "picture": "https://cdn.myanimelist.net/images/anime/13/41441.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/13/41441t.jpg",
-  "synonyms": [
-    "Heart-Thumping Tonight",
-    "Ransie la Strega",
-    "Ransie la strega",
-    "tokituna",
-    "Учащенное сердцебиение",
-    "رانزي المدهشة",
-    "ときめきとぅないと",
-    "ときめきトゥナイト",
-    "家有酷妹",
-    "心動月夜",
-    "心跳在今夜",
-    "我們一家都是鬼",
-    "精靈俏女巫"
-  ]
-}
+  {
+    "title": "超時空要塞マクロス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超时空要塞"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.macross.co.jp/",
+    "begin": "1982-10-03T10:30:00.000Z",
+    "end": "1983-06-26T11:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "VJdx71e9LWvOTLQ",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3166"
+      },
+      {
+        "site": "bilibili",
+        "id": "1187",
+        "begin": "1982-10-03T10:30:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "2324"
+      },
+      {
+        "site": "anidb",
+        "id": "427"
+      },
+      {
+        "site": "anidb",
+        "id": "67"
+      },
+      {
+        "site": "anidb",
+        "id": "8539"
+      },
+      {
+        "site": "anidb",
+        "id": "996"
+      },
+      {
+        "site": "anilist",
+        "id": "1089"
+      },
+      {
+        "site": "anilist",
+        "id": "1504"
+      },
+      {
+        "site": "anilist",
+        "id": "165831"
+      },
+      {
+        "site": "anilist",
+        "id": "194"
+      },
+      {
+        "site": "anilist",
+        "id": "474"
+      },
+      {
+        "site": "anilist",
+        "id": "5051"
+      },
+      {
+        "site": "anime-planet",
+        "id": "macross-7"
+      },
+      {
+        "site": "anime-planet",
+        "id": "macross-delta"
+      },
+      {
+        "site": "anime-planet",
+        "id": "macross-frontier"
+      },
+      {
+        "site": "anime-planet",
+        "id": "macross-plus"
+      },
+      {
+        "site": "anime-planet",
+        "id": "macross-xx"
+      },
+      {
+        "site": "anime-planet",
+        "id": "macross-zero"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mini-chara-macross"
+      },
+      {
+        "site": "anime-planet",
+        "id": "super-dimensional-fortress-macross-do-you-remember-love"
+      },
+      {
+        "site": "anisearch",
+        "id": "255"
+      },
+      {
+        "site": "anisearch",
+        "id": "2997"
+      },
+      {
+        "site": "anisearch",
+        "id": "3012"
+      },
+      {
+        "site": "anisearch",
+        "id": "525"
+      },
+      {
+        "site": "anisearch",
+        "id": "7369"
+      },
+      {
+        "site": "kitsu",
+        "id": "11441"
+      },
+      {
+        "site": "kitsu",
+        "id": "1350"
+      },
+      {
+        "site": "kitsu",
+        "id": "171"
+      },
+      {
+        "site": "kitsu",
+        "id": "3905"
+      },
+      {
+        "site": "kitsu",
+        "id": "436"
+      },
+      {
+        "site": "kitsu",
+        "id": "974"
+      },
+      {
+        "site": "livechart",
+        "id": "4000"
+      },
+      {
+        "site": "livechart",
+        "id": "4354"
+      },
+      {
+        "site": "livechart",
+        "id": "4741"
+      },
+      {
+        "site": "livechart",
+        "id": "4917"
+      },
+      {
+        "site": "livechart",
+        "id": "5073"
+      },
+      {
+        "site": "livechart",
+        "id": "5091"
+      },
+      {
+        "site": "livechart",
+        "id": "5490"
+      },
+      {
+        "site": "livechart",
+        "id": "5665"
+      },
+      {
+        "site": "livechart",
+        "id": "6046"
+      },
+      {
+        "site": "livechart",
+        "id": "6505"
+      },
+      {
+        "site": "livechart",
+        "id": "6546"
+      },
+      {
+        "site": "livechart",
+        "id": "6555"
+      },
+      {
+        "site": "livechart",
+        "id": "6773"
+      },
+      {
+        "site": "livechart",
+        "id": "7343"
+      },
+      {
+        "site": "livechart",
+        "id": "7445"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1089"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1504"
+      },
+      {
+        "site": "myanimelist",
+        "id": "194"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31494"
+      },
+      {
+        "site": "myanimelist",
+        "id": "474"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5051"
+      },
+      {
+        "site": "notify",
+        "id": "1Al1cFimg"
+      },
+      {
+        "site": "notify",
+        "id": "Nay95FmmR"
+      },
+      {
+        "site": "notify",
+        "id": "RSt-5KiiR"
+      },
+      {
+        "site": "notify",
+        "id": "iq3pcFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "kNDocFiig"
+      },
+      {
+        "site": "notify",
+        "id": "xazjpFiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1982,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 36,
+    "picture": "https://cdn.myanimelist.net/images/anime/1553/137717.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1553/137717t.jpg",
+    "synonyms": [
+      "Cho Jiku Yosai Macross",
+      "Choujikuu Yousai Macross",
+      "Chōjikū Yōsai Macross",
+      "Fortaleza Superdimensional Macross",
+      "Fortezza superdimensionale Macross",
+      "Guerra das Galáxias",
+      "Robotech",
+      "Robotech (U.S.)",
+      "Robotech: La Saga de Macross",
+      "Robotech: Season 1",
+      "Robotech: The Macross Saga",
+      "Robotech: The Series",
+      "SDF Macross",
+      "SDFM",
+      "Space Fortress Macross",
+      "Super Dimension Fortress Macross",
+      "Super Dimensional Fortress",
+      "Super Dimensional Fortress Macross",
+      "Superfortaleza Dimensional Macross",
+      "The Super Dimension Fortress Macross",
+      "Макрос",
+      "Макросс",
+      "قلعة الأبعاد الخارقة ماكروس",
+      "ちょうじくうようさいまくろす",
+      "超时空要塞",
+      "超時空要塞マクロス",
+      "초시공요새 마크로스"
+    ]
+  },
+  {
+    "title": "ときめきトゥナイト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "心跳今夜",
+        "家有酷妹",
+        "心跳晚上",
+        "心跳在今夜",
+        "我们一家都是鬼",
+        "魔界传说",
+        "精灵俏女巫"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.animax.co.jp/program/NN10000104",
+    "begin": "1982-10-07T11:30:00.000Z",
+    "end": "1983-09-22T12:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "102932"
+      },
+      {
+        "site": "bilibili",
+        "id": "2442",
+        "begin": "1982-10-06T16:00:00.000Z"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tokimeki-tonight-recaps"
+      },
+      {
+        "site": "kitsu",
+        "id": "6259"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10594"
+      },
+      {
+        "site": "notify",
+        "id": "mjKVtFimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1982,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 34,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/41441.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/41441t.jpg",
+    "synonyms": [
+      "Heart-Thumping Tonight",
+      "Ransie la Strega",
+      "Ransie la strega",
+      "tokituna",
+      "Учащенное сердцебиение",
+      "رانزي المدهشة",
+      "ときめきとぅないと",
+      "ときめきトゥナイト",
+      "家有酷妹",
+      "心動月夜",
+      "心跳在今夜",
+      "我們一家都是鬼",
+      "精靈俏女巫"
+    ]
+  }
+]

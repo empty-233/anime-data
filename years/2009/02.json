@@ -1,167 +1,564 @@
-{
-  "title": "ひぐらしのなく頃に礼",
-  "titleTranslate": {
-    "zh-Hans": [
-      "寒蝉鸣泣之时 礼"
+[
+  {
+    "title": "涼宮ハルヒちゃんの憂鬱",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凉宫春日酱的忧郁",
+        "小凉宫春日的忧郁"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.haruhi.tv/haruchuru/",
+    "begin": "2009-02-14T07:00:00.000Z",
+    "end": "2009-05-08T13:04:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "7CUfnQVr2xl8ibmI",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1372"
+      },
+      {
+        "site": "letv",
+        "id": "6311",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "4735",
+        "begin": "2019-05-13T07:15:00.000Z",
+        "broadcast": "R/2019-05-13T07:15:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "3651"
+      },
+      {
+        "site": "anilist",
+        "id": "4382"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nyoron-churuya-san"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-disappearance-of-haruhi-suzumiya"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-disappearance-of-nagato-yuki-chan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-disappearance-of-nagato-yuki-chan-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-melancholy-of-haruhi-suzumiya"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-melancholy-of-haruhi-suzumiya-2009"
+      },
+      {
+        "site": "anisearch",
+        "id": "2522"
+      },
+      {
+        "site": "kitsu",
+        "id": "751"
+      },
+      {
+        "site": "livechart",
+        "id": "1453"
+      },
+      {
+        "site": "livechart",
+        "id": "3594"
+      },
+      {
+        "site": "livechart",
+        "id": "3596"
+      },
+      {
+        "site": "livechart",
+        "id": "3617"
+      },
+      {
+        "site": "livechart",
+        "id": "363"
+      },
+      {
+        "site": "myanimelist",
+        "id": "849"
+      },
+      {
+        "site": "notify",
+        "id": "Vey0cFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2009,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 25,
+    "picture": "https://cdn.myanimelist.net/images/anime/1786/112350.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1786/112350t.jpg",
+    "synonyms": [
+      "A Melancolia de Suzumiya Haruhi-chan",
+      "Die Melancholie der Haruhi Suzumiya-chan",
+      "Haruhi-chan",
+      "La Mélancolie de Mini Haruhi",
+      "Melancholia Haruhi Suzumiyi-chan",
+      "Melancholy of Haruhi-chan Suzumiya",
+      "Suzumiya Haruhi-chan no Yuutsu",
+      "Suzumiya Haruhi-chan no Yūutsu",
+      "The Melancholy of Haruhi-chan Suzumiya",
+      "haruhi (2009)",
+      "haruhichan",
+      "كآبة هاروهي تشان سوزوميا",
+      "すずみやはるひちゃんのゆううつ",
+      "小凉宫春日的忧郁",
+      "涼宮ハルヒちゃんの憂鬱",
+      "스즈미야 하루히짱의 우울"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "http://oyashirosama.com/web/rei/index.htm",
-  "begin": "2009-02-25T16:00:00.000Z",
-  "end": "2009-08-21T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "1326"
+  {
+    "title": "にょろーん☆ちゅるやさん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鹤屋和熏干酪",
+        "Nyoron☆小鹤屋学姐"
+      ]
     },
-    {
-      "site": "nicovideo",
-      "id": "oyashirosama03",
-      "begin": "2017-06-16T15:00:00.000Z"
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.haruhi.tv/haruchuru/",
+    "begin": "2009-02-14T07:00:00.000Z",
+    "end": "2009-05-08T13:02:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "fdKtK5P5aacKiaPA",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1545"
+      },
+      {
+        "site": "bilibili",
+        "id": "4734",
+        "begin": "2009-02-13T16:00:01.000Z",
+        "broadcast": "R/2016-06-13T03:56:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "3651"
+      },
+      {
+        "site": "anilist",
+        "id": "4382"
+      },
+      {
+        "site": "anime-planet",
+        "id": "melancholy-of-haruhi-chan-suzumiya"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-disappearance-of-haruhi-suzumiya"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-disappearance-of-nagato-yuki-chan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-disappearance-of-nagato-yuki-chan-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-melancholy-of-haruhi-suzumiya"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-melancholy-of-haruhi-suzumiya-2009"
+      },
+      {
+        "site": "anisearch",
+        "id": "2522"
+      },
+      {
+        "site": "kitsu",
+        "id": "751"
+      },
+      {
+        "site": "myanimelist",
+        "id": "849"
+      },
+      {
+        "site": "notify",
+        "id": "Vey0cFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2009,
+      "month": "02"
     },
-    {
-      "site": "anidb",
-      "id": "15350"
-    },
-    {
-      "site": "anidb",
-      "id": "4894"
-    },
-    {
-      "site": "anidb",
-      "id": "8350"
-    },
-    {
-      "site": "anilist",
-      "id": "114446"
-    },
-    {
-      "site": "anilist",
-      "id": "1889"
-    },
-    {
-      "site": "anime-planet",
-      "id": "higurashi-no-naku-koro-ni-kaku-outbreak"
-    },
-    {
-      "site": "anime-planet",
-      "id": "higurashi-no-naku-koro-ni-kira"
-    },
-    {
-      "site": "anime-planet",
-      "id": "higurashi-when-they-cry-gou"
-    },
-    {
-      "site": "anime-planet",
-      "id": "higurashi-when-they-cry-sotsu"
-    },
-    {
-      "site": "anime-planet",
-      "id": "when-they-cry-higurashi"
-    },
-    {
-      "site": "anime-planet",
-      "id": "when-they-cry-higurashi-nekogoroshi-hen"
-    },
-    {
-      "site": "anime-planet",
-      "id": "when-they-cry-kai"
-    },
-    {
-      "site": "anime-planet",
-      "id": "when-they-cry-kai-ura-higu"
-    },
-    {
-      "site": "anisearch",
-      "id": "14878"
-    },
-    {
-      "site": "anisearch",
-      "id": "4012"
-    },
-    {
-      "site": "kitsu",
-      "id": "1699"
-    },
-    {
-      "site": "livechart",
-      "id": "10473"
-    },
-    {
-      "site": "livechart",
-      "id": "108"
-    },
-    {
-      "site": "livechart",
-      "id": "3604"
-    },
-    {
-      "site": "livechart",
-      "id": "3675"
-    },
-    {
-      "site": "livechart",
-      "id": "3996"
-    },
-    {
-      "site": "livechart",
-      "id": "4121"
-    },
-    {
-      "site": "livechart",
-      "id": "4880"
-    },
-    {
-      "site": "livechart",
-      "id": "9758"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1889"
-    },
-    {
-      "site": "myanimelist",
-      "id": "41006"
-    },
-    {
-      "site": "notify",
-      "id": "Xh9fcKimR"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 2009,
-    "month": "02"
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/1888/112345.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1888/112345t.jpg",
+    "synonyms": [
+      "Nyoro-n☆Churuya-san",
+      "Nyoron Churuya-san",
+      "Nyoron! Churuya-San",
+      "Nyoron! Churuya-san",
+      "Nyoroon Churuya-san",
+      "Nyoroon, Mini Churuya !",
+      "Nyoro~n Churuya-san",
+      "Nyorōn Churuya-san",
+      "haruhi: nyoron",
+      "nyoron",
+      "Нёрон Чуруя-сан",
+      "にょろーん☆ちゅるやさん",
+      "にょろーんちゅるやさん",
+      "뇨-롱 츄루아씨",
+      "뇨롱 츄루야씨"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 5,
-  "picture": "https://cdn.myanimelist.net/images/anime/4/14113.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/4/14113t.jpg",
-  "synonyms": [
-    "HiguRei",
-    "Higurashi no Naku Koro ni 3",
-    "Higurashi no Naku Koro ni 3rd Season",
-    "Higurashi no Naku Koro ni Dai San Ki",
-    "Higurashi: Hinamizawa, le village maudit (Gratitude)",
-    "Higurashi: When They Cry – Rei",
-    "HnNKnR",
-    "When Cicadas Cry 3",
-    "When Cicadas Cry Rei",
-    "When They Cry - Higurashi 3",
-    "When They Cry 3",
-    "When They Cry Rei",
-    "When They Cry: Rei",
-    "higu ova 1",
-    "higu3",
-    "higurashi3",
-    "В час",
-    "Когда плачут цикады 3",
-    "коли плачуть цикади ІІІ",
-    "ひぐらしのなくころにれい",
-    "ひぐらしのなく頃に礼",
-    "寒蝉鸣泣之时 礼",
-    "暮蟬悲鳴時 禮",
-    "쓰르라미 울 적에 례"
-  ]
-}
+  {
+    "title": "×××HOLiC 春夢記",
+    "titleTranslate": {
+      "zh-Hans": [
+        "×××HOLiC 春梦记"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://kc.kodansha.co.jp/tsubaholi/",
+    "begin": "2009-02-17T16:00:00.000Z",
+    "end": "2009-06-23T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "tI5591icFNXPWVLw",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2898"
+      },
+      {
+        "site": "bilibili",
+        "id": "3390",
+        "begin": "2009-02-16T16:00:01.000Z",
+        "broadcast": "R/2016-03-08T03:16:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "5570"
+      },
+      {
+        "site": "anidb",
+        "id": "6191"
+      },
+      {
+        "site": "anidb",
+        "id": "7178"
+      },
+      {
+        "site": "anilist",
+        "id": "3091"
+      },
+      {
+        "site": "anilist",
+        "id": "4938"
+      },
+      {
+        "site": "anilist",
+        "id": "6864"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tsubasa-spring-thunder-chronicle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "xxx-holic"
+      },
+      {
+        "site": "anime-planet",
+        "id": "xxx-holic-kei"
+      },
+      {
+        "site": "anime-planet",
+        "id": "xxx-holic-movie-a-midsummer-nights-dream"
+      },
+      {
+        "site": "anime-planet",
+        "id": "xxx-holic-rou"
+      },
+      {
+        "site": "anisearch",
+        "id": "4440"
+      },
+      {
+        "site": "anisearch",
+        "id": "5123"
+      },
+      {
+        "site": "anisearch",
+        "id": "5573"
+      },
+      {
+        "site": "kitsu",
+        "id": "2787"
+      },
+      {
+        "site": "kitsu",
+        "id": "3859"
+      },
+      {
+        "site": "kitsu",
+        "id": "4759"
+      },
+      {
+        "site": "livechart",
+        "id": "3698"
+      },
+      {
+        "site": "livechart",
+        "id": "4031"
+      },
+      {
+        "site": "livechart",
+        "id": "4508"
+      },
+      {
+        "site": "livechart",
+        "id": "4575"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3091"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4938"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6864"
+      },
+      {
+        "site": "notify",
+        "id": "XfC85KmmR"
+      },
+      {
+        "site": "notify",
+        "id": "ZpRRtKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "q_0r5Kiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2009,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/25079.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/25079t.jpg",
+    "synonyms": [
+      "shunmuki",
+      "xxxHOLiC OVA",
+      "xxxHOLiC Shunmu-ki",
+      "xxxHOLiC Shunmuki: Chronique de Songes de Printemps",
+      "xxxHOLiC 春夢記",
+      "xxxHOLiC: Shunmuki",
+      "xxxHolic : Shunmuki - Chroniques de Songes de Printemps",
+      "×××HOLiC 春夢記",
+      "×××HOLiC 春梦记",
+      "Триплексоголик: Весенний сон"
+    ]
+  },
+  {
+    "title": "ひぐらしのなく頃に礼",
+    "titleTranslate": {
+      "zh-Hans": [
+        "寒蝉鸣泣之时 礼"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://oyashirosama.com/web/rei/index.htm",
+    "begin": "2009-02-25T16:00:00.000Z",
+    "end": "2009-08-21T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1326"
+      },
+      {
+        "site": "nicovideo",
+        "id": "oyashirosama03",
+        "begin": "2017-06-16T15:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "15350"
+      },
+      {
+        "site": "anidb",
+        "id": "4894"
+      },
+      {
+        "site": "anidb",
+        "id": "8350"
+      },
+      {
+        "site": "anilist",
+        "id": "114446"
+      },
+      {
+        "site": "anilist",
+        "id": "1889"
+      },
+      {
+        "site": "anime-planet",
+        "id": "higurashi-no-naku-koro-ni-kaku-outbreak"
+      },
+      {
+        "site": "anime-planet",
+        "id": "higurashi-no-naku-koro-ni-kira"
+      },
+      {
+        "site": "anime-planet",
+        "id": "higurashi-when-they-cry-gou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "higurashi-when-they-cry-sotsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "when-they-cry-higurashi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "when-they-cry-higurashi-nekogoroshi-hen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "when-they-cry-kai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "when-they-cry-kai-ura-higu"
+      },
+      {
+        "site": "anisearch",
+        "id": "14878"
+      },
+      {
+        "site": "anisearch",
+        "id": "4012"
+      },
+      {
+        "site": "kitsu",
+        "id": "1699"
+      },
+      {
+        "site": "livechart",
+        "id": "10473"
+      },
+      {
+        "site": "livechart",
+        "id": "108"
+      },
+      {
+        "site": "livechart",
+        "id": "3604"
+      },
+      {
+        "site": "livechart",
+        "id": "3675"
+      },
+      {
+        "site": "livechart",
+        "id": "3996"
+      },
+      {
+        "site": "livechart",
+        "id": "4121"
+      },
+      {
+        "site": "livechart",
+        "id": "4880"
+      },
+      {
+        "site": "livechart",
+        "id": "9758"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1889"
+      },
+      {
+        "site": "myanimelist",
+        "id": "41006"
+      },
+      {
+        "site": "notify",
+        "id": "Xh9fcKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2009,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 5,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/14113.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/14113t.jpg",
+    "synonyms": [
+      "HiguRei",
+      "Higurashi no Naku Koro ni 3",
+      "Higurashi no Naku Koro ni 3rd Season",
+      "Higurashi no Naku Koro ni Dai San Ki",
+      "Higurashi: Hinamizawa, le village maudit (Gratitude)",
+      "Higurashi: When They Cry – Rei",
+      "HnNKnR",
+      "When Cicadas Cry 3",
+      "When Cicadas Cry Rei",
+      "When They Cry - Higurashi 3",
+      "When They Cry 3",
+      "When They Cry Rei",
+      "When They Cry: Rei",
+      "higu ova 1",
+      "higu3",
+      "higurashi3",
+      "В час",
+      "Когда плачут цикады 3",
+      "коли плачуть цикади ІІІ",
+      "ひぐらしのなくころにれい",
+      "ひぐらしのなく頃に礼",
+      "寒蝉鸣泣之时 礼",
+      "暮蟬悲鳴時 禮",
+      "쓰르라미 울 적에 례"
+    ]
+  }
+]

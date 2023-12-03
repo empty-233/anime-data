@@ -1,161 +1,1064 @@
-{
-  "title": "HELLSING OVA",
-  "titleTranslate": {
-    "zh-Hans": [
-      "皇家国教骑士团 OVA"
+[
+  {
+    "title": "パピヨンローゼ New Season",
+    "titleTranslate": {
+      "zh-Hans": [
+        "内衣战士玫瑰蝴蝶 New Season",
+        "内衣战士蝴蝶玫瑰"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.mxtv.co.jp/papiyon/index.html",
+    "begin": "2006-02-09T18:23:00.000Z",
+    "end": "2006-03-16T19:08:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "7852"
+      },
+      {
+        "site": "anidb",
+        "id": "2034"
+      },
+      {
+        "site": "anime-planet",
+        "id": "papillon-rose-ova"
+      },
+      {
+        "site": "anisearch",
+        "id": "488"
+      },
+      {
+        "site": "kitsu",
+        "id": "1796"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1995"
+      },
+      {
+        "site": "notify",
+        "id": "TTvL5KiiR"
+      }
     ],
-    "zh-Hant": [
-      "厄夜怪客 OVA"
-    ],
-    "en": [
-      "Hellsing Ultimate"
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2006,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/21126.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/21126t.jpg",
+    "synonyms": [
+      "Papillon Rose (2006)",
+      "Papillon Rose New Generation",
+      "Papillon Rose: New Generation",
+      "Papillon Rose: New Season",
+      "パピヨンローゼ",
+      "パピヨンローゼ New Season",
+      "内衣战士蝴蝶玫瑰",
+      "玫瑰文胸的季节"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "http://www.geneon-ent.co.jp/rondorobe/anime/hellsing/index.html",
-  "begin": "2006-02-10T16:00:00.000Z",
-  "end": "2012-12-26T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "letv",
-      "id": "46008",
-      "begin": ""
+  {
+    "title": "REC",
+    "titleTranslate": {
+      "zh-Hans": [
+        "甜蜜声优",
+        "爱上配音演员",
+        "Rec爱上配音员"
+      ]
     },
-    {
-      "site": "bangumi",
-      "id": "493"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/rec-aka/",
+    "begin": "2006-02-02T17:10:00.000Z",
+    "end": "2006-04-06T17:40:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "UOjTUbkfj80wrhY",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2082"
+      },
+      {
+        "site": "bilibili",
+        "id": "1397",
+        "begin": "2006-02-01T16:00:00.000Z",
+        "broadcast": "R/2012-11-08T14:42:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "1847"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rec-special"
+      },
+      {
+        "site": "anisearch",
+        "id": "6859"
+      },
+      {
+        "site": "kitsu",
+        "id": "1664"
+      },
+      {
+        "site": "livechart",
+        "id": "5016"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1847"
+      },
+      {
+        "site": "notify",
+        "id": "4oyfcFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2006,
+      "month": "02"
     },
-    {
-      "site": "netflix",
-      "id": "80988066",
-      "begin": "2019-07-30T16:00:00.000Z",
-      "broadcast": "R/2019-07-30T16:00:00.000Z/P7D"
-    },
-    {
-      "site": "anidb",
-      "id": "32"
-    },
-    {
-      "site": "anilist",
-      "id": "11077"
-    },
-    {
-      "site": "anilist",
-      "id": "270"
-    },
-    {
-      "site": "anime-planet",
-      "id": "hellsing"
-    },
-    {
-      "site": "anime-planet",
-      "id": "hellsing-psalm-of-darkness"
-    },
-    {
-      "site": "anime-planet",
-      "id": "hellsing-the-dawn"
-    },
-    {
-      "site": "anime-planet",
-      "id": "hellsing-ultimate-digest-for-freaks"
-    },
-    {
-      "site": "anisearch",
-      "id": "312"
-    },
-    {
-      "site": "anisearch",
-      "id": "7259"
-    },
-    {
-      "site": "anisearch",
-      "id": "8302"
-    },
-    {
-      "site": "anisearch",
-      "id": "8405"
-    },
-    {
-      "site": "kitsu",
-      "id": "245"
-    },
-    {
-      "site": "kitsu",
-      "id": "4782"
-    },
-    {
-      "site": "kitsu",
-      "id": "6453"
-    },
-    {
-      "site": "livechart",
-      "id": "3639"
-    },
-    {
-      "site": "livechart",
-      "id": "3954"
-    },
-    {
-      "site": "livechart",
-      "id": "5117"
-    },
-    {
-      "site": "livechart",
-      "id": "6457"
-    },
-    {
-      "site": "myanimelist",
-      "id": "11077"
-    },
-    {
-      "site": "myanimelist",
-      "id": "270"
-    },
-    {
-      "site": "myanimelist",
-      "id": "6904"
-    },
-    {
-      "site": "notify",
-      "id": "SlVItKmig"
-    },
-    {
-      "site": "notify",
-      "id": "cbFh5KimR"
-    },
-    {
-      "site": "notify",
-      "id": "vfWRtFmmR"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 2006,
-    "month": "02"
+    "status": "FINISHED",
+    "episodes": 9,
+    "picture": "https://cdn.myanimelist.net/images/anime/1940/124243.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1940/124243t.jpg",
+    "synonyms": [
+      "REC",
+      "Рек",
+      "Рэк",
+      "レック",
+      "甜蜜声优"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 10,
-  "picture": "https://cdn.myanimelist.net/images/anime/6/7333.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/6/7333t.jpg",
-  "synonyms": [
-    "HELLSING",
-    "HELLSING OVA",
-    "HU",
-    "Hellsing (2006)",
-    "Hellsing OVA",
-    "Hellsing Ultimate OVA",
-    "Hellsing Ultimate Series",
-    "Helsingas OVA",
-    "Хеллсинг",
-    "Хеллсинг OVA",
-    "Хелсинг (2006)",
-    "הלסינג אולטימטיבי",
-    "הלסינג אוליטמטיבי",
-    "ヘルシング (2006)",
-    "ヘルシング OVA",
-    "ヘルシング （2006）",
-    "皇家国教骑士团ova",
-    "헬싱 (2006)"
-  ]
-}
+  {
+    "title": "エルゴプラクシー",
+    "titleTranslate": {
+      "en": [
+        "Ergo Proxy"
+      ],
+      "zh-Hans": [
+        "死亡代理人"
+      ],
+      "zh-Hant": [
+        "死亡代理人"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.ergoproxy.com/",
+    "begin": "2006-02-05T08:30:00.000Z",
+    "end": "2006-08-12T10:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "837"
+      },
+      {
+        "site": "netflix",
+        "id": "80117347",
+        "begin": "2019-07-30T16:00:00.000Z",
+        "broadcast": "R/2019-07-30T16:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2006,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 23,
+    "picture": "https://cdn.myanimelist.net/images/anime/1183/136187.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1183/136187t.jpg",
+    "synonyms": [
+      "EP",
+      "Ergo Proksi",
+      "Ergoproxy",
+      "ergo",
+      "proxy",
+      "Ерго Прокси",
+      "Ерго проксі",
+      "Ерґо Проксі",
+      "Эрго Прокси",
+      "ארגו פרוקסי",
+      "ارگو پروکسی",
+      "پروکسی مابعد",
+      "えるごぷらくしー",
+      "エルゴ プラクシー",
+      "エルゴプラクシ",
+      "エルゴプラクシー",
+      "死亡代理人"
+    ]
+  },
+  {
+    "title": "ふたりはプリキュア Splash Star",
+    "titleTranslate": {
+      "zh-Hans": [
+        "光之美少女 Splash Star"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://asahi.co.jp/precure_ss/",
+    "begin": "2006-02-04T23:30:00.000Z",
+    "end": "2007-01-28T00:00:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb156x",
+        "begin": "2015-09-02T04:11:36.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "15957"
+      },
+      {
+        "site": "anidb",
+        "id": "1413"
+      },
+      {
+        "site": "anidb",
+        "id": "14332"
+      },
+      {
+        "site": "anidb",
+        "id": "17907"
+      },
+      {
+        "site": "anidb",
+        "id": "4844"
+      },
+      {
+        "site": "anidb",
+        "id": "6433"
+      },
+      {
+        "site": "anidb",
+        "id": "8718"
+      },
+      {
+        "site": "anilist",
+        "id": "100661"
+      },
+      {
+        "site": "anilist",
+        "id": "101908"
+      },
+      {
+        "site": "anilist",
+        "id": "104436"
+      },
+      {
+        "site": "anilist",
+        "id": "10549"
+      },
+      {
+        "site": "anilist",
+        "id": "105857"
+      },
+      {
+        "site": "anilist",
+        "id": "10736"
+      },
+      {
+        "site": "anilist",
+        "id": "112748"
+      },
+      {
+        "site": "anilist",
+        "id": "11569"
+      },
+      {
+        "site": "anilist",
+        "id": "12191"
+      },
+      {
+        "site": "anilist",
+        "id": "12221"
+      },
+      {
+        "site": "anilist",
+        "id": "126905"
+      },
+      {
+        "site": "anilist",
+        "id": "142080"
+      },
+      {
+        "site": "anilist",
+        "id": "157883"
+      },
+      {
+        "site": "anilist",
+        "id": "159429"
+      },
+      {
+        "site": "anilist",
+        "id": "162720"
+      },
+      {
+        "site": "anilist",
+        "id": "16419"
+      },
+      {
+        "site": "anilist",
+        "id": "16442"
+      },
+      {
+        "site": "anilist",
+        "id": "1932"
+      },
+      {
+        "site": "anilist",
+        "id": "20549"
+      },
+      {
+        "site": "anilist",
+        "id": "20577"
+      },
+      {
+        "site": "anilist",
+        "id": "21001"
+      },
+      {
+        "site": "anilist",
+        "id": "21137"
+      },
+      {
+        "site": "anilist",
+        "id": "21504"
+      },
+      {
+        "site": "anilist",
+        "id": "21506"
+      },
+      {
+        "site": "anilist",
+        "id": "4124"
+      },
+      {
+        "site": "anilist",
+        "id": "5684"
+      },
+      {
+        "site": "anilist",
+        "id": "5753"
+      },
+      {
+        "site": "anilist",
+        "id": "603"
+      },
+      {
+        "site": "anilist",
+        "id": "7645"
+      },
+      {
+        "site": "anilist",
+        "id": "8133"
+      },
+      {
+        "site": "anilist",
+        "id": "98059"
+      },
+      {
+        "site": "anilist",
+        "id": "9893"
+      },
+      {
+        "site": "anilist",
+        "id": "9979"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dokidoki-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fresh-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "go-princess-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "happiness-charge-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "heartcatch-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hugtto-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hugtto-pretty-cure-x-futari-wa-pretty-cure-movie-all-stars-memories"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kirakira-pretty-cure-a-la-mode"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mahou-tsukai-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-dx-2-kibou-no-hikari-rainbow-jewel-wo-mamore"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-dx-3-mirai-ni-todoke-sekai-wo-tsunagu-niji-iro-no-hana"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-dx-minna-tomodachi-kiseki-no-zenin-daishuugou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-gogo-dream-live"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-haru-no-carnival"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-minna-de-utau-kiseki-no-mahou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-new-stage-2-kokoro-no-tomodachi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-new-stage-3-eien-no-tomodachi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-new-stage-mirai-no-tomodachi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-kara-minna-e-no-ouen-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-max-heart"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-splash-star-magic-doki-3d-theater"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-splash-star-movie-tic-tac-crisis-hanging-by-a-thin-thread"
+      },
+      {
+        "site": "anime-planet",
+        "id": "smile-precure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "star-twinkle-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "suite-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tropical-rouge-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yes-pretty-cure-5"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yes-pretty-cure-5-gogo"
+      },
+      {
+        "site": "anisearch",
+        "id": "18342"
+      },
+      {
+        "site": "anisearch",
+        "id": "2594"
+      },
+      {
+        "site": "anisearch",
+        "id": "3964"
+      },
+      {
+        "site": "anisearch",
+        "id": "4948"
+      },
+      {
+        "site": "anisearch",
+        "id": "7363"
+      },
+      {
+        "site": "anisearch",
+        "id": "9252"
+      },
+      {
+        "site": "kitsu",
+        "id": "10034"
+      },
+      {
+        "site": "kitsu",
+        "id": "11688"
+      },
+      {
+        "site": "kitsu",
+        "id": "1739"
+      },
+      {
+        "site": "kitsu",
+        "id": "1742"
+      },
+      {
+        "site": "kitsu",
+        "id": "3199"
+      },
+      {
+        "site": "kitsu",
+        "id": "558"
+      },
+      {
+        "site": "kitsu",
+        "id": "5927"
+      },
+      {
+        "site": "kitsu",
+        "id": "6687"
+      },
+      {
+        "site": "kitsu",
+        "id": "7426"
+      },
+      {
+        "site": "kitsu",
+        "id": "8269"
+      },
+      {
+        "site": "livechart",
+        "id": "1252"
+      },
+      {
+        "site": "livechart",
+        "id": "1934"
+      },
+      {
+        "site": "livechart",
+        "id": "325"
+      },
+      {
+        "site": "livechart",
+        "id": "5603"
+      },
+      {
+        "site": "livechart",
+        "id": "5706"
+      },
+      {
+        "site": "livechart",
+        "id": "5839"
+      },
+      {
+        "site": "livechart",
+        "id": "6039"
+      },
+      {
+        "site": "livechart",
+        "id": "6048"
+      },
+      {
+        "site": "livechart",
+        "id": "6275"
+      },
+      {
+        "site": "livechart",
+        "id": "6550"
+      },
+      {
+        "site": "livechart",
+        "id": "905"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10549"
+      },
+      {
+        "site": "myanimelist",
+        "id": "12191"
+      },
+      {
+        "site": "myanimelist",
+        "id": "12221"
+      },
+      {
+        "site": "myanimelist",
+        "id": "16419"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1929"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1932"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21407"
+      },
+      {
+        "site": "myanimelist",
+        "id": "26053"
+      },
+      {
+        "site": "myanimelist",
+        "id": "28669"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31884"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34290"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34302"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36593"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3692"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38578"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40610"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4124"
+      },
+      {
+        "site": "myanimelist",
+        "id": "44191"
+      },
+      {
+        "site": "myanimelist",
+        "id": "50281"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53716"
+      },
+      {
+        "site": "myanimelist",
+        "id": "54716"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5684"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5753"
+      },
+      {
+        "site": "myanimelist",
+        "id": "603"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7645"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8133"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9893"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9979"
+      },
+      {
+        "site": "notify",
+        "id": "-pNkpKimg"
+      },
+      {
+        "site": "notify",
+        "id": "3TDHtFimR"
+      },
+      {
+        "site": "notify",
+        "id": "5fDHtKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "BSrkpFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "Gb-opKiig"
+      },
+      {
+        "site": "notify",
+        "id": "Gmsx8N_4g"
+      },
+      {
+        "site": "notify",
+        "id": "HK9C5Kimg"
+      },
+      {
+        "site": "notify",
+        "id": "INPKpKiig"
+      },
+      {
+        "site": "notify",
+        "id": "MssWhKimR"
+      },
+      {
+        "site": "notify",
+        "id": "P3NX5FmmR"
+      },
+      {
+        "site": "notify",
+        "id": "QnWnpKmig"
+      },
+      {
+        "site": "notify",
+        "id": "SG9MtKiig"
+      },
+      {
+        "site": "notify",
+        "id": "TrDU4H0nR"
+      },
+      {
+        "site": "notify",
+        "id": "UEDl5Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "ZhI3pKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "fVOCkIAGR"
+      },
+      {
+        "site": "notify",
+        "id": "fgjTcKiig"
+      },
+      {
+        "site": "notify",
+        "id": "hgrEtFimg"
+      },
+      {
+        "site": "notify",
+        "id": "o_wj5KiiR"
+      },
+      {
+        "site": "notify",
+        "id": "tEoqN0hVg"
+      },
+      {
+        "site": "notify",
+        "id": "tzmLcFiig"
+      },
+      {
+        "site": "notify",
+        "id": "yBkLcFmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2006,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 49,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/7534.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/7534t.jpg",
+    "synonyms": [
+      "Futari wa Precure: Splash Star",
+      "Futari wa Pretty Cure Splash Star",
+      "PCSS",
+      "Precure Splash Star",
+      "Pretty Cure Season 03",
+      "Pretty Cure Splash Star",
+      "Pretty Cure Splash☆Star",
+      "Pretty Cure: Splash Star",
+      "precure3",
+      "ふたりはプリキュア Splash Star",
+      "ふたりはプリキュア Splash☆Star"
+    ]
+  },
+  {
+    "title": "びんちょうタン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "备长炭"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/bincho/",
+    "begin": "2006-02-02T03:00:00.000Z",
+    "end": "2006-03-30T03:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "8D8KiaPBWxgRn5U0",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3152"
+      },
+      {
+        "site": "bilibili",
+        "id": "1394",
+        "begin": "2006-02-01T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "3648"
+      },
+      {
+        "site": "anilist",
+        "id": "1926"
+      },
+      {
+        "site": "anime-planet",
+        "id": "binchou-tan-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "2589"
+      },
+      {
+        "site": "kitsu",
+        "id": "1736"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1926"
+      },
+      {
+        "site": "notify",
+        "id": "tvzL5Kmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2006,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/61143.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/61143t.jpg",
+    "synonyms": [
+      "Bincho-tan",
+      "Binchotan",
+      "Binchō-tan",
+      "binchou",
+      "Бинтё-тан",
+      "びんちょうたん",
+      "びんちょうタン",
+      "备长炭"
+    ]
+  },
+  {
+    "title": "HELLSING OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "皇家国教骑士团 OVA"
+      ],
+      "zh-Hant": [
+        "厄夜怪客 OVA"
+      ],
+      "en": [
+        "Hellsing Ultimate"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.geneon-ent.co.jp/rondorobe/anime/hellsing/index.html",
+    "begin": "2006-02-10T16:00:00.000Z",
+    "end": "2012-12-26T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "46008",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "493"
+      },
+      {
+        "site": "netflix",
+        "id": "80988066",
+        "begin": "2019-07-30T16:00:00.000Z",
+        "broadcast": "R/2019-07-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "32"
+      },
+      {
+        "site": "anilist",
+        "id": "11077"
+      },
+      {
+        "site": "anilist",
+        "id": "270"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hellsing"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hellsing-psalm-of-darkness"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hellsing-the-dawn"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hellsing-ultimate-digest-for-freaks"
+      },
+      {
+        "site": "anisearch",
+        "id": "312"
+      },
+      {
+        "site": "anisearch",
+        "id": "7259"
+      },
+      {
+        "site": "anisearch",
+        "id": "8302"
+      },
+      {
+        "site": "anisearch",
+        "id": "8405"
+      },
+      {
+        "site": "kitsu",
+        "id": "245"
+      },
+      {
+        "site": "kitsu",
+        "id": "4782"
+      },
+      {
+        "site": "kitsu",
+        "id": "6453"
+      },
+      {
+        "site": "livechart",
+        "id": "3639"
+      },
+      {
+        "site": "livechart",
+        "id": "3954"
+      },
+      {
+        "site": "livechart",
+        "id": "5117"
+      },
+      {
+        "site": "livechart",
+        "id": "6457"
+      },
+      {
+        "site": "myanimelist",
+        "id": "11077"
+      },
+      {
+        "site": "myanimelist",
+        "id": "270"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6904"
+      },
+      {
+        "site": "notify",
+        "id": "SlVItKmig"
+      },
+      {
+        "site": "notify",
+        "id": "cbFh5KimR"
+      },
+      {
+        "site": "notify",
+        "id": "vfWRtFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2006,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 10,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/7333.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/7333t.jpg",
+    "synonyms": [
+      "HELLSING",
+      "HELLSING OVA",
+      "HU",
+      "Hellsing (2006)",
+      "Hellsing OVA",
+      "Hellsing Ultimate OVA",
+      "Hellsing Ultimate Series",
+      "Helsingas OVA",
+      "Хеллсинг",
+      "Хеллсинг OVA",
+      "Хелсинг (2006)",
+      "הלסינג אולטימטיבי",
+      "הלסינג אוליטמטיבי",
+      "ヘルシング (2006)",
+      "ヘルシング OVA",
+      "ヘルシング （2006）",
+      "皇家国教骑士团ova",
+      "헬싱 (2006)"
+    ]
+  }
+]

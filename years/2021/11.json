@@ -1,60 +1,552 @@
-{
-  "title": "サマーゴースト",
-  "titleTranslate": {
-    "zh-Hans": [
-      "夏日幽灵",
-      "夏日幻魂"
+[
+  {
+    "title": "スーパー・クルックス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超级骗子"
+      ],
+      "zh-Hant": [
+        "超級小偷",
+        "神級大盜"
+      ],
+      "en": [
+        "Super Crooks"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-11-24T16:00:00.000Z",
+    "end": "2021-11-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "277371"
+      },
+      {
+        "site": "netflix",
+        "id": "81034907",
+        "begin": "2021-11-25T00:00:00.000Z",
+        "broadcast": "R/2021-11-25T00:00:00.000Z/P7D"
+      }
     ],
-    "en": [
-      "Summer Ghost"
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2021,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/1579/118015.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1579/118015t.jpg",
+    "synonyms": [
+      "Super Ladri",
+      "Super ladri",
+      "ซูเปอร์ครูกส์ รวมพลซ่ามหาโจร",
+      "スーパー・クルックス",
+      "超级骗子"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "https://summerghost.jp/",
-  "begin": "2021-11-11T16:00:00.000Z",
-  "end": "2021-11-11T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "328674"
+  {
+    "title": "攻殻機動隊 SAC_2045 持続可能戦争",
+    "titleTranslate": {
+      "zh-Hans": [
+        "攻壳机动队：SAC_2045 持续可能战争",
+        "攻壳机动队 2045 剧场版"
+      ],
+      "zh-Hant": [
+        "攻殼機動隊：SAC_2045：永續戰爭"
+      ],
+      "en": [
+        "Ghost in the Shell: SAC_2045 Sustainable War"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "28237193",
-      "begin": "",
-      "broadcast": ""
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.ghostintheshell-sac2045.jp/",
+    "begin": "2021-11-11T16:00:00.000Z",
+    "end": "2021-11-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "341383"
+      },
+      {
+        "site": "netflix",
+        "id": "81513128",
+        "begin": "2022-05-08T16:00:00.000Z",
+        "broadcast": "R/2022-05-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "20139274",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "13098"
+      },
+      {
+        "site": "anilist",
+        "id": "106154"
+      },
+      {
+        "site": "anilist",
+        "id": "117756"
+      },
+      {
+        "site": "anilist",
+        "id": "163143"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-sac-2045"
+      },
+      {
+        "site": "anisearch",
+        "id": "14020"
+      },
+      {
+        "site": "kitsu",
+        "id": "42036"
+      },
+      {
+        "site": "kitsu",
+        "id": "43142"
+      },
+      {
+        "site": "livechart",
+        "id": "3607"
+      },
+      {
+        "site": "livechart",
+        "id": "3662"
+      },
+      {
+        "site": "livechart",
+        "id": "3767"
+      },
+      {
+        "site": "livechart",
+        "id": "3782"
+      },
+      {
+        "site": "livechart",
+        "id": "3984"
+      },
+      {
+        "site": "livechart",
+        "id": "4054"
+      },
+      {
+        "site": "livechart",
+        "id": "4823"
+      },
+      {
+        "site": "livechart",
+        "id": "5530"
+      },
+      {
+        "site": "livechart",
+        "id": "5793"
+      },
+      {
+        "site": "livechart",
+        "id": "6221"
+      },
+      {
+        "site": "livechart",
+        "id": "6604"
+      },
+      {
+        "site": "livechart",
+        "id": "7133"
+      },
+      {
+        "site": "livechart",
+        "id": "7156"
+      },
+      {
+        "site": "livechart",
+        "id": "7289"
+      },
+      {
+        "site": "livechart",
+        "id": "7353"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38799"
+      },
+      {
+        "site": "myanimelist",
+        "id": "41750"
+      },
+      {
+        "site": "myanimelist",
+        "id": "54860"
+      },
+      {
+        "site": "notify",
+        "id": "2OMM81fVg"
+      },
+      {
+        "site": "notify",
+        "id": "Cz93PbhGg"
+      },
+      {
+        "site": "notify",
+        "id": "NrYRpzsmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2021,
+      "month": "11"
     },
-    {
-      "site": "anilist",
-      "id": "130046"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ichiban-chikakute-tooi-hoshi"
-    },
-    {
-      "site": "livechart",
-      "id": "10759"
-    },
-    {
-      "site": "myanimelist",
-      "id": "48177"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 2021,
-    "month": "11"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1319/117579.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1319/117579t.jpg",
+    "synonyms": [
+      "Ghost in the Shell : SAC_2045 - Sustainable War",
+      "Ghost in the Shell: SAC_2045",
+      "Ghost in the Shell: SAC_2045 (2021)",
+      "Ghost in the Shell: SAC_2045 - Guerra Sostenible",
+      "Ghost in the Shell: SAC_2045 - Guerra sostenibile",
+      "Ghost in the Shell: SAC_2045 - Jizoku Kanou Sensou",
+      "Ghost in the Shell: SAC_2045 - Sustainable War",
+      "Ghost in the Shell: SAC_2045 - Sustainable Warfare",
+      "Ghost in the Shell: SAC_2045 Sustainable War",
+      "Ghost in the Shell: SAC_2045: Guerra sostenible",
+      "Ghost in the Shell: Stand Alone Complex 2045",
+      "GitS: SAC_2045 - Jizoku Kanou Sensou",
+      "Koukaku Kidoutai: SAC_2045 Movie",
+      "Kōkaku Kidōtai: SAC_2045 - Jizoku Kanō Sensō",
+      "攻壳机动队：SAC_2045 永续战争",
+      "攻殻機動隊 SAC_2045 持続可能戦争",
+      "攻殼機動隊：SAC_2045 永續戰爭"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1651/117943.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1651/117943t.jpg",
-  "synonyms": [
-    "Project Common",
-    "SUMMER GHOST",
-    "サマーゴースト"
-  ]
-}
+  {
+    "title": "映画 すみっコぐらし 青い月夜のまほうのコ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "角落小伙伴：蓝色月夜的魔法之子"
+      ],
+      "zh-Hant": [
+        "劇場版 角落小夥伴 藍色月夜的魔法之子",
+        "劇場版角落小夥伴：藍色月夜的魔法之子",
+        "角落小夥伴電影版：藍色月夜的魔法之子"
+      ],
+      "en": [
+        "Sumikkogurashi: The Little Wizard in the Blue Moonlight"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-11-04T16:00:00.000Z",
+    "end": "2021-11-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "333260"
+      },
+      {
+        "site": "viu",
+        "id": "461119",
+        "begin": "2022-10-31T16:00:00.000Z",
+        "broadcast": "R/2022-10-31T16:00:00.000Z/P7D",
+        "comment": "粵語版: 461120"
+      },
+      {
+        "site": "netflix",
+        "id": "81702776",
+        "begin": "2023-08-13T16:00:00.000Z",
+        "broadcast": "R/2023-08-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "14683"
+      },
+      {
+        "site": "anidb",
+        "id": "17793"
+      },
+      {
+        "site": "anilist",
+        "id": "111905"
+      },
+      {
+        "site": "anilist",
+        "id": "169296"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sumikko-gurashi-movie-3-tsugihagi-koujou-no-fushigi-na-ko"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sumikko-gurashi-movie-tobidasu-ehon-to-himitsu-no-ko"
+      },
+      {
+        "site": "anisearch",
+        "id": "14650"
+      },
+      {
+        "site": "anisearch",
+        "id": "18109"
+      },
+      {
+        "site": "kitsu",
+        "id": "43121"
+      },
+      {
+        "site": "kitsu",
+        "id": "46906"
+      },
+      {
+        "site": "livechart",
+        "id": "11758"
+      },
+      {
+        "site": "livechart",
+        "id": "9513"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39250"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53936"
+      },
+      {
+        "site": "notify",
+        "id": "1VPajrjWR"
+      },
+      {
+        "site": "notify",
+        "id": "JaRcgZp4g"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2021,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1929/117643.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1929/117643t.jpg",
+    "synonyms": [
+      "Eiga Sumikko Gurashi 2",
+      "Eiga Sumikko Gurashi: Aoi Tsukiyo no Mahou no Ko",
+      "Eiga Sumikko Gurashi: Aoi Tsukiyo no Mahō no Ko",
+      "Sumikko Gurashi Movie 2",
+      "Sumikko Gurashi Movie 2: Aoi Tsukiyo no Maho no Ko",
+      "Sumikko Gurashi Movie: Aoi Tsukiyo no Mahou no Ko",
+      "Sumikkogurashi: The Little Wizard in the Blue Moonlight",
+      "映画 すみっコぐらし 青い月夜のまほうのコ",
+      "映画 すみっコぐらし2",
+      "映画すみっコぐらし2"
+    ]
+  },
+  {
+    "title": "薄桜鬼 OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "薄樱鬼 OVA"
+      ],
+      "zh-Hant": [
+        "薄櫻鬼 OVA",
+        "薄櫻鬼 新OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://www.nbcuni.co.jp/anime/hakuoki/",
+    "begin": "2021-11-12T16:00:00.000Z",
+    "end": "2022-01-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "349519"
+      },
+      {
+        "site": "gamer",
+        "id": "118479",
+        "begin": "2021-11-13T04:00:00.000Z",
+        "broadcast": "R/2021-11-13T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "7405"
+      },
+      {
+        "site": "anilist",
+        "id": "6895"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hakuouki-demon-of-the-fleeting-blossom"
+      },
+      {
+        "site": "anisearch",
+        "id": "6066"
+      },
+      {
+        "site": "kitsu",
+        "id": "4775"
+      },
+      {
+        "site": "livechart",
+        "id": "1026"
+      },
+      {
+        "site": "livechart",
+        "id": "1909"
+      },
+      {
+        "site": "livechart",
+        "id": "2741"
+      },
+      {
+        "site": "livechart",
+        "id": "351"
+      },
+      {
+        "site": "livechart",
+        "id": "4089"
+      },
+      {
+        "site": "livechart",
+        "id": "41"
+      },
+      {
+        "site": "livechart",
+        "id": "4739"
+      },
+      {
+        "site": "livechart",
+        "id": "5753"
+      },
+      {
+        "site": "livechart",
+        "id": "5845"
+      },
+      {
+        "site": "livechart",
+        "id": "8091"
+      },
+      {
+        "site": "livechart",
+        "id": "856"
+      },
+      {
+        "site": "livechart",
+        "id": "8948"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6895"
+      },
+      {
+        "site": "notify",
+        "id": "nPmRtKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2021,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/1763/117761.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1763/117761t.jpg",
+    "synonyms": [
+      "Hakuoki : Demon of the Fleeting Blossom",
+      "Hakuoki ~Demon of the Fleeting Blossom~",
+      "Hakuoki ~Demon of the Fleeting Blossom~ (2021)",
+      "Hakuoki ~Demon of the Fleeting Blossom~ OVA (2021)",
+      "Hakuoki: Demon of the Fleeting Blossom",
+      "Hakuoki: Demon of the Fleeting Blossom (2021)",
+      "Hakuoki: Demon of the Fleeting Blossom (OVA)",
+      "Hakuouki",
+      "Hakuouki OVA",
+      "Hakuouki OVA (Shinsaku)",
+      "Hakuōki",
+      "薄桜鬼",
+      "薄桜鬼 OVA",
+      "薄桜鬼 新作OVA",
+      "薄櫻鬼"
+    ]
+  },
+  {
+    "title": "サマーゴースト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "夏日幽灵",
+        "夏日幻魂"
+      ],
+      "en": [
+        "Summer Ghost"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://summerghost.jp/",
+    "begin": "2021-11-11T16:00:00.000Z",
+    "end": "2021-11-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "328674"
+      },
+      {
+        "site": "bilibili",
+        "id": "28237193",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anilist",
+        "id": "130046"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ichiban-chikakute-tooi-hoshi"
+      },
+      {
+        "site": "livechart",
+        "id": "10759"
+      },
+      {
+        "site": "myanimelist",
+        "id": "48177"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2021,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1651/117943.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1651/117943t.jpg",
+    "synonyms": [
+      "Project Common",
+      "SUMMER GHOST",
+      "サマーゴースト"
+    ]
+  }
+]

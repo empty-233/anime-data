@@ -1,137 +1,393 @@
-{
-  "title": "またまたセイバーマリオネットJ",
-  "titleTranslate": {
-    "zh-Hans": [
-      "机械女神J again"
+[
+  {
+    "title": "ドクタースランプ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿拉蕾"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-11-26T16:00:00.000Z",
+    "end": "1999-09-22T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb1cip",
+        "begin": "2015-11-10T07:05:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "4025"
+      },
+      {
+        "site": "anidb",
+        "id": "1925"
+      },
+      {
+        "site": "anidb",
+        "id": "4015"
+      },
+      {
+        "site": "anidb",
+        "id": "7543"
+      },
+      {
+        "site": "anilist",
+        "id": "2222"
+      },
+      {
+        "site": "anilist",
+        "id": "223"
+      },
+      {
+        "site": "anilist",
+        "id": "8550"
+      },
+      {
+        "site": "anilist",
+        "id": "892"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan-hoyoyo-nanaba-shiro-no-hihou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan-hoyoyo-tasuketa-same-ni-tsurerarete"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan-hoyoyo-yume-no-to-mecha-police"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan-n-cha-penguin-mura-wa-hare-nochi-hare"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan-n-cha-wakuwaku-hot-no-natsuyasumi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-no-bikkuriman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-dr-mashirito-and-abale-chan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-movie-1-hello-wonderland"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-movie-2-space-adventure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-movie-3-the-great-race-around-the-world"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-movie-7-arale-chan-n-cha-pengin-mura-yori-ai-wo-komete"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-robot-taiketsu-shukuteki-dr-mashirito-toujou-keen-de-yuushou-penguin-grand-prix"
+      },
+      {
+        "site": "anisearch",
+        "id": "10330"
+      },
+      {
+        "site": "anisearch",
+        "id": "2134"
+      },
+      {
+        "site": "anisearch",
+        "id": "3492"
+      },
+      {
+        "site": "anisearch",
+        "id": "468"
+      },
+      {
+        "site": "anisearch",
+        "id": "6244"
+      },
+      {
+        "site": "kitsu",
+        "id": "10966"
+      },
+      {
+        "site": "kitsu",
+        "id": "10967"
+      },
+      {
+        "site": "kitsu",
+        "id": "2013"
+      },
+      {
+        "site": "kitsu",
+        "id": "5385"
+      },
+      {
+        "site": "kitsu",
+        "id": "5386"
+      },
+      {
+        "site": "livechart",
+        "id": "10983"
+      },
+      {
+        "site": "livechart",
+        "id": "10989"
+      },
+      {
+        "site": "livechart",
+        "id": "10990"
+      },
+      {
+        "site": "livechart",
+        "id": "10991"
+      },
+      {
+        "site": "livechart",
+        "id": "10992"
+      },
+      {
+        "site": "livechart",
+        "id": "10993"
+      },
+      {
+        "site": "livechart",
+        "id": "10994"
+      },
+      {
+        "site": "livechart",
+        "id": "10995"
+      },
+      {
+        "site": "livechart",
+        "id": "10996"
+      },
+      {
+        "site": "livechart",
+        "id": "10997"
+      },
+      {
+        "site": "livechart",
+        "id": "7468"
+      },
+      {
+        "site": "livechart",
+        "id": "8828"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2222"
+      },
+      {
+        "site": "myanimelist",
+        "id": "223"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30449"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30450"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8550"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8551"
+      },
+      {
+        "site": "notify",
+        "id": "4JXltFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "95X_pFimR"
+      },
+      {
+        "site": "notify",
+        "id": "SKfitKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "_nnPcKimg"
+      },
+      {
+        "site": "notify",
+        "id": "iofmpKmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1997,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 74,
+    "picture": "https://cdn.myanimelist.net/images/anime/1475/116861.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1475/116861t.jpg",
+    "synonyms": [
+      "Doctor Slump",
+      "Doctor Slump 2ed",
+      "Dr. Slump 2",
+      "New Dr. Slump",
+      "What a mess Slump e Arale",
+      "ドクタースランプ",
+      "阿拉蕾(1997)"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1997-11-24T16:00:00.000Z",
-  "end": "1997-11-24T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "6297"
+  {
+    "title": "またまたセイバーマリオネットJ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机械女神J again"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "3265",
-      "begin": "2016-01-05T06:16:58.000Z",
-      "broadcast": "R/2016-01-05T06:16:58.000Z/P7D"
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-11-24T16:00:00.000Z",
+    "end": "1997-11-24T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "6297"
+      },
+      {
+        "site": "bilibili",
+        "id": "3265",
+        "begin": "2016-01-05T06:16:58.000Z",
+        "broadcast": "R/2016-01-05T06:16:58.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "344"
+      },
+      {
+        "site": "anidb",
+        "id": "394"
+      },
+      {
+        "site": "anilist",
+        "id": "1231"
+      },
+      {
+        "site": "anilist",
+        "id": "573"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saber-marionette-j"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saber-marionette-j-to-x"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saber-marionette-r"
+      },
+      {
+        "site": "anisearch",
+        "id": "1303"
+      },
+      {
+        "site": "anisearch",
+        "id": "2154"
+      },
+      {
+        "site": "kitsu",
+        "id": "1107"
+      },
+      {
+        "site": "kitsu",
+        "id": "1108"
+      },
+      {
+        "site": "kitsu",
+        "id": "12041"
+      },
+      {
+        "site": "kitsu",
+        "id": "530"
+      },
+      {
+        "site": "livechart",
+        "id": "1709"
+      },
+      {
+        "site": "livechart",
+        "id": "5001"
+      },
+      {
+        "site": "livechart",
+        "id": "5802"
+      },
+      {
+        "site": "livechart",
+        "id": "6899"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1231"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1232"
+      },
+      {
+        "site": "myanimelist",
+        "id": "573"
+      },
+      {
+        "site": "notify",
+        "id": "4I2xcFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "I1UTcFimg"
+      },
+      {
+        "site": "notify",
+        "id": "SWhx5Kmmg"
+      },
+      {
+        "site": "notify",
+        "id": "VBs6tFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1997,
+      "month": "11"
     },
-    {
-      "site": "anidb",
-      "id": "344"
-    },
-    {
-      "site": "anidb",
-      "id": "394"
-    },
-    {
-      "site": "anilist",
-      "id": "1231"
-    },
-    {
-      "site": "anilist",
-      "id": "573"
-    },
-    {
-      "site": "anime-planet",
-      "id": "saber-marionette-j"
-    },
-    {
-      "site": "anime-planet",
-      "id": "saber-marionette-j-to-x"
-    },
-    {
-      "site": "anime-planet",
-      "id": "saber-marionette-r"
-    },
-    {
-      "site": "anisearch",
-      "id": "1303"
-    },
-    {
-      "site": "anisearch",
-      "id": "2154"
-    },
-    {
-      "site": "kitsu",
-      "id": "1107"
-    },
-    {
-      "site": "kitsu",
-      "id": "1108"
-    },
-    {
-      "site": "kitsu",
-      "id": "12041"
-    },
-    {
-      "site": "kitsu",
-      "id": "530"
-    },
-    {
-      "site": "livechart",
-      "id": "1709"
-    },
-    {
-      "site": "livechart",
-      "id": "5001"
-    },
-    {
-      "site": "livechart",
-      "id": "5802"
-    },
-    {
-      "site": "livechart",
-      "id": "6899"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1231"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1232"
-    },
-    {
-      "site": "myanimelist",
-      "id": "573"
-    },
-    {
-      "site": "notify",
-      "id": "4I2xcFmmg"
-    },
-    {
-      "site": "notify",
-      "id": "I1UTcFimg"
-    },
-    {
-      "site": "notify",
-      "id": "SWhx5Kmmg"
-    },
-    {
-      "site": "notify",
-      "id": "VBs6tFmiR"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 1997,
-    "month": "11"
-  },
-  "status": "FINISHED",
-  "episodes": 6,
-  "picture": "https://cdn.myanimelist.net/images/anime/9/61135.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/9/61135t.jpg",
-  "synonyms": [
-    "Chica Marioneta J Nuevamente",
-    "Mata Mata Saber Marionette J",
-    "SMJA",
-    "またまたセイバーマリオネットJ",
-    "またまたセイバーマリオネットＪ"
-  ]
-}
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/61135.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/61135t.jpg",
+    "synonyms": [
+      "Chica Marioneta J Nuevamente",
+      "Mata Mata Saber Marionette J",
+      "SMJA",
+      "またまたセイバーマリオネットJ",
+      "またまたセイバーマリオネットＪ"
+    ]
+  }
+]

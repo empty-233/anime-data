@@ -1,202 +1,850 @@
-{
-  "title": "トップをねらえ2!",
-  "titleTranslate": {
-    "zh-Hans": [
-      "飞跃巅峰2！"
+[
+  {
+    "title": "吟遊黙示録 マイネリーベ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "吟游默示录"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.beetrain.co.jp/contents/works/meineliebe/",
+    "begin": "2004-11-04T13:30:00.000Z",
+    "end": "2005-02-03T14:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "Yc24Np4EdLIVkics",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "22405"
+      },
+      {
+        "site": "bilibili",
+        "id": "1878",
+        "begin": "2004-11-03T16:00:00.000Z",
+        "broadcast": "R/2010-12-31T16:10:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "4120"
+      },
+      {
+        "site": "anilist",
+        "id": "771"
+      },
+      {
+        "site": "anime-planet",
+        "id": "meine-liebe-wieder"
+      },
+      {
+        "site": "anisearch",
+        "id": "311"
+      },
+      {
+        "site": "kitsu",
+        "id": "692"
+      },
+      {
+        "site": "livechart",
+        "id": "10380"
+      },
+      {
+        "site": "myanimelist",
+        "id": "771"
+      },
+      {
+        "site": "notify",
+        "id": "h7o0cKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2004,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/75547.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/75547t.jpg",
+    "synonyms": [
+      "GMML",
+      "Gin'yuu Mokushiroku Meine Liebe",
+      "Gin'yū Mokushiroku Meine Liebe",
+      "Gin`yuu Mokushiroku Meine Liebe",
+      "Ginyu Mokushiroku: Meine Liebe",
+      "ML",
+      "Meine Liebe",
+      "My Love",
+      "My love",
+      "Wandering Revelations Meine Liebe",
+      "Моя Любов: Нови откровения",
+      "ぎんゆうもくしろくまいねりーべ",
+      "吟遊黙示録 マイネリーベ"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "http://www.gainax.co.jp/anime/top2/index.html",
-  "begin": "2004-11-26T16:00:00.000Z",
-  "end": "2006-08-25T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "pptv",
-      "id": "VZdx71e9LWvOTLQ",
-      "begin": ""
+  {
+    "title": "雲のむこう、約束の場所",
+    "titleTranslate": {
+      "zh-Hans": [
+        "云之彼端，约定的地方"
+      ]
     },
-    {
-      "site": "bangumi",
-      "id": "768"
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.kumonomukou.com",
+    "begin": "2004-11-20T16:00:00.000Z",
+    "end": "2004-11-20T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "87679",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1707"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kumonomukou",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2545",
+        "begin": "2015-06-24T10:38:00.000Z",
+        "broadcast": "R/2015-06-24T10:38:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2004,
+      "month": "11"
     },
-    {
-      "site": "anidb",
-      "id": "14383"
-    },
-    {
-      "site": "anidb",
-      "id": "185"
-    },
-    {
-      "site": "anidb",
-      "id": "4527"
-    },
-    {
-      "site": "anilist",
-      "id": "115006"
-    },
-    {
-      "site": "anilist",
-      "id": "1911"
-    },
-    {
-      "site": "anilist",
-      "id": "20465"
-    },
-    {
-      "site": "anilist",
-      "id": "949"
-    },
-    {
-      "site": "anime-planet",
-      "id": "gunbuster"
-    },
-    {
-      "site": "anime-planet",
-      "id": "gunbuster-2-movie"
-    },
-    {
-      "site": "anime-planet",
-      "id": "gunbuster-2-science-lessons"
-    },
-    {
-      "site": "anime-planet",
-      "id": "gunbuster-3"
-    },
-    {
-      "site": "anime-planet",
-      "id": "gunbuster-movie"
-    },
-    {
-      "site": "anime-planet",
-      "id": "gunbuster-renewal-ex"
-    },
-    {
-      "site": "anime-planet",
-      "id": "gunbuster-science-lessons"
-    },
-    {
-      "site": "anime-planet",
-      "id": "gunbuster-science-lessons-return"
-    },
-    {
-      "site": "anisearch",
-      "id": "13870"
-    },
-    {
-      "site": "anisearch",
-      "id": "3201"
-    },
-    {
-      "site": "anisearch",
-      "id": "3916"
-    },
-    {
-      "site": "anisearch",
-      "id": "8961"
-    },
-    {
-      "site": "kitsu",
-      "id": "1721"
-    },
-    {
-      "site": "kitsu",
-      "id": "42716"
-    },
-    {
-      "site": "kitsu",
-      "id": "841"
-    },
-    {
-      "site": "kitsu",
-      "id": "8897"
-    },
-    {
-      "site": "livechart",
-      "id": "3501"
-    },
-    {
-      "site": "livechart",
-      "id": "3961"
-    },
-    {
-      "site": "livechart",
-      "id": "5944"
-    },
-    {
-      "site": "livechart",
-      "id": "6507"
-    },
-    {
-      "site": "livechart",
-      "id": "7116"
-    },
-    {
-      "site": "livechart",
-      "id": "7456"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1911"
-    },
-    {
-      "site": "myanimelist",
-      "id": "20547"
-    },
-    {
-      "site": "myanimelist",
-      "id": "949"
-    },
-    {
-      "site": "notify",
-      "id": "HcS15FmmR"
-    },
-    {
-      "site": "notify",
-      "id": "dHeBcFiig"
-    },
-    {
-      "site": "notify",
-      "id": "mm2btFmmg"
-    },
-    {
-      "site": "notify",
-      "id": "wQ3XJPiMR"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 2004,
-    "month": "11"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1725/133738.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1725/133738t.jpg",
+    "synonyms": [
+      "Beyond The Clouds",
+      "Beyond the Clouds",
+      "Bên kia đám mây",
+      "El Lugar Que Nos Prometimos",
+      "El Lugar que nos Prometimos",
+      "El lugar que nos prometimos",
+      "Jenseits der Wolken, der Ort unseres Versprechens",
+      "Kulenin Gizemi",
+      "Kumo no Mukou, Yakusoku no Bashou",
+      "Kumo no Mukō, Yakusoku no Basho",
+      "La Tour au-delà des Nuages",
+      "La tour au-delà des nuages",
+      "Oltre le nuvole, il luogo promessoci",
+      "Pilvede taga",
+      "The Place Promised In Our Early Days",
+      "The Place Promised in Our Early Days",
+      "The Promised Place",
+      "Za mraky země zaslíbená",
+      "Za oblaky země zaslíbená",
+      "Ziemia kiedyś nam obiecana",
+      "btc",
+      "knmynb",
+      "kumonomukou",
+      "nơi ta hẹn ước",
+      "За облаками",
+      "За хмарами",
+      "Земля обітована",
+      "Мястото",
+      "земля обітована",
+      "което си обещахме някога отдавна",
+      "обіцяне місце",
+      "המקום המובטח",
+      "מעבר לעננים",
+      "مکان وعده داده شده در روزهای اولیه ما",
+      "เหนือเมฆา ที่แห่งสัญญาของเรา",
+      "くものむこうやくそくのばしょ",
+      "云之彼端",
+      "约定的地方",
+      "雲のむこう, 約束の場所",
+      "雲のむこう、約束の場所",
+      "구름 너머 약속의 장소",
+      "구름 저편의 약속",
+      "구름의 저편, 약속의 장소"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 6,
-  "picture": "https://cdn.myanimelist.net/images/anime/7/50475.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/7/50475t.jpg",
-  "synonyms": [
-    "Aim for the Top 2!",
-    "Aim for the Top! 2",
-    "Aim for the Top! Gunbuster 2",
-    "DieBuster",
-    "Diebuster",
-    "Gunbuster 2",
-    "Gunbuster 2: Diebuster",
-    "Punta al Top 2! Diebuster",
-    "Punta al top 2! Diebuster",
-    "Top o Nerae 2!",
-    "Top o Nerae! 2",
-    "Top wo Nerae 2! DIEBUSTER",
-    "Top wo Nerae! 2",
-    "Zirveyi Hedefle 2! NihaiAvcı",
-    "top2",
-    "Дайбастер: дотянись до неба - 2!",
-    "Дотянись до неба 2",
-    "กันบัสเตอร์ 2: ไดบัสเตอร์",
-    "トップをねらえ2!",
-    "トップをねらえ2! DIEBUSTER",
-    "トップをねらえ2！",
-    "トップをねらえ2！DIEBUSTER",
-    "톱을 노려라! 다이버스터"
-  ]
-}
+  {
+    "title": "メジャー 第1シリーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "棒球大联盟 第一季",
+        "棒球大联盟 第1季"
+      ],
+      "zh-Hant": [
+        "棒球大聯盟"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2004-11-13T16:00:00.000Z",
+    "end": "2005-05-21T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "IQ34dt5EtPJV0zs",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhc067l",
+        "begin": "2014-11-07T07:19:01.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "2885"
+      },
+      {
+        "site": "gamer",
+        "id": "18778",
+        "begin": "2021-05-19T05:00:00.000Z",
+        "broadcast": "R/2021-05-19T05:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "5839"
+      },
+      {
+        "site": "anilist",
+        "id": "5029"
+      },
+      {
+        "site": "anilist",
+        "id": "558"
+      },
+      {
+        "site": "anime-planet",
+        "id": "major-2nd"
+      },
+      {
+        "site": "anime-planet",
+        "id": "major-message"
+      },
+      {
+        "site": "anime-planet",
+        "id": "major-movie-yuujou-no-winning-shot"
+      },
+      {
+        "site": "anime-planet",
+        "id": "major-season-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "major-season-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "major-season-4"
+      },
+      {
+        "site": "anime-planet",
+        "id": "major-season-5"
+      },
+      {
+        "site": "anime-planet",
+        "id": "major-season-6"
+      },
+      {
+        "site": "anime-planet",
+        "id": "major-world-series"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shounen-sunday-cm-major"
+      },
+      {
+        "site": "anisearch",
+        "id": "11796"
+      },
+      {
+        "site": "anisearch",
+        "id": "4668"
+      },
+      {
+        "site": "kitsu",
+        "id": "3892"
+      },
+      {
+        "site": "kitsu",
+        "id": "46337"
+      },
+      {
+        "site": "kitsu",
+        "id": "515"
+      },
+      {
+        "site": "livechart",
+        "id": "2936"
+      },
+      {
+        "site": "livechart",
+        "id": "5175"
+      },
+      {
+        "site": "livechart",
+        "id": "5314"
+      },
+      {
+        "site": "livechart",
+        "id": "5315"
+      },
+      {
+        "site": "livechart",
+        "id": "5353"
+      },
+      {
+        "site": "livechart",
+        "id": "5354"
+      },
+      {
+        "site": "livechart",
+        "id": "5361"
+      },
+      {
+        "site": "livechart",
+        "id": "5486"
+      },
+      {
+        "site": "livechart",
+        "id": "5617"
+      },
+      {
+        "site": "livechart",
+        "id": "9628"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5029"
+      },
+      {
+        "site": "myanimelist",
+        "id": "52616"
+      },
+      {
+        "site": "myanimelist",
+        "id": "558"
+      },
+      {
+        "site": "notify",
+        "id": "UbYrcFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "ceLTcFmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2004,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/73973.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/73973t.jpg",
+    "synonyms": [
+      "Major",
+      "Major 1st Season",
+      "Major Season 1",
+      "Мейжър С1",
+      "Мэйджор",
+      "ميجر",
+      "メジャー",
+      "メジャー (第1シリーズ)",
+      "メジャー 第1シリーズ",
+      "メジャー （第1シリーズ）",
+      "메이저 1기"
+    ]
+  },
+  {
+    "title": "ハウルの動く城",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哈尔的移动城堡"
+      ],
+      "zh-Hant": [
+        "霍爾的移動城堡",
+        "哈爾移動城堡"
+      ],
+      "en": [
+        "Howl’s Moving Castle"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2004-11-20T16:00:00.000Z",
+    "end": "2004-11-20T18:00:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9spg5",
+        "begin": "2017-01-24T08:06:01.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "312"
+      },
+      {
+        "site": "netflix",
+        "id": "70028883",
+        "begin": "2020-03-30T16:00:00.000Z",
+        "broadcast": "R/2020-03-30T16:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2004,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1470/138723.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1470/138723t.jpg",
+    "synonyms": [
+      "A Vándorló palota",
+      "A vándorló palota",
+      "Castelul umblător al lui Howl",
+      "Das wandelnde Schloss",
+      "Det Levende Slottet",
+      "Det levande slottet",
+      "Det levende slot",
+      "Det levende slottet",
+      "El Castillo Ambulante",
+      "El Increíble Castillo Vagabundo",
+      "El castillo ambulante",
+      "El castillo errante de Howl",
+      "HMC",
+      "Haulo burtai: Keliaujanti pilis",
+      "Hauru no Ugoku Shiro",
+      "HnUS",
+      "Howl",
+      "Howl's Moving Castle",
+      "Howl`s Moving Castle",
+      "Howl`un Yürüyen Şatosu",
+      "Howli liikuv kindlus",
+      "Howlov putujući dvorac",
+      "Howl‘s Moving Castle",
+      "Howl’s Moving Castle",
+      "Il castello errante di Howl",
+      "Keliaujanti Haulo Pilis",
+      "Le Château Ambulant",
+      "Le Château ambulant",
+      "Le chateau dans le ciel",
+      "Le château ambulant",
+      "Liikkuva linna",
+      "Lâu đài di động của Howl",
+      "O Castelo Andante",
+      "O Castelo Animado",
+      "Pokretni dvorac",
+      "Ruchomy zamek Hauru",
+      "Yürüyen Şato",
+      "Zámek v oblacích",
+      "Čarovnik Howl in gibljivi grad",
+      "Το Κινούμενο Κάστρο",
+      "Движещият се замък на Хоул",
+      "Замок-мандрівник",
+      "Замъкът на Хаул",
+      "Мандрівний замок",
+      "Рухомий замок Хаула",
+      "Ходячий замок",
+      "הטירה הנעה",
+      "הטירה הנעה של האוול",
+      "قلعة هاول المتحركة",
+      "قلعه متحرک هاول",
+      "ปราสาทเวทมนตร์ของฮาวล์",
+      "はうるのうごくしろ",
+      "ハウルの動く城",
+      "哈尔的移动城堡",
+      "哈爾移動城堡"
+    ]
+  },
+  {
+    "title": "テイルズ オブ ファンタジア THE ANIMATION",
+    "titleTranslate": {
+      "zh-Hans": [
+        "幻想传说"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.ova-top.com",
+    "begin": "2004-11-25T16:00:00.000Z",
+    "end": "2006-02-24T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "WZVv7VW7K2nMSrI",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2695"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ova-top",
+        "begin": "2016-07-06T06:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "389"
+      },
+      {
+        "site": "anidb",
+        "id": "4548"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tales-of-eternia"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tales-of-puppet"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tales-of-symphonia-the-animation-sylvarant-episode"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tales-of-the-abyss"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tales-of-the-rays-mirrage-prison-op"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tales-of-vesperia-the-first-strike"
+      },
+      {
+        "site": "anisearch",
+        "id": "13199"
+      },
+      {
+        "site": "anisearch",
+        "id": "2021"
+      },
+      {
+        "site": "anisearch",
+        "id": "3670"
+      },
+      {
+        "site": "anisearch",
+        "id": "4971"
+      },
+      {
+        "site": "anisearch",
+        "id": "5081"
+      },
+      {
+        "site": "anisearch",
+        "id": "5342"
+      },
+      {
+        "site": "anisearch",
+        "id": "7203"
+      },
+      {
+        "site": "livechart",
+        "id": "1645"
+      },
+      {
+        "site": "livechart",
+        "id": "1972"
+      },
+      {
+        "site": "livechart",
+        "id": "1973"
+      },
+      {
+        "site": "livechart",
+        "id": "2236"
+      },
+      {
+        "site": "livechart",
+        "id": "3907"
+      },
+      {
+        "site": "livechart",
+        "id": "4359"
+      },
+      {
+        "site": "livechart",
+        "id": "4371"
+      },
+      {
+        "site": "livechart",
+        "id": "4925"
+      },
+      {
+        "site": "livechart",
+        "id": "5464"
+      },
+      {
+        "site": "livechart",
+        "id": "601"
+      },
+      {
+        "site": "livechart",
+        "id": "6204"
+      },
+      {
+        "site": "livechart",
+        "id": "6789"
+      },
+      {
+        "site": "livechart",
+        "id": "7332"
+      },
+      {
+        "site": "livechart",
+        "id": "7850"
+      },
+      {
+        "site": "livechart",
+        "id": "7876"
+      },
+      {
+        "site": "myanimelist",
+        "id": "46089"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2004,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/78319.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/78319t.jpg",
+    "synonyms": [
+      "Tales of Phantasia",
+      "Tales of Phantasia - The Animation",
+      "Tales of Phantasia: THE ANIMATION",
+      "Tales of Phantasia: The Animation",
+      "ToP",
+      "Приказки от Фантазия - Анимацията",
+      "Сказания Фантазии",
+      "ているずおぶふぁんたじあじあにめーしょん",
+      "テイルズ オブ ファンタジア THE ANIMATION",
+      "テイルズ オブ ファンタジア The Animation",
+      "테일즈 오브 판타지아 The Animation"
+    ]
+  },
+  {
+    "title": "トップをねらえ2!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "飞跃巅峰2！"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.gainax.co.jp/anime/top2/index.html",
+    "begin": "2004-11-26T16:00:00.000Z",
+    "end": "2006-08-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "VZdx71e9LWvOTLQ",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "768"
+      },
+      {
+        "site": "anidb",
+        "id": "14383"
+      },
+      {
+        "site": "anidb",
+        "id": "185"
+      },
+      {
+        "site": "anidb",
+        "id": "4527"
+      },
+      {
+        "site": "anilist",
+        "id": "115006"
+      },
+      {
+        "site": "anilist",
+        "id": "1911"
+      },
+      {
+        "site": "anilist",
+        "id": "20465"
+      },
+      {
+        "site": "anilist",
+        "id": "949"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gunbuster"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gunbuster-2-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gunbuster-2-science-lessons"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gunbuster-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gunbuster-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gunbuster-renewal-ex"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gunbuster-science-lessons"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gunbuster-science-lessons-return"
+      },
+      {
+        "site": "anisearch",
+        "id": "13870"
+      },
+      {
+        "site": "anisearch",
+        "id": "3201"
+      },
+      {
+        "site": "anisearch",
+        "id": "3916"
+      },
+      {
+        "site": "anisearch",
+        "id": "8961"
+      },
+      {
+        "site": "kitsu",
+        "id": "1721"
+      },
+      {
+        "site": "kitsu",
+        "id": "42716"
+      },
+      {
+        "site": "kitsu",
+        "id": "841"
+      },
+      {
+        "site": "kitsu",
+        "id": "8897"
+      },
+      {
+        "site": "livechart",
+        "id": "3501"
+      },
+      {
+        "site": "livechart",
+        "id": "3961"
+      },
+      {
+        "site": "livechart",
+        "id": "5944"
+      },
+      {
+        "site": "livechart",
+        "id": "6507"
+      },
+      {
+        "site": "livechart",
+        "id": "7116"
+      },
+      {
+        "site": "livechart",
+        "id": "7456"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1911"
+      },
+      {
+        "site": "myanimelist",
+        "id": "20547"
+      },
+      {
+        "site": "myanimelist",
+        "id": "949"
+      },
+      {
+        "site": "notify",
+        "id": "HcS15FmmR"
+      },
+      {
+        "site": "notify",
+        "id": "dHeBcFiig"
+      },
+      {
+        "site": "notify",
+        "id": "mm2btFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "wQ3XJPiMR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2004,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/50475.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/50475t.jpg",
+    "synonyms": [
+      "Aim for the Top 2!",
+      "Aim for the Top! 2",
+      "Aim for the Top! Gunbuster 2",
+      "DieBuster",
+      "Diebuster",
+      "Gunbuster 2",
+      "Gunbuster 2: Diebuster",
+      "Punta al Top 2! Diebuster",
+      "Punta al top 2! Diebuster",
+      "Top o Nerae 2!",
+      "Top o Nerae! 2",
+      "Top wo Nerae 2! DIEBUSTER",
+      "Top wo Nerae! 2",
+      "Zirveyi Hedefle 2! NihaiAvcı",
+      "top2",
+      "Дайбастер: дотянись до неба - 2!",
+      "Дотянись до неба 2",
+      "กันบัสเตอร์ 2: ไดบัสเตอร์",
+      "トップをねらえ2!",
+      "トップをねらえ2! DIEBUSTER",
+      "トップをねらえ2！",
+      "トップをねらえ2！DIEBUSTER",
+      "톱을 노려라! 다이버스터"
+    ]
+  }
+]

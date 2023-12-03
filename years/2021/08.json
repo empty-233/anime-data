@@ -1,206 +1,413 @@
-{
-  "title": "劇場版 Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女",
-  "titleTranslate": {
-    "zh-Hans": [
-      "剧场版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 无名的少女",
-      "剧场版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 没有名字的少女"
+[
+  {
+    "title": "岬のマヨイガ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海岬的迷途之家"
+      ],
+      "zh-Hant": [
+        "海岬的迷途之家"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://misakinomayoiga.com/",
+    "begin": "2021-08-26T16:00:00.000Z",
+    "end": "2021-08-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "318542"
+      },
+      {
+        "site": "gamer",
+        "id": "114474",
+        "begin": "2022-12-23T04:00:00.000Z",
+        "broadcast": "R/2022-12-23T04:00:00.000Z/P7D"
+      }
     ],
-    "zh-Hant": [
-      "魔法少女伊莉雅：Licht 無名的少女"
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2021,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1472/116571.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1472/116571t.jpg",
+    "synonyms": [
+      "La Casa Encantada en el Cabo",
+      "La Casa degli Smarriti sul Promontorio",
+      "La Maison des Égarées",
+      "La Maison des égarées",
+      "La casa degli smarriti sul promontorio",
+      "The Abandoned House by the Cape",
+      "The House of the Lost on the Cape",
+      "岬のマヨイガ",
+      "海岬的迷途之家"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "http://anime.prisma-illya.jp/movie/3",
-  "begin": "2021-08-26T16:00:00.000Z",
-  "end": "2021-08-26T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "306971"
+  {
+    "title": "BanG Dream! FILM LIVE 2nd Stage",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://anime.bang-dream.com/filmlive2/",
+    "begin": "2021-08-19T16:00:00.000Z",
+    "end": "2021-08-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302228"
+      },
+      {
+        "site": "gamer",
+        "id": "110501",
+        "begin": "2022-07-21T06:00:00.000Z",
+        "broadcast": "R/2022-07-21T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "14076"
+      },
+      {
+        "site": "anidb",
+        "id": "17438"
+      },
+      {
+        "site": "anilist",
+        "id": "101634"
+      },
+      {
+        "site": "anilist",
+        "id": "108735"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bang-dream"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bang-dream-2nd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bang-dream-3rd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bang-dream-film-live"
+      },
+      {
+        "site": "anisearch",
+        "id": "13611"
+      },
+      {
+        "site": "kitsu",
+        "id": "41290"
+      },
+      {
+        "site": "kitsu",
+        "id": "43370"
+      },
+      {
+        "site": "livechart",
+        "id": "10567"
+      },
+      {
+        "site": "livechart",
+        "id": "10631"
+      },
+      {
+        "site": "livechart",
+        "id": "11126"
+      },
+      {
+        "site": "livechart",
+        "id": "2247"
+      },
+      {
+        "site": "livechart",
+        "id": "2537"
+      },
+      {
+        "site": "livechart",
+        "id": "3225"
+      },
+      {
+        "site": "livechart",
+        "id": "3238"
+      },
+      {
+        "site": "livechart",
+        "id": "3239"
+      },
+      {
+        "site": "livechart",
+        "id": "3240"
+      },
+      {
+        "site": "livechart",
+        "id": "9396"
+      },
+      {
+        "site": "livechart",
+        "id": "9667"
+      },
+      {
+        "site": "livechart",
+        "id": "9713"
+      },
+      {
+        "site": "livechart",
+        "id": "9897"
+      },
+      {
+        "site": "livechart",
+        "id": "9898"
+      },
+      {
+        "site": "livechart",
+        "id": "9899"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37870"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39619"
+      },
+      {
+        "site": "notify",
+        "id": "_vFKgzVmg"
+      },
+      {
+        "site": "notify",
+        "id": "mkajsDYMg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2021,
+      "month": "08"
     },
-    {
-      "site": "bilibili_hk_mo_tw",
-      "id": "28237331",
-      "begin": "",
-      "broadcast": ""
-    },
-    {
-      "site": "anidb",
-      "id": "11639"
-    },
-    {
-      "site": "anidb",
-      "id": "16565"
-    },
-    {
-      "site": "anilist",
-      "id": "138119"
-    },
-    {
-      "site": "anilist",
-      "id": "138511"
-    },
-    {
-      "site": "anilist",
-      "id": "97757"
-    },
-    {
-      "site": "anime-planet",
-      "id": "fate-kaleid-liner-prisma-illya"
-    },
-    {
-      "site": "anime-planet",
-      "id": "fate-kaleid-liner-prisma-illya-2wei"
-    },
-    {
-      "site": "anime-planet",
-      "id": "fate-kaleid-liner-prisma-illya-2wei-herz"
-    },
-    {
-      "site": "anime-planet",
-      "id": "fate-kaleid-liner-prisma-illya-3rei"
-    },
-    {
-      "site": "anime-planet",
-      "id": "fate-kaleid-liner-prisma-illya-movie-2-licht-nameless-girl-mini-anime"
-    },
-    {
-      "site": "anime-planet",
-      "id": "fate-kaleid-liner-prisma-illya-movie-vow-in-the-snow"
-    },
-    {
-      "site": "anime-planet",
-      "id": "fate-kaleid-liner-prisma-illya-new"
-    },
-    {
-      "site": "anisearch",
-      "id": "10784"
-    },
-    {
-      "site": "anisearch",
-      "id": "16825"
-    },
-    {
-      "site": "kitsu",
-      "id": "12555"
-    },
-    {
-      "site": "kitsu",
-      "id": "45068"
-    },
-    {
-      "site": "kitsu",
-      "id": "7173"
-    },
-    {
-      "site": "livechart",
-      "id": "10756"
-    },
-    {
-      "site": "livechart",
-      "id": "10766"
-    },
-    {
-      "site": "livechart",
-      "id": "13"
-    },
-    {
-      "site": "livechart",
-      "id": "141"
-    },
-    {
-      "site": "livechart",
-      "id": "143"
-    },
-    {
-      "site": "livechart",
-      "id": "1841"
-    },
-    {
-      "site": "livechart",
-      "id": "2221"
-    },
-    {
-      "site": "livechart",
-      "id": "226"
-    },
-    {
-      "site": "livechart",
-      "id": "2337"
-    },
-    {
-      "site": "livechart",
-      "id": "2980"
-    },
-    {
-      "site": "livechart",
-      "id": "668"
-    },
-    {
-      "site": "livechart",
-      "id": "697"
-    },
-    {
-      "site": "livechart",
-      "id": "799"
-    },
-    {
-      "site": "livechart",
-      "id": "8683"
-    },
-    {
-      "site": "myanimelist",
-      "id": "34100"
-    },
-    {
-      "site": "myanimelist",
-      "id": "49633"
-    },
-    {
-      "site": "myanimelist",
-      "id": "49703"
-    },
-    {
-      "site": "notify",
-      "id": "i4kihFimg"
-    },
-    {
-      "site": "notify",
-      "id": "vtFmiXeVg"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 2021,
-    "month": "08"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1229/117735.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1229/117735t.jpg",
+    "synonyms": [
+      "BanG Dream! FILM LIVE 2nd Stage",
+      "Bang Dream! FILM LIVE 2nd Stage",
+      "Bang Dream! Film Live 2nd Stage"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1331/117733.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1331/117733t.jpg",
-  "synonyms": [
-    "Fate/Kaleid Liner Prisma Illya Licht: Nameless Girl",
-    "Fate/Kaleid Liner Prisma Illya Movie 2: Licht - Namae no Nai Shoujo",
-    "Fate/Kaleid Liner Prisma Illya Movie 2: Licht Nameless Girl",
-    "Fate/Kaleid Liner Prisma Illya the Movie Licht: Nameless Girl",
-    "Fate/kaleid Liner Prisma Illya: Licht Nameless Girl",
-    "Fate/kaleid liner PRISMA ILLYA - Licht Nameless Girl",
-    "Fate/kaleid liner Prisma Illya the Movie Licht – The Nameless Girl",
-    "Fate/kaleid liner Prisma Illya: Licht Nameless Girl",
-    "Fate/kaleid liner Prisma☆Illya Movie: Licht Namae no Nai Shoujo",
-    "Fate/kaleid liner Prisma☆Illya: Licht - Namae no Nai Shoujo",
-    "Fate/kaleid liner Prisma☆Illya: Licht Nameless Girl",
-    "Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女",
-    "Fate/kaleid liner 프리즈마 ☆이리야 Licht 이름없는 소녀",
-    "Fate: Gekijouban Fate/Kaleid Liner Prisma Illya Licht: Namae no Nai Shoujo",
-    "Gekijouban Fate/Kaleid Liner Prisma Illya Licht: Namae no Nai Shoujo",
-    "Gekijouban Fate/kaleid liner Prisma Illya Licht – Namae no Nai Shoujo",
-    "Gekijōban Fate/Kaleid Liner Prisma Illya Licht: Namae no Nai Shōjo",
-    "剧场版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 无名的少女",
-    "劇場版 Fate/kaleid liner プリズマ☆イリヤ",
-    "劇場版 Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女",
-    "劇場版 Fate／kaleid liner プリズマ☆イリヤ Licht 名前の無い少女"
-  ]
-}
+  {
+    "title": "劇場版 Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 无名的少女",
+        "剧场版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 没有名字的少女"
+      ],
+      "zh-Hant": [
+        "魔法少女伊莉雅：Licht 無名的少女"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://anime.prisma-illya.jp/movie/3",
+    "begin": "2021-08-26T16:00:00.000Z",
+    "end": "2021-08-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "306971"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28237331",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "11639"
+      },
+      {
+        "site": "anidb",
+        "id": "16565"
+      },
+      {
+        "site": "anilist",
+        "id": "138119"
+      },
+      {
+        "site": "anilist",
+        "id": "138511"
+      },
+      {
+        "site": "anilist",
+        "id": "97757"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fate-kaleid-liner-prisma-illya"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fate-kaleid-liner-prisma-illya-2wei"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fate-kaleid-liner-prisma-illya-2wei-herz"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fate-kaleid-liner-prisma-illya-3rei"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fate-kaleid-liner-prisma-illya-movie-2-licht-nameless-girl-mini-anime"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fate-kaleid-liner-prisma-illya-movie-vow-in-the-snow"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fate-kaleid-liner-prisma-illya-new"
+      },
+      {
+        "site": "anisearch",
+        "id": "10784"
+      },
+      {
+        "site": "anisearch",
+        "id": "16825"
+      },
+      {
+        "site": "kitsu",
+        "id": "12555"
+      },
+      {
+        "site": "kitsu",
+        "id": "45068"
+      },
+      {
+        "site": "kitsu",
+        "id": "7173"
+      },
+      {
+        "site": "livechart",
+        "id": "10756"
+      },
+      {
+        "site": "livechart",
+        "id": "10766"
+      },
+      {
+        "site": "livechart",
+        "id": "13"
+      },
+      {
+        "site": "livechart",
+        "id": "141"
+      },
+      {
+        "site": "livechart",
+        "id": "143"
+      },
+      {
+        "site": "livechart",
+        "id": "1841"
+      },
+      {
+        "site": "livechart",
+        "id": "2221"
+      },
+      {
+        "site": "livechart",
+        "id": "226"
+      },
+      {
+        "site": "livechart",
+        "id": "2337"
+      },
+      {
+        "site": "livechart",
+        "id": "2980"
+      },
+      {
+        "site": "livechart",
+        "id": "668"
+      },
+      {
+        "site": "livechart",
+        "id": "697"
+      },
+      {
+        "site": "livechart",
+        "id": "799"
+      },
+      {
+        "site": "livechart",
+        "id": "8683"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34100"
+      },
+      {
+        "site": "myanimelist",
+        "id": "49633"
+      },
+      {
+        "site": "myanimelist",
+        "id": "49703"
+      },
+      {
+        "site": "notify",
+        "id": "i4kihFimg"
+      },
+      {
+        "site": "notify",
+        "id": "vtFmiXeVg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2021,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1331/117733.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1331/117733t.jpg",
+    "synonyms": [
+      "Fate/Kaleid Liner Prisma Illya Licht: Nameless Girl",
+      "Fate/Kaleid Liner Prisma Illya Movie 2: Licht - Namae no Nai Shoujo",
+      "Fate/Kaleid Liner Prisma Illya Movie 2: Licht Nameless Girl",
+      "Fate/Kaleid Liner Prisma Illya the Movie Licht: Nameless Girl",
+      "Fate/kaleid Liner Prisma Illya: Licht Nameless Girl",
+      "Fate/kaleid liner PRISMA ILLYA - Licht Nameless Girl",
+      "Fate/kaleid liner Prisma Illya the Movie Licht – The Nameless Girl",
+      "Fate/kaleid liner Prisma Illya: Licht Nameless Girl",
+      "Fate/kaleid liner Prisma☆Illya Movie: Licht Namae no Nai Shoujo",
+      "Fate/kaleid liner Prisma☆Illya: Licht - Namae no Nai Shoujo",
+      "Fate/kaleid liner Prisma☆Illya: Licht Nameless Girl",
+      "Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女",
+      "Fate/kaleid liner 프리즈마 ☆이리야 Licht 이름없는 소녀",
+      "Fate: Gekijouban Fate/Kaleid Liner Prisma Illya Licht: Namae no Nai Shoujo",
+      "Gekijouban Fate/Kaleid Liner Prisma Illya Licht: Namae no Nai Shoujo",
+      "Gekijouban Fate/kaleid liner Prisma Illya Licht – Namae no Nai Shoujo",
+      "Gekijōban Fate/Kaleid Liner Prisma Illya Licht: Namae no Nai Shōjo",
+      "剧场版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 无名的少女",
+      "劇場版 Fate/kaleid liner プリズマ☆イリヤ",
+      "劇場版 Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女",
+      "劇場版 Fate／kaleid liner プリズマ☆イリヤ Licht 名前の無い少女"
+    ]
+  }
+]

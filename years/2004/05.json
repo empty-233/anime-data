@@ -1,58 +1,125 @@
-{
-  "title": "コゼットの肖像",
-  "titleTranslate": {
-    "zh-Hans": [
-      "柯赛特的肖像"
+[
+  {
+    "title": "サムライチャンプルー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "混沌武士",
+        "琉球武士疯云录",
+        "琉球狂侍",
+        "杂烩武士"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.samuraichamploo.com/",
+    "begin": "2004-05-19T17:28:00.000Z",
+    "end": "2004-09-22T18:28:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "AUo2tByC8jCTEXk",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "254"
+      },
+      {
+        "site": "letv",
+        "id": "14591",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "1869",
+        "begin": "2004-05-18T16:00:00.000Z",
+        "broadcast": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2004,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/1375/121599.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1375/121599t.jpg",
+    "synonyms": [
+      "Champloo",
+      "Paslaptingas Samurajus",
+      "SAMURAI CHAMPLOO",
+      "SC",
+      "SamCham",
+      "Samuray Champloo",
+      "Tajemniczy samuraj",
+      "Самурай Чамплу",
+      "Самурай Чямплу",
+      "סמוראי צ`מפלו",
+      "ساموراي تشامبلو",
+      "さむらいちゃんぷるー",
+      "サムライチャンプルー",
+      "混沌武士",
+      "琉球狂侍",
+      "사무라이 참프루"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "http://www.cossette.jp/",
-  "begin": "2004-05-26T16:00:00.000Z",
-  "end": "2004-12-22T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "pptv",
-      "id": "k6CbGYHnV5X4dt4",
-      "begin": ""
+  {
+    "title": "コゼットの肖像",
+    "titleTranslate": {
+      "zh-Hans": [
+        "柯赛特的肖像"
+      ]
     },
-    {
-      "site": "bangumi",
-      "id": "280"
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.cossette.jp/",
+    "begin": "2004-05-26T16:00:00.000Z",
+    "end": "2004-12-22T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "k6CbGYHnV5X4dt4",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "280"
+      },
+      {
+        "site": "nicovideo",
+        "id": "cossette",
+        "begin": "2015-11-06T06:00:00.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2004,
+      "month": "05"
     },
-    {
-      "site": "nicovideo",
-      "id": "cossette",
-      "begin": "2015-11-06T06:00:00.000Z"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 2004,
-    "month": "05"
-  },
-  "status": "FINISHED",
-  "episodes": 3,
-  "picture": "https://cdn.myanimelist.net/images/anime/11/77004.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/11/77004t.jpg",
-  "synonyms": [
-    "CnS",
-    "Cossette no Shōzō",
-    "Das Bildnis der Petit Cossette",
-    "LPPC",
-    "LPdPC",
-    "Le Portrait De Petite Cossette",
-    "Le Portrait de Petit Cossette",
-    "Le Portrait de Petite Cosette",
-    "Le Portrait de Petite Cossette",
-    "Le portrait de petite Cosette",
-    "Portret małej Cossette",
-    "cossette",
-    "Портрет крихітки Козети",
-    "Портрет малышки Козетты",
-    "Портретът на малката Козет",
-    "こぜっとのしょうぞう",
-    "コゼットの肖像",
-    "柯塞特的肖像"
-  ]
-}
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/77004.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/77004t.jpg",
+    "synonyms": [
+      "CnS",
+      "Cossette no Shōzō",
+      "Das Bildnis der Petit Cossette",
+      "LPPC",
+      "LPdPC",
+      "Le Portrait De Petite Cossette",
+      "Le Portrait de Petit Cossette",
+      "Le Portrait de Petite Cosette",
+      "Le Portrait de Petite Cossette",
+      "Le portrait de petite Cosette",
+      "Portret małej Cossette",
+      "cossette",
+      "Портрет крихітки Козети",
+      "Портрет малышки Козетты",
+      "Портретът на малката Козет",
+      "こぜっとのしょうぞう",
+      "コゼットの肖像",
+      "柯塞特的肖像"
+    ]
+  }
+]

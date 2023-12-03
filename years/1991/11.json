@@ -1,52 +1,54 @@
-{
-  "title": "ここはグリーン・ウッド",
-  "titleTranslate": {
-    "zh-Hans": [
-      "绿林寮"
+[
+  {
+    "title": "ここはグリーン・ウッド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "绿林寮"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-11-22T16:00:00.000Z",
+    "end": "1993-03-26T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8365"
+      },
+      {
+        "site": "pptv",
+        "id": "Y9GsKpL4aKYJhib8",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3152",
+        "begin": "1993-04-10T16:00:00.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1991,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/1760/105953.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1760/105953t.jpg",
+    "synonyms": [
+      "Green Wood",
+      "Greenwood",
+      "Here Is Green Wood",
+      "Here Is Greenwood",
+      "Here is Green Wood",
+      "Here is Greenwood",
+      "Koko wa Greenwood",
+      "Kokowa Green Wood",
+      "Kokowa Greenwood",
+      "ここはぐりーんうっどせいしゅんだんしりょうにっし",
+      "ここはグリーン・ウッド",
+      "ここはグリーン・ウッド ～青春男子寮日誌～"
     ]
-  },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1991-11-22T16:00:00.000Z",
-  "end": "1993-03-26T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "8365"
-    },
-    {
-      "site": "pptv",
-      "id": "Y9GsKpL4aKYJhib8",
-      "begin": ""
-    },
-    {
-      "site": "bilibili",
-      "id": "3152",
-      "begin": "1993-04-10T16:00:00.000Z"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 1991,
-    "month": "11"
-  },
-  "status": "FINISHED",
-  "episodes": 6,
-  "picture": "https://cdn.myanimelist.net/images/anime/1760/105953.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1760/105953t.jpg",
-  "synonyms": [
-    "Green Wood",
-    "Greenwood",
-    "Here Is Green Wood",
-    "Here Is Greenwood",
-    "Here is Green Wood",
-    "Here is Greenwood",
-    "Koko wa Greenwood",
-    "Kokowa Green Wood",
-    "Kokowa Greenwood",
-    "ここはぐりーんうっどせいしゅんだんしりょうにっし",
-    "ここはグリーン・ウッド",
-    "ここはグリーン・ウッド ～青春男子寮日誌～"
-  ]
-}
+  }
+]

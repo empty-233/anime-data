@@ -1,53 +1,503 @@
-{
-  "title": "神風怪盗ジャンヌ",
-  "titleTranslate": {
-    "zh-Hans": [
-      "神风怪盗贞德"
+[
+  {
+    "title": "おジャ魔女どれみ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小魔女DoReMi"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/tv/doremi/index.html",
+    "begin": "1999-02-06T23:30:00.000Z",
+    "end": "2000-01-30T00:00:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb1djl",
+        "begin": "2015-08-14T17:06:04.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "14652"
+      },
+      {
+        "site": "nicovideo",
+        "id": "doremi",
+        "begin": "2016-06-15T06:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "14790"
+      },
+      {
+        "site": "anidb",
+        "id": "1763"
+      },
+      {
+        "site": "anilist",
+        "id": "108630"
+      },
+      {
+        "site": "anilist",
+        "id": "108726"
+      },
+      {
+        "site": "anilist",
+        "id": "351"
+      },
+      {
+        "site": "anime-planet",
+        "id": "majo-minarai-wo-sagashite"
+      },
+      {
+        "site": "anime-planet",
+        "id": "motto-ojamajo-doremi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "motto-ojamajo-doremi-movie-kaeru-seki-no-himitsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ojamajo-doremi-dokkaan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ojamajo-doremi-honobono-gekijou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ojamajo-doremi-naisho"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ojamajo-doremi-no-jitensha-anzen-kyoushitsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ojamajo-doremi-owarai-gekijou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ojamajo-doremi-sharp"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ojamajo-doremi-sharp-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "14285"
+      },
+      {
+        "site": "anisearch",
+        "id": "14296"
+      },
+      {
+        "site": "anisearch",
+        "id": "3496"
+      },
+      {
+        "site": "anisearch",
+        "id": "9250"
+      },
+      {
+        "site": "kitsu",
+        "id": "318"
+      },
+      {
+        "site": "kitsu",
+        "id": "42537"
+      },
+      {
+        "site": "livechart",
+        "id": "5450"
+      },
+      {
+        "site": "livechart",
+        "id": "5563"
+      },
+      {
+        "site": "livechart",
+        "id": "5570"
+      },
+      {
+        "site": "livechart",
+        "id": "6781"
+      },
+      {
+        "site": "livechart",
+        "id": "6859"
+      },
+      {
+        "site": "livechart",
+        "id": "6878"
+      },
+      {
+        "site": "livechart",
+        "id": "7223"
+      },
+      {
+        "site": "livechart",
+        "id": "9384"
+      },
+      {
+        "site": "myanimelist",
+        "id": "351"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39585"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39588"
+      },
+      {
+        "site": "myanimelist",
+        "id": "50848"
+      },
+      {
+        "site": "notify",
+        "id": "2NE2cKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1999,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 51,
+    "picture": "https://cdn.myanimelist.net/images/anime/1069/133679.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1069/133679t.jpg",
+    "synonyms": [
+      "Bothersome Witch Doremi",
+      "DoReMi",
+      "Doremi",
+      "DoremiS1",
+      "Dorémi Magique",
+      "Dó-Ré-Mi",
+      "La Màgica Doremi",
+      "Magica Doremi",
+      "Magical DoReMi",
+      "Magical DoReMi Staffel 1",
+      "Magical Doremi",
+      "Magical Dorémi",
+      "Useless Witchgirl Doremi",
+      "دروبي مع دوريمي",
+      "おじゃまじょどれみ",
+      "おジャ魔女どれみ",
+      "小魔女DoReMi"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1999-02-13T16:00:00.000Z",
-  "end": "2000-01-29T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "pptv",
-      "id": "TYB8ibmLIOHbZV78",
-      "begin": ""
+  {
+    "title": "超発明BOYカニパン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超机甲发明小子"
+      ]
     },
-    {
-      "site": "bangumi",
-      "id": "2788"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-02-05T12:00:00.000Z",
+    "end": "1999-06-25T12:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37474"
+      },
+      {
+        "site": "bilibili",
+        "id": "5478",
+        "begin": "1999-02-04T16:00:01.000Z",
+        "broadcast": "R/2016-08-30T02:33:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "4667"
+      },
+      {
+        "site": "anilist",
+        "id": "3689"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hatsumei-boy-kanipan"
+      },
+      {
+        "site": "anisearch",
+        "id": "7068"
+      },
+      {
+        "site": "kitsu",
+        "id": "3196"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3689"
+      },
+      {
+        "site": "notify",
+        "id": "HKvlcKmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1999,
+      "month": "02"
     },
-    {
-      "site": "letv",
-      "id": "19710",
-      "begin": ""
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 1999,
-    "month": "02"
+    "status": "FINISHED",
+    "episodes": 21,
+    "picture": "https://cdn.myanimelist.net/images/anime/1778/133523.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1778/133523t.jpg",
+    "synonyms": [
+      "Cho Hatsumei Boy Kanipan",
+      "Chou Hatsumei BOY Kanipan",
+      "Chō Hatsumei Boy Kanipan",
+      "Super Inventor Boy Kanipan",
+      "Super Inventor Kanipan",
+      "ちょうはつめいぼーいかにぱん",
+      "超発明BOYカニパン"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 44,
-  "picture": "https://cdn.myanimelist.net/images/anime/5/20389.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/5/20389t.jpg",
-  "synonyms": [
-    "Divine Wind Thief Jeanne",
-    "Jeanne, die Kamikaze-Diebin",
-    "Jeanne, la lladre kamikaze",
-    "Jeanne, the Kamikaze Thief",
-    "KKJ",
-    "Kamikaze Kaito Jeanne",
-    "Kamikaze Kaitō Jeanne",
-    "Kamikaze Thief Jeanne",
-    "Phantom Thief Jeanne",
-    "Thief of the Heavenly Wind Joan of Arc",
-    "神風怪盗ジャンヌ",
-    "神风怪盗",
-    "神风怪盗贞德"
-  ]
-}
+  {
+    "title": "るろうに剣心 -明治剣客浪漫譚- 追憶編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "浪客剑心 追忆篇"
+      ],
+      "zh-Hant": [
+        "神劍闖江湖 追憶篇"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.kenshin-tv.com/",
+    "begin": "1999-02-20T16:00:00.000Z",
+    "end": "1999-09-22T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "UvXQTrYcjMotqxM",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "c/cz3xrrh4apzn2o1",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1728"
+      },
+      {
+        "site": "nicovideo",
+        "id": "rurouni-kenshin-tuioku",
+        "begin": "2014-09-13T06:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "22054",
+        "begin": "2021-07-20T08:00:00.000Z",
+        "broadcast": "R/2021-07-20T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229015",
+        "begin": "2020-05-29T09:13:00.000Z",
+        "broadcast": "R/2020-05-29T09:13:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "90"
+      },
+      {
+        "site": "anilist",
+        "id": "45"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rurouni-kenshin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rurouni-kenshin-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rurouni-kenshin-new-kyoto-arc"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rurouni-kenshin-seisouhen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rurouni-kenshin-special-techniques"
+      },
+      {
+        "site": "anisearch",
+        "id": "2363"
+      },
+      {
+        "site": "kitsu",
+        "id": "27"
+      },
+      {
+        "site": "livechart",
+        "id": "10958"
+      },
+      {
+        "site": "livechart",
+        "id": "3719"
+      },
+      {
+        "site": "livechart",
+        "id": "4411"
+      },
+      {
+        "site": "livechart",
+        "id": "4637"
+      },
+      {
+        "site": "livechart",
+        "id": "5229"
+      },
+      {
+        "site": "livechart",
+        "id": "5810"
+      },
+      {
+        "site": "livechart",
+        "id": "6534"
+      },
+      {
+        "site": "livechart",
+        "id": "6692"
+      },
+      {
+        "site": "livechart",
+        "id": "6784"
+      },
+      {
+        "site": "myanimelist",
+        "id": "45"
+      },
+      {
+        "site": "notify",
+        "id": "784t5FimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1999,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/1656/137618.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1656/137618t.jpg",
+    "synonyms": [
+      "Kenshin Le Vagabond: Le Chapitre de la Mémoire",
+      "Kenshin OAV",
+      "Kenshin OVA",
+      "Kenshin Samurai Vagabondo - Memorie del passato",
+      "Kenshin Tsuioku Hen",
+      "Kenshin le vagabond - Le chapitre de la mémoire",
+      "Kenshin samurai vagabondo: Memorie del passato",
+      "Kenshin, samurai vagabondo: Memorie del passato",
+      "Kenshin: El Guerrero Samurai \"Recuerdos\"",
+      "Kenshin: El Guerrero Samurai (OAV)",
+      "Kenshin: El Guerrero Samurái - Recuerdos",
+      "Lãng khách Kenshin: Truy tìm ký ức",
+      "RK OAV",
+      "RK OVA",
+      "RuroKen OVA 1",
+      "Rurouni Kenshin - Tsuiokuhen OVA",
+      "Rurouni Kenshin Trust and Betrayal",
+      "Rurouni Kenshin Tsuiokuhen",
+      "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku Hen",
+      "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuiokuhen",
+      "Rurouni Kenshin: Recollection Arc",
+      "Rurouni Kenshin: Reminiscence",
+      "Rurouni Kenshin: Trust & Betrayal",
+      "Rurouni Kenshin: Tsuiokuhen",
+      "Rurōni Kenshin: Meiji Kenkaku Romantan - Tsuiokuhen",
+      "Samurai X: Reminiscence",
+      "Samurai X: Trust & Betrayal",
+      "Samurai X: Trust and Betrayal",
+      "Samurajus X: Pasitikėjimas ir išdavystė",
+      "Samuray X: Güven ve İhanet",
+      "Trust and Betrayal",
+      "kenshin ova 1",
+      "reminiscence",
+      "Бродяга Кэнсин OVA-1",
+      "Бурлака Кеншін: Романтичні оповідання про мечника епохи Мейджі - Спогади",
+      "Руроуні Кеншін: Оповіді Мейджі - Спогади",
+      "רורואוני קנשין: זיכרונות",
+      "ساموراي إكس: الثقة والخيانة",
+      "ซามูไรพเนจร ภาคกำเนิดเคนชิน",
+      "るろうに剣心 -明治剣客浪漫譚- 追憶編",
+      "るろうに剣心―明治剣客浪漫譚―追憶編",
+      "浪客剑心 追忆篇",
+      "浪客劍心 追憶篇",
+      "바람의 검심 추억편"
+    ]
+  },
+  {
+    "title": "神風怪盗ジャンヌ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "神风怪盗贞德"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-02-13T16:00:00.000Z",
+    "end": "2000-01-29T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "TYB8ibmLIOHbZV78",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2788"
+      },
+      {
+        "site": "letv",
+        "id": "19710",
+        "begin": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1999,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 44,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/20389.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/20389t.jpg",
+    "synonyms": [
+      "Divine Wind Thief Jeanne",
+      "Jeanne, die Kamikaze-Diebin",
+      "Jeanne, la lladre kamikaze",
+      "Jeanne, the Kamikaze Thief",
+      "KKJ",
+      "Kamikaze Kaito Jeanne",
+      "Kamikaze Kaitō Jeanne",
+      "Kamikaze Thief Jeanne",
+      "Phantom Thief Jeanne",
+      "Thief of the Heavenly Wind Joan of Arc",
+      "神風怪盗ジャンヌ",
+      "神风怪盗",
+      "神风怪盗贞德"
+    ]
+  }
+]

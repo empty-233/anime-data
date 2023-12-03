@@ -1,50 +1,395 @@
-{
-  "title": "アストロガンガー",
-  "titleTranslate": {
-    "zh-Hans": [
-      "铁甲飞天侠"
+[
+  {
+    "title": "ど根性ガエル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "根性青蛙"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1972-10-07T11:00:00.000Z",
+    "end": "1974-09-28T11:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53739"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dokonjou_gaeru",
+        "begin": "2012-02-16T06:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "4954"
+      },
+      {
+        "site": "anidb",
+        "id": "4955"
+      },
+      {
+        "site": "anilist",
+        "id": "126865"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shin-dokonjou-gaeru"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shin-dokonjou-gaeru-dokonjou-yumemakura"
+      },
+      {
+        "site": "anisearch",
+        "id": "4056"
+      },
+      {
+        "site": "kitsu",
+        "id": "9581"
+      },
+      {
+        "site": "livechart",
+        "id": "11931"
+      },
+      {
+        "site": "livechart",
+        "id": "11932"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21487"
+      },
+      {
+        "site": "notify",
+        "id": "oAiYpFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1972,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 103,
+    "picture": "https://cdn.myanimelist.net/images/anime/1637/134645.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1637/134645t.jpg",
+    "synonyms": [
+      "A Rã Valente",
+      "Dokonjo Gaeru",
+      "Dokonjō Gaeru",
+      "Frog With Guts!",
+      "Gutsy Frog",
+      "Hiroshi y Raponchi",
+      "La Rana Raponchi",
+      "La Rana Valiente",
+      "The Gutsy Frog",
+      "الضفدع ننوس",
+      "どこんじょうがえる",
+      "ど根性ガエル"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1972-10-03T16:00:00.000Z",
-  "end": "1973-03-27T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "37231"
+  {
+    "title": "科学忍者隊ガッチャマン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "科学小飞侠"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "2482",
-      "begin": "2014-06-02T14:56:31.000Z",
-      "broadcast": "R/2014-06-02T14:56:31.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tatsunoko.co.jp/works/archive/gatchaman.html",
+    "begin": "1972-10-01T10:00:00.000Z",
+    "end": "1974-09-29T07:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53767"
+      },
+      {
+        "site": "bilibili",
+        "id": "6246",
+        "begin": "1972-09-30T16:00:01.000Z",
+        "broadcast": "R/2017-06-01T04:05:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1449"
+      },
+      {
+        "site": "anidb",
+        "id": "5434"
+      },
+      {
+        "site": "anidb",
+        "id": "858"
+      },
+      {
+        "site": "anidb",
+        "id": "9820"
+      },
+      {
+        "site": "anidb",
+        "id": "9821"
+      },
+      {
+        "site": "anilist",
+        "id": "121714"
+      },
+      {
+        "site": "anilist",
+        "id": "145358"
+      },
+      {
+        "site": "anilist",
+        "id": "18229"
+      },
+      {
+        "site": "anilist",
+        "id": "3153"
+      },
+      {
+        "site": "anilist",
+        "id": "3154"
+      },
+      {
+        "site": "anilist",
+        "id": "4578"
+      },
+      {
+        "site": "anilist",
+        "id": "6374"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gatchaman-crowds"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gatchaman-fighter"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gatchaman-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gatchaman-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gatchaman-the-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "infini-t-force"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kagaku-ninya-tai-gatchanyan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ohayou-ninja-tai-gatchaman-zip"
+      },
+      {
+        "site": "anisearch",
+        "id": "10206"
+      },
+      {
+        "site": "anisearch",
+        "id": "11326"
+      },
+      {
+        "site": "anisearch",
+        "id": "1155"
+      },
+      {
+        "site": "anisearch",
+        "id": "2179"
+      },
+      {
+        "site": "anisearch",
+        "id": "4464"
+      },
+      {
+        "site": "anisearch",
+        "id": "8484"
+      },
+      {
+        "site": "anisearch",
+        "id": "8576"
+      },
+      {
+        "site": "kitsu",
+        "id": "2826"
+      },
+      {
+        "site": "kitsu",
+        "id": "2827"
+      },
+      {
+        "site": "kitsu",
+        "id": "4535"
+      },
+      {
+        "site": "kitsu",
+        "id": "7681"
+      },
+      {
+        "site": "kitsu",
+        "id": "7890"
+      },
+      {
+        "site": "myanimelist",
+        "id": "18229"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31517"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3153"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3154"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33027"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34844"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38705"
+      },
+      {
+        "site": "myanimelist",
+        "id": "51144"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6374"
+      },
+      {
+        "site": "notify",
+        "id": "5Q3ttFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "6ZX5pKimR"
+      },
+      {
+        "site": "notify",
+        "id": "PUzw5Kiig"
+      },
+      {
+        "site": "notify",
+        "id": "Qfzw5KiiR"
+      },
+      {
+        "site": "notify",
+        "id": "qYR65Kmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1972,
+      "month": "10"
     },
-    {
-      "site": "anime-planet",
-      "id": "pilot-ban-astroman"
-    },
-    {
-      "site": "myanimelist",
-      "id": "52518"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 1972,
-    "month": "10"
+    "status": "FINISHED",
+    "episodes": 105,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/55411.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/55411t.jpg",
+    "synonyms": [
+      "Batalha dos Planetas",
+      "Battle of the Planets",
+      "Comando G",
+      "Comando G: La Batalla de los Planetas",
+      "Esquadrão Águia",
+      "Fuerza G: Guardianes del Espacio",
+      "G Force: Guardians of Space",
+      "G-Force",
+      "G-Force: Defensores do Espaço",
+      "G-Force: Guardians of Space",
+      "Gatchaman",
+      "Gatchaman (TV)",
+      "Gatchman",
+      "Kagaku Ninja-Tai Gatchaman",
+      "Kagaku Ninjatai Gatchaman",
+      "La Bataille des planètes",
+      "La Batalla de los Planetas",
+      "La Batalla de los Planetas: Comando G",
+      "La Force G: La Patrouille des Aigles",
+      "La bataille des planètes",
+      "La battaglia dei pianeti",
+      "Science Ninja Team Gatchaman",
+      "Scientific Ninja Team Gatchaman",
+      "Strijd der Planeten",
+      "Wojna planet",
+      "Załoga G",
+      "botp",
+      "Ομάδα Τζι",
+      "כח ג`י",
+      "かがくにんじゃたいがっちゃまん",
+      "科学忍者隊ガッチャマン",
+      "독수리 오형제"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 26,
-  "picture": "https://cdn.myanimelist.net/images/anime/5/57971.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/5/57971t.jpg",
-  "synonyms": [
-    "Astro Ganga",
-    "Astro Gangar",
-    "Astroganga",
-    "جونغر",
-    "غزاة من الفضاء",
-    "アストロガンガー"
-  ]
-}
+  {
+    "title": "アストロガンガー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "铁甲飞天侠"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1972-10-03T16:00:00.000Z",
+    "end": "1973-03-27T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37231"
+      },
+      {
+        "site": "bilibili",
+        "id": "2482",
+        "begin": "2014-06-02T14:56:31.000Z",
+        "broadcast": "R/2014-06-02T14:56:31.000Z/P7D"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pilot-ban-astroman"
+      },
+      {
+        "site": "myanimelist",
+        "id": "52518"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1972,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/57971.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/57971t.jpg",
+    "synonyms": [
+      "Astro Ganga",
+      "Astro Gangar",
+      "Astroganga",
+      "جونغر",
+      "غزاة من الفضاء",
+      "アストロガンガー"
+    ]
+  }
+]

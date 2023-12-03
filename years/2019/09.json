@@ -1,115 +1,959 @@
-{
-  "title": "モブサイコ100 第一回霊とか相談所慰安旅行～ココロ満たす癒やしの旅～",
-  "titleTranslate": {
-    "zh-Hans": [
-      "灵能百分百 第一回灵能相谈所犒劳旅行～心满意足的治愈之旅～"
+[
+  {
+    "title": "みにゆり",
+    "titleTranslate": {
+      "zh-Hans": [
+        "迷你百合",
+        "迷你摇曳百合"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://yuruyuri.com/miniyuri/",
+    "begin": "2019-09-25T11:00:00.000Z",
+    "end": "2019-10-16T11:07:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "285545"
+      },
+      {
+        "site": "nicovideo",
+        "id": "miniyuri",
+        "begin": "2019-10-25T03:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "14047"
+      },
+      {
+        "site": "anilist",
+        "id": "21088"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yuru-yuri-ova"
+      },
+      {
+        "site": "anisearch",
+        "id": "13590"
+      },
+      {
+        "site": "kitsu",
+        "id": "41353"
+      },
+      {
+        "site": "livechart",
+        "id": "1041"
+      },
+      {
+        "site": "livechart",
+        "id": "12284"
+      },
+      {
+        "site": "livechart",
+        "id": "1232"
+      },
+      {
+        "site": "livechart",
+        "id": "1432"
+      },
+      {
+        "site": "livechart",
+        "id": "1644"
+      },
+      {
+        "site": "livechart",
+        "id": "3223"
+      },
+      {
+        "site": "livechart",
+        "id": "4073"
+      },
+      {
+        "site": "livechart",
+        "id": "434"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37773"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2019,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/1606/116670.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1606/116670t.jpg",
+    "synonyms": [
+      "MNYR",
+      "Yuru Yuri Mini Animation",
+      "Yuru Yuri: Mini Yuri",
+      "みにゆり"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "http://mobpsycho100.com/",
-  "begin": "2019-09-25T16:00:00.000Z",
-  "end": "2019-09-25T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "279700"
+  {
+    "title": "ばなにゃ ふしぎななかまたち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "香蕉喵 不可思议的伙伴们"
+      ],
+      "zh-Hant": [
+        "香蕉喵 不可思議的夥伴們"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "28222715",
-      "begin": "2019-09-24T16:00:00.000Z",
-      "broadcast": "R/2019-09-25T01:00:00.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://bananya.jp/",
+    "begin": "2019-09-30T22:30:00.000Z",
+    "end": "2019-12-23T22:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "288311"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222687",
+        "begin": "2019-09-30T23:33:00.000Z",
+        "broadcast": "R/2019-09-30T23:33:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bananya_nakama",
+        "begin": "2019-10-01T03:00:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhz788l",
+        "begin": "2019-09-30T23:30:05.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200og8kgws",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "ccfbf14a43504c7b8aa6",
+        "begin": "2019-09-30T23:31:05.000Z"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgYlcdbTLD-clFGEgbt5mZC",
+        "begin": "2021-05-05T16:00:00.000Z",
+        "broadcast": "R/2021-05-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "107629",
+        "begin": "2019-09-30T23:35:00.000Z",
+        "broadcast": "R/2019-09-30T23:35:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28222835",
+        "begin": "2019-09-30T23:33:00.000Z",
+        "broadcast": "R/2019-09-30T23:33:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "11910"
+      },
+      {
+        "site": "anilist",
+        "id": "21704"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bananya"
+      },
+      {
+        "site": "anisearch",
+        "id": "11229"
+      },
+      {
+        "site": "kitsu",
+        "id": "11912"
+      },
+      {
+        "site": "livechart",
+        "id": "2018"
+      },
+      {
+        "site": "myanimelist",
+        "id": "32664"
+      },
+      {
+        "site": "notify",
+        "id": "0unetKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2019,
+      "month": "09"
     },
-    {
-      "site": "anidb",
-      "id": "13939"
-    },
-    {
-      "site": "anidb",
-      "id": "16915"
-    },
-    {
-      "site": "anilist",
-      "id": "101338"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mob-psycho-100"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mob-psycho-100-ii"
-    },
-    {
-      "site": "anisearch",
-      "id": "13484"
-    },
-    {
-      "site": "kitsu",
-      "id": "41071"
-    },
-    {
-      "site": "livechart",
-      "id": "10841"
-    },
-    {
-      "site": "livechart",
-      "id": "1936"
-    },
-    {
-      "site": "livechart",
-      "id": "2944"
-    },
-    {
-      "site": "livechart",
-      "id": "3163"
-    },
-    {
-      "site": "livechart",
-      "id": "4276"
-    },
-    {
-      "site": "myanimelist",
-      "id": "37510"
-    },
-    {
-      "site": "notify",
-      "id": "sn4K2Fmmg"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 2019,
-    "month": "09"
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/1449/102481.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1449/102481t.jpg",
+    "synonyms": [
+      "Bananya 2",
+      "Bananya And The Curious Bunch",
+      "Bananya Season 2",
+      "Bananya and the Curious Bunch",
+      "Bananya und die anderen Racker",
+      "Bananya: Fushigi na Nakamatachi",
+      "ばなにゃ ふしぎななかまたち",
+      "香蕉喵 不可思议的伙伴们"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1605/119301.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1605/119301t.jpg",
-  "synonyms": [
-    "Mob Psycho 100 2 OAV",
-    "Mob Psycho 100 II OVA",
-    "Mob Psycho 100 II OVA: Der erste superbillige Ausflug des PS-Büros",
-    "Mob Psycho 100 II: The First Spirits and Such Company Trip - A Journey that Mends the Heart and Heals the Soul",
-    "Mob Psycho 100 II: The First Spirits and Such Company Trip ~A Journey that Mends the Heart and Heals the Soul~",
-    "Mob Psycho 100 II: The Spirits and Such Consultation Office's First Company Outing ~A Healing Trip That Warms the Heart~",
-    "Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi",
-    "Mob Psycho 100: Daīkkai Rei toka Sōdansho Ian Ryokō - Kokoro Mitasu Iyashi no Tabi",
-    "Mob Psycho 100: Der erste superbillige Ausflug der Berater für Geister und so`n Zeugs",
-    "Mob Psycho 100: La première excursion du bureau ~ Le voyage apaisant ~",
-    "Mob Psycho 100: Spirits and Such Company Trip - A Journey That Mends the Heart and Heals the Soul",
-    "Mob Psycho 100: The First Spirits and Such Company Trip - A Journey that Mends the Heart and Heals the Soul",
-    "Mob Psycho 100: The First Spirits and Such Field Trip - A Journey that Mends the Heart and Heals the Soul",
-    "Mob Psycho 100: The First Spirits and Such Field Trip - A Journey that Mends the Heart and Heals the Soul.",
-    "Mob Psycho 100: The Spirits and Such Consultation Office's First Company Outing - A Healing Trip That Warms the Heart",
-    "Mob Psycho 100: The Spirits and Such Consultation Office`s First Company Outing - A Healing Trip That Warms the Heart",
-    "Mob Psycho 100: The Spirits and Such Consultation Office’s First Company Outing - A Healing Trip That Warms the Heart",
-    "mp100 ova",
-    "モブサイコ100 第一回霊とか相談所慰安旅行~ココロ満たす癒やしの旅",
-    "モブサイコ100 第一回霊とか相談所慰安旅行~ココロ満たす癒やしの旅~",
-    "モブサイコ100 第一回霊とか相談所慰安旅行～ココロ満たす癒やしの旅～",
-    "灵能百分百 第一回灵能相谈所犒劳旅行～心满意足的治愈之旅～"
-  ]
-}
+  {
+    "title": "ゼノンザード THE ANIMATION",
+    "titleTranslate": {
+      "zh-Hans": [
+        "神巫奇才"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.aicarddass.com/zenonzard/anime/",
+    "begin": "2019-09-10T16:00:00.000Z",
+    "end": "2020-10-31T13:15:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "290387"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zenonzard-anime",
+        "begin": ""
+      },
+      {
+        "site": "anilist",
+        "id": "112033"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zenonzard-the-animation"
+      },
+      {
+        "site": "anisearch",
+        "id": "14618"
+      },
+      {
+        "site": "kitsu",
+        "id": "43033"
+      },
+      {
+        "site": "livechart",
+        "id": "9600"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40940"
+      },
+      {
+        "site": "notify",
+        "id": "EWFVvK_Wg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2019,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1478/103070.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1478/103070t.jpg",
+    "synonyms": [
+      "ZENONZARD THE ANIMATION Episode 0",
+      "Zenonzard: THE ANIMATION - Episode 0",
+      "Zenonzard: The Animation",
+      "Zenonzard: The Animation - Episode 0",
+      "Zenonzard: The Animation Episode 0",
+      "ゼノンザード THE ANIMATION",
+      "ゼノンザード THE ANIMATION - Episode 0",
+      "ゼノンザード THE ANIMATION 0話",
+      "ゼノンザード THE ANIMATION 第0話"
+    ]
+  },
+  {
+    "title": "ご注文はうさぎですか？？～Sing For You～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "请问您今天要来点兔子吗？？～Sing for You～"
+      ],
+      "zh-Hant": [
+        "請問您今天要來點兔子嗎？～Sing For You～"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.gochiusa.com/ova2/",
+    "begin": "2019-09-26T16:00:00.000Z",
+    "end": "2019-09-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "260772"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gochiusa-sfy",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28225115",
+        "begin": "2019-12-20T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "101412",
+        "begin": "2019-12-19T16:00:00.000Z",
+        "broadcast": "R/2019-12-19T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "12118"
+      },
+      {
+        "site": "anidb",
+        "id": "14400"
+      },
+      {
+        "site": "anilist",
+        "id": "21034"
+      },
+      {
+        "site": "anime-planet",
+        "id": "is-the-order-a-rabbit"
+      },
+      {
+        "site": "anime-planet",
+        "id": "is-the-order-a-rabbit-bloom"
+      },
+      {
+        "site": "anime-planet",
+        "id": "is-the-order-a-rabbit-dear-my-sister"
+      },
+      {
+        "site": "anime-planet",
+        "id": "is-the-order-a-rabbit-season-2"
+      },
+      {
+        "site": "anisearch",
+        "id": "11475"
+      },
+      {
+        "site": "anisearch",
+        "id": "13899"
+      },
+      {
+        "site": "kitsu",
+        "id": "12138"
+      },
+      {
+        "site": "kitsu",
+        "id": "42365"
+      },
+      {
+        "site": "livechart",
+        "id": "1383"
+      },
+      {
+        "site": "livechart",
+        "id": "2185"
+      },
+      {
+        "site": "livechart",
+        "id": "306"
+      },
+      {
+        "site": "livechart",
+        "id": "3516"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33280"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38337"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2019,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1684/101030.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1684/101030t.jpg",
+    "synonyms": [
+      "GochiUsa OVA",
+      "Gochiusa",
+      "Gochuumon wa Usagi Desu ka?? Sing For You",
+      "Gochuumon wa Usagi Desu ka??: Sing for You",
+      "Gochuumon wa Usagi Desuka?? Sing for You",
+      "Gochuumon wa Usagi desu ka? OVA",
+      "Gochuumon wa Usagi desu ka?? Sing For You",
+      "Gochuumon wa Usagi desu ka?? ~Sing For You~",
+      "Gochūmon wa Usagi desu ka?? Sing for You",
+      "Is the Order a Rabbit?? OVA",
+      "Is the Order a Rabbit?? Sing For You",
+      "Is the Order a Rabbit?? ~Sing For You~",
+      "Is the Order a Rabbit?? ～Sing For You～",
+      "gochiusa ova",
+      "ご注文はうさぎですか?? ~Sing For You~",
+      "ご注文はうさぎですか？？ ~Sing For You~",
+      "ご注文はうさぎですか？？ ～Sing For You～",
+      "ご注文はうさぎですか？？～Sing For You～",
+      "请问您今天要来点兔子吗？？～Sing for You～",
+      "주문은 토끼입니까?? ~Sing For You~"
+    ]
+  },
+  {
+    "title": "BanG Dream! FILM LIVE",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://anime.bang-dream.com/filmlive/",
+    "begin": "2019-09-13T16:00:00.000Z",
+    "end": "2019-09-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "279219"
+      },
+      {
+        "site": "bilibili",
+        "id": "28227003",
+        "begin": "2020-01-05T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "bang-dream-film-live",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "106512",
+        "begin": "2020-05-19T06:30:00.000Z",
+        "broadcast": "R/2020-05-19T06:30:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "14075"
+      },
+      {
+        "site": "anilist",
+        "id": "101633"
+      },
+      {
+        "site": "anilist",
+        "id": "116610"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bang-dream"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bang-dream-2nd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bang-dream-3rd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bang-dream-film-live-2nd-stage"
+      },
+      {
+        "site": "anisearch",
+        "id": "13610"
+      },
+      {
+        "site": "kitsu",
+        "id": "41289"
+      },
+      {
+        "site": "kitsu",
+        "id": "43371"
+      },
+      {
+        "site": "livechart",
+        "id": "10567"
+      },
+      {
+        "site": "livechart",
+        "id": "10631"
+      },
+      {
+        "site": "livechart",
+        "id": "11126"
+      },
+      {
+        "site": "livechart",
+        "id": "2247"
+      },
+      {
+        "site": "livechart",
+        "id": "2537"
+      },
+      {
+        "site": "livechart",
+        "id": "3225"
+      },
+      {
+        "site": "livechart",
+        "id": "3238"
+      },
+      {
+        "site": "livechart",
+        "id": "3239"
+      },
+      {
+        "site": "livechart",
+        "id": "3240"
+      },
+      {
+        "site": "livechart",
+        "id": "9667"
+      },
+      {
+        "site": "livechart",
+        "id": "9713"
+      },
+      {
+        "site": "livechart",
+        "id": "9841"
+      },
+      {
+        "site": "livechart",
+        "id": "9897"
+      },
+      {
+        "site": "livechart",
+        "id": "9898"
+      },
+      {
+        "site": "livechart",
+        "id": "9899"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37869"
+      },
+      {
+        "site": "myanimelist",
+        "id": "41462"
+      },
+      {
+        "site": "notify",
+        "id": "C691qgVmR"
+      },
+      {
+        "site": "notify",
+        "id": "EhoasvLGg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2019,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1163/117736.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1163/117736t.jpg",
+    "synonyms": [
+      "BanG Dream! FILM LIVE",
+      "Bang Dream! Film Live",
+      "バンドリ! フィルムライブ"
+    ]
+  },
+  {
+    "title": "かいじゅうステップ ワンダバダ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小怪兽成长日记 蹒跚学步"
+      ],
+      "en": [
+        "THE KAIJU STEP"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.kaijustep.com/anime/",
+    "begin": "2019-09-27T16:00:00.000Z",
+    "end": "2020-03-27T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302157"
+      },
+      {
+        "site": "youku",
+        "id": "abfbce7364264ae09321",
+        "begin": "2020-05-07T09:43:28.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kaijustep",
+        "begin": "2020-09-02T15:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28338170",
+        "begin": "2022-05-31T16:00:05.000Z",
+        "broadcast": "R/2022-05-31T16:00:05.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "14806"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kaijuu-step-wandabada"
+      },
+      {
+        "site": "anisearch",
+        "id": "14642"
+      },
+      {
+        "site": "kitsu",
+        "id": "42594"
+      },
+      {
+        "site": "livechart",
+        "id": "9399"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39628"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2020,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/1934/109054.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1934/109054t.jpg",
+    "synonyms": [
+      "Kaiju Step Wandabada 2nd Season",
+      "Kaijuu Step Wandabada Dai 2 Series",
+      "Kaijū Step Wandabada 2nd Season",
+      "The Kaiju Step 2nd Season",
+      "かいじゅうステップ ワンダバダ",
+      "かいじゅうステップ ワンダバダ 2シリーズ",
+      "かいじゅうステップ　ワンダバダ 第2シリーズ"
+    ]
+  },
+  {
+    "title": "銀河英雄伝説 Die Neue These 星乱 第1章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河英雄传说 Die Neue These 星乱 第1章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://gineiden-anime.com",
+    "begin": "2019-09-27T16:00:00.000Z",
+    "end": "2019-09-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "226218"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222724",
+        "begin": "2019-09-26T16:00:00.000Z",
+        "broadcast": "R/2019-09-27T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "104025",
+        "begin": "2022-12-16T03:00:00.000Z",
+        "broadcast": "R/2022-12-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "124032"
+      },
+      {
+        "site": "anilist",
+        "id": "20628"
+      },
+      {
+        "site": "anilist",
+        "id": "820"
+      },
+      {
+        "site": "anime-planet",
+        "id": "legend-of-the-galactic-heroes-die-neue-these"
+      },
+      {
+        "site": "anime-planet",
+        "id": "legend-of-the-galactic-heroes-die-neue-these-second-2"
+      },
+      {
+        "site": "anisearch",
+        "id": "10688"
+      },
+      {
+        "site": "anisearch",
+        "id": "15720"
+      },
+      {
+        "site": "kitsu",
+        "id": "11331"
+      },
+      {
+        "site": "kitsu",
+        "id": "42352"
+      },
+      {
+        "site": "kitsu",
+        "id": "727"
+      },
+      {
+        "site": "livechart",
+        "id": "10151"
+      },
+      {
+        "site": "livechart",
+        "id": "10832"
+      },
+      {
+        "site": "livechart",
+        "id": "10833"
+      },
+      {
+        "site": "livechart",
+        "id": "11215"
+      },
+      {
+        "site": "livechart",
+        "id": "11216"
+      },
+      {
+        "site": "livechart",
+        "id": "11217"
+      },
+      {
+        "site": "livechart",
+        "id": "12399"
+      },
+      {
+        "site": "livechart",
+        "id": "2888"
+      },
+      {
+        "site": "livechart",
+        "id": "2889"
+      },
+      {
+        "site": "livechart",
+        "id": "436"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31433"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36370"
+      },
+      {
+        "site": "myanimelist",
+        "id": "820"
+      },
+      {
+        "site": "notify",
+        "id": "4TO6rOAmR"
+      },
+      {
+        "site": "notify",
+        "id": "Q6fAcKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "k5c9pFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2019,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/1772/102667.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1772/102667t.jpg",
+    "synonyms": [
+      "Ginga Eiyuu Densetsu: Die Neue These - Seiran",
+      "Ginga Eiyuu Densetsu: Die Neue These 2nd Season",
+      "Ginga Eiyuu Densetsu: Die Neue These Seiran 1",
+      "Ginga Eiyuu Densetsu: Die Neue These – Seiran",
+      "Ginga Eiyū Densetsu: Die Neue These – Seiran",
+      "La Leyenda de los Héroes de la Galaxia: La Nueva Tesis. Stellar War Parte 1",
+      "La Leyenda de los Héroes de la Galaxia: Segunda Temporada",
+      "Legend of the Galactic Heroes: Die Neue These",
+      "Legend of the Galactic Heroes: Die Neue These (Staffel 2)",
+      "Legend of the Galactic Heroes: Die Neue These - Seiran",
+      "Legend of the Galactic Heroes: Die Neue These Season 2",
+      "Legend of the Galactic Heroes: Die Neue These Second",
+      "Legend of the Galactic Heroes: Die Neue These Second 1",
+      "Legend of the Galactic Heroes: The New Thesis - Stellar War",
+      "Legend of the Galactic Heroes: The New Thesis - Stellar War Part 1",
+      "Legend of the Galactic Heroes: The New Thesis Second Part 1",
+      "Les Héros de la Galaxie: Die Neue These 2",
+      "The Legend of the Galactic Heroes The New Thesis Stellar War Part 1",
+      "The Legend of the Galactic Heroes: The New Thesis - Stellar War Part 1",
+      "The New Thesis: Stellar War",
+      "銀河英雄伝説 Die Neue These 星乱",
+      "銀河英雄伝説 Die Neue These 星乱 第1章",
+      "銀河英雄伝説 Die Neue These 星乱　第一章"
+    ]
+  },
+  {
+    "title": "モブサイコ100 第一回霊とか相談所慰安旅行～ココロ満たす癒やしの旅～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "灵能百分百 第一回灵能相谈所犒劳旅行～心满意足的治愈之旅～"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://mobpsycho100.com/",
+    "begin": "2019-09-25T16:00:00.000Z",
+    "end": "2019-09-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "279700"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222715",
+        "begin": "2019-09-24T16:00:00.000Z",
+        "broadcast": "R/2019-09-25T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "13939"
+      },
+      {
+        "site": "anidb",
+        "id": "16915"
+      },
+      {
+        "site": "anilist",
+        "id": "101338"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mob-psycho-100"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mob-psycho-100-ii"
+      },
+      {
+        "site": "anisearch",
+        "id": "13484"
+      },
+      {
+        "site": "kitsu",
+        "id": "41071"
+      },
+      {
+        "site": "livechart",
+        "id": "10841"
+      },
+      {
+        "site": "livechart",
+        "id": "1936"
+      },
+      {
+        "site": "livechart",
+        "id": "2944"
+      },
+      {
+        "site": "livechart",
+        "id": "3163"
+      },
+      {
+        "site": "livechart",
+        "id": "4276"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37510"
+      },
+      {
+        "site": "notify",
+        "id": "sn4K2Fmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2019,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1605/119301.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1605/119301t.jpg",
+    "synonyms": [
+      "Mob Psycho 100 2 OAV",
+      "Mob Psycho 100 II OVA",
+      "Mob Psycho 100 II OVA: Der erste superbillige Ausflug des PS-Büros",
+      "Mob Psycho 100 II: The First Spirits and Such Company Trip - A Journey that Mends the Heart and Heals the Soul",
+      "Mob Psycho 100 II: The First Spirits and Such Company Trip ~A Journey that Mends the Heart and Heals the Soul~",
+      "Mob Psycho 100 II: The Spirits and Such Consultation Office's First Company Outing ~A Healing Trip That Warms the Heart~",
+      "Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi",
+      "Mob Psycho 100: Daīkkai Rei toka Sōdansho Ian Ryokō - Kokoro Mitasu Iyashi no Tabi",
+      "Mob Psycho 100: Der erste superbillige Ausflug der Berater für Geister und so`n Zeugs",
+      "Mob Psycho 100: La première excursion du bureau ~ Le voyage apaisant ~",
+      "Mob Psycho 100: Spirits and Such Company Trip - A Journey That Mends the Heart and Heals the Soul",
+      "Mob Psycho 100: The First Spirits and Such Company Trip - A Journey that Mends the Heart and Heals the Soul",
+      "Mob Psycho 100: The First Spirits and Such Field Trip - A Journey that Mends the Heart and Heals the Soul",
+      "Mob Psycho 100: The First Spirits and Such Field Trip - A Journey that Mends the Heart and Heals the Soul.",
+      "Mob Psycho 100: The Spirits and Such Consultation Office's First Company Outing - A Healing Trip That Warms the Heart",
+      "Mob Psycho 100: The Spirits and Such Consultation Office`s First Company Outing - A Healing Trip That Warms the Heart",
+      "Mob Psycho 100: The Spirits and Such Consultation Office’s First Company Outing - A Healing Trip That Warms the Heart",
+      "mp100 ova",
+      "モブサイコ100 第一回霊とか相談所慰安旅行~ココロ満たす癒やしの旅",
+      "モブサイコ100 第一回霊とか相談所慰安旅行~ココロ満たす癒やしの旅~",
+      "モブサイコ100 第一回霊とか相談所慰安旅行～ココロ満たす癒やしの旅～",
+      "灵能百分百 第一回灵能相谈所犒劳旅行～心满意足的治愈之旅～"
+    ]
+  }
+]

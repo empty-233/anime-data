@@ -1,101 +1,508 @@
-{
-  "title": "とんがり帽子のメモル",
-  "titleTranslate": {
-    "zh-Hans": [
-      "小小外星人",
-      "尖帽子的梅莫尔",
-      "尖帽子的记忆"
+[
+  {
+    "title": "ドラえもん のび太の魔界大冒険",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：大雄的魔界大冒险"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-03-17T16:00:00.000Z",
+    "end": "1984-03-17T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "80815",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "439"
+      },
+      {
+        "site": "pptv",
+        "id": "7qoHhe1TwwFk4ko",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "z/z8alyhrvkd3jp2y",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3867",
+        "begin": "1984-03-16T16:00:01.000Z",
+        "broadcast": "R/2016-04-28T02:13:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1078"
+      },
+      {
+        "site": "anidb",
+        "id": "5432"
+      },
+      {
+        "site": "anilist",
+        "id": "2471"
+      },
+      {
+        "site": "anilist",
+        "id": "2673"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-1979"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back-1998"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-27-nobita-no-shin-makai-daibouken-shichinin-no-mahou-tsukai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-doraemons-strange-sweets-strange"
+      },
+      {
+        "site": "anisearch",
+        "id": "3869"
+      },
+      {
+        "site": "anisearch",
+        "id": "4468"
+      },
+      {
+        "site": "anisearch",
+        "id": "540"
+      },
+      {
+        "site": "kitsu",
+        "id": "2436"
+      },
+      {
+        "site": "kitsu",
+        "id": "460"
+      },
+      {
+        "site": "livechart",
+        "id": "12164"
+      },
+      {
+        "site": "livechart",
+        "id": "5614"
+      },
+      {
+        "site": "livechart",
+        "id": "6575"
+      },
+      {
+        "site": "livechart",
+        "id": "6880"
+      },
+      {
+        "site": "livechart",
+        "id": "7693"
+      },
+      {
+        "site": "livechart",
+        "id": "8740"
+      },
+      {
+        "site": "livechart",
+        "id": "8868"
+      },
+      {
+        "site": "livechart",
+        "id": "8871"
+      },
+      {
+        "site": "livechart",
+        "id": "8877"
+      },
+      {
+        "site": "livechart",
+        "id": "8878"
+      },
+      {
+        "site": "livechart",
+        "id": "8884"
+      },
+      {
+        "site": "livechart",
+        "id": "8897"
+      },
+      {
+        "site": "livechart",
+        "id": "8900"
+      },
+      {
+        "site": "livechart",
+        "id": "8901"
+      },
+      {
+        "site": "livechart",
+        "id": "8998"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2471"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2673"
+      },
+      {
+        "site": "notify",
+        "id": "BRto5KimR"
+      },
+      {
+        "site": "notify",
+        "id": "X-By5KmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1984,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/72410.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/72410t.jpg",
+    "synonyms": [
+      "Doraemon Movie 5",
+      "Doraemon Movie 5: Nobita no Makai Daibouken",
+      "Doraemon Movie 5: Nobita's Great Adventure into the Underworld",
+      "Doraemon Película 5: Doraemon: Aventuras en el Inframundo",
+      "Doraemon the Movie: Nobita's Great Adventure into the Underworld",
+      "Doraemon y los Siete Magos",
+      "Doraemon: Nobita no Makai Daibouken",
+      "Doraemon: Nobita no Makai Daibōken",
+      "Doraemon: Nobita's Great Adventure in the World of Magic",
+      "Doraemon: Nobita's Great Adventure into the Underworld",
+      "Doraemon: Nobita`s Great Adventure into the Underworld",
+      "ドラえもん のび太の魔界大冒険",
+      "映画 ドラえもん のび太の魔界大冒険"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1984-03-02T16:00:00.000Z",
-  "end": "1985-03-02T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "16517"
+  {
+    "title": "名探偵ホームズ 青い紅玉の巻/海底の財宝の巻",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探福尔摩斯 蓝柘榴石之卷/海底的财宝之卷"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "2430",
-      "begin": "2013-06-14T17:42:15.000Z",
-      "broadcast": "R/2013-06-14T17:42:15.000Z/P7D"
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-03-11T16:00:00.000Z",
+    "end": "1984-03-11T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "72554"
+      },
+      {
+        "site": "pptv",
+        "id": "DwzoZs40pOJFwys",
+        "begin": ""
+      },
+      {
+        "site": "anilist",
+        "id": "1972"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sherlock-hound"
+      },
+      {
+        "site": "anisearch",
+        "id": "3066"
+      },
+      {
+        "site": "kitsu",
+        "id": "1775"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1972"
+      },
+      {
+        "site": "notify",
+        "id": "I8VYcFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1984,
+      "month": "03"
     },
-    {
-      "site": "anidb",
-      "id": "2040"
-    },
-    {
-      "site": "anidb",
-      "id": "8151"
-    },
-    {
-      "site": "anilist",
-      "id": "12657"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tongari-boushi-no-memoru-1985"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tongari-boushi-no-memoru-mariel-no-housekibako"
-    },
-    {
-      "site": "anisearch",
-      "id": "3134"
-    },
-    {
-      "site": "anisearch",
-      "id": "6682"
-    },
-    {
-      "site": "kitsu",
-      "id": "6780"
-    },
-    {
-      "site": "livechart",
-      "id": "8743"
-    },
-    {
-      "site": "myanimelist",
-      "id": "12657"
-    },
-    {
-      "site": "notify",
-      "id": "AWsHpFiig"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 1984,
-    "month": "03"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/42601.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/42601t.jpg",
+    "synonyms": [
+      "Meitantei Holmes Movie",
+      "Meitantei Holmes Movie 01",
+      "Meitantei Holmes: Aoi Ruby no Maki / Kaitei no Zaihō no Maki",
+      "Sherlock Hound Movie",
+      "Sherlock Hound Movie 01",
+      "Sherlock Hound: The Adventure of the Blue Carbuncle / Treasure Under the Sea",
+      "Sherlock Hound: The Adventure of the Blue Carbuncle / Treasure under the Sea",
+      "めいたんていほーむず あおいるびーのまき かいていのざいほうのまき",
+      "名探偵ホームズ 青い紅玉の巻/海底の財宝の巻",
+      "名探偵ホームズ 青い紅玉の巻／海底の財宝の巻"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 50,
-  "picture": "https://cdn.myanimelist.net/images/anime/6/36819.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/6/36819t.jpg",
-  "synonyms": [
-    "Crocus",
-    "La Pequeña Memole",
-    "Little Beret Memoru",
-    "Little Memole",
-    "Manóvári Manók",
-    "Memole dolce Memole",
-    "Memole, dolce Memole",
-    "Memoru in the Pointed Hat",
-    "Micuţa Memol",
-    "Skrzaty z Wyspy Li",
-    "Tongari Boushi no Memoru",
-    "Tongari Bōshi no Memole",
-    "Wee Wendy",
-    "Τα Τοσοδούλια από το Διάστημα",
-    "Крошка Мемоль",
-    "ميمي الصغيرة",
-    "とんがり帽子のメモル",
-    "小小外星人",
-    "고깔모자 메모루"
-  ]
-}
+  {
+    "title": "風の谷のナウシカ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "风之谷"
+      ],
+      "zh-Hant": [
+        "風之谷"
+      ],
+      "en": [
+        "Nausicaä of the Valley of the Wind"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-03-10T16:00:00.000Z",
+    "end": "1984-03-10T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "295"
+      },
+      {
+        "site": "netflix",
+        "id": "70019062",
+        "begin": "2020-02-28T16:00:00.000Z",
+        "broadcast": "R/2020-02-28T16:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1984,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/75914.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/75914t.jpg",
+    "synonyms": [
+      "Kaze no Tani no Naushika",
+      "Kaze no Tani no Nausicaa",
+      "Kaze no Tani no Nausicā",
+      "La Princesse des Etoiles",
+      "La princesse des étoiles",
+      "Le Combat des Princes de l’Espace",
+      "Naushika",
+      "Nausicaa",
+      "Nausicaa aus dem Tal der Winde",
+      "Nausicaa din Valea Vântului",
+      "Nausicaa of the Valley of the Wind",
+      "Nausicaä",
+      "Nausicaä aus dem Tal der Winde",
+      "Nausicaä de la Vallée du Vent",
+      "Nausicaä de la vallée du vent",
+      "Nausicaä del Valle del Viento",
+      "Nausicaä del valle del viento",
+      "Nausicaä della Valle del Vento",
+      "Nausicaä della Valle del vento",
+      "Nausicaä della valle del vento",
+      "Nausicaä do Vale do Vento",
+      "Nausicaä fra Vindenes Dal",
+      "Nausicaä från Vindarnas dal",
+      "Nausicaä iz Dežele vetra",
+      "Nausicaä of the Valley of the Wind",
+      "Nausicaä z Doliny Wiatru",
+      "Nausicaä: Guerreros del viento",
+      "Nausika iš Vėjų slėnio",
+      "Nausikaja iz doline Vetra",
+      "Nausikaja iz doline Vjetra",
+      "Nausikaja iš Vėjų slėnio",
+      "Nauszika - A szél harcosai",
+      "Naušika z Větrného údolí",
+      "Rüzgarlı Vadi",
+      "Rüzgârlı Vadi",
+      "Sternenkrieger - Warriors of the Wind",
+      "Sternenkrieger: Warriors of the Wind",
+      "Tuulen laakson Nausicaä",
+      "Tuulte oru Nausikaa",
+      "Vindens Krigare",
+      "Warriors of the Wind",
+      "Η Ναυσικά της Κοιλάδας του Ανέμου",
+      "Η Ναυσικά της Κοιλάδας των Ανέμων",
+      "Ναυσικαα",
+      "Οι μαχητές του ανέμου",
+      "Навсикая из долины ветров",
+      "Навсікая",
+      "Навсікая Долини вітру",
+      "Навсікая з Долини Вітрів",
+      "Наусика",
+      "Наусика от Долината на Вятъра",
+      "Наусіка з Долини Вітрів",
+      "Наушіка Долини Вітру",
+      "הנסיכה מעמק הרוחות",
+      "ناوسيكا أميرة وادي الرياح",
+      "ناوسيكا فتاة وادي الرياح",
+      "かぜのたにのなうしか",
+      "風の谷のナウシカ",
+      "風之谷",
+      "风之谷",
+      "바람계곡의 나우시카"
+    ]
+  },
+  {
+    "title": "おしん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿信"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-03-16T16:00:00.000Z",
+    "end": "1984-03-16T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "77470"
+      },
+      {
+        "site": "bilibili",
+        "id": "6087",
+        "begin": "2017-05-03T01:52:00.000Z",
+        "broadcast": "R/2017-05-03T01:52:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1984,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/29978.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/29978t.jpg",
+    "synonyms": [
+      "おしん"
+    ]
+  },
+  {
+    "title": "とんがり帽子のメモル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小小外星人",
+        "尖帽子的梅莫尔",
+        "尖帽子的记忆"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-03-02T16:00:00.000Z",
+    "end": "1985-03-02T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "16517"
+      },
+      {
+        "site": "bilibili",
+        "id": "2430",
+        "begin": "2013-06-14T17:42:15.000Z",
+        "broadcast": "R/2013-06-14T17:42:15.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "2040"
+      },
+      {
+        "site": "anidb",
+        "id": "8151"
+      },
+      {
+        "site": "anilist",
+        "id": "12657"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tongari-boushi-no-memoru-1985"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tongari-boushi-no-memoru-mariel-no-housekibako"
+      },
+      {
+        "site": "anisearch",
+        "id": "3134"
+      },
+      {
+        "site": "anisearch",
+        "id": "6682"
+      },
+      {
+        "site": "kitsu",
+        "id": "6780"
+      },
+      {
+        "site": "livechart",
+        "id": "8743"
+      },
+      {
+        "site": "myanimelist",
+        "id": "12657"
+      },
+      {
+        "site": "notify",
+        "id": "AWsHpFiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1984,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 50,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/36819.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/36819t.jpg",
+    "synonyms": [
+      "Crocus",
+      "La Pequeña Memole",
+      "Little Beret Memoru",
+      "Little Memole",
+      "Manóvári Manók",
+      "Memole dolce Memole",
+      "Memole, dolce Memole",
+      "Memoru in the Pointed Hat",
+      "Micuţa Memol",
+      "Skrzaty z Wyspy Li",
+      "Tongari Boushi no Memoru",
+      "Tongari Bōshi no Memole",
+      "Wee Wendy",
+      "Τα Τοσοδούλια από το Διάστημα",
+      "Крошка Мемоль",
+      "ميمي الصغيرة",
+      "とんがり帽子のメモル",
+      "小小外星人",
+      "고깔모자 메모루"
+    ]
+  }
+]

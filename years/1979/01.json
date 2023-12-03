@@ -1,174 +1,176 @@
-{
-  "title": "赤毛のアン",
-  "titleTranslate": {
-    "zh-Hans": [
-      "红发少女安妮"
+[
+  {
+    "title": "赤毛のアン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "红发少女安妮"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www9.nhk.or.jp/anime/anne/",
+    "begin": "1979-01-07T22:30:00.000Z",
+    "end": "1979-12-30T23:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "18256"
+      },
+      {
+        "site": "bilibili",
+        "id": "2460",
+        "begin": "1979-01-07T16:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "4895"
+      },
+      {
+        "site": "anidb",
+        "id": "6046"
+      },
+      {
+        "site": "anidb",
+        "id": "7142"
+      },
+      {
+        "site": "anidb",
+        "id": "7526"
+      },
+      {
+        "site": "anilist",
+        "id": "5494"
+      },
+      {
+        "site": "anilist",
+        "id": "8950"
+      },
+      {
+        "site": "anime-planet",
+        "id": "akage-no-anne-green-gables-e-no-michi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "before-green-gables"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sekai-meisaku-gekijou-kanketsu-ban-akage-no-anne"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shiawase-pasta-story"
+      },
+      {
+        "site": "anisearch",
+        "id": "12799"
+      },
+      {
+        "site": "anisearch",
+        "id": "3534"
+      },
+      {
+        "site": "anisearch",
+        "id": "6135"
+      },
+      {
+        "site": "anisearch",
+        "id": "6267"
+      },
+      {
+        "site": "kitsu",
+        "id": "4124"
+      },
+      {
+        "site": "kitsu",
+        "id": "5544"
+      },
+      {
+        "site": "kitsu",
+        "id": "8500"
+      },
+      {
+        "site": "livechart",
+        "id": "8267"
+      },
+      {
+        "site": "livechart",
+        "id": "8839"
+      },
+      {
+        "site": "livechart",
+        "id": "9127"
+      },
+      {
+        "site": "myanimelist",
+        "id": "23583"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37423"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5494"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8950"
+      },
+      {
+        "site": "notify",
+        "id": "Lh0j5Kiig"
+      },
+      {
+        "site": "notify",
+        "id": "Uza0tKimg"
+      },
+      {
+        "site": "notify",
+        "id": "c7dWpKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1979,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 50,
+    "picture": "https://cdn.myanimelist.net/images/anime/1365/115824.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1365/115824t.jpg",
+    "synonyms": [
+      "Ana de las Tejas Verdes",
+      "Ana de las tejas verdes",
+      "Ana dos Cabelos Ruivos",
+      "Ania z Zielonego Wzgórza",
+      "Anna dai capelli rossi",
+      "Anna ze zeleného domu",
+      "Anna Í Grænuhlíð",
+      "Anne aux cheveux roux",
+      "Anne de la Green Gables",
+      "Anne et la maison aux pignons verts",
+      "Anne mit den roten Haaren",
+      "Anne of Green Gables",
+      "Anne the Redhead",
+      "Anne... la Maison aux Pignons Verts",
+      "Anne... la maison aux pignons verts",
+      "Anė iš žaliujų mansardų",
+      "Red Haired Anne",
+      "Red haired Anne",
+      "Sekai Meisaku Gekijou",
+      "WMT",
+      "World Masterpiece Theater",
+      "Yeşilin Kızı Anne",
+      "anne",
+      "Άννα, το Κορίτσι της Χαράς",
+      "Анна з Зелених дахів",
+      "Аня из Зелёных Мезонинов",
+      "האסופית",
+      "آنه شرلی با موهای قرمز",
+      "شما في البراري الخضراء",
+      "あかげのあん",
+      "赤毛のアン"
     ]
-  },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "http://www9.nhk.or.jp/anime/anne/",
-  "begin": "1979-01-07T22:30:00.000Z",
-  "end": "1979-12-30T23:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "18256"
-    },
-    {
-      "site": "bilibili",
-      "id": "2460",
-      "begin": "1979-01-07T16:00:00.000Z"
-    },
-    {
-      "site": "anidb",
-      "id": "4895"
-    },
-    {
-      "site": "anidb",
-      "id": "6046"
-    },
-    {
-      "site": "anidb",
-      "id": "7142"
-    },
-    {
-      "site": "anidb",
-      "id": "7526"
-    },
-    {
-      "site": "anilist",
-      "id": "5494"
-    },
-    {
-      "site": "anilist",
-      "id": "8950"
-    },
-    {
-      "site": "anime-planet",
-      "id": "akage-no-anne-green-gables-e-no-michi"
-    },
-    {
-      "site": "anime-planet",
-      "id": "before-green-gables"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sekai-meisaku-gekijou-kanketsu-ban-akage-no-anne"
-    },
-    {
-      "site": "anime-planet",
-      "id": "shiawase-pasta-story"
-    },
-    {
-      "site": "anisearch",
-      "id": "12799"
-    },
-    {
-      "site": "anisearch",
-      "id": "3534"
-    },
-    {
-      "site": "anisearch",
-      "id": "6135"
-    },
-    {
-      "site": "anisearch",
-      "id": "6267"
-    },
-    {
-      "site": "kitsu",
-      "id": "4124"
-    },
-    {
-      "site": "kitsu",
-      "id": "5544"
-    },
-    {
-      "site": "kitsu",
-      "id": "8500"
-    },
-    {
-      "site": "livechart",
-      "id": "8267"
-    },
-    {
-      "site": "livechart",
-      "id": "8839"
-    },
-    {
-      "site": "livechart",
-      "id": "9127"
-    },
-    {
-      "site": "myanimelist",
-      "id": "23583"
-    },
-    {
-      "site": "myanimelist",
-      "id": "37423"
-    },
-    {
-      "site": "myanimelist",
-      "id": "5494"
-    },
-    {
-      "site": "myanimelist",
-      "id": "8950"
-    },
-    {
-      "site": "notify",
-      "id": "Lh0j5Kiig"
-    },
-    {
-      "site": "notify",
-      "id": "Uza0tKimg"
-    },
-    {
-      "site": "notify",
-      "id": "c7dWpKimg"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 1979,
-    "month": "01"
-  },
-  "status": "FINISHED",
-  "episodes": 50,
-  "picture": "https://cdn.myanimelist.net/images/anime/1365/115824.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1365/115824t.jpg",
-  "synonyms": [
-    "Ana de las Tejas Verdes",
-    "Ana de las tejas verdes",
-    "Ana dos Cabelos Ruivos",
-    "Ania z Zielonego Wzgórza",
-    "Anna dai capelli rossi",
-    "Anna ze zeleného domu",
-    "Anna Í Grænuhlíð",
-    "Anne aux cheveux roux",
-    "Anne de la Green Gables",
-    "Anne et la maison aux pignons verts",
-    "Anne mit den roten Haaren",
-    "Anne of Green Gables",
-    "Anne the Redhead",
-    "Anne... la Maison aux Pignons Verts",
-    "Anne... la maison aux pignons verts",
-    "Anė iš žaliujų mansardų",
-    "Red Haired Anne",
-    "Red haired Anne",
-    "Sekai Meisaku Gekijou",
-    "WMT",
-    "World Masterpiece Theater",
-    "Yeşilin Kızı Anne",
-    "anne",
-    "Άννα, το Κορίτσι της Χαράς",
-    "Анна з Зелених дахів",
-    "Аня из Зелёных Мезонинов",
-    "האסופית",
-    "آنه شرلی با موهای قرمز",
-    "شما في البراري الخضراء",
-    "あかげのあん",
-    "赤毛のアン"
-  ]
-}
+  }
+]

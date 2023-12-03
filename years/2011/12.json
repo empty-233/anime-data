@@ -1,141 +1,653 @@
-{
-  "title": "映画けいおん！",
-  "titleTranslate": {
-    "zh-Hans": [
-      "轻音少女 剧场版"
+[
+  {
+    "title": "機動戦士ガンダムSEED HDリマスター",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达SEED HD重制版",
+        "机动战士敢达SEED 重制版"
+      ],
+      "zh-Hant": [
+        "機動戰士鋼彈 SEED HD 重製版"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.gundam-seed.net/",
+    "begin": "2011-12-23T16:00:00.000Z",
+    "end": "2012-11-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrk21ldh",
+        "begin": "2017-03-02T09:20:16.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "d/dm1mifa4wc4jssg",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "27832"
+      },
+      {
+        "site": "bilibili",
+        "id": "497",
+        "begin": "2011-12-31T16:00:00.000Z",
+        "broadcast": "R/2012-11-27T06:12:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "53619",
+        "begin": "2021-12-24T05:00:00.000Z",
+        "broadcast": "R/2021-12-24T05:00:00.000Z/P7D"
+      },
+      {
+        "site": "livechart",
+        "id": "10613"
+      },
+      {
+        "site": "livechart",
+        "id": "10614"
+      },
+      {
+        "site": "livechart",
+        "id": "37"
+      },
+      {
+        "site": "livechart",
+        "id": "3933"
+      },
+      {
+        "site": "livechart",
+        "id": "5215"
+      },
+      {
+        "site": "livechart",
+        "id": "5685"
+      },
+      {
+        "site": "livechart",
+        "id": "5954"
+      },
+      {
+        "site": "livechart",
+        "id": "6163"
+      },
+      {
+        "site": "livechart",
+        "id": "6499"
+      },
+      {
+        "site": "livechart",
+        "id": "6713"
+      },
+      {
+        "site": "livechart",
+        "id": "7403"
+      }
     ],
-    "zh-Hant": [
-      "電影 K-ON！輕音部"
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2011,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 48,
+    "picture": "https://u.livechart.me/anime/10615/poster_image/3a5e936012e3253ca2a55f6cc486ba33.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10615/poster_image/3a5e936012e3253ca2a55f6cc486ba33.png/small.jpg",
+    "synonyms": [
+      "機動戦士ガンダムSEED HDリマスター"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "http://www.tbs.co.jp/anime/k-on/",
-  "begin": "2011-12-03T16:00:00.000Z",
-  "end": "2011-12-03T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "12426"
+  {
+    "title": "劇場版イナズマイレブンGO 究極の絆 グリフォン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "闪电十一人GO 究极之绊 狮鹫兽"
+      ]
     },
-    {
-      "site": "nicovideo",
-      "id": "k-on_movie",
-      "begin": ""
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2011-12-23T16:00:00.000Z",
+    "end": "2011-12-23T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "33663"
+      },
+      {
+        "site": "bilibili",
+        "id": "95192",
+        "begin": "2011-12-22T16:00:00.000Z",
+        "broadcast": "R/2018-05-30T03:27:48.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "8381"
+      },
+      {
+        "site": "anilist",
+        "id": "10507"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven-ares-no-tenbin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven-chou-jigen-dream-match"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven-go"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven-go-chrono-stone"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven-go-galaxy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven-outer-code"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inazuma-eleven-saikyou-gundan-ogre-shuurai"
+      },
+      {
+        "site": "anisearch",
+        "id": "7041"
+      },
+      {
+        "site": "kitsu",
+        "id": "6213"
+      },
+      {
+        "site": "livechart",
+        "id": "1112"
+      },
+      {
+        "site": "livechart",
+        "id": "1532"
+      },
+      {
+        "site": "livechart",
+        "id": "2264"
+      },
+      {
+        "site": "livechart",
+        "id": "2392"
+      },
+      {
+        "site": "livechart",
+        "id": "3483"
+      },
+      {
+        "site": "livechart",
+        "id": "4070"
+      },
+      {
+        "site": "livechart",
+        "id": "5271"
+      },
+      {
+        "site": "livechart",
+        "id": "5663"
+      },
+      {
+        "site": "livechart",
+        "id": "5852"
+      },
+      {
+        "site": "livechart",
+        "id": "5897"
+      },
+      {
+        "site": "livechart",
+        "id": "593"
+      },
+      {
+        "site": "livechart",
+        "id": "820"
+      },
+      {
+        "site": "livechart",
+        "id": "8715"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10507"
+      },
+      {
+        "site": "notify",
+        "id": "68nVpKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2011,
+      "month": "12"
     },
-    {
-      "site": "bilibili",
-      "id": "28220988",
-      "begin": "2011-12-02T16:00:00.000Z",
-      "broadcast": "R/2019-05-13T10:00:00.000Z/P7D"
-    },
-    {
-      "site": "gamer",
-      "id": "40552",
-      "begin": "2022-03-04T09:00:00.000Z",
-      "broadcast": "R/2022-03-04T09:00:00.000Z/P7D"
-    },
-    {
-      "site": "anidb",
-      "id": "7307"
-    },
-    {
-      "site": "anilist",
-      "id": "7791"
-    },
-    {
-      "site": "anime-planet",
-      "id": "k-on"
-    },
-    {
-      "site": "anime-planet",
-      "id": "k-on-2"
-    },
-    {
-      "site": "anime-planet",
-      "id": "k-on-live-house"
-    },
-    {
-      "site": "anime-planet",
-      "id": "k-on-plan"
-    },
-    {
-      "site": "anime-planet",
-      "id": "k-on-ura-on"
-    },
-    {
-      "site": "anime-planet",
-      "id": "k-on-ura-on-2"
-    },
-    {
-      "site": "anisearch",
-      "id": "5955"
-    },
-    {
-      "site": "kitsu",
-      "id": "5124"
-    },
-    {
-      "site": "livechart",
-      "id": "3301"
-    },
-    {
-      "site": "livechart",
-      "id": "3302"
-    },
-    {
-      "site": "livechart",
-      "id": "3303"
-    },
-    {
-      "site": "livechart",
-      "id": "3304"
-    },
-    {
-      "site": "livechart",
-      "id": "3305"
-    },
-    {
-      "site": "livechart",
-      "id": "3306"
-    },
-    {
-      "site": "myanimelist",
-      "id": "7791"
-    },
-    {
-      "site": "notify",
-      "id": "4n1zpKiiR"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 2011,
-    "month": "12"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/44972.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/44972t.jpg",
+    "synonyms": [
+      "Gekijouban Inazuma Eleven GO: Kyuukyoku no Kizuna Gryphon",
+      "Gekijōban Inazuma Eleven GO: Kyūkyoku no Kizuna Gryphon",
+      "Inazuma Eleven GO the Movie: The Ultimate Bonds Gryphon",
+      "Inazuma Eleven GO, le Film: Gryphon, les Liens Ultimes",
+      "Inazuma Eleven GO: Kyuukyoku no Kizuna Gryphon",
+      "Inazuma Eleven GO: The Ultimate Bond Griffon",
+      "Inazuma Eleven Go: Kyuukyoku no Kizuna Griffon",
+      "Inazuma Eleven Movie: The Ultimate Bound, Griffon",
+      "Inuzuma Eleven Go Movie",
+      "げきじょうばんいなずまいれぶんごーきゅうきょくのきずなぐりふぉん",
+      "劇場版イナズマイレブンGO 究極の絆 グリフォン"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/5/76233.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/5/76233t.jpg",
-  "synonyms": [
-    "Eiga K-On!",
-    "Film K-On!",
-    "K on Movie",
-    "K-ON! - The Movie",
-    "K-ON! Movie",
-    "K-ON! The Movie",
-    "K-ON!: The Movie",
-    "K-On Movie",
-    "K-On! Le Film",
-    "K-On! Never Forget Those Days!!",
-    "K-On! The Movie",
-    "Keion Movie",
-    "קיי-און! הסרט",
-    "映画 けいおん",
-    "映画 けいおん!",
-    "映画 けいおん！",
-    "映画けいおん！",
-    "轻音少女 剧场版",
-    "더 무비 케이온"
-  ]
-}
+  {
+    "title": "武装中学生 バスケットアーミー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "武装中学生"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://basketarmy.jp/",
+    "begin": "2011-12-22T16:00:00.000Z",
+    "end": "2012-12-20T16:05:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "ncmzMZnicb60QjvY",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "29315"
+      },
+      {
+        "site": "letv",
+        "id": "72940",
+        "begin": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2011,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 5,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/48839.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/48839t.jpg",
+    "synonyms": [
+      "Basket Army",
+      "Busō Chūgakusei: Basket Army",
+      "武装中学生 バスケットアーミー"
+    ]
+  },
+  {
+    "title": "メジャー ワールドシリーズ編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "棒球大联盟OVA World Series篇"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2011-12-14T16:00:00.000Z",
+    "end": "2012-01-18T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "3gYCgOhOvvxf3UU",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "30141"
+      },
+      {
+        "site": "anidb",
+        "id": "7236"
+      },
+      {
+        "site": "anidb",
+        "id": "8161"
+      },
+      {
+        "site": "anilist",
+        "id": "7655"
+      },
+      {
+        "site": "anilist",
+        "id": "9890"
+      },
+      {
+        "site": "anime-planet",
+        "id": "major-2nd"
+      },
+      {
+        "site": "anime-planet",
+        "id": "major-message"
+      },
+      {
+        "site": "anime-planet",
+        "id": "major-movie-yuujou-no-winning-shot"
+      },
+      {
+        "site": "anime-planet",
+        "id": "major-season-1"
+      },
+      {
+        "site": "anime-planet",
+        "id": "major-season-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "major-season-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "major-season-4"
+      },
+      {
+        "site": "anime-planet",
+        "id": "major-season-5"
+      },
+      {
+        "site": "anime-planet",
+        "id": "major-season-6"
+      },
+      {
+        "site": "anisearch",
+        "id": "5844"
+      },
+      {
+        "site": "anisearch",
+        "id": "6693"
+      },
+      {
+        "site": "kitsu",
+        "id": "5070"
+      },
+      {
+        "site": "kitsu",
+        "id": "5926"
+      },
+      {
+        "site": "livechart",
+        "id": "2936"
+      },
+      {
+        "site": "livechart",
+        "id": "4647"
+      },
+      {
+        "site": "livechart",
+        "id": "5175"
+      },
+      {
+        "site": "livechart",
+        "id": "5314"
+      },
+      {
+        "site": "livechart",
+        "id": "5315"
+      },
+      {
+        "site": "livechart",
+        "id": "5353"
+      },
+      {
+        "site": "livechart",
+        "id": "5354"
+      },
+      {
+        "site": "livechart",
+        "id": "5361"
+      },
+      {
+        "site": "livechart",
+        "id": "5486"
+      },
+      {
+        "site": "livechart",
+        "id": "9628"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7655"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9890"
+      },
+      {
+        "site": "notify",
+        "id": "4euGtFimR"
+      },
+      {
+        "site": "notify",
+        "id": "uNDzpFmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2011,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/75220.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/75220t.jpg",
+    "synonyms": [
+      "Major ワールドシリーズ",
+      "Мэйджор: Мировая Серия",
+      "メジャー ワールドシリーズ編",
+      "メジャーWorld Series",
+      "棒球大联盟OVA World Series篇"
+    ]
+  },
+  {
+    "title": "京騒戯画",
+    "titleTranslate": {
+      "zh-Hans": [
+        "京骚戏画"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.kyousogiga.com/",
+    "begin": "2011-12-10T16:00:00.000Z",
+    "end": "2011-12-10T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "UYVicicWXLO3ncWsI",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "14749"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4oit",
+        "begin": "2015-09-23T08:10:24.000Z"
+      },
+      {
+        "site": "kitsu",
+        "id": "7870"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2011,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://media.kitsu.io/anime/poster_images/40590/small.jpg",
+    "thumbnail": "https://media.kitsu.io/anime/poster_images/40590/tiny.jpg",
+    "synonyms": [
+      "Kyousogiga",
+      "Kyousougiga",
+      "京騒戯画"
+    ]
+  },
+  {
+    "title": "映画けいおん！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "轻音少女 剧场版"
+      ],
+      "zh-Hant": [
+        "電影 K-ON！輕音部"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/anime/k-on/",
+    "begin": "2011-12-03T16:00:00.000Z",
+    "end": "2011-12-03T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "12426"
+      },
+      {
+        "site": "nicovideo",
+        "id": "k-on_movie",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28220988",
+        "begin": "2011-12-02T16:00:00.000Z",
+        "broadcast": "R/2019-05-13T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "40552",
+        "begin": "2022-03-04T09:00:00.000Z",
+        "broadcast": "R/2022-03-04T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "7307"
+      },
+      {
+        "site": "anilist",
+        "id": "7791"
+      },
+      {
+        "site": "anime-planet",
+        "id": "k-on"
+      },
+      {
+        "site": "anime-planet",
+        "id": "k-on-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "k-on-live-house"
+      },
+      {
+        "site": "anime-planet",
+        "id": "k-on-plan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "k-on-ura-on"
+      },
+      {
+        "site": "anime-planet",
+        "id": "k-on-ura-on-2"
+      },
+      {
+        "site": "anisearch",
+        "id": "5955"
+      },
+      {
+        "site": "kitsu",
+        "id": "5124"
+      },
+      {
+        "site": "livechart",
+        "id": "3301"
+      },
+      {
+        "site": "livechart",
+        "id": "3302"
+      },
+      {
+        "site": "livechart",
+        "id": "3303"
+      },
+      {
+        "site": "livechart",
+        "id": "3304"
+      },
+      {
+        "site": "livechart",
+        "id": "3305"
+      },
+      {
+        "site": "livechart",
+        "id": "3306"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7791"
+      },
+      {
+        "site": "notify",
+        "id": "4n1zpKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2011,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/76233.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/76233t.jpg",
+    "synonyms": [
+      "Eiga K-On!",
+      "Film K-On!",
+      "K on Movie",
+      "K-ON! - The Movie",
+      "K-ON! Movie",
+      "K-ON! The Movie",
+      "K-ON!: The Movie",
+      "K-On Movie",
+      "K-On! Le Film",
+      "K-On! Never Forget Those Days!!",
+      "K-On! The Movie",
+      "Keion Movie",
+      "קיי-און! הסרט",
+      "映画 けいおん",
+      "映画 けいおん!",
+      "映画 けいおん！",
+      "映画けいおん！",
+      "轻音少女 剧场版",
+      "더 무비 케이온"
+    ]
+  }
+]

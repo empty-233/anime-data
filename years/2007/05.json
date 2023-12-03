@@ -1,67 +1,364 @@
-{
-  "title": "アニ＊クリ15",
-  "titleTranslate": {
-    "zh-Hans": [
-      "NHK15个动画短片"
+[
+  {
+    "title": "電脳コイル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电脑线圈"
+      ],
+      "zh-Hant": [
+        "電腦線圈"
+      ],
+      "en": [
+        "Den-noh Coil"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www3.nhk.or.jp/anime/coil/",
+    "begin": "2007-05-12T09:30:00.000Z",
+    "end": "2007-12-01T09:55:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "794"
+      },
+      {
+        "site": "bilibili",
+        "id": "1294",
+        "begin": "2007-05-11T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81299264",
+        "begin": "2022-01-25T16:00:00.000Z",
+        "broadcast": "R/2022-01-25T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "17954",
+        "begin": "2022-07-15T03:00:00.000Z",
+        "broadcast": "R/2022-07-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "anime-planet",
+        "id": "den-noh-coil"
+      },
+      {
+        "site": "anisearch",
+        "id": "3659"
+      },
+      {
+        "site": "kitsu",
+        "id": "1959"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2164"
+      },
+      {
+        "site": "notify",
+        "id": "aqqL5FmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2007,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/38635.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/38635t.jpg",
+    "synonyms": [
+      "Coil - A Circle of Children Recaps",
+      "Cyber Coil Recaps",
+      "Den-noh Coil Recaps",
+      "Denno Coil Recaps",
+      "Dennou Coil Comprehensive Recap",
+      "Dennou Coil Episode 13.5 and Episode 22.5",
+      "Dennou Coil Episode 22.5",
+      "Dennou Coil Recap Specials",
+      "Dennou Coil Soufukushuu",
+      "Dennou Coil Soushuuhen",
+      "Dennō Coil Sōshūhen",
+      "でんのうこいる",
+      "電脳コイル",
+      "電脳コイル総復習",
+      "電脳コイル総集編"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "http://www.nhk.or.jp/ani-kuri",
-  "begin": "2007-05-07T16:00:00.000Z",
-  "end": "2007-12-10T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "pptv",
-      "id": "pUwopg505CKFA2s",
-      "begin": ""
+  {
+    "title": "創星のアクエリオン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "创星的大天使"
+      ]
     },
-    {
-      "site": "bangumi",
-      "id": "4193"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 2007,
-    "month": "05"
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.aquarion.info/",
+    "begin": "2007-05-23T16:00:00.000Z",
+    "end": "2007-11-22T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "g/g327ynn2eboikof",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "22601"
+      },
+      {
+        "site": "nicovideo",
+        "id": "aquarion-betrayal",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "2830"
+      },
+      {
+        "site": "anidb",
+        "id": "5390"
+      },
+      {
+        "site": "anilist",
+        "id": "478"
+      },
+      {
+        "site": "anime-planet",
+        "id": "aquarion"
+      },
+      {
+        "site": "anime-planet",
+        "id": "aquarion-evol"
+      },
+      {
+        "site": "anime-planet",
+        "id": "aquarion-logos"
+      },
+      {
+        "site": "anime-planet",
+        "id": "aquarion-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "aquarion-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "1634"
+      },
+      {
+        "site": "kitsu",
+        "id": "4393"
+      },
+      {
+        "site": "kitsu",
+        "id": "440"
+      },
+      {
+        "site": "livechart",
+        "id": "1142"
+      },
+      {
+        "site": "livechart",
+        "id": "11880"
+      },
+      {
+        "site": "livechart",
+        "id": "1459"
+      },
+      {
+        "site": "livechart",
+        "id": "1462"
+      },
+      {
+        "site": "livechart",
+        "id": "4051"
+      },
+      {
+        "site": "livechart",
+        "id": "5092"
+      },
+      {
+        "site": "livechart",
+        "id": "8013"
+      },
+      {
+        "site": "myanimelist",
+        "id": "478"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6032"
+      },
+      {
+        "site": "notify",
+        "id": "Q3DT5FmmR"
+      },
+      {
+        "site": "notify",
+        "id": "i4tq5KmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2007,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/72745.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/72745t.jpg",
+    "synonyms": [
+      "Aquarion OVA",
+      "Genesis of Aquarion (2007)",
+      "Genesis of Aquarion OVA",
+      "SnA OVA",
+      "Sousei no Aquarion (2007)",
+      "Sousei no Aquarion: Taiyou no Tsubasa",
+      "Sousei no Aquarion: Uragiri no Tsubasa",
+      "Sōsei no Aquarion: Uragiri no Tsubasa",
+      "创星的大天使",
+      "創星のアクエリオン",
+      "創星のアクエリオン -裏切りの翼-",
+      "창성의 아쿠에리온 OVA",
+      "ＯＶＡ『創星のアクエリオン』"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 15,
-  "picture": "https://cdn.myanimelist.net/images/anime/13/62923.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/13/62923t.jpg",
-  "synonyms": [
-    "\"yurururu\" ~Nichijou Hen~",
-    "15名动画人",
-    "A Gathering of Cats",
-    "Ani Kuri",
-    "Ani Kuri 15",
-    "Ani*Cre15",
-    "Ani-Kuri 15",
-    "Anikuri 15",
-    "Attack of Higashimachi 2nd Burough",
-    "Attack of Higashimachi Ni Chome",
-    "Blaze Man",
-    "From the Other Side of the Tears",
-    "Good Morning",
-    "Gyrosopter",
-    "Hyotoko",
-    "Invasion from Space - Hiroshi's Case",
-    "Namida no Mukou",
-    "Neko no Shuukai",
-    "Ohayo",
-    "Ohayou",
-    "Okkakekko",
-    "Onmitsu Hime",
-    "Project Mermaid",
-    "Project Omega",
-    "Sancha Blues",
-    "Sport Captain Episode No.18: Assassin Descended from the Mountain Hunt!!",
-    "The Aromatic Tea Blues",
-    "Uchujin Raikou Hiroshi no Baai",
-    "Wandaba Kiss",
-    "Ани*Кури15",
-    "アニ*クリ15",
-    "アニ＊クリ15"
-  ]
-}
+  {
+    "title": "ICE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "ICE"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-05-25T16:00:00.000Z",
+    "end": "2007-09-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "AUs1sxuB8SibSEHg",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "4008"
+      },
+      {
+        "site": "anilist",
+        "id": "2169"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ice"
+      },
+      {
+        "site": "kitsu",
+        "id": "1964"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2169"
+      },
+      {
+        "site": "notify",
+        "id": "Z3eL5KmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2008,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/25055.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/25055t.jpg",
+    "synonyms": [
+      "ICE",
+      "ICE (Movie)",
+      "ICE - The last Generation Movie",
+      "ICE Movie",
+      "ICE 劇場版",
+      "ICE: The Last Generation Movie",
+      "ICE: The last Generation Movie",
+      "Ice",
+      "Ice Gekijouban",
+      "Project Ice Movie"
+    ]
+  },
+  {
+    "title": "アニ＊クリ15",
+    "titleTranslate": {
+      "zh-Hans": [
+        "NHK15个动画短片"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.nhk.or.jp/ani-kuri",
+    "begin": "2007-05-07T16:00:00.000Z",
+    "end": "2007-12-10T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "pUwopg505CKFA2s",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "4193"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2007,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 15,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/62923.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/62923t.jpg",
+    "synonyms": [
+      "\"yurururu\" ~Nichijou Hen~",
+      "15名动画人",
+      "A Gathering of Cats",
+      "Ani Kuri",
+      "Ani Kuri 15",
+      "Ani*Cre15",
+      "Ani-Kuri 15",
+      "Anikuri 15",
+      "Attack of Higashimachi 2nd Burough",
+      "Attack of Higashimachi Ni Chome",
+      "Blaze Man",
+      "From the Other Side of the Tears",
+      "Good Morning",
+      "Gyrosopter",
+      "Hyotoko",
+      "Invasion from Space - Hiroshi's Case",
+      "Namida no Mukou",
+      "Neko no Shuukai",
+      "Ohayo",
+      "Ohayou",
+      "Okkakekko",
+      "Onmitsu Hime",
+      "Project Mermaid",
+      "Project Omega",
+      "Sancha Blues",
+      "Sport Captain Episode No.18: Assassin Descended from the Mountain Hunt!!",
+      "The Aromatic Tea Blues",
+      "Uchujin Raikou Hiroshi no Baai",
+      "Wandaba Kiss",
+      "Ани*Кури15",
+      "アニ*クリ15",
+      "アニ＊クリ15"
+    ]
+  }
+]

@@ -1,205 +1,252 @@
-{
-  "title": "バブルガムクライシス",
-  "titleTranslate": {
-    "zh-Hans": [
-      "泡泡糖危机"
+[
+  {
+    "title": "機甲戦記ドラグナー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机甲战记威龙"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.dragonar.net/index.html",
+    "begin": "1987-02-07T16:00:00.000Z",
+    "end": "1988-01-30T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "B0kzsRlic7y2QDnY",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "20266"
+      },
+      {
+        "site": "bilibili",
+        "id": "2414",
+        "begin": "1987-02-06T16:00:00.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1987,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 48,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/11236.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/11236t.jpg",
+    "synonyms": [
+      "Dragonar",
+      "Dragonar l`Armatura Metallica",
+      "Kikō Senki Dragonar",
+      "Metal Armor Dragonar",
+      "機甲戦記ドラグナー"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "http://www.anime-int.com/works/bubblegum/crisis/",
-  "begin": "1987-02-25T16:00:00.000Z",
-  "end": "1991-01-30T16:30:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "15176"
+  {
+    "title": "バブルガムクライシス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "泡泡糖危机"
+      ]
     },
-    {
-      "site": "anidb",
-      "id": "2891"
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.anime-int.com/works/bubblegum/crisis/",
+    "begin": "1987-02-25T16:00:00.000Z",
+    "end": "1991-01-30T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "15176"
+      },
+      {
+        "site": "anidb",
+        "id": "2891"
+      },
+      {
+        "site": "anidb",
+        "id": "345"
+      },
+      {
+        "site": "anidb",
+        "id": "441"
+      },
+      {
+        "site": "anidb",
+        "id": "535"
+      },
+      {
+        "site": "anidb",
+        "id": "779"
+      },
+      {
+        "site": "anilist",
+        "id": "1346"
+      },
+      {
+        "site": "anilist",
+        "id": "1348"
+      },
+      {
+        "site": "anilist",
+        "id": "2466"
+      },
+      {
+        "site": "anilist",
+        "id": "5036"
+      },
+      {
+        "site": "anilist",
+        "id": "5043"
+      },
+      {
+        "site": "anilist",
+        "id": "568"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ad-police"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ad-police-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bubblegum-crash"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bubblegum-crisis-hurricane-live-2032"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bubblegum-crisis-hurricane-live-2033"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bubblegum-crisis-tokyo-2040"
+      },
+      {
+        "site": "anime-planet",
+        "id": "parasite-dolls"
+      },
+      {
+        "site": "anisearch",
+        "id": "1157"
+      },
+      {
+        "site": "anisearch",
+        "id": "1413"
+      },
+      {
+        "site": "anisearch",
+        "id": "1518"
+      },
+      {
+        "site": "anisearch",
+        "id": "2246"
+      },
+      {
+        "site": "anisearch",
+        "id": "2990"
+      },
+      {
+        "site": "anisearch",
+        "id": "57"
+      },
+      {
+        "site": "anisearch",
+        "id": "8636"
+      },
+      {
+        "site": "kitsu",
+        "id": "1201"
+      },
+      {
+        "site": "kitsu",
+        "id": "1203"
+      },
+      {
+        "site": "kitsu",
+        "id": "3896"
+      },
+      {
+        "site": "kitsu",
+        "id": "3902"
+      },
+      {
+        "site": "kitsu",
+        "id": "525"
+      },
+      {
+        "site": "livechart",
+        "id": "8384"
+      },
+      {
+        "site": "livechart",
+        "id": "8400"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1346"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1348"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5036"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5043"
+      },
+      {
+        "site": "myanimelist",
+        "id": "568"
+      },
+      {
+        "site": "notify",
+        "id": "0Osr5Fimg"
+      },
+      {
+        "site": "notify",
+        "id": "Fo_x5Kmmg"
+      },
+      {
+        "site": "notify",
+        "id": "LVP9cKiig"
+      },
+      {
+        "site": "notify",
+        "id": "OByo5FmiR"
+      },
+      {
+        "site": "notify",
+        "id": "uU_b5Fmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1987,
+      "month": "02"
     },
-    {
-      "site": "anidb",
-      "id": "345"
-    },
-    {
-      "site": "anidb",
-      "id": "441"
-    },
-    {
-      "site": "anidb",
-      "id": "535"
-    },
-    {
-      "site": "anidb",
-      "id": "779"
-    },
-    {
-      "site": "anilist",
-      "id": "1346"
-    },
-    {
-      "site": "anilist",
-      "id": "1348"
-    },
-    {
-      "site": "anilist",
-      "id": "2466"
-    },
-    {
-      "site": "anilist",
-      "id": "5036"
-    },
-    {
-      "site": "anilist",
-      "id": "5043"
-    },
-    {
-      "site": "anilist",
-      "id": "568"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ad-police"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ad-police-files"
-    },
-    {
-      "site": "anime-planet",
-      "id": "bubblegum-crash"
-    },
-    {
-      "site": "anime-planet",
-      "id": "bubblegum-crisis-hurricane-live-2032"
-    },
-    {
-      "site": "anime-planet",
-      "id": "bubblegum-crisis-hurricane-live-2033"
-    },
-    {
-      "site": "anime-planet",
-      "id": "bubblegum-crisis-tokyo-2040"
-    },
-    {
-      "site": "anime-planet",
-      "id": "parasite-dolls"
-    },
-    {
-      "site": "anisearch",
-      "id": "1157"
-    },
-    {
-      "site": "anisearch",
-      "id": "1413"
-    },
-    {
-      "site": "anisearch",
-      "id": "1518"
-    },
-    {
-      "site": "anisearch",
-      "id": "2246"
-    },
-    {
-      "site": "anisearch",
-      "id": "2990"
-    },
-    {
-      "site": "anisearch",
-      "id": "57"
-    },
-    {
-      "site": "anisearch",
-      "id": "8636"
-    },
-    {
-      "site": "kitsu",
-      "id": "1201"
-    },
-    {
-      "site": "kitsu",
-      "id": "1203"
-    },
-    {
-      "site": "kitsu",
-      "id": "3896"
-    },
-    {
-      "site": "kitsu",
-      "id": "3902"
-    },
-    {
-      "site": "kitsu",
-      "id": "525"
-    },
-    {
-      "site": "livechart",
-      "id": "8384"
-    },
-    {
-      "site": "livechart",
-      "id": "8400"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1346"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1348"
-    },
-    {
-      "site": "myanimelist",
-      "id": "5036"
-    },
-    {
-      "site": "myanimelist",
-      "id": "5043"
-    },
-    {
-      "site": "myanimelist",
-      "id": "568"
-    },
-    {
-      "site": "notify",
-      "id": "0Osr5Fimg"
-    },
-    {
-      "site": "notify",
-      "id": "Fo_x5Kmmg"
-    },
-    {
-      "site": "notify",
-      "id": "LVP9cKiig"
-    },
-    {
-      "site": "notify",
-      "id": "OByo5FmiR"
-    },
-    {
-      "site": "notify",
-      "id": "uU_b5Fmig"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 1987,
-    "month": "02"
-  },
-  "status": "FINISHED",
-  "episodes": 8,
-  "picture": "https://cdn.myanimelist.net/images/anime/5/27361.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/5/27361t.jpg",
-  "synonyms": [
-    "BGC",
-    "Bubblegum Crisis 2032",
-    "Bubblegum Crisis 2033",
-    "Bubblegum Crisis: Die Cyberpunk Saga",
-    "Кризис каждый день",
-    "バブルガムクライシス"
-  ]
-}
+    "status": "FINISHED",
+    "episodes": 8,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/27361.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/27361t.jpg",
+    "synonyms": [
+      "BGC",
+      "Bubblegum Crisis 2032",
+      "Bubblegum Crisis 2033",
+      "Bubblegum Crisis: Die Cyberpunk Saga",
+      "Кризис каждый день",
+      "バブルガムクライシス"
+    ]
+  }
+]

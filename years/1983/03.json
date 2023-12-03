@@ -1,44 +1,395 @@
-{
-  "title": "光速電神アルベガス",
-  "titleTranslate": {
-    "zh-Hans": [
-      "光速电神 阿尔贝加斯"
+[
+  {
+    "title": "Dr.スランプ アラレちゃん ほよよ!世界一周大レース",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿拉蕾 哦呦呦！环球大比赛"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1983-03-13T16:00:00.000Z",
+    "end": "1983-03-13T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "82719"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb54vl",
+        "begin": "2015-08-04T01:02:58.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "1925"
+      },
+      {
+        "site": "anilist",
+        "id": "2222"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan-hoyoyo-nanaba-shiro-no-hihou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan-hoyoyo-tasuketa-same-ni-tsurerarete"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan-hoyoyo-yume-no-to-mecha-police"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan-n-cha-penguin-mura-wa-hare-nochi-hare"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan-n-cha-wakuwaku-hot-no-natsuyasumi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan-penguin-mura-eiyuu-densetsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-no-bikkuriman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-dr-mashirito-and-abale-chan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-movie-7-arale-chan-n-cha-pengin-mura-yori-ai-wo-komete"
+      },
+      {
+        "site": "anisearch",
+        "id": "2134"
+      },
+      {
+        "site": "kitsu",
+        "id": "2013"
+      },
+      {
+        "site": "livechart",
+        "id": "10983"
+      },
+      {
+        "site": "livechart",
+        "id": "10989"
+      },
+      {
+        "site": "livechart",
+        "id": "10990"
+      },
+      {
+        "site": "livechart",
+        "id": "10992"
+      },
+      {
+        "site": "livechart",
+        "id": "10993"
+      },
+      {
+        "site": "livechart",
+        "id": "10994"
+      },
+      {
+        "site": "livechart",
+        "id": "10995"
+      },
+      {
+        "site": "livechart",
+        "id": "10996"
+      },
+      {
+        "site": "livechart",
+        "id": "10997"
+      },
+      {
+        "site": "livechart",
+        "id": "6206"
+      },
+      {
+        "site": "livechart",
+        "id": "7468"
+      },
+      {
+        "site": "livechart",
+        "id": "8828"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2222"
+      },
+      {
+        "site": "notify",
+        "id": "_nnPcKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1983,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/23173.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/23173t.jpg",
+    "synonyms": [
+      "Dr. Slump Movie 3",
+      "Dr. Slump Movie 3: Arale-chan Hoyoyo Sekai Isshuu Dai Race",
+      "Dr. Slump Movie 3: The Great Race Around the World",
+      "Dr. Slump and Arale-chan: Hoyoyo",
+      "Dr. Slump and Arale-chan: Hoyoyo, Great Round-the-World Race",
+      "Dr. Slump and Arale-chan: The Great Round-the-World Race",
+      "Dr. Slump e Arale: La grande corsa intorno al mondo",
+      "Dr. Slump: Arale-chan Hoyoyo Sekai Isshuu Dai Race",
+      "Dr. Slump: Arale-chan Hoyoyo! Sekai Isshuu Dai Race",
+      "Dr. Slump: Arale-chan Hoyoyo! Sekai Isshū Dai Race",
+      "Dr. Slump: Arale-chan Movie 3 - Hoyoyo! Sekai Isshuu Dai Race",
+      "Dr. Slump: The Great Race Around the World",
+      "Dr.スランプ アラレちゃん ほよよ! 世界一周大レース",
+      "Dr.スランプ アラレちゃん ほよよ!世界一周大レース",
+      "Dr.スランプ アラレちゃん ほよよ世界一周大レース",
+      "阿拉蕾 哦呦呦！环球大比赛"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1983-03-30T10:00:00.000Z",
-  "end": "1984-02-08T10:30:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "37215"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 1983,
-    "month": "03"
+  {
+    "title": "ドラえもん のび太の海底鬼岩城",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：大雄的海底鬼岩城"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1983-03-12T16:00:00.000Z",
+    "end": "1983-03-12T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "80813",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "438"
+      },
+      {
+        "site": "qq",
+        "id": "z/z8alyhrvkd3jp2y",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2552",
+        "begin": "1983-03-11T16:00:00.000Z",
+        "broadcast": "R/2015-02-14T08:57:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1078"
+      },
+      {
+        "site": "anilist",
+        "id": "2471"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-1979"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back-1998"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-doraemons-strange-sweets-strange"
+      },
+      {
+        "site": "anisearch",
+        "id": "540"
+      },
+      {
+        "site": "kitsu",
+        "id": "10430"
+      },
+      {
+        "site": "kitsu",
+        "id": "460"
+      },
+      {
+        "site": "kitsu",
+        "id": "9491"
+      },
+      {
+        "site": "livechart",
+        "id": "12164"
+      },
+      {
+        "site": "livechart",
+        "id": "5614"
+      },
+      {
+        "site": "livechart",
+        "id": "6575"
+      },
+      {
+        "site": "livechart",
+        "id": "6880"
+      },
+      {
+        "site": "livechart",
+        "id": "7693"
+      },
+      {
+        "site": "livechart",
+        "id": "8740"
+      },
+      {
+        "site": "livechart",
+        "id": "8868"
+      },
+      {
+        "site": "livechart",
+        "id": "8871"
+      },
+      {
+        "site": "livechart",
+        "id": "8877"
+      },
+      {
+        "site": "livechart",
+        "id": "8878"
+      },
+      {
+        "site": "livechart",
+        "id": "8884"
+      },
+      {
+        "site": "livechart",
+        "id": "8897"
+      },
+      {
+        "site": "livechart",
+        "id": "8901"
+      },
+      {
+        "site": "livechart",
+        "id": "8902"
+      },
+      {
+        "site": "livechart",
+        "id": "8998"
+      },
+      {
+        "site": "myanimelist",
+        "id": "23647"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2471"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29613"
+      },
+      {
+        "site": "notify",
+        "id": "BRto5KimR"
+      },
+      {
+        "site": "notify",
+        "id": "CSsfpKmig"
+      },
+      {
+        "site": "notify",
+        "id": "uTbUtFmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1983,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/72409.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/72409t.jpg",
+    "synonyms": [
+      "Doraemon - Atlântida",
+      "Doraemon Atlantis: El castillo del mal",
+      "Doraemon Movie 4",
+      "Doraemon Movie 4: Nobita no Kaitei Kiganjou",
+      "Doraemon Movie 4: Nobita's Monstrous Underwater Castle",
+      "Doraemon Película 4: Doraemon Atlantis: El Castillo del Mal",
+      "Doraemon the Movie: Nobita and the Castle of the Undersea Devil",
+      "Doraemon: Nobita and the Castle of the Undersea Devil",
+      "Doraemon: Nobita no Kaitei Kiganjou",
+      "Doraemon: Nobita no Kaitei Kiganjō",
+      "Doraemon: Nobita's Monstrous Underwater Castle",
+      "Doraemon: Nobita's Undersea Fortress",
+      "Doraemon: Nobita`s Monstrous Underwater Castle",
+      "Nobita's Undersea Fortress",
+      "ドラえもん のび太の海底鬼岩城",
+      "映画 ドラえもん のび太の海底鬼岩城"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 45,
-  "picture": "https://cdn.myanimelist.net/images/anime/8/46563.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/8/46563t.jpg",
-  "synonyms": [
-    "Albegas",
-    "Arbegas",
-    "Arbegas el rayo custodio",
-    "Arbegas: El Rayo Custodio",
-    "Dio Elettrico Arbegas",
-    "Kōsoku Denjin Albegus",
-    "Light-Speed Electro-God Albegus",
-    "Lightspeed ElectroGod Albegas",
-    "Lightspeed Electroid Albegas",
-    "Voltron II",
-    "Voltron of the Middle Universe",
-    "الشجعان الثلاثة",
-    "こうそくでんじんあるべがす",
-    "光速電神アルベガス"
-  ]
-}
+  {
+    "title": "光速電神アルベガス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "光速电神 阿尔贝加斯"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1983-03-30T10:00:00.000Z",
+    "end": "1984-02-08T10:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37215"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1983,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 45,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/46563.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/46563t.jpg",
+    "synonyms": [
+      "Albegas",
+      "Arbegas",
+      "Arbegas el rayo custodio",
+      "Arbegas: El Rayo Custodio",
+      "Dio Elettrico Arbegas",
+      "Kōsoku Denjin Albegus",
+      "Light-Speed Electro-God Albegus",
+      "Lightspeed ElectroGod Albegas",
+      "Lightspeed Electroid Albegas",
+      "Voltron II",
+      "Voltron of the Middle Universe",
+      "الشجعان الثلاثة",
+      "こうそくでんじんあるべがす",
+      "光速電神アルベガス"
+    ]
+  }
+]

@@ -1,136 +1,470 @@
-{
-  "title": "The King of Fighters: Another Day",
-  "titleTranslate": {
-    "zh-Hans": [
-      "拳皇的另一天"
+[
+  {
+    "title": "リーンの翼",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圣光之翼"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.rean-wings.net/",
+    "begin": "2005-12-15T21:00:00.000Z",
+    "end": "2006-09-07T21:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3417"
+      },
+      {
+        "site": "anidb",
+        "id": "899"
+      },
+      {
+        "site": "anilist",
+        "id": "929"
+      },
+      {
+        "site": "anime-planet",
+        "id": "aura-battle-dunbine-the-tale-of-neo-byston-well"
+      },
+      {
+        "site": "anime-planet",
+        "id": "aura-battler-dunbine"
+      },
+      {
+        "site": "anime-planet",
+        "id": "garzeys-wing"
+      },
+      {
+        "site": "anisearch",
+        "id": "623"
+      },
+      {
+        "site": "kitsu",
+        "id": "827"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1657"
+      },
+      {
+        "site": "myanimelist",
+        "id": "929"
+      },
+      {
+        "site": "notify",
+        "id": "hmnJcKmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2005,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/28902.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/28902t.jpg",
+    "synonyms": [
+      "Rean`s Wing",
+      "RnT",
+      "The Wings of Rean",
+      "Wings of Rean",
+      "WoR",
+      "dunbine (2005)",
+      "rean",
+      "りーんのつばさ",
+      "リーンの翼",
+      "圣光之翼"
     ]
   },
-  "type": "web",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "2005-12-01T16:00:00.000Z",
-  "end": "2005-12-01T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "12309"
+  {
+    "title": "ディノブレイカー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机械恐龙DICE",
+        "恐龙特攻队",
+        "幻龙记"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "4984",
-      "begin": "2016-07-05T09:47:00.000Z",
-      "broadcast": "R/2016-07-05T09:47:00.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.xebec-inc.co.jp/anime/dinobreaker/index.html",
+    "begin": "2005-12-06T09:30:00.000Z",
+    "end": "2006-09-19T10:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37503"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2006,
+      "month": "12"
     },
-    {
-      "site": "anidb",
-      "id": "1068"
-    },
-    {
-      "site": "anidb",
-      "id": "13005"
-    },
-    {
-      "site": "anidb",
-      "id": "2121"
-    },
-    {
-      "site": "anidb",
-      "id": "220"
-    },
-    {
-      "site": "anidb",
-      "id": "873"
-    },
-    {
-      "site": "anilist",
-      "id": "99934"
-    },
-    {
-      "site": "anime-planet",
-      "id": "the-king-of-fighters-awaken"
-    },
-    {
-      "site": "anime-planet",
-      "id": "the-king-of-fighters-destiny"
-    },
-    {
-      "site": "anisearch",
-      "id": "3446"
-    },
-    {
-      "site": "kitsu",
-      "id": "1619"
-    },
-    {
-      "site": "kitsu",
-      "id": "1620"
-    },
-    {
-      "site": "kitsu",
-      "id": "463"
-    },
-    {
-      "site": "kitsu",
-      "id": "899"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1009"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1799"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1800"
-    },
-    {
-      "site": "myanimelist",
-      "id": "35204"
-    },
-    {
-      "site": "myanimelist",
-      "id": "48582"
-    },
-    {
-      "site": "myanimelist",
-      "id": "504"
-    },
-    {
-      "site": "notify",
-      "id": "5g1fcKmig"
-    },
-    {
-      "site": "notify",
-      "id": "80pTcKimR"
-    },
-    {
-      "site": "notify",
-      "id": "NwTJcFmig"
-    },
-    {
-      "site": "notify",
-      "id": "YV1fcKimg"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 2005,
-    "month": "12"
+    "status": "FINISHED",
+    "episodes": 40,
+    "picture": "https://cdn.myanimelist.net/images/anime/1/2523.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1/2523t.jpg",
+    "synonyms": [
+      "DICE",
+      "DICE - A mentőcsapat",
+      "DICE: DNA Integrated Cybernetic Enterprises",
+      "DINOBREAKER",
+      "DNA Integrated Cybernetic Enterprises",
+      "Dinobreaker",
+      "Организацията \"ДАЙС\"",
+      "دايس",
+      "หุ่นยนต์จักรกลไดโนเสาร์",
+      "でぃのぶれいかー",
+      "ディノブレイカー"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 4,
-  "picture": "https://cdn.myanimelist.net/images/anime/3/12676.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/3/12676t.jpg",
-  "synonyms": [
-    "KOF",
-    "KOF: Another Day",
-    "King of Fighters",
-    "KoF",
-    "The King of Fighters: Another Day",
-    "Чемпион: Еще один день",
-    "پادشاه مبارزان: یک روز دیگر",
-    "ザ・キング・オブ・ファイターズ アナザーデイ"
-  ]
-}
+  {
+    "title": "蒼穹のファフナー RIGHT OF LEFT",
+    "titleTranslate": {
+      "zh-Hans": [
+        "苍穹之法芙娜 RIGHT OF LEFT",
+        "苍穹之法芙娜 特别篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.starchild.co.jp/fafner/",
+    "begin": "2005-12-29T16:00:00.000Z",
+    "end": "2005-12-29T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "yHxY1j6kFFK1M5s",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrha3e7d",
+        "begin": "2016-12-08T03:04:59.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "14106"
+      },
+      {
+        "site": "qq",
+        "id": "x/xkiym8goczymn4c",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3743",
+        "begin": "2016-04-14T08:04:00.000Z",
+        "broadcast": "R/2016-04-14T08:04:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1806"
+      },
+      {
+        "site": "anilist",
+        "id": "75"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fafner"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fafner-arcadian-memory"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fafner-exodus"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fafner-exodus-2nd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fafner-heaven-and-earth"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fafner-the-beyond"
+      },
+      {
+        "site": "anisearch",
+        "id": "2312"
+      },
+      {
+        "site": "kitsu",
+        "id": "55"
+      },
+      {
+        "site": "livechart",
+        "id": "10973"
+      },
+      {
+        "site": "livechart",
+        "id": "1502"
+      },
+      {
+        "site": "livechart",
+        "id": "200"
+      },
+      {
+        "site": "livechart",
+        "id": "2496"
+      },
+      {
+        "site": "livechart",
+        "id": "4239"
+      },
+      {
+        "site": "livechart",
+        "id": "4932"
+      },
+      {
+        "site": "livechart",
+        "id": "5803"
+      },
+      {
+        "site": "livechart",
+        "id": "6659"
+      },
+      {
+        "site": "livechart",
+        "id": "9520"
+      },
+      {
+        "site": "livechart",
+        "id": "9521"
+      },
+      {
+        "site": "livechart",
+        "id": "9522"
+      },
+      {
+        "site": "myanimelist",
+        "id": "75"
+      },
+      {
+        "site": "notify",
+        "id": "ti5tcKmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2005,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/50369.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/50369t.jpg",
+    "synonyms": [
+      "Dead Aggressor: Right of Left",
+      "Fafner 2",
+      "Fafner in the Azure - Right of Left",
+      "Fafner in the Azure 2",
+      "Fafner in the Azure: Right of Left",
+      "Fafner of the Blue Sky: Right of Left",
+      "Fafner: Right of Left",
+      "SnF 2",
+      "Sokyuu no Fafner - Single Program - Right of Left-",
+      "Sokyuu no Fafner 2",
+      "Soukyuu no Fafner 2",
+      "Soukyuu no Fafner II",
+      "Soukyuu no Fafner: RIGHT OF LEFT - single program",
+      "Soukyuu no Fafner: Right of Left",
+      "Soukyuu no Fafner: Right of Left - Single Program",
+      "Sōkyū no Fafner: Dead Aggressor - Right of Left",
+      "Небесный Фафнир (спэшл)",
+      "蒼穹のファフナー Dead Aggressor - Right of Left",
+      "蒼穹のファフナー Dead Aggressor RIGHT OF LEFT",
+      "蒼穹のファフナー RIGHT OF LEFT",
+      "蒼穹のファフナー RIGHT OF LEFT ～single program～",
+      "창궁의 파프너 RIGHT OF LEFT"
+    ]
+  },
+  {
+    "title": "いつだってMyサンタ!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我永远的圣诞老人"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-12-07T16:00:00.000Z",
+    "end": "2005-12-07T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10277"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2005,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/2902.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/2902t.jpg",
+    "synonyms": [
+      "Always My Santa",
+      "Always My Santa!",
+      "Itsu datte My Santa!",
+      "Itsudatte My Santa",
+      "My Santa",
+      "My Santa!",
+      "Watashi no Santa",
+      "ims",
+      "ซานต้าบ๊องต้องเป็นเธอ!",
+      "いつだってMyサンタ!",
+      "いつだってMyサンタ！",
+      "いつだってＭｙサンタ！",
+      "我永远的圣诞老人"
+    ]
+  },
+  {
+    "title": "The King of Fighters: Another Day",
+    "titleTranslate": {
+      "zh-Hans": [
+        "拳皇的另一天"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-12-01T16:00:00.000Z",
+    "end": "2005-12-01T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "12309"
+      },
+      {
+        "site": "bilibili",
+        "id": "4984",
+        "begin": "2016-07-05T09:47:00.000Z",
+        "broadcast": "R/2016-07-05T09:47:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1068"
+      },
+      {
+        "site": "anidb",
+        "id": "13005"
+      },
+      {
+        "site": "anidb",
+        "id": "2121"
+      },
+      {
+        "site": "anidb",
+        "id": "220"
+      },
+      {
+        "site": "anidb",
+        "id": "873"
+      },
+      {
+        "site": "anilist",
+        "id": "99934"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-king-of-fighters-awaken"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-king-of-fighters-destiny"
+      },
+      {
+        "site": "anisearch",
+        "id": "3446"
+      },
+      {
+        "site": "kitsu",
+        "id": "1619"
+      },
+      {
+        "site": "kitsu",
+        "id": "1620"
+      },
+      {
+        "site": "kitsu",
+        "id": "463"
+      },
+      {
+        "site": "kitsu",
+        "id": "899"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1009"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1799"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1800"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35204"
+      },
+      {
+        "site": "myanimelist",
+        "id": "48582"
+      },
+      {
+        "site": "myanimelist",
+        "id": "504"
+      },
+      {
+        "site": "notify",
+        "id": "5g1fcKmig"
+      },
+      {
+        "site": "notify",
+        "id": "80pTcKimR"
+      },
+      {
+        "site": "notify",
+        "id": "NwTJcFmig"
+      },
+      {
+        "site": "notify",
+        "id": "YV1fcKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2005,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/12676.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/12676t.jpg",
+    "synonyms": [
+      "KOF",
+      "KOF: Another Day",
+      "King of Fighters",
+      "KoF",
+      "The King of Fighters: Another Day",
+      "Чемпион: Еще один день",
+      "پادشاه مبارزان: یک روز دیگر",
+      "ザ・キング・オブ・ファイターズ アナザーデイ"
+    ]
+  }
+]

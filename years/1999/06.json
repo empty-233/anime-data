@@ -1,86 +1,310 @@
-{
-  "title": "ときめきメモリアル",
-  "titleTranslate": {
-    "zh-Hans": [
-      "心跳回忆"
+[
+  {
+    "title": "GTO",
+    "titleTranslate": {
+      "zh-Hans": [
+        "麻辣教师GTO",
+        "麻辣教师"
+      ],
+      "zh-Hant": [
+        "麻辣教師 GTO"
+      ],
+      "en": [
+        "GTO: Great Teacher Onizuka"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.mxtv.co.jp/gto/",
+    "begin": "1999-06-30T16:00:00.000Z",
+    "end": "2000-09-24T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "xQYCgOhOvvxf3UU",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrjvfqop",
+        "begin": "2013-05-10T04:10:16.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "2045"
+      },
+      {
+        "site": "bilibili",
+        "id": "2238",
+        "begin": "1999-06-29T16:00:00.000Z",
+        "broadcast": "R/2010-06-16T07:40:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80124041",
+        "begin": "2020-01-13T16:00:00.000Z",
+        "broadcast": "R/2020-01-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "4841"
+      },
+      {
+        "site": "anilist",
+        "id": "1913"
+      },
+      {
+        "site": "anime-planet",
+        "id": "great-teacher-onizuka-soushuuhen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shonan-junai-gumi"
+      },
+      {
+        "site": "anisearch",
+        "id": "4080"
+      },
+      {
+        "site": "kitsu",
+        "id": "1723"
+      },
+      {
+        "site": "livechart",
+        "id": "4621"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1913"
+      },
+      {
+        "site": "myanimelist",
+        "id": "41043"
+      },
+      {
+        "site": "notify",
+        "id": "D0efcFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1999,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 43,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/11460.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/11460t.jpg",
+    "synonyms": [
+      "Didysis mokytojas Onizuka",
+      "G.T.O. - Great Teacher Onizuka",
+      "GTO",
+      "GTO - Great Teacher Onizuka",
+      "GTO - The Animation",
+      "GTO(グレート・ティーチャー・オニヅカ)",
+      "GTO: Great Teacher Onizuka",
+      "GTO: The Animation",
+      "Harika Öğretmen Onizuka",
+      "Nuostabusis Mokytojas Onizuka",
+      "Thầy giáo vĩ đại Onizuka",
+      "Wspaniały belfer Onizuka",
+      "Великий учитель Онидзука",
+      "Великият учител Онизука",
+      "Крутий вчитель Онідзука",
+      "Крутой учитель Онидзука",
+      "المدرس العظيم أونيزوكا",
+      "معلم کبیر اونیزوکا",
+      "グレート・ティーチャー・オニズカ",
+      "グレート・ティーチャー・オニヅカ",
+      "麻辣教師GTO",
+      "반항하지마"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1999-06-25T16:00:00.000Z",
-  "end": "1999-10-07T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "49568"
+  {
+    "title": "サムライスピリッツ2 アスラ斬魔伝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "侍魂2：阿修罗斩魔传"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "5358",
-      "begin": "2016-07-26T02:36:00.000Z",
-      "broadcast": "R/2016-07-26T02:36:00.000Z/P7D"
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-06-25T16:00:00.000Z",
+    "end": "1999-09-30T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "nZaCAGjOPnzfXcU",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2062"
+      },
+      {
+        "site": "anidb",
+        "id": "110"
+      },
+      {
+        "site": "anidb",
+        "id": "932"
+      },
+      {
+        "site": "anilist",
+        "id": "1937"
+      },
+      {
+        "site": "anilist",
+        "id": "2591"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nakoruru"
+      },
+      {
+        "site": "anime-planet",
+        "id": "samurai-shodown-the-motion-picture"
+      },
+      {
+        "site": "anisearch",
+        "id": "1104"
+      },
+      {
+        "site": "anisearch",
+        "id": "1363"
+      },
+      {
+        "site": "kitsu",
+        "id": "1746"
+      },
+      {
+        "site": "kitsu",
+        "id": "2355"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1937"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2591"
+      },
+      {
+        "site": "notify",
+        "id": "6DvscFmig"
+      },
+      {
+        "site": "notify",
+        "id": "YJiLcFmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1999,
+      "month": "06"
     },
-    {
-      "site": "anidb",
-      "id": "4384"
-    },
-    {
-      "site": "anidb",
-      "id": "7411"
-    },
-    {
-      "site": "anilist",
-      "id": "1555"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tokimeki-memorial-4-original-animation-hajimari-no-finder"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tokimeki-memorial-only-love"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tokimeki-memorial-only-love-specials"
-    },
-    {
-      "site": "anisearch",
-      "id": "3603"
-    },
-    {
-      "site": "anisearch",
-      "id": "5788"
-    },
-    {
-      "site": "kitsu",
-      "id": "1395"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1555"
-    },
-    {
-      "site": "notify",
-      "id": "efaa5FiiR"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 1999,
-    "month": "06"
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/2959.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/2959t.jpg",
+    "synonyms": [
+      "SAMURAI SPIRITS 2 ~アスラ斬魔伝~",
+      "SAMURAI SPIRITS 2 〜アスラ斬魔伝〜",
+      "SAMURAI SPIRITS 2: Asura Zanmaden",
+      "Samurai Showdown 2",
+      "Samurai Spirits 2",
+      "Samurai Spirits 2 ~アスラ斬魔伝~",
+      "Samurai Spirits OVA",
+      "Самурайский дух OVA",
+      "ارواح سامورایی 2",
+      "サムライスピリッツ2 アスラ斬魔伝"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 2,
-  "picture": "https://cdn.myanimelist.net/images/anime/1388/131906.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1388/131906t.jpg",
-  "synonyms": [
-    "Tokimeki Memorial",
-    "Tokimemo OVA",
-    "tokimemo ova",
-    "ときめきメモリアル",
-    "ときめきメモリアル 〜forever with you〜",
-    "心跳回忆"
-  ]
-}
+  {
+    "title": "ときめきメモリアル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "心跳回忆"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-06-25T16:00:00.000Z",
+    "end": "1999-10-07T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "49568"
+      },
+      {
+        "site": "bilibili",
+        "id": "5358",
+        "begin": "2016-07-26T02:36:00.000Z",
+        "broadcast": "R/2016-07-26T02:36:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "4384"
+      },
+      {
+        "site": "anidb",
+        "id": "7411"
+      },
+      {
+        "site": "anilist",
+        "id": "1555"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tokimeki-memorial-4-original-animation-hajimari-no-finder"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tokimeki-memorial-only-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tokimeki-memorial-only-love-specials"
+      },
+      {
+        "site": "anisearch",
+        "id": "3603"
+      },
+      {
+        "site": "anisearch",
+        "id": "5788"
+      },
+      {
+        "site": "kitsu",
+        "id": "1395"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1555"
+      },
+      {
+        "site": "notify",
+        "id": "efaa5FiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1999,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/1388/131906.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1388/131906t.jpg",
+    "synonyms": [
+      "Tokimeki Memorial",
+      "Tokimemo OVA",
+      "tokimemo ova",
+      "ときめきメモリアル",
+      "ときめきメモリアル 〜forever with you〜",
+      "心跳回忆"
+    ]
+  }
+]

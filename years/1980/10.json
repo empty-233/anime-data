@@ -1,121 +1,536 @@
-{
-  "title": "あしたのジョー2",
-  "titleTranslate": {
-    "zh-Hans": [
-      "明日之丈2",
-      "明日之丈 第二季"
+[
+  {
+    "title": "鉄腕アトム",
+    "titleTranslate": {
+      "zh-Hans": [
+        "铁臂阿童木"
+      ],
+      "zh-Hant": [
+        "原子小金剛",
+        "小飛俠阿童木"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.mxtv.co.jp/atom/",
+    "begin": "1980-10-01T22:00:00.000Z",
+    "end": "1981-12-23T22:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "1byYFn7kVJL1c9s",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrjabctp",
+        "begin": "2011-01-24T01:12:47.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "z/zgi40gqg05wouh9",
+        "begin": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2014/tbatm",
+        "begin": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "330695",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "28287"
+      },
+      {
+        "site": "bilibili",
+        "id": "2449",
+        "begin": "1980-09-30T16:00:00.000Z",
+        "broadcast": "R/2013-02-07T10:04:00.000Z/P7D"
+      },
+      {
+        "site": "youku",
+        "id": "537342fa927311e0a046",
+        "begin": "2011-04-03T07:52:06.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "21926",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "11156"
+      },
+      {
+        "site": "anidb",
+        "id": "12082"
+      },
+      {
+        "site": "anidb",
+        "id": "1440"
+      },
+      {
+        "site": "anidb",
+        "id": "1490"
+      },
+      {
+        "site": "anidb",
+        "id": "1513"
+      },
+      {
+        "site": "anidb",
+        "id": "6396"
+      },
+      {
+        "site": "anidb",
+        "id": "756"
+      },
+      {
+        "site": "anidb",
+        "id": "9449"
+      },
+      {
+        "site": "anilist",
+        "id": "17959"
+      },
+      {
+        "site": "anilist",
+        "id": "17965"
+      },
+      {
+        "site": "anilist",
+        "id": "21830"
+      },
+      {
+        "site": "anilist",
+        "id": "2747"
+      },
+      {
+        "site": "anilist",
+        "id": "971"
+      },
+      {
+        "site": "anime-planet",
+        "id": "astro-boy-1963"
+      },
+      {
+        "site": "anime-planet",
+        "id": "astro-boy-2003"
+      },
+      {
+        "site": "anime-planet",
+        "id": "astro-boy-chikyuu-saigo-no-nichi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "astro-boy-shinsengumi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "astro-boy-the-brave-in-space"
+      },
+      {
+        "site": "anime-planet",
+        "id": "astro-boy-volume-of-the-blue-knight"
+      },
+      {
+        "site": "anime-planet",
+        "id": "atom-the-beginning"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kyuutai-panic-adventure"
+      },
+      {
+        "site": "anisearch",
+        "id": "11518"
+      },
+      {
+        "site": "anisearch",
+        "id": "1624"
+      },
+      {
+        "site": "anisearch",
+        "id": "171"
+      },
+      {
+        "site": "kitsu",
+        "id": "12235"
+      },
+      {
+        "site": "kitsu",
+        "id": "2507"
+      },
+      {
+        "site": "kitsu",
+        "id": "861"
+      },
+      {
+        "site": "kitsu",
+        "id": "8938"
+      },
+      {
+        "site": "kitsu",
+        "id": "8939"
+      },
+      {
+        "site": "livechart",
+        "id": "11652"
+      },
+      {
+        "site": "livechart",
+        "id": "2892"
+      },
+      {
+        "site": "livechart",
+        "id": "6420"
+      },
+      {
+        "site": "livechart",
+        "id": "6574"
+      },
+      {
+        "site": "livechart",
+        "id": "8655"
+      },
+      {
+        "site": "livechart",
+        "id": "9588"
+      },
+      {
+        "site": "myanimelist",
+        "id": "17959"
+      },
+      {
+        "site": "myanimelist",
+        "id": "17965"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2747"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33371"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35737"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40367"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40377"
+      },
+      {
+        "site": "myanimelist",
+        "id": "54081"
+      },
+      {
+        "site": "myanimelist",
+        "id": "971"
+      },
+      {
+        "site": "notify",
+        "id": "FH-xpKmig"
+      },
+      {
+        "site": "notify",
+        "id": "TMaxtKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "ahOJ5KiiR"
+      },
+      {
+        "site": "notify",
+        "id": "mjjy5FmmR"
+      },
+      {
+        "site": "notify",
+        "id": "qobR2Fiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1980,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 52,
+    "picture": "https://cdn.myanimelist.net/images/anime/1967/129099.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1967/129099t.jpg",
+    "synonyms": [
+      "Astro Boy",
+      "Astro Boy (1980)",
+      "Astro Le Petit Robot",
+      "Astro le Petit Robot",
+      "Astro le petit robot",
+      "Astroboy",
+      "Atom (1980)",
+      "Robotukas Marsas",
+      "Tetsuwan Atom",
+      "鉄腕アトム",
+      "鉄腕アトム (1980)",
+      "鉄腕アトム （1980）"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1980-10-13T12:00:00.000Z",
-  "end": "1981-08-31T12:30:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "67753"
+  {
+    "title": "太陽の使者 鉄人28号",
+    "titleTranslate": {
+      "zh-Hans": [
+        "太阳的使者 铁人28号"
+      ]
     },
-    {
-      "site": "nicovideo",
-      "id": "ashitano-joe",
-      "begin": "2012-02-15T06:00:00.000Z"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.mxtv.co.jp/tetsujin28/",
+    "begin": "1980-10-03T22:30:00.000Z",
+    "end": "1981-09-25T10:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37259"
+      },
+      {
+        "site": "bilibili",
+        "id": "1951",
+        "begin": "1980-10-02T16:00:00.000Z",
+        "broadcast": "R/2014-04-26T14:19:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1670"
+      },
+      {
+        "site": "anidb",
+        "id": "1673"
+      },
+      {
+        "site": "anilist",
+        "id": "145563"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tetsujin-28-gou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tetsujin-28-gou-2004"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tetsujin-28-gou-fx"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tetsujin-28-gou-gao"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tetsujin-28-morning-moon-of-midday"
+      },
+      {
+        "site": "anisearch",
+        "id": "2799"
+      },
+      {
+        "site": "anisearch",
+        "id": "3397"
+      },
+      {
+        "site": "kitsu",
+        "id": "2448"
+      },
+      {
+        "site": "livechart",
+        "id": "11071"
+      },
+      {
+        "site": "livechart",
+        "id": "11073"
+      },
+      {
+        "site": "livechart",
+        "id": "7054"
+      },
+      {
+        "site": "livechart",
+        "id": "7272"
+      },
+      {
+        "site": "livechart",
+        "id": "7297"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2686"
+      },
+      {
+        "site": "notify",
+        "id": "LMPy5FmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1980,
+      "month": "10"
     },
-    {
-      "site": "qq",
-      "id": "0/0r3wk97yhzn2bpe",
-      "begin": ""
-    },
-    {
-      "site": "bilibili",
-      "id": "28234062",
-      "begin": "2021-03-24T06:43:04.000Z",
-      "broadcast": "R/2021-03-24T06:43:04.000Z/P7D"
-    },
-    {
-      "site": "anidb",
-      "id": "1457"
-    },
-    {
-      "site": "anidb",
-      "id": "4862"
-    },
-    {
-      "site": "anilist",
-      "id": "151627"
-    },
-    {
-      "site": "anilist",
-      "id": "2402"
-    },
-    {
-      "site": "anilist",
-      "id": "2922"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ashita-no-joe"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tomorrows-joe-2-the-movie"
-    },
-    {
-      "site": "anisearch",
-      "id": "2580"
-    },
-    {
-      "site": "anisearch",
-      "id": "3990"
-    },
-    {
-      "site": "kitsu",
-      "id": "2178"
-    },
-    {
-      "site": "kitsu",
-      "id": "2647"
-    },
-    {
-      "site": "myanimelist",
-      "id": "2402"
-    },
-    {
-      "site": "myanimelist",
-      "id": "2922"
-    },
-    {
-      "site": "notify",
-      "id": "K3YEcKmiR"
-    },
-    {
-      "site": "notify",
-      "id": "fqpUcKmmR"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 1980,
-    "month": "10"
+    "status": "FINISHED",
+    "episodes": 51,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/46121.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/46121t.jpg",
+    "synonyms": [
+      "Messenger of The Sun Tetsujin 28",
+      "New Gigantor",
+      "New Iron Man No.28",
+      "New Tetsujin 28",
+      "New Tetsujin 28-go",
+      "Shin Tetsujin 28",
+      "Shin Tetsujin 28-gou",
+      "Super Robot 28",
+      "Super robot 28",
+      "Taiyo no Shisha Tetsujin 28-go",
+      "Tetsujin 28-go (1980)",
+      "Tetsujin 28-go TV 2",
+      "Tetsujin 28-gō (1980)",
+      "Tetsujin 28: Follower of the Sun",
+      "The New Adventures of Gigantor",
+      "رعد العملاق",
+      "太陽の使者 鉄人28号",
+      "鉄人28号 (1980)",
+      "鉄人28号 （1980）",
+      "鉄人２８号 (1980)",
+      "철인 28호"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 47,
-  "picture": "https://cdn.myanimelist.net/images/anime/3/45028.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/3/45028t.jpg",
-  "synonyms": [
-    "Champion Joe 2",
-    "El Campeón",
-    "El Campeón/ El mañana de Joe 2",
-    "Joe 2",
-    "N/A",
-    "Rocky Joe 2",
-    "Tomorrow's Joe 2",
-    "Tomorrow`s Joe 2",
-    "anj s2",
-    "rocky joe 2",
-    "جو البطل",
-    "あしたのジョー2",
-    "あしたのジョー２",
-    "明日之丈2"
-  ]
-}
+  {
+    "title": "あしたのジョー2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "明日之丈2",
+        "明日之丈 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1980-10-13T12:00:00.000Z",
+    "end": "1981-08-31T12:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "67753"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ashitano-joe",
+        "begin": "2012-02-15T06:00:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "0/0r3wk97yhzn2bpe",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28234062",
+        "begin": "2021-03-24T06:43:04.000Z",
+        "broadcast": "R/2021-03-24T06:43:04.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1457"
+      },
+      {
+        "site": "anidb",
+        "id": "4862"
+      },
+      {
+        "site": "anilist",
+        "id": "151627"
+      },
+      {
+        "site": "anilist",
+        "id": "2402"
+      },
+      {
+        "site": "anilist",
+        "id": "2922"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ashita-no-joe"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tomorrows-joe-2-the-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "2580"
+      },
+      {
+        "site": "anisearch",
+        "id": "3990"
+      },
+      {
+        "site": "kitsu",
+        "id": "2178"
+      },
+      {
+        "site": "kitsu",
+        "id": "2647"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2402"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2922"
+      },
+      {
+        "site": "notify",
+        "id": "K3YEcKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "fqpUcKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1980,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 47,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/45028.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/45028t.jpg",
+    "synonyms": [
+      "Champion Joe 2",
+      "El Campeón",
+      "El Campeón/ El mañana de Joe 2",
+      "Joe 2",
+      "N/A",
+      "Rocky Joe 2",
+      "Tomorrow's Joe 2",
+      "Tomorrow`s Joe 2",
+      "anj s2",
+      "rocky joe 2",
+      "جو البطل",
+      "あしたのジョー2",
+      "あしたのジョー２",
+      "明日之丈2"
+    ]
+  }
+]

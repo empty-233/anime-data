@@ -1,105 +1,107 @@
-{
-  "title": "名探偵ホームズ",
-  "titleTranslate": {
-    "en": [
-      "Sherlock Hound"
+[
+  {
+    "title": "名探偵ホームズ",
+    "titleTranslate": {
+      "en": [
+        "Sherlock Hound"
+      ],
+      "zh-Hans": [
+        "名侦探福尔摩斯"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-11-06T07:00:00.000Z",
+    "end": "1985-05-20T07:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "OnVPzTWbC0msKpI",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "9874"
+      },
+      {
+        "site": "nicovideo",
+        "id": "holmes",
+        "begin": "2011-09-20T06:00:00.000Z"
+      },
+      {
+        "site": "anilist",
+        "id": "15347"
+      },
+      {
+        "site": "anilist",
+        "id": "20441"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sherlock-hound-the-adventure-of-the-blue-carbuncle-treasure-under-the-sea"
+      },
+      {
+        "site": "anisearch",
+        "id": "10002"
+      },
+      {
+        "site": "anisearch",
+        "id": "10003"
+      },
+      {
+        "site": "kitsu",
+        "id": "7242"
+      },
+      {
+        "site": "kitsu",
+        "id": "9122"
+      },
+      {
+        "site": "myanimelist",
+        "id": "15347"
+      },
+      {
+        "site": "myanimelist",
+        "id": "20441"
+      },
+      {
+        "site": "notify",
+        "id": "H0_dtFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "KaH-pKimR"
+      }
     ],
-    "zh-Hans": [
-      "名侦探福尔摩斯"
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1984,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/75723.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/75723t.jpg",
+    "synonyms": [
+      "Aventures de Sherlock Holmes",
+      "Detective Holmes",
+      "Die Abenteuer des Sherlock Holmes",
+      "El Famoso Detective Holmes",
+      "Famous Detective Holmes",
+      "Il fiuto di Sherlock Holmes",
+      "Les aventures de Sherlock Holmes",
+      "Meitantei Houmuzu",
+      "Sherlock Holmes",
+      "Sherlock Holmes, a mesterkopó",
+      "Sherlock Hound",
+      "Sherlock Koira",
+      "Slovutný detektiv Holmes",
+      "holmes",
+      "شارلوك هولمز",
+      "めいたんていほーむず",
+      "名侦探福尔摩斯",
+      "名探偵ホームズ"
     ]
-  },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1984-11-06T07:00:00.000Z",
-  "end": "1985-05-20T07:30:00.000Z",
-  "sites": [
-    {
-      "site": "pptv",
-      "id": "OnVPzTWbC0msKpI",
-      "begin": ""
-    },
-    {
-      "site": "bangumi",
-      "id": "9874"
-    },
-    {
-      "site": "nicovideo",
-      "id": "holmes",
-      "begin": "2011-09-20T06:00:00.000Z"
-    },
-    {
-      "site": "anilist",
-      "id": "15347"
-    },
-    {
-      "site": "anilist",
-      "id": "20441"
-    },
-    {
-      "site": "anime-planet",
-      "id": "sherlock-hound-the-adventure-of-the-blue-carbuncle-treasure-under-the-sea"
-    },
-    {
-      "site": "anisearch",
-      "id": "10002"
-    },
-    {
-      "site": "anisearch",
-      "id": "10003"
-    },
-    {
-      "site": "kitsu",
-      "id": "7242"
-    },
-    {
-      "site": "kitsu",
-      "id": "9122"
-    },
-    {
-      "site": "myanimelist",
-      "id": "15347"
-    },
-    {
-      "site": "myanimelist",
-      "id": "20441"
-    },
-    {
-      "site": "notify",
-      "id": "H0_dtFmmR"
-    },
-    {
-      "site": "notify",
-      "id": "KaH-pKimR"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 1984,
-    "month": "11"
-  },
-  "status": "FINISHED",
-  "episodes": 26,
-  "picture": "https://cdn.myanimelist.net/images/anime/4/75723.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/4/75723t.jpg",
-  "synonyms": [
-    "Aventures de Sherlock Holmes",
-    "Detective Holmes",
-    "Die Abenteuer des Sherlock Holmes",
-    "El Famoso Detective Holmes",
-    "Famous Detective Holmes",
-    "Il fiuto di Sherlock Holmes",
-    "Les aventures de Sherlock Holmes",
-    "Meitantei Houmuzu",
-    "Sherlock Holmes",
-    "Sherlock Holmes, a mesterkopó",
-    "Sherlock Hound",
-    "Sherlock Koira",
-    "Slovutný detektiv Holmes",
-    "holmes",
-    "شارلوك هولمز",
-    "めいたんていほーむず",
-    "名侦探福尔摩斯",
-    "名探偵ホームズ"
-  ]
-}
+  }
+]

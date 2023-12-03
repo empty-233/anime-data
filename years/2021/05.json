@@ -1,51 +1,97 @@
-{
-  "title": "エデン",
-  "titleTranslate": {
-    "zh-Hans": [
-      "伊甸"
+[
+  {
+    "title": "猫ジョッキー",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.asahi.co.jp/sp/neko_jockey/",
+    "begin": "2021-05-06T14:10:00.000Z",
+    "broadcast": "R/2021-05-06T14:10:00.000Z/P7D",
+    "end": "2021-05-27T14:17:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "anime-planet",
+        "id": "neko-jockey"
+      },
+      {
+        "site": "anisearch",
+        "id": "16738"
+      },
+      {
+        "site": "livechart",
+        "id": "10545"
+      },
+      {
+        "site": "myanimelist",
+        "id": "48790"
+      }
     ],
-    "zh-Hant": [
-      "伊甸"
-    ],
-    "en": [
-      "Eden"
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2021,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/1316/118632.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1316/118632t.jpg",
+    "synonyms": [
+      "Neko Jockey Season 2",
+      "猫ジョッキー",
+      "猫ジョッキー 2期",
+      "猫ジョッキー シーズン2"
     ]
   },
-  "type": "web",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "2021-05-26T16:00:00.000Z",
-  "end": "2021-05-26T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "280654"
+  {
+    "title": "エデン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "伊甸"
+      ],
+      "zh-Hant": [
+        "伊甸"
+      ],
+      "en": [
+        "Eden"
+      ]
     },
-    {
-      "site": "netflix",
-      "id": "80992783",
-      "begin": "2021-05-26T16:00:00.000Z",
-      "broadcast": "R/2021-05-26T16:00:00.000Z/P7D"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 2021,
-    "month": "05"
-  },
-  "status": "FINISHED",
-  "episodes": 4,
-  "picture": "https://cdn.myanimelist.net/images/anime/1621/114901.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1621/114901t.jpg",
-  "synonyms": [
-    "EDEN",
-    "EDEN (2021)",
-    "Eden",
-    "Eden (2021)",
-    "Edén",
-    "อีเดน สวรรค์จักรกล",
-    "エデン",
-    "エデン (2021)"
-  ]
-}
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-05-26T16:00:00.000Z",
+    "end": "2021-05-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "280654"
+      },
+      {
+        "site": "netflix",
+        "id": "80992783",
+        "begin": "2021-05-26T16:00:00.000Z",
+        "broadcast": "R/2021-05-26T16:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2021,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/1621/114901.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1621/114901t.jpg",
+    "synonyms": [
+      "EDEN",
+      "EDEN (2021)",
+      "Eden",
+      "Eden (2021)",
+      "Edén",
+      "อีเดน สวรรค์จักรกล",
+      "エデン",
+      "エデン (2021)"
+    ]
+  }
+]

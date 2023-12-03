@@ -1,122 +1,662 @@
-{
-  "title": "太陽の牙ダグラム",
-  "titleTranslate": {
-    "zh-Hans": [
-      "太阳之牙达格拉姆"
+[
+  {
+    "title": "うる星やつら",
+    "titleTranslate": {
+      "zh-Hans": [
+        "福星小子"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.kids-station.com/campaign/urusei/",
+    "begin": "1981-10-14T14:30:00.000Z",
+    "end": "1986-03-19T15:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "m7SPDXXbS4nsatI",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrha1of1",
+        "begin": "2016-12-02T08:24:10.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "10388"
+      },
+      {
+        "site": "anidb",
+        "id": "377"
+      },
+      {
+        "site": "anidb",
+        "id": "382"
+      },
+      {
+        "site": "anilist",
+        "id": "1293"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-movie-1-only-you"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-movie-2-beautiful-dreamer"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-movie-3-remember-my-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-movie-4-lum-the-forever"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-movie-5-the-final-chapter"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-movie-6-always-my-darling"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-special-its-spring-take-off"
+      },
+      {
+        "site": "anime-planet",
+        "id": "urusei-yatsura-the-obstacle-course-swim-meet"
+      },
+      {
+        "site": "anisearch",
+        "id": "1945"
+      },
+      {
+        "site": "anisearch",
+        "id": "6035"
+      },
+      {
+        "site": "kitsu",
+        "id": "1166"
+      },
+      {
+        "site": "kitsu",
+        "id": "4613"
+      },
+      {
+        "site": "livechart",
+        "id": "11005"
+      },
+      {
+        "site": "livechart",
+        "id": "11333"
+      },
+      {
+        "site": "livechart",
+        "id": "4301"
+      },
+      {
+        "site": "livechart",
+        "id": "8215"
+      },
+      {
+        "site": "livechart",
+        "id": "8720"
+      },
+      {
+        "site": "livechart",
+        "id": "8722"
+      },
+      {
+        "site": "livechart",
+        "id": "8724"
+      },
+      {
+        "site": "livechart",
+        "id": "8726"
+      },
+      {
+        "site": "livechart",
+        "id": "8727"
+      },
+      {
+        "site": "livechart",
+        "id": "8753"
+      },
+      {
+        "site": "livechart",
+        "id": "9091"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1293"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6567"
+      },
+      {
+        "site": "notify",
+        "id": "fqYbcKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "qfK65Kmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1985,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 11,
+    "picture": "https://cdn.myanimelist.net/images/anime/1424/92240.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1424/92240t.jpg",
+    "synonyms": [
+      "Lamu (Urusei Yatsura): Las OVAs",
+      "Lamu': La Ragazza Dello Spazio",
+      "Lamu. Urusei Yatsura: Las Ovas",
+      "Lamù la ragazza dello spazio - OAV",
+      "Urusei Yatsura (1985)",
+      "uy ova",
+      "Несносные пришельцы OVA",
+      "うるせいやつら",
+      "うる星やつら",
+      "うる星やつら (1985)",
+      "うる星やつら （OVA）"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1981-10-23T16:00:00.000Z",
-  "end": "1983-03-25T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "37183"
+  {
+    "title": "六神合体ゴッドマーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "六神合体雷霆王"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "2439",
-      "begin": "1981-10-22T16:00:00.000Z"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://cnt.kingrecords.co.jp/godmars/",
+    "begin": "1981-10-02T10:00:00.000Z",
+    "end": "1982-12-24T10:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "Yq2XFX3jU5H0cto",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "32213"
+      },
+      {
+        "site": "bilibili",
+        "id": "2444",
+        "begin": "1981-10-01T16:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "1784"
+      },
+      {
+        "site": "anidb",
+        "id": "4539"
+      },
+      {
+        "site": "anidb",
+        "id": "5696"
+      },
+      {
+        "site": "anidb",
+        "id": "968"
+      },
+      {
+        "site": "anilist",
+        "id": "2906"
+      },
+      {
+        "site": "anilist",
+        "id": "9385"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rokushin-gattai-god-mars-juunanasai-no-densetsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rokushin-gattai-god-mars-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "3314"
+      },
+      {
+        "site": "anisearch",
+        "id": "513"
+      },
+      {
+        "site": "kitsu",
+        "id": "2636"
+      },
+      {
+        "site": "kitsu",
+        "id": "5712"
+      },
+      {
+        "site": "livechart",
+        "id": "11670"
+      },
+      {
+        "site": "livechart",
+        "id": "7077"
+      },
+      {
+        "site": "livechart",
+        "id": "9469"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10648"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1712"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2906"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9385"
+      },
+      {
+        "site": "notify",
+        "id": "z9eWtFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "zE5UcKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1981,
+      "month": "10"
     },
-    {
-      "site": "anidb",
-      "id": "2355"
-    },
-    {
-      "site": "anidb",
-      "id": "2356"
-    },
-    {
-      "site": "anilist",
-      "id": "18795"
-    },
-    {
-      "site": "anilist",
-      "id": "2258"
-    },
-    {
-      "site": "anilist",
-      "id": "9972"
-    },
-    {
-      "site": "anime-planet",
-      "id": "choro-q-dougram"
-    },
-    {
-      "site": "anime-planet",
-      "id": "document-fang-of-the-sun-dougram"
-    },
-    {
-      "site": "anisearch",
-      "id": "1045"
-    },
-    {
-      "site": "anisearch",
-      "id": "8664"
-    },
-    {
-      "site": "anisearch",
-      "id": "903"
-    },
-    {
-      "site": "kitsu",
-      "id": "2046"
-    },
-    {
-      "site": "kitsu",
-      "id": "5973"
-    },
-    {
-      "site": "kitsu",
-      "id": "8931"
-    },
-    {
-      "site": "livechart",
-      "id": "12053"
-    },
-    {
-      "site": "myanimelist",
-      "id": "18795"
-    },
-    {
-      "site": "myanimelist",
-      "id": "2258"
-    },
-    {
-      "site": "myanimelist",
-      "id": "9972"
-    },
-    {
-      "site": "notify",
-      "id": "ILi7pFiig"
-    },
-    {
-      "site": "notify",
-      "id": "dQDE5KmmR"
-    },
-    {
-      "site": "notify",
-      "id": "itbxpFmig"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 1981,
-    "month": "10"
+    "status": "FINISHED",
+    "episodes": 64,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/21725.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/21725t.jpg",
+    "synonyms": [
+      "6god",
+      "God Mars",
+      "God Mars (TV)",
+      "Hexademonic Symbiote Godmars",
+      "Roku Shin Gattai God Mars",
+      "Rokushin Gattai God Mars",
+      "Six God Combination God Mars",
+      "Six God Combination GodMars",
+      "Six God Combination Godmars",
+      "Six God Union Godmarz",
+      "Six Gods Unit",
+      "ろくしんがったいごっどまーず",
+      "六神合体ゴッドマーズ"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 75,
-  "picture": "https://cdn.myanimelist.net/images/anime/9/14395.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/9/14395t.jpg",
-  "synonyms": [
-    "Fang of the Sun Dagram",
-    "Fang of the Sun Dougram",
-    "Sun Fang Dougram",
-    "Taiyou no Kiba Dougram",
-    "Taiyō no Kiba Dagram",
-    "たいようのきばだぐらむ",
-    "太陽の牙ダグラム"
-  ]
-}
+  {
+    "title": "まいっちんぐマチコ先生",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.at-x.com/program/detail/1475",
+    "begin": "1981-10-08T13:00:00.000Z",
+    "end": "1983-10-06T13:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "213652"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1981,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 95,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/60423.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/60423t.jpg",
+    "synonyms": [
+      "Maicching Machiko Sensei",
+      "Maicchingu Machiko Sensei",
+      "Maicchingu Machiko-sensei",
+      "Maitchingu Machiko Sensei",
+      "Maitchingu Machiko-sensei",
+      "Miss Machiko",
+      "Miss Machiko!",
+      "Shame of Miss Machiko",
+      "Shame of Teacher Machiko",
+      "まいっちんぐまちこせんせい",
+      "まいっちんぐマチコ先生"
+    ]
+  },
+  {
+    "title": "銀河旋風ブライガー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河旋风无赖我"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://s.mxtv.jp/anime/braiger/",
+    "begin": "1981-10-06T11:00:00.000Z",
+    "end": "1982-06-25T11:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37196"
+      },
+      {
+        "site": "anidb",
+        "id": "3116"
+      },
+      {
+        "site": "anilist",
+        "id": "4242"
+      },
+      {
+        "site": "anime-planet",
+        "id": "galactic-gale-baxinger"
+      },
+      {
+        "site": "anime-planet",
+        "id": "galactic-whirlwind-sasuraiger"
+      },
+      {
+        "site": "anisearch",
+        "id": "10184"
+      },
+      {
+        "site": "anisearch",
+        "id": "1692"
+      },
+      {
+        "site": "kitsu",
+        "id": "3535"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4242"
+      },
+      {
+        "site": "notify",
+        "id": "Y7JucKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1981,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 39,
+    "picture": "https://cdn.myanimelist.net/images/anime/1640/96448.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1640/96448t.jpg",
+    "synonyms": [
+      "Braiger",
+      "Bryger",
+      "Cosmo Ranger J9",
+      "Cosmo Runner",
+      "Galactic Cyclone Braiger",
+      "Galactic Cyclone Bryger",
+      "Galactic Whirlwind Braiger",
+      "Galactic Whirlwind Bryger",
+      "Galaxy Cyclone Braiger",
+      "Galaxy Cyclone Bryger",
+      "Galaxy Whirlwind Braiger",
+      "Ginga Senpū Braiger",
+      "J9",
+      "ぎんがせんぷうぶらいがー",
+      "銀河旋風ブライガー"
+    ]
+  },
+  {
+    "title": "じゃりン子チエ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1981-10-03T06:30:00.000Z",
+    "end": "1983-03-25T07:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "213654"
+      },
+      {
+        "site": "anidb",
+        "id": "2971"
+      },
+      {
+        "site": "anidb",
+        "id": "4299"
+      },
+      {
+        "site": "anilist",
+        "id": "166047"
+      },
+      {
+        "site": "anilist",
+        "id": "3946"
+      },
+      {
+        "site": "anilist",
+        "id": "9383"
+      },
+      {
+        "site": "anime-planet",
+        "id": "chie-chan-funsenki-jarinko-chie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "chie-the-brat-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "chie-the-brat-special"
+      },
+      {
+        "site": "anisearch",
+        "id": "17574"
+      },
+      {
+        "site": "anisearch",
+        "id": "5212"
+      },
+      {
+        "site": "anisearch",
+        "id": "856"
+      },
+      {
+        "site": "kitsu",
+        "id": "46878"
+      },
+      {
+        "site": "livechart",
+        "id": "11309"
+      },
+      {
+        "site": "livechart",
+        "id": "11310"
+      },
+      {
+        "site": "livechart",
+        "id": "7668"
+      },
+      {
+        "site": "myanimelist",
+        "id": "51646"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9383"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1981,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 64,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/77065.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/77065t.jpg",
+    "synonyms": [
+      "Chie La Petite Peste",
+      "Chie the Brat",
+      "Chie the Brat (1981)",
+      "Chié la petite peste (1981)",
+      "Downtown Story",
+      "Downtown Story (1981)",
+      "Jarinko Chie",
+      "Jarinko Chie (1981)",
+      "Kié la petite peste",
+      "Kié la petite peste (1981)",
+      "じゃりんこちえ",
+      "じゃりン子チエ",
+      "じゃりン子チエ (1981)",
+      "じゃりン子チエ (TV)"
+    ]
+  },
+  {
+    "title": "太陽の牙ダグラム",
+    "titleTranslate": {
+      "zh-Hans": [
+        "太阳之牙达格拉姆"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1981-10-23T16:00:00.000Z",
+    "end": "1983-03-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37183"
+      },
+      {
+        "site": "bilibili",
+        "id": "2439",
+        "begin": "1981-10-22T16:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "2355"
+      },
+      {
+        "site": "anidb",
+        "id": "2356"
+      },
+      {
+        "site": "anilist",
+        "id": "18795"
+      },
+      {
+        "site": "anilist",
+        "id": "2258"
+      },
+      {
+        "site": "anilist",
+        "id": "9972"
+      },
+      {
+        "site": "anime-planet",
+        "id": "choro-q-dougram"
+      },
+      {
+        "site": "anime-planet",
+        "id": "document-fang-of-the-sun-dougram"
+      },
+      {
+        "site": "anisearch",
+        "id": "1045"
+      },
+      {
+        "site": "anisearch",
+        "id": "8664"
+      },
+      {
+        "site": "anisearch",
+        "id": "903"
+      },
+      {
+        "site": "kitsu",
+        "id": "2046"
+      },
+      {
+        "site": "kitsu",
+        "id": "5973"
+      },
+      {
+        "site": "kitsu",
+        "id": "8931"
+      },
+      {
+        "site": "livechart",
+        "id": "12053"
+      },
+      {
+        "site": "myanimelist",
+        "id": "18795"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2258"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9972"
+      },
+      {
+        "site": "notify",
+        "id": "ILi7pFiig"
+      },
+      {
+        "site": "notify",
+        "id": "dQDE5KmmR"
+      },
+      {
+        "site": "notify",
+        "id": "itbxpFmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1981,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 75,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/14395.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/14395t.jpg",
+    "synonyms": [
+      "Fang of the Sun Dagram",
+      "Fang of the Sun Dougram",
+      "Sun Fang Dougram",
+      "Taiyou no Kiba Dougram",
+      "Taiyō no Kiba Dagram",
+      "たいようのきばだぐらむ",
+      "太陽の牙ダグラム"
+    ]
+  }
+]

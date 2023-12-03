@@ -1,202 +1,204 @@
-{
-  "title": "ドラゴンボールGT",
-  "titleTranslate": {
-    "zh-Hans": [
-      "龙珠GT"
+[
+  {
+    "title": "ドラゴンボールGT",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙珠GT"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/tv/dragongt/",
+    "begin": "1996-02-07T16:00:00.000Z",
+    "end": "1997-11-19T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb1d0l",
+        "begin": "2015-12-30T08:59:15.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "9566"
+      },
+      {
+        "site": "anidb",
+        "id": "14086"
+      },
+      {
+        "site": "anidb",
+        "id": "1530"
+      },
+      {
+        "site": "anilist",
+        "id": "813"
+      },
+      {
+        "site": "anilist",
+        "id": "987"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-gt-a-heros-legacy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-super"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-super-super-hero"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z"
+      },
+      {
+        "site": "anime-planet",
+        "id": "super-dragon-ball-heroes"
+      },
+      {
+        "site": "anisearch",
+        "id": "13623"
+      },
+      {
+        "site": "anisearch",
+        "id": "1825"
+      },
+      {
+        "site": "anisearch",
+        "id": "2938"
+      },
+      {
+        "site": "kitsu",
+        "id": "14254"
+      },
+      {
+        "site": "kitsu",
+        "id": "720"
+      },
+      {
+        "site": "kitsu",
+        "id": "877"
+      },
+      {
+        "site": "livechart",
+        "id": "3632"
+      },
+      {
+        "site": "livechart",
+        "id": "3636"
+      },
+      {
+        "site": "livechart",
+        "id": "4152"
+      },
+      {
+        "site": "livechart",
+        "id": "4177"
+      },
+      {
+        "site": "livechart",
+        "id": "4206"
+      },
+      {
+        "site": "livechart",
+        "id": "4219"
+      },
+      {
+        "site": "livechart",
+        "id": "4287"
+      },
+      {
+        "site": "livechart",
+        "id": "4294"
+      },
+      {
+        "site": "livechart",
+        "id": "4312"
+      },
+      {
+        "site": "livechart",
+        "id": "4572"
+      },
+      {
+        "site": "livechart",
+        "id": "4719"
+      },
+      {
+        "site": "livechart",
+        "id": "4815"
+      },
+      {
+        "site": "livechart",
+        "id": "4919"
+      },
+      {
+        "site": "livechart",
+        "id": "5906"
+      },
+      {
+        "site": "livechart",
+        "id": "6390"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37885"
+      },
+      {
+        "site": "myanimelist",
+        "id": "813"
+      },
+      {
+        "site": "myanimelist",
+        "id": "987"
+      },
+      {
+        "site": "notify",
+        "id": "4xc1cFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "Cqy7THDig"
+      },
+      {
+        "site": "notify",
+        "id": "Hm7D2Kiig"
+      },
+      {
+        "site": "notify",
+        "id": "ir-05Fmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1996,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 64,
+    "picture": "https://cdn.myanimelist.net/images/anime/1262/93119.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1262/93119t.jpg",
+    "synonyms": [
+      "Bola de Drac GT",
+      "DBGT",
+      "DRAGON BALL GT",
+      "Doragonboru GT",
+      "Dragonball GT",
+      "Drakonų Kovos GT",
+      "Ejder Topu GT",
+      "GT דרגון בול",
+      "db s3",
+      "Драконий жемчуг БП",
+      "دراغون بول GT",
+      "ดราก้อนบอล จีที",
+      "どらごんぼーるじーてぃー",
+      "ドラゴンボールGT",
+      "龍珠GT"
     ]
-  },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "http://www.toei-anim.co.jp/tv/dragongt/",
-  "begin": "1996-02-07T16:00:00.000Z",
-  "end": "1997-11-19T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "iqiyi",
-      "id": "a_19rrhb1d0l",
-      "begin": "2015-12-30T08:59:15.000Z"
-    },
-    {
-      "site": "bangumi",
-      "id": "9566"
-    },
-    {
-      "site": "anidb",
-      "id": "14086"
-    },
-    {
-      "site": "anidb",
-      "id": "1530"
-    },
-    {
-      "site": "anilist",
-      "id": "813"
-    },
-    {
-      "site": "anilist",
-      "id": "987"
-    },
-    {
-      "site": "anime-planet",
-      "id": "dragon-ball"
-    },
-    {
-      "site": "anime-planet",
-      "id": "dragon-ball-gt-a-heros-legacy"
-    },
-    {
-      "site": "anime-planet",
-      "id": "dragon-ball-super"
-    },
-    {
-      "site": "anime-planet",
-      "id": "dragon-ball-super-super-hero"
-    },
-    {
-      "site": "anime-planet",
-      "id": "dragon-ball-z"
-    },
-    {
-      "site": "anime-planet",
-      "id": "super-dragon-ball-heroes"
-    },
-    {
-      "site": "anisearch",
-      "id": "13623"
-    },
-    {
-      "site": "anisearch",
-      "id": "1825"
-    },
-    {
-      "site": "anisearch",
-      "id": "2938"
-    },
-    {
-      "site": "kitsu",
-      "id": "14254"
-    },
-    {
-      "site": "kitsu",
-      "id": "720"
-    },
-    {
-      "site": "kitsu",
-      "id": "877"
-    },
-    {
-      "site": "livechart",
-      "id": "3632"
-    },
-    {
-      "site": "livechart",
-      "id": "3636"
-    },
-    {
-      "site": "livechart",
-      "id": "4152"
-    },
-    {
-      "site": "livechart",
-      "id": "4177"
-    },
-    {
-      "site": "livechart",
-      "id": "4206"
-    },
-    {
-      "site": "livechart",
-      "id": "4219"
-    },
-    {
-      "site": "livechart",
-      "id": "4287"
-    },
-    {
-      "site": "livechart",
-      "id": "4294"
-    },
-    {
-      "site": "livechart",
-      "id": "4312"
-    },
-    {
-      "site": "livechart",
-      "id": "4572"
-    },
-    {
-      "site": "livechart",
-      "id": "4719"
-    },
-    {
-      "site": "livechart",
-      "id": "4815"
-    },
-    {
-      "site": "livechart",
-      "id": "4919"
-    },
-    {
-      "site": "livechart",
-      "id": "5906"
-    },
-    {
-      "site": "livechart",
-      "id": "6390"
-    },
-    {
-      "site": "myanimelist",
-      "id": "37885"
-    },
-    {
-      "site": "myanimelist",
-      "id": "813"
-    },
-    {
-      "site": "myanimelist",
-      "id": "987"
-    },
-    {
-      "site": "notify",
-      "id": "4xc1cFiiR"
-    },
-    {
-      "site": "notify",
-      "id": "Cqy7THDig"
-    },
-    {
-      "site": "notify",
-      "id": "Hm7D2Kiig"
-    },
-    {
-      "site": "notify",
-      "id": "ir-05Fmmg"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 1996,
-    "month": "02"
-  },
-  "status": "FINISHED",
-  "episodes": 64,
-  "picture": "https://cdn.myanimelist.net/images/anime/1262/93119.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1262/93119t.jpg",
-  "synonyms": [
-    "Bola de Drac GT",
-    "DBGT",
-    "DRAGON BALL GT",
-    "Doragonboru GT",
-    "Dragonball GT",
-    "Drakonų Kovos GT",
-    "Ejder Topu GT",
-    "GT דרגון בול",
-    "db s3",
-    "Драконий жемчуг БП",
-    "دراغون بول GT",
-    "ดราก้อนบอล จีที",
-    "どらごんぼーるじーてぃー",
-    "ドラゴンボールGT",
-    "龍珠GT"
-  ]
-}
+  }
+]

@@ -1,105 +1,949 @@
-{
-  "title": "鉄人28号 白昼の残月",
-  "titleTranslate": {
-    "zh-Hans": [
-      "铁人28号 白昼之残月"
+[
+  {
+    "title": "天元突破 グレンラガン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天元突破 红莲螺岩",
+        "天元突破红莲螺岩"
+      ],
+      "en": [
+        "Gurren Lagann"
+      ],
+      "zh-Hant": [
+        "天元突破 紅蓮螺巖"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.gurren-lagann.net/",
+    "begin": "2007-03-31T23:30:00.000Z",
+    "end": "2007-09-30T00:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "er6JB2icVRYPmZMw",
+        "begin": ""
+      },
+      {
+        "site": "letv",
+        "id": "37026",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "770"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gurren-lagann",
+        "begin": "2015-12-28T03:00:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "70213196",
+        "begin": "2017-09-01T07:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "qq",
+        "id": "s/szdqwhbgc8ndydf",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "300892",
+        "begin": "2020-10-08T16:00:00.000Z",
+        "broadcast": "R/2020-10-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "486",
+        "begin": "2020-12-01T03:10:00.000Z",
+        "broadcast": "R/2020-12-01T03:10:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "27059477",
+        "begin": "2019-04-09T03:23:00.000Z",
+        "broadcast": "R/2019-04-09T03:23:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "5783"
+      },
+      {
+        "site": "anidb",
+        "id": "6082"
+      },
+      {
+        "site": "anidb",
+        "id": "6325"
+      },
+      {
+        "site": "anidb",
+        "id": "6609"
+      },
+      {
+        "site": "anidb",
+        "id": "7485"
+      },
+      {
+        "site": "anidb",
+        "id": "8918"
+      },
+      {
+        "site": "anilist",
+        "id": "10622"
+      },
+      {
+        "site": "anilist",
+        "id": "4107"
+      },
+      {
+        "site": "anilist",
+        "id": "4565"
+      },
+      {
+        "site": "anilist",
+        "id": "4705"
+      },
+      {
+        "site": "anilist",
+        "id": "5947"
+      },
+      {
+        "site": "anilist",
+        "id": "6548"
+      },
+      {
+        "site": "anilist",
+        "id": "8348"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gurren-lagann-movie-1-childhoods-end"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tengen-toppa-gurren-lagann-gekijouban-zenyasai-special-virals-sweet-dream"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tengen-toppa-gurren-lagann-kirameki-yoko-box-pieces-of-sweet-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tengen-toppa-gurren-lagann-lagann-hen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tengen-toppa-gurren-lagann-mitee-mono-wa-miteen-da"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tengen-toppa-gurren-lagann-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tengen-toppa-gurren-lagann-parallel-works"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tengen-toppa-gurren-lagann-parallel-works-2"
+      },
+      {
+        "site": "anisearch",
+        "id": "4565"
+      },
+      {
+        "site": "anisearch",
+        "id": "4842"
+      },
+      {
+        "site": "anisearch",
+        "id": "4949"
+      },
+      {
+        "site": "anisearch",
+        "id": "5223"
+      },
+      {
+        "site": "anisearch",
+        "id": "5451"
+      },
+      {
+        "site": "anisearch",
+        "id": "8801"
+      },
+      {
+        "site": "kitsu",
+        "id": "2950"
+      },
+      {
+        "site": "kitsu",
+        "id": "3471"
+      },
+      {
+        "site": "kitsu",
+        "id": "3689"
+      },
+      {
+        "site": "kitsu",
+        "id": "3751"
+      },
+      {
+        "site": "kitsu",
+        "id": "4358"
+      },
+      {
+        "site": "kitsu",
+        "id": "5302"
+      },
+      {
+        "site": "kitsu",
+        "id": "6267"
+      },
+      {
+        "site": "livechart",
+        "id": "3819"
+      },
+      {
+        "site": "livechart",
+        "id": "3838"
+      },
+      {
+        "site": "livechart",
+        "id": "4520"
+      },
+      {
+        "site": "livechart",
+        "id": "4535"
+      },
+      {
+        "site": "livechart",
+        "id": "4558"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10622"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3352"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4107"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4565"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4705"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5947"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6548"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8348"
+      },
+      {
+        "site": "notify",
+        "id": "35HqcKmig"
+      },
+      {
+        "site": "notify",
+        "id": "M4NipKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "OoAwcFmig"
+      },
+      {
+        "site": "notify",
+        "id": "Ou6ucKiig"
+      },
+      {
+        "site": "notify",
+        "id": "VMNX5Fmig"
+      },
+      {
+        "site": "notify",
+        "id": "kot4pKmig"
+      },
+      {
+        "site": "notify",
+        "id": "sPn95KmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2007,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 27,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/5123.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/5123t.jpg",
+    "synonyms": [
+      "GURREN LAGANN",
+      "Gurren",
+      "Gurren Lagann",
+      "Gurren Laggan",
+      "Gurren-Lagann",
+      "Heaven-Piercing Gurren Lagann",
+      "Heavenly Breakthrough Gurren Lagann",
+      "Lagann",
+      "Maiking Break-Through Gurren-Lagann",
+      "Making Break-Through Gurren Lagann",
+      "Pokořitel nebes Gurren-Lagann",
+      "Sfondamento dei Cieli Gurren Lagann",
+      "Sfondamento dei cieli Gurren Lagann",
+      "TTGL",
+      "Tengen Toppa Gurren-Lagann",
+      "ttgl",
+      "ttgl tv",
+      "Гуррен Лаганн - прочь из этого мира",
+      "Гуррен-Лаганн",
+      "Гуррен-Лаганн: на прорыв!",
+      "Небесен пробив Гурен Лаган",
+      "ТТГЛ",
+      "Ґуррен Лаґанн",
+      "טנגן טופה גורן לאגאן",
+      "อภินิหารหุ่นทะลวงสวรรค์",
+      "อภินิหารหุ่นทะลวงสวรรค์ กุเร็นลากันน์",
+      "てんげんとっぱぐれんらがん",
+      "天元",
+      "天元突破 グレンラガン",
+      "天元突破 红莲之眼",
+      "天元突破 红莲螺岩",
+      "天元突破グレンラガン",
+      "천원돌파 그렌라간"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "2007-03-30T16:00:00.000Z",
-  "end": "2007-03-30T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "37264"
+  {
+    "title": "REIDEEN",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新勇者莱丁",
+        "新勇者莱汀"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "1954",
-      "begin": "2014-05-21T13:59:00.000Z",
-      "broadcast": "R/2014-05-21T13:59:00.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.reideen.jp/",
+    "begin": "2007-03-03T10:00:00.000Z",
+    "end": "2007-09-01T10:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "fsq1M5sBca8SkPg",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "11876"
+      },
+      {
+        "site": "bilibili",
+        "id": "1323",
+        "begin": "2007-03-02T16:00:00.000Z",
+        "broadcast": "R/2010-08-13T08:32:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1819"
+      },
+      {
+        "site": "anilist",
+        "id": "2128"
+      },
+      {
+        "site": "anime-planet",
+        "id": "chouja-raideen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yuusha-raideen"
+      },
+      {
+        "site": "anisearch",
+        "id": "3203"
+      },
+      {
+        "site": "kitsu",
+        "id": "1924"
+      },
+      {
+        "site": "kitsu",
+        "id": "1925"
+      },
+      {
+        "site": "livechart",
+        "id": "11132"
+      },
+      {
+        "site": "livechart",
+        "id": "7340"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2127"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2128"
+      },
+      {
+        "site": "notify",
+        "id": "LiXYcFiig"
+      },
+      {
+        "site": "notify",
+        "id": "eClYcKmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2007,
+      "month": "03"
     },
-    {
-      "site": "anidb",
-      "id": "1670"
-    },
-    {
-      "site": "anilist",
-      "id": "2337"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tetsujin-28-gou"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tetsujin-28-gou-1980"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tetsujin-28-gou-2004"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tetsujin-28-gou-fx"
-    },
-    {
-      "site": "anisearch",
-      "id": "369"
-    },
-    {
-      "site": "kitsu",
-      "id": "2117"
-    },
-    {
-      "site": "livechart",
-      "id": "11072"
-    },
-    {
-      "site": "livechart",
-      "id": "11073"
-    },
-    {
-      "site": "livechart",
-      "id": "7054"
-    },
-    {
-      "site": "livechart",
-      "id": "7272"
-    },
-    {
-      "site": "livechart",
-      "id": "7297"
-    },
-    {
-      "site": "myanimelist",
-      "id": "2337"
-    },
-    {
-      "site": "notify",
-      "id": "4u1P5KimR"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 2007,
-    "month": "03"
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/1713/134855.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1713/134855t.jpg",
+    "synonyms": [
+      "REIDEEN",
+      "Raideen",
+      "Reideen (2007)",
+      "Reideen07",
+      "ตำนานผู้กล้า ไรดีน",
+      "らいでぃーん",
+      "ライディーン"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/7/27668.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/7/27668t.jpg",
-  "synonyms": [
-    "Tetsujin #28 - The Lingering Moon of Midday",
-    "Tetsujin #28: The Daytime Moon",
-    "Tetsujin 28-go: Hakuchuu no Zangetsu",
-    "Tetsujin 28-gō: Hakuchū no Zangetsu",
-    "Tetsujin 28: Morning Moon of Midday",
-    "Tetsujin 28: The Lingering Moon of Midday",
-    "Tetsujin28: Morning Moon of Mid-day",
-    "鉄人28号 白昼の残月",
-    "鉄人２８号 白昼の残月"
-  ]
-}
+  {
+    "title": "ひとひら",
+    "titleTranslate": {
+      "zh-Hans": [
+        "初瓣",
+        "女优大试炼"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.hitohira.tv/",
+    "begin": "2007-03-28T02:00:00.000Z",
+    "end": "2007-06-13T02:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "YqyYFn7kVJL1c9s",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "5910"
+      },
+      {
+        "site": "bilibili",
+        "id": "4810",
+        "begin": "2007-03-27T16:00:01.000Z",
+        "broadcast": "R/2016-06-14T06:36:05.000Z/P7D"
+      },
+      {
+        "site": "letv",
+        "id": "9475",
+        "begin": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2007,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/23639.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/23639t.jpg",
+    "synonyms": [
+      "Пушинка",
+      "ひとひら",
+      "初瓣"
+    ]
+  },
+  {
+    "title": "ケータイ少女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "手机少女"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.ktai-s.net/",
+    "begin": "2007-03-20T03:00:00.000Z",
+    "end": "2007-04-17T03:07:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "5Schnwdt3RtibicGQ",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "12381"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2007,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/18524.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/18524t.jpg",
+    "synonyms": [
+      "Cell Phone Girl",
+      "Garota do Celular",
+      "Keitai Shōjo",
+      "Момичето с телефон",
+      "けーたいしょうじょ",
+      "ケータイ少女",
+      "手机少女"
+    ]
+  },
+  {
+    "title": "秒速5センチメートル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "秒速5厘米"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://5cm.yahoo.co.jp/",
+    "begin": "2007-03-03T16:00:00.000Z",
+    "end": "2007-03-03T17:03:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "7264",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "927"
+      },
+      {
+        "site": "nicovideo",
+        "id": "5cm",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2688",
+        "begin": "2007-03-03T16:00:00.000Z",
+        "broadcast": "R/2016-04-22T03:30:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "1004"
+      },
+      {
+        "site": "anilist",
+        "id": "99646"
+      },
+      {
+        "site": "anime-planet",
+        "id": "masayoshi-yamazaki-one-more-time-one-more-chance"
+      },
+      {
+        "site": "anisearch",
+        "id": "5478"
+      },
+      {
+        "site": "kitsu",
+        "id": "8771"
+      },
+      {
+        "site": "notify",
+        "id": "iGjJpKmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2007,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/1410/112994.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1410/112994t.jpg",
+    "synonyms": [
+      "5 Centimeter per Second",
+      "5 Centimeters Per Second",
+      "5 Centimeters per Second",
+      "5 Centimeters per second",
+      "5 Centimetres Per Second",
+      "5 Centimetros por Segundo",
+      "5 Centimètres par seconde",
+      "5 Centímetros por Segundo",
+      "5 Cm Một Giây",
+      "5 Zentimeter pro Sekunde",
+      "5 centimet trên giây",
+      "5 centimeter i sekunden",
+      "5 centimeter per seconde",
+      "5 centimetrai per sekundę",
+      "5 centimetri al secondo",
+      "5 centimetri pe secundă",
+      "5 centimetrů za sekundu",
+      "5 centimètres par seconde",
+      "5 centimét một giây",
+      "5 centymetrów na sekundę",
+      "5 centímetros por segundo",
+      "5 cm al secondo",
+      "5 cm na sekundę",
+      "5 cm per second",
+      "5 sentimeetrit sekundis",
+      "5 εκατοστά το δευτερόλεπτο",
+      "5 сантиметра в секунда",
+      "5 сантиметров в секунду",
+      "5 сантиметрів за секунду",
+      "5 сантиметрів на секунду",
+      "5 ס\"מ בשנייה",
+      "5 سنتيمترات في الثانية",
+      "5cm",
+      "5cm per Second",
+      "5cm/s",
+      "Byosoku 5 centimeter ~a chain of short stories about their distance~",
+      "Byosoku Go Senchimetoru",
+      "Byousoku 5 Centimeter - a chain of short stories about their distance",
+      "Byousoku 5 Centimeter: A Chain of Short Stories About Their Distance.",
+      "Byousoku Go Senchime-toru",
+      "Byousoku Go Senchimeetoru",
+      "Byōsoku 5 Centimeter",
+      "Cinco Centímetros por Segundo",
+      "Five Centimeters Per Second",
+      "Másodpercenként 5 centiméter",
+      "Saniyede 5 Santimetre",
+      "Пет сантиметра на секунда",
+      "Пять сантиметров в секунду",
+      "Секундэд таван сантиметр",
+      "ยามซากุระร่วงโรย",
+      "秒速5センチメートル",
+      "秒速5厘米",
+      "秒速５センチメートル",
+      "초속 5 센티미터"
+    ]
+  },
+  {
+    "title": "ONE PIECE エピソードオブアラバスタ 砂漠の王女と海賊たち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海贼王 沙漠的王女与海贼们"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.onepiece-movie.com/",
+    "begin": "2007-03-03T16:00:00.000Z",
+    "end": "2007-03-03T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1999"
+      },
+      {
+        "site": "anilist",
+        "id": "21"
+      },
+      {
+        "site": "anilist",
+        "id": "2107"
+      },
+      {
+        "site": "anime-planet",
+        "id": "one-piece"
+      },
+      {
+        "site": "anime-planet",
+        "id": "one-piece-the-desert-princess-and-the-pirates-adventures-in-alabasta"
+      },
+      {
+        "site": "anisearch",
+        "id": "2227"
+      },
+      {
+        "site": "anisearch",
+        "id": "3965"
+      },
+      {
+        "site": "kitsu",
+        "id": "12"
+      },
+      {
+        "site": "kitsu",
+        "id": "1906"
+      },
+      {
+        "site": "livechart",
+        "id": "321"
+      },
+      {
+        "site": "livechart",
+        "id": "4028"
+      },
+      {
+        "site": "livechart",
+        "id": "4104"
+      },
+      {
+        "site": "livechart",
+        "id": "4166"
+      },
+      {
+        "site": "livechart",
+        "id": "4187"
+      },
+      {
+        "site": "livechart",
+        "id": "4199"
+      },
+      {
+        "site": "livechart",
+        "id": "4208"
+      },
+      {
+        "site": "livechart",
+        "id": "4720"
+      },
+      {
+        "site": "livechart",
+        "id": "4723"
+      },
+      {
+        "site": "livechart",
+        "id": "4817"
+      },
+      {
+        "site": "livechart",
+        "id": "4938"
+      },
+      {
+        "site": "livechart",
+        "id": "5000"
+      },
+      {
+        "site": "livechart",
+        "id": "5174"
+      },
+      {
+        "site": "livechart",
+        "id": "5208"
+      },
+      {
+        "site": "livechart",
+        "id": "6598"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2107"
+      },
+      {
+        "site": "notify",
+        "id": "jdZp5KmiR"
+      },
+      {
+        "site": "notify",
+        "id": "lF8LcFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2011,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/69239.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/69239t.jpg",
+    "synonyms": [
+      "ONE PIECE エピソードオブアラバスタ 砂漠の王女と海賊たち",
+      "ONE PIECE エピソードオブアラバスタ 砂漠の王女と海賊たち 特別編",
+      "ONE PIECE: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi",
+      "One Piece: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi Tokubetsu-hen",
+      "One Piece: Episode of Alabasta - Sabaku no Ōjo to Kaizoku-tachi Tokubetsu-hen",
+      "One Piece: The Desert Princess and the Pirates - Adventures in Alabasta Prologue",
+      "劇場版ワンピース エピソードオブアラバスタ"
+    ]
+  },
+  {
+    "title": "MURDER PRINCESS",
+    "titleTranslate": {
+      "zh-Hans": [
+        "杀戮公主"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-03-28T16:00:00.000Z",
+    "end": "2007-08-29T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1265"
+      },
+      {
+        "site": "pptv",
+        "id": "Z9umJIzyYqADgek",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "1787",
+        "begin": "2007-03-27T16:00:00.000Z",
+        "broadcast": "R/2017-06-28T10:02:28.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2007,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/19558.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/19558t.jpg",
+    "synonyms": [
+      "MURDER PRINCESS",
+      "Murder Princess: Princesse & Mercenaire",
+      "Смертоносная принцесса",
+      "まーだーぷりんせす",
+      "マーダー プリンセス",
+      "マーダープリンセス",
+      "杀戮公主",
+      "虐杀姬"
+    ]
+  },
+  {
+    "title": "鉄人28号 白昼の残月",
+    "titleTranslate": {
+      "zh-Hans": [
+        "铁人28号 白昼之残月"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-03-30T16:00:00.000Z",
+    "end": "2007-03-30T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37264"
+      },
+      {
+        "site": "bilibili",
+        "id": "1954",
+        "begin": "2014-05-21T13:59:00.000Z",
+        "broadcast": "R/2014-05-21T13:59:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1670"
+      },
+      {
+        "site": "anilist",
+        "id": "2337"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tetsujin-28-gou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tetsujin-28-gou-1980"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tetsujin-28-gou-2004"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tetsujin-28-gou-fx"
+      },
+      {
+        "site": "anisearch",
+        "id": "369"
+      },
+      {
+        "site": "kitsu",
+        "id": "2117"
+      },
+      {
+        "site": "livechart",
+        "id": "11072"
+      },
+      {
+        "site": "livechart",
+        "id": "11073"
+      },
+      {
+        "site": "livechart",
+        "id": "7054"
+      },
+      {
+        "site": "livechart",
+        "id": "7272"
+      },
+      {
+        "site": "livechart",
+        "id": "7297"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2337"
+      },
+      {
+        "site": "notify",
+        "id": "4u1P5KimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2007,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/27668.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/27668t.jpg",
+    "synonyms": [
+      "Tetsujin #28 - The Lingering Moon of Midday",
+      "Tetsujin #28: The Daytime Moon",
+      "Tetsujin 28-go: Hakuchuu no Zangetsu",
+      "Tetsujin 28-gō: Hakuchū no Zangetsu",
+      "Tetsujin 28: Morning Moon of Midday",
+      "Tetsujin 28: The Lingering Moon of Midday",
+      "Tetsujin28: Morning Moon of Mid-day",
+      "鉄人28号 白昼の残月",
+      "鉄人２８号 白昼の残月"
+    ]
+  }
+]

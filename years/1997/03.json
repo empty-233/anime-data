@@ -1,132 +1,693 @@
-{
-  "title": "神秘の世界エルハザード2",
-  "titleTranslate": {
-    "zh-Hans": [
-      "神秘的世界 EL-HAZARD 2 OVA"
+[
+  {
+    "title": "新世紀エヴァンゲリオン劇場版 シト新生",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新世纪福音战士剧场版 死与新生"
+      ],
+      "en": [
+        "EVANGELION: DEATH (TRUE)²"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-03-15T16:00:00.000Z",
+    "end": "1997-03-15T17:40:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zj65",
+        "begin": "2016-10-31T16:00:43.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "6048"
+      },
+      {
+        "site": "bilibili",
+        "id": "10312",
+        "begin": "1997-03-14T16:00:00.000Z",
+        "broadcast": "R/2017-10-04T10:44:00.000Z/P7D"
+      },
+      {
+        "site": "acfun",
+        "id": "5023297",
+        "begin": "2019-01-07T11:38:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "ef28557461ad11e0bea1",
+        "begin": "2020-05-07T13:40:09.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "81033473",
+        "begin": "2019-06-20T16:00:00.000Z",
+        "broadcast": "R/2019-06-20T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "202"
+      },
+      {
+        "site": "anidb",
+        "id": "22"
+      },
+      {
+        "site": "anilist",
+        "id": "30"
+      },
+      {
+        "site": "anilist",
+        "id": "32"
+      },
+      {
+        "site": "anime-planet",
+        "id": "neon-genesis-evangelion"
+      },
+      {
+        "site": "anime-planet",
+        "id": "neon-genesis-evangelion-the-end-of-evangelion"
+      },
+      {
+        "site": "anisearch",
+        "id": "2877"
+      },
+      {
+        "site": "anisearch",
+        "id": "345"
+      },
+      {
+        "site": "kitsu",
+        "id": "21"
+      },
+      {
+        "site": "livechart",
+        "id": "115"
+      },
+      {
+        "site": "livechart",
+        "id": "11784"
+      },
+      {
+        "site": "livechart",
+        "id": "3243"
+      },
+      {
+        "site": "livechart",
+        "id": "3244"
+      },
+      {
+        "site": "livechart",
+        "id": "3590"
+      },
+      {
+        "site": "livechart",
+        "id": "3633"
+      },
+      {
+        "site": "livechart",
+        "id": "5032"
+      },
+      {
+        "site": "livechart",
+        "id": "6217"
+      },
+      {
+        "site": "livechart",
+        "id": "968"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30"
+      },
+      {
+        "site": "notify",
+        "id": "17npcFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1997,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1993/113122.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1993/113122t.jpg",
+    "synonyms": [
+      "Evangelion - Death",
+      "Evangelion - Death & Rebirth",
+      "Evangelion: Death & Rebirth",
+      "Evangelion: Death (True)",
+      "Evangelion: Death (True)²",
+      "Evangelion: morte e resurrección",
+      "NGE D&R",
+      "NGE DR",
+      "Neon Genesis Evangelion - Death & Rebirth",
+      "Neon Genesis Evangelion - Death and Rebirth",
+      "Neon Genesis Evangelion: Death and Rebirth",
+      "Neon Genesis Evangelion: Surm ja taassünd",
+      "Revival of Evangelion",
+      "Shin Seiki Evangelion Gekijouban: Shi to Shinsei",
+      "Shin Seiki Evangelion Movie: Shi to Shinsei",
+      "Shinseiki Evangelion Gekijouban: Shi to Shinsei",
+      "Shinseiki Evangelion Gekijōban: Shi to Shinsei",
+      "Shinseiki Evangelion: Shi to Shinsei",
+      "edr",
+      "evag movie",
+      "新世紀エヴァンゲリオン劇場版 シト新生",
+      "Θάνατος και Αναγέννηση",
+      "Євангеліон - Смерть & Відродження",
+      "Евангелион: Смерть и Возрождение",
+      "อีวาเกเลี่ยน: จุติภาค",
+      "新世紀エヴァンゲリオン劇場版 シト新生",
+      "新世纪福音战士剧场版 死亡与新生",
+      "新世纪福音战士剧场版：死与新生",
+      "신세기 에반게리온 - 죽음과 재생",
+      "신세기 에반게리온 극장판: 사도신생"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1997-03-20T16:00:00.000Z",
-  "end": "1997-10-24T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "81172"
+  {
+    "title": "ゲゲゲの鬼太郎 おばけナイター",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼太郎 妖怪午夜棒球"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "4031",
-      "begin": "2016-05-20T07:34:00.000Z",
-      "broadcast": "R/2016-05-20T07:34:00.000Z/P7D"
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-03-08T16:00:00.000Z",
+    "end": "1997-03-08T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "211098"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4kld",
+        "begin": "2015-08-11T08:03:32.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "1455"
+      },
+      {
+        "site": "anilist",
+        "id": "7619"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-1968"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-1971"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-1985"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-1996"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-2007"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-2018"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-chisougan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-daikaijuu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-gekitotsu-ijigen-youkai-no-daihanran"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-jigoku-hen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-kitarou-no-yuurei-densha"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-kitarou-tanjou-hen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-movie-1985"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-nippon-bakuretsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-saikyou-youkai-gundan-nihon-jouriku"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-youkai-daisensou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-youkai-japan-rally-3d"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-youkai-tokkyuu-maboroshi-no-kisha"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hakaba-kitarou"
+      },
+      {
+        "site": "anisearch",
+        "id": "1673"
+      },
+      {
+        "site": "kitsu",
+        "id": "7746"
+      },
+      {
+        "site": "livechart",
+        "id": "10454"
+      },
+      {
+        "site": "livechart",
+        "id": "3050"
+      },
+      {
+        "site": "livechart",
+        "id": "6548"
+      },
+      {
+        "site": "livechart",
+        "id": "7176"
+      },
+      {
+        "site": "livechart",
+        "id": "7326"
+      },
+      {
+        "site": "livechart",
+        "id": "7365"
+      },
+      {
+        "site": "livechart",
+        "id": "7979"
+      },
+      {
+        "site": "livechart",
+        "id": "7981"
+      },
+      {
+        "site": "livechart",
+        "id": "8059"
+      },
+      {
+        "site": "livechart",
+        "id": "8082"
+      },
+      {
+        "site": "livechart",
+        "id": "8093"
+      },
+      {
+        "site": "livechart",
+        "id": "8817"
+      },
+      {
+        "site": "livechart",
+        "id": "9113"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5688"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7619"
+      },
+      {
+        "site": "notify",
+        "id": "4xStpKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1997,
+      "month": "03"
     },
-    {
-      "site": "anidb",
-      "id": "207"
-    },
-    {
-      "site": "anidb",
-      "id": "208"
-    },
-    {
-      "site": "anidb",
-      "id": "556"
-    },
-    {
-      "site": "anilist",
-      "id": "115"
-    },
-    {
-      "site": "anilist",
-      "id": "117"
-    },
-    {
-      "site": "anime-planet",
-      "id": "el-hazard-the-alternative-world"
-    },
-    {
-      "site": "anime-planet",
-      "id": "el-hazard-the-magnificent-world"
-    },
-    {
-      "site": "anime-planet",
-      "id": "el-hazard-the-wanderers"
-    },
-    {
-      "site": "anisearch",
-      "id": "2168"
-    },
-    {
-      "site": "anisearch",
-      "id": "301"
-    },
-    {
-      "site": "kitsu",
-      "id": "94"
-    },
-    {
-      "site": "kitsu",
-      "id": "96"
-    },
-    {
-      "site": "livechart",
-      "id": "7549"
-    },
-    {
-      "site": "livechart",
-      "id": "8214"
-    },
-    {
-      "site": "livechart",
-      "id": "8216"
-    },
-    {
-      "site": "myanimelist",
-      "id": "115"
-    },
-    {
-      "site": "myanimelist",
-      "id": "117"
-    },
-    {
-      "site": "notify",
-      "id": "MHxp5KimR"
-    },
-    {
-      "site": "notify",
-      "id": "t0xp5FmmR"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 1997,
-    "month": "03"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/77085.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/77085t.jpg",
+    "synonyms": [
+      "GeGeGe no Kitaro Movie 8: Ghost Nighter",
+      "GeGeGe no Kitaro movie 8: Ghost Nighter",
+      "GeGeGe no Kitarou: Obake Nighter",
+      "Gegege no Kitaro: Obake Nighter",
+      "Gegege no Kitarō: Obake Nighter",
+      "Spooky Kitaro: The Obake Nighter",
+      "ゲゲゲの鬼太郎 おばけナイター",
+      "ゲゲゲの鬼太郎　おばけナイター",
+      "劇場版 ゲゲゲの鬼太郎　おばけナイター"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 4,
-  "picture": "https://cdn.myanimelist.net/images/anime/11/2796.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/11/2796t.jpg",
-  "synonyms": [
-    "EL-HAZARD The Magnificent World 2",
-    "El Hazard - Le monde magnifique 2",
-    "El Hazard 2 - The Magnificent World",
-    "El Hazard 2: The Magnificent World",
-    "El Hazard : La Dernière Nuit",
-    "El Hazard OVA 2",
-    "El Hazard: The Magnificent World 2",
-    "El-Hazard: The Magnificent World 2",
-    "Regreso A El-hazard",
-    "Ritorno a El Hazard",
-    "Ritorno a El-Hazard",
-    "Shinpi no Sekai El Hazard 2",
-    "Shinpi no Sekai El-Hazard 2",
-    "Shinpi no Sekai El-Hazard dai 2 ki",
-    "Shinpi no Sekai Eru Hazaado dai 2 ki",
-    "elhaz2",
-    "Удивительный мир Эль-Хазард OVA-2",
-    "神秘の世界 エルハザード 2",
-    "神秘の世界 エルハザード 第2期",
-    "神秘の世界エルハザード2"
-  ]
-}
+  {
+    "title": "ドラえもん のび太のねじ巻き都市冒険記",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：大雄和发条都市"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-03-08T16:00:00.000Z",
+    "end": "1997-03-08T17:40:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "80952",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "459"
+      },
+      {
+        "site": "pptv",
+        "id": "7qoHhe1TwwFk4ko",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3864",
+        "begin": "1997-03-07T16:00:01.000Z",
+        "broadcast": "R/2016-04-27T08:38:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1078"
+      },
+      {
+        "site": "anilist",
+        "id": "2471"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-1979"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back-1998"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-doraemons-kaitou-dorapan-nazo-no-chousenjou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-doraemons-strange-sweets-strange"
+      },
+      {
+        "site": "anisearch",
+        "id": "540"
+      },
+      {
+        "site": "anisearch",
+        "id": "5634"
+      },
+      {
+        "site": "kitsu",
+        "id": "2389"
+      },
+      {
+        "site": "kitsu",
+        "id": "460"
+      },
+      {
+        "site": "livechart",
+        "id": "12164"
+      },
+      {
+        "site": "livechart",
+        "id": "5614"
+      },
+      {
+        "site": "livechart",
+        "id": "6575"
+      },
+      {
+        "site": "livechart",
+        "id": "6880"
+      },
+      {
+        "site": "livechart",
+        "id": "8740"
+      },
+      {
+        "site": "livechart",
+        "id": "8868"
+      },
+      {
+        "site": "livechart",
+        "id": "8871"
+      },
+      {
+        "site": "livechart",
+        "id": "8877"
+      },
+      {
+        "site": "livechart",
+        "id": "8878"
+      },
+      {
+        "site": "livechart",
+        "id": "8884"
+      },
+      {
+        "site": "livechart",
+        "id": "8897"
+      },
+      {
+        "site": "livechart",
+        "id": "8900"
+      },
+      {
+        "site": "livechart",
+        "id": "8901"
+      },
+      {
+        "site": "livechart",
+        "id": "8902"
+      },
+      {
+        "site": "livechart",
+        "id": "8998"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2471"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2625"
+      },
+      {
+        "site": "notify",
+        "id": "BRto5KimR"
+      },
+      {
+        "site": "notify",
+        "id": "DK2scKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1997,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/72423.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/72423t.jpg",
+    "synonyms": [
+      "Doraemon Movie 18",
+      "Doraemon Movie 18: Nobita's Adventure in Clockwork City",
+      "Doraemon Película 18: Doraemon y la Fábrica de Juguetes",
+      "Doraemon e a Fábrica de Brinquedos",
+      "Doraemon e a fábrica de xoguetes",
+      "Doraemon the Movie: Nobita and the Spiral City",
+      "Doraemon y la fábrica de juguetes",
+      "Doraemon: Nobita and the Spiral City",
+      "Doraemon: Nobita no Nejimaki City Boukenki",
+      "Doraemon: Nobita no Nejimaki Shitei Bouken-ki",
+      "Doraemon: Nobita no Nejimaki Shitei Boukenki",
+      "Doraemon: Nobita no Nejimaki Shitei Bōken-ki",
+      "Doraemon: Nobita no Nejimaki Toshi Boukenki",
+      "Doraemon: Nobita's Adventure in Clockwork City",
+      "Doraemon: Nobita`s Adventure in Clockwork City",
+      "ドラえもん のび太のねじ巻き都市[シティー]冒険記",
+      "ドラえもん のび太のねじ巻き都市冒険記",
+      "哆啦A梦 大雄和发条都市",
+      "映画 ドラえもん のび太のねじ巻き都市[シティー]冒険記"
+    ]
+  },
+  {
+    "title": "神秘の世界エルハザード2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "神秘的世界 EL-HAZARD 2 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-03-20T16:00:00.000Z",
+    "end": "1997-10-24T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "81172"
+      },
+      {
+        "site": "bilibili",
+        "id": "4031",
+        "begin": "2016-05-20T07:34:00.000Z",
+        "broadcast": "R/2016-05-20T07:34:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "207"
+      },
+      {
+        "site": "anidb",
+        "id": "208"
+      },
+      {
+        "site": "anidb",
+        "id": "556"
+      },
+      {
+        "site": "anilist",
+        "id": "115"
+      },
+      {
+        "site": "anilist",
+        "id": "117"
+      },
+      {
+        "site": "anime-planet",
+        "id": "el-hazard-the-alternative-world"
+      },
+      {
+        "site": "anime-planet",
+        "id": "el-hazard-the-magnificent-world"
+      },
+      {
+        "site": "anime-planet",
+        "id": "el-hazard-the-wanderers"
+      },
+      {
+        "site": "anisearch",
+        "id": "2168"
+      },
+      {
+        "site": "anisearch",
+        "id": "301"
+      },
+      {
+        "site": "kitsu",
+        "id": "94"
+      },
+      {
+        "site": "kitsu",
+        "id": "96"
+      },
+      {
+        "site": "livechart",
+        "id": "7549"
+      },
+      {
+        "site": "livechart",
+        "id": "8214"
+      },
+      {
+        "site": "livechart",
+        "id": "8216"
+      },
+      {
+        "site": "myanimelist",
+        "id": "115"
+      },
+      {
+        "site": "myanimelist",
+        "id": "117"
+      },
+      {
+        "site": "notify",
+        "id": "MHxp5KimR"
+      },
+      {
+        "site": "notify",
+        "id": "t0xp5FmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1997,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/2796.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/2796t.jpg",
+    "synonyms": [
+      "EL-HAZARD The Magnificent World 2",
+      "El Hazard - Le monde magnifique 2",
+      "El Hazard 2 - The Magnificent World",
+      "El Hazard 2: The Magnificent World",
+      "El Hazard : La Dernière Nuit",
+      "El Hazard OVA 2",
+      "El Hazard: The Magnificent World 2",
+      "El-Hazard: The Magnificent World 2",
+      "Regreso A El-hazard",
+      "Ritorno a El Hazard",
+      "Ritorno a El-Hazard",
+      "Shinpi no Sekai El Hazard 2",
+      "Shinpi no Sekai El-Hazard 2",
+      "Shinpi no Sekai El-Hazard dai 2 ki",
+      "Shinpi no Sekai Eru Hazaado dai 2 ki",
+      "elhaz2",
+      "Удивительный мир Эль-Хазард OVA-2",
+      "神秘の世界 エルハザード 2",
+      "神秘の世界 エルハザード 第2期",
+      "神秘の世界エルハザード2"
+    ]
+  }
+]

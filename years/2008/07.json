@@ -1,228 +1,2338 @@
-{
-  "title": "GHOST IN THE SHELL / 攻殻機動隊2.0",
-  "titleTranslate": {
-    "zh-Hans": [
-      "攻壳机动队2.0"
+[
+  {
+    "title": "イヴの時間",
+    "titleTranslate": {
+      "zh-Hans": [
+        "夏娃的时间"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://timeofeve.com/",
+    "begin": "2008-07-31T15:00:00.000Z",
+    "end": "2009-09-17T15:25:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "VuDbWcEnl9U4th4",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1760"
+      },
+      {
+        "site": "bilibili",
+        "id": "3339",
+        "begin": "2008-07-31T16:00:01.000Z",
+        "broadcast": "R/2016-02-16T03:20:50.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "5132"
+      },
+      {
+        "site": "anilist",
+        "id": "3167"
+      },
+      {
+        "site": "anime-planet",
+        "id": "time-of-eve"
+      },
+      {
+        "site": "anisearch",
+        "id": "4242"
+      },
+      {
+        "site": "kitsu",
+        "id": "7661"
+      },
+      {
+        "site": "livechart",
+        "id": "3784"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3167"
+      },
+      {
+        "site": "notify",
+        "id": "2Ws5tKmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2010,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/27711.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/27711t.jpg",
+    "synonyms": [
+      "EnJ Movie",
+      "Eve no Jikan - Are you enjoying the time of EVE ? Movie",
+      "Eve no Jikan 1st Season Complete Edition",
+      "Eve no Jikan Gekijouban",
+      "Eve no Jikan Gekijōban",
+      "Eve no Jikan Movie",
+      "Eve's Time",
+      "Eve’s Time",
+      "Evos metas Filmas",
+      "Gekijouban Eve no Jikan",
+      "Time of Eve",
+      "Time of Eve Movie",
+      "Time of Eve: The Movie",
+      "Час Єви",
+      "فیلم زمان عصرگاهی",
+      "いぶのじかん",
+      "イヴの時間",
+      "イヴの時間 劇場版",
+      "夏娃的时间 剧场版"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "2008-07-12T16:00:00.000Z",
-  "end": "2008-07-12T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "10291"
+  {
+    "title": "ひだまりスケッチ×365",
+    "titleTranslate": {
+      "en": [
+        "Hidamari Sketch X 365"
+      ],
+      "zh-Hans": [
+        "向阳素描×365"
+      ]
     },
-    {
-      "site": "letv",
-      "id": "71773",
-      "begin": ""
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/anime/hidamari/2nd/",
+    "begin": "2008-07-03T16:25:00.000Z",
+    "end": "2008-09-25T16:55:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "LnZS0DiaeDkyvLZU",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "330"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hidamari_02",
+        "begin": "2014-12-18T06:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "732",
+        "begin": "2008-07-02T16:00:00.000Z",
+        "broadcast": "R/2013-08-18T06:24:00.000Z/P7D"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhg5atp",
+        "begin": "2018-12-13T07:30:54.000Z"
+      },
+      {
+        "site": "anilist",
+        "id": "3604"
+      },
+      {
+        "site": "anilist",
+        "id": "7062"
+      },
+      {
+        "site": "anisearch",
+        "id": "4621"
+      },
+      {
+        "site": "anisearch",
+        "id": "5551"
+      },
+      {
+        "site": "kitsu",
+        "id": "3137"
+      },
+      {
+        "site": "kitsu",
+        "id": "4856"
+      },
+      {
+        "site": "livechart",
+        "id": "253"
+      },
+      {
+        "site": "livechart",
+        "id": "3993"
+      },
+      {
+        "site": "livechart",
+        "id": "5167"
+      },
+      {
+        "site": "livechart",
+        "id": "5518"
+      },
+      {
+        "site": "livechart",
+        "id": "5552"
+      },
+      {
+        "site": "livechart",
+        "id": "5677"
+      },
+      {
+        "site": "livechart",
+        "id": "6687"
+      },
+      {
+        "site": "livechart",
+        "id": "7864"
+      },
+      {
+        "site": "livechart",
+        "id": "941"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3604"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7062"
+      },
+      {
+        "site": "notify",
+        "id": "Krml5KmmR"
+      },
+      {
+        "site": "notify",
+        "id": "x02RtFmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2009,
+      "month": "07"
     },
-    {
-      "site": "qq",
-      "id": "y/yfkvf60im3q0i2v",
-      "begin": ""
-    },
-    {
-      "site": "anidb",
-      "id": "61"
-    },
-    {
-      "site": "anilist",
-      "id": "43"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-2-innocence"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-arise"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-arise-alternate-architecture"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-arise-another-mission"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-arise-border-less-project-working-high"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-arise-logicoma-specials"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-ghost-chaser"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-individual-eleven"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-nyuumon-arise"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-stand-alone-complex"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-stand-alone-complex-2nd-gig"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-stand-alone-complex-2nd-gig-tachikoma-days"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-stand-alone-complex-individual-eleven-tachikoma-days"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-stand-alone-complex-solid-state-society"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-stand-alone-complex-tachikoma-days"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-stand-alone-complex-the-laughing-man-tachikoma-days"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-standalone-complex-the-laughing-man"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-the-new-movie"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ghost-in-the-shell-uchikomatic-days"
-    },
-    {
-      "site": "anisearch",
-      "id": "2088"
-    },
-    {
-      "site": "anisearch",
-      "id": "2753"
-    },
-    {
-      "site": "kitsu",
-      "id": "25"
-    },
-    {
-      "site": "livechart",
-      "id": "3607"
-    },
-    {
-      "site": "livechart",
-      "id": "3662"
-    },
-    {
-      "site": "livechart",
-      "id": "3767"
-    },
-    {
-      "site": "livechart",
-      "id": "3782"
-    },
-    {
-      "site": "livechart",
-      "id": "3984"
-    },
-    {
-      "site": "livechart",
-      "id": "4823"
-    },
-    {
-      "site": "livechart",
-      "id": "5530"
-    },
-    {
-      "site": "livechart",
-      "id": "5793"
-    },
-    {
-      "site": "livechart",
-      "id": "6022"
-    },
-    {
-      "site": "livechart",
-      "id": "6221"
-    },
-    {
-      "site": "livechart",
-      "id": "6604"
-    },
-    {
-      "site": "livechart",
-      "id": "7133"
-    },
-    {
-      "site": "livechart",
-      "id": "7156"
-    },
-    {
-      "site": "livechart",
-      "id": "7289"
-    },
-    {
-      "site": "livechart",
-      "id": "7353"
-    },
-    {
-      "site": "myanimelist",
-      "id": "43"
-    },
-    {
-      "site": "notify",
-      "id": "8S4t5Kiig"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 2008,
-    "month": "07"
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/17727.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/17727t.jpg",
+    "synonyms": [
+      "Hidamari Sketch x 365 (2009)",
+      "Hidamari Sketch x 365 EX",
+      "Hidamari Sketch × 365 (2009)",
+      "Hidamari Sketch × 365 OVAs",
+      "ひだまりスケッチ× 365 （2009）",
+      "ひだまりスケッチ×365",
+      "ひだまりスケッチ×３６５",
+      "ひだまりスケッチ×３６５ EX",
+      "ひだまりスケッチ×３６５ 特別編"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/3/75608.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/3/75608t.jpg",
-  "synonyms": [
-    "Cidade Assombrada Nova Versão",
-    "Dvasia šarvuose 2.0",
-    "GHOST IN THE SHELL (2008)",
-    "GHOST IN THE SHELL / 攻殻機動隊2.0",
-    "GHOST IN THE SHELL/攻殻機動隊 2.0",
-    "GHOST IN THE SHELL: Koukaku Kidoutai 2.0",
-    "Ghost In The Shell 2.0",
-    "Ghost in the Shell (2008)",
-    "Ghost in the Shell 2.0",
-    "GitS 2.0",
-    "GitS:2.0",
-    "GitSv2",
-    "Kabuktaki Hayalet 2.0",
-    "Kōkaku Kidōtai 2.0",
-    "Дух в стальной плоти 2.0",
-    "Призрак в доспехах 2.0",
-    "ごーすといんざしぇるこうかくきどうたいにてんぜろ",
-    "攻殻機動隊 2.0",
-    "攻殻機動隊2.0",
-    "공각기동대 2.0"
-  ]
-}
+  {
+    "title": "鉄腕バーディー DECODE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "铁腕巴迪 DECODE"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.birdy-tv.com/season01/",
+    "begin": "2008-07-04T16:00:00.000Z",
+    "end": "2008-09-26T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2443"
+      },
+      {
+        "site": "bilibili",
+        "id": "44832",
+        "begin": "2008-07-03T16:00:01.000Z",
+        "broadcast": "R/2018-01-09T04:40:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1945"
+      },
+      {
+        "site": "anidb",
+        "id": "7013"
+      },
+      {
+        "site": "anilist",
+        "id": "5074"
+      },
+      {
+        "site": "anilist",
+        "id": "566"
+      },
+      {
+        "site": "anilist",
+        "id": "6380"
+      },
+      {
+        "site": "anime-planet",
+        "id": "birdy-the-mighty"
+      },
+      {
+        "site": "anime-planet",
+        "id": "birdy-the-mighty-decode-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "birdy-the-mighty-decode-the-cipher"
+      },
+      {
+        "site": "anisearch",
+        "id": "2557"
+      },
+      {
+        "site": "anisearch",
+        "id": "5735"
+      },
+      {
+        "site": "kitsu",
+        "id": "4539"
+      },
+      {
+        "site": "kitsu",
+        "id": "523"
+      },
+      {
+        "site": "livechart",
+        "id": "4305"
+      },
+      {
+        "site": "livechart",
+        "id": "4482"
+      },
+      {
+        "site": "livechart",
+        "id": "4537"
+      },
+      {
+        "site": "myanimelist",
+        "id": "566"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6380"
+      },
+      {
+        "site": "notify",
+        "id": "SNze5FiiR"
+      },
+      {
+        "site": "notify",
+        "id": "XNyTcFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2008,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/1242/95178.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1242/95178t.jpg",
+    "synonyms": [
+      "Birdy",
+      "Birdy TV",
+      "Birdy the Mighty",
+      "Birdy the Mighty Decode",
+      "Birdy the Mighty TV",
+      "Birdy the Mighty: Decode",
+      "Tetsuwan Birdy (2008)",
+      "Tetsuwan Birdy DECODE",
+      "Tetsuwan Birdy Decode 1",
+      "Tetsuwan Birdy: Decode",
+      "birdy decode",
+      "tbd",
+      "tbdecode",
+      "Могучая Берди: Расшифровка",
+      "鉄腕バーディー (2008)",
+      "鉄腕バーディー DECODE",
+      "鐵腕女刑警Decode",
+      "鐵腕女警Decode",
+      "鐵腕巴蒂Decode",
+      "鐵腕巴迪Decode",
+      "铁腕女刑警DECODE",
+      "铁腕巴迪 DECODE"
+    ]
+  },
+  {
+    "title": "スレイヤーズREVOLUTION",
+    "titleTranslate": {
+      "en": [
+        "Slayers Revolution"
+      ],
+      "zh-Hans": [
+        "秀逗魔导士REVOLUTION",
+        "秀逗魔导士 第四季 上"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.starchild.co.jp/special/slayers_revolution/",
+    "begin": "2008-07-02T16:20:00.000Z",
+    "end": "2008-09-24T16:50:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "ibFItqxN56SeKCHA",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "b/boamxckisncwexs",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "11645"
+      },
+      {
+        "site": "bilibili",
+        "id": "1115",
+        "begin": "2012-02-15T18:58:00.000Z",
+        "broadcast": "R/2012-02-15T18:58:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "364"
+      },
+      {
+        "site": "anidb",
+        "id": "6179"
+      },
+      {
+        "site": "anilist",
+        "id": "1172"
+      },
+      {
+        "site": "anilist",
+        "id": "5233"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slayers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slayers-evolution-r"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slayers-excellent"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slayers-gorgeous"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slayers-great"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slayers-next"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slayers-premium"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slayers-return"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slayers-the-book-of-spells"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slayers-the-motion-picture"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slayers-try"
+      },
+      {
+        "site": "anisearch",
+        "id": "3416"
+      },
+      {
+        "site": "anisearch",
+        "id": "5124"
+      },
+      {
+        "site": "kitsu",
+        "id": "1053"
+      },
+      {
+        "site": "kitsu",
+        "id": "4002"
+      },
+      {
+        "site": "livechart",
+        "id": "4050"
+      },
+      {
+        "site": "livechart",
+        "id": "4461"
+      },
+      {
+        "site": "livechart",
+        "id": "4578"
+      },
+      {
+        "site": "livechart",
+        "id": "5109"
+      },
+      {
+        "site": "livechart",
+        "id": "5275"
+      },
+      {
+        "site": "livechart",
+        "id": "5569"
+      },
+      {
+        "site": "livechart",
+        "id": "5582"
+      },
+      {
+        "site": "livechart",
+        "id": "5717"
+      },
+      {
+        "site": "livechart",
+        "id": "5860"
+      },
+      {
+        "site": "livechart",
+        "id": "5991"
+      },
+      {
+        "site": "livechart",
+        "id": "6886"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1172"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5233"
+      },
+      {
+        "site": "notify",
+        "id": "Aq7xcFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "RriC5KmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2008,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/20940.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/20940t.jpg",
+    "synonyms": [
+      "Slay Rev",
+      "Slayers (TV 2008)",
+      "Slayers -A kis boszorkány",
+      "Slayers 4th Season",
+      "Slayers 4th Series",
+      "Slayers REVOLUTION",
+      "Slayers Series 4",
+      "Slayers: A kis boszorkány IV/I",
+      "The Slayers Revolution",
+      "The Slayers: Season 4",
+      "Непобедимите (сезон 4)",
+      "Рубаки Revolution",
+      "すれいやーず",
+      "スレイヤーズ",
+      "スレイヤーズ REVOLUTION",
+      "スレイヤーズ Revolution",
+      "スレイヤーズREVOLUTION",
+      "秀逗魔导士REVOLUTION"
+    ]
+  },
+  {
+    "title": "無限の住人",
+    "titleTranslate": {
+      "en": [
+        "Blade of the Immortal"
+      ],
+      "zh-Hans": [
+        "无限之住人"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://mugen.kc.kodansha.co.jp/",
+    "begin": "2008-07-13T15:00:00.000Z",
+    "end": "2008-12-28T15:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "lr2IBm7URILlY8s",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "492"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mugen_anime",
+        "begin": "2017-06-06T06:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "1230",
+        "begin": "2008-07-12T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "5679"
+      },
+      {
+        "site": "anilist",
+        "id": "4151"
+      },
+      {
+        "site": "anime-planet",
+        "id": "blade-of-the-immortal"
+      },
+      {
+        "site": "anisearch",
+        "id": "4817"
+      },
+      {
+        "site": "kitsu",
+        "id": "3490"
+      },
+      {
+        "site": "livechart",
+        "id": "5045"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4151"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2019,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/1054/110054.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1054/110054t.jpg",
+    "synonyms": [
+      "Blade - A Lâmina do Imortal",
+      "Blade of the Immortal",
+      "Blade of the Immortal (2019)",
+      "Blade of the Immortal (ONA)",
+      "Blade of the Immortal: Immortal",
+      "L'Habitant de L'infini",
+      "L`Habitant de l`infini (2019)",
+      "La Espada del Inmortal",
+      "L’Habitant de l’infini",
+      "Mugen no Juunin",
+      "Mugen no Juunin: IMMORTAL",
+      "Mugen no Jūnin: Immortal",
+      "boti",
+      "muju",
+      "Клинок Бессмертного (2019)",
+      "Клинок безсмертного",
+      "בן אלמוות (2019)",
+      "قاطن الأبدية: الخالد",
+      "无限之住人 -IMMORTAL-",
+      "無限の住人",
+      "無限の住人-IMMORTAL-",
+      "無限住人",
+      "무한의 주인 (2019)"
+    ]
+  },
+  {
+    "title": "夏目友人帳",
+    "titleTranslate": {
+      "zh-Hans": [
+        "夏目友人帐",
+        "夏目友人帐 一"
+      ],
+      "zh-Hant": [
+        "夏目友人帳"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.natsume-anime.jp/",
+    "begin": "2008-07-07T16:00:00.000Z",
+    "end": "2008-09-29T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "AiaIdmwNp2Rd6ibGA",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrk05utd",
+        "begin": "2012-05-24T07:15:26.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "7/7c9fn2twcli73uz",
+        "begin": ""
+      },
+      {
+        "site": "letv",
+        "id": "49393",
+        "begin": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2013/xmyrz1",
+        "begin": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "44660",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "259"
+      },
+      {
+        "site": "nicovideo",
+        "id": "natsume-anime",
+        "begin": "2015-10-01T06:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "1660",
+        "begin": "2008-07-06T16:00:00.000Z",
+        "broadcast": "R/2015-01-22T06:49:00.000Z/P7D"
+      },
+      {
+        "site": "youku",
+        "id": "cc006aec962411de83b1",
+        "begin": "2019-08-08T02:57:13.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "16376",
+        "begin": "2021-06-01T03:00:00.000Z",
+        "broadcast": "R/2021-06-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "10447"
+      },
+      {
+        "site": "anidb",
+        "id": "6185"
+      },
+      {
+        "site": "anilist",
+        "id": "154978"
+      },
+      {
+        "site": "anilist",
+        "id": "5300"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ichiban-kuji-natsume-yuujinchou-nyanko-sensei-to-hana-shirabe"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsume-yuujinchou-itsuka-yuki-no-hi-ni"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-a-day-out-in-hitoyoshi-kuma"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-movie-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-movie-ephemeral-bond"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-nyanko-sensei-and-the-first-errand"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-season-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-season-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-season-4"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-season-5"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-season-6"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zoku-natsume-yuujinchou-3d-nyanko-sensei-gekijou"
+      },
+      {
+        "site": "anisearch",
+        "id": "15600"
+      },
+      {
+        "site": "anisearch",
+        "id": "16908"
+      },
+      {
+        "site": "anisearch",
+        "id": "5078"
+      },
+      {
+        "site": "anisearch",
+        "id": "9030"
+      },
+      {
+        "site": "kitsu",
+        "id": "4044"
+      },
+      {
+        "site": "kitsu",
+        "id": "44338"
+      },
+      {
+        "site": "kitsu",
+        "id": "44866"
+      },
+      {
+        "site": "livechart",
+        "id": "10155"
+      },
+      {
+        "site": "livechart",
+        "id": "1154"
+      },
+      {
+        "site": "livechart",
+        "id": "1220"
+      },
+      {
+        "site": "livechart",
+        "id": "12234"
+      },
+      {
+        "site": "livechart",
+        "id": "2093"
+      },
+      {
+        "site": "livechart",
+        "id": "2481"
+      },
+      {
+        "site": "livechart",
+        "id": "2482"
+      },
+      {
+        "site": "livechart",
+        "id": "255"
+      },
+      {
+        "site": "livechart",
+        "id": "2612"
+      },
+      {
+        "site": "livechart",
+        "id": "2929"
+      },
+      {
+        "site": "livechart",
+        "id": "3401"
+      },
+      {
+        "site": "myanimelist",
+        "id": "48829"
+      },
+      {
+        "site": "myanimelist",
+        "id": "48953"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5300"
+      },
+      {
+        "site": "notify",
+        "id": "kINjcFimg"
+      },
+      {
+        "site": "notify",
+        "id": "lIpDtLdGR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2008,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/1681/108439.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1681/108439t.jpg",
+    "synonyms": [
+      "Hữu Nhân Sổ - Natsume Yuujinchou",
+      "Le Pacte des Yōkai",
+      "Natsume",
+      "Natsume 1",
+      "Natsume Yujin-cho",
+      "Natsume Yujincho",
+      "Natsume Yūjinchō",
+      "Natsume's Book of Friends",
+      "Natsume`s Book of Friends",
+      "Natsume`s Friend Book",
+      "Natsume’s Book of Friends",
+      "O Livro de Amigos de Natsume",
+      "Pakt der Yokai",
+      "Quyển sổ người bạn",
+      "ny",
+      "ny1",
+      "nyc",
+      "Το \"βιβλίο των φίλων\" του Νατσούμε",
+      "Тетрадь дружбы Нацумэ",
+      "کتابِ دوستان ناتسومه",
+      "นัตสึเมะกับบันทึกพิศวง",
+      "なつめゆうじんちょう",
+      "夏目友人帐",
+      "夏目友人帳"
+    ]
+  },
+  {
+    "title": "薬師寺涼子の怪奇事件簿",
+    "titleTranslate": {
+      "en": [
+        "Ryoko's Case File"
+      ],
+      "zh-Hans": [
+        "药师寺凉子怪奇事件簿"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.starchild.co.jp/special/yakushijiryouko/",
+    "begin": "2008-07-05T15:30:00.000Z",
+    "end": "2008-09-27T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "dNeyMJjibbqwPjfU",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "907"
+      },
+      {
+        "site": "bilibili",
+        "id": "1231",
+        "begin": "2008-07-04T16:00:00.000Z",
+        "broadcast": "R/2013-02-17T00:03:00.000Z/P7D"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ryokos-case-file-hamachou-voice-and-fiction"
+      },
+      {
+        "site": "kitsu",
+        "id": "10447"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29837"
+      },
+      {
+        "site": "notify",
+        "id": "wYf8tKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2008,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/75426.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/75426t.jpg",
+    "synonyms": [
+      "Le recueil des faits improbables de Ryoko Yakushiji",
+      "Ryoko's Case File",
+      "Ryoko`s Case File",
+      "Ryoko’s Case Files",
+      "Yakushiji",
+      "Yakushiji Ryoko",
+      "Yakushiji Ryoko no Kaiki Jikenbo",
+      "Yakushiji Ryoko`nun Gizli Dosyaları",
+      "Yakushiji Ryoko`s Strange Case Files",
+      "Yakushiji Ryōko no Kaiki Jikenbo",
+      "ryoko",
+      "Дивні пригоди Якушіджі Рьооко",
+      "Рёко Якусидзи и загадочные преступления",
+      "やくしじりょうこのかいきじけんぼ",
+      "药师寺凉子的奇怪事件簿",
+      "薬師寺涼子の怪奇事件簿"
+    ]
+  },
+  {
+    "title": "乃木坂春香の秘密",
+    "titleTranslate": {
+      "zh-Hans": [
+        "乃木坂春香的秘密"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.nogizaka-haruka.com/",
+    "begin": "2008-07-10T17:00:00.000Z",
+    "end": "2008-09-25T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "762"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nogizaka-haruka",
+        "begin": "2011-10-26T06:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "1062",
+        "begin": "2008-07-09T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "6721"
+      },
+      {
+        "site": "anilist",
+        "id": "6023"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nogizaka-haruka-no-himitsu-finale"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nogizaka-haruka-no-himitsu-purezza"
+      },
+      {
+        "site": "anisearch",
+        "id": "5418"
+      },
+      {
+        "site": "kitsu",
+        "id": "4387"
+      },
+      {
+        "site": "livechart",
+        "id": "1077"
+      },
+      {
+        "site": "livechart",
+        "id": "4038"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6023"
+      },
+      {
+        "site": "notify",
+        "id": "bF53cKmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2008,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/56965.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/56965t.jpg",
+    "synonyms": [
+      "Bí mật của Nogizaka Haruka",
+      "Haruka Nogizaka's Secret",
+      "Haruka Nogizaka`s Secret",
+      "Haruka Nogizaka’s Secret",
+      "Le secret de Haruka Nogizaka",
+      "NHnH",
+      "Secret of Haruka Nogizaki",
+      "Sekret Haruki Nogizaki",
+      "The secret of Haruka Nogizaka",
+      "nogizaka",
+      "Секрет Харуки Ногизаки",
+      "Секрет Харуки Ноґізаки",
+      "ความลับในใจของคุณหนูไอดอล",
+      "のぎざかはるかのひみつ",
+      "乃木坂春香の秘密",
+      "乃木坂春香的秘密"
+    ]
+  },
+  {
+    "title": "ストライクウィッチーズ",
+    "titleTranslate": {
+      "en": [
+        "STRIKE WITCHES"
+      ],
+      "zh-Hans": [
+        "强袭魔女"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://s-witch.cute.or.jp/first/index.html",
+    "begin": "2008-07-03T16:30:00.000Z",
+    "end": "2008-09-18T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "6540",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "698"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch324",
+        "begin": "2010-06-28T15:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "5970"
+      },
+      {
+        "site": "anilist",
+        "id": "3667"
+      },
+      {
+        "site": "anime-planet",
+        "id": "brave-witches"
+      },
+      {
+        "site": "anime-planet",
+        "id": "brave-witches-the-great-petersburg-strategy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "strike-witches"
+      },
+      {
+        "site": "anime-planet",
+        "id": "strike-witches-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "strike-witches-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "strike-witches-operation-victory-arrow"
+      },
+      {
+        "site": "anime-planet",
+        "id": "strike-witches-road-to-berlin"
+      },
+      {
+        "site": "anisearch",
+        "id": "4934"
+      },
+      {
+        "site": "kitsu",
+        "id": "3179"
+      },
+      {
+        "site": "livechart",
+        "id": "10078"
+      },
+      {
+        "site": "livechart",
+        "id": "10135"
+      },
+      {
+        "site": "livechart",
+        "id": "2495"
+      },
+      {
+        "site": "livechart",
+        "id": "276"
+      },
+      {
+        "site": "livechart",
+        "id": "277"
+      },
+      {
+        "site": "livechart",
+        "id": "3379"
+      },
+      {
+        "site": "livechart",
+        "id": "3380"
+      },
+      {
+        "site": "livechart",
+        "id": "3381"
+      },
+      {
+        "site": "livechart",
+        "id": "3382"
+      },
+      {
+        "site": "livechart",
+        "id": "3383"
+      },
+      {
+        "site": "livechart",
+        "id": "612"
+      },
+      {
+        "site": "livechart",
+        "id": "613"
+      },
+      {
+        "site": "livechart",
+        "id": "9480"
+      },
+      {
+        "site": "livechart",
+        "id": "990"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3667"
+      },
+      {
+        "site": "notify",
+        "id": "cpI_5KmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2007,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/82422.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/82422t.jpg",
+    "synonyms": [
+      "Strike Witches",
+      "Штурмовые ведьмы",
+      "すとらいくうぃっちーず",
+      "ストライクウィッチーズ",
+      "机械化少女"
+    ]
+  },
+  {
+    "title": "セキレイ",
+    "titleTranslate": {
+      "en": [
+        "Sekirei"
+      ],
+      "zh-Hans": [
+        "鹡鸰女神",
+        "鶺鴒女神"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.sekirei-tv.com/1st/",
+    "begin": "2008-07-02T14:30:00.000Z",
+    "end": "2008-09-17T15:00:00.000Z",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "e/ekrump5mdasvecx",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "325"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch325",
+        "begin": "2010-06-26T15:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "6793"
+      },
+      {
+        "site": "anilist",
+        "id": "5277"
+      },
+      {
+        "site": "anilist",
+        "id": "5279"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sekirei-my-first-errand"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sekirei-pure-engagement"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sekirei-pure-engagement-special"
+      },
+      {
+        "site": "anisearch",
+        "id": "7219"
+      },
+      {
+        "site": "anisearch",
+        "id": "7850"
+      },
+      {
+        "site": "kitsu",
+        "id": "4029"
+      },
+      {
+        "site": "kitsu",
+        "id": "4031"
+      },
+      {
+        "site": "livechart",
+        "id": "3751"
+      },
+      {
+        "site": "livechart",
+        "id": "4113"
+      },
+      {
+        "site": "livechart",
+        "id": "4241"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5277"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5279"
+      },
+      {
+        "site": "notify",
+        "id": "s5VC5Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "zsVCcKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2008,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/15182.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/15182t.jpg",
+    "synonyms": [
+      "Wagtail",
+      "Перышко",
+      "Сэкирэй",
+      "せきれい",
+      "セキレイ",
+      "鹡鴒计划",
+      "鹡鸰女神",
+      "鹦鹉"
+    ]
+  },
+  {
+    "title": "スケアクロウマン",
+    "titleTranslate": {
+      "en": [
+        "Scarecrowman"
+      ],
+      "zh-Hans": [
+        "稻草男"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.vap.co.jp/scarecrowman/",
+    "begin": "2008-07-03T14:00:00.000Z",
+    "end": "2008-12-25T14:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "QYp29FzCMnDTUbk",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "11877"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2008,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/1414/123121.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1414/123121t.jpg",
+    "synonyms": [
+      "Scarecrow Man",
+      "Scarecrowman The Animation",
+      "すけあくろうまん",
+      "スケアクロウマン"
+    ]
+  },
+  {
+    "title": "恋姫†無双",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恋姬无双"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.maql.co.jp/special/koihime/",
+    "begin": "2008-07-08T17:00:00.000Z",
+    "end": "2008-09-23T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "811"
+      },
+      {
+        "site": "nicovideo",
+        "id": "koihime",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "6400"
+      },
+      {
+        "site": "anilist",
+        "id": "5305"
+      },
+      {
+        "site": "anilist",
+        "id": "6112"
+      },
+      {
+        "site": "anime-planet",
+        "id": "koihime-musou-koihime-flash"
+      },
+      {
+        "site": "anime-planet",
+        "id": "koihime-musou-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shin-koihime-musou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shin-koihime-musou-live-revolution"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shin-koihime-musou-otome-tairan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shin-koihime-musou-otome-tairan-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shin-koihime-musou-otome-tairan-ova-omake"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shin-koihime-musou-ova-omake"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shin-koihime-musou-rival-warlords-vacation-on-a-tropical-island-there-will-also-be-tentacles"
+      },
+      {
+        "site": "anisearch",
+        "id": "5181"
+      },
+      {
+        "site": "anisearch",
+        "id": "5275"
+      },
+      {
+        "site": "kitsu",
+        "id": "4047"
+      },
+      {
+        "site": "kitsu",
+        "id": "4429"
+      },
+      {
+        "site": "kitsu",
+        "id": "7210"
+      },
+      {
+        "site": "livechart",
+        "id": "5003"
+      },
+      {
+        "site": "livechart",
+        "id": "5829"
+      },
+      {
+        "site": "livechart",
+        "id": "6078"
+      },
+      {
+        "site": "livechart",
+        "id": "7036"
+      },
+      {
+        "site": "livechart",
+        "id": "7094"
+      },
+      {
+        "site": "livechart",
+        "id": "7809"
+      },
+      {
+        "site": "livechart",
+        "id": "8417"
+      },
+      {
+        "site": "myanimelist",
+        "id": "15093"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5305"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6112"
+      },
+      {
+        "site": "notify",
+        "id": "0HLdtFiig"
+      },
+      {
+        "site": "notify",
+        "id": "2ENj5KimR"
+      },
+      {
+        "site": "notify",
+        "id": "Bgb35FmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2008,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/20740.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/20740t.jpg",
+    "synonyms": [
+      "Koi-hime Musou",
+      "Koi-hime Musō",
+      "Koihime Musou",
+      "Matchless Love Princess",
+      "Несравненная принцесса любви",
+      "こいひめむそう",
+      "恋姫†夢想",
+      "恋姫†無双",
+      "恋姬无双"
+    ]
+  },
+  {
+    "title": "ネオ アンジェリーク Abyss -Second Age-",
+    "titleTranslate": {
+      "en": [
+        "Neo Angelique Abyss -Second Age-"
+      ],
+      "zh-Hans": [
+        "新安琪莉可 abyss 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.gamecity.ne.jp/neoromance/tv/neo/index.htm",
+    "begin": "2008-07-06T17:00:00.000Z",
+    "end": "2008-09-28T17:42:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "21035"
+      },
+      {
+        "site": "youku",
+        "id": "cc00773a962411de83b1",
+        "begin": "2013-01-31T01:48:14.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "5623"
+      },
+      {
+        "site": "anilist",
+        "id": "3615"
+      },
+      {
+        "site": "anime-planet",
+        "id": "neo-angelique-abyss"
+      },
+      {
+        "site": "anisearch",
+        "id": "4656"
+      },
+      {
+        "site": "kitsu",
+        "id": "3142"
+      },
+      {
+        "site": "livechart",
+        "id": "5326"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3615"
+      },
+      {
+        "site": "notify",
+        "id": "uPW_5Fiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2008,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/27592.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/27592t.jpg",
+    "synonyms": [
+      "NAA2",
+      "NAASA",
+      "ネオ アンジェリーク Abyss -Second Age-",
+      "ネオアンジェリーク Abyss -Second Age-"
+    ]
+  },
+  {
+    "title": "西洋骨董洋菓子店 ～アンティーク～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "西洋古董洋果子店",
+        "西洋古董洋菓子店"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.antique-anime.com/",
+    "begin": "2008-07-03T16:00:00.000Z",
+    "end": "2008-09-18T16:15:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrjp2gfp",
+        "begin": "2014-09-12T06:34:37.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "482"
+      },
+      {
+        "site": "bilibili",
+        "id": "1232",
+        "begin": "2008-07-02T16:00:00.000Z",
+        "broadcast": "R/2012-02-01T16:04:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2008,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1299/133574.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1299/133574t.jpg",
+    "synonyms": [
+      "Antique Bakery",
+      "Seiyou Kottou Yougashiten",
+      "Seiyō Kottō Yōgashiten: Antique",
+      "antique",
+      "西洋 骨董 洋菓子店",
+      "西洋古董果子店",
+      "西洋骨董洋菓子店 ~アンティーク~",
+      "西洋骨董洋菓子店 ～アンティーク～"
+    ]
+  },
+  {
+    "title": "ルパン三世 sweet lost night ～魔法のランプは悪夢の予感～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世 sweet lost night~魔法的神灯是噩梦的预感~",
+        "鲁邦三世： sweet lost night~魔法的神灯是噩梦的预感~"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://lupin-3rd.net/sakuhin_ova.html",
+    "begin": "2008-07-25T16:00:00.000Z",
+    "end": "2008-07-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "84998"
+      },
+      {
+        "site": "pptv",
+        "id": "ibZ32dNxCsvBT0Tk",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3946",
+        "begin": "2021-03-31T15:26:00.000Z",
+        "broadcast": "R/2021-03-31T15:26:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1485"
+      },
+      {
+        "site": "anilist",
+        "id": "1412"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-iii-special-19-the-elusiveness-of-the-fog"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-dead-or-alive"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-dragon-of-doom"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-farewall-to-nostradamus"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-goemons-blood-spray"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-green-vs-red"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-jigens-gravestone"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-legend-of-the-gold-of-babylon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-lupin-family-all-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-4"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-pilot-film"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-return-of-pycal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-secret-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-1-bye-bye-lady-liberty"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-11-the-columbus-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-12-missed-by-a-dollar"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-13-alcatraz-connection"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-14-episode-0-first-contact"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-15-operation-return-the-treasures"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-16-stolen-lupin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-17-angel-tactics"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-18-seven-days-rhapsody"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-2-the-hemingway-papers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-21-lupin-the-third-vs-detective-conan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-22-the-last-job"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-23-blood-seal-of-the-eternal-mermaid"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-24-touhou-kenbunroku-another-page"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-25-princess-of-the-breeze-kakusareta-kuuchuu-toshi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-26-italian-game"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-27-goodbye-partner"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-3-napoleons-dictionary"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-4-from-siberia-with-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-5-voyage-to-danger"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-8-secret-of-the-twilight-gemini"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-9-island-of-assassins"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-speical-10-crisis-in-tokyo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-castle-of-cagliostro"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-first"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-fuma-conspiracy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-mystery-of-mamo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-woman-called-fujiko-mine"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-pursuit-of-harimaos-treasure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-viii-arsene-and-cie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "monkey-majik-lupin-the-third"
+      },
+      {
+        "site": "anisearch",
+        "id": "1138"
+      },
+      {
+        "site": "kitsu",
+        "id": "1265"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1412"
+      },
+      {
+        "site": "notify",
+        "id": "Dnk-5Fmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2008,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/14156.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/14156t.jpg",
+    "synonyms": [
+      "Lupin III - La lamapada di Aladino",
+      "Lupin III - La lampada di Aladino",
+      "Lupin III Special 20: Sweet Lost Night",
+      "Lupin III: La lampada di Aladino",
+      "Lupin III: Sweet Lost Night",
+      "Lupin III: Sweet Lost Night - Magic Lamp's Nightmare Premonition",
+      "Lupin III: Sweet Lost Night - Magic Lamp`s Nightmare Premonition",
+      "Lupin III: Sweet Lost Night ~Magic Lamp's Nightmare Premonition~",
+      "Lupin III: sweet lost night - Mahou no Lamp wa Akumu no Yokan",
+      "Lupin Sansei Special 20",
+      "Lupin Sansei: Sweet Lost Night - Mahou no Lamp wa Akumu no Yokan",
+      "Lupin Sansei: Swēt Lost Night - Mahō no Lamp wa Akumu no Yokan",
+      "Lupin the Third: Sweet Lost Night",
+      "Lupin the Third: Sweet Lost Night - Magic Lamp's Nightmare Premonition",
+      "Люпен Трети: Сладки загубени нощи - магическата лампа на кошмарите",
+      "ルパン三世 sweet lost night ~魔法のランプは悪夢の予感~",
+      "ルパン三世 sweet lost night ～魔法のランプは悪夢の予感～",
+      "ルパン三世　sweet lost night ～魔法のランプは悪夢の予感～",
+      "鲁邦三世 sweet lost night~魔法的神灯是噩梦的预感~"
+    ]
+  },
+  {
+    "title": "タカネの自転車",
+    "titleTranslate": {
+      "zh-Hans": [
+        "高岭的自行车"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.animax.co.jp/feature/index.php?program=NN10000680",
+    "begin": "2008-07-05T16:00:00.000Z",
+    "end": "2008-07-05T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10558"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2008,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/15250.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/15250t.jpg",
+    "synonyms": [
+      "Takane's Bicycle",
+      "Takane`s Bicycle",
+      "Takane’s Bicycle",
+      "Велосипед Таканэ",
+      "たかねのじてんしゃ",
+      "タカネの自転車",
+      "高岭的自行车"
+    ]
+  },
+  {
+    "title": "崖の上のポニョ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "悬崖上的金鱼姬"
+      ],
+      "zh-Hant": [
+        "崖上的波妞",
+        "崖上的波兒"
+      ],
+      "en": [
+        "Ponyo"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.ghibli.jp/ponyo/",
+    "begin": "2008-07-19T16:00:00.000Z",
+    "end": "2008-07-19T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10010645",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "313"
+      },
+      {
+        "site": "netflix",
+        "id": "70106454",
+        "begin": "2020-03-30T16:00:00.000Z",
+        "broadcast": "R/2020-03-30T16:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2008,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1331/138727.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1331/138727t.jpg",
+    "synonyms": [
+      "El secreto de la sirenita",
+      "Küçük Deniz Kızı Ponyo",
+      "Ponyo",
+      "Ponyo - Das grosse Abenteuer am Meer",
+      "Ponyo - Das große Abenteuer am Meer",
+      "Ponyo On A Cliff",
+      "Ponyo ant uolos prie jūros",
+      "Ponyo das verzauberte Goldfischmädchen",
+      "Ponyo en el Acantilado",
+      "Ponyo mäe otsas",
+      "Ponyo na klifie",
+      "Ponyo on the Cliff by the Sea",
+      "Ponyo på klippan vid havet",
+      "Ponyo på klippen ved havet",
+      "Ponyo rantakalliolla",
+      "Ponyo sulla scogliera",
+      "Ponyo sur la Falaise",
+      "Ponyo sur la falaise",
+      "Ponyo y el secreto de la Sirenita",
+      "Ponyo z útesu nad mořem",
+      "Ponyo à Beira-Mar",
+      "Ponyo: Das große Abenteuer am Meer",
+      "Ponyo: Das verzauberte Goldfischmädchen",
+      "Ponyo: Uma Amizade que Veio do Mar",
+      "ponyo",
+      "Πόνιο: Το Κορίτσι του Ωκεανού",
+      "Рыбка Поньо на утесе",
+      "Рыбка Поньо на утёсе",
+      "פוניו על הצוק ליד הים",
+      "بونيو على جرف البحر",
+      "پونیو روی صخره کنار دریا",
+      "โปเนียว ธิดาสมุทรผจญภัย",
+      "がけのうえのぽにょ",
+      "崖の上のポニョ",
+      "崖上的波兒",
+      "崖上的波妞"
+    ]
+  },
+  {
+    "title": "GHOST IN THE SHELL / 攻殻機動隊2.0",
+    "titleTranslate": {
+      "zh-Hans": [
+        "攻壳机动队2.0"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2008-07-12T16:00:00.000Z",
+    "end": "2008-07-12T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10291"
+      },
+      {
+        "site": "letv",
+        "id": "71773",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "y/yfkvf60im3q0i2v",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "61"
+      },
+      {
+        "site": "anilist",
+        "id": "43"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-2-innocence"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-arise"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-arise-alternate-architecture"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-arise-another-mission"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-arise-border-less-project-working-high"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-arise-logicoma-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-ghost-chaser"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-individual-eleven"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-nyuumon-arise"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-2nd-gig"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-2nd-gig-tachikoma-days"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-individual-eleven-tachikoma-days"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-solid-state-society"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-tachikoma-days"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-the-laughing-man-tachikoma-days"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-standalone-complex-the-laughing-man"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-the-new-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-uchikomatic-days"
+      },
+      {
+        "site": "anisearch",
+        "id": "2088"
+      },
+      {
+        "site": "anisearch",
+        "id": "2753"
+      },
+      {
+        "site": "kitsu",
+        "id": "25"
+      },
+      {
+        "site": "livechart",
+        "id": "3607"
+      },
+      {
+        "site": "livechart",
+        "id": "3662"
+      },
+      {
+        "site": "livechart",
+        "id": "3767"
+      },
+      {
+        "site": "livechart",
+        "id": "3782"
+      },
+      {
+        "site": "livechart",
+        "id": "3984"
+      },
+      {
+        "site": "livechart",
+        "id": "4823"
+      },
+      {
+        "site": "livechart",
+        "id": "5530"
+      },
+      {
+        "site": "livechart",
+        "id": "5793"
+      },
+      {
+        "site": "livechart",
+        "id": "6022"
+      },
+      {
+        "site": "livechart",
+        "id": "6221"
+      },
+      {
+        "site": "livechart",
+        "id": "6604"
+      },
+      {
+        "site": "livechart",
+        "id": "7133"
+      },
+      {
+        "site": "livechart",
+        "id": "7156"
+      },
+      {
+        "site": "livechart",
+        "id": "7289"
+      },
+      {
+        "site": "livechart",
+        "id": "7353"
+      },
+      {
+        "site": "myanimelist",
+        "id": "43"
+      },
+      {
+        "site": "notify",
+        "id": "8S4t5Kiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2008,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/75608.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/75608t.jpg",
+    "synonyms": [
+      "Cidade Assombrada Nova Versão",
+      "Dvasia šarvuose 2.0",
+      "GHOST IN THE SHELL (2008)",
+      "GHOST IN THE SHELL / 攻殻機動隊2.0",
+      "GHOST IN THE SHELL/攻殻機動隊 2.0",
+      "GHOST IN THE SHELL: Koukaku Kidoutai 2.0",
+      "Ghost In The Shell 2.0",
+      "Ghost in the Shell (2008)",
+      "Ghost in the Shell 2.0",
+      "GitS 2.0",
+      "GitS:2.0",
+      "GitSv2",
+      "Kabuktaki Hayalet 2.0",
+      "Kōkaku Kidōtai 2.0",
+      "Дух в стальной плоти 2.0",
+      "Призрак в доспехах 2.0",
+      "ごーすといんざしぇるこうかくきどうたいにてんぜろ",
+      "攻殻機動隊 2.0",
+      "攻殻機動隊2.0",
+      "공각기동대 2.0"
+    ]
+  }
+]

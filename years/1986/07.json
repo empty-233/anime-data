@@ -1,106 +1,219 @@
-{
-  "title": "装甲騎兵ボトムズ ビッグバトル",
-  "titleTranslate": {
-    "zh-Hans": [
-      "装甲骑兵 大战"
+[
+  {
+    "title": "スーパーマリオブラザーズ ピーチ姫救出大作戦!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超级马力欧兄弟 拯救桃子公主大作战！"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-07-20T16:00:00.000Z",
+    "end": "1986-07-20T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "184439"
+      },
+      {
+        "site": "letv",
+        "id": "36845",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5569",
+        "begin": "1985-12-31T16:00:01.000Z",
+        "broadcast": "R/2016-09-26T02:13:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "5551"
+      },
+      {
+        "site": "anilist",
+        "id": "145276"
+      },
+      {
+        "site": "anilist",
+        "id": "4389"
+      },
+      {
+        "site": "anime-planet",
+        "id": "amada-anime-series-super-mario-brothers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "super-mario-world-mario-to-yoshi-no-bouken-land"
+      },
+      {
+        "site": "anisearch",
+        "id": "18401"
+      },
+      {
+        "site": "anisearch",
+        "id": "18670"
+      },
+      {
+        "site": "anisearch",
+        "id": "4628"
+      },
+      {
+        "site": "kitsu",
+        "id": "3585"
+      },
+      {
+        "site": "kitsu",
+        "id": "44112"
+      },
+      {
+        "site": "kitsu",
+        "id": "46634"
+      },
+      {
+        "site": "myanimelist",
+        "id": "28717"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42451"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4389"
+      },
+      {
+        "site": "notify",
+        "id": "fyYucKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1986,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1288/97114.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1288/97114t.jpg",
+    "synonyms": [
+      "Super Mario Bros.: The Great Mission to Rescue Princess Peach!",
+      "Super Mario Brothers: Great Mission to Rescue Princess Peach",
+      "Super Mario Brothers: Peach-hime Kyuushutsu Dai Sakusen",
+      "Super Mario Brothers: Peach-hime Kyūshutsu Dai Sakusen",
+      "Super Mario Brothers: The Great Mission to Rescue Princess Peach",
+      "Super Mario Brothers: The Great Mission to Rescue Princess Peach!",
+      "スーパーマリオブラザーズ ピーチひめきゅうしゅつだいさくせん!",
+      "スーパーマリオブラザーズ ピーチ姫救出大作戦!",
+      "スーパーマリオブラザーズ ピーチ姫救出大作戦！",
+      "スーパーマリオブラザーズ　ピーチ姫救出大作戦!"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1986-07-05T16:00:00.000Z",
-  "end": "1986-07-05T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "41732"
+  {
+    "title": "装甲騎兵ボトムズ ビッグバトル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "装甲骑兵 大战"
+      ]
     },
-    {
-      "site": "anidb",
-      "id": "1698"
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-07-05T16:00:00.000Z",
+    "end": "1986-07-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "41732"
+      },
+      {
+        "site": "anidb",
+        "id": "1698"
+      },
+      {
+        "site": "anilist",
+        "id": "2582"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armor-hunter-mellowlink"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-alone-again"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-case-irvine"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-finder"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-pailsen-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-pailsen-files-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-red-shoulder-document-roots-of-treachery"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-the-brilliant-heretic"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-trooper-votoms-the-last-red-shoulder"
+      },
+      {
+        "site": "anime-planet",
+        "id": "armored-tropper-votoms-phantom-arc"
+      },
+      {
+        "site": "anisearch",
+        "id": "2498"
+      },
+      {
+        "site": "kitsu",
+        "id": "2347"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2582"
+      },
+      {
+        "site": "notify",
+        "id": "V1Ny5KmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1986,
+      "month": "07"
     },
-    {
-      "site": "anilist",
-      "id": "2582"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armor-hunter-mellowlink"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-alone-again"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-case-irvine"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-finder"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-pailsen-files"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-pailsen-files-movie"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-red-shoulder-document-roots-of-treachery"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-the-brilliant-heretic"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-trooper-votoms-the-last-red-shoulder"
-    },
-    {
-      "site": "anime-planet",
-      "id": "armored-tropper-votoms-phantom-arc"
-    },
-    {
-      "site": "anisearch",
-      "id": "2498"
-    },
-    {
-      "site": "kitsu",
-      "id": "2347"
-    },
-    {
-      "site": "myanimelist",
-      "id": "2582"
-    },
-    {
-      "site": "notify",
-      "id": "V1Ny5KmiR"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 1986,
-    "month": "07"
-  },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/10/24534.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/10/24534t.jpg",
-  "synonyms": [
-    "Armored Trooper Votoms OVA 3",
-    "Armored Trooper Votoms: Big Battle",
-    "Armored Trooper Votoms: The Big Battle",
-    "Sōkō Kihei Votoms: Big Battle",
-    "Zırhlı Piyade Votoms: Büyük Savaş",
-    "装甲騎兵ボトムズ ビッグバトル",
-    "装甲騎兵ボトムズ　ビッグバトル"
-  ]
-}
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/24534.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/24534t.jpg",
+    "synonyms": [
+      "Armored Trooper Votoms OVA 3",
+      "Armored Trooper Votoms: Big Battle",
+      "Armored Trooper Votoms: The Big Battle",
+      "Sōkō Kihei Votoms: Big Battle",
+      "Zırhlı Piyade Votoms: Büyük Savaş",
+      "装甲騎兵ボトムズ ビッグバトル",
+      "装甲騎兵ボトムズ　ビッグバトル"
+    ]
+  }
+]

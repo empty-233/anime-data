@@ -1,224 +1,979 @@
-{
-  "title": "聖闘士星矢 冥王ハーデス十二宮編",
-  "titleTranslate": {
-    "zh-Hans": [
-      "圣斗士星矢 冥王十二宫编",
-      "圣斗士星矢 冥王哈迪斯十二宫篇"
+[
+  {
+    "title": "出撃！マシンロボレスキュー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机甲露宝",
+        "出击！机器人救援队",
+        "救難小英雄"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.sunrise-inc.co.jp/mrr/",
+    "begin": "2003-01-08T09:00:00.000Z",
+    "end": "2003-12-24T09:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37244"
+      },
+      {
+        "site": "anidb",
+        "id": "965"
+      },
+      {
+        "site": "anime-planet",
+        "id": "leina-wolf-sword-legend"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lightning-trap-leina-and-laika"
+      },
+      {
+        "site": "anime-planet",
+        "id": "machine-robo-revenge-of-chronos"
+      },
+      {
+        "site": "anisearch",
+        "id": "3030"
+      },
+      {
+        "site": "kitsu",
+        "id": "3188"
+      },
+      {
+        "site": "livechart",
+        "id": "12125"
+      },
+      {
+        "site": "livechart",
+        "id": "12126"
+      },
+      {
+        "site": "livechart",
+        "id": "12127"
+      },
+      {
+        "site": "livechart",
+        "id": "7028"
+      },
+      {
+        "site": "myanimelist",
+        "id": "16131"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3676"
+      },
+      {
+        "site": "notify",
+        "id": "ELHlcKmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2003,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 53,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/28127.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/28127t.jpg",
+    "synonyms": [
+      "Machine Robo Rescue",
+      "Sortie!",
+      "Sortie! Machine Robo Rescue",
+      "mrr",
+      "فريق الإنقاذ الآلي",
+      "しゅつげきましんろぼれすきゅー",
+      "出撃! マシンロボレスキュー",
+      "出撃！マシンロボレスキュ",
+      "出撃！マシンロボレスキュー"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "http://www.toei-anim.co.jp/ova/seiya/",
-  "begin": "2003-01-25T16:00:00.000Z",
-  "end": "2003-07-25T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "iqiyi",
-      "id": "a_19rrhb1bux",
-      "begin": "2015-08-14T17:06:44.000Z"
+  {
+    "title": ".hack//黄昏の腕輪伝説",
+    "titleTranslate": {
+      "zh-Hans": [
+        ".hack//黄昏腕轮传说",
+        "黑客黄昏腕轮传说"
+      ]
     },
-    {
-      "site": "bangumi",
-      "id": "593"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.bandaivisual.co.jp/hack_udeden/",
+    "begin": "2003-01-08T15:55:00.000Z",
+    "end": "2003-03-26T16:25:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "GToFgibtRwf9ia4Eg",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "x/xv17e18ydv95v38",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2001"
+      },
+      {
+        "site": "bilibili",
+        "id": "1959",
+        "begin": "2003-01-07T16:00:00.000Z",
+        "broadcast": "R/2017-03-19T06:24:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1135"
+      },
+      {
+        "site": "anidb",
+        "id": "222"
+      },
+      {
+        "site": "anilist",
+        "id": "110286"
+      },
+      {
+        "site": "anilist",
+        "id": "1994"
+      },
+      {
+        "site": "anilist",
+        "id": "299"
+      },
+      {
+        "site": "anilist",
+        "id": "454"
+      },
+      {
+        "site": "anime-planet",
+        "id": "daitai-3-pun-de-wakaru-hack-history"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hack-g-u-returner"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hack-g-u-trilogy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hack-g-u-trilogy-parody"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hack-gift"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hack-liminality"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hack-quantum"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hack-quantum-go-our-chim-chims"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hack-roots"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hack-sign"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hack-sign-intermezzo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hack-sign-unison"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hack-the-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hack-versus-the-thanatos-report"
+      },
+      {
+        "site": "anisearch",
+        "id": "159"
+      },
+      {
+        "site": "anisearch",
+        "id": "2559"
+      },
+      {
+        "site": "anisearch",
+        "id": "3564"
+      },
+      {
+        "site": "anisearch",
+        "id": "7181"
+      },
+      {
+        "site": "kitsu",
+        "id": "1795"
+      },
+      {
+        "site": "kitsu",
+        "id": "30"
+      },
+      {
+        "site": "kitsu",
+        "id": "416"
+      },
+      {
+        "site": "kitsu",
+        "id": "5680"
+      },
+      {
+        "site": "kitsu",
+        "id": "773"
+      },
+      {
+        "site": "livechart",
+        "id": "3828"
+      },
+      {
+        "site": "livechart",
+        "id": "4186"
+      },
+      {
+        "site": "livechart",
+        "id": "4717"
+      },
+      {
+        "site": "livechart",
+        "id": "4721"
+      },
+      {
+        "site": "livechart",
+        "id": "4724"
+      },
+      {
+        "site": "livechart",
+        "id": "5077"
+      },
+      {
+        "site": "livechart",
+        "id": "5128"
+      },
+      {
+        "site": "livechart",
+        "id": "5159"
+      },
+      {
+        "site": "livechart",
+        "id": "5285"
+      },
+      {
+        "site": "livechart",
+        "id": "5416"
+      },
+      {
+        "site": "livechart",
+        "id": "5621"
+      },
+      {
+        "site": "livechart",
+        "id": "5891"
+      },
+      {
+        "site": "livechart",
+        "id": "6496"
+      },
+      {
+        "site": "livechart",
+        "id": "6697"
+      },
+      {
+        "site": "livechart",
+        "id": "7511"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1994"
+      },
+      {
+        "site": "myanimelist",
+        "id": "454"
+      },
+      {
+        "site": "myanimelist",
+        "id": "48"
+      },
+      {
+        "site": "myanimelist",
+        "id": "873"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9332"
+      },
+      {
+        "site": "notify",
+        "id": "FEXWtKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "NKDYcFimg"
+      },
+      {
+        "site": "notify",
+        "id": "srnT5KmmR"
+      },
+      {
+        "site": "notify",
+        "id": "xpIt5Fiig"
+      },
+      {
+        "site": "notify",
+        "id": "z9uA5Fiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2003,
+      "month": "01"
     },
-    {
-      "site": "anidb",
-      "id": "3705"
-    },
-    {
-      "site": "anidb",
-      "id": "826"
-    },
-    {
-      "site": "anilist",
-      "id": "1253"
-    },
-    {
-      "site": "anilist",
-      "id": "1254"
-    },
-    {
-      "site": "anime-planet",
-      "id": "saint-seiya-knights-of-the-zodiac"
-    },
-    {
-      "site": "anime-planet",
-      "id": "saint-seiya-movie-4-warriors-of-the-final-holy-battle"
-    },
-    {
-      "site": "anime-planet",
-      "id": "saint-seiya-movie-5-the-heaven-chapter-overture"
-    },
-    {
-      "site": "anime-planet",
-      "id": "saint-seiya-omega"
-    },
-    {
-      "site": "anime-planet",
-      "id": "saint-seiya-the-hades-chapter-elysion"
-    },
-    {
-      "site": "anime-planet",
-      "id": "saint-seiya-the-hades-chapter-inferno"
-    },
-    {
-      "site": "anime-planet",
-      "id": "saint-seiya-the-hades-chapter-sanctuary-yomigaerishi-gold-saint-tachi-no-shinwa"
-    },
-    {
-      "site": "anime-planet",
-      "id": "saint-seiya-the-lost-canvas-meiou-shinwa"
-    },
-    {
-      "site": "anime-planet",
-      "id": "saint-seiya-the-lost-canvas-meiou-shinwa-2nd-chapter"
-    },
-    {
-      "site": "anisearch",
-      "id": "10239"
-    },
-    {
-      "site": "anisearch",
-      "id": "2108"
-    },
-    {
-      "site": "anisearch",
-      "id": "318"
-    },
-    {
-      "site": "kitsu",
-      "id": "1128"
-    },
-    {
-      "site": "kitsu",
-      "id": "1129"
-    },
-    {
-      "site": "kitsu",
-      "id": "13886"
-    },
-    {
-      "site": "kitsu",
-      "id": "4450"
-    },
-    {
-      "site": "livechart",
-      "id": "1279"
-    },
-    {
-      "site": "livechart",
-      "id": "2464"
-    },
-    {
-      "site": "livechart",
-      "id": "287"
-    },
-    {
-      "site": "livechart",
-      "id": "324"
-    },
-    {
-      "site": "livechart",
-      "id": "4117"
-    },
-    {
-      "site": "livechart",
-      "id": "5236"
-    },
-    {
-      "site": "livechart",
-      "id": "5381"
-    },
-    {
-      "site": "livechart",
-      "id": "5439"
-    },
-    {
-      "site": "livechart",
-      "id": "5586"
-    },
-    {
-      "site": "livechart",
-      "id": "5772"
-    },
-    {
-      "site": "livechart",
-      "id": "5911"
-    },
-    {
-      "site": "livechart",
-      "id": "5931"
-    },
-    {
-      "site": "livechart",
-      "id": "6034"
-    },
-    {
-      "site": "livechart",
-      "id": "6500"
-    },
-    {
-      "site": "livechart",
-      "id": "7696"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1253"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1254"
-    },
-    {
-      "site": "myanimelist",
-      "id": "6154"
-    },
-    {
-      "site": "notify",
-      "id": "HSJb5Fimg"
-    },
-    {
-      "site": "notify",
-      "id": "Uaf35Fmmg"
-    },
-    {
-      "site": "notify",
-      "id": "ZgEI2KmmR"
-    },
-    {
-      "site": "notify",
-      "id": "xm1xcFimg"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 2002,
-    "month": "01"
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/78321.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/78321t.jpg",
+    "synonyms": [
+      ".hack//A Lenda do Bracelete do Crepúsculo",
+      ".hack//Bransoleta Zmierzchu",
+      ".hack//DUSK",
+      ".hack//Legend Of The Twilight",
+      ".hack//Legend of The Twilight",
+      ".hack//Legend of Twilight’s Bracelet",
+      ".hack//Legend of the Twilight",
+      ".hack//Legend of the Twilight Bracelet",
+      ".hack//Udeden",
+      ".hack//黄昏の腕輪伝説",
+      ".хак//Легенда Сумеречного Браслета",
+      ".хак//Легенда о сумеречном браслете",
+      "Hack Udeden",
+      "UdeDen",
+      "dot hack dusk",
+      "hack lotb",
+      "hack tud",
+      "hack: dusk",
+      "hackDUSK",
+      "どっとはっくたそがれのうでわでんせつ"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 13,
-  "picture": "https://cdn.myanimelist.net/images/anime/1182/122016.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1182/122016t.jpg",
-  "synonyms": [
-    "I Cavalieri dello zodiaco: Saint Seiya - Hades",
-    "Les Chevaliers du Zodiaque - Chapitre Hadès - Le Sanctuaire",
-    "Les chevaliers du Zodiaque: Chapitre Hadès, le Sanctuaire",
-    "Los Caballeros Del Zodiaco: Capítulo De Hades - Santuario",
-    "Los Caballeros del Zodiaco - Saga de Hades - Santuario",
-    "Os Cavaleiros do Zodíaco - Hades: A Saga do Santuário",
-    "Saint Seiya - Meiou Hades Juuni Kyuu Hen",
-    "Saint Seiya Hades",
-    "Saint Seiya Los Caballeros del Zodiaco 7 : Hades Santuario",
-    "Saint Seiya: Les Chevaliers du Zodiaque: Chapitre Hadès, Le Sanctuaire",
-    "Saint Seiya: Meiou Hades Juuni Kyuu Hen",
-    "Saint Seiya: Meiō Hades Jūni Kyū Hen",
-    "Saint Seiya: The Hades Chapter - Sanctuary",
-    "Saint Seiya: The Hades Sanctuary Chapter",
-    "Thánh Đấu Sĩ Seiya – Chương Diêm Vương – Thánh địa",
-    "ssh",
-    "เซนต์เซย์ย่า เดอะฮาเดสแชปเตอร์ แซงก์ทัวรี่",
-    "せいんとせいやめいおうはーですじゅうにきゅうへん",
-    "圣斗士星矢 冥王十二宫篇",
-    "聖闘士星矢 冥王ハーデス十二宮編"
-  ]
-}
+  {
+    "title": "らいむいろ戦奇譚",
+    "titleTranslate": {
+      "zh-Hans": [
+        "礼武战奇谭"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.limeiro.com/",
+    "begin": "2003-01-03T00:30:00.000Z",
+    "end": "2003-03-28T01:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37500"
+      },
+      {
+        "site": "anidb",
+        "id": "2119"
+      },
+      {
+        "site": "anidb",
+        "id": "2807"
+      },
+      {
+        "site": "anilist",
+        "id": "2307"
+      },
+      {
+        "site": "anilist",
+        "id": "2308"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lime-iro-ryuukitan-x"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lime-iro-senkitan-nankoku-yume-roman"
+      },
+      {
+        "site": "anisearch",
+        "id": "1552"
+      },
+      {
+        "site": "anisearch",
+        "id": "2178"
+      },
+      {
+        "site": "kitsu",
+        "id": "2089"
+      },
+      {
+        "site": "kitsu",
+        "id": "2090"
+      },
+      {
+        "site": "livechart",
+        "id": "7411"
+      },
+      {
+        "site": "livechart",
+        "id": "8327"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2307"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2308"
+      },
+      {
+        "site": "notify",
+        "id": "RmoEcFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "YnTPcFimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2003,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/75503.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/75503t.jpg",
+    "synonyms": [
+      "LCWT",
+      "Lime-Colored History of War",
+      "Lime-Colored War Tales",
+      "Lime-iro Senkitan: Meiji Nippon",
+      "Lime-iro Senkitan: Meiji Nippon, Otome Sakimorisu.",
+      "Otome Sakimorisu.",
+      "RS",
+      "Raimuiro Senkitan",
+      "Raimuro Senkitan",
+      "らいむいろせんきたん",
+      "らいむいろ戦奇譚",
+      "らいむいろ戦奇譚 明治日本,乙女 防人ス.",
+      "らいむいろ戦奇譚 明治日本、乙女 防人ス。"
+    ]
+  },
+  {
+    "title": "魔法遣いに大切なこと",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法使的条件"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.jcstaff.co.jp/sho-sai/maho-shokai/maho-story.htm",
+    "begin": "2003-01-09T07:00:00.000Z",
+    "end": "2003-03-27T17:37:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "p5Vw7la8LGrNS7M",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3395"
+      },
+      {
+        "site": "bilibili",
+        "id": "1234",
+        "begin": "2003-01-09T16:00:00.000Z",
+        "broadcast": "R/2011-04-01T13:21:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "5830"
+      },
+      {
+        "site": "anilist",
+        "id": "4483"
+      },
+      {
+        "site": "anime-planet",
+        "id": "somedays-dreamers-ii-sora"
+      },
+      {
+        "site": "anisearch",
+        "id": "4818"
+      },
+      {
+        "site": "kitsu",
+        "id": "3636"
+      },
+      {
+        "site": "livechart",
+        "id": "4614"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4483"
+      },
+      {
+        "site": "notify",
+        "id": "xfuucKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2003,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/2597.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/2597t.jpg",
+    "synonyms": [
+      "MTK",
+      "Mahou Tsukai ni Taisetsu na Koto",
+      "Mahō Tsukai ni Taisetsu na Koto",
+      "Someday's Dreamers",
+      "Someday`s Dreamers",
+      "Somedays Dreamers",
+      "What's Important to a Mage",
+      "Yume Mahou",
+      "mtntnk",
+      "mttk",
+      "Важливе для чарівника",
+      "Нечто важное для мага [ТВ-1]",
+      "حالمو في يوم ما",
+      "まほうつかいにたいせつなこと",
+      "魔法使的条件",
+      "魔法使的條件",
+      "魔法遣いに大切なこと"
+    ]
+  },
+  {
+    "title": "ストラトス・フォー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "星空防卫队",
+        "彗星狙击作战"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.stratos4.jp/",
+    "begin": "2003-01-04T15:15:00.000Z",
+    "end": "2003-03-29T15:45:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "DT0Ihu5UxAJl40s",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "10414"
+      },
+      {
+        "site": "anilist",
+        "id": "422"
+      },
+      {
+        "site": "anime-planet",
+        "id": "stratos-4"
+      },
+      {
+        "site": "anime-planet",
+        "id": "stratos-4-advance"
+      },
+      {
+        "site": "anime-planet",
+        "id": "stratos-4-advance-kanketsu-hen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "stratos-4-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "stratos-4-ova-stratos-41-dutch-roll"
+      },
+      {
+        "site": "anisearch",
+        "id": "1623"
+      },
+      {
+        "site": "kitsu",
+        "id": "385"
+      },
+      {
+        "site": "kitsu",
+        "id": "386"
+      },
+      {
+        "site": "livechart",
+        "id": "6961"
+      },
+      {
+        "site": "livechart",
+        "id": "7448"
+      },
+      {
+        "site": "livechart",
+        "id": "7493"
+      },
+      {
+        "site": "livechart",
+        "id": "7574"
+      },
+      {
+        "site": "livechart",
+        "id": "8047"
+      },
+      {
+        "site": "myanimelist",
+        "id": "421"
+      },
+      {
+        "site": "myanimelist",
+        "id": "422"
+      },
+      {
+        "site": "notify",
+        "id": "AmzTcKimR"
+      },
+      {
+        "site": "notify",
+        "id": "Oqgo5KmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2006,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/8374.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/8374t.jpg",
+    "synonyms": [
+      "Stratos 4: Log Book",
+      "すとらとすふぉー",
+      "ストラトス・フォー",
+      "ストラトス・フォー LOG BOOK",
+      "ストラトス・フォー Log Book"
+    ]
+  },
+  {
+    "title": "ななか６／１７",
+    "titleTranslate": {
+      "zh-Hans": [
+        "七华6/17"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.starchild.co.jp/special/nanaka/",
+    "begin": "2003-01-08T16:00:00.000Z",
+    "end": "2003-03-26T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "19521"
+      },
+      {
+        "site": "youku",
+        "id": "060488e0bb3f11e0a046",
+        "begin": "2018-01-22T08:03:19.000Z"
+      },
+      {
+        "site": "anilist",
+        "id": "776"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nanaka-6-17"
+      },
+      {
+        "site": "anisearch",
+        "id": "1334"
+      },
+      {
+        "site": "kitsu",
+        "id": "694"
+      },
+      {
+        "site": "myanimelist",
+        "id": "776"
+      },
+      {
+        "site": "notify",
+        "id": "VpTAcFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2003,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/47051.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/47051t.jpg",
+    "synonyms": [
+      "Nanaka 6/17: Disturbing Nanaka",
+      "Nanaka 6/17: Nanaka the Distraction",
+      "Nanaka 6/17: Ojama na Nanaka",
+      "Nanaka 6/17: Ojamana Nanaka",
+      "Nanaka the Distraction",
+      "ななか6／17 おジャマな ななか",
+      "ななかじゅうななぶんのろく",
+      "ななか６／１７"
+    ]
+  },
+  {
+    "title": "聖闘士星矢 冥王ハーデス十二宮編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圣斗士星矢 冥王十二宫编",
+        "圣斗士星矢 冥王哈迪斯十二宫篇"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/ova/seiya/",
+    "begin": "2003-01-25T16:00:00.000Z",
+    "end": "2003-07-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb1bux",
+        "begin": "2015-08-14T17:06:44.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "593"
+      },
+      {
+        "site": "anidb",
+        "id": "3705"
+      },
+      {
+        "site": "anidb",
+        "id": "826"
+      },
+      {
+        "site": "anilist",
+        "id": "1253"
+      },
+      {
+        "site": "anilist",
+        "id": "1254"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saint-seiya-knights-of-the-zodiac"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saint-seiya-movie-4-warriors-of-the-final-holy-battle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saint-seiya-movie-5-the-heaven-chapter-overture"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saint-seiya-omega"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saint-seiya-the-hades-chapter-elysion"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saint-seiya-the-hades-chapter-inferno"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saint-seiya-the-hades-chapter-sanctuary-yomigaerishi-gold-saint-tachi-no-shinwa"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saint-seiya-the-lost-canvas-meiou-shinwa"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saint-seiya-the-lost-canvas-meiou-shinwa-2nd-chapter"
+      },
+      {
+        "site": "anisearch",
+        "id": "10239"
+      },
+      {
+        "site": "anisearch",
+        "id": "2108"
+      },
+      {
+        "site": "anisearch",
+        "id": "318"
+      },
+      {
+        "site": "kitsu",
+        "id": "1128"
+      },
+      {
+        "site": "kitsu",
+        "id": "1129"
+      },
+      {
+        "site": "kitsu",
+        "id": "13886"
+      },
+      {
+        "site": "kitsu",
+        "id": "4450"
+      },
+      {
+        "site": "livechart",
+        "id": "1279"
+      },
+      {
+        "site": "livechart",
+        "id": "2464"
+      },
+      {
+        "site": "livechart",
+        "id": "287"
+      },
+      {
+        "site": "livechart",
+        "id": "324"
+      },
+      {
+        "site": "livechart",
+        "id": "4117"
+      },
+      {
+        "site": "livechart",
+        "id": "5236"
+      },
+      {
+        "site": "livechart",
+        "id": "5381"
+      },
+      {
+        "site": "livechart",
+        "id": "5439"
+      },
+      {
+        "site": "livechart",
+        "id": "5586"
+      },
+      {
+        "site": "livechart",
+        "id": "5772"
+      },
+      {
+        "site": "livechart",
+        "id": "5911"
+      },
+      {
+        "site": "livechart",
+        "id": "5931"
+      },
+      {
+        "site": "livechart",
+        "id": "6034"
+      },
+      {
+        "site": "livechart",
+        "id": "6500"
+      },
+      {
+        "site": "livechart",
+        "id": "7696"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1253"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1254"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6154"
+      },
+      {
+        "site": "notify",
+        "id": "HSJb5Fimg"
+      },
+      {
+        "site": "notify",
+        "id": "Uaf35Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "ZgEI2KmmR"
+      },
+      {
+        "site": "notify",
+        "id": "xm1xcFimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2002,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/1182/122016.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1182/122016t.jpg",
+    "synonyms": [
+      "I Cavalieri dello zodiaco: Saint Seiya - Hades",
+      "Les Chevaliers du Zodiaque - Chapitre Hadès - Le Sanctuaire",
+      "Les chevaliers du Zodiaque: Chapitre Hadès, le Sanctuaire",
+      "Los Caballeros Del Zodiaco: Capítulo De Hades - Santuario",
+      "Los Caballeros del Zodiaco - Saga de Hades - Santuario",
+      "Os Cavaleiros do Zodíaco - Hades: A Saga do Santuário",
+      "Saint Seiya - Meiou Hades Juuni Kyuu Hen",
+      "Saint Seiya Hades",
+      "Saint Seiya Los Caballeros del Zodiaco 7 : Hades Santuario",
+      "Saint Seiya: Les Chevaliers du Zodiaque: Chapitre Hadès, Le Sanctuaire",
+      "Saint Seiya: Meiou Hades Juuni Kyuu Hen",
+      "Saint Seiya: Meiō Hades Jūni Kyū Hen",
+      "Saint Seiya: The Hades Chapter - Sanctuary",
+      "Saint Seiya: The Hades Sanctuary Chapter",
+      "Thánh Đấu Sĩ Seiya – Chương Diêm Vương – Thánh địa",
+      "ssh",
+      "เซนต์เซย์ย่า เดอะฮาเดสแชปเตอร์ แซงก์ทัวรี่",
+      "せいんとせいやめいおうはーですじゅうにきゅうへん",
+      "圣斗士星矢 冥王十二宫篇",
+      "聖闘士星矢 冥王ハーデス十二宮編"
+    ]
+  }
+]

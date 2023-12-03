@@ -1,152 +1,327 @@
-{
-  "title": "ガンバの冒険",
-  "titleTranslate": {
-    "zh-Hans": [
-      "小老鼠历险记"
+[
+  {
+    "title": "勇者ライディーン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "勇者雷汀"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1975-04-04T16:00:00.000Z",
+    "end": "1976-03-26T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "30170"
+      },
+      {
+        "site": "anidb",
+        "id": "1820"
+      },
+      {
+        "site": "anidb",
+        "id": "4808"
+      },
+      {
+        "site": "anilist",
+        "id": "1693"
+      },
+      {
+        "site": "anilist",
+        "id": "2127"
+      },
+      {
+        "site": "anime-planet",
+        "id": "chouja-raideen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "reideen"
+      },
+      {
+        "site": "anisearch",
+        "id": "3203"
+      },
+      {
+        "site": "kitsu",
+        "id": "1521"
+      },
+      {
+        "site": "kitsu",
+        "id": "1924"
+      },
+      {
+        "site": "livechart",
+        "id": "11132"
+      },
+      {
+        "site": "livechart",
+        "id": "7502"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1693"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2127"
+      },
+      {
+        "site": "notify",
+        "id": "eClYcKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "gSnB5Kiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1975,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 50,
+    "picture": "https://cdn.myanimelist.net/images/anime/1962/119355.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1962/119355t.jpg",
+    "synonyms": [
+      "Brave Raideen",
+      "Il Prode Raideen",
+      "Il prode Raideen",
+      "Raideen",
+      "Reideen the Brave",
+      "Yusha Reideen",
+      "Yūsha Raideen",
+      "ゆうしゃらいでぃーん",
+      "勇者ライディーン",
+      "勇者雷汀"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "http://www.tms-e.com/search/index.php?pdt_no=13",
-  "begin": "1975-04-17T22:00:00.000Z",
-  "end": "1975-09-26T22:30:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "10397"
+  {
+    "title": "ドン・チャック物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "父子情深"
+      ]
     },
-    {
-      "site": "anidb",
-      "id": "11225"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1975-04-05T22:00:00.000Z",
+    "end": "1975-09-27T22:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "165789"
+      },
+      {
+        "site": "anidb",
+        "id": "3376"
+      },
+      {
+        "site": "anilist",
+        "id": "126438"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shin-don-chuck-monogatari"
+      },
+      {
+        "site": "anisearch",
+        "id": "179"
+      },
+      {
+        "site": "kitsu",
+        "id": "9936"
+      },
+      {
+        "site": "myanimelist",
+        "id": "23393"
+      },
+      {
+        "site": "notify",
+        "id": "-pcEtKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1975,
+      "month": "04"
     },
-    {
-      "site": "anidb",
-      "id": "11768"
-    },
-    {
-      "site": "anidb",
-      "id": "3142"
-    },
-    {
-      "site": "anidb",
-      "id": "3947"
-    },
-    {
-      "site": "anilist",
-      "id": "104162"
-    },
-    {
-      "site": "anilist",
-      "id": "108994"
-    },
-    {
-      "site": "anilist",
-      "id": "145480"
-    },
-    {
-      "site": "anilist",
-      "id": "20175"
-    },
-    {
-      "site": "anilist",
-      "id": "7252"
-    },
-    {
-      "site": "anime-planet",
-      "id": "air-bound"
-    },
-    {
-      "site": "anime-planet",
-      "id": "baby-gamba"
-    },
-    {
-      "site": "anime-planet",
-      "id": "bouken-tachi-gamba-to-nanbiki-no-nakama"
-    },
-    {
-      "site": "anime-planet",
-      "id": "gamba-to-kawauso-no-bouken"
-    },
-    {
-      "site": "anisearch",
-      "id": "10498"
-    },
-    {
-      "site": "anisearch",
-      "id": "11921"
-    },
-    {
-      "site": "anisearch",
-      "id": "1464"
-    },
-    {
-      "site": "anisearch",
-      "id": "354"
-    },
-    {
-      "site": "kitsu",
-      "id": "10101"
-    },
-    {
-      "site": "kitsu",
-      "id": "10983"
-    },
-    {
-      "site": "kitsu",
-      "id": "8983"
-    },
-    {
-      "site": "myanimelist",
-      "id": "20175"
-    },
-    {
-      "site": "myanimelist",
-      "id": "28983"
-    },
-    {
-      "site": "myanimelist",
-      "id": "30738"
-    },
-    {
-      "site": "myanimelist",
-      "id": "35710"
-    },
-    {
-      "site": "notify",
-      "id": "2GjltKmmg"
-    },
-    {
-      "site": "notify",
-      "id": "OC8bpKmmg"
-    },
-    {
-      "site": "notify",
-      "id": "yHNytKimR"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 1975,
-    "month": "04"
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/60421.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/60421t.jpg",
+    "synonyms": [
+      "Chack der Biber",
+      "Chuck",
+      "Chuck, der schlaue Biber",
+      "Don Chuck Castoro",
+      "Don Chuck Stories",
+      "Don Chuck castoro",
+      "Le Petit Castor",
+      "Le petit Castor",
+      "der Biber",
+      "Ντακ ο Κάστορας",
+      "ماجراهای دون چاک",
+      "مغامرات سنان",
+      "پسر شجاع",
+      "ドンチャック物語",
+      "ドン・チャック物語"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 26,
-  "picture": "https://cdn.myanimelist.net/images/anime/10/57873.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/10/57873t.jpg",
-  "synonyms": [
-    "Adventure of Gamba",
-    "Adventures of Ganba",
-    "Gamba no Bōken",
-    "Gamba's Adventure",
-    "Ganba no Boken",
-    "Ganba no Bouken",
-    "Las Aventuras de Gamba",
-    "Las aventuras de Gamba",
-    "Le avventure di Gamba",
-    "The Adventures of Gamba",
-    "The Adventures of Ganba",
-    "مغامرات جامبا",
-    "ガンバの冒険",
-    "ガンバの冒險"
-  ]
-}
+  {
+    "title": "ガンバの冒険",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小老鼠历险记"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tms-e.com/search/index.php?pdt_no=13",
+    "begin": "1975-04-17T22:00:00.000Z",
+    "end": "1975-09-26T22:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10397"
+      },
+      {
+        "site": "anidb",
+        "id": "11225"
+      },
+      {
+        "site": "anidb",
+        "id": "11768"
+      },
+      {
+        "site": "anidb",
+        "id": "3142"
+      },
+      {
+        "site": "anidb",
+        "id": "3947"
+      },
+      {
+        "site": "anilist",
+        "id": "104162"
+      },
+      {
+        "site": "anilist",
+        "id": "108994"
+      },
+      {
+        "site": "anilist",
+        "id": "145480"
+      },
+      {
+        "site": "anilist",
+        "id": "20175"
+      },
+      {
+        "site": "anilist",
+        "id": "7252"
+      },
+      {
+        "site": "anime-planet",
+        "id": "air-bound"
+      },
+      {
+        "site": "anime-planet",
+        "id": "baby-gamba"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bouken-tachi-gamba-to-nanbiki-no-nakama"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gamba-to-kawauso-no-bouken"
+      },
+      {
+        "site": "anisearch",
+        "id": "10498"
+      },
+      {
+        "site": "anisearch",
+        "id": "11921"
+      },
+      {
+        "site": "anisearch",
+        "id": "1464"
+      },
+      {
+        "site": "anisearch",
+        "id": "354"
+      },
+      {
+        "site": "kitsu",
+        "id": "10101"
+      },
+      {
+        "site": "kitsu",
+        "id": "10983"
+      },
+      {
+        "site": "kitsu",
+        "id": "8983"
+      },
+      {
+        "site": "myanimelist",
+        "id": "20175"
+      },
+      {
+        "site": "myanimelist",
+        "id": "28983"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30738"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35710"
+      },
+      {
+        "site": "notify",
+        "id": "2GjltKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "OC8bpKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "yHNytKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1975,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/57873.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/57873t.jpg",
+    "synonyms": [
+      "Adventure of Gamba",
+      "Adventures of Ganba",
+      "Gamba no Bōken",
+      "Gamba's Adventure",
+      "Ganba no Boken",
+      "Ganba no Bouken",
+      "Las Aventuras de Gamba",
+      "Las aventuras de Gamba",
+      "Le avventure di Gamba",
+      "The Adventures of Gamba",
+      "The Adventures of Ganba",
+      "مغامرات جامبا",
+      "ガンバの冒険",
+      "ガンバの冒險"
+    ]
+  }
+]

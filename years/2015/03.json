@@ -1,81 +1,1139 @@
-{
-  "title": "グッド・モーニング!!!ドロンジョ",
-  "titleTranslate": {
-    "zh-Hans": [
-      "Good Morning!!! DORONJO",
-      "Doronjo ZIP!"
+[
+  {
+    "title": "ふなっしーのふなふなふな日和",
+    "titleTranslate": {
+      "zh-Hans": [
+        "船梨精摇摇摇日和"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.ntv.co.jp/funaanime/",
+    "begin": "2015-03-29T23:00:00.000Z",
+    "end": "2016-03-29T23:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "127806"
+      },
+      {
+        "site": "nicovideo",
+        "id": "funaanime",
+        "begin": "2015-04-04T03:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "24369576",
+        "begin": "2015-03-29T16:00:00.000Z",
+        "broadcast": "R/2019-03-29T06:40:26.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "129845"
+      },
+      {
+        "site": "anime-planet",
+        "id": "funassyi-to-yukaina-kyoudai"
+      },
+      {
+        "site": "kitsu",
+        "id": "10973"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30556"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35611"
+      },
+      {
+        "site": "notify",
+        "id": "2Rr_pKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2015,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 130,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/76586.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/76586t.jpg",
+    "synonyms": [
+      "Funasshi no Funafunafuna Biyori",
+      "Funasshi no Funafunafuna Hiyori",
+      "Funasshi's Aimless Days",
+      "Funassyi no FunaFunaFuna Biyori",
+      "Funassyi no Funafunafuna Hiyori",
+      "Funassyi's Aimless Days",
+      "ふなっしーのふなふなふな日和",
+      "船梨精摇摇摇日和"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "http://www.tatsunoko.co.jp/works/good-morning-doronjo",
-  "begin": "2015-03-30T16:00:00.000Z",
-  "end": "2016-03-24T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "310445"
+  {
+    "title": "おまかせ！みらくるキャット団",
+    "titleTranslate": {
+      "zh-Hans": [
+        "交给你了玛米塔斯",
+        "交给你了!奇迹猫团"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "131952",
-      "begin": "2018-09-08T03:54:43.000Z",
-      "broadcast": "R/2018-09-08T03:54:43.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.shopro.co.jp/tv/miraclecatdan/",
+    "begin": "2015-03-31T09:45:00.000Z",
+    "end": "2016-02-23T09:55:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "207695"
+      },
+      {
+        "site": "bilibili",
+        "id": "113432",
+        "begin": "2015-03-30T16:00:01.000Z",
+        "broadcast": "R/2018-07-04T03:50:15.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2015,
+      "month": "03"
     },
-    {
-      "site": "anidb",
-      "id": "2504"
-    },
-    {
-      "site": "anime-planet",
-      "id": "mazinger-zip"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ohayou-hakushon-daimaou-zip"
-    },
-    {
-      "site": "anime-planet",
-      "id": "ohayou-ninja-tai-gatchaman-zip"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yatterman-1977"
-    },
-    {
-      "site": "anisearch",
-      "id": "11196"
-    },
-    {
-      "site": "anisearch",
-      "id": "3521"
-    },
-    {
-      "site": "anisearch",
-      "id": "8484"
-    },
-    {
-      "site": "myanimelist",
-      "id": "3008"
-    },
-    {
-      "site": "myanimelist",
-      "id": "38363"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 2015,
-    "month": "03"
+    "status": "FINISHED",
+    "episodes": 32,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/72847.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/72847t.jpg",
+    "synonyms": [
+      "Leave it to Mamitasu",
+      "Omakase Mamitasu",
+      "おまかせ! みらくるキャット団",
+      "おまかせマミタス",
+      "おまかせ！ みらくるキャット団",
+      "おまかせ！みらくるキャット団"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 243,
-  "picture": "https://cdn.myanimelist.net/images/anime/2/76387.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/2/76387t.jpg",
-  "synonyms": [
-    "Doronjo ZIP!",
-    "グッド・モーニング!!!ドロンジョ",
-    "グッド・モーニング！！！ドロンジョ"
-  ]
-}
+  {
+    "title": "わしも-wasimo-(第3シリーズ)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "WASIMO 第三季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www9.nhk.or.jp/anime/wasimo/",
+    "begin": "2015-03-30T09:00:00.000Z",
+    "end": "2015-08-25T09:10:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "183497"
+      },
+      {
+        "site": "bilibili",
+        "id": "5915",
+        "begin": "2015-03-29T16:00:00.000Z",
+        "broadcast": "R/2017-02-06T06:02:50.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "11007"
+      },
+      {
+        "site": "anidb",
+        "id": "12061"
+      },
+      {
+        "site": "anilist",
+        "id": "21048"
+      },
+      {
+        "site": "anilist",
+        "id": "98764"
+      },
+      {
+        "site": "anime-planet",
+        "id": "washimo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "washimo-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "washimo-4"
+      },
+      {
+        "site": "anime-planet",
+        "id": "washimo-5"
+      },
+      {
+        "site": "anime-planet",
+        "id": "washimo-6"
+      },
+      {
+        "site": "anime-planet",
+        "id": "washimo-7"
+      },
+      {
+        "site": "anime-planet",
+        "id": "washimo-8"
+      },
+      {
+        "site": "anime-planet",
+        "id": "washimo-9"
+      },
+      {
+        "site": "anisearch",
+        "id": "10102"
+      },
+      {
+        "site": "anisearch",
+        "id": "11347"
+      },
+      {
+        "site": "kitsu",
+        "id": "10473"
+      },
+      {
+        "site": "kitsu",
+        "id": "12030"
+      },
+      {
+        "site": "livechart",
+        "id": "10479"
+      },
+      {
+        "site": "livechart",
+        "id": "11120"
+      },
+      {
+        "site": "livechart",
+        "id": "1355"
+      },
+      {
+        "site": "livechart",
+        "id": "2144"
+      },
+      {
+        "site": "livechart",
+        "id": "2640"
+      },
+      {
+        "site": "livechart",
+        "id": "3198"
+      },
+      {
+        "site": "livechart",
+        "id": "422"
+      },
+      {
+        "site": "livechart",
+        "id": "9392"
+      },
+      {
+        "site": "livechart",
+        "id": "9857"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29099"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33099"
+      },
+      {
+        "site": "notify",
+        "id": "3GEepKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "BL88tFimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2015,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 44,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/74290.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/74290t.jpg",
+    "synonyms": [
+      "Washimo 3",
+      "Washimo Season 3",
+      "Washimo Third Season",
+      "Wasimo 3",
+      "Wasimo Third Season",
+      "わしも 3",
+      "わしも 第3期",
+      "わしも-wasimo-(第3シリーズ)"
+    ]
+  },
+  {
+    "title": "勇者大冒险",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "zh-Hans",
+    "officialSite": "http://ac.qq.com/event/yzdmx201510/index.html",
+    "begin": "2015-03-31T12:00:00.000Z",
+    "end": "2015-10-30T12:15:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "2542",
+        "begin": "2015-02-28T16:00:00.000Z",
+        "broadcast": "R/2015-03-31T03:24:00.000Z/P7D"
+      },
+      {
+        "site": "pptv",
+        "id": "bsWvLZX7a6kMiavI",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "t/tjcnpm8ju18qojf",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhayff9",
+        "begin": "2015-03-31T04:21:33.000Z"
+      },
+      {
+        "site": "letv",
+        "id": "10008864",
+        "begin": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2015/yzdmx",
+        "begin": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "157132",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "130364"
+      },
+      {
+        "site": "acfun",
+        "id": "5020018",
+        "begin": "2017-11-13T09:27:44.000Z"
+      },
+      {
+        "site": "anilist",
+        "id": "103351"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yong-zhe-da-mao-xian-2nd-season"
+      },
+      {
+        "site": "kitsu",
+        "id": "12614"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33763"
+      },
+      {
+        "site": "notify",
+        "id": "5HvihKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2015,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/81277.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/81277t.jpg",
+    "synonyms": [
+      "Brave Adventure",
+      "Yong Zhe Da Mao Xian",
+      "勇者大冒险"
+    ]
+  },
+  {
+    "title": "ドラえもん のび太の宇宙英雄記",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦 大雄的宇宙英雄记"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄之宇宙英雄記"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://doraeiga.com/2015/",
+    "begin": "2015-03-07T16:00:00.000Z",
+    "end": "2015-03-07T17:40:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10011871",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "108093"
+      },
+      {
+        "site": "bilibili",
+        "id": "3902",
+        "begin": "2015-03-06T16:00:01.000Z",
+        "broadcast": "R/2016-04-28T06:48:00.000Z/P7D"
+      },
+      {
+        "site": "youku",
+        "id": "243f33e40fb711e4b8b7",
+        "begin": "2016-06-23T04:07:10.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "71562",
+        "begin": "2023-03-16T02:00:00.000Z",
+        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "4635"
+      },
+      {
+        "site": "anilist",
+        "id": "8687"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-1979"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-2005"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back-1998"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-doraemons-strange-sweets-strange"
+      },
+      {
+        "site": "anisearch",
+        "id": "3754"
+      },
+      {
+        "site": "livechart",
+        "id": "12164"
+      },
+      {
+        "site": "livechart",
+        "id": "5614"
+      },
+      {
+        "site": "livechart",
+        "id": "6575"
+      },
+      {
+        "site": "livechart",
+        "id": "6880"
+      },
+      {
+        "site": "livechart",
+        "id": "8740"
+      },
+      {
+        "site": "livechart",
+        "id": "8868"
+      },
+      {
+        "site": "livechart",
+        "id": "8871"
+      },
+      {
+        "site": "livechart",
+        "id": "8877"
+      },
+      {
+        "site": "livechart",
+        "id": "8878"
+      },
+      {
+        "site": "livechart",
+        "id": "8884"
+      },
+      {
+        "site": "livechart",
+        "id": "8897"
+      },
+      {
+        "site": "livechart",
+        "id": "8900"
+      },
+      {
+        "site": "livechart",
+        "id": "8901"
+      },
+      {
+        "site": "livechart",
+        "id": "8902"
+      },
+      {
+        "site": "livechart",
+        "id": "8998"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8687"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2015,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/72404.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/72404t.jpg",
+    "synonyms": [
+      "Doraemon Movie 35",
+      "Doraemon Movie 35: Nobita's Space Hero Heroes",
+      "Doraemon Movie 35: Nobita’s Space Hero Record of Space Heroes",
+      "Doraemon The Super Star 2015",
+      "Doraemon il Film: Nobita e gli eroi dello spazio",
+      "Doraemon the Super Star 2015",
+      "Doraemon: Nobita and the Space Heroes",
+      "Doraemon: Nobita no Space Heroes",
+      "Doraemon: Nobita no Uchuu Eiyuuki",
+      "Doraemon: Nobita y los héroes del espacio",
+      "Doraemon: Nobita's Space Hero Record of Space Heroes",
+      "Doraemon: Nobita's Space Heroes",
+      "Doraemon: Nobita`s Space Heroes",
+      "Eiga Doraemon 35",
+      "Eiga Doraemon: Nobita no Space Heroes",
+      "ドラえもん のび太の宇宙英雄記",
+      "映画 ドラえもん のび太の宇宙英雄記",
+      "映画 ドラえもん のび太の宇宙英雄記[スペースヒーローズ]",
+      "映画ドラえもん のび太の宇宙英雄記[スペースヒーローズ]",
+      "电影哆啦A梦 大雄的宇宙英雄记"
+    ]
+  },
+  {
+    "title": "音楽少女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "音乐少女"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://animemirai.jp/ongakushoujo.html",
+    "begin": "2015-03-22T16:00:00.000Z",
+    "end": "2015-03-22T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "QibjEQqoQgL4hnwc",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "108010"
+      },
+      {
+        "site": "anidb",
+        "id": "11102"
+      },
+      {
+        "site": "anilist",
+        "id": "21071"
+      },
+      {
+        "site": "anime-planet",
+        "id": "music-girls-2015"
+      },
+      {
+        "site": "anisearch",
+        "id": "10247"
+      },
+      {
+        "site": "kitsu",
+        "id": "10422"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29511"
+      },
+      {
+        "site": "notify",
+        "id": "yTJUtFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1811/91043.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1811/91043t.jpg",
+    "synonyms": [
+      "Music Girls",
+      "Ongaku Shoujo",
+      "Ongaku Shoujo (2018)",
+      "Ongaku Shoujo Music Girls",
+      "Ongaku Shōjo (2018)",
+      "音乐少女",
+      "音楽少女",
+      "音楽少女 (2018)",
+      "音楽少女 (TV)",
+      "音楽少女 （2018）",
+      "음악소녀 (2018)"
+    ]
+  },
+  {
+    "title": "アキの奏で",
+    "titleTranslate": {
+      "zh-Hans": [
+        "秋之鼓点"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://animemirai.jp/akino.html",
+    "begin": "2015-03-22T16:00:00.000Z",
+    "end": "2015-03-22T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "QibjEQqoQgL4hnwc",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "108012"
+      },
+      {
+        "site": "anilist",
+        "id": "21070"
+      },
+      {
+        "site": "anilist",
+        "id": "21071"
+      },
+      {
+        "site": "anilist",
+        "id": "21072"
+      },
+      {
+        "site": "anisearch",
+        "id": "10246"
+      },
+      {
+        "site": "anisearch",
+        "id": "10247"
+      },
+      {
+        "site": "anisearch",
+        "id": "10248"
+      },
+      {
+        "site": "kitsu",
+        "id": "10394"
+      },
+      {
+        "site": "kitsu",
+        "id": "10407"
+      },
+      {
+        "site": "kitsu",
+        "id": "10422"
+      },
+      {
+        "site": "livechart",
+        "id": "684"
+      },
+      {
+        "site": "livechart",
+        "id": "685"
+      },
+      {
+        "site": "livechart",
+        "id": "686"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29511"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29515"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29517"
+      },
+      {
+        "site": "notify",
+        "id": "2xTUpKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "HCt8tFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "yTJUtFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2015,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1839/123300.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1839/123300t.jpg",
+    "synonyms": [
+      "2015 Young Animator Training Project",
+      "Aki's Music-Playing",
+      "Anime Mirai 2015",
+      "Anime Mirai Project 2015",
+      "Wakate Animator Ikusei Project",
+      "Wakate Animator Ikusei Project 2015",
+      "Young Animator Training Project 2015",
+      "アキの奏で",
+      "秋之鼓点"
+    ]
+  },
+  {
+    "title": "ハッピーカムカム",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机器人妈妈"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://animemirai.jp/happy.html",
+    "begin": "2015-03-22T16:00:00.000Z",
+    "end": "2015-03-22T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "QibjEQqoQgL4hnwc",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "108011"
+      },
+      {
+        "site": "anilist",
+        "id": "21069"
+      },
+      {
+        "site": "anilist",
+        "id": "21071"
+      },
+      {
+        "site": "anilist",
+        "id": "21072"
+      },
+      {
+        "site": "anisearch",
+        "id": "10245"
+      },
+      {
+        "site": "anisearch",
+        "id": "10247"
+      },
+      {
+        "site": "anisearch",
+        "id": "10248"
+      },
+      {
+        "site": "kitsu",
+        "id": "10369"
+      },
+      {
+        "site": "kitsu",
+        "id": "10407"
+      },
+      {
+        "site": "kitsu",
+        "id": "10422"
+      },
+      {
+        "site": "livechart",
+        "id": "683"
+      },
+      {
+        "site": "livechart",
+        "id": "685"
+      },
+      {
+        "site": "livechart",
+        "id": "686"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29511"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29513"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29517"
+      },
+      {
+        "site": "notify",
+        "id": "2xTUpKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "ZPdUpFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "yTJUtFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2015,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/72482.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/72482t.jpg",
+    "synonyms": [
+      "2015 Young Animator Training Project",
+      "Anime Mirai 2015",
+      "Anime Mirai Project 2015",
+      "Happy Come Come",
+      "Happy★ComeCome",
+      "Wakate Animator Ikusei Project",
+      "Wakate Animator Ikusei Project 2015",
+      "Young Animator Training Project 2015",
+      "ハッピーカムカム"
+    ]
+  },
+  {
+    "title": "クミとチューリップ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "红美与郁金香"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://animemirai.jp/kumi.html",
+    "begin": "2015-03-22T16:00:00.000Z",
+    "end": "2015-03-22T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "QibjEQqoQgL4hnwc",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "108009"
+      },
+      {
+        "site": "anilist",
+        "id": "21069"
+      },
+      {
+        "site": "anilist",
+        "id": "21070"
+      },
+      {
+        "site": "anilist",
+        "id": "21071"
+      },
+      {
+        "site": "anisearch",
+        "id": "10245"
+      },
+      {
+        "site": "anisearch",
+        "id": "10246"
+      },
+      {
+        "site": "anisearch",
+        "id": "10247"
+      },
+      {
+        "site": "kitsu",
+        "id": "10369"
+      },
+      {
+        "site": "kitsu",
+        "id": "10394"
+      },
+      {
+        "site": "kitsu",
+        "id": "10422"
+      },
+      {
+        "site": "livechart",
+        "id": "683"
+      },
+      {
+        "site": "livechart",
+        "id": "684"
+      },
+      {
+        "site": "livechart",
+        "id": "685"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29511"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29513"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29515"
+      },
+      {
+        "site": "notify",
+        "id": "HCt8tFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "ZPdUpFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "yTJUtFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2015,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/72483.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/72483t.jpg",
+    "synonyms": [
+      "2015 Young Animator Training Project",
+      "Anime Mirai 2015",
+      "Anime Mirai Project 2015",
+      "Kumi and Tulip",
+      "Wakate Animator Ikusei Project",
+      "Wakate Animator Ikusei Project 2015",
+      "Young Animator Training Project 2015",
+      "クミとチューリップ",
+      "红美与郁金香"
+    ]
+  },
+  {
+    "title": "劇場版 シドニアの騎士",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 希德尼娅的骑士"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.knightsofsidonia.com/",
+    "begin": "2015-03-06T16:00:00.000Z",
+    "end": "2015-03-06T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "118098"
+      },
+      {
+        "site": "nicovideo",
+        "id": "movie-sidonia",
+        "begin": ""
+      },
+      {
+        "site": "pptv",
+        "id": "UPbiaYMguntwicvSU",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "9892"
+      },
+      {
+        "site": "anilist",
+        "id": "19775"
+      },
+      {
+        "site": "anime-planet",
+        "id": "knights-of-sidonia"
+      },
+      {
+        "site": "anime-planet",
+        "id": "knights-of-sidonia-battle-for-planet-nine"
+      },
+      {
+        "site": "anime-planet",
+        "id": "knights-of-sidonia-love-woven-in-the-stars"
+      },
+      {
+        "site": "anisearch",
+        "id": "8876"
+      },
+      {
+        "site": "kitsu",
+        "id": "7768"
+      },
+      {
+        "site": "livechart",
+        "id": "10056"
+      },
+      {
+        "site": "livechart",
+        "id": "155"
+      },
+      {
+        "site": "livechart",
+        "id": "642"
+      },
+      {
+        "site": "myanimelist",
+        "id": "19775"
+      },
+      {
+        "site": "notify",
+        "id": "VrOptKmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2015,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/69369.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/69369t.jpg",
+    "synonyms": [
+      "Gekijouban Sidonia no Kishi",
+      "Gekijōban Sidonia no Kishi",
+      "Knights of Sidonia (Movie)",
+      "Knights of Sidonia Movie",
+      "Knights of Sidonia: The Movie",
+      "gsidki movie",
+      "劇場版 シドニアの騎士",
+      "劇場版「シドニアの騎士」",
+      "극장판 시도니아의 기사"
+    ]
+  },
+  {
+    "title": "グッド・モーニング!!!ドロンジョ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Good Morning!!! DORONJO",
+        "Doronjo ZIP!"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tatsunoko.co.jp/works/good-morning-doronjo",
+    "begin": "2015-03-30T16:00:00.000Z",
+    "end": "2016-03-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "310445"
+      },
+      {
+        "site": "bilibili",
+        "id": "131952",
+        "begin": "2018-09-08T03:54:43.000Z",
+        "broadcast": "R/2018-09-08T03:54:43.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "2504"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mazinger-zip"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ohayou-hakushon-daimaou-zip"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ohayou-ninja-tai-gatchaman-zip"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yatterman-1977"
+      },
+      {
+        "site": "anisearch",
+        "id": "11196"
+      },
+      {
+        "site": "anisearch",
+        "id": "3521"
+      },
+      {
+        "site": "anisearch",
+        "id": "8484"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3008"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38363"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2015,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 243,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/76387.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/76387t.jpg",
+    "synonyms": [
+      "Doronjo ZIP!",
+      "グッド・モーニング!!!ドロンジョ",
+      "グッド・モーニング！！！ドロンジョ"
+    ]
+  }
+]

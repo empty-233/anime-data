@@ -1,112 +1,579 @@
-{
-  "title": "それゆけ! 宇宙戦艦ヤマモト・ヨーコII",
-  "titleTranslate": {
-    "zh-Hans": [
-      "宇宙战舰山本洋子II"
+[
+  {
+    "title": "ルパン三世 ワルサーP38",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世：沃尔特P38"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://lupin-3rd.net/sakuhin_tvsp.html",
+    "begin": "1997-08-01T16:00:00.000Z",
+    "end": "1997-08-01T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "83548"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lupin-3rd-SP",
+        "begin": ""
+      },
+      {
+        "site": "pptv",
+        "id": "ibZ32dNxCsvBT0Tk",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3943",
+        "begin": "1997-07-31T16:00:01.000Z",
+        "broadcast": "R/2021-03-31T13:42:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1485"
+      },
+      {
+        "site": "anilist",
+        "id": "1412"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-iii-special-19-the-elusiveness-of-the-fog"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-dead-or-alive"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-dragon-of-doom"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-farewall-to-nostradamus"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-goemons-blood-spray"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-green-vs-red"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-jigens-gravestone"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-legend-of-the-gold-of-babylon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-lupin-family-all-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-part-4"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-pilot-film"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-return-of-pycal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-secret-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-1-bye-bye-lady-liberty"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-11-the-columbus-files"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-12-missed-by-a-dollar"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-13-alcatraz-connection"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-14-episode-0-first-contact"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-15-operation-return-the-treasures"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-16-stolen-lupin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-17-angel-tactics"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-18-seven-days-rhapsody"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-2-the-hemingway-papers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-20-sweet-lost-night"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-21-lupin-the-third-vs-detective-conan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-22-the-last-job"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-23-blood-seal-of-the-eternal-mermaid"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-24-touhou-kenbunroku-another-page"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-25-princess-of-the-breeze-kakusareta-kuuchuu-toshi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-26-italian-game"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-27-goodbye-partner"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-3-napoleons-dictionary"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-4-from-siberia-with-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-5-voyage-to-danger"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-special-8-secret-of-the-twilight-gemini"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-speical-10-crisis-in-tokyo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-castle-of-cagliostro"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-first"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-fuma-conspiracy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-mystery-of-mamo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-3rd-the-woman-called-fujiko-mine"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-the-pursuit-of-harimaos-treasure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lupin-viii-arsene-and-cie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "monkey-majik-lupin-the-third"
+      },
+      {
+        "site": "anisearch",
+        "id": "1138"
+      },
+      {
+        "site": "kitsu",
+        "id": "1265"
+      },
+      {
+        "site": "livechart",
+        "id": "11512"
+      },
+      {
+        "site": "livechart",
+        "id": "12098"
+      },
+      {
+        "site": "livechart",
+        "id": "12099"
+      },
+      {
+        "site": "livechart",
+        "id": "4165"
+      },
+      {
+        "site": "livechart",
+        "id": "4320"
+      },
+      {
+        "site": "livechart",
+        "id": "5905"
+      },
+      {
+        "site": "livechart",
+        "id": "6281"
+      },
+      {
+        "site": "livechart",
+        "id": "6402"
+      },
+      {
+        "site": "livechart",
+        "id": "6731"
+      },
+      {
+        "site": "livechart",
+        "id": "7324"
+      },
+      {
+        "site": "livechart",
+        "id": "7545"
+      },
+      {
+        "site": "livechart",
+        "id": "7552"
+      },
+      {
+        "site": "livechart",
+        "id": "8223"
+      },
+      {
+        "site": "livechart",
+        "id": "9298"
+      },
+      {
+        "site": "livechart",
+        "id": "9350"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1412"
+      },
+      {
+        "site": "notify",
+        "id": "Dnk-5Fmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1997,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/72201.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/72201t.jpg",
+    "synonyms": [
+      "Lupin III - Nome in codice Tarantola",
+      "Lupin III Special 9: Island of Assassins",
+      "Lupin III: In Memory of the Walther P38",
+      "Lupin III: Island of Assassins",
+      "Lupin III: Nome in codice Tarantola",
+      "Lupin III: Walther P-38",
+      "Lupin Sansei Special 09",
+      "Lupin Sansei: Walther P38 - In Gedenken an die Walther P38",
+      "Lupin Sansei: Walusa P38 - In Gedenken an die Walther P38",
+      "Lupin the 3rd - Island of Assassins",
+      "Lupin the 3rd: Island of Assassins",
+      "Lupin the Third: Island of Assassins",
+      "Rupan Sansei: Walusa P38 - In Gedenken an die Walther P38",
+      "Rupan Sansei: Warusa P38 - In Gedenken an die Walther P38",
+      "Люпен Трети: Уолтър Р-38 - Островът на Убийците",
+      "ルパン三世 ワルサーP38",
+      "ルパン三世『ワルサーP38』",
+      "鲁邦三世：沃尔特P38"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1997-08-05T16:00:00.000Z",
-  "end": "1997-12-21T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "27207"
+  {
+    "title": "B'T-X NEO",
+    "titleTranslate": {
+      "zh-Hans": [
+        "钢铁神兵B'T-X NEO"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "4040",
-      "begin": "2016-05-24T02:33:00.000Z",
-      "broadcast": "R/2016-05-24T02:33:00.000Z/P7D"
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-08-21T16:00:00.000Z",
+    "end": "1998-01-21T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "gsy4Np4EdLIVkics",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "35970"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh8fz5p",
+        "begin": "2017-06-14T16:00:12.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "3861",
+        "begin": "1997-08-20T16:00:01.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "945"
+      },
+      {
+        "site": "anilist",
+        "id": "286"
+      },
+      {
+        "site": "anime-planet",
+        "id": "btx"
+      },
+      {
+        "site": "anisearch",
+        "id": "1774"
+      },
+      {
+        "site": "kitsu",
+        "id": "261"
+      },
+      {
+        "site": "livechart",
+        "id": "5611"
+      },
+      {
+        "site": "myanimelist",
+        "id": "286"
+      },
+      {
+        "site": "notify",
+        "id": "weth5FimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1997,
+      "month": "08"
     },
-    {
-      "site": "anidb",
-      "id": "338"
-    },
-    {
-      "site": "anidb",
-      "id": "340"
-    },
-    {
-      "site": "anilist",
-      "id": "1100"
-    },
-    {
-      "site": "anilist",
-      "id": "1618"
-    },
-    {
-      "site": "anime-planet",
-      "id": "starship-girl-yamamoto-yohko"
-    },
-    {
-      "site": "anime-planet",
-      "id": "starship-girl-yamamoto-yohko-i"
-    },
-    {
-      "site": "anisearch",
-      "id": "1674"
-    },
-    {
-      "site": "anisearch",
-      "id": "3250"
-    },
-    {
-      "site": "kitsu",
-      "id": "1453"
-    },
-    {
-      "site": "kitsu",
-      "id": "985"
-    },
-    {
-      "site": "livechart",
-      "id": "8421"
-    },
-    {
-      "site": "livechart",
-      "id": "8654"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1100"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1618"
-    },
-    {
-      "site": "notify",
-      "id": "PM9J5FmiR"
-    },
-    {
-      "site": "notify",
-      "id": "nKr-5FmmR"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 1997,
-    "month": "08"
+    "status": "FINISHED",
+    "episodes": 14,
+    "picture": "https://cdn.myanimelist.net/images/anime/1040/125857.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1040/125857t.jpg",
+    "synonyms": [
+      "B'T-X NEO",
+      "B'T-X NEO　ビート・エックス ネオ",
+      "B't X Neo",
+      "B't X: Cavalieri alati",
+      "B'tX Neo: B't X Neo",
+      "BTX Neo",
+      "B`T X(ビート・エックス) NEO",
+      "B`t X Neo",
+      "btx neo",
+      "ビート・エックス NEO",
+      "Ｂ’Ｔ　Ｘ（ビート・エックス）　ＮＥＯ"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 3,
-  "picture": "https://cdn.myanimelist.net/images/anime/1390/90154.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1390/90154t.jpg",
-  "synonyms": [
-    "Let's Go! Space Battleship Yamamoto Yohko II",
-    "Sore Yuke! Uchuu Senkan Yamamoto Youko II",
-    "Soreyuke! Uchuu Senkan Yamamoto Yohko II",
-    "Soreyuke! Uchuu Senkan Yamamoto Yooko II",
-    "Soreyuke! Uchū Senkan Yamamoto Yōko II",
-    "Starship Girl Yamamoto Yohko (2)",
-    "Starship Girl Yamamoto Yohko II",
-    "それゆけ! 宇宙戦艦ヤマモト・ヨーコII",
-    "それゆけ!宇宙戦艦ヤマモト・ヨーコⅡ",
-    "それゆけ！宇宙戦艦ヤマモト・ヨーコII",
-    "宇宙战舰山本洋子II",
-    "가자! 우주전함 야마모토 요코 OVA II"
-  ]
-}
+  {
+    "title": "地球が動いた日",
+    "titleTranslate": {
+      "zh-Hans": [
+        "地球变动之日"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-08-09T16:00:00.000Z",
+    "end": "1997-08-09T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37527"
+      },
+      {
+        "site": "bilibili",
+        "id": "3215",
+        "begin": "2015-12-17T02:31:00.000Z",
+        "broadcast": "R/2015-12-17T02:31:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1997,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1943/95714.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1943/95714t.jpg",
+    "synonyms": [
+      "Chikyū ga Ugoita Hi",
+      "The Day the Earth Moved",
+      "The Day the Earth Shook",
+      "地球が動いた日"
+    ]
+  },
+  {
+    "title": "それゆけ! 宇宙戦艦ヤマモト・ヨーコII",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰山本洋子II"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-08-05T16:00:00.000Z",
+    "end": "1997-12-21T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "27207"
+      },
+      {
+        "site": "bilibili",
+        "id": "4040",
+        "begin": "2016-05-24T02:33:00.000Z",
+        "broadcast": "R/2016-05-24T02:33:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "338"
+      },
+      {
+        "site": "anidb",
+        "id": "340"
+      },
+      {
+        "site": "anilist",
+        "id": "1100"
+      },
+      {
+        "site": "anilist",
+        "id": "1618"
+      },
+      {
+        "site": "anime-planet",
+        "id": "starship-girl-yamamoto-yohko"
+      },
+      {
+        "site": "anime-planet",
+        "id": "starship-girl-yamamoto-yohko-i"
+      },
+      {
+        "site": "anisearch",
+        "id": "1674"
+      },
+      {
+        "site": "anisearch",
+        "id": "3250"
+      },
+      {
+        "site": "kitsu",
+        "id": "1453"
+      },
+      {
+        "site": "kitsu",
+        "id": "985"
+      },
+      {
+        "site": "livechart",
+        "id": "8421"
+      },
+      {
+        "site": "livechart",
+        "id": "8654"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1100"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1618"
+      },
+      {
+        "site": "notify",
+        "id": "PM9J5FmiR"
+      },
+      {
+        "site": "notify",
+        "id": "nKr-5FmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1997,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/1390/90154.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1390/90154t.jpg",
+    "synonyms": [
+      "Let's Go! Space Battleship Yamamoto Yohko II",
+      "Sore Yuke! Uchuu Senkan Yamamoto Youko II",
+      "Soreyuke! Uchuu Senkan Yamamoto Yohko II",
+      "Soreyuke! Uchuu Senkan Yamamoto Yooko II",
+      "Soreyuke! Uchū Senkan Yamamoto Yōko II",
+      "Starship Girl Yamamoto Yohko (2)",
+      "Starship Girl Yamamoto Yohko II",
+      "それゆけ! 宇宙戦艦ヤマモト・ヨーコII",
+      "それゆけ!宇宙戦艦ヤマモト・ヨーコⅡ",
+      "それゆけ！宇宙戦艦ヤマモト・ヨーコII",
+      "宇宙战舰山本洋子II",
+      "가자! 우주전함 야마모토 요코 OVA II"
+    ]
+  }
+]

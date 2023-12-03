@@ -1,140 +1,813 @@
-{
-  "title": "弱虫ペダル SPECIAL RIDE",
-  "titleTranslate": {
-    "zh-Hans": [
-      "飙速宅男 OAD"
+[
+  {
+    "title": "斉木楠雄のΨ難",
+    "titleTranslate": {
+      "zh-Hans": [
+        "齐木楠雄的灾难"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2013-08-04T16:00:00.000Z",
+    "end": "2016-05-07T16:25:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "WibbSULgejswvrRU",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "80932"
+      },
+      {
+        "site": "bilibili",
+        "id": "5069",
+        "begin": "2016-07-10T17:35:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "12112"
+      },
+      {
+        "site": "anilist",
+        "id": "21804"
+      },
+      {
+        "site": "anisearch",
+        "id": "11453"
+      },
+      {
+        "site": "kitsu",
+        "id": "12127"
+      },
+      {
+        "site": "livechart",
+        "id": "2181"
+      },
+      {
+        "site": "livechart",
+        "id": "2491"
+      },
+      {
+        "site": "livechart",
+        "id": "3496"
+      },
+      {
+        "site": "livechart",
+        "id": "9391"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33255"
+      },
+      {
+        "site": "notify",
+        "id": "EJWRhKmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2013,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/54195.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/54195t.jpg",
+    "synonyms": [
+      "Saiki Kusuo no Psi Nan",
+      "Saiki Kusuo no Psi-nan",
+      "Saiki Kusuo no Sainan",
+      "Saiki Kusuo no Ψ Nan",
+      "Saiki Kusuo no Ψ-nan",
+      "saiki ona",
+      "saikik ona",
+      "saikikusuo ona",
+      "さいきくすおのさいなん",
+      "斉木楠雄のΨ難",
+      "斉木楠雄のΨ難 (ONA)"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "http://yowapeda.com/",
-  "begin": "2013-08-08T16:00:00.000Z",
-  "end": "2013-08-08T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "80763"
+  {
+    "title": "KY系JCクウキちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "KY系JC小空气"
+      ]
     },
-    {
-      "site": "anidb",
-      "id": "9591"
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2013-08-05T16:00:00.000Z",
+    "end": "2013-09-09T16:05:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "3kslowtx4RibCAGg",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "91454"
+      },
+      {
+        "site": "bilibili",
+        "id": "506",
+        "begin": "2013-08-04T16:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "e8a6753a66ed11e38b3f",
+        "begin": "2013-12-18T06:40:42.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2013,
+      "month": "08"
     },
-    {
-      "site": "anilist",
-      "id": "18179"
-    },
-    {
-      "site": "anime-planet",
-      "id": "chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuuanzen"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yowamushi-pedal"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yowamushi-pedal-glory-line"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yowamushi-pedal-grande-road"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yowamushi-pedal-new-generation"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yowamushi-pedal-re-ride"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yowamushi-pedal-re-road"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yowamushi-pedal-regeneration"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yowamushi-pedal-spare-bike"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yowamushi-pedal-the-movie"
-    },
-    {
-      "site": "anisearch",
-      "id": "8308"
-    },
-    {
-      "site": "kitsu",
-      "id": "7700"
-    },
-    {
-      "site": "livechart",
-      "id": "10928"
-    },
-    {
-      "site": "livechart",
-      "id": "1464"
-    },
-    {
-      "site": "livechart",
-      "id": "1603"
-    },
-    {
-      "site": "livechart",
-      "id": "1864"
-    },
-    {
-      "site": "livechart",
-      "id": "2190"
-    },
-    {
-      "site": "livechart",
-      "id": "2755"
-    },
-    {
-      "site": "livechart",
-      "id": "2784"
-    },
-    {
-      "site": "livechart",
-      "id": "560"
-    },
-    {
-      "site": "livechart",
-      "id": "68"
-    },
-    {
-      "site": "livechart",
-      "id": "700"
-    },
-    {
-      "site": "myanimelist",
-      "id": "18179"
-    },
-    {
-      "site": "notify",
-      "id": "HQ3cpFmiR"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 2013,
-    "month": "08"
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/53135.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/53135t.jpg",
+    "synonyms": [
+      "KY Kei JC Kuuki-chan",
+      "KY Kei JC Kuukichan",
+      "KY Kei JC Kūkichan",
+      "KY系JCクウキちゃん"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1702/135425.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1702/135425t.jpg",
-  "synonyms": [
-    "Yowamushi Pedal OVA",
-    "Yowamushi Pedal: SPECIAL RIDE",
-    "Yowapeda: Special Ride",
-    "弱虫ペダル SPECIAL RIDE",
-    "弱虫ペダル Special Ride"
-  ]
-}
+  {
+    "title": "にじいろ☆プリズムガール",
+    "titleTranslate": {
+      "zh-Hans": [
+        "虹色女孩☆钻石星路"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2013-08-03T16:00:00.000Z",
+    "end": "2013-11-30T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "101474"
+      },
+      {
+        "site": "pptv",
+        "id": "9mtFwyuRATibiaIIg",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "8a3f5880bebe11e3b8b7",
+        "begin": "2014-04-08T03:07:34.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2013,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/58531.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/58531t.jpg",
+    "synonyms": [
+      "Niji-iro Prism Girl",
+      "Rainbow Prism Girl",
+      "にじいろ☆プリズムガール"
+    ]
+  },
+  {
+    "title": "劇場版 薄桜鬼 第一章 京都乱舞",
+    "titleTranslate": {
+      "zh-Hans": [
+        "薄樱鬼 第一章 京都乱舞"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2013-08-24T16:00:00.000Z",
+    "end": "2013-08-24T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "71734"
+      },
+      {
+        "site": "pptv",
+        "id": "T8SwLpb8bKoNiaicM",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3833",
+        "begin": "2013-08-23T16:00:01.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "8f2d018003e311e3a705",
+        "begin": "2014-03-03T13:27:52.000Z"
+      },
+      {
+        "site": "anilist",
+        "id": "13119"
+      },
+      {
+        "site": "anilist",
+        "id": "6895"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hakuouki-a-memory-of-snow-flowers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hakuouki-dawn-of-the-shinsengumi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hakuouki-dawn-of-the-shinsengumi-tokuten-disc"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hakuouki-demon-of-the-fleeting-blossom"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hakuouki-demon-of-the-fleeting-blossom-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hakuouki-movie-2-warrior-spirit-of-the-blue-sky"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hakuouki-otogisoushi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hakuouki-record-of-the-jade-blood"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hakuouki-record-of-the-jade-blood-episode-0"
+      },
+      {
+        "site": "kitsu",
+        "id": "4775"
+      },
+      {
+        "site": "kitsu",
+        "id": "5836"
+      },
+      {
+        "site": "kitsu",
+        "id": "6886"
+      },
+      {
+        "site": "livechart",
+        "id": "1026"
+      },
+      {
+        "site": "livechart",
+        "id": "10672"
+      },
+      {
+        "site": "livechart",
+        "id": "1909"
+      },
+      {
+        "site": "livechart",
+        "id": "2741"
+      },
+      {
+        "site": "livechart",
+        "id": "351"
+      },
+      {
+        "site": "livechart",
+        "id": "4089"
+      },
+      {
+        "site": "livechart",
+        "id": "4739"
+      },
+      {
+        "site": "livechart",
+        "id": "5753"
+      },
+      {
+        "site": "livechart",
+        "id": "5845"
+      },
+      {
+        "site": "livechart",
+        "id": "8091"
+      },
+      {
+        "site": "livechart",
+        "id": "856"
+      },
+      {
+        "site": "livechart",
+        "id": "8948"
+      },
+      {
+        "site": "myanimelist",
+        "id": "13119"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6895"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9723"
+      },
+      {
+        "site": "notify",
+        "id": "SFTMpFiig"
+      },
+      {
+        "site": "notify",
+        "id": "nPmRtKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "p9GDtFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2013,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/49399.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/49399t.jpg",
+    "synonyms": [
+      "HAKUOKI: WILD DANCE OF TOKYO",
+      "Hakuoki - Demon of the Fleeting Blossom FIlm 1: Wild Dance of Kyoto",
+      "Hakuoki - Film 1 : Danse Sanglante à Kyoto",
+      "Hakuoki - Theatrical Version, Chapter 1: Wild Dance of Kyoto",
+      "Hakuoki Movie 1",
+      "Hakuoki ~Demon of the Fleeting Blossom~ Wild Dance of Kyoto",
+      "Hakuoki: Wild Dance of Kyoto",
+      "Hakuouki Movie 1: Wild Dance of Kyoto",
+      "Hakuouki Shinsengumi Kitan Movie 1",
+      "劇場版 薄桜鬼 第一章 京都乱舞"
+    ]
+  },
+  {
+    "title": "劇場版 あの日見た花の名前を僕達はまだ知らない。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 我们仍未知道那天所看见的花的名字。"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.anohana.jp/",
+    "begin": "2013-08-31T16:00:00.000Z",
+    "end": "2013-08-31T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "46213"
+      },
+      {
+        "site": "pptv",
+        "id": "ZiczYVr4klNI1sxs",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "be6f93ac353211e29498",
+        "begin": "2014-03-03T02:20:08.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "8292",
+        "begin": "2013-08-30T16:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "8181"
+      },
+      {
+        "site": "anilist",
+        "id": "9989"
+      },
+      {
+        "site": "anime-planet",
+        "id": "anohana-the-flower-we-saw-that-day"
+      },
+      {
+        "site": "anisearch",
+        "id": "6726"
+      },
+      {
+        "site": "kitsu",
+        "id": "5981"
+      },
+      {
+        "site": "livechart",
+        "id": "1240"
+      },
+      {
+        "site": "livechart",
+        "id": "9194"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9989"
+      },
+      {
+        "site": "notify",
+        "id": "8uWnpKmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2013,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/49993.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/49993t.jpg",
+    "synonyms": [
+      "AnoHana - Die Blume die wir an jenem Tag sahen",
+      "AnoHana Movie",
+      "AnoHana: Die Blume, die Wir an Jenem Tag Sahen der FIlm",
+      "AnoHana: Die Blume, die wir an jenem Tag sahen - The Movie",
+      "AnoHana: Le Film",
+      "AnoHana: The Flower We Saw That Day - The Movie",
+      "AnoHana: The Flower We Saw That Day: The Movie",
+      "Anohana Movie",
+      "Anohana the Movie: The Flower We Saw That Day",
+      "Anohana: The Flower We Saw That Day Movie",
+      "Anohana: The Flower We Saw That Day The Movie",
+      "Gekijouban Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai.",
+      "Gekijouban Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+      "Gekijouban Anohana",
+      "Gekijōban Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai.",
+      "We Still Don't Know the Name of the Flower We Saw That Day. Movie",
+      "anohana -The Flower We Saw That Day The Movie",
+      "anohana: The Flower We Saw That Day The Movie",
+      "ดอกไม้ มิตรภาพ และความทรงจำ เดอะมูฟวี่",
+      "げきじょうばん あのひみたはなのなまえをぼくたちはまだしらない",
+      "剧场版 我们仍未知道那天所看见的花的名字。",
+      "劇場版 あの日見た花の名前を僕達はまだ知らない。",
+      "劇場版 我們仍未知道那天所看見的花名",
+      "劇場版あの日見た花の名前を僕達はまだ知らない.",
+      "劇場版あの日見た花の名前を僕達はまだ知らない。",
+      "未闻花名 剧场版"
+    ]
+  },
+  {
+    "title": "波打際のむろみさん OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "人鱼又上钩 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2013-08-16T16:00:00.000Z",
+    "end": "2013-08-16T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "81386"
+      },
+      {
+        "site": "pptv",
+        "id": "EBnzcdkicrib1QzjY",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "492b76e4086b11e38b3f",
+        "begin": "2013-08-19T02:12:28.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "9479"
+      },
+      {
+        "site": "anilist",
+        "id": "16910"
+      },
+      {
+        "site": "anime-planet",
+        "id": "muromi-san"
+      },
+      {
+        "site": "anisearch",
+        "id": "8153"
+      },
+      {
+        "site": "kitsu",
+        "id": "7549"
+      },
+      {
+        "site": "livechart",
+        "id": "828"
+      },
+      {
+        "site": "myanimelist",
+        "id": "16910"
+      },
+      {
+        "site": "notify",
+        "id": "fPNctKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2013,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/62207.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/62207t.jpg",
+    "synonyms": [
+      "Muromi-san OVA",
+      "Namiuchigiwa no Muromi-san OAD",
+      "Namiuchigiwa no Muromi-san OVA",
+      "Namiuchigiwa no Muromi-san: Pangea Choutairiku no Muromi-san",
+      "波打際のむろみさん OAD",
+      "波打際のむろみさん パンゲア超大陸のむろみさん"
+    ]
+  },
+  {
+    "title": "みなみけ 夏やすみ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "南家三姐妹 夏日假期"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2013-08-06T16:00:00.000Z",
+    "end": "2013-08-06T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "80205"
+      },
+      {
+        "site": "pptv",
+        "id": "F2tV0zuhEUibyMJg",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "4398",
+        "begin": "2013-08-05T16:00:01.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "dee5bcc2009011e3a705",
+        "begin": "2018-12-28T01:58:03.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "9267"
+      },
+      {
+        "site": "anilist",
+        "id": "14511"
+      },
+      {
+        "site": "anime-planet",
+        "id": "minami-ke"
+      },
+      {
+        "site": "anime-planet",
+        "id": "minami-ke-betsubara"
+      },
+      {
+        "site": "anime-planet",
+        "id": "minami-ke-okaeri"
+      },
+      {
+        "site": "anime-planet",
+        "id": "minami-ke-okawari"
+      },
+      {
+        "site": "anime-planet",
+        "id": "minami-ke-omatase"
+      },
+      {
+        "site": "anime-planet",
+        "id": "minami-ke-tadaima"
+      },
+      {
+        "site": "anisearch",
+        "id": "7716"
+      },
+      {
+        "site": "kitsu",
+        "id": "7128"
+      },
+      {
+        "site": "livechart",
+        "id": "1005"
+      },
+      {
+        "site": "livechart",
+        "id": "3696"
+      },
+      {
+        "site": "livechart",
+        "id": "3960"
+      },
+      {
+        "site": "livechart",
+        "id": "3972"
+      },
+      {
+        "site": "livechart",
+        "id": "4203"
+      },
+      {
+        "site": "livechart",
+        "id": "889"
+      },
+      {
+        "site": "myanimelist",
+        "id": "14511"
+      },
+      {
+        "site": "notify",
+        "id": "49IdpKmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2013,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/64505.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/64505t.jpg",
+    "synonyms": [
+      "Minami-ke: Natsuyasumi",
+      "mke7",
+      "みなみけ 夏やすみ"
+    ]
+  },
+  {
+    "title": "弱虫ペダル SPECIAL RIDE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "飙速宅男 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://yowapeda.com/",
+    "begin": "2013-08-08T16:00:00.000Z",
+    "end": "2013-08-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "80763"
+      },
+      {
+        "site": "anidb",
+        "id": "9591"
+      },
+      {
+        "site": "anilist",
+        "id": "18179"
+      },
+      {
+        "site": "anime-planet",
+        "id": "chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuuanzen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-glory-line"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-grande-road"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-new-generation"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-re-ride"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-re-road"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-regeneration"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-spare-bike"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-the-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "8308"
+      },
+      {
+        "site": "kitsu",
+        "id": "7700"
+      },
+      {
+        "site": "livechart",
+        "id": "10928"
+      },
+      {
+        "site": "livechart",
+        "id": "1464"
+      },
+      {
+        "site": "livechart",
+        "id": "1603"
+      },
+      {
+        "site": "livechart",
+        "id": "1864"
+      },
+      {
+        "site": "livechart",
+        "id": "2190"
+      },
+      {
+        "site": "livechart",
+        "id": "2755"
+      },
+      {
+        "site": "livechart",
+        "id": "2784"
+      },
+      {
+        "site": "livechart",
+        "id": "560"
+      },
+      {
+        "site": "livechart",
+        "id": "68"
+      },
+      {
+        "site": "livechart",
+        "id": "700"
+      },
+      {
+        "site": "myanimelist",
+        "id": "18179"
+      },
+      {
+        "site": "notify",
+        "id": "HQ3cpFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2013,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1702/135425.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1702/135425t.jpg",
+    "synonyms": [
+      "Yowamushi Pedal OVA",
+      "Yowamushi Pedal: SPECIAL RIDE",
+      "Yowapeda: Special Ride",
+      "弱虫ペダル SPECIAL RIDE",
+      "弱虫ペダル Special Ride"
+    ]
+  }
+]

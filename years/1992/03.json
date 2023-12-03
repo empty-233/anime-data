@@ -1,178 +1,759 @@
-{
-  "title": "ドラえもん のび太と雲の王国",
-  "titleTranslate": {
-    "zh-Hans": [
-      "哆啦A梦：大雄与云之王国"
+[
+  {
+    "title": "美少女戦士セーラームーン",
+    "titleTranslate": {
+      "en": [
+        "Sailor Moon"
+      ],
+      "zh-Hans": [
+        "美少女战士"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://sailormoon.channel.or.jp/",
+    "begin": "1992-03-07T16:00:00.000Z",
+    "end": "1993-02-27T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb1359",
+        "begin": "2015-08-14T17:05:28.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "1510"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sailormoon",
+        "begin": "2014-07-11T15:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "2539"
+      },
+      {
+        "site": "anidb",
+        "id": "9306"
+      },
+      {
+        "site": "anilist",
+        "id": "14751"
+      },
+      {
+        "site": "anilist",
+        "id": "740"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bishoujo-senshi-sailor-moon-cosmos-movie-1"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bishoujo-senshi-sailor-moon-cosmos-movie-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "momoiro-clover-z-moon-pride"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-guardian-sailor-moon-crystal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-guardian-sailor-moon-crystal-2016"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-guardian-sailor-moon-eternal-movie-1"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-memorial"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-r"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-r-make-up-sailor-guardians"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-r-memorial"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-r-the-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-s"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-s-memorial"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-s-the-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-sailor-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-sailor-stars-hero-club"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-sailor-stars-memorial"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-super-s"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-super-s-memorial"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-super-s-plus-amis-first-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-super-s-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sailor-moon-super-s-the-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "2110"
+      },
+      {
+        "site": "anisearch",
+        "id": "7836"
+      },
+      {
+        "site": "anisearch",
+        "id": "8627"
+      },
+      {
+        "site": "kitsu",
+        "id": "42395"
+      },
+      {
+        "site": "kitsu",
+        "id": "5477"
+      },
+      {
+        "site": "kitsu",
+        "id": "664"
+      },
+      {
+        "site": "kitsu",
+        "id": "7163"
+      },
+      {
+        "site": "livechart",
+        "id": "113"
+      },
+      {
+        "site": "livechart",
+        "id": "1845"
+      },
+      {
+        "site": "livechart",
+        "id": "2521"
+      },
+      {
+        "site": "livechart",
+        "id": "4684"
+      },
+      {
+        "site": "livechart",
+        "id": "4962"
+      },
+      {
+        "site": "livechart",
+        "id": "5112"
+      },
+      {
+        "site": "livechart",
+        "id": "5146"
+      },
+      {
+        "site": "livechart",
+        "id": "5684"
+      },
+      {
+        "site": "livechart",
+        "id": "6265"
+      },
+      {
+        "site": "livechart",
+        "id": "6665"
+      },
+      {
+        "site": "livechart",
+        "id": "6794"
+      },
+      {
+        "site": "livechart",
+        "id": "7224"
+      },
+      {
+        "site": "livechart",
+        "id": "7436"
+      },
+      {
+        "site": "livechart",
+        "id": "7590"
+      },
+      {
+        "site": "livechart",
+        "id": "7867"
+      },
+      {
+        "site": "myanimelist",
+        "id": "14751"
+      },
+      {
+        "site": "myanimelist",
+        "id": "740"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8756"
+      },
+      {
+        "site": "notify",
+        "id": "6HRZtFiig"
+      },
+      {
+        "site": "notify",
+        "id": "IAF05Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "TOtdpFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "xHJsZ8UWR"
+      }
     ],
-    "zh-Hant": [
-      "電影 哆啦A夢 大雄與雲之王國"
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1992,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 46,
+    "picture": "https://cdn.myanimelist.net/images/anime/1440/92258.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1440/92258t.jpg",
+    "synonyms": [
+      "Ay Savaşçısı",
+      "Bishōjo Senshi Sailor Moon",
+      "Czarodziejka z Księżyca",
+      "Lua Navegante",
+      "Mjesečeva ratnica",
+      "Mėnulio Jūreivės",
+      "Navegante da Lua",
+      "Pretty Guardian Sailor Moon",
+      "Pretty Soldier Sailor Moon",
+      "SM",
+      "Sailor Moon",
+      "Sailor Moon - Czarodziejka z Księżyca",
+      "Sailor Moon - Das Mädchen mit den Zauberkräften",
+      "Sailor Moon Classic",
+      "Sailor Moon Season 1",
+      "Sailor Moon: Das Mädchen mit den Zauberkräften",
+      "Sailor Moon: Het meisje met de macht van de maannevel",
+      "SailorMoon",
+      "Sailormoon",
+      "Sailormoon: Het meisje met de macht van de maannevel",
+      "Varázslatos álmok",
+      "bssm",
+      "sm1",
+      "Красавица-воин Сейлор Мун",
+      "Сейлор Мун",
+      "Сейлормун",
+      "Сейлормун: луна в матроске",
+      "Сейлър Муун",
+      "סיילור מון",
+      "بحار القمر",
+      "جنگنده زیبا، سیلرمون",
+      "เซเลอร์มูน",
+      "びしょうじょせんしせーらーむーん",
+      "美少女战士",
+      "美少女戦士セーラームーン",
+      "달의 요정 세일러문",
+      "미소녀 전사 세일러문",
+      "세일러문"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1992-03-07T16:00:00.000Z",
-  "end": "1992-03-07T17:40:00.000Z",
-  "sites": [
-    {
-      "site": "letv",
-      "id": "80878",
-      "begin": ""
+  {
+    "title": "ドラゴンボールZ 激突!!100億パワーの戦士たち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙珠Z 一百亿能量战士们"
+      ]
     },
-    {
-      "site": "bangumi",
-      "id": "451"
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-03-07T16:00:00.000Z",
+    "end": "1992-03-07T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "45391"
+      },
+      {
+        "site": "nicovideo",
+        "id": "DBZ_gekitotsu",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4015",
+        "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "1045"
+      },
+      {
+        "site": "anilist",
+        "id": "138864"
+      },
+      {
+        "site": "anilist",
+        "id": "813"
+      },
+      {
+        "site": "anilist",
+        "id": "898"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-episode-of-bardock"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-plan-to-destroy-the-saiyajin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-yo-the-return-of-son-goku-and-friends"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-atsumare-goku-world"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-battle-of-gods"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-kai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-kai-bring-peace-to-the-future-gokus-spirit-is-eternal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-kai-the-final-chapters"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-1-dead-zone"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-10-broly-second-coming"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-11-bio-broly"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-12-fusion-reborn"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-13-wrath-of-the-dragon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-15-resurrection-f"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-2-the-world-s-strongest"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-3-the-tree-of-might"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-4-lord-slug"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-5-cooler-s-revenge"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-7-super-android-13"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-8-broly-the-legendary-super-saiyan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-9-bojack-unbound"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-plan-to-destroy-the-saiyajin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-special-1-bardock-the-father-of-goku"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-special-2-the-history-of-trunks"
+      },
+      {
+        "site": "anisearch",
+        "id": "2466"
+      },
+      {
+        "site": "kitsu",
+        "id": "720"
+      },
+      {
+        "site": "kitsu",
+        "id": "798"
+      },
+      {
+        "site": "livechart",
+        "id": "3632"
+      },
+      {
+        "site": "livechart",
+        "id": "4152"
+      },
+      {
+        "site": "livechart",
+        "id": "4206"
+      },
+      {
+        "site": "livechart",
+        "id": "4219"
+      },
+      {
+        "site": "livechart",
+        "id": "4264"
+      },
+      {
+        "site": "livechart",
+        "id": "4268"
+      },
+      {
+        "site": "livechart",
+        "id": "4287"
+      },
+      {
+        "site": "livechart",
+        "id": "4294"
+      },
+      {
+        "site": "livechart",
+        "id": "4304"
+      },
+      {
+        "site": "livechart",
+        "id": "4312"
+      },
+      {
+        "site": "livechart",
+        "id": "4367"
+      },
+      {
+        "site": "livechart",
+        "id": "5074"
+      },
+      {
+        "site": "livechart",
+        "id": "5540"
+      },
+      {
+        "site": "livechart",
+        "id": "5906"
+      },
+      {
+        "site": "livechart",
+        "id": "6390"
+      },
+      {
+        "site": "myanimelist",
+        "id": "813"
+      },
+      {
+        "site": "myanimelist",
+        "id": "898"
+      },
+      {
+        "site": "notify",
+        "id": "ir-05Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "vHRJcFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1992,
+      "month": "03"
     },
-    {
-      "site": "pptv",
-      "id": "7qoHhe1TwwFk4ko",
-      "begin": ""
-    },
-    {
-      "site": "qq",
-      "id": "z/z8alyhrvkd3jp2y",
-      "begin": ""
-    },
-    {
-      "site": "bilibili",
-      "id": "2560",
-      "begin": "1992-03-06T16:00:00.000Z",
-      "broadcast": "R/2015-02-27T07:39:00.000Z/P7D"
-    },
-    {
-      "site": "gamer",
-      "id": "32674",
-      "begin": "2023-03-16T02:00:00.000Z",
-      "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
-    },
-    {
-      "site": "anidb",
-      "id": "1078"
-    },
-    {
-      "site": "anilist",
-      "id": "2471"
-    },
-    {
-      "site": "anime-planet",
-      "id": "doraemon-1979"
-    },
-    {
-      "site": "anime-planet",
-      "id": "doraemon-doraemon-comes-back"
-    },
-    {
-      "site": "anime-planet",
-      "id": "doraemon-doraemon-comes-back-1998"
-    },
-    {
-      "site": "anime-planet",
-      "id": "the-doraemons-strange-sweets-strange"
-    },
-    {
-      "site": "anisearch",
-      "id": "16735"
-    },
-    {
-      "site": "anisearch",
-      "id": "540"
-    },
-    {
-      "site": "kitsu",
-      "id": "460"
-    },
-    {
-      "site": "livechart",
-      "id": "12164"
-    },
-    {
-      "site": "livechart",
-      "id": "5614"
-    },
-    {
-      "site": "livechart",
-      "id": "6575"
-    },
-    {
-      "site": "livechart",
-      "id": "6880"
-    },
-    {
-      "site": "livechart",
-      "id": "8740"
-    },
-    {
-      "site": "livechart",
-      "id": "8868"
-    },
-    {
-      "site": "livechart",
-      "id": "8871"
-    },
-    {
-      "site": "livechart",
-      "id": "8877"
-    },
-    {
-      "site": "livechart",
-      "id": "8878"
-    },
-    {
-      "site": "livechart",
-      "id": "8884"
-    },
-    {
-      "site": "livechart",
-      "id": "8897"
-    },
-    {
-      "site": "livechart",
-      "id": "8900"
-    },
-    {
-      "site": "livechart",
-      "id": "8901"
-    },
-    {
-      "site": "livechart",
-      "id": "8902"
-    },
-    {
-      "site": "livechart",
-      "id": "8998"
-    },
-    {
-      "site": "myanimelist",
-      "id": "2471"
-    },
-    {
-      "site": "notify",
-      "id": "BRto5KimR"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 1992,
-    "month": "03"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1007/93669.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1007/93669t.jpg",
+    "synonyms": [
+      "Bảy Viên Ngọc Rồng Z: Sự Trở Lại Của Cooler",
+      "Combate contra cen millóns de poderosos guerreiros",
+      "DBZ Movie 6",
+      "DRAGON BALL Z 激突!! 100億パワーの戦士たち",
+      "Dragon Ball Z - Taistelu ylivoimaa vastaan",
+      "Dragon Ball Z 06 - 100 000 guerriers de métal",
+      "Dragon Ball Z 06 - Cent mille guerriers de métal",
+      "Dragon Ball Z 6 - O Poder Misterioso",
+      "Dragon Ball Z : Cent mille guerriers de métal",
+      "Dragon Ball Z Film 6: Cent Mille Guerriers de Métal",
+      "Dragon Ball Z Film 6: Coolers Rückkehr",
+      "Dragon Ball Z Movie 06: The Return of Cooler",
+      "Dragon Ball Z Movie 6: Return of Cooler",
+      "Dragon Ball Z Película 6: ¡Choque! Los Guerreros de 10.000 millones de Poder",
+      "Dragon Ball Z: Ataque! 10 Bilhões de Guerreiros Poderosos",
+      "Dragon Ball Z: Attack! 1,000,000 Power Warriors",
+      "Dragon Ball Z: Attack!! 10.000.000.000 Power Warriors",
+      "Dragon Ball Z: Clash!! 10 Billion Power Warriors",
+      "Dragon Ball Z: Collision! 10 Billion Powered Warriors",
+      "Dragon Ball Z: Coolers Rückkehr",
+      "Dragon Ball Z: Gekitotsu!! 100-oku Power no Senshi-tachi",
+      "Dragon Ball Z: Guerreros de Fuerza Ilimitada",
+      "Dragon Ball Z: L'invasione di Neo Nameck",
+      "Dragon Ball Z: L`invasione di Neo Namek",
+      "Dragon Ball Z: Los guerreros más poderosos",
+      "Dragon Ball Z: Movie 6",
+      "Dragon Ball Z: Powrót Coolera",
+      "Dragon Ball Z: The Return of Cooler",
+      "Dragonball Z - The Movie: Coolers Rückkehr",
+      "Dragonball Z: Coolers Rückkehr",
+      "ดราก้อนบอล Z เดอะมูฟวี่ 6 การกลับมาของคูลเลอร์",
+      "ドラゴンボールZ 激突!! 100億パワーの戦士たち",
+      "ドラゴンボールZ 激突!!100億パワーの戦士たち",
+      "ドラゴンボールZ 激突！！ 100倍パワーの戦士たち"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1060/133694.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1060/133694t.jpg",
-  "synonyms": [
-    "Doraemon Movie 13",
-    "Doraemon Película 13: Doraemon y el Misterio de las Nubes",
-    "Doraemon e o Mistério das Nuvens",
-    "Doraemon e o misterio das nubes",
-    "Doraemon the Movie: Nobita and the Kingdom of Clouds",
-    "Doraemon y el misterio de las nubes",
-    "Doraemon: Il Regno delle Nuvole",
-    "Doraemon: Nobita and the Kingdom of Clouds",
-    "Doraemon: Nobita to Kumo no Oukoku",
-    "Doraemon: Nobita to Kumo no Ōkoku",
-    "Doraemon: Nobita to Kumonookoku",
-    "ドラえもん のび太と雲の王国",
-    "哆啦A梦 大雄与云之王国",
-    "映画 ドラえもん のび太と雲の王国"
-  ]
-}
+  {
+    "title": "ドラえもん のび太と雲の王国",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：大雄与云之王国"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄與雲之王國"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-03-07T16:00:00.000Z",
+    "end": "1992-03-07T17:40:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "80878",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "451"
+      },
+      {
+        "site": "pptv",
+        "id": "7qoHhe1TwwFk4ko",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "z/z8alyhrvkd3jp2y",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2560",
+        "begin": "1992-03-06T16:00:00.000Z",
+        "broadcast": "R/2015-02-27T07:39:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "32674",
+        "begin": "2023-03-16T02:00:00.000Z",
+        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1078"
+      },
+      {
+        "site": "anilist",
+        "id": "2471"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-1979"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back-1998"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-doraemons-strange-sweets-strange"
+      },
+      {
+        "site": "anisearch",
+        "id": "16735"
+      },
+      {
+        "site": "anisearch",
+        "id": "540"
+      },
+      {
+        "site": "kitsu",
+        "id": "460"
+      },
+      {
+        "site": "livechart",
+        "id": "12164"
+      },
+      {
+        "site": "livechart",
+        "id": "5614"
+      },
+      {
+        "site": "livechart",
+        "id": "6575"
+      },
+      {
+        "site": "livechart",
+        "id": "6880"
+      },
+      {
+        "site": "livechart",
+        "id": "8740"
+      },
+      {
+        "site": "livechart",
+        "id": "8868"
+      },
+      {
+        "site": "livechart",
+        "id": "8871"
+      },
+      {
+        "site": "livechart",
+        "id": "8877"
+      },
+      {
+        "site": "livechart",
+        "id": "8878"
+      },
+      {
+        "site": "livechart",
+        "id": "8884"
+      },
+      {
+        "site": "livechart",
+        "id": "8897"
+      },
+      {
+        "site": "livechart",
+        "id": "8900"
+      },
+      {
+        "site": "livechart",
+        "id": "8901"
+      },
+      {
+        "site": "livechart",
+        "id": "8902"
+      },
+      {
+        "site": "livechart",
+        "id": "8998"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2471"
+      },
+      {
+        "site": "notify",
+        "id": "BRto5KimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1992,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1060/133694.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1060/133694t.jpg",
+    "synonyms": [
+      "Doraemon Movie 13",
+      "Doraemon Película 13: Doraemon y el Misterio de las Nubes",
+      "Doraemon e o Mistério das Nuvens",
+      "Doraemon e o misterio das nubes",
+      "Doraemon the Movie: Nobita and the Kingdom of Clouds",
+      "Doraemon y el misterio de las nubes",
+      "Doraemon: Il Regno delle Nuvole",
+      "Doraemon: Nobita and the Kingdom of Clouds",
+      "Doraemon: Nobita to Kumo no Oukoku",
+      "Doraemon: Nobita to Kumo no Ōkoku",
+      "Doraemon: Nobita to Kumonookoku",
+      "ドラえもん のび太と雲の王国",
+      "哆啦A梦 大雄与云之王国",
+      "映画 ドラえもん のび太と雲の王国"
+    ]
+  }
+]

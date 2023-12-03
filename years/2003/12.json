@@ -1,70 +1,350 @@
-{
-  "title": "映画 あたしンち",
-  "titleTranslate": {
-    "zh-Hans": [
-      "电影 我们这一家",
-      "我们这一家 剧场版"
+[
+  {
+    "title": "犬夜叉 天下覇道の剣",
+    "titleTranslate": {
+      "zh-Hans": [
+        "犬夜叉 天下霸道之剑"
+      ],
+      "en": [
+        "InuYasha: The Movie 3: Swords of an Honorable Ruler"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.inuyasha-movie.com/",
+    "begin": "2003-12-20T16:00:00.000Z",
+    "end": "2003-12-20T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "j/jouk3zs06zpvsx1",
+        "begin": ""
+      },
+      {
+        "site": "letv",
+        "id": "46371",
+        "begin": ""
+      },
+      {
+        "site": "pptv",
+        "id": "56MQjvZczApt61M",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "18616"
+      },
+      {
+        "site": "netflix",
+        "id": "70036200",
+        "begin": "2017-09-01T07:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "144"
+      },
+      {
+        "site": "anilist",
+        "id": "249"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inuyasha"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inuyasha-kuroi-tessaiga"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inuyasha-the-final-act"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inuyasha-the-movie-1-affections-touching-across-time"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inuyasha-the-movie-2-the-castle-beyond-the-looking-glass"
+      },
+      {
+        "site": "anime-planet",
+        "id": "inuyasha-the-movie-4-fire-on-the-mystic-island"
+      },
+      {
+        "site": "anisearch",
+        "id": "2581"
+      },
+      {
+        "site": "kitsu",
+        "id": "224"
+      },
+      {
+        "site": "livechart",
+        "id": "10475"
+      },
+      {
+        "site": "livechart",
+        "id": "3684"
+      },
+      {
+        "site": "livechart",
+        "id": "3952"
+      },
+      {
+        "site": "livechart",
+        "id": "4805"
+      },
+      {
+        "site": "livechart",
+        "id": "4971"
+      },
+      {
+        "site": "livechart",
+        "id": "5029"
+      },
+      {
+        "site": "livechart",
+        "id": "5388"
+      },
+      {
+        "site": "livechart",
+        "id": "9937"
+      },
+      {
+        "site": "myanimelist",
+        "id": "249"
+      },
+      {
+        "site": "notify",
+        "id": "Q3ShcFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2003,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1658/95332.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1658/95332t.jpg",
+    "synonyms": [
+      "Eiga Inuyasha: Tenka Hadou no Ken",
+      "IY Movie 3",
+      "IY THnK",
+      "Inu Yasha: Tenka Hadou no Ken",
+      "InuYasha - Die Schwerter, die die Welt unterwerfen",
+      "InuYasha - La Spada del Dominatore del Mondo",
+      "InuYasha - Sword of World Conquest",
+      "InuYasha - The World Conquering Swords",
+      "InuYasha Film 2: Swords of an Honorable Ruler",
+      "InuYasha The Movie 3: La Spada del Dominatore del Mondo",
+      "InuYasha The Movie 3: Swords of an Honorable Ruler",
+      "InuYasha the Movie 3: Swords of an Honorable Ruler",
+      "InuYasha: Der Film - Die Schwerter, die die Welt unterwerfen",
+      "InuYasha: Tenka Hadou no Ken",
+      "InuYasha: The Movie 3 - Swords of an Honorable Ruler",
+      "InuYasha: The Sword That Rules Over the Empires",
+      "InuYasha: The Sword of the World Conquest",
+      "Inuyasha - A Film 3: A világhódítás kardjai",
+      "Inuyasha - La Espada Que Domina El Mundo",
+      "Inuyasha Movie 3",
+      "Inuyasha Movie 3: Das Schwert der Welteroberung",
+      "Inuyasha Película 3: La Espada Conquistadora",
+      "Inuyasha The Movie 3: La spada del dominatore del mondo",
+      "Inuyasha: La Espada Conquistadora",
+      "Inuyasha: Sword of World Conquest",
+      "Inuyasha: Tenka Hadou no Ken",
+      "Inuyasha: Tenka Hadō no Ken",
+      "Inuyasha: The Sword That Rules over the Empires",
+      "Inuyasha: The World Conquering Swords",
+      "The Sword That Rules Over the Empires",
+      "The Sword of the World Conquest",
+      "Инуяша - Мечът на истинския владетел",
+      "映画 犬夜叉 天下覇道の剣",
+      "犬夜叉 天下覇道の剣",
+      "犬夜叉 天下霸道之剑",
+      "犬夜叉 天下霸道之劍"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "2003-12-05T16:00:00.000Z",
-  "end": "2003-12-05T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "49287"
+  {
+    "title": "ジャングルはいつもハレのちグゥ FINAL",
+    "titleTranslate": {
+      "zh-Hans": [
+        "热带雨林的爆笑生活FINAL"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "2039",
-      "begin": "2016-03-01T08:28:08.000Z",
-      "broadcast": "R/2016-03-01T08:28:08.000Z/P7D"
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://hareguu.bandaivisual.co.jp/",
+    "begin": "2003-12-21T16:00:00.000Z",
+    "end": "2004-06-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "9VgjoQlv3x2AicmY",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3293"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgj957t",
+        "begin": "2014-04-09T23:31:05.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "2093",
+        "begin": "2003-12-20T16:00:00.000Z",
+        "broadcast": "R/2015-02-15T08:30:00.000Z/P7D"
+      },
+      {
+        "site": "acfun",
+        "id": "5025010",
+        "begin": "2019-07-16T06:56:38.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "83760ee026e011e6b32f",
+        "begin": "2020-06-02T05:05:43.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "317"
+      },
+      {
+        "site": "anilist",
+        "id": "254"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hare-guu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hare-guu-deluxe"
+      },
+      {
+        "site": "anisearch",
+        "id": "2578"
+      },
+      {
+        "site": "anisearch",
+        "id": "3208"
+      },
+      {
+        "site": "kitsu",
+        "id": "229"
+      },
+      {
+        "site": "myanimelist",
+        "id": "254"
+      },
+      {
+        "site": "notify",
+        "id": "clN2cKmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2003,
+      "month": "12"
     },
-    {
-      "site": "anidb",
-      "id": "325"
-    },
-    {
-      "site": "anilist",
-      "id": "3006"
-    },
-    {
-      "site": "anime-planet",
-      "id": "atashinchi"
-    },
-    {
-      "site": "anisearch",
-      "id": "2038"
-    },
-    {
-      "site": "kitsu",
-      "id": "2717"
-    },
-    {
-      "site": "myanimelist",
-      "id": "3006"
-    },
-    {
-      "site": "notify",
-      "id": "BSPU5FimR"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 2003,
-    "month": "12"
+    "status": "FINISHED",
+    "episodes": 7,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/14520.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/14520t.jpg",
+    "synonyms": [
+      "Hare + Guu Final",
+      "Hare+Guu Final",
+      "Haré+Guu FINAL",
+      "Haré+Guu Final",
+      "Jungle Wa Itsumo Hale Nochi Guu Final",
+      "Jungle wa Itsumo Hale Nochi Guu FINAL",
+      "Jungle wa Itsumo Hale Nochi Guu Final",
+      "Jungle wa Itsumo Hare Nochi Guu Final",
+      "Jungle wa Itsumo Hare nochi Guu FINAL",
+      "Jungle wa Itsumo Hare nochi Gū FINAL",
+      "Jungle wa Itsumo Haré nochi Guu Final",
+      "guf",
+      "guu final",
+      "ジャングルはいつもハレのちグゥ FINAL",
+      "ジャングルはいつもハレのちグゥ　ＦＩＮＡＬ",
+      "정글은 언제나 맑은뒤 흐림 파이널"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/12/27153.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/12/27153t.jpg",
-  "synonyms": [
-    "Atashinchi Movie",
-    "Eiga Atashin'chi",
-    "Eiga Atashinchi",
-    "映画 あたしンち",
-    "电影 我们这一家"
-  ]
-}
+  {
+    "title": "映画 あたしンち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 我们这一家",
+        "我们这一家 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-12-05T16:00:00.000Z",
+    "end": "2003-12-05T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "49287"
+      },
+      {
+        "site": "bilibili",
+        "id": "2039",
+        "begin": "2016-03-01T08:28:08.000Z",
+        "broadcast": "R/2016-03-01T08:28:08.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "325"
+      },
+      {
+        "site": "anilist",
+        "id": "3006"
+      },
+      {
+        "site": "anime-planet",
+        "id": "atashinchi"
+      },
+      {
+        "site": "anisearch",
+        "id": "2038"
+      },
+      {
+        "site": "kitsu",
+        "id": "2717"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3006"
+      },
+      {
+        "site": "notify",
+        "id": "BSPU5FimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2003,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/27153.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/27153t.jpg",
+    "synonyms": [
+      "Atashinchi Movie",
+      "Eiga Atashin'chi",
+      "Eiga Atashinchi",
+      "映画 あたしンち",
+      "电影 我们这一家"
+    ]
+  }
+]

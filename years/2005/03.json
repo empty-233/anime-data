@@ -1,43 +1,607 @@
-{
-  "title": "グローランサーIV ~Wayfarer of the time~",
-  "titleTranslate": {
-    "zh-Hans": [
-      "梦幻骑士IV 时之旅人"
+[
+  {
+    "title": "ONE PIECE THE MOVIE オマツリ男爵と秘密の島",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海贼王 祭典男爵与神秘岛"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.onepiece-movie.com/",
+    "begin": "2005-03-04T16:00:00.000Z",
+    "end": "2005-03-04T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1991"
+      },
+      {
+        "site": "anidb",
+        "id": "69"
+      },
+      {
+        "site": "anilist",
+        "id": "21"
+      },
+      {
+        "site": "anilist",
+        "id": "463"
+      },
+      {
+        "site": "anilist",
+        "id": "465"
+      },
+      {
+        "site": "anime-planet",
+        "id": "one-piece"
+      },
+      {
+        "site": "anisearch",
+        "id": "2227"
+      },
+      {
+        "site": "kitsu",
+        "id": "12"
+      },
+      {
+        "site": "livechart",
+        "id": "321"
+      },
+      {
+        "site": "livechart",
+        "id": "4028"
+      },
+      {
+        "site": "livechart",
+        "id": "4166"
+      },
+      {
+        "site": "livechart",
+        "id": "4187"
+      },
+      {
+        "site": "livechart",
+        "id": "4199"
+      },
+      {
+        "site": "livechart",
+        "id": "4208"
+      },
+      {
+        "site": "livechart",
+        "id": "4720"
+      },
+      {
+        "site": "livechart",
+        "id": "4723"
+      },
+      {
+        "site": "livechart",
+        "id": "4817"
+      },
+      {
+        "site": "livechart",
+        "id": "4824"
+      },
+      {
+        "site": "livechart",
+        "id": "4938"
+      },
+      {
+        "site": "livechart",
+        "id": "5000"
+      },
+      {
+        "site": "livechart",
+        "id": "5174"
+      },
+      {
+        "site": "livechart",
+        "id": "5208"
+      },
+      {
+        "site": "livechart",
+        "id": "6598"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21"
+      },
+      {
+        "site": "notify",
+        "id": "jdZp5KmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2005,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/25415.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/25415t.jpg",
+    "synonyms": [
+      "ONE PIECE -オマツリ男爵と秘密の島-",
+      "ONE PIECE THE MOVIE オマツリ男爵と秘密の島",
+      "ONE PIECE THE MOVIE: Omatsuri Danshaku to Himitsu no Shima",
+      "OP Movie 6",
+      "One Piece - 6. Film: Baron Omatsuri und die geheimnisvolle Insel",
+      "One Piece - L'isola segreta del barone Omatsuri",
+      "One Piece : Le Baron Omatsuri et l`Île secrète",
+      "One Piece : Le baron Omatsuri et l’île secrète",
+      "One Piece Film 6: Baron Omatsuri und die geheimnisvolle Insel",
+      "One Piece Film 6: Le Baron Omatsuri et L'île aux Secrets",
+      "One Piece Movie 6",
+      "One Piece Movie 6: Baron Omatsuri and the Secret Island",
+      "One Piece Movie 6: Omatsuri Danshaku to Himitsu no Shima",
+      "One Piece Película 6: El Barón Omatsuri y la Isla de los Secretos",
+      "One Piece The Movie 6: Baron Omatsuri and the Secret Island",
+      "One Piece: 6. Film - Baron Omatsuri und die geheimnisvolle Insel",
+      "One Piece: Baron Omatsuri and the Island of Secrets",
+      "One Piece: Baron Omatsuri and the Secret Island",
+      "One Piece: Baron Omatsuri und die geheimnisvolle Insel",
+      "One Piece: Baronas Omatsuri ir Paslaptingoji sala",
+      "One Piece: El Barón Omatsuri Y La Isla De Los Secretos",
+      "One Piece: El barón Omatsuri y la isla de los secretos",
+      "One Piece: L'isola segreta del barone Omatsuri",
+      "One Piece: L`Isola Segreta del Barone Omatsuri",
+      "One Piece: Omatsuri Danshaku to Himitsu no Shima",
+      "opm6",
+      "ワンピース THE MOVIE オマツリ男爵と秘密の島",
+      "ワンピース オマツリ男爵と秘密の島"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "2005-03-09T16:00:00.000Z",
-  "end": "2005-03-09T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "37413"
+  {
+    "title": "ストラトス・フォー アドヴァンス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "星空防卫队 Advance"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "5096",
-      "begin": "2016-06-23T08:52:00.000Z",
-      "broadcast": "R/2016-06-23T08:52:00.000Z/P7D"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 2005,
-    "month": "03"
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-03-25T16:00:00.000Z",
+    "end": "2006-01-27T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "48992"
+      },
+      {
+        "site": "anidb",
+        "id": "1858"
+      },
+      {
+        "site": "anidb",
+        "id": "4419"
+      },
+      {
+        "site": "anilist",
+        "id": "1584"
+      },
+      {
+        "site": "anilist",
+        "id": "422"
+      },
+      {
+        "site": "anime-planet",
+        "id": "stratos-4"
+      },
+      {
+        "site": "anime-planet",
+        "id": "stratos-4-advance-kanketsu-hen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "stratos-4-logbook"
+      },
+      {
+        "site": "anime-planet",
+        "id": "stratos-4-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "stratos-4-ova-stratos-41-dutch-roll"
+      },
+      {
+        "site": "anisearch",
+        "id": "1472"
+      },
+      {
+        "site": "anisearch",
+        "id": "3925"
+      },
+      {
+        "site": "kitsu",
+        "id": "1424"
+      },
+      {
+        "site": "kitsu",
+        "id": "386"
+      },
+      {
+        "site": "livechart",
+        "id": "6961"
+      },
+      {
+        "site": "livechart",
+        "id": "7448"
+      },
+      {
+        "site": "livechart",
+        "id": "7493"
+      },
+      {
+        "site": "livechart",
+        "id": "7759"
+      },
+      {
+        "site": "livechart",
+        "id": "8047"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1584"
+      },
+      {
+        "site": "myanimelist",
+        "id": "422"
+      },
+      {
+        "site": "notify",
+        "id": "AmzTcKimR"
+      },
+      {
+        "site": "notify",
+        "id": "zDUa5Fmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2005,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/67335.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/67335t.jpg",
+    "synonyms": [
+      "S4A",
+      "Stratos 4 OVA 2",
+      "s4 ova2",
+      "s4ova2",
+      "สตราโตส 4 แอดวานซ์",
+      "すとらとすふぉーあどばんす",
+      "ストラトス・フォー アドヴァンス"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1135/106141.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1135/106141t.jpg",
-  "synonyms": [
-    "GROWLANSER IV Wayfarer of the time",
-    "Growlanser IV: Wayfarer of Time",
-    "Growlanser IV: Wayfarer of the time",
-    "グローランサーIV",
-    "グローランサーIV ~Wayfarer of the time~",
-    "グローランサーIV ～Wayfarer of the time～"
-  ]
-}
+  {
+    "title": "撲殺天使ドクロちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "扑杀天使朵库萝"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.bin-kan.com/",
+    "begin": "2005-03-25T16:00:00.000Z",
+    "end": "2005-09-22T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "vo96ibGDGNnTXVb0",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3059"
+      },
+      {
+        "site": "anidb",
+        "id": "5089"
+      },
+      {
+        "site": "anilist",
+        "id": "2131"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bludgeoning-angel-dokuro-chan-2"
+      },
+      {
+        "site": "anisearch",
+        "id": "4428"
+      },
+      {
+        "site": "kitsu",
+        "id": "1928"
+      },
+      {
+        "site": "livechart",
+        "id": "4036"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2131"
+      },
+      {
+        "site": "notify",
+        "id": "CAuL5Kmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2005,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/13210.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/13210t.jpg",
+    "synonyms": [
+      "Angelas su Kuoka",
+      "Beating Angel Dokuro-chan",
+      "Bludgeoning Angel Dokoro-chan",
+      "Bludgeoning Angel Dokuro-Chan",
+      "Bludgeoning Angel Dokuro-chan",
+      "Bokusatsu",
+      "Club-To-Death Angel Dokuro-chan",
+      "Club-to-death Angel Dokuro-chan",
+      "Dokuro Chan",
+      "Dokuro chan",
+      "Dokuro-Chan",
+      "El Ángel de la Maza Mortal Dokuro-chan",
+      "Totschlag-Engel Dokuro-chan",
+      "btd",
+      "dokuro",
+      "dokuro-chan",
+      "Убойный ангел Докуро-тян",
+      "ぼくさつてんしどくろちゃん",
+      "扑杀天使",
+      "扑杀天使朵库萝",
+      "撲殺天使ドクロちゃん"
+    ]
+  },
+  {
+    "title": "天上天下 ULTIMATE FIGHT",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天上天下 终极格斗"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-03-16T16:00:00.000Z",
+    "end": "2005-03-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "38766"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tenten-anime-uf",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3919",
+        "begin": "2016-05-03T07:14:00.000Z",
+        "broadcast": "R/2016-05-03T07:14:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1540"
+      },
+      {
+        "site": "anilist",
+        "id": "174"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenjho-tenge"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenjho-tenge-the-past-chapter"
+      },
+      {
+        "site": "anisearch",
+        "id": "3310"
+      },
+      {
+        "site": "kitsu",
+        "id": "151"
+      },
+      {
+        "site": "livechart",
+        "id": "3812"
+      },
+      {
+        "site": "livechart",
+        "id": "5752"
+      },
+      {
+        "site": "myanimelist",
+        "id": "174"
+      },
+      {
+        "site": "notify",
+        "id": "98Xt5KmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2005,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/7362.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/7362t.jpg",
+    "synonyms": [
+      "Enfer & Paradis - OAV",
+      "Enfer et Paradis",
+      "Enfer et Paradis OAV",
+      "Enfer et paradis - OAV",
+      "Tenjho Tenge OVA",
+      "Tenjho Tenge los OVAs",
+      "Tenjho Tenge: The Ultimate Fight",
+      "Tenjho Tenge: Ultimate Fight",
+      "Tenjo Tenge OVA",
+      "Tenjou Tenge (2005)",
+      "Tenjou Tenge OVA",
+      "Tenjou Tenge: ULTIMATE FIGHT",
+      "Tenjou Tenge: Ultimate Fight",
+      "Tenjō Tenge: Ultimate Fight",
+      "Ultimate Fight",
+      "tenten ova",
+      "天上天下 (2005)",
+      "天上天下 ULTIMATE FIGHT",
+      "天上天下 アルティメットファイト",
+      "天上天下 终极格斗",
+      "天上天下ULTIMATE FIGHT"
+    ]
+  },
+  {
+    "title": "天上天下 THE PAST CHAPTER",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天上天下 THE PAST CHAPTER"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-03-29T16:00:00.000Z",
+    "end": "2005-03-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "109408"
+      },
+      {
+        "site": "bilibili",
+        "id": "3920",
+        "begin": "2016-05-03T07:19:00.000Z",
+        "broadcast": "R/2016-05-03T07:19:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1540"
+      },
+      {
+        "site": "anilist",
+        "id": "174"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenjho-tenge"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenjho-tenge-ultimate-fight"
+      },
+      {
+        "site": "anisearch",
+        "id": "3310"
+      },
+      {
+        "site": "kitsu",
+        "id": "151"
+      },
+      {
+        "site": "livechart",
+        "id": "3812"
+      },
+      {
+        "site": "livechart",
+        "id": "4421"
+      },
+      {
+        "site": "myanimelist",
+        "id": "174"
+      },
+      {
+        "site": "notify",
+        "id": "98Xt5KmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2005,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/22930.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/22930t.jpg",
+    "synonyms": [
+      "Enfer et paradis : Le dernier Chapitre",
+      "Everything Above the Skies",
+      "Everything Under the Skies The Past Chapter",
+      "TT: TPC",
+      "TenTen: TPC",
+      "TenTen: The Past Chapter",
+      "Tenjho Tenge: The Past Chapter",
+      "TenjhoTenge: The Past Chapter",
+      "Tenjou Tenge: THE PAST CHAPTER",
+      "Tenjō Tenge: The Past Chapter",
+      "tjtg: tpc",
+      "天上天下 THE PAST CHAPTER",
+      "天上天下 The Past Chapter",
+      "天上天下　THE PAST CHAPTER"
+    ]
+  },
+  {
+    "title": "グローランサーIV ~Wayfarer of the time~",
+    "titleTranslate": {
+      "zh-Hans": [
+        "梦幻骑士IV 时之旅人"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-03-09T16:00:00.000Z",
+    "end": "2005-03-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37413"
+      },
+      {
+        "site": "bilibili",
+        "id": "5096",
+        "begin": "2016-06-23T08:52:00.000Z",
+        "broadcast": "R/2016-06-23T08:52:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2005,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1135/106141.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1135/106141t.jpg",
+    "synonyms": [
+      "GROWLANSER IV Wayfarer of the time",
+      "Growlanser IV: Wayfarer of Time",
+      "Growlanser IV: Wayfarer of the time",
+      "グローランサーIV",
+      "グローランサーIV ~Wayfarer of the time~",
+      "グローランサーIV ～Wayfarer of the time～"
+    ]
+  }
+]

@@ -1,151 +1,3618 @@
-{
-  "title": "ブレイク ブレイド 第四章 惨禍ノ地",
-  "titleTranslate": {
-    "zh-Hans": [
-      "破刃之剑 第四章 惨祸之地"
+[
+  {
+    "title": "リタとナントカ",
+    "titleTranslate": {
+      "en": [
+        "Rita et machin"
+      ],
+      "zh-Hans": [
+        "莉塔和无名小狗"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.rita-machin.jp/",
+    "begin": "2010-10-31T22:35:00.000Z",
+    "end": "2010-12-23T22:40:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9851"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/26412.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/26412t.jpg",
+    "synonyms": [
+      "Les Aventures de Rita et Machin",
+      "Rita a Coto",
+      "Rita and Machin",
+      "Rita et Machin",
+      "りたとなんとか",
+      "りタエマシャン",
+      "リタとナントカ",
+      "莉塔和无名小狗"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "http://breakblade.jp/",
-  "begin": "2010-10-29T16:00:00.000Z",
-  "end": "2010-10-29T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "11043"
+  {
+    "title": "それでも町は廻っている",
+    "titleTranslate": {
+      "zh-Hans": [
+        "女仆咖啡厅",
+        "即使如此小镇依然转动"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "3364",
-      "begin": "2016-02-24T07:01:10.000Z",
-      "broadcast": "R/2016-02-24T07:01:10.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/anime/soremachi/",
+    "begin": "2010-10-07T16:55:00.000Z",
+    "end": "2010-12-23T17:59:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "DzoFgibtRwf9ia4Eg",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "7883"
+      },
+      {
+        "site": "bilibili",
+        "id": "992",
+        "begin": "2010-10-06T16:00:00.000Z",
+        "broadcast": "R/2010-10-08T03:53:00.000Z/P7D"
+      },
+      {
+        "site": "acfun",
+        "id": "6000042",
+        "begin": "2019-09-20T12:06:56.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
     },
-    {
-      "site": "anilist",
-      "id": "20618"
-    },
-    {
-      "site": "anilist",
-      "id": "9252"
-    },
-    {
-      "site": "anilist",
-      "id": "9724"
-    },
-    {
-      "site": "anime-planet",
-      "id": "broken-blade-movie-1-the-time-of-awakening"
-    },
-    {
-      "site": "anime-planet",
-      "id": "broken-blade-movie-2-the-path-of-separation"
-    },
-    {
-      "site": "anime-planet",
-      "id": "broken-blade-movie-3-scars-from-an-assassins-blade"
-    },
-    {
-      "site": "anime-planet",
-      "id": "broken-blade-movie-5-the-gap-between-life-and-death"
-    },
-    {
-      "site": "anime-planet",
-      "id": "broken-blade-movie-6-fortress-of-lamentation"
-    },
-    {
-      "site": "anime-planet",
-      "id": "broken-blade-picture-drama"
-    },
-    {
-      "site": "anime-planet",
-      "id": "broken-blade-tv"
-    },
-    {
-      "site": "anime-planet",
-      "id": "broken-blade-tv-virgins-war"
-    },
-    {
-      "site": "kitsu",
-      "id": "5645"
-    },
-    {
-      "site": "kitsu",
-      "id": "5837"
-    },
-    {
-      "site": "kitsu",
-      "id": "8281"
-    },
-    {
-      "site": "livechart",
-      "id": "3953"
-    },
-    {
-      "site": "livechart",
-      "id": "4015"
-    },
-    {
-      "site": "livechart",
-      "id": "4025"
-    },
-    {
-      "site": "livechart",
-      "id": "4043"
-    },
-    {
-      "site": "livechart",
-      "id": "4053"
-    },
-    {
-      "site": "livechart",
-      "id": "426"
-    },
-    {
-      "site": "livechart",
-      "id": "8504"
-    },
-    {
-      "site": "myanimelist",
-      "id": "22433"
-    },
-    {
-      "site": "myanimelist",
-      "id": "9252"
-    },
-    {
-      "site": "myanimelist",
-      "id": "9724"
-    },
-    {
-      "site": "notify",
-      "id": "BUYTtKmiR"
-    },
-    {
-      "site": "notify",
-      "id": "FATGtKiiR"
-    },
-    {
-      "site": "notify",
-      "id": "qnUZtFimg"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 2010,
-    "month": "10"
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/25880.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/25880t.jpg",
+    "synonyms": [
+      "And Yet The Town Moves",
+      "And Yet the Town Moves",
+      "Sore demo Machi wa Mawatte Iru",
+      "SoreMachi",
+      "Soredemo Machi wa Mawatte Iru",
+      "Yet the Town Keeps Going",
+      "Yet the Town Turns",
+      "それでもまちはまわっている",
+      "それでも町は廻っている",
+      "それ町",
+      "女仆咖啡厅"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/11/68085.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/11/68085t.jpg",
-  "synonyms": [
-    "Break Blade 4: Area of Disaster",
-    "Break Blade 4: Sanka no Chi",
-    "Breaker Blade 4",
-    "Broken Blade 4",
-    "Broken Blade Movie 4: The Land of Calamity",
-    "ブレイク ブレイド 第四章 惨禍ノ地"
-  ]
-}
+  {
+    "title": "荒川アンダー ザ ブリッジ×ブリッジ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "荒川爆笑团2",
+        "荒川爆笑团 第2期"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.starchild.co.jp/special/arakawa_ub/",
+    "begin": "2010-10-03T16:35:00.000Z",
+    "end": "2010-12-26T17:05:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "9UVAviaaMicDqdG4M",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "f/f9ftjy7repojj4j",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "8081"
+      },
+      {
+        "site": "mgtv",
+        "id": "319822",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgjatpd",
+        "begin": "2017-11-30T16:01:05.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "979",
+        "begin": "2010-10-02T16:00:00.000Z",
+        "broadcast": "R/2016-05-05T02:32:00.000Z/P7D"
+      },
+      {
+        "site": "youku",
+        "id": "fd5c21fc61ad11e0bea1",
+        "begin": "2011-09-05T15:54:23.000Z"
+      },
+      {
+        "site": "acfun",
+        "id": "5025008",
+        "begin": "2019-07-16T07:04:16.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "7238"
+      },
+      {
+        "site": "anilist",
+        "id": "7647"
+      },
+      {
+        "site": "anime-planet",
+        "id": "arakawa-under-the-bridge"
+      },
+      {
+        "site": "anisearch",
+        "id": "5512"
+      },
+      {
+        "site": "kitsu",
+        "id": "5067"
+      },
+      {
+        "site": "livechart",
+        "id": "3664"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7647"
+      },
+      {
+        "site": "notify",
+        "id": "2PNkpKmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/1851/98621.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1851/98621t.jpg",
+    "synonyms": [
+      "AUtB2",
+      "Arakawa Under the Bridge 2",
+      "Arakawa Under the Bridge 2nd Season",
+      "Arakawa Under the Bridge 2nd season",
+      "Arakawa Under the Bridge x2",
+      "Arakawa Under the Bridge*2",
+      "Arakawa under the Bridge 2",
+      "Arakawa under the Bridge × Bridge",
+      "Arakawa2",
+      "Под моста на Аракава 2",
+      "荒川アンダー ザ ブリッジxブリッジ",
+      "荒川アンダー ザ ブリッジ×ブリッジ",
+      "荒川アンダー ザブリッジ×ブリッジ",
+      "荒川アンダーザブリッジ*2",
+      "荒川爆笑团2"
+    ]
+  },
+  {
+    "title": "おとめ妖怪 ざくろ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "半妖少女绮丽谭",
+        "少女妖怪 柘榴"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.otome-zakuro.jp/index.html",
+    "begin": "2010-10-04T16:30:00.000Z",
+    "end": "2010-12-27T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "6858"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch638",
+        "begin": "2010-10-08T18:45:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "fcbf22ee61ad11e0bea1",
+        "begin": "2011-10-29T08:55:41.000Z"
+      },
+      {
+        "site": "anilist",
+        "id": "8476"
+      },
+      {
+        "site": "anime-planet",
+        "id": "otome-youkai-zakuro"
+      },
+      {
+        "site": "anisearch",
+        "id": "6165"
+      },
+      {
+        "site": "kitsu",
+        "id": "5349"
+      },
+      {
+        "site": "livechart",
+        "id": "4004"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8476"
+      },
+      {
+        "site": "notify",
+        "id": "NMompFmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/28077.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/28077t.jpg",
+    "synonyms": [
+      "Girl Demon Zakuro Picture Drama",
+      "Maiden Spirit Zakuro Picture Drama",
+      "Otome Yokai Zakuro Picture Drama",
+      "Otome Yōkai Zakuro Picture Drama",
+      "Spirit Girl Zakuro Picture Drama",
+      "Zakuro Picture Drama",
+      "Zakuro Picture Stories",
+      "おとめようかいざくろ",
+      "おとめ妖怪 ざくろ",
+      "おとめ妖怪 ざくろ ピクチャードラマ"
+    ]
+  },
+  {
+    "title": "百花繚乱 サムライガールズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "百花缭乱 SAMURAI GIRLS",
+        "百花缭乱 武士少女"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.hyakka-ryoran.tv/sg/",
+    "begin": "2010-10-03T15:30:00.000Z",
+    "end": "2010-12-19T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "6933"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hyakka-ryoran",
+        "begin": "2013-03-15T06:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "9398"
+      },
+      {
+        "site": "anilist",
+        "id": "13127"
+      },
+      {
+        "site": "anilist",
+        "id": "15377"
+      },
+      {
+        "site": "anilist",
+        "id": "9362"
+      },
+      {
+        "site": "anime-planet",
+        "id": "samurai-after"
+      },
+      {
+        "site": "anime-planet",
+        "id": "samurai-bride"
+      },
+      {
+        "site": "anime-planet",
+        "id": "samurai-girls-specials"
+      },
+      {
+        "site": "anisearch",
+        "id": "7072"
+      },
+      {
+        "site": "anisearch",
+        "id": "8029"
+      },
+      {
+        "site": "kitsu",
+        "id": "5703"
+      },
+      {
+        "site": "kitsu",
+        "id": "7244"
+      },
+      {
+        "site": "livechart",
+        "id": "1747"
+      },
+      {
+        "site": "livechart",
+        "id": "4638"
+      },
+      {
+        "site": "livechart",
+        "id": "5018"
+      },
+      {
+        "site": "livechart",
+        "id": "744"
+      },
+      {
+        "site": "livechart",
+        "id": "819"
+      },
+      {
+        "site": "myanimelist",
+        "id": "15377"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9362"
+      },
+      {
+        "site": "notify",
+        "id": "5Q_dpFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "Qh7vtKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "bT3WtFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/27705.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/27705t.jpg",
+    "synonyms": [
+      "Hyakka Ryōran: Samurai Girls",
+      "Samurai Girls",
+      "Samurai Girls: Hyakka Ryouran",
+      "Samuraï Girls: Expertes en Strip Fighting!",
+      "The Riot of Flowers: Samurai Girls",
+      "hyakka ryouran",
+      "Девушки-самураи",
+      "فتيات الساموراي",
+      "ひゃっかりょうらんさむらいがーるず",
+      "百花繚乱 サムライガールズ",
+      "百花缭乱 SAMURAI GIRLS",
+      "백화요란 사무라이 걸즈"
+    ]
+  },
+  {
+    "title": "探偵オペラ ミルキィホームズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "侦探歌剧 少女福尔摩斯"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://milky-holmes.com/",
+    "begin": "2010-10-07T14:00:00.000Z",
+    "end": "2010-12-23T14:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "LxrlY8sxod9CwCg",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "f/fzigceu8ir3k1bg",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "8560"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch631",
+        "begin": "2010-10-10T20:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "1691",
+        "begin": "2010-10-06T16:00:00.000Z",
+        "broadcast": "R/2011-04-01T12:26:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "13591"
+      },
+      {
+        "site": "anidb",
+        "id": "14135"
+      },
+      {
+        "site": "anidb",
+        "id": "8594"
+      },
+      {
+        "site": "anidb",
+        "id": "8615"
+      },
+      {
+        "site": "anilist",
+        "id": "100570"
+      },
+      {
+        "site": "anilist",
+        "id": "105663"
+      },
+      {
+        "site": "anilist",
+        "id": "10923"
+      },
+      {
+        "site": "anilist",
+        "id": "11341"
+      },
+      {
+        "site": "anilist",
+        "id": "87533"
+      },
+      {
+        "site": "anime-planet",
+        "id": "futari-wa-milky-holmes"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tantei-opera-milky-holmes-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tantei-opera-milky-holmes-alternative"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tantei-opera-milky-holmes-arsene-karei-naru-yokubou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tantei-opera-milky-holmes-fun-fun-pearly-night-ken-to-janet-no-okurimono"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tantei-opera-milky-holmes-movie-milky-holmes-counterattack"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tantei-opera-milky-holmes-psycho-no-aisatsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tantei-opera-milky-holmes-summer-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tantei-opera-milky-holmes-td"
+      },
+      {
+        "site": "anisearch",
+        "id": "13034"
+      },
+      {
+        "site": "anisearch",
+        "id": "13705"
+      },
+      {
+        "site": "anisearch",
+        "id": "6549"
+      },
+      {
+        "site": "anisearch",
+        "id": "7258"
+      },
+      {
+        "site": "anisearch",
+        "id": "7264"
+      },
+      {
+        "site": "anisearch",
+        "id": "8708"
+      },
+      {
+        "site": "kitsu",
+        "id": "11350"
+      },
+      {
+        "site": "kitsu",
+        "id": "12739"
+      },
+      {
+        "site": "kitsu",
+        "id": "6408"
+      },
+      {
+        "site": "kitsu",
+        "id": "6496"
+      },
+      {
+        "site": "livechart",
+        "id": "1049"
+      },
+      {
+        "site": "livechart",
+        "id": "1093"
+      },
+      {
+        "site": "livechart",
+        "id": "1163"
+      },
+      {
+        "site": "livechart",
+        "id": "160"
+      },
+      {
+        "site": "livechart",
+        "id": "1786"
+      },
+      {
+        "site": "livechart",
+        "id": "2191"
+      },
+      {
+        "site": "livechart",
+        "id": "2978"
+      },
+      {
+        "site": "livechart",
+        "id": "6745"
+      },
+      {
+        "site": "livechart",
+        "id": "8156"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10923"
+      },
+      {
+        "site": "myanimelist",
+        "id": "11341"
+      },
+      {
+        "site": "myanimelist",
+        "id": "14647"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31486"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33308"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36827"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38540"
+      },
+      {
+        "site": "notify",
+        "id": "3LgSpKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "bptSpFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "cgli2KmiR"
+      },
+      {
+        "site": "notify",
+        "id": "sO0rpFiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/26676.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/26676t.jpg",
+    "synonyms": [
+      "Detective Opera Milky Holmes",
+      "tomh",
+      "たんていおぺらみるきぃほーむず",
+      "侦探歌剧 少女福尔摩斯",
+      "探偵オペラ ミルキィホームズ"
+    ]
+  },
+  {
+    "title": "心霊探偵 八雲",
+    "titleTranslate": {
+      "zh-Hans": [
+        "心灵侦探八云"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www9.nhk.or.jp/anime/yakumo/",
+    "begin": "2010-10-03T14:00:00.000Z",
+    "end": "2010-12-26T14:55:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "Iw75d99FtfNW1Dw",
+        "begin": ""
+      },
+      {
+        "site": "letv",
+        "id": "29825",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "5779"
+      },
+      {
+        "site": "bilibili",
+        "id": "3484",
+        "begin": "2010-10-02T16:00:01.000Z",
+        "broadcast": "R/2016-03-23T04:48:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/35829.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/35829t.jpg",
+    "synonyms": [
+      "Psychic Detective Yakumo",
+      "Містичний детектив Якумо",
+      "しんれいたんていやくも",
+      "心灵侦探八云",
+      "心霊探偵 八雲",
+      "心霊探偵八雲"
+    ]
+  },
+  {
+    "title": "ヨスガノソラ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "缘之空"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.starchild.co.jp/special/yosuganosora/",
+    "begin": "2010-10-04T14:30:00.000Z",
+    "end": "2010-12-20T15:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "7157"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yosuganosora",
+        "begin": "2014-01-29T15:00:00.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/76216.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/76216t.jpg",
+    "synonyms": [
+      "In Solitude",
+      "In Solitude Where We Are Least Alone",
+      "In solitude, where we are least alone. 縁の空",
+      "Sky of Connection",
+      "Where We are Least Alone",
+      "Yosuga No Sora",
+      "Yosuga No Sora: In Solitude Where We Are Least Alone",
+      "Yosuga no Sora",
+      "Yosuga no Sora: In Solitude, Where We Are Least Alone",
+      "yns",
+      "yosuga",
+      "yosuga no sora",
+      "yosusora",
+      "Связанные Небом",
+      "ヨスガノソラ",
+      "ヨスガノソラ In solitude, where we are least alone.",
+      "緣之空",
+      "缘之空",
+      "요스가노소라"
+    ]
+  },
+  {
+    "title": "とある魔術の禁書目録II",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法禁书目录 第二季",
+        "魔法禁书目录 第2季",
+        "魔法禁书目录II"
+      ],
+      "zh-Hant": [
+        "魔法禁書目錄II",
+        "魔法禁書目錄S2",
+        "魔法禁書目錄 Ⅱ"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.project-index.net/tv/",
+    "begin": "2010-10-08T14:30:00.000Z",
+    "end": "2011-04-01T15:00:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9objl",
+        "begin": "2016-08-15T08:29:44.000Z"
+      },
+      {
+        "site": "letv",
+        "id": "48910",
+        "begin": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2011/mfjsml2",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "7843"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch640",
+        "begin": "2010-10-14T03:30:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "964",
+        "begin": "2010-10-07T16:00:00.000Z",
+        "broadcast": "R/2011-04-04T08:35:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjyuDiweddsPnMOyjjMItIA",
+        "begin": "2019-07-17T16:00:00.000Z",
+        "broadcast": "R/2019-07-17T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "37524",
+        "begin": "2015-12-13T16:00:00.000Z",
+        "broadcast": "R/2015-12-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "13481"
+      },
+      {
+        "site": "anidb",
+        "id": "5975"
+      },
+      {
+        "site": "anidb",
+        "id": "8694"
+      },
+      {
+        "site": "anilist",
+        "id": "100185"
+      },
+      {
+        "site": "anilist",
+        "id": "10249"
+      },
+      {
+        "site": "anilist",
+        "id": "11743"
+      },
+      {
+        "site": "anilist",
+        "id": "4654"
+      },
+      {
+        "site": "anime-planet",
+        "id": "a-certain-magical-index"
+      },
+      {
+        "site": "anime-planet",
+        "id": "a-certain-magical-index-iii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "a-certain-magical-index-movie-the-miracle-of-endymion"
+      },
+      {
+        "site": "anime-planet",
+        "id": "a-certain-magical-index-tan-ii"
+      },
+      {
+        "site": "anisearch",
+        "id": "12847"
+      },
+      {
+        "site": "anisearch",
+        "id": "4946"
+      },
+      {
+        "site": "anisearch",
+        "id": "7338"
+      },
+      {
+        "site": "kitsu",
+        "id": "13880"
+      },
+      {
+        "site": "kitsu",
+        "id": "3725"
+      },
+      {
+        "site": "kitsu",
+        "id": "6098"
+      },
+      {
+        "site": "kitsu",
+        "id": "6583"
+      },
+      {
+        "site": "livechart",
+        "id": "2895"
+      },
+      {
+        "site": "livechart",
+        "id": "3325"
+      },
+      {
+        "site": "livechart",
+        "id": "3549"
+      },
+      {
+        "site": "livechart",
+        "id": "3930"
+      },
+      {
+        "site": "livechart",
+        "id": "4174"
+      },
+      {
+        "site": "livechart",
+        "id": "4238"
+      },
+      {
+        "site": "livechart",
+        "id": "908"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10249"
+      },
+      {
+        "site": "myanimelist",
+        "id": "11743"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36432"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4654"
+      },
+      {
+        "site": "notify",
+        "id": "5clIpKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "NtPntKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "SuBShFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "_6ir5Fmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/75612.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/75612t.jpg",
+    "synonyms": [
+      "A Certain Magical Index 2",
+      "A Certain Magical Index II",
+      "A Certain Magical Index Temporada 2",
+      "Cấm thư ma thuật Index II",
+      "Daftar Sihir Terlarang II",
+      "Index2",
+      "To Aru Majutsu no Index II",
+      "Toaru Majutsu no Index 2",
+      "Toaru Majutsu no Kinsho Mokuroku 2",
+      "Toaru Majutsu no Kinsho Mokuroku II",
+      "Toaru: Index 2",
+      "אינדקס הקסומה 2",
+      "อินเดกซ์คัมภีร์คาถาต้องห้าม ภาค 2",
+      "とあるまじゅつのいんでっくすつー",
+      "とある魔術の禁書目録 II",
+      "とある魔術の禁書目録II",
+      "とある魔術の禁書目録[インデックス]II",
+      "とある魔術の禁書目録Ⅱ",
+      "魔法禁书目录 2",
+      "魔法禁书目录 第二季",
+      "魔法禁书目录第二季",
+      "魔法禁書目錄 II",
+      "어떤 마술의 금서목록 II"
+    ]
+  },
+  {
+    "title": "薄桜鬼 碧血録",
+    "titleTranslate": {
+      "zh-Hans": [
+        "薄樱鬼 碧血录"
+      ],
+      "zh-Hant": [
+        "薄櫻鬼 碧血錄"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.geneonuniversal.jp/rondorobe/anime/hakuoki/tv/",
+    "begin": "2010-10-04T00:30:00.000Z",
+    "end": "2010-12-06T01:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "Kxbxb9c9retOzDQ",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "o/oeumrq4cl65k3h2",
+        "begin": ""
+      },
+      {
+        "site": "letv",
+        "id": "29801",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "7350"
+      },
+      {
+        "site": "bilibili",
+        "id": "762",
+        "begin": "2010-10-01T16:00:00.000Z",
+        "broadcast": "R/2016-05-10T04:23:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "37843",
+        "begin": "2022-07-01T03:00:00.000Z",
+        "broadcast": "R/2022-07-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "7405"
+      },
+      {
+        "site": "anidb",
+        "id": "9000"
+      },
+      {
+        "site": "anilist",
+        "id": "13119"
+      },
+      {
+        "site": "anilist",
+        "id": "6895"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hakuouki-a-memory-of-snow-flowers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hakuouki-dawn-of-the-shinsengumi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hakuouki-dawn-of-the-shinsengumi-tokuten-disc"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hakuouki-demon-of-the-fleeting-blossom"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hakuouki-demon-of-the-fleeting-blossom-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hakuouki-movie-1-wild-dance-of-kyoto"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hakuouki-movie-2-warrior-spirit-of-the-blue-sky"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hakuouki-otogisoushi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hakuouki-record-of-the-jade-blood-episode-0"
+      },
+      {
+        "site": "anisearch",
+        "id": "6066"
+      },
+      {
+        "site": "anisearch",
+        "id": "6896"
+      },
+      {
+        "site": "anisearch",
+        "id": "8808"
+      },
+      {
+        "site": "kitsu",
+        "id": "4775"
+      },
+      {
+        "site": "kitsu",
+        "id": "5836"
+      },
+      {
+        "site": "kitsu",
+        "id": "6886"
+      },
+      {
+        "site": "livechart",
+        "id": "1026"
+      },
+      {
+        "site": "livechart",
+        "id": "10672"
+      },
+      {
+        "site": "livechart",
+        "id": "1909"
+      },
+      {
+        "site": "livechart",
+        "id": "2741"
+      },
+      {
+        "site": "livechart",
+        "id": "351"
+      },
+      {
+        "site": "livechart",
+        "id": "4089"
+      },
+      {
+        "site": "livechart",
+        "id": "41"
+      },
+      {
+        "site": "livechart",
+        "id": "5753"
+      },
+      {
+        "site": "livechart",
+        "id": "5845"
+      },
+      {
+        "site": "livechart",
+        "id": "8091"
+      },
+      {
+        "site": "livechart",
+        "id": "856"
+      },
+      {
+        "site": "livechart",
+        "id": "8948"
+      },
+      {
+        "site": "myanimelist",
+        "id": "13119"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6895"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9723"
+      },
+      {
+        "site": "notify",
+        "id": "SFTMpFiig"
+      },
+      {
+        "site": "notify",
+        "id": "nPmRtKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "p9GDtFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 10,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/71797.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/71797t.jpg",
+    "synonyms": [
+      "Dilute Cherry Demon: Blue Blood Records",
+      "Hakuoki 2",
+      "Hakuoki ~Demon of the Fleeting Blossom~ Record of the Jade Blood",
+      "Hakuoki: Demon of the Fleeting Blossom - Record of the Jade Blood",
+      "Hakuoki: Record Of The Jade Blood - Season Two",
+      "Hakuoki: Record of the Jade Blood",
+      "Hakuouki 2",
+      "Hakuouki Hekketsuroku",
+      "Hakuouki Shinsengumi Kitan Hekketsuroku",
+      "Hakuouki: Hekketsu-roku - Shinsengumi Kitan",
+      "Hakuouki: Record of the Jade Blood",
+      "Hakuōki: Hekketsu-roku - Shinsengumi Kitan",
+      "Демонът в черешите: Хроники за синята кръв",
+      "はくおうきへっけつろく",
+      "薄桜鬼 碧血録",
+      "薄桜鬼 碧血録 新選組奇譚",
+      "薄樱鬼 碧血录"
+    ]
+  },
+  {
+    "title": "咎狗の血",
+    "titleTranslate": {
+      "zh-Hans": [
+        "咎狗之血"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.togainu.tv/index.html",
+    "begin": "2010-10-07T16:25:00.000Z",
+    "end": "2010-12-23T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "LB3oZs40pOJFwys",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "8/8xcawqzxvuchjso",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "5332"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch633",
+        "begin": "2010-10-13T18:15:00.000Z"
+      },
+      {
+        "site": "anilist",
+        "id": "110346"
+      },
+      {
+        "site": "kitsu",
+        "id": "13490"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35328"
+      },
+      {
+        "site": "notify",
+        "id": "n76nhFimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/75187.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/75187t.jpg",
+    "synonyms": [
+      "Blood of the Reprimanded Dog",
+      "Blood of the Reprimanded Hound",
+      "Togainu no Chi: Bloody Curs",
+      "togainu",
+      "Кровь окаянного пса",
+      "とがいぬのち",
+      "咎狗の血",
+      "咎狗之血"
+    ]
+  },
+  {
+    "title": "もっとTo LOVEる -とらぶる-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "更多 出包王女",
+        "出包王女 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.j-toloveru.com/old/",
+    "begin": "2010-10-05T17:00:00.000Z",
+    "end": "2010-12-21T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8546"
+      },
+      {
+        "site": "nicovideo",
+        "id": "to-love-ru2",
+        "begin": "2012-10-17T06:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "6463"
+      },
+      {
+        "site": "anidb",
+        "id": "9133"
+      },
+      {
+        "site": "anilist",
+        "id": "13663"
+      },
+      {
+        "site": "anilist",
+        "id": "5667"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-love-ru"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-love-ru-darkness"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-love-ru-darkness-2nd"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-love-ru-darkness-2nd-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-love-ru-darkness-2nd-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-love-ru-darkness-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-love-ru-multiplication-mae-kara-ushiro-kara"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-love-ru-ova"
+      },
+      {
+        "site": "anisearch",
+        "id": "5201"
+      },
+      {
+        "site": "anisearch",
+        "id": "7788"
+      },
+      {
+        "site": "kitsu",
+        "id": "4233"
+      },
+      {
+        "site": "kitsu",
+        "id": "7007"
+      },
+      {
+        "site": "livechart",
+        "id": "1094"
+      },
+      {
+        "site": "livechart",
+        "id": "1341"
+      },
+      {
+        "site": "livechart",
+        "id": "1846"
+      },
+      {
+        "site": "livechart",
+        "id": "2976"
+      },
+      {
+        "site": "livechart",
+        "id": "3610"
+      },
+      {
+        "site": "livechart",
+        "id": "3720"
+      },
+      {
+        "site": "livechart",
+        "id": "3846"
+      },
+      {
+        "site": "livechart",
+        "id": "962"
+      },
+      {
+        "site": "myanimelist",
+        "id": "13663"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5667"
+      },
+      {
+        "site": "notify",
+        "id": "ceYDpFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "o1yjcKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/59875.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/59875t.jpg",
+    "synonyms": [
+      "More ToLoveRu",
+      "More Trouble",
+      "Motto To LOVE Ru",
+      "Motto To Love Ru",
+      "Motto To Love-Ru",
+      "Motto To Love-Ru: Trouble",
+      "Motto To Loveru",
+      "Motto To-Love-Ru",
+      "To Love Ru: Motto",
+      "mtlr",
+      "toloveru2",
+      "もっと To LOVEる -とらぶる-",
+      "もっとTo LOVEる -とらぶる-",
+      "更多 出包王女",
+      "좀 더 To LOVE루 -트러블-"
+    ]
+  },
+  {
+    "title": "俺の妹がこんなに可愛いわけがない",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的妹妹哪有这么可爱"
+      ],
+      "zh-Hant": [
+        "我的妹妹哪有這麼可愛！"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.oreimo-anime.com/1st/index.html",
+    "begin": "2010-10-03T14:30:00.000Z",
+    "end": "2011-05-31T03:27:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "29884",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "5436"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch639",
+        "begin": "2010-10-10T03:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "2660",
+        "begin": "2010-10-03T14:30:00.000Z",
+        "broadcast": "R/2014-08-01T11:18:00.000Z/P7D"
+      },
+      {
+        "site": "youku",
+        "id": "fd5ddce061ad11e0bea1",
+        "begin": "2011-10-12T23:50:34.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "36603",
+        "begin": "2020-11-06T05:00:00.000Z",
+        "broadcast": "R/2020-11-06T05:00:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "10020"
+      },
+      {
+        "site": "anilist",
+        "id": "8769"
+      },
+      {
+        "site": "anime-planet",
+        "id": "claris-nexus"
+      },
+      {
+        "site": "anime-planet",
+        "id": "claris-reunion"
+      },
+      {
+        "site": "anime-planet",
+        "id": "oreimo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "oreimo-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "oreimo-2-animated-commentary"
+      },
+      {
+        "site": "anime-planet",
+        "id": "oreimo-2-ore-no-imouto-ga-konnani-eroge-na-wake-nai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "oreimo-2-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "oreimo-specials"
+      },
+      {
+        "site": "anisearch",
+        "id": "6232"
+      },
+      {
+        "site": "anisearch",
+        "id": "9809"
+      },
+      {
+        "site": "kitsu",
+        "id": "5487"
+      },
+      {
+        "site": "kitsu",
+        "id": "5998"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10020"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8769"
+      },
+      {
+        "site": "notify",
+        "id": "KpVnpKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "fGkWtFimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 16,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/28061.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/28061t.jpg",
+    "synonyms": [
+      "My Little Sister Can't Be This Cute Animated Commentary",
+      "My Little Sister Can't Be This Cute Specials Animated Commentary",
+      "My Little Sister Can't Be This Cute: Animated Commentary",
+      "Ore no Imouto ga Konna ni Kawaii Wake ga Nai Animated Commentary",
+      "Ore no Imouto ga Konna ni Kawaii Wake ga Nai: Animated Commentary",
+      "Ore no Imouto ga Konnani Kawaii Wake ga Nai Animated Commentary",
+      "Ore no Imōto ga Konna ni Kawaī Wake ga Nai: Animated Commentary",
+      "Oreimo Animated Commentary",
+      "俺の妹がこんなに可愛いわけがない",
+      "俺の妹がこんなに可愛いわけがない Animated Commentary",
+      "俺の妹がこんなに可愛いわけがない SDキャラによるキャラクターコメンタリー"
+    ]
+  },
+  {
+    "title": "スーパーロボット大戦OG ジ・インスペクター",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超级机器人大战OG -The inspector-",
+        "超级机器人大战原创世纪 -The inspector-"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.suparobo.jp/srw_lineup/srw_ogin/",
+    "begin": "2010-10-01T16:00:00.000Z",
+    "end": "2011-04-01T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "cMG8OqIIeLYZlic8",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "8400"
+      },
+      {
+        "site": "bilibili",
+        "id": "1002",
+        "begin": "2010-10-01T16:00:00.000Z",
+        "broadcast": "R/2011-05-24T17:16:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "3394"
+      },
+      {
+        "site": "anidb",
+        "id": "4761"
+      },
+      {
+        "site": "anilist",
+        "id": "1544"
+      },
+      {
+        "site": "anilist",
+        "id": "4075"
+      },
+      {
+        "site": "anime-planet",
+        "id": "super-robot-wars-og-divine-wars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "super-robot-wars-og-divine-wars-separate-paths"
+      },
+      {
+        "site": "anime-planet",
+        "id": "super-robot-wars-original-generation"
+      },
+      {
+        "site": "anisearch",
+        "id": "3402"
+      },
+      {
+        "site": "anisearch",
+        "id": "3896"
+      },
+      {
+        "site": "kitsu",
+        "id": "1385"
+      },
+      {
+        "site": "kitsu",
+        "id": "3450"
+      },
+      {
+        "site": "livechart",
+        "id": "10345"
+      },
+      {
+        "site": "livechart",
+        "id": "6703"
+      },
+      {
+        "site": "livechart",
+        "id": "8298"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1544"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4075"
+      },
+      {
+        "site": "notify",
+        "id": "VGnucFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "qSb-cFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/44239.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/44239t.jpg",
+    "synonyms": [
+      "SRWOG",
+      "Super Robot Taisen Original Generation: The Inspector",
+      "Super Robot Wars OG The Inspector",
+      "Super Robot Wars OG: The Inspector",
+      "スーパーロボット大戦OG -ジ・インスペクター-",
+      "スーパーロボット大戦OG ジ・インスペクター",
+      "超级机器人大战OG -The inspector-",
+      "超级机器人大战OG2"
+    ]
+  },
+  {
+    "title": "テガミバチ REVERSE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "信蜂 REVERSE"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/tegamibachi/",
+    "begin": "2010-10-02T15:10:00.000Z",
+    "end": "2011-03-26T15:20:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "7882"
+      },
+      {
+        "site": "youku",
+        "id": "fd5a8b8061ad11e0bea1",
+        "begin": "2012-11-27T08:09:03.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "6772"
+      },
+      {
+        "site": "anilist",
+        "id": "6444"
+      },
+      {
+        "site": "anilist",
+        "id": "9673"
+      },
+      {
+        "site": "anime-planet",
+        "id": "letter-bee-academy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tegami-bachi-letter-bee"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tegami-bachi-letter-bee-light-and-blue-night-fantasy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tegami-bachi-letter-bee-reverse-specials"
+      },
+      {
+        "site": "anisearch",
+        "id": "5439"
+      },
+      {
+        "site": "kitsu",
+        "id": "4564"
+      },
+      {
+        "site": "kitsu",
+        "id": "5824"
+      },
+      {
+        "site": "livechart",
+        "id": "3956"
+      },
+      {
+        "site": "livechart",
+        "id": "7386"
+      },
+      {
+        "site": "livechart",
+        "id": "8462"
+      },
+      {
+        "site": "livechart",
+        "id": "9133"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6444"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9673"
+      },
+      {
+        "site": "notify",
+        "id": "JXpMtKiig"
+      },
+      {
+        "site": "notify",
+        "id": "LYM6cFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 25,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/26472.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/26472t.jpg",
+    "synonyms": [
+      "Letter Bee 2",
+      "Letter Bee 2 REVERSE",
+      "Letter Bee 2nd Season",
+      "Letter Bee : Reverse",
+      "Letter Bee REVERSE",
+      "Letter Bee Reverse",
+      "Tegami Bachi 2",
+      "Tegami Bachi Letter Bee Temporada 2",
+      "Tegami Bachi REVERSE",
+      "Tegami Bachi Reverse",
+      "Tegami Bachi: Letter Bee 2",
+      "Tegami Bachi: Letter Bee Reverse",
+      "bee2",
+      "tb2",
+      "tbr",
+      "てがみばちりばーす",
+      "テガミバチ REVERSE",
+      "信蜂 REVERSE"
+    ]
+  },
+  {
+    "title": "バクマン。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爆漫王。"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www9.nhk.or.jp/anime/bakuman/",
+    "begin": "2010-10-02T09:00:00.000Z",
+    "end": "2011-04-02T09:25:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3428"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bakuman1",
+        "begin": "2012-10-20T15:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "727",
+        "begin": "2010-10-02T09:00:00.000Z",
+        "broadcast": "R/2010-11-13T14:59:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "12365"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bakuman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bakuman-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bakuman-2-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bakuman-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bakuman-deraman"
+      },
+      {
+        "site": "anisearch",
+        "id": "7461"
+      },
+      {
+        "site": "kitsu",
+        "id": "6714"
+      },
+      {
+        "site": "livechart",
+        "id": "1165"
+      },
+      {
+        "site": "livechart",
+        "id": "3298"
+      },
+      {
+        "site": "livechart",
+        "id": "6162"
+      },
+      {
+        "site": "livechart",
+        "id": "6215"
+      },
+      {
+        "site": "livechart",
+        "id": "924"
+      },
+      {
+        "site": "myanimelist",
+        "id": "12365"
+      },
+      {
+        "site": "notify",
+        "id": "iTpHpFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2013,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/62061.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/62061t.jpg",
+    "synonyms": [
+      "Bakuman. (2012) Specials",
+      "Bakuman. 3 Specials",
+      "ばくまん",
+      "バクマン。",
+      "バクマン。（2012） Specials"
+    ]
+  },
+  {
+    "title": "えむえむっ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "MM一族"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.butaro.net/",
+    "begin": "2010-10-02T00:30:00.000Z",
+    "end": "2010-12-18T01:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8390"
+      },
+      {
+        "site": "anilist",
+        "id": "9581"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mm-group-ss"
+      },
+      {
+        "site": "anisearch",
+        "id": "6923"
+      },
+      {
+        "site": "kitsu",
+        "id": "5797"
+      },
+      {
+        "site": "livechart",
+        "id": "4314"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9581"
+      },
+      {
+        "site": "notify",
+        "id": "yHOGtKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/85871.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/85871t.jpg",
+    "synonyms": [
+      "Emu Emu!",
+      "MM! Group",
+      "MM一族!",
+      "Молодые Мазохисты!",
+      "ยายตัวร้ายกับนายมาโซ!",
+      "えむえむっ!",
+      "えむえむっ！"
+    ]
+  },
+  {
+    "title": "神のみぞ知るセカイ",
+    "titleTranslate": {
+      "en": [
+        "The World God Only Knows"
+      ],
+      "zh-Hans": [
+        "只有神知道的世界"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://kaminomi.jp/index.html",
+    "begin": "2010-10-06T16:50:00.000Z",
+    "end": "2010-12-22T17:20:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "5976"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kaminomi1",
+        "begin": "2013-07-09T06:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "fcbec78661ad11e0bea1",
+        "begin": "2011-08-23T17:06:23.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "8167"
+      },
+      {
+        "site": "anidb",
+        "id": "8632"
+      },
+      {
+        "site": "anilist",
+        "id": "10080"
+      },
+      {
+        "site": "anilist",
+        "id": "17725"
+      },
+      {
+        "site": "anilist",
+        "id": "9675"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nonstop-hunters"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-world-god-only-knows-flag-0"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-world-god-only-knows-four-girls-and-an-idol"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-world-god-only-knows-goddesses-arc"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-world-god-only-knows-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-world-god-only-knows-kiss-kiss-kiss"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-world-god-only-knows-magical-star-kanon-100"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-world-god-only-knows-natsuiro-surprise"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-world-god-only-knows-tenri-arc"
+      },
+      {
+        "site": "anisearch",
+        "id": "6723"
+      },
+      {
+        "site": "anisearch",
+        "id": "7279"
+      },
+      {
+        "site": "anisearch",
+        "id": "9657"
+      },
+      {
+        "site": "kitsu",
+        "id": "5825"
+      },
+      {
+        "site": "kitsu",
+        "id": "6026"
+      },
+      {
+        "site": "kitsu",
+        "id": "6524"
+      },
+      {
+        "site": "kitsu",
+        "id": "7688"
+      },
+      {
+        "site": "livechart",
+        "id": "1534"
+      },
+      {
+        "site": "livechart",
+        "id": "20"
+      },
+      {
+        "site": "livechart",
+        "id": "3718"
+      },
+      {
+        "site": "livechart",
+        "id": "3895"
+      },
+      {
+        "site": "livechart",
+        "id": "862"
+      },
+      {
+        "site": "livechart",
+        "id": "997"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10080"
+      },
+      {
+        "site": "myanimelist",
+        "id": "11507"
+      },
+      {
+        "site": "myanimelist",
+        "id": "17725"
+      },
+      {
+        "site": "myanimelist",
+        "id": "51133"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9675"
+      },
+      {
+        "site": "notify",
+        "id": "2etGpFmig"
+      },
+      {
+        "site": "notify",
+        "id": "aHrcpKimg"
+      },
+      {
+        "site": "notify",
+        "id": "bN1ItFimR"
+      },
+      {
+        "site": "notify",
+        "id": "fPdnpKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/43361.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/43361t.jpg",
+    "synonyms": [
+      "(The) World God Only Knows",
+      "Kaminomi",
+      "Que sa volonté Soit Faite",
+      "Que sa volonté soit faite",
+      "The World God Only Knows",
+      "twgok",
+      "twgok1",
+      "Одному лишь Богу ведомый мир",
+      "Светът",
+      "който само Бог познава",
+      "دنیایی که فقط خدا آن را میشناسد",
+      "دنیایی که فقط خدا می شناسد",
+      "کامی نومی زو شیرو سکای",
+      "かみのみぞしるせかい",
+      "只有神知道的世界",
+      "神のみぞ知るセカイ",
+      "神のみぞ知るセカイ The World God Only Knows"
+    ]
+  },
+  {
+    "title": "パンティ&ストッキングwithガーターベルト",
+    "titleTranslate": {
+      "en": [
+        "Panty&Stocking with Garterbelt"
+      ],
+      "zh-Hans": [
+        "吊带袜天使",
+        "小裤裤、长筒袜、吊袜带、psg"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://newtype.kadocomic.jp/psg/",
+    "begin": "2010-10-01T18:00:00.000Z",
+    "end": "2010-12-24T18:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8402"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch635",
+        "begin": "2011-06-09T15:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "17493"
+      },
+      {
+        "site": "anilist",
+        "id": "10739"
+      },
+      {
+        "site": "anilist",
+        "id": "151799"
+      },
+      {
+        "site": "anime-planet",
+        "id": "new-panty-and-stocking-with-garterbelt"
+      },
+      {
+        "site": "anime-planet",
+        "id": "panty-and-stocking-in-sanitary-box"
+      },
+      {
+        "site": "anisearch",
+        "id": "17494"
+      },
+      {
+        "site": "anisearch",
+        "id": "7339"
+      },
+      {
+        "site": "kitsu",
+        "id": "46227"
+      },
+      {
+        "site": "kitsu",
+        "id": "6326"
+      },
+      {
+        "site": "livechart",
+        "id": "11317"
+      },
+      {
+        "site": "livechart",
+        "id": "4418"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10739"
+      },
+      {
+        "site": "myanimelist",
+        "id": "52293"
+      },
+      {
+        "site": "notify",
+        "id": "-vKPj29VR"
+      },
+      {
+        "site": "notify",
+        "id": "7DLVpKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/73643.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/73643t.jpg",
+    "synonyms": [
+      "P&SWG",
+      "PSG",
+      "PanSto",
+      "Panty and Stocking with Garterbelt",
+      "Panty&Stocking with Garterbelt",
+      "pansuto",
+      "psg",
+      "Панти и Стокинг с Гартербелт",
+      "Труселя и Колготы",
+      "Труська",
+      "Чулко и Пресвятой Подвяз",
+      "パンティ&ストッキングwithガーターベル",
+      "パンティ&ストッキングwithガーターベルト",
+      "パンティ＆ストッキングwithガーターベルト",
+      "吊带袜天使",
+      "팬티 & 스타킹 with 가터벨트"
+    ]
+  },
+  {
+    "title": "侵略！イカ娘",
+    "titleTranslate": {
+      "en": [
+        "The invader comes from the bottom of the sea!"
+      ],
+      "zh-Hans": [
+        "侵略！乌贼娘"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.ika-musume.com/season_1/",
+    "begin": "2010-10-04T17:00:00.000Z",
+    "end": "2010-12-20T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "7842"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ika-musume-01",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "fcbf969861ad11e0bea1",
+        "begin": "2018-05-03T03:34:29.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "8294"
+      },
+      {
+        "site": "anidb",
+        "id": "8510"
+      },
+      {
+        "site": "anidb",
+        "id": "8896"
+      },
+      {
+        "site": "anidb",
+        "id": "9046"
+      },
+      {
+        "site": "anilist",
+        "id": "10378"
+      },
+      {
+        "site": "anilist",
+        "id": "10849"
+      },
+      {
+        "site": "anilist",
+        "id": "15453"
+      },
+      {
+        "site": "anilist",
+        "id": "9888"
+      },
+      {
+        "site": "anime-planet",
+        "id": "squid-girl-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "squid-girl-ika-ice-tabena-ika"
+      },
+      {
+        "site": "anime-planet",
+        "id": "squid-girl-kore-ga-umi-e-no-ai-janaika"
+      },
+      {
+        "site": "anime-planet",
+        "id": "squid-girl-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "squid-girls-specials"
+      },
+      {
+        "site": "anisearch",
+        "id": "6920"
+      },
+      {
+        "site": "anisearch",
+        "id": "7206"
+      },
+      {
+        "site": "anisearch",
+        "id": "7207"
+      },
+      {
+        "site": "anisearch",
+        "id": "7546"
+      },
+      {
+        "site": "anisearch",
+        "id": "7689"
+      },
+      {
+        "site": "kitsu",
+        "id": "5925"
+      },
+      {
+        "site": "kitsu",
+        "id": "6156"
+      },
+      {
+        "site": "kitsu",
+        "id": "6381"
+      },
+      {
+        "site": "kitsu",
+        "id": "7259"
+      },
+      {
+        "site": "livechart",
+        "id": "1091"
+      },
+      {
+        "site": "livechart",
+        "id": "1203"
+      },
+      {
+        "site": "livechart",
+        "id": "5263"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10378"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10849"
+      },
+      {
+        "site": "myanimelist",
+        "id": "15453"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9888"
+      },
+      {
+        "site": "notify",
+        "id": "1kC4pFmig"
+      },
+      {
+        "site": "notify",
+        "id": "Yi37tKimg"
+      },
+      {
+        "site": "notify",
+        "id": "ovjOpKiig"
+      },
+      {
+        "site": "notify",
+        "id": "z_XMtKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1734/118930.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1734/118930t.jpg",
+    "synonyms": [
+      "Squid Girl",
+      "Sépijka",
+      "The Invader Comes From the Bottom of the Sea!",
+      "The Squid Girl",
+      "The Squid Girl: The Invader Comes from the Bottom of the Sea!",
+      "ika musume",
+      "ikamusume",
+      "Вторжение кальмарки",
+      "Нашествие девочки Кальмарки!",
+      "侵略! イカ娘",
+      "侵略! 乌贼娘",
+      "侵略!イカ娘",
+      "侵略！イカ娘"
+    ]
+  },
+  {
+    "title": "FORTUNE ARTERIAL 赤い約束",
+    "titleTranslate": {
+      "zh-Hans": [
+        "FORTUNE ARTERIAL -赤之约束-",
+        "赤色的约定",
+        "命运动脉"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://newtype.kadocomic.jp/fortune/",
+    "begin": "2010-10-08T16:23:00.000Z",
+    "end": "2010-12-24T16:53:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "MQD7eeFHticVY1j4",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrk77zg1",
+        "begin": "2012-09-01T10:01:32.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "7844"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch634",
+        "begin": "2010-10-14T03:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "996",
+        "begin": "2010-10-07T16:00:00.000Z",
+        "broadcast": "R/2010-10-09T03:38:00.000Z/P7D"
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200pz3vcv4",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "7579"
+      },
+      {
+        "site": "anilist",
+        "id": "9347"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fortune-arterial-ova"
+      },
+      {
+        "site": "anisearch",
+        "id": "6277"
+      },
+      {
+        "site": "kitsu",
+        "id": "5694"
+      },
+      {
+        "site": "livechart",
+        "id": "4160"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9347"
+      },
+      {
+        "site": "notify",
+        "id": "1KCWtFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/26876.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/26876t.jpg",
+    "synonyms": [
+      "FA",
+      "FORTUNE ARTERIAL -赤之约束-",
+      "FORTUNE ARTERIAL 赤い約束",
+      "FORTUNE ARTERIAL: Akai Yakusoku",
+      "Fortune Arterial",
+      "Fortune Arterial Akai Yakusoku",
+      "Fortune Arterial: Red Promise",
+      "foateri",
+      "forarteri",
+      "Развилка Фортуны: Обещание",
+      "Связавшее Нас",
+      "ふぉーちゅんあてりあるあかいやくそく",
+      "フォアテリ",
+      "フォーチュン アテリアル 赤い約束"
+    ]
+  },
+  {
+    "title": "STAR DRIVER 輝きのタクト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "STAR DRIVER 闪亮的拓人",
+        "银河美少年",
+        "驭星者",
+        "STAR DRIVER 闪亮的塔科特"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.star-driver.net/",
+    "begin": "2010-10-03T08:00:00.000Z",
+    "end": "2011-04-03T08:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "LhvmZMwyouBDwSk",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "z/zk2apezuzr2du42",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "7348"
+      },
+      {
+        "site": "nicovideo",
+        "id": "star-driver",
+        "begin": "2014-06-09T06:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "994",
+        "begin": "2010-10-02T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "9410"
+      },
+      {
+        "site": "anilist",
+        "id": "12857"
+      },
+      {
+        "site": "anime-planet",
+        "id": "star-driver-the-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "8052"
+      },
+      {
+        "site": "kitsu",
+        "id": "6826"
+      },
+      {
+        "site": "livechart",
+        "id": "907"
+      },
+      {
+        "site": "myanimelist",
+        "id": "12857"
+      },
+      {
+        "site": "notify",
+        "id": "0lCHtFiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 25,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/25953.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/25953t.jpg",
+    "synonyms": [
+      "STAR DRIVER 輝きのタクト",
+      "STAR DRIVER 闪亮的拓人",
+      "STAR DRIVER 빛의 타쿠토",
+      "STAR DRIVER: Kagayaki no Takuto",
+      "STAR DRIVER: Shining Takuto",
+      "Star Driver",
+      "Star Driver Kagayaki no Takuto",
+      "Star Driver 輝きのタクト",
+      "Star Driver: Radiant Takuto",
+      "StarDriver",
+      "sutadora",
+      "ستاره سوار",
+      "すたーどらいばーかがやきのたくと",
+      "スタドラ"
+    ]
+  },
+  {
+    "title": "海月姫",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海月姬"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://kuragehime.noitamina.tv/",
+    "begin": "2010-10-14T15:55:00.000Z",
+    "end": "2010-12-30T16:10:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "ZNWwLpb8bKoNiaicM",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "6811"
+      },
+      {
+        "site": "bilibili",
+        "id": "995",
+        "begin": "2010-10-13T16:00:00.000Z",
+        "broadcast": "R/2020-11-10T03:08:00.000Z/P7D"
+      },
+      {
+        "site": "letv",
+        "id": "30332",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "y/yu4hmkcqcke6fmz",
+        "begin": ""
+      },
+      {
+        "site": "anilist",
+        "id": "10391"
+      },
+      {
+        "site": "anilist",
+        "id": "9754"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kuragehime-soreike-amars-tankentai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kuragehime-specials"
+      },
+      {
+        "site": "anisearch",
+        "id": "7745"
+      },
+      {
+        "site": "anisearch",
+        "id": "7752"
+      },
+      {
+        "site": "kitsu",
+        "id": "5852"
+      },
+      {
+        "site": "kitsu",
+        "id": "6162"
+      },
+      {
+        "site": "livechart",
+        "id": "5147"
+      },
+      {
+        "site": "livechart",
+        "id": "6051"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10391"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9754"
+      },
+      {
+        "site": "notify",
+        "id": "Rk6ntKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "W6JGtKmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 11,
+    "picture": "https://cdn.myanimelist.net/images/anime/1764/133575.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1764/133575t.jpg",
+    "synonyms": [
+      "Jellyfish Princess",
+      "Kurage-hime",
+      "Princess Jellyfish",
+      "Princezna Medúza",
+      "Принцесса-медуза",
+      "くらげひめ",
+      "海月姫",
+      "海月姫 ～くらげひめ～",
+      "海月姬"
+    ]
+  },
+  {
+    "title": "おまえうまそうだな",
+    "titleTranslate": {
+      "zh-Hans": [
+        "你看起来很好吃",
+        "你看起来很好吃 电影版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2010-10-16T16:00:00.000Z",
+    "end": "2010-10-16T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "RfLeXMQqmtg7uSE",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhc0nzd",
+        "begin": "2014-09-04T16:20:17.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "13014"
+      },
+      {
+        "site": "bilibili",
+        "id": "4555",
+        "begin": "2010-10-15T16:00:01.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "11054"
+      },
+      {
+        "site": "anidb",
+        "id": "14069"
+      },
+      {
+        "site": "anidb",
+        "id": "7942"
+      },
+      {
+        "site": "anilist",
+        "id": "21097"
+      },
+      {
+        "site": "anilist",
+        "id": "9395"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tatsuya-miyanishi-theatre-heart-and-yummie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-adventures-of-tyrano-boy"
+      },
+      {
+        "site": "anisearch",
+        "id": "10194"
+      },
+      {
+        "site": "anisearch",
+        "id": "6509"
+      },
+      {
+        "site": "kitsu",
+        "id": "10529"
+      },
+      {
+        "site": "kitsu",
+        "id": "5720"
+      },
+      {
+        "site": "livechart",
+        "id": "1445"
+      },
+      {
+        "site": "livechart",
+        "id": "7882"
+      },
+      {
+        "site": "livechart",
+        "id": "9782"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29863"
+      },
+      {
+        "site": "myanimelist",
+        "id": "41190"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9395"
+      },
+      {
+        "site": "notify",
+        "id": "2ugGpFmig"
+      },
+      {
+        "site": "notify",
+        "id": "PPq8tFimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/27167.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/27167t.jpg",
+    "synonyms": [
+      "Heart and Yummie",
+      "Heart and Yummie (Movie)",
+      "Omae Umasou Da na",
+      "Omae Umasou da na Movie",
+      "Omae Umasō da na",
+      "To je Bašta!",
+      "You Are Umasou",
+      "You Are Umasou (Movie)",
+      "You are Umasou",
+      "おまえうまそうだな",
+      "你看起来很好吃"
+    ]
+  },
+  {
+    "title": "ロビンくんと100人のお友達",
+    "titleTranslate": {
+      "en": [
+        "Robin with his 100 friends"
+      ],
+      "zh-Hans": [
+        "罗宾与他的100个朋友"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.robin100f.com/jhome.html",
+    "begin": "2010-10-10T22:00:00.000Z",
+    "end": "2011-01-02T22:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8619"
+      },
+      {
+        "site": "anilist",
+        "id": "15069"
+      },
+      {
+        "site": "anime-planet",
+        "id": "robin-kun-to-100-nin-no-otomodachi-season-2"
+      },
+      {
+        "site": "anisearch",
+        "id": "7871"
+      },
+      {
+        "site": "kitsu",
+        "id": "7207"
+      },
+      {
+        "site": "myanimelist",
+        "id": "15069"
+      },
+      {
+        "site": "notify",
+        "id": "WwBOpFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/26413.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/26413t.jpg",
+    "synonyms": [
+      "Robin With His 100 Friends",
+      "Robin with his 100 Friends",
+      "Robin-kun to 100-nin no Otomodachi",
+      "ろびんくんとひゃくにんのおともだち",
+      "ロビンくんと100人のお友達"
+    ]
+  },
+  {
+    "title": "カルルとふしぎな塔",
+    "titleTranslate": {
+      "zh-Hans": [
+        "卡鲁鲁与不可思议之塔"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.karl-tower.net/",
+    "begin": "2010-10-08T16:00:00.000Z",
+    "end": "2011-04-01T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8392"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/26411.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/26411t.jpg",
+    "synonyms": [
+      "Karl and Curious Tower",
+      "Karl and the Mysterious Tower",
+      "Karl to Fushigi na Tō",
+      "かるるとふしぎなとう",
+      "カルルとふしぎな塔",
+      "卡鲁鲁与不可思议之塔"
+    ]
+  },
+  {
+    "title": "宮西達也劇場 おまえうまそうだな",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宫西达也剧场 你看起来很好吃",
+        "你这小家伙看起来好可口的嘛"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/umasoudana/",
+    "begin": "2010-10-04T16:00:00.000Z",
+    "end": "2010-10-29T16:05:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "8GZS0DiaeDkyvLZU",
+        "begin": ""
+      },
+      {
+        "site": "letv",
+        "id": "30195",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "17777"
+      },
+      {
+        "site": "anidb",
+        "id": "7655"
+      },
+      {
+        "site": "anilist",
+        "id": "9204"
+      },
+      {
+        "site": "anime-planet",
+        "id": "heart-and-yummie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-adventures-of-tyrano-boy"
+      },
+      {
+        "site": "anisearch",
+        "id": "6556"
+      },
+      {
+        "site": "kitsu",
+        "id": "5631"
+      },
+      {
+        "site": "livechart",
+        "id": "1445"
+      },
+      {
+        "site": "livechart",
+        "id": "4728"
+      },
+      {
+        "site": "livechart",
+        "id": "9782"
+      },
+      {
+        "site": "myanimelist",
+        "id": "41190"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9204"
+      },
+      {
+        "site": "notify",
+        "id": "42PZpFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 20,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/26785.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/26785t.jpg",
+    "synonyms": [
+      "Heart and Yummie (TV)",
+      "Miyanishi Tatsuya Gekijou: Omae Umasou Da na",
+      "Miyanishi Tatsuya Gekijō: Omae Umasō da na",
+      "Omae Umasou Da na: Miyanishi Tatsuya Gekijou",
+      "Tatsuya Miyanishi Theatre: Heart and Yummie",
+      "You Are Delicious",
+      "You Are Umasou",
+      "You Are Umasou (TV)",
+      "You are Umasou: Miyanishi Tatsuya Gekijou",
+      "みやにしたつやげきじょうおまえうまそうだな",
+      "宫西达也剧场 你看起来很好吃",
+      "宮西達也劇場 おまえうまそうだな"
+    ]
+  },
+  {
+    "title": "ひよ恋",
+    "titleTranslate": {
+      "zh-Hans": [
+        "绯色恋"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2010-10-02T16:00:00.000Z",
+    "end": "2010-10-02T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9380"
+      },
+      {
+        "site": "pptv",
+        "id": "JBXwbtY8rOpNyzM",
+        "begin": ""
+      },
+      {
+        "site": "letv",
+        "id": "29873",
+        "begin": ""
+      },
+      {
+        "site": "anilist",
+        "id": "8768"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hiyokoi"
+      },
+      {
+        "site": "anisearch",
+        "id": "6542"
+      },
+      {
+        "site": "kitsu",
+        "id": "5486"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8768"
+      },
+      {
+        "site": "notify",
+        "id": "T3gWpKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2012,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/46827.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/46827t.jpg",
+    "synonyms": [
+      "Ribbon x Oha Suta Specials",
+      "Ribbon x Oha Suta Specials: Hiyokoi",
+      "Ribbon × Oha Suta Specials: Hiyokoi",
+      "Ribon x Oha Suta Specials",
+      "ひよ恋",
+      "ひよ恋 （2012）"
+    ]
+  },
+  {
+    "title": "農業ムスメ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "农业娘"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.agri-girl.jp/",
+    "begin": "2010-10-07T16:00:00.000Z",
+    "end": "2010-10-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8083"
+      },
+      {
+        "site": "bilibili",
+        "id": "4578",
+        "begin": "2010-10-06T16:00:00.000Z",
+        "broadcast": "R/2017-03-28T10:38:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/25307.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/25307t.jpg",
+    "synonyms": [
+      "Agricultural Girls!",
+      "Agriculture Girl",
+      "Agriculture Girls!",
+      "Farmerki!",
+      "Nougyou Musume!: Episode 0",
+      "Nōgyō Musume!",
+      "nomusu",
+      "noumusu",
+      "农业娘",
+      "農ムス",
+      "農業ムスメ!",
+      "農業ムスメ！",
+      "農業ムスメ！プロジェクト"
+    ]
+  },
+  {
+    "title": "食パンミミー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "咸面包咪咪"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://asahi.co.jp/mimi/",
+    "begin": "2010-10-04T16:00:00.000Z",
+    "end": "2012-09-28T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9428"
+      },
+      {
+        "site": "bilibili",
+        "id": "1007",
+        "begin": "2010-10-04T16:00:00.000Z",
+        "broadcast": "R/2010-10-26T09:13:59.000Z/P7D"
+      },
+      {
+        "site": "kitsu",
+        "id": "5791"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9561"
+      },
+      {
+        "site": "notify",
+        "id": "DAvMtFmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2011,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/78817.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/78817t.jpg",
+    "synonyms": [
+      "食パンミミー"
+    ]
+  },
+  {
+    "title": "REDLINE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "红线"
+      ],
+      "zh-Hant": [
+        "超時空甩尾"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tfc-anime.net/redline/",
+    "begin": "2010-10-08T16:00:00.000Z",
+    "end": "2010-10-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8726"
+      },
+      {
+        "site": "gamer",
+        "id": "29758",
+        "begin": "2021-05-06T11:30:00.000Z",
+        "broadcast": "R/2021-05-06T11:30:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1942"
+      },
+      {
+        "site": "anilist",
+        "id": "11483"
+      },
+      {
+        "site": "anilist",
+        "id": "1980"
+      },
+      {
+        "site": "anime-planet",
+        "id": "redline-pilot"
+      },
+      {
+        "site": "anime-planet",
+        "id": "trava-fist-planet"
+      },
+      {
+        "site": "anisearch",
+        "id": "13745"
+      },
+      {
+        "site": "anisearch",
+        "id": "2709"
+      },
+      {
+        "site": "kitsu",
+        "id": "1782"
+      },
+      {
+        "site": "kitsu",
+        "id": "6517"
+      },
+      {
+        "site": "livechart",
+        "id": "6470"
+      },
+      {
+        "site": "myanimelist",
+        "id": "11483"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1980"
+      },
+      {
+        "site": "notify",
+        "id": "3PIY5Fmig"
+      },
+      {
+        "site": "notify",
+        "id": "6gAItFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2009,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/28553.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/28553t.jpg",
+    "synonyms": [
+      "Linha Vermelha",
+      "MAKSIMALUS GREITIS",
+      "REDLINE",
+      "Red Line",
+      "Red line",
+      "Красная черта",
+      "الخط الأحمر",
+      "れっどらいん",
+      "レッドライン",
+      "レドライン",
+      "红线",
+      "红速极限",
+      "超时空甩尾"
+    ]
+  },
+  {
+    "title": "ブレイク ブレイド 第四章 惨禍ノ地",
+    "titleTranslate": {
+      "zh-Hans": [
+        "破刃之剑 第四章 惨祸之地"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://breakblade.jp/",
+    "begin": "2010-10-29T16:00:00.000Z",
+    "end": "2010-10-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "11043"
+      },
+      {
+        "site": "bilibili",
+        "id": "3364",
+        "begin": "2016-02-24T07:01:10.000Z",
+        "broadcast": "R/2016-02-24T07:01:10.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "20618"
+      },
+      {
+        "site": "anilist",
+        "id": "9252"
+      },
+      {
+        "site": "anilist",
+        "id": "9724"
+      },
+      {
+        "site": "anime-planet",
+        "id": "broken-blade-movie-1-the-time-of-awakening"
+      },
+      {
+        "site": "anime-planet",
+        "id": "broken-blade-movie-2-the-path-of-separation"
+      },
+      {
+        "site": "anime-planet",
+        "id": "broken-blade-movie-3-scars-from-an-assassins-blade"
+      },
+      {
+        "site": "anime-planet",
+        "id": "broken-blade-movie-5-the-gap-between-life-and-death"
+      },
+      {
+        "site": "anime-planet",
+        "id": "broken-blade-movie-6-fortress-of-lamentation"
+      },
+      {
+        "site": "anime-planet",
+        "id": "broken-blade-picture-drama"
+      },
+      {
+        "site": "anime-planet",
+        "id": "broken-blade-tv"
+      },
+      {
+        "site": "anime-planet",
+        "id": "broken-blade-tv-virgins-war"
+      },
+      {
+        "site": "kitsu",
+        "id": "5645"
+      },
+      {
+        "site": "kitsu",
+        "id": "5837"
+      },
+      {
+        "site": "kitsu",
+        "id": "8281"
+      },
+      {
+        "site": "livechart",
+        "id": "3953"
+      },
+      {
+        "site": "livechart",
+        "id": "4015"
+      },
+      {
+        "site": "livechart",
+        "id": "4025"
+      },
+      {
+        "site": "livechart",
+        "id": "4043"
+      },
+      {
+        "site": "livechart",
+        "id": "4053"
+      },
+      {
+        "site": "livechart",
+        "id": "426"
+      },
+      {
+        "site": "livechart",
+        "id": "8504"
+      },
+      {
+        "site": "myanimelist",
+        "id": "22433"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9252"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9724"
+      },
+      {
+        "site": "notify",
+        "id": "BUYTtKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "FATGtKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "qnUZtFimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/68085.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/68085t.jpg",
+    "synonyms": [
+      "Break Blade 4: Area of Disaster",
+      "Break Blade 4: Sanka no Chi",
+      "Breaker Blade 4",
+      "Broken Blade 4",
+      "Broken Blade Movie 4: The Land of Calamity",
+      "ブレイク ブレイド 第四章 惨禍ノ地"
+    ]
+  }
+]

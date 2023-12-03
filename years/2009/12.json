@@ -1,188 +1,788 @@
-{
-  "title": "宇宙戦艦ヤマト 復活篇",
-  "titleTranslate": {
-    "zh-Hans": [
-      "宇宙战舰大和号 复活编",
-      "宇宙战舰大和号 复活篇"
+[
+  {
+    "title": "ヒピラくん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "嘻皮拉君"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.hipira.net/",
+    "begin": "2009-12-21T07:30:00.000Z",
+    "end": "2009-12-25T08:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9432"
+      },
+      {
+        "site": "anilist",
+        "id": "104388"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hipira-the-little-vampire"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hipira-the-little-vampire-web-specials"
+      },
+      {
+        "site": "kitsu",
+        "id": "8585"
+      },
+      {
+        "site": "livechart",
+        "id": "11954"
+      },
+      {
+        "site": "livechart",
+        "id": "6977"
+      },
+      {
+        "site": "myanimelist",
+        "id": "22983"
+      },
+      {
+        "site": "notify",
+        "id": "pE6ApFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2014,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/59991.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/59991t.jpg",
+    "synonyms": [
+      "Hipira-kun Episode 13",
+      "Hipira: The Little Vampire Special",
+      "ひぴらくん",
+      "ヒピラくん"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "http://yamato2009.jp/index.html",
-  "begin": "2009-12-11T16:00:00.000Z",
-  "end": "2009-12-11T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "3483"
+  {
+    "title": "こわれかけのオルゴール",
+    "titleTranslate": {
+      "zh-Hans": [
+        "快要坏掉的八音盒"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "4023",
-      "begin": "2016-05-20T03:15:00.000Z",
-      "broadcast": "R/2016-05-20T03:15:00.000Z/P7D"
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.ne.jp/asahi/magneticwave/popcan/kowa/",
+    "begin": "2009-12-29T16:00:00.000Z",
+    "end": "2009-12-29T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "6307",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3806"
+      },
+      {
+        "site": "bilibili",
+        "id": "3292",
+        "begin": "2009-12-28T16:00:01.000Z",
+        "broadcast": "R/2016-01-14T08:58:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "10918"
+      },
+      {
+        "site": "anilist",
+        "id": "9213"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kowarekake-no-orgel"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kowarekake-no-orgel-2010"
+      },
+      {
+        "site": "anisearch",
+        "id": "6989"
+      },
+      {
+        "site": "kitsu",
+        "id": "5635"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9213"
+      },
+      {
+        "site": "notify",
+        "id": "3uPWpKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "12"
     },
-    {
-      "site": "anidb",
-      "id": "1956"
-    },
-    {
-      "site": "anilist",
-      "id": "3072"
-    },
-    {
-      "site": "anime-planet",
-      "id": "be-forever-yamato"
-    },
-    {
-      "site": "anime-planet",
-      "id": "farewell-to-space-battleship-yamato-in-the-name-of-love"
-    },
-    {
-      "site": "anime-planet",
-      "id": "final-yamato"
-    },
-    {
-      "site": "anime-planet",
-      "id": "space-battleship-yamato-2199-odyssey-of-the-celestial-ark"
-    },
-    {
-      "site": "anime-planet",
-      "id": "space-battleship-yamato-2199-tsuikou-no-koukai"
-    },
-    {
-      "site": "anime-planet",
-      "id": "space-battleship-yamato-movie"
-    },
-    {
-      "site": "anime-planet",
-      "id": "space-battleship-yamato-the-new-voyage"
-    },
-    {
-      "site": "anime-planet",
-      "id": "star-blazers-space-battleship-yamato-2199"
-    },
-    {
-      "site": "anime-planet",
-      "id": "star-blazers-space-battleship-yamato-2202"
-    },
-    {
-      "site": "anime-planet",
-      "id": "star-blazers-the-bolar-wars"
-    },
-    {
-      "site": "anime-planet",
-      "id": "star-blazers-the-comet-empire"
-    },
-    {
-      "site": "anime-planet",
-      "id": "star-blazers-the-quest-for-iscandar"
-    },
-    {
-      "site": "anime-planet",
-      "id": "yamato-2520"
-    },
-    {
-      "site": "anisearch",
-      "id": "18765"
-    },
-    {
-      "site": "anisearch",
-      "id": "681"
-    },
-    {
-      "site": "kitsu",
-      "id": "2770"
-    },
-    {
-      "site": "livechart",
-      "id": "10540"
-    },
-    {
-      "site": "livechart",
-      "id": "1775"
-    },
-    {
-      "site": "livechart",
-      "id": "2965"
-    },
-    {
-      "site": "livechart",
-      "id": "431"
-    },
-    {
-      "site": "livechart",
-      "id": "4380"
-    },
-    {
-      "site": "livechart",
-      "id": "6082"
-    },
-    {
-      "site": "livechart",
-      "id": "6765"
-    },
-    {
-      "site": "livechart",
-      "id": "7010"
-    },
-    {
-      "site": "livechart",
-      "id": "7140"
-    },
-    {
-      "site": "livechart",
-      "id": "7319"
-    },
-    {
-      "site": "livechart",
-      "id": "7604"
-    },
-    {
-      "site": "livechart",
-      "id": "7752"
-    },
-    {
-      "site": "livechart",
-      "id": "7789"
-    },
-    {
-      "site": "livechart",
-      "id": "8016"
-    },
-    {
-      "site": "livechart",
-      "id": "8022"
-    },
-    {
-      "site": "myanimelist",
-      "id": "3072"
-    },
-    {
-      "site": "notify",
-      "id": "Nxu85Kmig"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 2009,
-    "month": "12"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/27907.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/27907t.jpg",
+    "synonyms": [
+      "Half-Broken Music Box Extra episode",
+      "Half-Broken Music Box Side Story",
+      "Kowarekake no Orgel Bangai-hen",
+      "Kowarekake no Orgel Extra Edition",
+      "Kowarekake no Orgel Extra Episode",
+      "Kowarekake no Orgol Extra",
+      "こわれかけのおるごーる",
+      "こわれかけのオルゴール",
+      "こわれかけのオルゴール 番外編"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/7/83052.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/7/83052t.jpg",
-  "synonyms": [
-    "Space Battleship Yamato Resurrection",
-    "Space Battleship Yamato Revival",
-    "Space Battleship Yamato: Rebirth Chapter",
-    "Space Battleship Yamato: Resurrection",
-    "Space Battleship Yamato: Revival",
-    "Uchuu Senkan Yamato: Fukkatsu Hen",
-    "Uchū Senkan Yamato: Fukkatsu Hen",
-    "うちゅうせんかんやまとふっかつへん",
-    "宇宙战舰大和号 复活编",
-    "宇宙戦艦ヤマト 復活篇",
-    "宇宙戦艦ヤマト・復活篇"
-  ]
-}
+  {
+    "title": "ONE PIECE FILM STRONG WORLD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海贼王 强者世界"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.onepiece-movie.com/",
+    "begin": "2009-12-12T16:00:00.000Z",
+    "end": "2009-12-12T18:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2462"
+      },
+      {
+        "site": "anidb",
+        "id": "69"
+      },
+      {
+        "site": "anidb",
+        "id": "7538"
+      },
+      {
+        "site": "anilist",
+        "id": "21"
+      },
+      {
+        "site": "anilist",
+        "id": "3848"
+      },
+      {
+        "site": "anilist",
+        "id": "8740"
+      },
+      {
+        "site": "anilist",
+        "id": "9999"
+      },
+      {
+        "site": "anime-planet",
+        "id": "one-piece"
+      },
+      {
+        "site": "anime-planet",
+        "id": "one-piece-strong-world-episode-0"
+      },
+      {
+        "site": "anisearch",
+        "id": "2227"
+      },
+      {
+        "site": "anisearch",
+        "id": "6498"
+      },
+      {
+        "site": "kitsu",
+        "id": "12"
+      },
+      {
+        "site": "kitsu",
+        "id": "5469"
+      },
+      {
+        "site": "livechart",
+        "id": "321"
+      },
+      {
+        "site": "livechart",
+        "id": "4028"
+      },
+      {
+        "site": "livechart",
+        "id": "4104"
+      },
+      {
+        "site": "livechart",
+        "id": "4166"
+      },
+      {
+        "site": "livechart",
+        "id": "4187"
+      },
+      {
+        "site": "livechart",
+        "id": "4199"
+      },
+      {
+        "site": "livechart",
+        "id": "4208"
+      },
+      {
+        "site": "livechart",
+        "id": "4720"
+      },
+      {
+        "site": "livechart",
+        "id": "4723"
+      },
+      {
+        "site": "livechart",
+        "id": "4817"
+      },
+      {
+        "site": "livechart",
+        "id": "4938"
+      },
+      {
+        "site": "livechart",
+        "id": "5000"
+      },
+      {
+        "site": "livechart",
+        "id": "5174"
+      },
+      {
+        "site": "livechart",
+        "id": "5208"
+      },
+      {
+        "site": "livechart",
+        "id": "6598"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8740"
+      },
+      {
+        "site": "notify",
+        "id": "5NemtKimg"
+      },
+      {
+        "site": "notify",
+        "id": "jdZp5KmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2009,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1192/116784.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1192/116784t.jpg",
+    "synonyms": [
+      "ONE PIECE FILM STRONG WORLD",
+      "ONE PIECE FILM: STRONG WORLD",
+      "One Piece - 10. Film: Strong World",
+      "One Piece - Avventura sulle isole volanti",
+      "One Piece Film 10",
+      "One Piece Film 10: Strong World",
+      "One Piece Film : Strong World",
+      "One Piece Film Strong World",
+      "One Piece Movie 10",
+      "One Piece Movie 10: Strong World",
+      "One Piece Película 10: Strong World",
+      "One Piece: 10. Film - Strong World",
+      "One Piece: Avventura sulle Isole Volanti",
+      "One Piece: Strong World",
+      "op movie 10",
+      "ون بيس: العالم القوي",
+      "わんぴーすふぃるむすとろんぐわーるど",
+      "ワンピース ストロング ワールド",
+      "ワンピース ストロングワールド",
+      "ワンピース フィルム ストロングワールド",
+      "ワンピース　フィルム　ストロングワールド"
+    ]
+  },
+  {
+    "title": "よなよなペンギン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "午夜企鹅"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2009-12-23T16:00:00.000Z",
+    "end": "2009-12-23T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "EAicpZ881peNGxCw",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "72669"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2009,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1214/116418.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1214/116418t.jpg",
+    "synonyms": [
+      "Mały pingwin: Yona Yona",
+      "Pingvinė Jona Jona",
+      "Yona Yona Pinguin",
+      "Yona Yona Pinguin: Die Legende des Pinguins",
+      "Yona, a pingvinek királynője",
+      "Yona, la légende de l`oiseau sans ailes",
+      "Yona, la légende de l’oiseau sans aile",
+      "Yona: A Lenda da Ave Sem Asas",
+      "Yona: La Légende de l'Oiseau sans Aile",
+      "Yonayona Penguin",
+      "yonapen",
+      "よなよなペンギン",
+      "よなペン"
+    ]
+  },
+  {
+    "title": "やんやんマチコ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "波波咩"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://yanyan-machiko.com/",
+    "begin": "2009-12-25T16:00:00.000Z",
+    "end": "2015-08-20T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9616"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch313",
+        "begin": "2010-01-26T07:32:57.000Z"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yanyan-machiko"
+      },
+      {
+        "site": "kitsu",
+        "id": "5408"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8631"
+      },
+      {
+        "site": "notify",
+        "id": "0LymtFiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2011,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 5,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/78980.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/78980t.jpg",
+    "synonyms": [
+      "やんやんマチコ"
+    ]
+  },
+  {
+    "title": "“文学少女”今日のおやつ 〜はつ恋〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "文学少女 今日的点心～初恋～",
+        "文学少女OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2009-12-25T16:00:00.000Z",
+    "end": "2009-12-25T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3780"
+      },
+      {
+        "site": "bilibili",
+        "id": "3769",
+        "begin": "2016-04-18T03:09:00.000Z",
+        "broadcast": "R/2016-04-18T03:09:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "6959"
+      },
+      {
+        "site": "anidb",
+        "id": "7441"
+      },
+      {
+        "site": "anilist",
+        "id": "6408"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bungaku-shoujo-memoire"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bungaku-shoujo-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "6169"
+      },
+      {
+        "site": "kitsu",
+        "id": "4550"
+      },
+      {
+        "site": "livechart",
+        "id": "4198"
+      },
+      {
+        "site": "livechart",
+        "id": "5640"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6408"
+      },
+      {
+        "site": "notify",
+        "id": "UUie5KimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2009,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1671/127574.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1671/127574t.jpg",
+    "synonyms": [
+      "\"文学少女\"今日のおやつ ~はつ恋~",
+      "Book Girl OVA",
+      "Bungaku Shoujo OVA",
+      "Bungaku Shoujo: Kyou no Oyatsu - Hatsukoi",
+      "Bungaku Shōjo: Kyō no Oyatsu - Hatsukoi",
+      "Literature Girl OVA",
+      "Literature Girl: Today`s Snack - First Love",
+      "Буквоежка: Первая любовь",
+      "“文学少女”今日のおやつ 〜はつ恋〜",
+      "“文学少女”今日のおやつ ～はつ恋～",
+      "文学少女 今日のおやつ 〜はつ恋〜",
+      "文学少女 今日的点心～初恋～"
+    ]
+  },
+  {
+    "title": "レイトン教授と永遠の歌姫",
+    "titleTranslate": {
+      "zh-Hans": [
+        "雷顿教授与永远的歌姬"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2009-12-18T16:00:00.000Z",
+    "end": "2009-12-18T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2128"
+      },
+      {
+        "site": "bilibili",
+        "id": "5472",
+        "begin": "2016-08-25T02:06:00.000Z",
+        "broadcast": "R/2016-08-25T02:06:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "13497"
+      },
+      {
+        "site": "anilist",
+        "id": "100785"
+      },
+      {
+        "site": "anime-planet",
+        "id": "laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy"
+      },
+      {
+        "site": "anisearch",
+        "id": "12883"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37023"
+      },
+      {
+        "site": "notify",
+        "id": "rsDvhFimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2009,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/25873.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/25873t.jpg",
+    "synonyms": [
+      "Eiga Layton-kyouju to Eien no Utahime",
+      "El Profesor Layton y la Diva Eterna",
+      "El profesor Layton y la diva eterna",
+      "Il professor Layton e l'eterna Diva",
+      "Layton",
+      "Layton-kyouju to Eien no Utahime",
+      "Layton-kyōju to Eien no Utahime",
+      "Profesor Laton i wieczna diwa",
+      "Profesor Layton i wieczna diwa",
+      "Profesor Layton y la Diva Eterna",
+      "Professeur Layton Et La Diva éternelle",
+      "Professeur Layton et la Diva Éternelle",
+      "Professeur Layton et la Diva éternelle",
+      "Professor Layton - The Eternal Diva",
+      "Professor Layton and the Eternal Diva",
+      "Professor Layton and the Eternal Songstress",
+      "Professor Layton en de Eeuwige Diva",
+      "Professor Layton und die ewige Diva",
+      "Professor Layton: The First Movie",
+      "レイトン教授と永遠の歌姫",
+      "映画レイトン教授と永遠の歌姫 THE ETERNAL DIVA",
+      "雷顿教授与永远的歌姬"
+    ]
+  },
+  {
+    "title": "宇宙戦艦ヤマト 復活篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰大和号 复活编",
+        "宇宙战舰大和号 复活篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://yamato2009.jp/index.html",
+    "begin": "2009-12-11T16:00:00.000Z",
+    "end": "2009-12-11T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3483"
+      },
+      {
+        "site": "bilibili",
+        "id": "4023",
+        "begin": "2016-05-20T03:15:00.000Z",
+        "broadcast": "R/2016-05-20T03:15:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1956"
+      },
+      {
+        "site": "anilist",
+        "id": "3072"
+      },
+      {
+        "site": "anime-planet",
+        "id": "be-forever-yamato"
+      },
+      {
+        "site": "anime-planet",
+        "id": "farewell-to-space-battleship-yamato-in-the-name-of-love"
+      },
+      {
+        "site": "anime-planet",
+        "id": "final-yamato"
+      },
+      {
+        "site": "anime-planet",
+        "id": "space-battleship-yamato-2199-odyssey-of-the-celestial-ark"
+      },
+      {
+        "site": "anime-planet",
+        "id": "space-battleship-yamato-2199-tsuikou-no-koukai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "space-battleship-yamato-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "space-battleship-yamato-the-new-voyage"
+      },
+      {
+        "site": "anime-planet",
+        "id": "star-blazers-space-battleship-yamato-2199"
+      },
+      {
+        "site": "anime-planet",
+        "id": "star-blazers-space-battleship-yamato-2202"
+      },
+      {
+        "site": "anime-planet",
+        "id": "star-blazers-the-bolar-wars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "star-blazers-the-comet-empire"
+      },
+      {
+        "site": "anime-planet",
+        "id": "star-blazers-the-quest-for-iscandar"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yamato-2520"
+      },
+      {
+        "site": "anisearch",
+        "id": "18765"
+      },
+      {
+        "site": "anisearch",
+        "id": "681"
+      },
+      {
+        "site": "kitsu",
+        "id": "2770"
+      },
+      {
+        "site": "livechart",
+        "id": "10540"
+      },
+      {
+        "site": "livechart",
+        "id": "1775"
+      },
+      {
+        "site": "livechart",
+        "id": "2965"
+      },
+      {
+        "site": "livechart",
+        "id": "431"
+      },
+      {
+        "site": "livechart",
+        "id": "4380"
+      },
+      {
+        "site": "livechart",
+        "id": "6082"
+      },
+      {
+        "site": "livechart",
+        "id": "6765"
+      },
+      {
+        "site": "livechart",
+        "id": "7010"
+      },
+      {
+        "site": "livechart",
+        "id": "7140"
+      },
+      {
+        "site": "livechart",
+        "id": "7319"
+      },
+      {
+        "site": "livechart",
+        "id": "7604"
+      },
+      {
+        "site": "livechart",
+        "id": "7752"
+      },
+      {
+        "site": "livechart",
+        "id": "7789"
+      },
+      {
+        "site": "livechart",
+        "id": "8016"
+      },
+      {
+        "site": "livechart",
+        "id": "8022"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3072"
+      },
+      {
+        "site": "notify",
+        "id": "Nxu85Kmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2009,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/83052.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/83052t.jpg",
+    "synonyms": [
+      "Space Battleship Yamato Resurrection",
+      "Space Battleship Yamato Revival",
+      "Space Battleship Yamato: Rebirth Chapter",
+      "Space Battleship Yamato: Resurrection",
+      "Space Battleship Yamato: Revival",
+      "Uchuu Senkan Yamato: Fukkatsu Hen",
+      "Uchū Senkan Yamato: Fukkatsu Hen",
+      "うちゅうせんかんやまとふっかつへん",
+      "宇宙战舰大和号 复活编",
+      "宇宙戦艦ヤマト 復活篇",
+      "宇宙戦艦ヤマト・復活篇"
+    ]
+  }
+]

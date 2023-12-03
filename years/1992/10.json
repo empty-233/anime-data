@@ -1,44 +1,539 @@
-{
-  "title": "幻想叙譚エルシア",
-  "titleTranslate": {
-    "zh-Hans": [
-      "幻想叙谭艾尔西亚"
+[
+  {
+    "title": "みかん絵日記",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜜柑绘日记"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://s.mxtv.jp/mikan_enikki/",
+    "begin": "1992-10-16T16:00:00.000Z",
+    "end": "1993-06-18T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9267"
+      },
+      {
+        "site": "kitsu",
+        "id": "2947"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3345"
+      },
+      {
+        "site": "notify",
+        "id": "enAwcFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1993,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/65225.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/65225t.jpg",
+    "synonyms": [
+      "Mikan Enikki Episode 31",
+      "Mikan Enikki: Mikan no Koutsuu Anzen",
+      "みかんえにっき",
+      "みかん絵日記"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1992-10-22T16:00:00.000Z",
-  "end": "1994-04-21T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "37667"
+  {
+    "title": "コボちゃん",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://s.mxtv.jp/kobochan/",
+    "begin": "1992-10-19T16:00:00.000Z",
+    "end": "1994-03-21T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "161673"
+      },
+      {
+        "site": "anidb",
+        "id": "7349"
+      },
+      {
+        "site": "anidb",
+        "id": "7350"
+      },
+      {
+        "site": "anidb",
+        "id": "7351"
+      },
+      {
+        "site": "anidb",
+        "id": "7352"
+      },
+      {
+        "site": "anilist",
+        "id": "136490"
+      },
+      {
+        "site": "anilist",
+        "id": "148078"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ganbare-kobo-chan-gyuunyuu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kobo-chan-aki-ga-ippai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kobo-chan-matsuri-ga-ippai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kobo-chan-no-koutsuu-anzen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kobo-chan-yakusoku-no-magic-day"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kobo-chan-yume-ippai"
+      },
+      {
+        "site": "anisearch",
+        "id": "6049"
+      },
+      {
+        "site": "anisearch",
+        "id": "6050"
+      },
+      {
+        "site": "anisearch",
+        "id": "6051"
+      },
+      {
+        "site": "anisearch",
+        "id": "6052"
+      },
+      {
+        "site": "livechart",
+        "id": "11002"
+      },
+      {
+        "site": "livechart",
+        "id": "11003"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39343"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39344"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1992,
+      "month": "10"
     },
-    {
-      "site": "bilibili",
-      "id": "5452",
-      "begin": "2016-08-18T02:05:00.000Z",
-      "broadcast": "R/2016-08-18T02:05:00.000Z/P7D"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 1992,
-    "month": "10"
+    "status": "FINISHED",
+    "episodes": 63,
+    "picture": "https://cdn.myanimelist.net/images/anime/1017/99304.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1017/99304t.jpg",
+    "synonyms": [
+      "Kobo",
+      "Kobo chan",
+      "Kobo, the Li'l Rascal",
+      "the Li'l Rascal",
+      "the Li`l Rascal",
+      "こぼちゃん",
+      "コボちゃん"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 4,
-  "picture": "https://cdn.myanimelist.net/images/anime/3/5763.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/3/5763t.jpg",
-  "synonyms": [
-    "A Lenda de Ellcia",
-    "Ellcia",
-    "Genso Jodan Elicia",
-    "Gensō Jotan Ellcia",
-    "La leyenda de Ellcia",
-    "幻想叙譚エルシア",
-    "幻想叙谭艾尔西亚",
-    "幻想序譚エルシア"
-  ]
-}
+  {
+    "title": "幽☆遊☆白書",
+    "titleTranslate": {
+      "zh-Hans": [
+        "幽游白书"
+      ],
+      "zh-Hant": [
+        "幽遊白書"
+      ],
+      "en": [
+        "Yu Yu Hakusho: Ghost Files"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://pierrot.jp/archives/tv_list_1990/tv_027.html",
+    "begin": "1992-10-10T16:00:00.000Z",
+    "end": "1995-01-07T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "LAjzcdkicrib1QzjY",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "8803"
+      },
+      {
+        "site": "nicovideo",
+        "id": "YuYuHakusho",
+        "begin": "2016-11-11T06:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "2338",
+        "begin": "1992-10-09T16:00:00.000Z",
+        "broadcast": "R/2021-01-13T09:06:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81005375",
+        "begin": "2020-06-24T16:00:00.000Z",
+        "broadcast": "R/2020-06-24T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "312"
+      },
+      {
+        "site": "anilist",
+        "id": "392"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yu-yu-hakusho"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yu-yu-hakusho-mu-mu-hakusho"
+      },
+      {
+        "site": "anisearch",
+        "id": "3317"
+      },
+      {
+        "site": "kitsu",
+        "id": "359"
+      },
+      {
+        "site": "livechart",
+        "id": "12312"
+      },
+      {
+        "site": "livechart",
+        "id": "3676"
+      },
+      {
+        "site": "livechart",
+        "id": "5856"
+      },
+      {
+        "site": "livechart",
+        "id": "6060"
+      },
+      {
+        "site": "livechart",
+        "id": "6294"
+      },
+      {
+        "site": "livechart",
+        "id": "6452"
+      },
+      {
+        "site": "livechart",
+        "id": "6663"
+      },
+      {
+        "site": "livechart",
+        "id": "7532"
+      },
+      {
+        "site": "myanimelist",
+        "id": "392"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2018,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/1191/97154.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1191/97154t.jpg",
+    "synonyms": [
+      "YYH OVA (2018)",
+      "Yu Yu Hakusho 25th Anniversary Special",
+      "Yu Yu Hakusho 25th Anniversary Special Episode",
+      "Yu Yu Hakusho OVA",
+      "Yu Yu Hakusho OVA: \"Two Shots\" and \"All or Nothing\"",
+      "Yu Yu Hakusho Special",
+      "Yu Yu Hakusho Specials",
+      "YuYu Hakusho",
+      "Yuu Yuu Hakusho",
+      "Yuu Yuu Hakusho (2018)",
+      "Yuu Yuu Hakusho Kanzen Shinsaku Animation",
+      "Yuu Yuu Hakusho OVA",
+      "Yuu Yuu Hakusho Special",
+      "Yuu Yuu Hakusho, YuYu Hakusho",
+      "Yuu Yuu Hakusho: Kanzen Shinsaku",
+      "Yuu Yuu Hakushou: Noru ka Soru ka",
+      "Yuu☆Yuu☆Hakusho OVA (2018)",
+      "Yuu☆Yuu☆Hakusho Special",
+      "Yuu☆Yuu☆Hakusho Specials",
+      "Yuu☆Yuu☆Hakusho: TWO SHOTS / Noru ka Soru ka",
+      "Yû Yû Hakusho OAV",
+      "Yū Yū Hakusho (2018)",
+      "幽☆遊☆白書",
+      "幽☆遊☆白書 OVA",
+      "幽☆遊☆白書 「TWO SHOTS」「のるかそるか」",
+      "幽☆遊☆白書 完全新作アニメーション",
+      "幽游白书 完全新作动画",
+      "幽遊白書 （2018）"
+    ]
+  },
+  {
+    "title": "姫ちゃんのリボン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "缎带魔法少女"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-10-02T16:00:00.000Z",
+    "end": "1993-12-03T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "19525"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1992,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 61,
+    "picture": "https://cdn.myanimelist.net/images/anime/1049/111001.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1049/111001t.jpg",
+    "synonyms": [
+      "Hime chan’s Ribbon",
+      "Hime-chan",
+      "Hime-chan's Ribbon",
+      "Hime-chan`s Ribbon",
+      "Sihirli Kurdele",
+      "Un fiocco per sognare Un fiocco per cambiare",
+      "Un fiocco per sognare, un fiocco per cambiare",
+      "ひめちゃんのりぼん",
+      "姫ちゃんのリボン"
+    ]
+  },
+  {
+    "title": "東京BABYLON",
+    "titleTranslate": {
+      "zh-Hans": [
+        "东京巴比伦"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-10-21T16:00:00.000Z",
+    "end": "1994-03-21T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "5/5n2lnpamfl14923",
+        "begin": ""
+      },
+      {
+        "site": "pptv",
+        "id": "NBfycNgibruxPzTU",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2916"
+      },
+      {
+        "site": "anidb",
+        "id": "457"
+      },
+      {
+        "site": "anilist",
+        "id": "1043"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tokyo-babylon"
+      },
+      {
+        "site": "anisearch",
+        "id": "2864"
+      },
+      {
+        "site": "kitsu",
+        "id": "933"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1043"
+      },
+      {
+        "site": "notify",
+        "id": "QJBJ5Fmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2020,
+      "month": "10"
+    },
+    "status": "UPCOMING",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/1301/113833.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1301/113833t.jpg",
+    "synonyms": [
+      "Tokyo BABYLON 2021",
+      "Tokyo Babylon (New Anime)",
+      "Tokyo Babylon 2021 PV",
+      "東京BABYLON",
+      "東京BABYLON 2021"
+    ]
+  },
+  {
+    "title": "万能文化猫娘",
+    "titleTranslate": {
+      "zh-Hans": [
+        "万能文化猫娘"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-10-21T16:00:00.000Z",
+    "end": "1994-03-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "H1AsqhJ46CaJB28",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "b/bv4ksstk6j91sbj",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3390"
+      },
+      {
+        "site": "anilist",
+        "id": "375"
+      },
+      {
+        "site": "anisearch",
+        "id": "1766"
+      },
+      {
+        "site": "kitsu",
+        "id": "342"
+      },
+      {
+        "site": "myanimelist",
+        "id": "375"
+      },
+      {
+        "site": "notify",
+        "id": "CCQ2cKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1999,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/5124.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/5124t.jpg",
+    "synonyms": [
+      "All Purpose Cultural Cat Girl Nuku Nuku TV Specials",
+      "All Purpose Cultural Cat Girl Nuku Nuku TV: Episodes 10.3 & 10.6",
+      "Bannou Bunka Nekomusume (1998) Specials",
+      "Bannō Bunka Nekomusume (1998) Specials",
+      "I've Been Thrown Out",
+      "Koisuru Nuku Nuku! Valentine wa dare n tame n",
+      "Nuku Nuku Abandoned? Happy New Year",
+      "Nuku Nuku Abandoned? Happy New Year, I've Been Thrown Out",
+      "Nuku Nuku Falls in Love! Who's the Valentine for?",
+      "Nuku Nuku Special",
+      "Nuku Nuku Special, Koisuru Nuku Nuku! Valentine wa dare n tame n",
+      "Nuku Nuku Specials",
+      "Nuku Nuku hourou!? Akemashite Suteraremashita",
+      "ばんのうぶんかねこむすめ",
+      "万能文化猫娘",
+      "万能文化猫娘 （1998） Specials"
+    ]
+  },
+  {
+    "title": "幻想叙譚エルシア",
+    "titleTranslate": {
+      "zh-Hans": [
+        "幻想叙谭艾尔西亚"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-10-22T16:00:00.000Z",
+    "end": "1994-04-21T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37667"
+      },
+      {
+        "site": "bilibili",
+        "id": "5452",
+        "begin": "2016-08-18T02:05:00.000Z",
+        "broadcast": "R/2016-08-18T02:05:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1992,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/5763.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/5763t.jpg",
+    "synonyms": [
+      "A Lenda de Ellcia",
+      "Ellcia",
+      "Genso Jodan Elicia",
+      "Gensō Jotan Ellcia",
+      "La leyenda de Ellcia",
+      "幻想叙譚エルシア",
+      "幻想叙谭艾尔西亚",
+      "幻想序譚エルシア"
+    ]
+  }
+]

@@ -1,77 +1,518 @@
-{
-  "title": "戦国魔神ゴーショーグン",
-  "titleTranslate": {
-    "zh-Hans": [
-      "战国魔神豪将军"
+[
+  {
+    "title": "機動戦士ガンダムII 哀・戦士編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达 剧场版II 哀・战士"
+      ],
+      "zh-Hant": [
+        "機動戰士高達 II：哀・戰士"
+      ],
+      "en": [
+        "Mobile Suit Gundam II: Soldiers of Sorrow"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1981-07-11T16:00:00.000Z",
+    "end": "1981-07-11T18:15:00.000Z",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "l/lk34bbjniysk41a",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "38436"
+      },
+      {
+        "site": "netflix",
+        "id": "70014612",
+        "begin": "2021-06-16T16:00:00.000Z",
+        "broadcast": "R/2021-06-16T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "4167"
+      },
+      {
+        "site": "anidb",
+        "id": "715"
+      },
+      {
+        "site": "anidb",
+        "id": "729"
+      },
+      {
+        "site": "anilist",
+        "id": "1090"
+      },
+      {
+        "site": "anilist",
+        "id": "1092"
+      },
+      {
+        "site": "anilist",
+        "id": "80"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-i"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-iii-encounters-in-space"
+      },
+      {
+        "site": "anisearch",
+        "id": "2688"
+      },
+      {
+        "site": "anisearch",
+        "id": "581"
+      },
+      {
+        "site": "kitsu",
+        "id": "59"
+      },
+      {
+        "site": "kitsu",
+        "id": "975"
+      },
+      {
+        "site": "kitsu",
+        "id": "977"
+      },
+      {
+        "site": "livechart",
+        "id": "3938"
+      },
+      {
+        "site": "livechart",
+        "id": "4607"
+      },
+      {
+        "site": "livechart",
+        "id": "4659"
+      },
+      {
+        "site": "livechart",
+        "id": "4683"
+      },
+      {
+        "site": "livechart",
+        "id": "4695"
+      },
+      {
+        "site": "livechart",
+        "id": "4944"
+      },
+      {
+        "site": "livechart",
+        "id": "5947"
+      },
+      {
+        "site": "livechart",
+        "id": "6906"
+      },
+      {
+        "site": "livechart",
+        "id": "6987"
+      },
+      {
+        "site": "livechart",
+        "id": "7514"
+      },
+      {
+        "site": "livechart",
+        "id": "7582"
+      },
+      {
+        "site": "livechart",
+        "id": "7662"
+      },
+      {
+        "site": "livechart",
+        "id": "7717"
+      },
+      {
+        "site": "livechart",
+        "id": "7848"
+      },
+      {
+        "site": "livechart",
+        "id": "8121"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1090"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1092"
+      },
+      {
+        "site": "myanimelist",
+        "id": "80"
+      },
+      {
+        "site": "notify",
+        "id": "GRXJ5Kiig"
+      },
+      {
+        "site": "notify",
+        "id": "SPl1cKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "aucpcKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1981,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/75773.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/75773t.jpg",
+    "synonyms": [
+      "Gundam 0079 Movie Trilogy Part II",
+      "Gundam II",
+      "Gundam: Kidou Senshi Gundam II: Ai Senshi Hen",
+      "Kidou Senshi Gundam II: Ai Senshi Hen",
+      "Kidō Senshi Gundam II: Ai Senshi Hen",
+      "Mobile Suit Gundam - Film II",
+      "Mobile Suit Gundam - Movie II",
+      "Mobile Suit Gundam - The Movie II",
+      "Mobile Suit Gundam - The Movie Trilogy Part II",
+      "Mobile Suit Gundam Film II",
+      "Mobile Suit Gundam II - Soldati del dolore",
+      "Mobile Suit Gundam II : Soldats du désespoir",
+      "Mobile Suit Gundam II: Soldati del dolore",
+      "Mobile Suit Gundam II: Soldiers of Sorrow",
+      "Mobile Suit Gundam Movie 2",
+      "Mobile Suit Gundam Movie II",
+      "Mobile Suit Gundam Película II: Soldados del Dolor",
+      "โมบิลสูท กันดั้ม เดอะมูวี่ II",
+      "机动战士高达.电影第2部.衰战士",
+      "機動戦士ガンダムII 哀・戦士編",
+      "機動戦士ガンダムⅡ　哀・戦士編"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1981-07-03T16:00:00.000Z",
-  "end": "1981-12-28T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "37256"
+  {
+    "title": "Dr.スランプ アラレちゃん ハロー!不思議島",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿拉蕾 hello!不可思议岛"
+      ]
     },
-    {
-      "site": "anidb",
-      "id": "1481"
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1981-07-18T16:00:00.000Z",
+    "end": "1981-07-18T16:25:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "47011"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb54vl",
+        "begin": "2015-08-04T01:02:58.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "1925"
+      },
+      {
+        "site": "anilist",
+        "id": "2222"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan"
+      },
+      {
+        "site": "anisearch",
+        "id": "2134"
+      },
+      {
+        "site": "kitsu",
+        "id": "2013"
+      },
+      {
+        "site": "livechart",
+        "id": "10983"
+      },
+      {
+        "site": "livechart",
+        "id": "10990"
+      },
+      {
+        "site": "livechart",
+        "id": "10991"
+      },
+      {
+        "site": "livechart",
+        "id": "10992"
+      },
+      {
+        "site": "livechart",
+        "id": "10993"
+      },
+      {
+        "site": "livechart",
+        "id": "10994"
+      },
+      {
+        "site": "livechart",
+        "id": "10995"
+      },
+      {
+        "site": "livechart",
+        "id": "10996"
+      },
+      {
+        "site": "livechart",
+        "id": "10997"
+      },
+      {
+        "site": "livechart",
+        "id": "6206"
+      },
+      {
+        "site": "livechart",
+        "id": "7468"
+      },
+      {
+        "site": "livechart",
+        "id": "8828"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2222"
+      },
+      {
+        "site": "notify",
+        "id": "_nnPcKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1981,
+      "month": "07"
     },
-    {
-      "site": "anilist",
-      "id": "2510"
-    },
-    {
-      "site": "anime-planet",
-      "id": "goshogun"
-    },
-    {
-      "site": "anisearch",
-      "id": "664"
-    },
-    {
-      "site": "kitsu",
-      "id": "2276"
-    },
-    {
-      "site": "livechart",
-      "id": "7873"
-    },
-    {
-      "site": "livechart",
-      "id": "9435"
-    },
-    {
-      "site": "myanimelist",
-      "id": "2510"
-    },
-    {
-      "site": "notify",
-      "id": "Qj6PcFmig"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 1982,
-    "month": "07"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/23167.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/23167t.jpg",
+    "synonyms": [
+      "Dr. Slump & Arale-chan Hello! Strange Island",
+      "Dr. Slump Arale-chan Hello! Fushigi Shima",
+      "Dr. Slump Movie 01",
+      "Dr. Slump Movie 1",
+      "Dr. Slump Movie 1: Hello! Wonderland",
+      "Dr. Slump and Arale-chan: Hello! Wonder Island",
+      "Dr. Slump e Arale the Movie: Wonder Island, l'isola delle meraviglie",
+      "Dr. Slump: Arale-chan Hello! Fushigi Shima",
+      "Dr. Slump: Arale-chan Hello! Strange Island",
+      "Dr. Slump: Arale-chan Hello! Wonder Island",
+      "Dr. Slump: Arale-chan Movie 1: Hello! Fushigi Shima",
+      "Dr. Slump: Hello! Wonder Island",
+      "Dr. Slump: Hello! Wonder Land",
+      "Dr.スランプ アラレちゃん ハロー! 不思議島[ワンダーアイランド]",
+      "Dr.スランプ アラレちゃん ハロー!不思議島",
+      "Dr.スランプ アラレちゃん ハロー！不思議島"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/12/82706.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/12/82706t.jpg",
-  "synonyms": [
-    "Demon God of the War Torn Land Goshogun",
-    "GoShogun Movie",
-    "Goshogun",
-    "Macron 1",
-    "Sengoku Majin Goushougun (1982)",
-    "Sengoku Majin Goushougun Movie",
-    "Sengoku Majin Gōshōgun (1982)",
-    "せんごくまじんごーしょーぐん",
-    "戦国魔神ゴーショーグン",
-    "戦国魔神ゴーショーグン (1982)",
-    "戦国魔神ゴーショーグン （1982）"
-  ]
-}
+  {
+    "title": "あしたのジョー2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 明日之丈2"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1981-07-04T16:00:00.000Z",
+    "end": "1981-07-04T17:50:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "67755"
+      },
+      {
+        "site": "anidb",
+        "id": "1457"
+      },
+      {
+        "site": "anidb",
+        "id": "4862"
+      },
+      {
+        "site": "anilist",
+        "id": "151627"
+      },
+      {
+        "site": "anilist",
+        "id": "2402"
+      },
+      {
+        "site": "anilist",
+        "id": "2922"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ashita-no-joe"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tomorrows-joe-2-the-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "2580"
+      },
+      {
+        "site": "anisearch",
+        "id": "3990"
+      },
+      {
+        "site": "kitsu",
+        "id": "2178"
+      },
+      {
+        "site": "kitsu",
+        "id": "2647"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2402"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2922"
+      },
+      {
+        "site": "notify",
+        "id": "K3YEcKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "fqpUcKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1980,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 47,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/45028.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/45028t.jpg",
+    "synonyms": [
+      "Champion Joe 2",
+      "El Campeón",
+      "El Campeón/ El mañana de Joe 2",
+      "Joe 2",
+      "N/A",
+      "Rocky Joe 2",
+      "Tomorrow's Joe 2",
+      "Tomorrow`s Joe 2",
+      "anj s2",
+      "rocky joe 2",
+      "جو البطل",
+      "あしたのジョー2",
+      "あしたのジョー２",
+      "明日之丈2"
+    ]
+  },
+  {
+    "title": "戦国魔神ゴーショーグン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "战国魔神豪将军"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1981-07-03T16:00:00.000Z",
+    "end": "1981-12-28T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37256"
+      },
+      {
+        "site": "anidb",
+        "id": "1481"
+      },
+      {
+        "site": "anilist",
+        "id": "2510"
+      },
+      {
+        "site": "anime-planet",
+        "id": "goshogun"
+      },
+      {
+        "site": "anisearch",
+        "id": "664"
+      },
+      {
+        "site": "kitsu",
+        "id": "2276"
+      },
+      {
+        "site": "livechart",
+        "id": "7873"
+      },
+      {
+        "site": "livechart",
+        "id": "9435"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2510"
+      },
+      {
+        "site": "notify",
+        "id": "Qj6PcFmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1982,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/82706.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/82706t.jpg",
+    "synonyms": [
+      "Demon God of the War Torn Land Goshogun",
+      "GoShogun Movie",
+      "Goshogun",
+      "Macron 1",
+      "Sengoku Majin Goushougun (1982)",
+      "Sengoku Majin Goushougun Movie",
+      "Sengoku Majin Gōshōgun (1982)",
+      "せんごくまじんごーしょーぐん",
+      "戦国魔神ゴーショーグン",
+      "戦国魔神ゴーショーグン (1982)",
+      "戦国魔神ゴーショーグン （1982）"
+    ]
+  }
+]

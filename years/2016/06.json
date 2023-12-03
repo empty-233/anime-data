@@ -1,99 +1,632 @@
-{
-  "title": "血界戦線 王様のレストランの王様",
-  "titleTranslate": {
-    "zh-Hans": [
-      "血界战线 王者餐厅的王者"
+[
+  {
+    "title": "RS計画 -Rebirth Storage-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "RS计划 -Rebirth Storage-"
+      ],
+      "en": [
+        "RS Project -Rebirth Storage-"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://rsproject.jp/",
+    "begin": "2016-06-25T17:20:00.000Z",
+    "end": "2016-06-25T17:20:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "iarehH4ftXZvibfOQ",
+        "begin": ""
+      },
+      {
+        "site": "letv",
+        "id": "10024292",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "174147"
+      },
+      {
+        "site": "youku",
+        "id": "e2b1ccd83f3511e69b6d",
+        "begin": "2016-07-01T09:52:10.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2016,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/80584.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/80584t.jpg",
+    "synonyms": [
+      "RS Project",
+      "RS Project -Rebirth Storage-",
+      "RS Project: Rebirth Storage",
+      "RS計画 -Rebirth Storage-",
+      "RS計画　-Rebirth Storage-",
+      "RS计划 -Rebirth Storage-",
+      "あーるえすけいかくりばーすすとれーじ"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "2016-06-03T16:00:00.000Z",
-  "end": "2016-06-03T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "166348"
+  {
+    "title": "不機嫌なモノノケ庵",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忧郁的物怪庵",
+        "不愉快的妖怪庵"
+      ],
+      "en": [
+        "The Morose Mononokean",
+        "Fukigen na Mononokean"
+      ],
+      "zh-Hant": [
+        "不愉快的妖怪庵",
+        "不愉快的怪物庵"
+      ]
     },
-    {
-      "site": "pptv",
-      "id": "HC0Hhe1TwwFk4ko",
-      "begin": ""
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://mononokean.tv/",
+    "begin": "2016-06-28T14:30:00.000Z",
+    "end": "2016-09-20T15:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "oZF7ibWHHN3XYVr4",
+        "begin": "2016-06-30T15:30:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "168905"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mononokean",
+        "begin": "2016-07-09T15:30:00.000Z"
+      },
+      {
+        "site": "mgtv",
+        "id": "303751",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "8061448",
+        "begin": "2019-01-04T16:00:01.000Z",
+        "broadcast": "R/2019-01-14T10:02:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "81932",
+        "begin": "2020-06-05T06:00:00.000Z",
+        "broadcast": "R/2020-06-05T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_tw",
+        "id": "5014",
+        "begin": "2016-08-01T06:44:49.000Z",
+        "broadcast": "R/2016-08-01T06:44:49.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "14177"
+      },
+      {
+        "site": "anilist",
+        "id": "102949"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-morose-mononokean-ii"
+      },
+      {
+        "site": "anisearch",
+        "id": "13698"
+      },
+      {
+        "site": "kitsu",
+        "id": "42002"
+      },
+      {
+        "site": "livechart",
+        "id": "3349"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37958"
+      },
+      {
+        "site": "notify",
+        "id": "w2m85LLmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2016,
+      "month": "06"
     },
-    {
-      "site": "anidb",
-      "id": "10663"
-    },
-    {
-      "site": "anilist",
-      "id": "20727"
-    },
-    {
-      "site": "anime-planet",
-      "id": "blood-blockade-battlefront"
-    },
-    {
-      "site": "anime-planet",
-      "id": "blood-blockade-battlefront-and-beyond"
-    },
-    {
-      "site": "anime-planet",
-      "id": "blood-blockade-battlefront-and-beyond-ova"
-    },
-    {
-      "site": "anime-planet",
-      "id": "blood-blockade-battlefront-even-these-are-the-worst-and-best-days-ever"
-    },
-    {
-      "site": "anisearch",
-      "id": "9971"
-    },
-    {
-      "site": "kitsu",
-      "id": "8646"
-    },
-    {
-      "site": "livechart",
-      "id": "2434"
-    },
-    {
-      "site": "livechart",
-      "id": "3112"
-    },
-    {
-      "site": "livechart",
-      "id": "599"
-    },
-    {
-      "site": "myanimelist",
-      "id": "24439"
-    },
-    {
-      "site": "notify",
-      "id": "A0D1tKmig"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 2016,
-    "month": "06"
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/80009.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/80009t.jpg",
+    "synonyms": [
+      "Asık Suratlı Mononokean",
+      "FNM",
+      "Fukigen na Mononokean (The Morose Mononokean)",
+      "Mononokean l'imbronciato",
+      "Mononokean l`imbronciato",
+      "Posępny Mononokean",
+      "The Momose Mononokean (Fukigen na Mononokean)",
+      "The Morose Mononokean",
+      "ふきげんなもののけあん",
+      "不愉快的妖怪庵",
+      "不機嫌なモノノケ庵",
+      "忧郁的物怪庵"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1595/126930.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1595/126930t.jpg",
-  "synonyms": [
-    "Blood Blockade Battlefront King Of Kings Restaurant Fit For A King",
-    "Blood Blockade Battlefront OVA",
-    "Blood Blockade Battlefront: King of Kings Restaurant Fit for a King",
-    "Blood Blockade Battlefront: King of the Restaurant of Kings",
-    "Blood Blockade Battlefront: Kings of Kings - Restaurant fit for a King",
-    "Kekkai Sensen OAD",
-    "Kekkai Sensen OVA",
-    "Kekkai Sensen: Ou-sama no Restaurant no Ou-sama",
-    "Kekkai Sensen: Ō-sama no Restaurant no Ō-sama",
-    "Keksen ova",
-    "kekkai sensen ova",
-    "血界戦線 王様のレストランの王様"
-  ]
-}
+  {
+    "title": "ほのぼのログ",
+    "titleTranslate": {
+      "en": [
+        "honobono log"
+      ],
+      "zh-Hans": [
+        "暖心日记",
+        "温暖的印记"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www6.nhk.or.jp/anime/program/detail.html?i=honobono",
+    "begin": "2016-06-06T15:08:00.000Z",
+    "end": "2016-06-17T15:10:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "h7KeHITqWpj7eeE",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "180670"
+      },
+      {
+        "site": "bilibili",
+        "id": "5125",
+        "begin": "2016-06-05T16:00:01.000Z",
+        "broadcast": "R/2016-07-07T07:34:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2016,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 10,
+    "picture": "https://cdn.myanimelist.net/images/anime/1307/121781.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1307/121781t.jpg",
+    "synonyms": [
+      "Heartwarming Log ~ To Precious You",
+      "ほのぼのろぐ",
+      "ほのぼのログ",
+      "温暖的印记"
+    ]
+  },
+  {
+    "title": "灵契",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "zh-Hans",
+    "officialSite": "http://ac.qq.com/event/95e64748a08b6c2c0c56f15fbbb4f91b.html",
+    "begin": "2016-06-21T04:00:00.000Z",
+    "end": "2016-11-08T04:30:00.000Z",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "v/v18x0bara3c1msb",
+        "begin": "2016-06-21T04:00:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "175460"
+      },
+      {
+        "site": "anidb",
+        "id": "12656"
+      },
+      {
+        "site": "anilist",
+        "id": "98031"
+      },
+      {
+        "site": "anime-planet",
+        "id": "spiritpact"
+      },
+      {
+        "site": "anisearch",
+        "id": "12135"
+      },
+      {
+        "site": "kitsu",
+        "id": "12517"
+      },
+      {
+        "site": "livechart",
+        "id": "2472"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33605"
+      },
+      {
+        "site": "notify",
+        "id": "W5lk2Kimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2018,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1328/90485.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1328/90485t.jpg",
+    "synonyms": [
+      "Ling Qi 2nd Season",
+      "Ling Qi: Huang Quan Zhi Qi",
+      "Ling Qi: Huangquan Zhi Qi",
+      "SPIRITPACT -黄泉の契り-",
+      "Soul Contract: Yomi no Chigiri",
+      "Spirit Pact: Bond of the Underworld",
+      "Spirit Pact: Yomi no Chigiri",
+      "Spirit Pact: Yomi no Chigiri (SPIRITPACT -黄泉の契り-)",
+      "Spiritpact -Bond of The Underworld-",
+      "Spiritpact -Kousen no Chigiri-",
+      "Spiritpact 2",
+      "Spiritpact S2",
+      "Spiritpact Season 2",
+      "Spiritpact: Bond of The Underworld",
+      "Spiritpact: Bond of the Underworld",
+      "Spiritpact: Yomi no Chigiri",
+      "スピリットパクト -黄泉の契り-",
+      "スピリットパクト-黄泉の契り-",
+      "灵契",
+      "灵契 2",
+      "灵契 黄泉之契",
+      "灵契·黄泉之契",
+      "灵契第二季"
+    ]
+  },
+  {
+    "title": "麻神",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "zh-Hans",
+    "officialSite": "http://ac.qq.com/event/mashen/",
+    "begin": "2016-06-29T02:00:00.000Z",
+    "end": "2016-10-19T02:15:00.000Z",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "g/g1l5z0cndggpfja",
+        "begin": "2016-06-29T02:00:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "185176"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2016,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 16,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/81481.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/81481t.jpg",
+    "synonyms": [
+      "Mahjong God",
+      "Mahjong King",
+      "Mashen",
+      "麻神"
+    ]
+  },
+  {
+    "title": "Re:プチから始める異世界生活",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Re：从迷你开始的异世界生活"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://re-zero-anime.jp/",
+    "begin": "2016-06-24T16:00:00.000Z",
+    "end": "2016-09-23T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "IBLibfORKuvhb2UE",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "185837"
+      },
+      {
+        "site": "anilist",
+        "id": "120700"
+      },
+      {
+        "site": "anilist",
+        "id": "21355"
+      },
+      {
+        "site": "anilist",
+        "id": "21780"
+      },
+      {
+        "site": "anime-planet",
+        "id": "re-zero-starting-break-time-from-zero"
+      },
+      {
+        "site": "anime-planet",
+        "id": "re-zero-starting-life-in-another-world"
+      },
+      {
+        "site": "anisearch",
+        "id": "10572"
+      },
+      {
+        "site": "kitsu",
+        "id": "11209"
+      },
+      {
+        "site": "kitsu",
+        "id": "12047"
+      },
+      {
+        "site": "livechart",
+        "id": "10009"
+      },
+      {
+        "site": "livechart",
+        "id": "10055"
+      },
+      {
+        "site": "livechart",
+        "id": "10091"
+      },
+      {
+        "site": "livechart",
+        "id": "10262"
+      },
+      {
+        "site": "livechart",
+        "id": "10998"
+      },
+      {
+        "site": "livechart",
+        "id": "11908"
+      },
+      {
+        "site": "livechart",
+        "id": "1723"
+      },
+      {
+        "site": "livechart",
+        "id": "2856"
+      },
+      {
+        "site": "livechart",
+        "id": "3550"
+      },
+      {
+        "site": "livechart",
+        "id": "3967"
+      },
+      {
+        "site": "livechart",
+        "id": "8701"
+      },
+      {
+        "site": "livechart",
+        "id": "9387"
+      },
+      {
+        "site": "livechart",
+        "id": "9481"
+      },
+      {
+        "site": "livechart",
+        "id": "9710"
+      },
+      {
+        "site": "livechart",
+        "id": "9870"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31240"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33142"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42364"
+      },
+      {
+        "site": "notify",
+        "id": "Un9XpFimg"
+      },
+      {
+        "site": "notify",
+        "id": "Wx8etKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2016,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 14,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/81281.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/81281t.jpg",
+    "synonyms": [
+      "Re:PETIT",
+      "Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+      "Re:Puchi kara Hajimeru Isekai Seikatsu",
+      "Re:ZERO - PETIT",
+      "Re:ZERO -Starting Life in Another World- Shorts Petit",
+      "Re:ZERO PETIT",
+      "Re:Zero Shorts 2",
+      "Re:Zero kara Hajimeru Break Time 2",
+      "Re:プチから始める異世界生活"
+    ]
+  },
+  {
+    "title": "いっぽう日本昔ばなし",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2016-06-01T16:00:00.000Z",
+    "end": "2016-06-01T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "211023"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ippou-mukashibanashi",
+        "begin": "2017-07-16T15:00:00.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2016,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/80210.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/80210t.jpg",
+    "synonyms": [
+      "Ippou Nippon Mukashibanash",
+      "Ippō Nippon Mukashibanashi",
+      "いっぽう日本昔ばなし"
+    ]
+  },
+  {
+    "title": "血界戦線 王様のレストランの王様",
+    "titleTranslate": {
+      "zh-Hans": [
+        "血界战线 王者餐厅的王者"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2016-06-03T16:00:00.000Z",
+    "end": "2016-06-03T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "166348"
+      },
+      {
+        "site": "pptv",
+        "id": "HC0Hhe1TwwFk4ko",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "10663"
+      },
+      {
+        "site": "anilist",
+        "id": "20727"
+      },
+      {
+        "site": "anime-planet",
+        "id": "blood-blockade-battlefront"
+      },
+      {
+        "site": "anime-planet",
+        "id": "blood-blockade-battlefront-and-beyond"
+      },
+      {
+        "site": "anime-planet",
+        "id": "blood-blockade-battlefront-and-beyond-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "blood-blockade-battlefront-even-these-are-the-worst-and-best-days-ever"
+      },
+      {
+        "site": "anisearch",
+        "id": "9971"
+      },
+      {
+        "site": "kitsu",
+        "id": "8646"
+      },
+      {
+        "site": "livechart",
+        "id": "2434"
+      },
+      {
+        "site": "livechart",
+        "id": "3112"
+      },
+      {
+        "site": "livechart",
+        "id": "599"
+      },
+      {
+        "site": "myanimelist",
+        "id": "24439"
+      },
+      {
+        "site": "notify",
+        "id": "A0D1tKmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2016,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1595/126930.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1595/126930t.jpg",
+    "synonyms": [
+      "Blood Blockade Battlefront King Of Kings Restaurant Fit For A King",
+      "Blood Blockade Battlefront OVA",
+      "Blood Blockade Battlefront: King of Kings Restaurant Fit for a King",
+      "Blood Blockade Battlefront: King of the Restaurant of Kings",
+      "Blood Blockade Battlefront: Kings of Kings - Restaurant fit for a King",
+      "Kekkai Sensen OAD",
+      "Kekkai Sensen OVA",
+      "Kekkai Sensen: Ou-sama no Restaurant no Ou-sama",
+      "Kekkai Sensen: Ō-sama no Restaurant no Ō-sama",
+      "Keksen ova",
+      "kekkai sensen ova",
+      "血界戦線 王様のレストランの王様"
+    ]
+  }
+]

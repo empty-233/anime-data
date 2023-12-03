@@ -1,42 +1,527 @@
-{
-  "title": "超獣伝説ゲシュタルト",
-  "titleTranslate": {
-    "zh-Hans": [
-      "超兽传说GESTALT"
+[
+  {
+    "title": "マッハGoGoGo",
+    "titleTranslate": {
+      "zh-Hans": [
+        "马赫5号"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://ch.nicovideo.jp/gogogo02",
+    "begin": "1997-01-09T16:00:00.000Z",
+    "end": "1997-09-24T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "95949"
+      },
+      {
+        "site": "anidb",
+        "id": "1787"
+      },
+      {
+        "site": "anilist",
+        "id": "1445"
+      },
+      {
+        "site": "anime-planet",
+        "id": "speed-racer"
+      },
+      {
+        "site": "anisearch",
+        "id": "1929"
+      },
+      {
+        "site": "kitsu",
+        "id": "1298"
+      },
+      {
+        "site": "kitsu",
+        "id": "3843"
+      },
+      {
+        "site": "livechart",
+        "id": "12041"
+      },
+      {
+        "site": "livechart",
+        "id": "6121"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1445"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4905"
+      },
+      {
+        "site": "notify",
+        "id": "IQhrcFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "gm4-cKmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1997,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 34,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/6010.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/6010t.jpg",
+    "synonyms": [
+      "Mach Go Go Go",
+      "Mach Go Go Go (1997)",
+      "Mach Go Go Go: Restart",
+      "Mach GoGoGo Restart",
+      "New Mach GoGoGo",
+      "Speed Racer 2000",
+      "Speed Racer X",
+      "マッハGoGoGo",
+      "マッハGoGoGo (1997)",
+      "マッハGoGoGo （1997）"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1997-01-22T16:00:00.000Z",
-  "end": "1997-02-21T16:30:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "50334"
+  {
+    "title": "新機動戦記ガンダムW Endless Waltz",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新机动战记高达W 无尽的华尔兹",
+        "新机动战记敢达W 无尽的华尔兹"
+      ]
     },
-    {
-      "site": "youku",
-      "id": "cc003a9a962411de83b1",
-      "begin": "2013-03-21T10:32:31.000Z"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 1997,
-    "month": "01"
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-01-25T16:00:00.000Z",
+    "end": "1997-01-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhbyxml",
+        "begin": "2014-10-31T04:50:21.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "i/izkiu4p8jljjjvk",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "39530"
+      },
+      {
+        "site": "bilibili",
+        "id": "6058",
+        "begin": "1997-01-24T16:00:01.000Z",
+        "broadcast": "R/2017-04-01T08:54:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "229"
+      },
+      {
+        "site": "anidb",
+        "id": "496"
+      },
+      {
+        "site": "anilist",
+        "id": "2273"
+      },
+      {
+        "site": "anilist",
+        "id": "2728"
+      },
+      {
+        "site": "anilist",
+        "id": "7113"
+      },
+      {
+        "site": "anilist",
+        "id": "90"
+      },
+      {
+        "site": "anime-planet",
+        "id": "30th-gundam-perfect-mission"
+      },
+      {
+        "site": "anime-planet",
+        "id": "after-war-gundam-x"
+      },
+      {
+        "site": "anime-planet",
+        "id": "all-that-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "chou-denei-ban-sd-gundam-sangokuden-brave-battle-warriors"
+      },
+      {
+        "site": "anime-planet",
+        "id": "collection-of-key-animation-films"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gundam-mission-to-the-rise"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-fighter-g-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-00"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-00-second-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-00-special-edition-i-celestial-being"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-00-special-edition-iii-return-the-world"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-00-the-movie-a-wakening-of-the-trailblazer"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-0083-stardust-memory-the-mayfly-of-space"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-0083-the-afterglow-of-zeon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-age"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-age-memory-of-eden"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-evolve"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-iron-blooded-orphans-2nd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-seed-after-phase-in-the-valley-of-stars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-seed-destiny"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-special-edition-ii-end-of-the-world"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-wing"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-wing-endless-waltz-special-edition"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-wing-frozen-teardrop-picture-drama-aratanaru-tatakai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-wing-operation-meteor"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-zz-gundam-frag"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-sd-gundam-mk-i"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-sd-gundam-no-gyakushuu-arashi-wo-yobu-gakuensai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mokei-senshi-gunpla-builders-beginning-g"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ring-of-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "turn-a-gundam"
+      },
+      {
+        "site": "anisearch",
+        "id": "1024"
+      },
+      {
+        "site": "anisearch",
+        "id": "3351"
+      },
+      {
+        "site": "kitsu",
+        "id": "1748"
+      },
+      {
+        "site": "kitsu",
+        "id": "69"
+      },
+      {
+        "site": "kitsu",
+        "id": "70"
+      },
+      {
+        "site": "livechart",
+        "id": "3938"
+      },
+      {
+        "site": "livechart",
+        "id": "4607"
+      },
+      {
+        "site": "livechart",
+        "id": "4659"
+      },
+      {
+        "site": "livechart",
+        "id": "4683"
+      },
+      {
+        "site": "livechart",
+        "id": "4695"
+      },
+      {
+        "site": "livechart",
+        "id": "4944"
+      },
+      {
+        "site": "livechart",
+        "id": "5926"
+      },
+      {
+        "site": "livechart",
+        "id": "5947"
+      },
+      {
+        "site": "livechart",
+        "id": "6906"
+      },
+      {
+        "site": "livechart",
+        "id": "6987"
+      },
+      {
+        "site": "livechart",
+        "id": "7514"
+      },
+      {
+        "site": "livechart",
+        "id": "7582"
+      },
+      {
+        "site": "livechart",
+        "id": "7717"
+      },
+      {
+        "site": "livechart",
+        "id": "7848"
+      },
+      {
+        "site": "livechart",
+        "id": "8121"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2273"
+      },
+      {
+        "site": "myanimelist",
+        "id": "90"
+      },
+      {
+        "site": "notify",
+        "id": "PFhp5Kimg"
+      },
+      {
+        "site": "notify",
+        "id": "P_iYcFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "dJhpcKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1997,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/1061/97444.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1061/97444t.jpg",
+    "synonyms": [
+      "GUNDAM-W Endless Waltz",
+      "Gundam Wing - Endless Waltz",
+      "Gundam Wing : Endless Waltz",
+      "Gundam Wing Endless Waltz OVA",
+      "Gundam Wing: El vals interminable",
+      "Gundam Wing: Endless Waltz",
+      "Gundam-W: Endless Waltz",
+      "Gundam: Gundam-W: Endless Waltz",
+      "Mobile Suit Gundam Wing - Endless Waltz - OAV",
+      "Mobile Suit Gundam Wing The Movie: Endless Waltz",
+      "Mobile Suit Gundam Wing: Endless Waltz",
+      "New Mobile Report Gundam W: Endless Waltz",
+      "New Mobile Report Gundam Wing: Endless Waltz",
+      "New Mobile War Chronicle Gundam Wing: Endless Waltz",
+      "Shin Kidou Senki Gundam W: Endless Waltz",
+      "Shin Kidou Senki Gundam Wing Endless Waltz",
+      "Shin Kidō Senki Gundam W: Endless Waltz",
+      "新机动战记高达W 无尽的华尔兹",
+      "新機動戦記ガンダムW Endless Waltz",
+      "新機動戦記ガンダムW エンドレス・ワルツ",
+      "기동전사 건담 Wing: Endless Waltz"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 2,
-  "picture": "https://cdn.myanimelist.net/images/anime/1491/96516.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1491/96516t.jpg",
-  "synonyms": [
-    "Choujyuu Densetsu Gestalt",
-    "Chōjū Densetsu Gestalt",
-    "Gestalt",
-    "Гештальт",
-    "Гещалт",
-    "超獣伝説ゲシュタルト"
-  ]
-}
+  {
+    "title": "EAT-MAN",
+    "titleTranslate": {
+      "zh-Hans": [
+        "螺丝侠"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-01-09T16:00:00.000Z",
+    "end": "1997-03-28T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "ibDIOjPRayghr6VE",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "18035"
+      },
+      {
+        "site": "letv",
+        "id": "29220",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "72"
+      },
+      {
+        "site": "anilist",
+        "id": "1599"
+      },
+      {
+        "site": "anime-planet",
+        "id": "eat-man-98"
+      },
+      {
+        "site": "anisearch",
+        "id": "2968"
+      },
+      {
+        "site": "kitsu",
+        "id": "1439"
+      },
+      {
+        "site": "livechart",
+        "id": "6260"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1599"
+      },
+      {
+        "site": "notify",
+        "id": "EIl-cKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1997,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1171/95124.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1171/95124t.jpg",
+    "synonyms": [
+      "EAT-MAN",
+      "EATMAN",
+      "Eat-man",
+      "Eatman",
+      "Едок",
+      "איטמן",
+      "イートマン"
+    ]
+  },
+  {
+    "title": "超獣伝説ゲシュタルト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超兽传说GESTALT"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-01-22T16:00:00.000Z",
+    "end": "1997-02-21T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "50334"
+      },
+      {
+        "site": "youku",
+        "id": "cc003a9a962411de83b1",
+        "begin": "2013-03-21T10:32:31.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1997,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/1491/96516.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1491/96516t.jpg",
+    "synonyms": [
+      "Choujyuu Densetsu Gestalt",
+      "Chōjū Densetsu Gestalt",
+      "Gestalt",
+      "Гештальт",
+      "Гещалт",
+      "超獣伝説ゲシュタルト"
+    ]
+  }
+]

@@ -1,90 +1,998 @@
-{
-  "title": "磯部磯兵衛物語",
-  "titleTranslate": {
-    "zh-Hans": [
-      "矶部矶兵卫物语"
+[
+  {
+    "title": "时光诡域",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "zh-Hans",
+    "officialSite": "http://v.qq.com/vplus/shiguang",
+    "begin": "2015-12-15T12:00:00.000Z",
+    "end": "2016-03-08T12:15:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "3217",
+        "begin": "2015-12-15T16:00:01.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "pptv",
+        "id": "5Ugkogpw4B6Bic2c",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "c/c1ld829macro80v",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhbfrox",
+        "begin": "2015-12-15T01:53:23.000Z"
+      },
+      {
+        "site": "letv",
+        "id": "10016723",
+        "begin": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2015/dhpsggyu",
+        "begin": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "168876",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "159291"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2015,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 10,
+    "picture": "https://cdn.myanimelist.net/images/anime/1836/112310.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1836/112310t.jpg",
+    "synonyms": [
+      "Shi Guang Gui Yu",
+      "The Prisoners of Time",
+      "时光诡域"
     ]
   },
-  "type": "web",
-  "lang": "ja",
-  "officialSite": "http://%E7%A3%AF%E9%83%A8%E7%A3%AF%E5%85%B5%E8%A1%9B.com/",
-  "begin": "2015-12-12T16:00:00.000Z",
-  "end": "2015-12-12T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "149983"
+  {
+    "title": "爱神巧克力",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "zh-Hans",
+    "officialSite": "http://ac.qq.com/event/index1127.html",
+    "begin": "2015-12-02T12:00:00.000Z",
+    "end": "2016-03-16T12:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "oYxo5k60JGLFQ6s",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "m/mw04ctse4gj4syj",
+        "begin": "2015-12-02T12:00:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhbh6vt",
+        "begin": "2015-12-02T01:48:52.000Z"
+      },
+      {
+        "site": "letv",
+        "id": "10016275",
+        "begin": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2015/dhpaqqkl",
+        "begin": "2015-12-02T06:00:00.000Z"
+      },
+      {
+        "site": "mgtv",
+        "id": "168507",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "158043"
+      },
+      {
+        "site": "anidb",
+        "id": "13634"
+      },
+      {
+        "site": "anilist",
+        "id": "100811"
+      },
+      {
+        "site": "anime-planet",
+        "id": "aishen-qiaokeli-ing-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "aishen-qiaokeli-ing-wanjie-jinian"
+      },
+      {
+        "site": "anisearch",
+        "id": "13090"
+      },
+      {
+        "site": "kitsu",
+        "id": "14147"
+      },
+      {
+        "site": "kitsu",
+        "id": "42955"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36848"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40835"
+      },
+      {
+        "site": "notify",
+        "id": "M08HhKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2015,
+      "month": "12"
     },
-    {
-      "site": "bilibili",
-      "id": "3236",
-      "begin": "2015-12-11T16:00:00.000Z",
-      "broadcast": "R/2016-03-11T16:29:15.000Z/P7D"
-    },
-    {
-      "site": "anilist",
-      "id": "21448"
-    },
-    {
-      "site": "kitsu",
-      "id": "10190"
-    },
-    {
-      "site": "kitsu",
-      "id": "11496"
-    },
-    {
-      "site": "kitsu",
-      "id": "8133"
-    },
-    {
-      "site": "kitsu",
-      "id": "818"
-    },
-    {
-      "site": "kitsu",
-      "id": "9967"
-    },
-    {
-      "site": "myanimelist",
-      "id": "28427"
-    },
-    {
-      "site": "myanimelist",
-      "id": "31903"
-    },
-    {
-      "site": "notify",
-      "id": "6aKjpFiiR"
-    },
-    {
-      "site": "notify",
-      "id": "QAZ1cKmig"
-    },
-    {
-      "site": "notify",
-      "id": "ag1PpFmiR"
-    },
-    {
-      "site": "notify",
-      "id": "czfypFiig"
-    },
-    {
-      "site": "notify",
-      "id": "kE62tKmmg"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 2016,
-    "month": "12"
+    "status": "FINISHED",
+    "episodes": 15,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/78011.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/78011t.jpg",
+    "synonyms": [
+      "Ai Shen Qiao Ke Li Ing",
+      "Aishen Qiaokeli Jinxingshi",
+      "Aishen Qiaokeli-ING...",
+      "Cupid's Chocolate",
+      "Cupid's Chocolates",
+      "Cupid`s Chocolates",
+      "Eros Chocolate",
+      "God of Love's Chocolate",
+      "God of Love`s Chocolate",
+      "Шоколад Купидона",
+      "爱神巧克力",
+      "爱神巧克力ING..."
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 3,
-  "picture": "https://cdn.myanimelist.net/images/anime/6/82172.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/6/82172t.jpg",
-  "synonyms": [
-    "磯部磯兵衛物語"
-  ]
-}
+  {
+    "title": "通职者",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "zh-Hans",
+    "officialSite": "http://v.qq.com/vplus/tongzhizhe",
+    "begin": "2015-12-31T12:00:00.000Z",
+    "end": "2016-03-17T12:00:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "3270",
+        "begin": "2015-12-30T16:00:01.000Z",
+        "broadcast": "R/2016-01-06T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "pptv",
+        "id": "jXdn5EyyImDDQY0",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "4/45gt081jkx8xv1n",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhbfwo5",
+        "begin": "2015-12-31T02:05:29.000Z"
+      },
+      {
+        "site": "letv",
+        "id": "10017262",
+        "begin": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2015/dhptzz",
+        "begin": "2015-12-31T06:00:00.000Z"
+      },
+      {
+        "site": "mgtv",
+        "id": "290286",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "162747"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2015,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 10,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/81483.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/81483t.jpg",
+    "synonyms": [
+      "Handyman",
+      "Jack of All Trades",
+      "通职者"
+    ]
+  },
+  {
+    "title": "機動戦士ガンダム サンダーボルト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达 雷霆宙域"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://gundam-tb.net/",
+    "begin": "2015-12-25T16:00:00.000Z",
+    "end": "2016-04-08T16:20:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "6006",
+        "begin": "2015-12-24T16:00:01.000Z",
+        "broadcast": "R/2017-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi",
+        "id": "151345"
+      },
+      {
+        "site": "anidb",
+        "id": "12098"
+      },
+      {
+        "site": "anidb",
+        "id": "12549"
+      },
+      {
+        "site": "anidb",
+        "id": "715"
+      },
+      {
+        "site": "anilist",
+        "id": "21893"
+      },
+      {
+        "site": "anilist",
+        "id": "80"
+      },
+      {
+        "site": "anilist",
+        "id": "97853"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-0080-war-in-the-pocket"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-0083-stardust-memory"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-chars-counterattack"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-evolve"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-f91"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-hathaways-flash-i"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-hathaways-flash-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-hathaways-flash-iii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-ms-igloo-2-juuryoku-sensen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-ms-igloo-apocalypse-0079"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-ms-igloo-the-hidden-one-year-war"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-narrative"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-the-08th-ms-team"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-the-origin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-thunderbolt-2nd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-thunderbolt-bandit-flower"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-thunderbolt-december-sky"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-twilight-axis"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-unicorn"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-gundam-zz"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-victory-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-zeta-gundam"
+      },
+      {
+        "site": "anisearch",
+        "id": "11417"
+      },
+      {
+        "site": "anisearch",
+        "id": "12025"
+      },
+      {
+        "site": "anisearch",
+        "id": "3329"
+      },
+      {
+        "site": "kitsu",
+        "id": "12107"
+      },
+      {
+        "site": "kitsu",
+        "id": "12755"
+      },
+      {
+        "site": "kitsu",
+        "id": "59"
+      },
+      {
+        "site": "livechart",
+        "id": "3938"
+      },
+      {
+        "site": "livechart",
+        "id": "4607"
+      },
+      {
+        "site": "livechart",
+        "id": "4659"
+      },
+      {
+        "site": "livechart",
+        "id": "4683"
+      },
+      {
+        "site": "livechart",
+        "id": "4695"
+      },
+      {
+        "site": "livechart",
+        "id": "4944"
+      },
+      {
+        "site": "livechart",
+        "id": "5926"
+      },
+      {
+        "site": "livechart",
+        "id": "5947"
+      },
+      {
+        "site": "livechart",
+        "id": "6906"
+      },
+      {
+        "site": "livechart",
+        "id": "6987"
+      },
+      {
+        "site": "livechart",
+        "id": "7514"
+      },
+      {
+        "site": "livechart",
+        "id": "7582"
+      },
+      {
+        "site": "livechart",
+        "id": "7717"
+      },
+      {
+        "site": "livechart",
+        "id": "7848"
+      },
+      {
+        "site": "livechart",
+        "id": "8121"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33221"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34391"
+      },
+      {
+        "site": "myanimelist",
+        "id": "80"
+      },
+      {
+        "site": "notify",
+        "id": "RFkg2FiiR"
+      },
+      {
+        "site": "notify",
+        "id": "XRrm2FimR"
+      },
+      {
+        "site": "notify",
+        "id": "aucpcKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2015,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/77176.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/77176t.jpg",
+    "synonyms": [
+      "Gundam TB",
+      "Gundam: Thunderbolt",
+      "Kidou Senshi Gundam: Thunderbolt",
+      "Kidō Senshi Gundam: Thunderbolt",
+      "MOBILE SUIT GUNDAM THUNDERBOLT",
+      "Mobile Suit Gundam Thunderbolt",
+      "Mobile Suit Gundam Thunderbolt: December Sky",
+      "Mobile Suit Gundam: Thunderbolt",
+      "Мобилни костюми \"Гъндам\": сектор \"Тъндърболт\"",
+      "Мобилни костюми Гъндам: Тъндърболт",
+      "きどうせんしがんだむさんだーぼると",
+      "機動戦士ガンダム サンダーボルト",
+      "機動戦士ガンダム サンダーボルト",
+      "기동전사 건담 썬더볼트"
+    ]
+  },
+  {
+    "title": "ワンピース～アドベンチャー オブ ネブランディア～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海贼王 特别篇 雾之岛的冒险",
+        "航海王 TV特别篇 雾之岛冒险"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://one-piece.com/news/detail/20151109_2963",
+    "begin": "2015-12-19T16:00:00.000Z",
+    "end": "2015-12-19T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhbguo1",
+        "begin": "2016-04-27T15:14:50.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "154112"
+      },
+      {
+        "site": "anilist",
+        "id": "21"
+      },
+      {
+        "site": "anime-planet",
+        "id": "one-piece"
+      },
+      {
+        "site": "anisearch",
+        "id": "12168"
+      },
+      {
+        "site": "anisearch",
+        "id": "2227"
+      },
+      {
+        "site": "kitsu",
+        "id": "12"
+      },
+      {
+        "site": "livechart",
+        "id": "321"
+      },
+      {
+        "site": "livechart",
+        "id": "4028"
+      },
+      {
+        "site": "livechart",
+        "id": "4104"
+      },
+      {
+        "site": "livechart",
+        "id": "4166"
+      },
+      {
+        "site": "livechart",
+        "id": "4187"
+      },
+      {
+        "site": "livechart",
+        "id": "4199"
+      },
+      {
+        "site": "livechart",
+        "id": "4208"
+      },
+      {
+        "site": "livechart",
+        "id": "4720"
+      },
+      {
+        "site": "livechart",
+        "id": "4723"
+      },
+      {
+        "site": "livechart",
+        "id": "4817"
+      },
+      {
+        "site": "livechart",
+        "id": "4938"
+      },
+      {
+        "site": "livechart",
+        "id": "5000"
+      },
+      {
+        "site": "livechart",
+        "id": "5174"
+      },
+      {
+        "site": "livechart",
+        "id": "5208"
+      },
+      {
+        "site": "livechart",
+        "id": "6598"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21"
+      },
+      {
+        "site": "notify",
+        "id": "jdZp5KmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2015,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/77050.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/77050t.jpg",
+    "synonyms": [
+      "ONE PIECE 〜アドベンチャー オブ ネブランディア〜",
+      "ONE PIECE: Adventure of Nebulandia",
+      "One Piece Special",
+      "One Piece: Abenteuer auf Nebulandia",
+      "One Piece: Aventura en Nebulandia",
+      "わんぴーすあどべんちゃーおぶねぶらんでぃあ",
+      "ワンピース～アドベンチャー オブ ネブランディア～"
+    ]
+  },
+  {
+    "title": "ARIA The AVVENIRE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "水星领航员 The AVVENIRE"
+      ],
+      "zh-Hant": [
+        "水星領航員 ARIA THE AVVENIRE"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.ariacompany.net/",
+    "begin": "2015-12-24T16:00:00.000Z",
+    "end": "2016-06-24T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "pohk4kqwIF7BP6c",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "124341"
+      },
+      {
+        "site": "gamer",
+        "id": "75439",
+        "begin": "2021-06-18T04:00:00.000Z",
+        "broadcast": "R/2021-06-18T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "15499"
+      },
+      {
+        "site": "anidb",
+        "id": "5424"
+      },
+      {
+        "site": "anilist",
+        "id": "117556"
+      },
+      {
+        "site": "anilist",
+        "id": "3297"
+      },
+      {
+        "site": "anime-planet",
+        "id": "aria-the-animation"
+      },
+      {
+        "site": "anime-planet",
+        "id": "aria-the-benedizione"
+      },
+      {
+        "site": "anime-planet",
+        "id": "aria-the-crepuscolo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "aria-the-natural"
+      },
+      {
+        "site": "anime-planet",
+        "id": "aria-the-origination"
+      },
+      {
+        "site": "anime-planet",
+        "id": "aria-the-ova-arietta"
+      },
+      {
+        "site": "anisearch",
+        "id": "15177"
+      },
+      {
+        "site": "anisearch",
+        "id": "4484"
+      },
+      {
+        "site": "kitsu",
+        "id": "2916"
+      },
+      {
+        "site": "kitsu",
+        "id": "43481"
+      },
+      {
+        "site": "livechart",
+        "id": "10446"
+      },
+      {
+        "site": "livechart",
+        "id": "3740"
+      },
+      {
+        "site": "livechart",
+        "id": "3898"
+      },
+      {
+        "site": "livechart",
+        "id": "4078"
+      },
+      {
+        "site": "livechart",
+        "id": "5085"
+      },
+      {
+        "site": "livechart",
+        "id": "5212"
+      },
+      {
+        "site": "livechart",
+        "id": "5645"
+      },
+      {
+        "site": "livechart",
+        "id": "5707"
+      },
+      {
+        "site": "livechart",
+        "id": "9888"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3297"
+      },
+      {
+        "site": "myanimelist",
+        "id": "41674"
+      },
+      {
+        "site": "myanimelist",
+        "id": "54062"
+      },
+      {
+        "site": "notify",
+        "id": "6CcwcKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "opJeT4qWg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2015,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/74338.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/74338t.jpg",
+    "synonyms": [
+      "ARIA The AVVENIRE",
+      "Aria 2015",
+      "Aria 5",
+      "Aria The Avvenire",
+      "Aria5",
+      "Aria: The Avvenire",
+      "水星領航員 The AVVENIRE",
+      "水星领航员 The AVVENIRE",
+      "아리아 The AVVENIRE"
+    ]
+  },
+  {
+    "title": "ワンパンマン OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "一拳超人 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2015-12-04T16:00:00.000Z",
+    "end": "2015-12-04T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "xmdRzzedDUuuLJQ",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "147359"
+      },
+      {
+        "site": "youku",
+        "id": "618bde949edd11e59e2a",
+        "begin": "2016-04-26T06:58:49.000Z"
+      },
+      {
+        "site": "anilist",
+        "id": "21087"
+      },
+      {
+        "site": "anime-planet",
+        "id": "one-punch-man"
+      },
+      {
+        "site": "anime-planet",
+        "id": "one-punch-man-road-to-hero"
+      },
+      {
+        "site": "anisearch",
+        "id": "10317"
+      },
+      {
+        "site": "kitsu",
+        "id": "10740"
+      },
+      {
+        "site": "livechart",
+        "id": "11382"
+      },
+      {
+        "site": "livechart",
+        "id": "1431"
+      },
+      {
+        "site": "livechart",
+        "id": "1839"
+      },
+      {
+        "site": "livechart",
+        "id": "2350"
+      },
+      {
+        "site": "livechart",
+        "id": "9411"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30276"
+      },
+      {
+        "site": "notify",
+        "id": "25_QtFimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2015,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/1452/97840.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1452/97840t.jpg",
+    "synonyms": [
+      "One Punch Man OAVs",
+      "One Punch Man OVA",
+      "One Punch Man OVAs",
+      "One Punch Man: Ovas",
+      "One-Punch Man OVA",
+      "One-Punch Man Specials",
+      "わんぱんまん",
+      "ワンパンマン",
+      "ワンパンマン OVA",
+      "ワンパンマン Specials"
+    ]
+  },
+  {
+    "title": "磯部磯兵衛物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "矶部矶兵卫物语"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://%E7%A3%AF%E9%83%A8%E7%A3%AF%E5%85%B5%E8%A1%9B.com/",
+    "begin": "2015-12-12T16:00:00.000Z",
+    "end": "2015-12-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "149983"
+      },
+      {
+        "site": "bilibili",
+        "id": "3236",
+        "begin": "2015-12-11T16:00:00.000Z",
+        "broadcast": "R/2016-03-11T16:29:15.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "21448"
+      },
+      {
+        "site": "kitsu",
+        "id": "10190"
+      },
+      {
+        "site": "kitsu",
+        "id": "11496"
+      },
+      {
+        "site": "kitsu",
+        "id": "8133"
+      },
+      {
+        "site": "kitsu",
+        "id": "818"
+      },
+      {
+        "site": "kitsu",
+        "id": "9967"
+      },
+      {
+        "site": "myanimelist",
+        "id": "28427"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31903"
+      },
+      {
+        "site": "notify",
+        "id": "6aKjpFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "QAZ1cKmig"
+      },
+      {
+        "site": "notify",
+        "id": "ag1PpFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "czfypFiig"
+      },
+      {
+        "site": "notify",
+        "id": "kE62tKmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2016,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/82172.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/82172t.jpg",
+    "synonyms": [
+      "磯部磯兵衛物語"
+    ]
+  }
+]

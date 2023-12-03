@@ -1,77 +1,284 @@
-{
-  "title": "家なき子",
-  "titleTranslate": {
-    "zh-Hans": [
-      "咪咪流浪记",
-      "星仔走天涯"
+[
+  {
+    "title": "無敵超人ザンボット3",
+    "titleTranslate": {
+      "zh-Hans": [
+        "无敌超人神宝3"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=18",
+    "begin": "1977-10-08T16:00:00.000Z",
+    "end": "1978-03-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "QpZy8FiaibLmzPTbU",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "37174"
+      },
+      {
+        "site": "bilibili",
+        "id": "3082",
+        "begin": "1977-10-07T16:00:00.000Z",
+        "broadcast": "R/2015-11-28T14:37:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1813"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1977,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 23,
+    "picture": "https://cdn.myanimelist.net/images/anime/1946/131226.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1946/131226t.jpg",
+    "synonyms": [
+      "Invincible Super Man Zambot 3",
+      "Invincible Superman Zambot 3",
+      "Invincible Superman Zanbot 3",
+      "L'invincibile Zambot 3",
+      "L`invincibile Zambot 3",
+      "Muteki Choujin Zambot 3",
+      "Muteki Chōjin Zanbot 3",
+      "Zambot 3",
+      "Zanbot 3",
+      "Zanbotto",
+      "zambot",
+      "zanbot",
+      "無敵超人サンボット３",
+      "無敵超人ザンボット3",
+      "無敵超人ザンボット３"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1977-10-01T16:00:00.000Z",
-  "end": "1978-09-30T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "18582"
+  {
+    "title": "新巨人の星",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新巨人之星"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "5925",
-      "begin": "2017-02-07T09:40:00.000Z",
-      "broadcast": "R/2017-02-07T09:40:00.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1977-10-01T22:30:00.000Z",
+    "end": "1978-09-30T23:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53754"
+      },
+      {
+        "site": "anidb",
+        "id": "3413"
+      },
+      {
+        "site": "anidb",
+        "id": "6181"
+      },
+      {
+        "site": "anilist",
+        "id": "16486"
+      },
+      {
+        "site": "anilist",
+        "id": "5834"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kyojin-no-hoshi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kyojin-no-hoshi-1982"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kyojin-no-hoshi-movie-1-chizome-no-kesshousen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kyojin-no-hoshi-movie-2-ike-ike-hyuuma"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kyojin-no-hoshi-movie-3-dai-league-ball"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kyojin-no-hoshi-movie-4-shukumei-no-taiketsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shin-kyojin-no-hoshi-ii"
+      },
+      {
+        "site": "anisearch",
+        "id": "2927"
+      },
+      {
+        "site": "anisearch",
+        "id": "5058"
+      },
+      {
+        "site": "kitsu",
+        "id": "4296"
+      },
+      {
+        "site": "kitsu",
+        "id": "7440"
+      },
+      {
+        "site": "livechart",
+        "id": "11649"
+      },
+      {
+        "site": "livechart",
+        "id": "11651"
+      },
+      {
+        "site": "livechart",
+        "id": "11652"
+      },
+      {
+        "site": "livechart",
+        "id": "11653"
+      },
+      {
+        "site": "livechart",
+        "id": "11654"
+      },
+      {
+        "site": "livechart",
+        "id": "11655"
+      },
+      {
+        "site": "livechart",
+        "id": "11656"
+      },
+      {
+        "site": "livechart",
+        "id": "11657"
+      },
+      {
+        "site": "myanimelist",
+        "id": "16486"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5834"
+      },
+      {
+        "site": "notify",
+        "id": "VDRq5Fimg"
+      },
+      {
+        "site": "notify",
+        "id": "lQyFtKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1977,
+      "month": "10"
     },
-    {
-      "site": "anidb",
-      "id": "1829"
-    },
-    {
-      "site": "anilist",
-      "id": "2828"
-    },
-    {
-      "site": "anime-planet",
-      "id": "nobodys-boy-remi"
-    },
-    {
-      "site": "anisearch",
-      "id": "2241"
-    },
-    {
-      "site": "kitsu",
-      "id": "2582"
-    },
-    {
-      "site": "myanimelist",
-      "id": "2828"
-    },
-    {
-      "site": "notify",
-      "id": "mPI8cKmig"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 1980,
-    "month": "10"
+    "status": "FINISHED",
+    "episodes": 52,
+    "picture": "https://cdn.myanimelist.net/images/anime/1317/139179.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1317/139179t.jpg",
+    "synonyms": [
+      "New Star of the Giants",
+      "Shin Kyoujin no Hoshi",
+      "Tommy la stella dei Giants",
+      "Tommy, la stella dei Giants",
+      "knh s2",
+      "しんきょじんのほし",
+      "新巨人の星"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1135/135330.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1135/135330t.jpg",
-  "synonyms": [
-    "Ie Naki Ko (1980)",
-    "Ie Naki Ko Movie",
-    "Nobody's Boy - Remi",
-    "Nobody's Boy Remi Movie",
-    "Nobody's Boy: Remi",
-    "Nobody's Boy: Rémi",
-    "Remi",
-    "Remi (1980)",
-    "Remì",
-    "家なき子",
-    "家なき子 (1980)",
-    "家なき子 （1980）"
-  ]
-}
+  {
+    "title": "家なき子",
+    "titleTranslate": {
+      "zh-Hans": [
+        "咪咪流浪记",
+        "星仔走天涯"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1977-10-01T16:00:00.000Z",
+    "end": "1978-09-30T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "18582"
+      },
+      {
+        "site": "bilibili",
+        "id": "5925",
+        "begin": "2017-02-07T09:40:00.000Z",
+        "broadcast": "R/2017-02-07T09:40:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1829"
+      },
+      {
+        "site": "anilist",
+        "id": "2828"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nobodys-boy-remi"
+      },
+      {
+        "site": "anisearch",
+        "id": "2241"
+      },
+      {
+        "site": "kitsu",
+        "id": "2582"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2828"
+      },
+      {
+        "site": "notify",
+        "id": "mPI8cKmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1980,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1135/135330.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1135/135330t.jpg",
+    "synonyms": [
+      "Ie Naki Ko (1980)",
+      "Ie Naki Ko Movie",
+      "Nobody's Boy - Remi",
+      "Nobody's Boy Remi Movie",
+      "Nobody's Boy: Remi",
+      "Nobody's Boy: Rémi",
+      "Remi",
+      "Remi (1980)",
+      "Remì",
+      "家なき子",
+      "家なき子 (1980)",
+      "家なき子 （1980）"
+    ]
+  }
+]

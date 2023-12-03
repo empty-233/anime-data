@@ -1,135 +1,496 @@
-{
-  "title": "トニカクカワイイ ～制服～",
-  "titleTranslate": {
-    "zh-Hans": [
-      "总之就是非常可爱 ～制服～"
+[
+  {
+    "title": "万聖街",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://banseigai.com/",
+    "begin": "2022-11-11T15:00:00.000Z",
+    "broadcast": "R/2022-11-11T15:00:00.000Z/P7D",
+    "end": "2022-12-18T13:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "312314"
+      },
+      {
+        "site": "anidb",
+        "id": "15939"
+      },
+      {
+        "site": "anilist",
+        "id": "103350"
+      },
+      {
+        "site": "anilist",
+        "id": "122497"
+      },
+      {
+        "site": "anime-planet",
+        "id": "wan-sheng-jie-2"
+      },
+      {
+        "site": "anisearch",
+        "id": "16098"
+      },
+      {
+        "site": "kitsu",
+        "id": "43614"
+      },
+      {
+        "site": "livechart",
+        "id": "10110"
+      },
+      {
+        "site": "livechart",
+        "id": "10741"
+      },
+      {
+        "site": "livechart",
+        "id": "12352"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42640"
+      },
+      {
+        "site": "notify",
+        "id": "C_L35z5Mg"
+      }
     ],
-    "zh-Hant": [
-      "總之就是很可愛～制服～"
-    ],
-    "en": [
-      "Tonikaku Kawaii: Seifuku"
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2020,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1854/106930.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1854/106930t.jpg",
+    "synonyms": [
+      "1031 Wan Sheng Jie",
+      "1031万圣街",
+      "All Saints Street",
+      "Bansei Gai",
+      "Bansei-Gai",
+      "万圣街",
+      "万聖街"
     ]
   },
-  "type": "web",
-  "lang": "ja",
-  "officialSite": "https://tonikawa.com/",
-  "begin": "2022-11-21T16:00:00.000Z",
-  "end": "2022-11-21T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "376708"
+  {
+    "title": "「艦これ」いつかあの海で",
+    "titleTranslate": {
+      "zh-Hans": [
+        "舰队Collection 总有一天，在那片海",
+        "舰队收藏 第二季",
+        "舰队Collection 第二季"
+      ],
+      "zh-Hant": [
+        "艦隊Collection 總有一天，在那片海",
+        "艦隊 Collection 總有一天，在那片海"
+      ],
+      "en": [
+        "KanColle: See You Again on Another Quiet Blue Sea"
+      ]
     },
-    {
-      "site": "bilibili_hk_mo_tw",
-      "id": "28340355",
-      "begin": "",
-      "broadcast": ""
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://kancolle-itsuumi.com/",
+    "begin": "2022-11-03T15:30:00.000Z",
+    "broadcast": "R/2022-11-03T15:30:00.000Z/P7D",
+    "end": "2023-03-25T11:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "270739"
+      },
+      {
+        "site": "nowPlayer",
+        "id": "S202211010157684",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "76225",
+        "begin": "2023-09-22T04:00:00.000Z",
+        "broadcast": "R/2023-09-22T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "10161"
+      },
+      {
+        "site": "anilist",
+        "id": "20553"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kantai-collection-kan-colle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kantai-collection-kan-colle-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "9021"
+      },
+      {
+        "site": "kitsu",
+        "id": "8039"
+      },
+      {
+        "site": "livechart",
+        "id": "1770"
+      },
+      {
+        "site": "livechart",
+        "id": "252"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21511"
+      },
+      {
+        "site": "notify",
+        "id": "Dnf2tKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2022,
+      "month": "11"
     },
-    {
-      "site": "anidb",
-      "id": "15421"
-    },
-    {
-      "site": "anilist",
-      "id": "127371"
-    },
-    {
-      "site": "anilist",
-      "id": "141208"
-    },
-    {
-      "site": "anilist",
-      "id": "157800"
-    },
-    {
-      "site": "anilist",
-      "id": "2026"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tonikawa-over-the-moon-for-you-2nd-season"
-    },
-    {
-      "site": "anime-planet",
-      "id": "tonikawa-over-the-moon-for-you-sns"
-    },
-    {
-      "site": "anisearch",
-      "id": "15046"
-    },
-    {
-      "site": "anisearch",
-      "id": "18082"
-    },
-    {
-      "site": "kitsu",
-      "id": "46782"
-    },
-    {
-      "site": "livechart",
-      "id": "10280"
-    },
-    {
-      "site": "livechart",
-      "id": "10876"
-    },
-    {
-      "site": "livechart",
-      "id": "12106"
-    },
-    {
-      "site": "livechart",
-      "id": "9818"
-    },
-    {
-      "site": "myanimelist",
-      "id": "44931"
-    },
-    {
-      "site": "myanimelist",
-      "id": "50307"
-    },
-    {
-      "site": "myanimelist",
-      "id": "53703"
-    },
-    {
-      "site": "notify",
-      "id": "QeNoAWuZg"
-    }
-  ],
-  "animeSeason": {
-    "season": "FALL",
-    "year": 2022,
-    "month": "11"
+    "status": "FINISHED",
+    "episodes": 8,
+    "picture": "https://cdn.myanimelist.net/images/anime/1907/135109.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1907/135109t.jpg",
+    "synonyms": [
+      "Fleet Girls Collection",
+      "Fleet Girls Collection 2",
+      "Fleet Girls Collection KanColle 1944: いつかあの海で",
+      "Kan Colle: Itsuka Ano Umi de",
+      "Kan Colle: See You Again on Another Quiet Blue Sea",
+      "KanColle 2nd Season",
+      "KanColle : See You Again on Another Quiet Blue Sea",
+      "KanColle Season 2: Let's Meet at Sea",
+      "KanColle Season 2: Let’s Meet at Sea",
+      "KanColle Staffel 2: Let’s Meet at Sea",
+      "KanColle: Let`s Meet at Sea",
+      "KanColle: See You Again on Another Quiet Blue Sea",
+      "KanColle: Someday in that Sea",
+      "KanKore 2",
+      "Kantai Collection: KanColle 2",
+      "Kantai Collection: KanColle 2nd Season",
+      "Kantai Collection: KanColle Zoku-hen",
+      "Kantai Collection: Zoku-hen",
+      "「艦これ」いつかあの海で",
+      "舰队Collection 总有一天，在那片海",
+      "艦これ いつかあの海で",
+      "艦隊これくしょん -艦これ- ２"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1085/126580.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1085/126580t.jpg",
-  "synonyms": [
-    "Fly Me to the Moon",
-    "Generally Cute",
-    "TONIKAWA: Over The Moon For You - Uniform",
-    "TONIKAWA: Over The Moon For You Special Episode",
-    "TONIKAWA: Over The Moon For You ~Uniform~",
-    "TONIKAWA: Over the Moon for You - Uniform",
-    "Tonikaku Cawaii",
-    "Tonikaku Kawaii ~Seifuku~",
-    "Tonikaku Kawaii: Uniform",
-    "Tonikaku Kawaī: Seifuku",
-    "Tonikawa : Over the Moon for You - L’uniforme",
-    "Tonikawa: Fly Me to the Moon - Uniform",
-    "Tonikawa: Over the Moon for You - Special Episode",
-    "Tonikawa: Over the Moon for You - Uniform",
-    "Красавица: Унеси меня на Луну. Форма",
-    "จะยังไงภรรยาของผมก็น่ารัก",
-    "トニカクカワイイ ~制服~",
-    "トニカクカワイイ ～制服～",
-    "总之就是非常可爱",
-    "总之就是非常可爱 ～制服～"
-  ]
-}
+  {
+    "title": "劇場版 転生したらスライムだった件 紅蓮の絆編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 关于我转生变成史莱姆这档事 红莲之绊篇"
+      ],
+      "zh-Hant": [
+        "關於我轉生變成史萊姆這檔事劇場版 紅蓮之絆篇",
+        "劇場版 關於我轉生變成史萊姆這檔事 紅蓮之絆篇",
+        "劇場版關於我轉生變成史萊姆這檔事：紅蓮之絆篇",
+        "關於我轉生變成史萊姆這檔事：劇場版：紅蓮之絆篇"
+      ],
+      "en": [
+        "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond",
+        "Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://movie.ten-sura.com/",
+    "begin": "2022-11-24T16:00:00.000Z",
+    "end": "2022-11-24T17:48:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "350185"
+      },
+      {
+        "site": "gamer",
+        "id": "119767",
+        "begin": "2023-03-23T15:00:00.000Z",
+        "broadcast": "R/2023-03-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28481018",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81710853",
+        "begin": "2023-08-13T16:00:00.000Z",
+        "broadcast": "R/2023-08-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "15456"
+      },
+      {
+        "site": "anidb",
+        "id": "17709"
+      },
+      {
+        "site": "anilist",
+        "id": "116742"
+      },
+      {
+        "site": "anime-planet",
+        "id": "that-time-i-got-reincarnated-as-a-slime"
+      },
+      {
+        "site": "anime-planet",
+        "id": "that-time-i-got-reincarnated-as-a-slime-season-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "that-time-i-got-reincarnated-as-a-slime-season-2-part-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "that-time-i-got-reincarnated-as-a-slime-visions-of-coleus"
+      },
+      {
+        "site": "anisearch",
+        "id": "15098"
+      },
+      {
+        "site": "kitsu",
+        "id": "41024"
+      },
+      {
+        "site": "livechart",
+        "id": "11140"
+      },
+      {
+        "site": "livechart",
+        "id": "11606"
+      },
+      {
+        "site": "livechart",
+        "id": "11816"
+      },
+      {
+        "site": "livechart",
+        "id": "12175"
+      },
+      {
+        "site": "livechart",
+        "id": "3132"
+      },
+      {
+        "site": "livechart",
+        "id": "8664"
+      },
+      {
+        "site": "livechart",
+        "id": "9364"
+      },
+      {
+        "site": "livechart",
+        "id": "9848"
+      },
+      {
+        "site": "livechart",
+        "id": "9849"
+      },
+      {
+        "site": "myanimelist",
+        "id": "41487"
+      },
+      {
+        "site": "notify",
+        "id": "kYNw7VrZg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2022,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1745/128238.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1745/128238t.jpg",
+    "synonyms": [
+      "Gekijouban Tensei Shitara Slime Datta Ken: Guren no Kizuna Hen",
+      "Gekijouban Tensei Shitara Slime datta Ken: Guren no Kizuna Hen",
+      "Gekijouban Tensei shitara Slime Datta Ken",
+      "Gekijōban Tensei Shitara Slime datta Ken: Guren no Kizuna Hen",
+      "Lúc đó tôi đã chuyển sinh thành Slime: Mối Liên Kết Đỏ Thẫm",
+      "Meine Wiedergeburt als Schleim in einer anderen Welt: Der Film - Feuerrote Bande",
+      "Moi, quand je me réincarne en Slime : Le Film - Scarlet Bond",
+      "TenSura",
+      "Tensei Shitara Slime Datta Ken Movie: Guren no Kizuna",
+      "Tensei Shitara Slime Datta Ken Movie: Guren no Kizuna-hen",
+      "Tensei Shitara Slime Datta Ken: Guren no Kizuna",
+      "Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen",
+      "Tensura Movie",
+      "That Time I Got Reincarnated as a Slime Movie",
+      "That Time I Got Reincarnated as a Slime Movie: Scarlet Bond",
+      "That Time I Got Reincarnated as a Slime la película: El vínculo escarlata",
+      "That Time I Got Reincarnated as a Slime the Movie",
+      "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond",
+      "That Time I Got Reincarnated as a Slime: Scarlet Bonds",
+      "That Time I Got Reincarnated as a Slime: The Movie - Scarlet Bond",
+      "The Time I Got Reincarnated as a Slime The Movie: Scarlet Bond",
+      "tensura movie",
+      "О моём перерождении в слизь: Алые узы",
+      "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว เดอะมูฟวี่",
+      "剧场版 关于我转生变成史莱姆这档事 红莲之绊篇",
+      "劇場版 転生したらスライムだった件 紅蓮の絆編"
+    ]
+  },
+  {
+    "title": "トニカクカワイイ ～制服～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "总之就是非常可爱 ～制服～"
+      ],
+      "zh-Hant": [
+        "總之就是很可愛～制服～"
+      ],
+      "en": [
+        "Tonikaku Kawaii: Seifuku"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://tonikawa.com/",
+    "begin": "2022-11-21T16:00:00.000Z",
+    "end": "2022-11-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "376708"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28340355",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "15421"
+      },
+      {
+        "site": "anilist",
+        "id": "127371"
+      },
+      {
+        "site": "anilist",
+        "id": "141208"
+      },
+      {
+        "site": "anilist",
+        "id": "157800"
+      },
+      {
+        "site": "anilist",
+        "id": "2026"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tonikawa-over-the-moon-for-you-2nd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tonikawa-over-the-moon-for-you-sns"
+      },
+      {
+        "site": "anisearch",
+        "id": "15046"
+      },
+      {
+        "site": "anisearch",
+        "id": "18082"
+      },
+      {
+        "site": "kitsu",
+        "id": "46782"
+      },
+      {
+        "site": "livechart",
+        "id": "10280"
+      },
+      {
+        "site": "livechart",
+        "id": "10876"
+      },
+      {
+        "site": "livechart",
+        "id": "12106"
+      },
+      {
+        "site": "livechart",
+        "id": "9818"
+      },
+      {
+        "site": "myanimelist",
+        "id": "44931"
+      },
+      {
+        "site": "myanimelist",
+        "id": "50307"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53703"
+      },
+      {
+        "site": "notify",
+        "id": "QeNoAWuZg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2022,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1085/126580.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1085/126580t.jpg",
+    "synonyms": [
+      "Fly Me to the Moon",
+      "Generally Cute",
+      "TONIKAWA: Over The Moon For You - Uniform",
+      "TONIKAWA: Over The Moon For You Special Episode",
+      "TONIKAWA: Over The Moon For You ~Uniform~",
+      "TONIKAWA: Over the Moon for You - Uniform",
+      "Tonikaku Cawaii",
+      "Tonikaku Kawaii ~Seifuku~",
+      "Tonikaku Kawaii: Uniform",
+      "Tonikaku Kawaī: Seifuku",
+      "Tonikawa : Over the Moon for You - L’uniforme",
+      "Tonikawa: Fly Me to the Moon - Uniform",
+      "Tonikawa: Over the Moon for You - Special Episode",
+      "Tonikawa: Over the Moon for You - Uniform",
+      "Красавица: Унеси меня на Луну. Форма",
+      "จะยังไงภรรยาของผมก็น่ารัก",
+      "トニカクカワイイ ~制服~",
+      "トニカクカワイイ ～制服～",
+      "总之就是非常可爱",
+      "总之就是非常可爱 ～制服～"
+    ]
+  }
+]

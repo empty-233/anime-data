@@ -1,122 +1,548 @@
-{
-  "title": "GODZILLA 決戦機動増殖都市",
-  "titleTranslate": {
-    "zh-Hans": [
-      "哥斯拉 决战之都"
+[
+  {
+    "title": "おしりたんてい",
+    "titleTranslate": {
+      "zh-Hans": [
+        "屁屁侦探"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.oshiri-tantei.com/",
+    "begin": "2018-05-03T00:00:00.000Z",
+    "end": "2018-08-25T00:20:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "239180"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgypp05",
+        "begin": "2018-05-03T02:55:06.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "oshiri-tantei",
+        "begin": "2018-05-11T03:00:00.000Z"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53514"
+      }
     ],
-    "zh-Hant": [
-      "哥斯拉：決戰機動增殖都市"
-    ],
-    "en": [
-      "GODZILLA City on the Edge of Battle"
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2023,
+      "month": "05"
+    },
+    "status": "ONGOING",
+    "episodes": 0,
+    "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+    "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+    "synonyms": [
+      "Butt Detective",
+      "おしりたんてい"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "http://pp-movie.com/",
-  "begin": "2018-05-17T16:00:00.000Z",
-  "end": "2018-05-17T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "212059"
+  {
+    "title": "TO BE HEROINE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凸变英雄"
+      ]
     },
-    {
-      "site": "netflix",
-      "id": "80180376",
-      "begin": "2018-07-17T16:00:00.000Z",
-      "broadcast": "R/2018-07-17T16:00:00.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tobe-hero.com/season2/",
+    "begin": "2018-05-19T12:00:00.000Z",
+    "end": "2018-07-07T12:30:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "23352",
+        "begin": "2018-04-13T16:00:00.000Z",
+        "broadcast": "R/2018-04-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi",
+        "id": "206924"
+      },
+      {
+        "site": "nicovideo",
+        "id": "TO_BE_HEROINE",
+        "begin": "2018-05-19T13:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "14380"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-be-hero"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-be-hero-x"
+      },
+      {
+        "site": "kitsu",
+        "id": "12536"
+      },
+      {
+        "site": "kitsu",
+        "id": "46672"
+      },
+      {
+        "site": "livechart",
+        "id": "11591"
+      },
+      {
+        "site": "livechart",
+        "id": "2312"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2018,
+      "month": "05"
     },
-    {
-      "site": "anilist",
-      "id": "102353"
-    },
-    {
-      "site": "anilist",
-      "id": "87458"
-    },
-    {
-      "site": "anime-planet",
-      "id": "godzilla-movie-1-planet-of-the-monsters"
-    },
-    {
-      "site": "anime-planet",
-      "id": "godzilla-movie-3-the-planet-eater"
-    },
-    {
-      "site": "anime-planet",
-      "id": "godzilla-singular-point"
-    },
-    {
-      "site": "kitsu",
-      "id": "12634"
-    },
-    {
-      "site": "kitsu",
-      "id": "13298"
-    },
-    {
-      "site": "livechart",
-      "id": "10090"
-    },
-    {
-      "site": "livechart",
-      "id": "10177"
-    },
-    {
-      "site": "livechart",
-      "id": "10396"
-    },
-    {
-      "site": "livechart",
-      "id": "11829"
-    },
-    {
-      "site": "livechart",
-      "id": "2289"
-    },
-    {
-      "site": "livechart",
-      "id": "2634"
-    },
-    {
-      "site": "myanimelist",
-      "id": "33783"
-    },
-    {
-      "site": "myanimelist",
-      "id": "37897"
-    },
-    {
-      "site": "notify",
-      "id": "7TcihKmmg"
-    },
-    {
-      "site": "notify",
-      "id": "AlVn2Fiig"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 2018,
-    "month": "05"
+    "status": "FINISHED",
+    "episodes": 7,
+    "picture": "https://cdn.anime-planet.com/anime/primary/to-be-heroine-1.webp?t=1656718678",
+    "thumbnail": "https://cdn.anime-planet.com/anime/primary/to-be-heroine-1-285x399.webp?t=1656718678",
+    "synonyms": [
+      "TO BE HERO LEAF",
+      "TO BE HEROINE",
+      "To Be Hero 2",
+      "Tu Bian Ying Xiong LEAF",
+      "Tu Bian Ying Xiong Leaf",
+      "Tu Bian Yingxiong LEAF (Japanese Version)",
+      "トゥー・ビー・ヒロイン",
+      "凸变英雄 LEAF",
+      "凸变英雄 LEAF 日配版"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1748/98537.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1748/98537t.jpg",
-  "synonyms": [
-    "GODZILLA -決戦機動増殖都市-",
-    "GODZILLA La ville à l'aube du combat",
-    "GODZILLA 決戦機動増殖都市",
-    "GODZILLA: Kessen Kidou Zoushoku Toshi",
-    "Godzilla 2: City on the Edge of Battle",
-    "Godzilla Movie 2: City on the Edge of Battle",
-    "Godzilla Movie 2: Kessen Kidou Zoushoku Toshi",
-    "Godzilla Part 2",
-    "Godzilla Part 2: City on the Edge of Battle",
-    "Godzilla: City on the Edge of Battle",
-    "Godzilla: Eine Stadt am Rande der Schlacht",
-    "Godzilla: Kessen Kidou Zoushoku Toshi"
-  ]
-}
+  {
+    "title": "デジモンアドベンチャー tri. 第6章「ぼくらの未来」",
+    "titleTranslate": {
+      "zh-Hans": [
+        "数码兽大冒险 tri. 第六章「我们的未来」"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-05-05T16:00:00.000Z",
+    "end": "2018-05-05T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "192204"
+      },
+      {
+        "site": "nicovideo",
+        "id": "digimon-adventure-tri06",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "efbfbd52efbfbd0befbf",
+        "begin": ""
+      },
+      {
+        "site": "anilist",
+        "id": "115107"
+      },
+      {
+        "site": "anilist",
+        "id": "98402"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-movie-last-evolution-kizuna"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-tri-movie-1-reunion"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-tri-movie-2-determination"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-tri-movie-3-confession"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-tri-movie-4-loss"
+      },
+      {
+        "site": "anime-planet",
+        "id": "digimon-adventure-tri-movie-5-coexistence"
+      },
+      {
+        "site": "kitsu",
+        "id": "11549"
+      },
+      {
+        "site": "kitsu",
+        "id": "43570"
+      },
+      {
+        "site": "livechart",
+        "id": "3730"
+      },
+      {
+        "site": "livechart",
+        "id": "3917"
+      },
+      {
+        "site": "livechart",
+        "id": "3980"
+      },
+      {
+        "site": "livechart",
+        "id": "3990"
+      },
+      {
+        "site": "livechart",
+        "id": "4234"
+      },
+      {
+        "site": "livechart",
+        "id": "4251"
+      },
+      {
+        "site": "livechart",
+        "id": "4604"
+      },
+      {
+        "site": "livechart",
+        "id": "4643"
+      },
+      {
+        "site": "livechart",
+        "id": "4864"
+      },
+      {
+        "site": "livechart",
+        "id": "5139"
+      },
+      {
+        "site": "livechart",
+        "id": "5520"
+      },
+      {
+        "site": "livechart",
+        "id": "5638"
+      },
+      {
+        "site": "livechart",
+        "id": "5655"
+      },
+      {
+        "site": "livechart",
+        "id": "5704"
+      },
+      {
+        "site": "livechart",
+        "id": "5846"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34962"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38088"
+      },
+      {
+        "site": "myanimelist",
+        "id": "41206"
+      },
+      {
+        "site": "notify",
+        "id": "HExCtFmig"
+      },
+      {
+        "site": "notify",
+        "id": "Lom6qfUWR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2018,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/88936.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/88936t.jpg",
+    "synonyms": [
+      "Digimon Adventure Tri. Movie 6: Bokura no Mirai",
+      "Digimon Adventure Tri. Movie 6: Future",
+      "Digimon Adventure tri Película 6: Nuestro Futuro",
+      "Digimon Adventure tri. 6: Future",
+      "Digimon Adventure tri. 6: Our Future",
+      "Digimon Adventure tri. Chapter 6: Our Future",
+      "Digimon Adventure tri. Film 6 - Our Future",
+      "Digimon Adventure tri. Film 6: Bokura no Mirai",
+      "Digimon Adventure tri. Future",
+      "Digimon tri. 6",
+      "デジモンアドベンチャー tri. 第6章「ぼくらの未来」",
+      "デジモンアドベンチャーtri.（トライ）第6章「ぼくらの未来」",
+      "デジモンアドベンチャーtri.（トライ）第６章「ぼくらの未来」"
+    ]
+  },
+  {
+    "title": "ぱすてるらいふ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-05-17T16:00:00.000Z",
+    "end": "2018-06-21T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "243923"
+      },
+      {
+        "site": "anidb",
+        "id": "12262"
+      },
+      {
+        "site": "anilist",
+        "id": "87435"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bang-dream"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pastel-palettes-shuwarin-dorimin"
+      },
+      {
+        "site": "anisearch",
+        "id": "11563"
+      },
+      {
+        "site": "anisearch",
+        "id": "13819"
+      },
+      {
+        "site": "kitsu",
+        "id": "12330"
+      },
+      {
+        "site": "livechart",
+        "id": "10567"
+      },
+      {
+        "site": "livechart",
+        "id": "10631"
+      },
+      {
+        "site": "livechart",
+        "id": "11126"
+      },
+      {
+        "site": "livechart",
+        "id": "2247"
+      },
+      {
+        "site": "livechart",
+        "id": "2537"
+      },
+      {
+        "site": "livechart",
+        "id": "3238"
+      },
+      {
+        "site": "livechart",
+        "id": "3239"
+      },
+      {
+        "site": "livechart",
+        "id": "3240"
+      },
+      {
+        "site": "livechart",
+        "id": "9396"
+      },
+      {
+        "site": "livechart",
+        "id": "9667"
+      },
+      {
+        "site": "livechart",
+        "id": "9713"
+      },
+      {
+        "site": "livechart",
+        "id": "9841"
+      },
+      {
+        "site": "livechart",
+        "id": "9897"
+      },
+      {
+        "site": "livechart",
+        "id": "9898"
+      },
+      {
+        "site": "livechart",
+        "id": "9899"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33573"
+      },
+      {
+        "site": "notify",
+        "id": "pfzkhKmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2018,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/1616/98803.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1616/98803t.jpg",
+    "synonyms": [
+      "BanG Dream! Pastel Life",
+      "Bang Dream!: Pastel Life",
+      "PASTEL LIFE",
+      "ぱすてるらいふ"
+    ]
+  },
+  {
+    "title": "GODZILLA 決戦機動増殖都市",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哥斯拉 决战之都"
+      ],
+      "zh-Hant": [
+        "哥斯拉：決戰機動增殖都市"
+      ],
+      "en": [
+        "GODZILLA City on the Edge of Battle"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://pp-movie.com/",
+    "begin": "2018-05-17T16:00:00.000Z",
+    "end": "2018-05-17T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212059"
+      },
+      {
+        "site": "netflix",
+        "id": "80180376",
+        "begin": "2018-07-17T16:00:00.000Z",
+        "broadcast": "R/2018-07-17T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "102353"
+      },
+      {
+        "site": "anilist",
+        "id": "87458"
+      },
+      {
+        "site": "anime-planet",
+        "id": "godzilla-movie-1-planet-of-the-monsters"
+      },
+      {
+        "site": "anime-planet",
+        "id": "godzilla-movie-3-the-planet-eater"
+      },
+      {
+        "site": "anime-planet",
+        "id": "godzilla-singular-point"
+      },
+      {
+        "site": "kitsu",
+        "id": "12634"
+      },
+      {
+        "site": "kitsu",
+        "id": "13298"
+      },
+      {
+        "site": "livechart",
+        "id": "10090"
+      },
+      {
+        "site": "livechart",
+        "id": "10177"
+      },
+      {
+        "site": "livechart",
+        "id": "10396"
+      },
+      {
+        "site": "livechart",
+        "id": "11829"
+      },
+      {
+        "site": "livechart",
+        "id": "2289"
+      },
+      {
+        "site": "livechart",
+        "id": "2634"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33783"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37897"
+      },
+      {
+        "site": "notify",
+        "id": "7TcihKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "AlVn2Fiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2018,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1748/98537.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1748/98537t.jpg",
+    "synonyms": [
+      "GODZILLA -決戦機動増殖都市-",
+      "GODZILLA La ville à l'aube du combat",
+      "GODZILLA 決戦機動増殖都市",
+      "GODZILLA: Kessen Kidou Zoushoku Toshi",
+      "Godzilla 2: City on the Edge of Battle",
+      "Godzilla Movie 2: City on the Edge of Battle",
+      "Godzilla Movie 2: Kessen Kidou Zoushoku Toshi",
+      "Godzilla Part 2",
+      "Godzilla Part 2: City on the Edge of Battle",
+      "Godzilla: City on the Edge of Battle",
+      "Godzilla: Eine Stadt am Rande der Schlacht",
+      "Godzilla: Kessen Kidou Zoushoku Toshi"
+    ]
+  }
+]

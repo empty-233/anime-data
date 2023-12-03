@@ -1,122 +1,301 @@
-{
-  "title": "若草の四姉妹",
-  "titleTranslate": {
-    "zh-Hans": [
-      "小妇人"
+[
+  {
+    "title": "名犬ジョリィ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "灵犬雪莉",
+        "灵犬雪丽"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www3.nhk.or.jp/anime/archives/joly_index.html",
+    "begin": "1981-04-07T22:30:00.000Z",
+    "end": "1982-06-26T23:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "24156"
+      },
+      {
+        "site": "bilibili",
+        "id": "3226",
+        "begin": "2009-12-31T16:00:01.000Z",
+        "broadcast": "R/2015-12-20T07:11:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "169458"
+      },
+      {
+        "site": "myanimelist",
+        "id": "57007"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1981,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 52,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/22959.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/22959t.jpg",
+    "synonyms": [
+      "Bell e Sebastião",
+      "Bell och Sebastian",
+      "Bell og Sebastian",
+      "Belle & Sebastian",
+      "Belle & Sébastien",
+      "Belle and Sebastian",
+      "Belle e Sebastien",
+      "Belle e Sébastien",
+      "Belle et Sebastien",
+      "Belle et Sébastien",
+      "Belle ja Sebastian",
+      "Belle und Sebastian",
+      "Belle y Sebastian",
+      "Jolie the Great Dog",
+      "ביל וסבסטיאן",
+      "بل وسبستيان",
+      "めいけんじょりい",
+      "名犬ジョリィ"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1981-04-06T09:00:00.000Z",
-  "end": "1981-09-28T09:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "73724"
+  {
+    "title": "新竹取物語 1000年女王",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新竹取物语 1000年女王"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "5410",
-      "begin": "2016-08-01T02:43:15.000Z",
-      "broadcast": "R/2016-08-01T02:43:15.000Z/P7D"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1981-04-16T10:00:00.000Z",
+    "end": "1982-03-25T10:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "127355"
+      },
+      {
+        "site": "anidb",
+        "id": "1534"
+      },
+      {
+        "site": "anidb",
+        "id": "764"
+      },
+      {
+        "site": "anilist",
+        "id": "1495"
+      },
+      {
+        "site": "anilist",
+        "id": "1549"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dr-slump-arale-chan-ayaya-penguin-mura-de-tv-jack"
+      },
+      {
+        "site": "anime-planet",
+        "id": "queen-millennia-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "172"
+      },
+      {
+        "site": "anisearch",
+        "id": "807"
+      },
+      {
+        "site": "kitsu",
+        "id": "1341"
+      },
+      {
+        "site": "kitsu",
+        "id": "1390"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1495"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1549"
+      },
+      {
+        "site": "notify",
+        "id": "3G5a5Fmig"
+      },
+      {
+        "site": "notify",
+        "id": "bex-5KiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1981,
+      "month": "04"
     },
-    {
-      "site": "anidb",
-      "id": "2290"
-    },
-    {
-      "site": "anidb",
-      "id": "2869"
-    },
-    {
-      "site": "anilist",
-      "id": "15607"
-    },
-    {
-      "site": "anilist",
-      "id": "2548"
-    },
-    {
-      "site": "anilist",
-      "id": "4991"
-    },
-    {
-      "site": "anime-planet",
-      "id": "little-women"
-    },
-    {
-      "site": "anisearch",
-      "id": "2335"
-    },
-    {
-      "site": "anisearch",
-      "id": "2774"
-    },
-    {
-      "site": "kitsu",
-      "id": "2313"
-    },
-    {
-      "site": "kitsu",
-      "id": "3483"
-    },
-    {
-      "site": "livechart",
-      "id": "12129"
-    },
-    {
-      "site": "livechart",
-      "id": "7104"
-    },
-    {
-      "site": "livechart",
-      "id": "7660"
-    },
-    {
-      "site": "livechart",
-      "id": "8118"
-    },
-    {
-      "site": "myanimelist",
-      "id": "2548"
-    },
-    {
-      "site": "myanimelist",
-      "id": "4991"
-    },
-    {
-      "site": "notify",
-      "id": "3xDXcFiig"
-    },
-    {
-      "site": "notify",
-      "id": "W6Wy5Kmmg"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 1981,
-    "month": "04"
+    "status": "FINISHED",
+    "episodes": 42,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/66489.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/66489t.jpg",
+    "synonyms": [
+      "1000-Year Queen",
+      "1000年女王",
+      "Captain Harlock and the Queen of a Thousand Years",
+      "Die Königin der 1000 Jahre",
+      "Die Königin der tausend Jahre",
+      "Exploradores del espacio",
+      "La Princesa de los 1000 Años",
+      "La Reina de los 1000 años",
+      "La Reine du Fond des Temps",
+      "La regina dei mille anni",
+      "La reine du fond des temps",
+      "Millennia",
+      "Queen Millennia",
+      "Sen Nen Joou",
+      "Sen-Nen Joo",
+      "Sennen Joo",
+      "Sennen Joou",
+      "Shin Taketori Monogatari: 1000-nen Joō",
+      "Shin Taketori Monogatari: Sen-Nen Joou",
+      "Shin Taketori Monogatari: Sennen Joou",
+      "The Queen of a Thousand Years",
+      "lrdfdt",
+      "qm",
+      "Η Βασίλισσα των 1000 Χρόνων",
+      "Королева тысячелетия (ТВ)",
+      "せんねんじょおう",
+      "新竹取物語 1000年女王",
+      "新竹取物語１０００年女王"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 26,
-  "picture": "https://cdn.myanimelist.net/images/anime/12/80150.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/12/80150t.jpg",
-  "synonyms": [
-    "Les 4 Filles du Dr March",
-    "Les 4 filles du docteur March (1981)",
-    "Les quatre filles du docteur March (1981)",
-    "Little Women",
-    "Little Women (1981)",
-    "Louisa May Alcott’s Little Women",
-    "Mujercitas (1981)",
-    "Piccole donne",
-    "Wakakusa Monogatari Yori Wakakusa no Yon Shimai",
-    "Young Grass Story: Four Sisters of Young Grass",
-    "wakakusa (1981)",
-    "Μικρές Κυρίες",
-    "فتيات وأمنيات",
-    "若草の四姉妹"
-  ]
-}
+  {
+    "title": "若草の四姉妹",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小妇人"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1981-04-06T09:00:00.000Z",
+    "end": "1981-09-28T09:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "73724"
+      },
+      {
+        "site": "bilibili",
+        "id": "5410",
+        "begin": "2016-08-01T02:43:15.000Z",
+        "broadcast": "R/2016-08-01T02:43:15.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "2290"
+      },
+      {
+        "site": "anidb",
+        "id": "2869"
+      },
+      {
+        "site": "anilist",
+        "id": "15607"
+      },
+      {
+        "site": "anilist",
+        "id": "2548"
+      },
+      {
+        "site": "anilist",
+        "id": "4991"
+      },
+      {
+        "site": "anime-planet",
+        "id": "little-women"
+      },
+      {
+        "site": "anisearch",
+        "id": "2335"
+      },
+      {
+        "site": "anisearch",
+        "id": "2774"
+      },
+      {
+        "site": "kitsu",
+        "id": "2313"
+      },
+      {
+        "site": "kitsu",
+        "id": "3483"
+      },
+      {
+        "site": "livechart",
+        "id": "12129"
+      },
+      {
+        "site": "livechart",
+        "id": "7104"
+      },
+      {
+        "site": "livechart",
+        "id": "7660"
+      },
+      {
+        "site": "livechart",
+        "id": "8118"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2548"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4991"
+      },
+      {
+        "site": "notify",
+        "id": "3xDXcFiig"
+      },
+      {
+        "site": "notify",
+        "id": "W6Wy5Kmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1981,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/80150.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/80150t.jpg",
+    "synonyms": [
+      "Les 4 Filles du Dr March",
+      "Les 4 filles du docteur March (1981)",
+      "Les quatre filles du docteur March (1981)",
+      "Little Women",
+      "Little Women (1981)",
+      "Louisa May Alcott’s Little Women",
+      "Mujercitas (1981)",
+      "Piccole donne",
+      "Wakakusa Monogatari Yori Wakakusa no Yon Shimai",
+      "Young Grass Story: Four Sisters of Young Grass",
+      "wakakusa (1981)",
+      "Μικρές Κυρίες",
+      "فتيات وأمنيات",
+      "若草の四姉妹"
+    ]
+  }
+]

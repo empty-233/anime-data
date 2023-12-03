@@ -1,81 +1,371 @@
-{
-  "title": "撲殺天使ドクロちゃん2",
-  "titleTranslate": {
-    "zh-Hans": [
-      "扑杀天使朵库萝2"
+[
+  {
+    "title": "最終試験くじら",
+    "titleTranslate": {
+      "zh-Hans": [
+        "最终试验鲸鱼"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.starchild.co.jp/special/kujira/",
+    "begin": "2007-08-25T14:30:00.000Z",
+    "end": "2007-11-10T14:35:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "VJZy8FiaibLmzPTbU",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "32093"
+      },
+      {
+        "site": "bilibili",
+        "id": "28220582",
+        "begin": "2019-04-25T03:24:00.000Z",
+        "broadcast": "R/2019-04-25T03:24:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "4213"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saishuu-shiken-kujira-progressive"
+      },
+      {
+        "site": "anisearch",
+        "id": "5812"
+      },
+      {
+        "site": "kitsu",
+        "id": "3528"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4213"
+      },
+      {
+        "site": "notify",
+        "id": "2_ou5Fiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2007,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/74243.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/74243t.jpg",
+    "synonyms": [
+      "Final Examination Kujira",
+      "Saishū Shiken Kujira",
+      "さいしゅうしけんくじら",
+      "最終試験くじら",
+      "最终试验鲸鱼"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "http://www.bin-kan.com/",
-  "begin": "2007-08-24T16:00:00.000Z",
-  "end": "2007-11-21T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "3060"
+  {
+    "title": "ミヨリの森",
+    "titleTranslate": {
+      "zh-Hans": [
+        "美由里之森"
+      ]
     },
-    {
-      "site": "letv",
-      "id": "86281",
-      "begin": ""
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://wwwz.fujitv.co.jp/miyori/index.html",
+    "begin": "2007-08-25T16:00:00.000Z",
+    "end": "2007-08-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "13761"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2007,
+      "month": "08"
     },
-    {
-      "site": "anidb",
-      "id": "2820"
-    },
-    {
-      "site": "anilist",
-      "id": "357"
-    },
-    {
-      "site": "anime-planet",
-      "id": "bludgeoning-angel-dokuro-chan"
-    },
-    {
-      "site": "anisearch",
-      "id": "3530"
-    },
-    {
-      "site": "kitsu",
-      "id": "324"
-    },
-    {
-      "site": "livechart",
-      "id": "3800"
-    },
-    {
-      "site": "myanimelist",
-      "id": "357"
-    },
-    {
-      "site": "notify",
-      "id": "hBy2cKmiR"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 2007,
-    "month": "08"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/22725.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/22725t.jpg",
+    "synonyms": [
+      "La Forêt de Miyori",
+      "La forêt de Miyori",
+      "Miyori's Forest",
+      "Miyori`s Forest",
+      "Miyori`s Wood",
+      "Гората на Мийори",
+      "Ліс Мійорі",
+      "Миёри и волшебный лес",
+      "みよりのもり",
+      "ミヨリの森",
+      "美由里之森"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 2,
-  "picture": "https://cdn.myanimelist.net/images/anime/7/14709.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/7/14709t.jpg",
-  "synonyms": [
-    "Bludgeoning Angel Dokuro-chan (2)",
-    "Bludgeoning Angel Dokuro-chan 2",
-    "Bludgeoning Angel Dokuro-chan Second",
-    "Bludgeoning Angel Dokuro-chan Temporada 2",
-    "Bokusatsu Tenshi Dokuro-chan Second",
-    "Club-To-Death Angel Dokuro-chan 2",
-    "btd2",
-    "dokuro s2",
-    "dokuro-chan2",
-    "dokuro2",
-    "Убойный ангел Докуро-тян 2",
-    "扑杀天使朵库萝2",
-    "撲殺天使ドクロちゃん2",
-    "撲殺天使ドクロちゃん2[セカンド]"
-  ]
-}
+  {
+    "title": "劇場版 NARUTO -ナルト- 疾風伝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "火影忍者疾风传 剧场版 鸣人之死"
+      ],
+      "zh-Hant": [
+        "火影忍者劇場版4：鳴人將死"
+      ],
+      "en": [
+        "Naruto Shippuden: The Movie"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.naruto-movie.com/",
+    "begin": "2007-08-03T16:00:00.000Z",
+    "end": "2007-08-03T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "20359"
+      },
+      {
+        "site": "netflix",
+        "id": "70124999",
+        "begin": "2016-10-15T07:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "44754",
+        "begin": "2021-08-13T06:00:00.000Z",
+        "broadcast": "R/2021-08-13T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "4880"
+      },
+      {
+        "site": "anilist",
+        "id": "1735"
+      },
+      {
+        "site": "anime-planet",
+        "id": "honoo-no-chuunin-shiken-naruto-vs-konohamaru"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-shippuden"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-shippuden-konoha-gakuen-picture-drama-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-shippuden-movie-2-bonds"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-shippuden-movie-3-the-will-of-fire"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-shippuden-movie-4-the-lost-tower"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-shippuden-movie-5-blood-prison"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-shippuden-movie-6-road-to-ninja"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-shippuden-ova-sage-naruto-vs-sasuke"
+      },
+      {
+        "site": "anime-planet",
+        "id": "naruto-shippuden-sunny-side-battle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-last-naruto-the-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "3972"
+      },
+      {
+        "site": "kitsu",
+        "id": "1555"
+      },
+      {
+        "site": "livechart",
+        "id": "1058"
+      },
+      {
+        "site": "livechart",
+        "id": "206"
+      },
+      {
+        "site": "livechart",
+        "id": "316"
+      },
+      {
+        "site": "livechart",
+        "id": "3790"
+      },
+      {
+        "site": "livechart",
+        "id": "3799"
+      },
+      {
+        "site": "livechart",
+        "id": "3854"
+      },
+      {
+        "site": "livechart",
+        "id": "3859"
+      },
+      {
+        "site": "livechart",
+        "id": "4253"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1735"
+      },
+      {
+        "site": "notify",
+        "id": "97dB5Kmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2007,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1703/134493.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1703/134493t.jpg",
+    "synonyms": [
+      "Gekijouban Naruto Shippuuden",
+      "Gekijouban Naruto: Shippuuden",
+      "Gekijōban Naruto Shippūden",
+      "NARUTO: Shippuuden Movie",
+      "Naruto Movie 4",
+      "Naruto Shippuden : Un funeste présage",
+      "Naruto Shippuden Le Film: Un Funeste Présage",
+      "Naruto Shippuden Movie",
+      "Naruto Shippuden Movie 01: L'esercito fantasma",
+      "Naruto Shippuden Movie 1",
+      "Naruto Shippuden The Movie",
+      "Naruto Shippuden Un Funeste Présage",
+      "Naruto Shippuden the Movie",
+      "Naruto Shippuden the Movie 1",
+      "Naruto Shippuden: Der Film",
+      "Naruto Shippuden: L'esercito fantasma",
+      "Naruto Shippuden: La Película",
+      "Naruto Shippuden: The Movie",
+      "Naruto Shippuuden Movie",
+      "Naruto Shippuuden Movie 1",
+      "Naruto Shippuuden Movie 1 - Clash of Ninja Revolution",
+      "Naruto Shippūden: La película",
+      "Naruto: Hurricane Chronicles (Movie)",
+      "Naruto: Shippuden the Movie",
+      "Naruto: Shippuuden (Movie)",
+      "劇場版 NARUTO -ナルト- 疾風伝",
+      "劇場版 Naruto 疾風伝",
+      "劇場版 ナルト 疾風伝",
+      "劇場版NARUTO -ナルト- 疾風伝"
+    ]
+  },
+  {
+    "title": "撲殺天使ドクロちゃん2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "扑杀天使朵库萝2"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.bin-kan.com/",
+    "begin": "2007-08-24T16:00:00.000Z",
+    "end": "2007-11-21T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3060"
+      },
+      {
+        "site": "letv",
+        "id": "86281",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "2820"
+      },
+      {
+        "site": "anilist",
+        "id": "357"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bludgeoning-angel-dokuro-chan"
+      },
+      {
+        "site": "anisearch",
+        "id": "3530"
+      },
+      {
+        "site": "kitsu",
+        "id": "324"
+      },
+      {
+        "site": "livechart",
+        "id": "3800"
+      },
+      {
+        "site": "myanimelist",
+        "id": "357"
+      },
+      {
+        "site": "notify",
+        "id": "hBy2cKmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2007,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/14709.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/14709t.jpg",
+    "synonyms": [
+      "Bludgeoning Angel Dokuro-chan (2)",
+      "Bludgeoning Angel Dokuro-chan 2",
+      "Bludgeoning Angel Dokuro-chan Second",
+      "Bludgeoning Angel Dokuro-chan Temporada 2",
+      "Bokusatsu Tenshi Dokuro-chan Second",
+      "Club-To-Death Angel Dokuro-chan 2",
+      "btd2",
+      "dokuro s2",
+      "dokuro-chan2",
+      "dokuro2",
+      "Убойный ангел Докуро-тян 2",
+      "扑杀天使朵库萝2",
+      "撲殺天使ドクロちゃん2",
+      "撲殺天使ドクロちゃん2[セカンド]"
+    ]
+  }
+]

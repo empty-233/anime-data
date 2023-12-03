@@ -1,66 +1,223 @@
-{
-  "title": "スーパーミルクちゃん",
-  "titleTranslate": {},
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "1998-06-18T16:00:00.000Z",
-  "end": "1998-09-24T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "85772"
+[
+  {
+    "title": "ピカチュウのなつやすみ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦：皮卡丘的暑假"
+      ]
     },
-    {
-      "site": "nicovideo",
-      "id": "supermilk-chan",
-      "begin": "2011-06-17T12:00:00.000Z"
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/",
+    "begin": "1998-06-18T17:10:00.000Z",
+    "end": "1998-06-18T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "27759"
+      },
+      {
+        "site": "anidb",
+        "id": "990"
+      },
+      {
+        "site": "anilist",
+        "id": "528"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-movie-1-the-first-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "2831"
+      },
+      {
+        "site": "kitsu",
+        "id": "486"
+      },
+      {
+        "site": "kitsu",
+        "id": "487"
+      },
+      {
+        "site": "livechart",
+        "id": "3702"
+      },
+      {
+        "site": "livechart",
+        "id": "3816"
+      },
+      {
+        "site": "livechart",
+        "id": "3979"
+      },
+      {
+        "site": "livechart",
+        "id": "3992"
+      },
+      {
+        "site": "livechart",
+        "id": "4045"
+      },
+      {
+        "site": "livechart",
+        "id": "4505"
+      },
+      {
+        "site": "livechart",
+        "id": "5008"
+      },
+      {
+        "site": "livechart",
+        "id": "5217"
+      },
+      {
+        "site": "livechart",
+        "id": "5345"
+      },
+      {
+        "site": "livechart",
+        "id": "5371"
+      },
+      {
+        "site": "livechart",
+        "id": "5438"
+      },
+      {
+        "site": "livechart",
+        "id": "5627"
+      },
+      {
+        "site": "livechart",
+        "id": "5641"
+      },
+      {
+        "site": "livechart",
+        "id": "5643"
+      },
+      {
+        "site": "livechart",
+        "id": "8945"
+      },
+      {
+        "site": "myanimelist",
+        "id": "527"
+      },
+      {
+        "site": "myanimelist",
+        "id": "528"
+      },
+      {
+        "site": "notify",
+        "id": "abJo5Fmig"
+      },
+      {
+        "site": "notify",
+        "id": "sv1ocKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1998,
+      "month": "06"
     },
-    {
-      "site": "anidb",
-      "id": "544"
-    },
-    {
-      "site": "anilist",
-      "id": "1769"
-    },
-    {
-      "site": "anime-planet",
-      "id": "the-super-milk-chan-show"
-    },
-    {
-      "site": "anisearch",
-      "id": "953"
-    },
-    {
-      "site": "kitsu",
-      "id": "1589"
-    },
-    {
-      "site": "myanimelist",
-      "id": "1769"
-    },
-    {
-      "site": "notify",
-      "id": "ub2BcFimR"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 1998,
-    "month": "06"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1927/97383.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1927/97383t.jpg",
+    "synonyms": [
+      "As Férias de Pikachu",
+      "As Férias do Pikachu",
+      "Las Vacaciones de Verano de Pikachu",
+      "Las vacaciones de Pikachu",
+      "Le vacanze di Pikachu",
+      "Pikachu Short 1",
+      "Pikachu no Natsuyasumi",
+      "Pikachu`s Summer Vacation",
+      "Pikachu`s Vacation",
+      "Pikachus Ferien",
+      "Pikachuu no Natsuyasumi",
+      "Pikachu’s Summer Vacation",
+      "Pikachū no Natsuyasumi",
+      "Pocket Monsters: Pikachu no Natsuyasumi",
+      "Pokemon: Movie 1 Short",
+      "Pokemon: Pikachu's Summer Vacation",
+      "Pokemon: Pikachus Ferie",
+      "Pokémon : Les Vacances de Pikachu",
+      "Pokémon, az első mozifilm: Pikachu vakációja",
+      "Pokémon: Pikachu's Summer Vacation",
+      "Pokémon: Pikachu's Vacation",
+      "Wakacje Pikachu",
+      "pm movie 0",
+      "Каникулы Пикачу",
+      "ピカチュウのなつやすみ"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 14,
-  "picture": "https://cdn.myanimelist.net/images/anime/5/78075.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/5/78075t.jpg",
-  "synonyms": [
-    "Super Milk-Chan",
-    "The Super Milk Show",
-    "The Super Milk-chan Show: Vintage Milk-chan",
-    "Vintage Milk-Chan",
-    "Vintage Super Milk Chan",
-    "スーパーミルクちゃん",
-    "スーパーミルクチャン"
-  ]
-}
+  {
+    "title": "スーパーミルクちゃん",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1998-06-18T16:00:00.000Z",
+    "end": "1998-09-24T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "85772"
+      },
+      {
+        "site": "nicovideo",
+        "id": "supermilk-chan",
+        "begin": "2011-06-17T12:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "544"
+      },
+      {
+        "site": "anilist",
+        "id": "1769"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-super-milk-chan-show"
+      },
+      {
+        "site": "anisearch",
+        "id": "953"
+      },
+      {
+        "site": "kitsu",
+        "id": "1589"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1769"
+      },
+      {
+        "site": "notify",
+        "id": "ub2BcFimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1998,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 14,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/78075.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/78075t.jpg",
+    "synonyms": [
+      "Super Milk-Chan",
+      "The Super Milk Show",
+      "The Super Milk-chan Show: Vintage Milk-chan",
+      "Vintage Milk-Chan",
+      "Vintage Super Milk Chan",
+      "スーパーミルクちゃん",
+      "スーパーミルクチャン"
+    ]
+  }
+]

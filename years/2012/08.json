@@ -1,138 +1,633 @@
-{
-  "title": "映画ジュエルペット スウィーツダンスプリンセス",
-  "titleTranslate": {
-    "zh-Hans": [
-      "宝石宠物 剧场版 甜蜜舞蹈公主"
+[
+  {
+    "title": "今日のあすかショー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天然萌少女明日香",
+        "今天的明日香"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://kyonoasukashow.com/",
+    "begin": "2012-08-03T14:25:00.000Z",
+    "end": "2013-01-04T14:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "vd6qKJD2ZqQHhe0",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "46079"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2012,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 20,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/77066.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/77066t.jpg",
+    "synonyms": [
+      "Kyō no Asuka Show",
+      "Today's Asuka Show",
+      "Today's Asuka show",
+      "Today`s Asuka Show",
+      "きょうのあすかしょー",
+      "今日のあすかショー",
+      "天然萌少女明日香"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "http://www.jpet-movie.com/",
-  "begin": "2012-08-11T16:00:00.000Z",
-  "end": "2012-08-11T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "66452"
+  {
+    "title": "輪廻のラグランジェ 鴨川デイズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "轮回的拉格朗日 鸭川日常"
+      ]
     },
-    {
-      "site": "pptv",
-      "id": "P9G7OaEHd7UYlv4",
-      "begin": ""
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://b.bngi-channel.jp/lag-rin",
+    "begin": "2012-08-23T16:00:00.000Z",
+    "end": "2012-08-23T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "81606",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "41428"
+      },
+      {
+        "site": "bilibili",
+        "id": "3812",
+        "begin": "2012-08-22T16:00:01.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "8583"
+      },
+      {
+        "site": "anidb",
+        "id": "8962"
+      },
+      {
+        "site": "anilist",
+        "id": "11227"
+      },
+      {
+        "site": "anilist",
+        "id": "12281"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lagrange-the-flower-of-rin-ne"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lagrange-the-flower-of-rin-ne-kamogawa-memoria"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lagrange-the-flower-of-rin-ne-picture-drama"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lagrange-the-flower-of-rin-ne-season-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "lagrange-the-flower-of-rin-ne-season-2-picture-drama"
+      },
+      {
+        "site": "anisearch",
+        "id": "7256"
+      },
+      {
+        "site": "anisearch",
+        "id": "7705"
+      },
+      {
+        "site": "kitsu",
+        "id": "6477"
+      },
+      {
+        "site": "kitsu",
+        "id": "6699"
+      },
+      {
+        "site": "livechart",
+        "id": "1037"
+      },
+      {
+        "site": "livechart",
+        "id": "1160"
+      },
+      {
+        "site": "livechart",
+        "id": "3254"
+      },
+      {
+        "site": "livechart",
+        "id": "5928"
+      },
+      {
+        "site": "livechart",
+        "id": "6736"
+      },
+      {
+        "site": "myanimelist",
+        "id": "11227"
+      },
+      {
+        "site": "myanimelist",
+        "id": "12281"
+      },
+      {
+        "site": "notify",
+        "id": "2KOSpFimR"
+      },
+      {
+        "site": "notify",
+        "id": "NMKHtFimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2012,
+      "month": "08"
     },
-    {
-      "site": "bilibili",
-      "id": "4508",
-      "begin": "2012-08-10T16:00:01.000Z"
-    },
-    {
-      "site": "anidb",
-      "id": "8960"
-    },
-    {
-      "site": "anidb",
-      "id": "9012"
-    },
-    {
-      "site": "anilist",
-      "id": "12963"
-    },
-    {
-      "site": "anilist",
-      "id": "14947"
-    },
-    {
-      "site": "anime-planet",
-      "id": "jewelpet-kira-deco"
-    },
-    {
-      "site": "anisearch",
-      "id": "7586"
-    },
-    {
-      "site": "anisearch",
-      "id": "7736"
-    },
-    {
-      "site": "kitsu",
-      "id": "4383"
-    },
-    {
-      "site": "kitsu",
-      "id": "7186"
-    },
-    {
-      "site": "livechart",
-      "id": "1113"
-    },
-    {
-      "site": "livechart",
-      "id": "1406"
-    },
-    {
-      "site": "livechart",
-      "id": "1533"
-    },
-    {
-      "site": "livechart",
-      "id": "2036"
-    },
-    {
-      "site": "livechart",
-      "id": "437"
-    },
-    {
-      "site": "livechart",
-      "id": "7059"
-    },
-    {
-      "site": "livechart",
-      "id": "7567"
-    },
-    {
-      "site": "livechart",
-      "id": "7751"
-    },
-    {
-      "site": "livechart",
-      "id": "821"
-    },
-    {
-      "site": "livechart",
-      "id": "9742"
-    },
-    {
-      "site": "myanimelist",
-      "id": "14947"
-    },
-    {
-      "site": "myanimelist",
-      "id": "6008"
-    },
-    {
-      "site": "notify",
-      "id": "sqF3cKmig"
-    },
-    {
-      "site": "notify",
-      "id": "xyJdtFmmg"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 2012,
-    "month": "08"
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/38259.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/38259t.jpg",
+    "synonyms": [
+      "Flower Declaration of Your Heart: Kamogawa Days",
+      "Flower declaration of your heart: Kamogawa Days",
+      "Lag-Rin: Kamogawa Days",
+      "Lagrange: The Flower of Rin-ne - Kamogawa Days",
+      "Lagrange: The Flower of Rin-ne – Kamogawa Days",
+      "Rinne no Lagrange: Flower Declaration of Your Heart - Kamogawa Days",
+      "輪廻のラグランジェ Flower declaration of your heart 鴨川デイズ",
+      "輪廻のラグランジェ 鴨川デイズ"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1234/96592.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1234/96592t.jpg",
-  "synonyms": [
-    "Eiga Jewelpet Sweets Dance Princess",
-    "Jewelpet - The Princess of Sweets Land",
-    "Jewelpet La Princesse du Royaume des Douceurs",
-    "Jewelpet Movie",
-    "宝石宠物 剧场版 甜蜜舞蹈公主",
-    "映画ジュエルペット スウィーツダンスプリンセス"
-  ]
-}
+  {
+    "title": "京騒戯画",
+    "titleTranslate": {
+      "zh-Hans": [
+        "京骚戏画"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.kyousogiga.com/",
+    "begin": "2012-08-31T16:00:00.000Z",
+    "end": "2012-12-22T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "WISAicmbMPHrdW8M",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "42342"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4oit",
+        "begin": "2015-09-23T08:10:24.000Z"
+      },
+      {
+        "site": "kitsu",
+        "id": "7870"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2011,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://media.kitsu.io/anime/poster_images/40590/small.jpg",
+    "thumbnail": "https://media.kitsu.io/anime/poster_images/40590/tiny.jpg",
+    "synonyms": [
+      "Kyousogiga",
+      "Kyousougiga",
+      "京騒戯画"
+    ]
+  },
+  {
+    "title": "ダンタリアンの書架 荊姫",
+    "titleTranslate": {
+      "zh-Hans": [
+        "丹特丽安的书架 荆姬"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2012-08-11T16:00:00.000Z",
+    "end": "2012-08-11T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "G0M9uyOJibTeaGIA",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "46234"
+      },
+      {
+        "site": "bilibili",
+        "id": "3521",
+        "begin": "2012-08-10T16:00:01.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "7939"
+      },
+      {
+        "site": "anilist",
+        "id": "8915"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-mystic-archives-of-dantalian"
+      },
+      {
+        "site": "anisearch",
+        "id": "6269"
+      },
+      {
+        "site": "kitsu",
+        "id": "5530"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8915"
+      },
+      {
+        "site": "notify",
+        "id": "89SZpFmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2012,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/46959.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/46959t.jpg",
+    "synonyms": [
+      "Bibliotheca Mystica de Dantalian: Ibarahime",
+      "Dantalian no Shoka: Ibara-hime",
+      "Dantalian's Bookshelf: Ibarahime",
+      "The Mystic Archives of Dantalian: Ibarahime",
+      "The Mystic Archives of Dantalian: Sleeping Beauty",
+      "dantasho ova",
+      "ダンタリアンの書架 荊姫"
+    ]
+  },
+  {
+    "title": "劇場版 FAIRY TAIL 鳳凰の巫女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妖精的尾巴 剧场版 凤凰巫女"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://fairytail-movie.com/",
+    "begin": "2012-08-18T16:00:00.000Z",
+    "end": "2012-08-18T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "30361"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fairytail_houou",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "57752",
+        "begin": "2012-08-17T16:00:01.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "f/f9lrdbfsgeuva4s",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "65014bf8fc8e11e1a19e",
+        "begin": "2013-04-15T08:55:34.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "6662"
+      },
+      {
+        "site": "anilist",
+        "id": "17535"
+      },
+      {
+        "site": "anilist",
+        "id": "6702"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fairy-tail"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fairy-tail-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fairy-tail-2-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fairy-tail-final-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fairy-tail-movie-1-phoenix-priestess-the-first-morning"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fairy-tail-movie-2-dragon-cry"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fairy-tail-ova"
+      },
+      {
+        "site": "anisearch",
+        "id": "5476"
+      },
+      {
+        "site": "anisearch",
+        "id": "8421"
+      },
+      {
+        "site": "kitsu",
+        "id": "10922"
+      },
+      {
+        "site": "kitsu",
+        "id": "4676"
+      },
+      {
+        "site": "kitsu",
+        "id": "7810"
+      },
+      {
+        "site": "livechart",
+        "id": "10782"
+      },
+      {
+        "site": "livechart",
+        "id": "1566"
+      },
+      {
+        "site": "livechart",
+        "id": "1595"
+      },
+      {
+        "site": "livechart",
+        "id": "1601"
+      },
+      {
+        "site": "livechart",
+        "id": "2801"
+      },
+      {
+        "site": "livechart",
+        "id": "3587"
+      },
+      {
+        "site": "livechart",
+        "id": "386"
+      },
+      {
+        "site": "livechart",
+        "id": "54"
+      },
+      {
+        "site": "livechart",
+        "id": "912"
+      },
+      {
+        "site": "myanimelist",
+        "id": "17535"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6702"
+      },
+      {
+        "site": "notify",
+        "id": "8IL_pFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "99a6cKimg"
+      },
+      {
+        "site": "notify",
+        "id": "u-0ppKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2012,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/47083.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/47083t.jpg",
+    "synonyms": [
+      "FAIRY TAIL Movie: Houou no Miko",
+      "Fairy Tail - 1er Film - La prêtresse du Phoenix",
+      "Fairy Tail - le film : La prêtresse du Phœnix",
+      "Fairy Tail La Película: La Sacerdotisa del Fénix",
+      "Fairy Tail Le Film : La Prêtresse du Phoenix",
+      "Fairy Tail Movie 1",
+      "Fairy Tail Movie 1: Phoenix Priestess",
+      "Fairy Tail Movie 1: Priestess of the Phoenix",
+      "Fairy Tail Movie: Houou no Miko",
+      "Fairy Tail The Movie: Phoenix Priestess",
+      "Fairy Tail le film: La prêtresse du Phœnix",
+      "Fairy Tail the Movie: Phoenix Priestess",
+      "Fairy Tail the Movie: The Phoenix Priestess",
+      "Fairy Tail: La Sacerdotisa del Fénix",
+      "Fairy Tail: Phoenix Priestess",
+      "Fairy Tail: Priestess of the Phoenix",
+      "Fairy Tail: The Movie - Phoenix Priestess",
+      "Fairy Tail: The Phoenix Priestess",
+      "Gekijouban Fairy Tail: Houou no Miko",
+      "Gekijōban Fairy Tail: Hōō no Miko",
+      "Priestess of the Phoenix",
+      "ft movie 1",
+      "げきじょうばんふぇありーているほうおうのみこ",
+      "剧场版 妖精的尾巴 凤凰的巫女",
+      "劇場版 FAIRY TAIL 鳳凰の巫女",
+      "劇場版 Fairy Tail 鳳凰の巫女"
+    ]
+  },
+  {
+    "title": "映画ジュエルペット スウィーツダンスプリンセス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宝石宠物 剧场版 甜蜜舞蹈公主"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.jpet-movie.com/",
+    "begin": "2012-08-11T16:00:00.000Z",
+    "end": "2012-08-11T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "66452"
+      },
+      {
+        "site": "pptv",
+        "id": "P9G7OaEHd7UYlv4",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "4508",
+        "begin": "2012-08-10T16:00:01.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "8960"
+      },
+      {
+        "site": "anidb",
+        "id": "9012"
+      },
+      {
+        "site": "anilist",
+        "id": "12963"
+      },
+      {
+        "site": "anilist",
+        "id": "14947"
+      },
+      {
+        "site": "anime-planet",
+        "id": "jewelpet-kira-deco"
+      },
+      {
+        "site": "anisearch",
+        "id": "7586"
+      },
+      {
+        "site": "anisearch",
+        "id": "7736"
+      },
+      {
+        "site": "kitsu",
+        "id": "4383"
+      },
+      {
+        "site": "kitsu",
+        "id": "7186"
+      },
+      {
+        "site": "livechart",
+        "id": "1113"
+      },
+      {
+        "site": "livechart",
+        "id": "1406"
+      },
+      {
+        "site": "livechart",
+        "id": "1533"
+      },
+      {
+        "site": "livechart",
+        "id": "2036"
+      },
+      {
+        "site": "livechart",
+        "id": "437"
+      },
+      {
+        "site": "livechart",
+        "id": "7059"
+      },
+      {
+        "site": "livechart",
+        "id": "7567"
+      },
+      {
+        "site": "livechart",
+        "id": "7751"
+      },
+      {
+        "site": "livechart",
+        "id": "821"
+      },
+      {
+        "site": "livechart",
+        "id": "9742"
+      },
+      {
+        "site": "myanimelist",
+        "id": "14947"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6008"
+      },
+      {
+        "site": "notify",
+        "id": "sqF3cKmig"
+      },
+      {
+        "site": "notify",
+        "id": "xyJdtFmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2012,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1234/96592.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1234/96592t.jpg",
+    "synonyms": [
+      "Eiga Jewelpet Sweets Dance Princess",
+      "Jewelpet - The Princess of Sweets Land",
+      "Jewelpet La Princesse du Royaume des Douceurs",
+      "Jewelpet Movie",
+      "宝石宠物 剧场版 甜蜜舞蹈公主",
+      "映画ジュエルペット スウィーツダンスプリンセス"
+    ]
+  }
+]

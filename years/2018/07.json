@@ -1,195 +1,5364 @@
-{
-  "title": "劇場版 ポケットモンスター みんなの物語",
-  "titleTranslate": {
-    "zh-Hans": [
-      "剧场版 精灵宝可梦 大家的故事"
+[
+  {
+    "title": "ISLAND",
+    "titleTranslate": {
+      "zh-Hans": [
+        "ISLAND"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://never-island.com/",
+    "begin": "2018-07-01T13:00:00.000Z",
+    "end": "2018-09-16T13:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "175404"
+      },
+      {
+        "site": "nicovideo",
+        "id": "never-island",
+        "begin": "2018-07-01T13:30:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "102292",
+        "begin": "2018-07-01T13:00:00.000Z",
+        "broadcast": "R/2018-07-01T13:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1951/95080.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1951/95080t.jpg",
+    "synonyms": [
+      "ISLAND",
+      "ISLAND(アイランド)",
+      "Island",
+      "Never Island",
+      "Остров",
+      "アイランド"
     ]
   },
-  "type": "movie",
-  "lang": "ja",
-  "officialSite": "http://www.pokemon-movie.jp/",
-  "begin": "2018-07-13T16:00:00.000Z",
-  "end": "2018-07-13T16:00:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "231970"
+  {
+    "title": "はねバド！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "轻羽飞扬",
+        "羽球战争"
+      ],
+      "zh-Hant": [
+        "輕羽飛揚!",
+        "羽球戰爭！"
+      ],
+      "en": [
+        "HANEBADO!"
+      ]
     },
-    {
-      "site": "youku",
-      "id": "34d5a5beda334772994f",
-      "begin": ""
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://hanebad.com/",
+    "begin": "2018-07-01T15:00:00.000Z",
+    "end": "2018-09-30T15:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "236590"
+      },
+      {
+        "site": "bilibili",
+        "id": "102412",
+        "begin": "2018-07-01T16:00:00.000Z",
+        "broadcast": "R/2018-07-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mgtv",
+        "id": "325020",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgyth2t",
+        "begin": "2018-07-01T15:55:08.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hanebad",
+        "begin": "2018-07-03T15:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "e91b287f7ca14d968ae2",
+        "begin": "2018-07-02T02:22:39.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "81037374",
+        "begin": "2018-12-31T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "qq",
+        "id": "x/xs2quyb82vw4uqg",
+        "begin": ""
+      },
+      {
+        "site": "mytv",
+        "id": "hanebad_117503",
+        "begin": "2018-07-01T16:00:00.000Z",
+        "broadcast": "R/2018-07-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "93827",
+        "begin": "2019-02-21T12:30:00.000Z",
+        "broadcast": "R/2019-02-21T12:30:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
     },
-    {
-      "site": "qq",
-      "id": "m/mzc00200zyzgesv",
-      "begin": ""
-    },
-    {
-      "site": "bilibili",
-      "id": "28228298",
-      "begin": "2018-07-12T16:00:00.000Z",
-      "broadcast": "R/2020-03-20T04:01:00.000Z/P7D"
-    },
-    {
-      "site": "anidb",
-      "id": "12646"
-    },
-    {
-      "site": "anidb",
-      "id": "14993"
-    },
-    {
-      "site": "anilist",
-      "id": "97634"
-    },
-    {
-      "site": "anime-planet",
-      "id": "pokemon"
-    },
-    {
-      "site": "anime-planet",
-      "id": "pokemon-movie-20-i-choose-you"
-    },
-    {
-      "site": "anime-planet",
-      "id": "pokemon-movie-23-secrets-of-the-jungle"
-    },
-    {
-      "site": "anisearch",
-      "id": "12149"
-    },
-    {
-      "site": "anisearch",
-      "id": "14495"
-    },
-    {
-      "site": "kitsu",
-      "id": "43025"
-    },
-    {
-      "site": "livechart",
-      "id": "3702"
-    },
-    {
-      "site": "livechart",
-      "id": "3816"
-    },
-    {
-      "site": "livechart",
-      "id": "3979"
-    },
-    {
-      "site": "livechart",
-      "id": "3992"
-    },
-    {
-      "site": "livechart",
-      "id": "4045"
-    },
-    {
-      "site": "livechart",
-      "id": "4466"
-    },
-    {
-      "site": "livechart",
-      "id": "4505"
-    },
-    {
-      "site": "livechart",
-      "id": "5008"
-    },
-    {
-      "site": "livechart",
-      "id": "5217"
-    },
-    {
-      "site": "livechart",
-      "id": "5345"
-    },
-    {
-      "site": "livechart",
-      "id": "5371"
-    },
-    {
-      "site": "livechart",
-      "id": "5627"
-    },
-    {
-      "site": "livechart",
-      "id": "5641"
-    },
-    {
-      "site": "livechart",
-      "id": "5643"
-    },
-    {
-      "site": "livechart",
-      "id": "8945"
-    },
-    {
-      "site": "myanimelist",
-      "id": "34034"
-    },
-    {
-      "site": "myanimelist",
-      "id": "34540"
-    },
-    {
-      "site": "myanimelist",
-      "id": "40881"
-    },
-    {
-      "site": "notify",
-      "id": "-SY3Pi0MR"
-    },
-    {
-      "site": "notify",
-      "id": "pExWhKimg"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 2018,
-    "month": "07"
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/1288/93432.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1288/93432t.jpg",
+    "synonyms": [
+      "HANEBADO!",
+      "Hanebad!",
+      "Hanebado! - The Badminton Play of Ayano Hanesaki!",
+      "The Badminton Play of Ayano Hanesaki!",
+      "The Badminton play of Ayano Hanesaki!",
+      "Бадминтон Ханэсаки",
+      "ฮาเนซากิ อายาโนะ นักแบดสาวเจ้าสนาม",
+      "はねバド!",
+      "はねバド！",
+      "轻羽飞扬！",
+      "하네배드!"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1580/90795.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1580/90795t.jpg",
-  "synonyms": [
-    "Film Pokémon: Siła jest w nas",
-    "Gekijouban Pocket Monster: Minna no Monogatari",
-    "Gekijouban Pocket Monsters: Minna no Monogatari",
-    "Gekijōban Pocket Monsters: Minna no Monogatari",
-    "Il film Pokémon: In ognuno di noi",
-    "Pocket Monsters: Minna no Monogatari",
-    "Pokemon Movie 21: The Power of Us",
-    "Pokemon the Movie: Everyone`s Story",
-    "Pokemon the Movie: The Power of Us",
-    "Pokemon: Everyone's Story",
-    "Pokemon: Movie 21",
-    "Pokemon: The Power of Us",
-    "Pokémon - Der Film: Die Macht in uns",
-    "Pokémon Film 21: Le pouvoir est en nous",
-    "Pokémon Movie 21",
-    "Pokémon Película 21: El Poder de Todos",
-    "Pokémon The Movie: The Power of Us",
-    "Pokémon film: Společně to zvládnem",
-    "Pokémon the Movie 21: Everyone`s Story",
-    "Pokémon the Movie 21: Our Story",
-    "Pokémon the Movie: Everyone's Story",
-    "Pokémon the Movie: Everyone’s Story",
-    "Pokémon the Movie: The Power of Us",
-    "Pokémon, le film : Le pouvoir est en nous",
-    "Pokémon: Der Film - Die Macht in uns",
-    "Pokémon: El poder de todos",
-    "Pokémon: Siła jest w nas",
-    "Pokémonfilmen: Kraften av oss",
-    "pm movie 21",
-    "Покемон-фильм: Сила Внутри Нас",
-    "剧场版 精灵宝可梦 大家的故事",
-    "劇場版 ポケットモンスター みんなの物語",
-    "劇場版ポケットモンスター みんなの物語"
-  ]
-}
+  {
+    "title": "千銃士",
+    "titleTranslate": {
+      "zh-Hans": [
+        "千铳士",
+        "千枪士"
+      ],
+      "zh-Hant": [
+        "千槍士"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://ch.nicovideo.jp/senjyushi",
+    "begin": "2018-07-03T14:00:00.000Z",
+    "end": "2018-09-22T03:24:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "241093"
+      },
+      {
+        "site": "bilibili",
+        "id": "102832",
+        "begin": "2018-07-03T15:00:00.000Z",
+        "broadcast": "R/2018-07-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "senjyushi",
+        "begin": "2018-07-07T03:00:00.000Z"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "113172",
+        "begin": "2018-07-03T15:00:00.000Z",
+        "broadcast": "R/2018-07-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "14411"
+      },
+      {
+        "site": "anilist",
+        "id": "104292"
+      },
+      {
+        "site": "anime-planet",
+        "id": "senjuushi-gendaijuu-no-heya"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-thousand-musketeers-ova"
+      },
+      {
+        "site": "anisearch",
+        "id": "13920"
+      },
+      {
+        "site": "kitsu",
+        "id": "42054"
+      },
+      {
+        "site": "livechart",
+        "id": "3533"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38206"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38393"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1357/95039.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1357/95039t.jpg",
+    "synonyms": [
+      "Senjūshi",
+      "The Thousand Musketeers",
+      "The Thousand Noble Musketeers",
+      "千銃士",
+      "千铳士",
+      "천총사"
+    ]
+  },
+  {
+    "title": "Back Street Girls －ゴクドルズ－",
+    "titleTranslate": {
+      "zh-Hans": [
+        "后街女孩"
+      ],
+      "en": [
+        "Back Street Girls -GOKUDOLS-"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.backstreetgirls-anime.toeiad.co.jp/",
+    "begin": "2018-07-03T16:00:00.000Z",
+    "end": "2018-09-04T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "231278"
+      },
+      {
+        "site": "bilibili",
+        "id": "102512",
+        "begin": "2018-07-03T16:30:00.000Z",
+        "broadcast": "R/2018-07-03T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80996957",
+        "begin": "2018-12-12T08:00:00.000Z",
+        "broadcast": "R/2018-12-12T00:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 10,
+    "picture": "https://cdn.myanimelist.net/images/anime/1484/93140.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1484/93140t.jpg",
+    "synonyms": [
+      "Back Street Girls",
+      "Back Street Girls -GOKUDOLS-",
+      "Back Street Girls -ゴクドルズ",
+      "Back Street Girls -ゴクドルズ-",
+      "Back Street Girls : Gokudols",
+      "Back Street Girls －ゴクドルズ－",
+      "Back Street Girls: GOKUDOLS",
+      "Back Street Girls: Goku Dolls",
+      "Back Street Girls: Gokudols",
+      "Back Street Girls: Washira Idol Hajimemashita",
+      "Back Street Girls: Washira Idol Hajimemashita.",
+      "Gokudolls",
+      "Gokudols",
+      "gokudolls",
+      "Из якудзы в идолы",
+      "バック ストリート ガールズ -ゴクドルズ-",
+      "バックストリートガールズ",
+      "后街女孩",
+      "백 스트리트 걸스: 조폭 아이돌"
+    ]
+  },
+  {
+    "title": "異世界魔王と召喚少女の奴隷魔術",
+    "titleTranslate": {
+      "zh-Hans": [
+        "异世界魔王与召唤少女的奴隶魔术",
+        "异界少女召唤术"
+      ],
+      "zh-Hant": [
+        "異世界魔王與召喚少女的奴隸魔術"
+      ],
+      "en": [
+        "HOW NOT TO SUMMON A DEMON LORD"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://isekaimaou-anime.com/",
+    "begin": "2018-07-05T12:30:00.000Z",
+    "end": "2018-09-20T13:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "236224"
+      },
+      {
+        "site": "bilibili",
+        "id": "102752",
+        "begin": "2018-07-05T14:00:00.000Z",
+        "broadcast": "R/2018-07-05T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgytgwd",
+        "begin": "2018-07-05T13:55:11.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "isekaimaou-anime",
+        "begin": "2018-07-06T03:00:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "b/bgf0avtujy3yciw",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "09b858009cc14850b246",
+        "begin": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81004514",
+        "begin": "2018-12-31T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "acfun",
+        "id": "6003943",
+        "begin": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JhBK5yhltkjm1Y2Ha5KwcQs",
+        "begin": "2022-02-09T16:00:00.000Z",
+        "broadcast": "R/2022-02-09T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "95582",
+        "begin": "2019-03-15T09:00:00.000Z",
+        "broadcast": "R/2019-03-15T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "15493"
+      },
+      {
+        "site": "anilist",
+        "id": "117448"
+      },
+      {
+        "site": "anime-planet",
+        "id": "5-fun-de-wakaru-how-not-to-summon-a-demon-lord"
+      },
+      {
+        "site": "anime-planet",
+        "id": "how-not-to-summon-a-demon-lord-omega"
+      },
+      {
+        "site": "anisearch",
+        "id": "15148"
+      },
+      {
+        "site": "kitsu",
+        "id": "43118"
+      },
+      {
+        "site": "livechart",
+        "id": "10485"
+      },
+      {
+        "site": "livechart",
+        "id": "9882"
+      },
+      {
+        "site": "myanimelist",
+        "id": "41623"
+      },
+      {
+        "site": "notify",
+        "id": "valtqJjWR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1649/93412.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1649/93412t.jpg",
+    "synonyms": [
+      "How NOT to Summon a Demon Lord",
+      "How Not To Summon A Demon Lord",
+      "How Not to Summon a Demon Lord",
+      "How not to Summon a Demon Lord",
+      "Isekai Maou to Shoukan",
+      "Isekai Maō to Shōkan Shōjo no Dorei Majutsu",
+      "The King of Darkness Another World Story",
+      "The King of Darkness Another World Story: Slave Magic",
+      "The Other World Demon King and the Summoning Girls’ Slave Magic",
+      "The Otherworldly Demon King and the Summoner Girls' Slave Magic",
+      "doreima",
+      "isekaimaou",
+      "จอมมารต่างโลกกับ บริวารสาวนักอัญเชิญ",
+      "异世界魔王与召唤少女的奴隶魔术",
+      "異世界魔王と召喚少女の奴隷魔術",
+      "이세계 마왕과 소환 소녀의 노예 마술"
+    ]
+  },
+  {
+    "title": "ちおちゃんの通学路",
+    "titleTranslate": {
+      "zh-Hans": [
+        "千绪的通学路",
+        "千绪的上学路"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://chiochan.jp/",
+    "begin": "2018-07-06T13:00:00.000Z",
+    "end": "2018-09-21T13:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "218226"
+      },
+      {
+        "site": "bilibili",
+        "id": "102552",
+        "begin": "2018-07-06T13:00:00.000Z",
+        "broadcast": "R/2018-07-06T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "chiochan",
+        "begin": "2018-07-12T15:00:00.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1073/95042.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1073/95042t.jpg",
+    "synonyms": [
+      "Chio's School Road",
+      "Chio-chan no Tsūgakuro",
+      "Chio-chan's Way to School",
+      "Chio`s School Road",
+      "Chios School Road",
+      "Chio’s School Road",
+      "chio",
+      "chio-chan",
+      "ちおちゃんの通学路",
+      "千绪的通学路",
+      "치오쨩의 통학로"
+    ]
+  },
+  {
+    "title": "ゾイドワイルド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "索斯机械兽WILD"
+      ],
+      "en": [
+        "ZOIDS WILD"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://anime-zoidswild.jp/",
+    "begin": "2018-07-06T21:30:00.000Z",
+    "end": "2019-06-29T22:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "238988"
+      },
+      {
+        "site": "anidb",
+        "id": "1382"
+      },
+      {
+        "site": "anidb",
+        "id": "15026"
+      },
+      {
+        "site": "anilist",
+        "id": "110788"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zoids-chaotic-century"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zoids-fuzors"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zoids-genesis"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zoids-guardian-force"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zoids-new-century-zero"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zoids-wild-zero"
+      },
+      {
+        "site": "anisearch",
+        "id": "14529"
+      },
+      {
+        "site": "anisearch",
+        "id": "1513"
+      },
+      {
+        "site": "anisearch",
+        "id": "15758"
+      },
+      {
+        "site": "kitsu",
+        "id": "42468"
+      },
+      {
+        "site": "kitsu",
+        "id": "685"
+      },
+      {
+        "site": "livechart",
+        "id": "10147"
+      },
+      {
+        "site": "livechart",
+        "id": "4761"
+      },
+      {
+        "site": "livechart",
+        "id": "5781"
+      },
+      {
+        "site": "livechart",
+        "id": "6887"
+      },
+      {
+        "site": "livechart",
+        "id": "7547"
+      },
+      {
+        "site": "livechart",
+        "id": "9546"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1746"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40166"
+      },
+      {
+        "site": "myanimelist",
+        "id": "712"
+      },
+      {
+        "site": "myanimelist",
+        "id": "763"
+      },
+      {
+        "site": "myanimelist",
+        "id": "764"
+      },
+      {
+        "site": "notify",
+        "id": "0Vh05FimR"
+      },
+      {
+        "site": "notify",
+        "id": "HsKBcFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "KSHtq_AMR"
+      },
+      {
+        "site": "notify",
+        "id": "bPWCdcvWg"
+      },
+      {
+        "site": "notify",
+        "id": "d4vAcFimg"
+      },
+      {
+        "site": "notify",
+        "id": "oF2A5Fiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 50,
+    "picture": "https://cdn.myanimelist.net/images/anime/1792/95048.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1792/95048t.jpg",
+    "synonyms": [
+      "zoids s5",
+      "ゾイドワイルド",
+      "索斯机械兽WILD",
+      "조이드 와일드"
+    ]
+  },
+  {
+    "title": "はたらく細胞",
+    "titleTranslate": {
+      "zh-Hans": [
+        "工作细胞"
+      ],
+      "en": [
+        "Cells at Work!"
+      ],
+      "zh-Hant": [
+        "工作細胞"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://hataraku-saibou.com/",
+    "begin": "2018-07-07T15:00:00.000Z",
+    "end": "2018-09-29T15:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "235612"
+      },
+      {
+        "site": "bilibili",
+        "id": "102392",
+        "begin": "2018-07-07T16:30:00.000Z",
+        "broadcast": "R/2018-07-07T16:30:00.000Z/P7D",
+        "comment": "中配版: 28233568"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hataraku-saibou",
+        "begin": "2018-07-09T03:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "93488",
+        "begin": "2018-07-07T16:30:00.000Z",
+        "broadcast": "R/2018-07-07T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "100977"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cells-at-work"
+      },
+      {
+        "site": "anime-planet",
+        "id": "cells-at-work-commercial"
+      },
+      {
+        "site": "anisearch",
+        "id": "13249"
+      },
+      {
+        "site": "kitsu",
+        "id": "14212"
+      },
+      {
+        "site": "livechart",
+        "id": "10098"
+      },
+      {
+        "site": "livechart",
+        "id": "3051"
+      },
+      {
+        "site": "livechart",
+        "id": "8358"
+      },
+      {
+        "site": "livechart",
+        "id": "9386"
+      },
+      {
+        "site": "livechart",
+        "id": "9890"
+      },
+      {
+        "site": "livechart",
+        "id": "9902"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37141"
+      },
+      {
+        "site": "notify",
+        "id": "sagvhKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 5,
+    "picture": "https://cdn.myanimelist.net/images/anime/1481/100090.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1481/100090t.jpg",
+    "synonyms": [
+      "Cells at Work! Specials",
+      "Cells at Work!: Animated Shorts",
+      "Cells at Work!: Mini-Specials",
+      "Hataraku Oshigoto",
+      "Hataraku Petit Quiz",
+      "Hataraku Saibou: Original Short Anime",
+      "Hataraku Saibō: Original Short Anime",
+      "Killer T Saibou no Kunren",
+      "Macrophage no Oheya",
+      "Shireikan no Yuuutsu",
+      "はたらく細胞",
+      "はたらく細胞 Specials",
+      "はたらく細胞 オリジナルショートアニメ"
+    ]
+  },
+  {
+    "title": "あそびあそばせ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "来玩游戏吧",
+        "游戏3人娘"
+      ],
+      "zh-Hant": [
+        "遊戲3人娘"
+      ],
+      "en": [
+        "Asobi Asobase: Workshop Of Fun"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://asobiasobase.com/",
+    "begin": "2018-07-08T14:30:00.000Z",
+    "end": "2018-09-23T12:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "236020"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh6yfyh",
+        "begin": "2018-07-08T13:25:11.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "asobiasobase",
+        "begin": "2018-07-15T15:00:00.000Z"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjS312YgNty0-qbKChsWZVN",
+        "begin": "2022-06-01T16:00:00.000Z",
+        "broadcast": "R/2022-06-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81264508",
+        "begin": "2022-02-27T16:00:00.000Z",
+        "broadcast": "R/2022-02-27T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "93688",
+        "begin": "2018-07-08T13:30:00.000Z",
+        "broadcast": "R/2018-07-08T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "101001"
+      },
+      {
+        "site": "anime-planet",
+        "id": "asobi-asobase"
+      },
+      {
+        "site": "anime-planet",
+        "id": "asobi-asobase-ova"
+      },
+      {
+        "site": "anisearch",
+        "id": "13273"
+      },
+      {
+        "site": "kitsu",
+        "id": "41149"
+      },
+      {
+        "site": "livechart",
+        "id": "3056"
+      },
+      {
+        "site": "livechart",
+        "id": "3329"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37171"
+      },
+      {
+        "site": "notify",
+        "id": "HYfm4biig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/1270/97437.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1270/97437t.jpg",
+    "synonyms": [
+      "Asobi Asobase - workshop of fun - Specials",
+      "あそびあそばせ",
+      "あそびあそばせ Specials"
+    ]
+  },
+  {
+    "title": "ヤマノススメ サードシーズン",
+    "titleTranslate": {
+      "en": [
+        "Encouragement of Climb Third Season"
+      ],
+      "zh-Hans": [
+        "向山进发 第三季",
+        "前进吧！登山少女 第三季"
+      ],
+      "zh-Hant": [
+        "前進吧！登山少女 第三季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.yamanosusume.com/",
+    "begin": "2018-07-02T16:40:00.000Z",
+    "end": "2018-09-24T16:55:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "216310"
+      },
+      {
+        "site": "bilibili",
+        "id": "102152",
+        "begin": "2018-07-02T18:55:00.000Z",
+        "broadcast": "R/2018-07-02T18:55:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yamanosusume3rd",
+        "begin": "2018-06-04T04:00:01.000Z"
+      },
+      {
+        "site": "pptv",
+        "id": "friaVE3vhUYicycNg",
+        "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "89239",
+        "begin": "2018-07-02T18:55:00.000Z",
+        "broadcast": "R/2018-07-02T18:55:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "13206"
+      },
+      {
+        "site": "anidb",
+        "id": "16138"
+      },
+      {
+        "site": "anilist",
+        "id": "131182"
+      },
+      {
+        "site": "anilist",
+        "id": "98868"
+      },
+      {
+        "site": "anime-planet",
+        "id": "encouragement-of-climb"
+      },
+      {
+        "site": "anime-planet",
+        "id": "encouragement-of-climb-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "encouragement-of-climb-next-summit"
+      },
+      {
+        "site": "anime-planet",
+        "id": "encouragement-of-climb-omoide-present"
+      },
+      {
+        "site": "anisearch",
+        "id": "12520"
+      },
+      {
+        "site": "anisearch",
+        "id": "16069"
+      },
+      {
+        "site": "anisearch",
+        "id": "9278"
+      },
+      {
+        "site": "kitsu",
+        "id": "13585"
+      },
+      {
+        "site": "kitsu",
+        "id": "44193"
+      },
+      {
+        "site": "kitsu",
+        "id": "8201"
+      },
+      {
+        "site": "livechart",
+        "id": "10474"
+      },
+      {
+        "site": "livechart",
+        "id": "1237"
+      },
+      {
+        "site": "livechart",
+        "id": "2714"
+      },
+      {
+        "site": "livechart",
+        "id": "340"
+      },
+      {
+        "site": "livechart",
+        "id": "869"
+      },
+      {
+        "site": "livechart",
+        "id": "897"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35673"
+      },
+      {
+        "site": "myanimelist",
+        "id": "48491"
+      },
+      {
+        "site": "notify",
+        "id": "0T5VhFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "HRqgvNQGg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/1070/93809.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1070/93809t.jpg",
+    "synonyms": [
+      "Encouragement of Climb 3",
+      "Encouragement of Climb Season 3",
+      "Encouragement of Climb Third Season",
+      "Encouragement of Climb: Saison 3",
+      "Encouragement of Climb: Season 3",
+      "Encouragement of Climb: Staffel 3",
+      "Encouragement of Climb: Third Season",
+      "Yama no Susume 3",
+      "Yama no Susume 3rd Season",
+      "Yama no Susume S3",
+      "Yama no Susume Saison 3",
+      "Yama no Susume Temporada 3",
+      "Yama no Susume: Third Season",
+      "ヤマノススメ サードシーズン",
+      "向山进发 第三季",
+      "야마노스스메 서드 시즌"
+    ]
+  },
+  {
+    "title": "プラネット・ウィズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "行星与共"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://planet-with.com/",
+    "begin": "2018-07-08T13:30:00.000Z",
+    "end": "2018-09-23T14:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "241133"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgytgjp",
+        "begin": "2018-07-08T14:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "planet-with",
+        "begin": "2018-07-13T03:00:00.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1985/95103.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1985/95103t.jpg",
+    "synonyms": [
+      "プラネット・ウィズ",
+      "行星与共",
+      "플래닛 위드"
+    ]
+  },
+  {
+    "title": "ハッピーシュガーライフ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Happy Sugar Life",
+        "Happy Sugar Life ～幸福甜蜜生活～"
+      ],
+      "en": [
+        "Happy Sugar Life"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://happysugarlife.tv/",
+    "begin": "2018-07-13T16:55:00.000Z",
+    "end": "2018-09-28T17:40:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "240828"
+      },
+      {
+        "site": "nicovideo",
+        "id": "happysugarlife",
+        "begin": "2018-10-29T03:00:00.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1386/103920.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1386/103920t.jpg",
+    "synonyms": [
+      "Black Salt Cage",
+      "Słodkie",
+      "White Sugar Garden",
+      "White Sugar Garden, Black Salt Cage",
+      "hsl",
+      "szczęśliwe życie",
+      "ハッピーシュガーライフ",
+      "幸福甜蜜生活",
+      "해피 슈거 라이프"
+    ]
+  },
+  {
+    "title": "ぐらんぶる",
+    "titleTranslate": {
+      "zh-Hans": [
+        "碧蓝之海"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://grandblue-anime.com/",
+    "begin": "2018-07-13T17:25:00.000Z",
+    "end": "2018-09-28T18:10:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "235130"
+      },
+      {
+        "site": "bilibili",
+        "id": "102312",
+        "begin": "2018-07-13T17:25:00.000Z",
+        "broadcast": "R/2018-07-13T17:45:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "grandblue-anime",
+        "begin": "2018-12-21T03:00:00.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1302/94882.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1302/94882t.jpg",
+    "synonyms": [
+      "Büyük Mavi Rüya",
+      "Grand Blue Dreaming",
+      "Grandblue Dreaming",
+      "Необъятный океан",
+      "حلم الأزرق الكبير",
+      "ग्रैंड ब्लू ड्रीमिंग",
+      "கிராண்ட் ப்ளூ டிரீமிங்",
+      "గ్రాండ్ బ్లూ డ్రీమింగ్",
+      "ก๊วนป่วนชวนบุ๋งบุ๋ง",
+      "ก๊วนป่วนชวนบุ๋งๆ",
+      "ぐらんぶる",
+      "碧蓝之海",
+      "碧藍之海",
+      "그랑블루"
+    ]
+  },
+  {
+    "title": "ハイスコアガール",
+    "titleTranslate": {
+      "zh-Hans": [
+        "高分少女"
+      ],
+      "en": [
+        "Hi Score Girl"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://hi-score-girl.com/",
+    "begin": "2018-07-13T15:30:00.000Z",
+    "end": "2018-09-28T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "91205"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgyterx",
+        "begin": "2018-07-13T18:25:10.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80997338",
+        "begin": "2018-12-24T08:00:00.000Z",
+        "broadcast": "R/2018-12-24T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "14418"
+      },
+      {
+        "site": "anilist",
+        "id": "104307"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hi-score-girl-extra-stage"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hi-score-girl-ii"
+      },
+      {
+        "site": "anisearch",
+        "id": "13914"
+      },
+      {
+        "site": "kitsu",
+        "id": "42200"
+      },
+      {
+        "site": "livechart",
+        "id": "3542"
+      },
+      {
+        "site": "livechart",
+        "id": "9374"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38422"
+      },
+      {
+        "site": "notify",
+        "id": "iOyDgVemg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1668/91345.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1668/91345t.jpg",
+    "synonyms": [
+      "Hi Score Girl",
+      "Hi-Score Girl",
+      "Hiscore Girl",
+      "hsg",
+      "ハイスコアガール",
+      "高分少女",
+      "하이 스코어 걸"
+    ]
+  },
+  {
+    "title": "少女☆歌劇 レヴュースタァライト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少女☆歌剧 Revue Starlight"
+      ],
+      "en": [
+        "Revue Starlight"
+      ],
+      "zh-Hant": [
+        "少女☆歌劇 Revue Starlight"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://revuestarlight.com/",
+    "begin": "2018-07-12T16:28:00.000Z",
+    "end": "2018-09-27T17:13:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "214265"
+      },
+      {
+        "site": "bilibili",
+        "id": "102892",
+        "begin": "2018-07-13T06:30:00.000Z",
+        "broadcast": "R/2018-07-13T06:30:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "revuestarlight",
+        "begin": "2018-07-12T21:00:00.000Z"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "23770586",
+        "begin": "2018-07-13T06:30:00.000Z",
+        "broadcast": "R/2018-07-13T06:30:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "14811"
+      },
+      {
+        "site": "anidb",
+        "id": "15254"
+      },
+      {
+        "site": "anidb",
+        "id": "15255"
+      },
+      {
+        "site": "anilist",
+        "id": "103254"
+      },
+      {
+        "site": "anilist",
+        "id": "109153"
+      },
+      {
+        "site": "anilist",
+        "id": "113023"
+      },
+      {
+        "site": "anilist",
+        "id": "113024"
+      },
+      {
+        "site": "anilist",
+        "id": "155775"
+      },
+      {
+        "site": "anime-planet",
+        "id": "revue-starlight-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "revue-starlight-rondo-rondo-rondo"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shoujo-conto-all-starlight"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shoujo-kageki-revue-starlight-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "siegfeld-institute-of-music-junior-high-afuregu-aufregendes-leben"
+      },
+      {
+        "site": "anime-planet",
+        "id": "starlight-kuku-gumi-99-illusion"
+      },
+      {
+        "site": "anisearch",
+        "id": "13820"
+      },
+      {
+        "site": "anisearch",
+        "id": "14515"
+      },
+      {
+        "site": "anisearch",
+        "id": "14739"
+      },
+      {
+        "site": "anisearch",
+        "id": "15955"
+      },
+      {
+        "site": "anisearch",
+        "id": "17529"
+      },
+      {
+        "site": "anisearch",
+        "id": "17764"
+      },
+      {
+        "site": "kitsu",
+        "id": "41897"
+      },
+      {
+        "site": "kitsu",
+        "id": "42454"
+      },
+      {
+        "site": "kitsu",
+        "id": "42681"
+      },
+      {
+        "site": "kitsu",
+        "id": "42682"
+      },
+      {
+        "site": "kitsu",
+        "id": "46851"
+      },
+      {
+        "site": "livechart",
+        "id": "3446"
+      },
+      {
+        "site": "livechart",
+        "id": "9405"
+      },
+      {
+        "site": "livechart",
+        "id": "9665"
+      },
+      {
+        "site": "livechart",
+        "id": "9666"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38050"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39643"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40664"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40665"
+      },
+      {
+        "site": "myanimelist",
+        "id": "41317"
+      },
+      {
+        "site": "myanimelist",
+        "id": "41318"
+      },
+      {
+        "site": "notify",
+        "id": "AdwHpD0ig"
+      },
+      {
+        "site": "notify",
+        "id": "_zWrXxUZR"
+      },
+      {
+        "site": "notify",
+        "id": "nGFn954Gg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1165/93552.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1165/93552t.jpg",
+    "synonyms": [
+      "Girls' Musical Revue Starlight",
+      "Girls'☆Opera Revue Starlight",
+      "Revue Starlight",
+      "Shoujo Kageki Revue Starlight",
+      "Shoujo ☆ Kageki Revue Starlight",
+      "Shōjo Kageki Revue Starlight",
+      "少女☆歌剧 Revue Starlight",
+      "少女☆歌劇 レヴュースタァライト",
+      "少女☆歌劇 レヴュー・スタァライト",
+      "少女歌剧",
+      "소녀☆가극 레뷰 스타라이트"
+    ]
+  },
+  {
+    "title": "京都寺町三条のホームズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "京都寺町三条商店街的福尔摩斯"
+      ],
+      "zh-Hant": [
+        "京都寺町三條商店街的福爾摩斯"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://kyototeramachi-holmes.com/",
+    "begin": "2018-07-09T17:10:00.000Z",
+    "end": "2018-09-24T17:35:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "240198"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgxdbdp",
+        "begin": "2018-07-09T01:27:34.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kyototeramachi-holmes",
+        "begin": "2018-07-10T03:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "94989",
+        "begin": "2018-07-08T18:35:00.000Z",
+        "broadcast": "R/2018-07-08T18:35:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1304/92930.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1304/92930t.jpg",
+    "synonyms": [
+      "Holmes at Kyoto Teramachi Sanjo",
+      "Holmes at Kyoto Teramachi Sanjou",
+      "Holmes of Kyoto",
+      "Kyoto Teramachi Sanjō no Holmes",
+      "Холмс из Киото",
+      "京都寺町三条のホームズ",
+      "京都寺町三条商店街的福尔摩斯",
+      "교토 테라마치 산죠의 홈즈"
+    ]
+  },
+  {
+    "title": "バキ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "刃牙"
+      ],
+      "en": [
+        "BAKI"
+      ],
+      "zh-Hant": [
+        "刃牙"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://baki-anime.jp/",
+    "begin": "2018-07-01T15:30:00.000Z",
+    "end": "2018-12-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "199373"
+      },
+      {
+        "site": "netflix",
+        "id": "80204451",
+        "begin": "2018-12-18T00:00:00.000Z",
+        "broadcast": "R/2018-12-18T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "12569"
+      },
+      {
+        "site": "anidb",
+        "id": "15737"
+      },
+      {
+        "site": "anilist",
+        "id": "124195"
+      },
+      {
+        "site": "anilist",
+        "id": "97888"
+      },
+      {
+        "site": "anime-planet",
+        "id": "baki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "baki-son-of-ogre"
+      },
+      {
+        "site": "anisearch",
+        "id": "12696"
+      },
+      {
+        "site": "anisearch",
+        "id": "15565"
+      },
+      {
+        "site": "kitsu",
+        "id": "13140"
+      },
+      {
+        "site": "kitsu",
+        "id": "43599"
+      },
+      {
+        "site": "livechart",
+        "id": "10158"
+      },
+      {
+        "site": "livechart",
+        "id": "11152"
+      },
+      {
+        "site": "livechart",
+        "id": "2246"
+      },
+      {
+        "site": "livechart",
+        "id": "2433"
+      },
+      {
+        "site": "livechart",
+        "id": "5089"
+      },
+      {
+        "site": "livechart",
+        "id": "6212"
+      },
+      {
+        "site": "livechart",
+        "id": "9326"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34443"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42940"
+      },
+      {
+        "site": "notify",
+        "id": "mrgJ_m0Gg"
+      },
+      {
+        "site": "notify",
+        "id": "n8pM2Fmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2020,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/1924/109353.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1924/109353t.jpg",
+    "synonyms": [
+      "Baki (2020)",
+      "Baki 2nd Season",
+      "Baki : La saga du grand tournoi de Raitai",
+      "Baki: Dai Raitaisai Hen",
+      "Baki: Die Saga vom Raitai-Turnier",
+      "Baki: La saga del grande torneo Raitai",
+      "Baki: Saga del Gran Toreo de Raitai",
+      "Baki: Saga del Gran Torneo Raitai",
+      "Baki: The Great Raitai Tournament",
+      "Baki: The Great Raitai Tournament Saga",
+      "Баки: Великий турнир Райтай",
+      "באקי: סאגת טורניר הראיקאי הגדול",
+      "バキ",
+      "バキ (2020)",
+      "バキ 大擂台賽編",
+      "刃牙 2"
+    ]
+  },
+  {
+    "title": "悪偶 -天才人形-",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://aguu-anime.com/",
+    "begin": "2018-07-09T15:00:00.000Z",
+    "end": "2018-09-24T15:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "242737"
+      },
+      {
+        "site": "mgtv",
+        "id": "324710",
+        "begin": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "aguu-anime",
+        "begin": "2018-07-11T16:00:00.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1208/92825.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1208/92825t.jpg",
+    "synonyms": [
+      "Aguu: Genius Dolls",
+      "Agū: Tensai Ningyō",
+      "aguu",
+      "天才玩偶",
+      "恶偶",
+      "悪偶 -天才人形-",
+      "悪偶 ‐天才人形‐",
+      "악우 - 천재인형"
+    ]
+  },
+  {
+    "title": "ロード オブ ヴァーミリオン 紅蓮の王",
+    "titleTranslate": {
+      "zh-Hans": [
+        "LORD of VERMILION 红莲之王",
+        "红莲之王"
+      ],
+      "zh-Hant": [
+        "紅蓮之王"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://lord-of-vermilion.com/",
+    "begin": "2018-07-13T16:05:00.000Z",
+    "end": "2018-09-28T16:35:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "241091"
+      },
+      {
+        "site": "bilibili",
+        "id": "102852",
+        "begin": "2018-07-13T17:35:00.000Z",
+        "broadcast": "R/2018-07-13T17:35:00.000Z/P7D"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh6ubnd",
+        "begin": "2018-07-13T17:30:08.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "2/2jje4zejg4yci94",
+        "begin": "2018-07-13T17:35:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lord-of-vermilion",
+        "begin": "2018-07-21T15:30:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "ecc51c99e1be4a579ba4",
+        "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "95727",
+        "begin": "2018-07-13T17:35:00.000Z",
+        "broadcast": "R/2018-07-13T17:35:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "11531"
+      },
+      {
+        "site": "anisearch",
+        "id": "10729"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31493"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36447"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1557/95053.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1557/95053t.jpg",
+    "synonyms": [
+      "LoVer TV",
+      "Lord of Vermilion",
+      "Lord of Vermilion - Guren no Ou",
+      "Lord of Vermilion: Guren no Ō",
+      "Lord of Vermilion: The Crimson King",
+      "Lord of Vermillion: Guren no Ou",
+      "ロード オブ ヴァーミリオン 紅蓮の王",
+      "ロード オブ ヴァーミリオン　紅蓮の王",
+      "ロード・オブ・ヴァーミリオン",
+      "로드 오브 버밀리온 홍련의 왕"
+    ]
+  },
+  {
+    "title": "邪神ちゃんドロップキック",
+    "titleTranslate": {
+      "zh-Hans": [
+        "邪神与厨二病少女",
+        "邪神与中二病少女",
+        "小邪神飞踢",
+        "邪神酱飞踢"
+      ],
+      "en": [
+        "Dropkick on My Devil!!"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://jashinchan.com/",
+    "begin": "2018-07-09T15:00:00.000Z",
+    "end": "2018-09-17T15:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "231722"
+      },
+      {
+        "site": "bilibili",
+        "id": "102112",
+        "begin": "2018-07-09T15:00:00.000Z",
+        "broadcast": "R/2018-07-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "jashinchan",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "14623"
+      },
+      {
+        "site": "anidb",
+        "id": "18024"
+      },
+      {
+        "site": "anilist",
+        "id": "107294"
+      },
+      {
+        "site": "anilist",
+        "id": "154081"
+      },
+      {
+        "site": "anilist",
+        "id": "154198"
+      },
+      {
+        "site": "anilist",
+        "id": "164551"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dropkick-on-my-devil"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dropkick-on-my-devil-dash"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dropkick-on-my-devil-end-of-century-edition"
+      },
+      {
+        "site": "anisearch",
+        "id": "14110"
+      },
+      {
+        "site": "anisearch",
+        "id": "17299"
+      },
+      {
+        "site": "kitsu",
+        "id": "42126"
+      },
+      {
+        "site": "livechart",
+        "id": "12008"
+      },
+      {
+        "site": "livechart",
+        "id": "3006"
+      },
+      {
+        "site": "livechart",
+        "id": "3531"
+      },
+      {
+        "site": "livechart",
+        "id": "9201"
+      },
+      {
+        "site": "livechart",
+        "id": "9715"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39049"
+      },
+      {
+        "site": "myanimelist",
+        "id": "52006"
+      },
+      {
+        "site": "notify",
+        "id": "YXSh2aQ4R"
+      },
+      {
+        "site": "notify",
+        "id": "mbWdOLlmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2022,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1530/124920.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1530/124920t.jpg",
+    "synonyms": [
+      "Dropkick On My Devil! 3rd Season",
+      "Dropkick On My Devil!! 3rd Season",
+      "Dropkick On My Devil!! X",
+      "Dropkick on My Devil! X",
+      "Dropkick on My Devil!! 3",
+      "Dropkick on My Devil!! X",
+      "Dropkick on My Devil!!! X",
+      "Jashin Phi Cước X Mùa 3",
+      "Jashin s3",
+      "Jashin-chan Doroppukikku",
+      "Jashin-chan Dropkick 3",
+      "Jashin-chan Dropkick 3rd Season",
+      "Jashin-chan Dropkick ภาคที่ 3",
+      "小邪神飛踢X 3",
+      "邪神ちゃんドロップキック",
+      "邪神ちゃんドロップキック X",
+      "邪神ちゃんドロップキックX",
+      "邪神与厨二病少女 3"
+    ]
+  },
+  {
+    "title": "アンゴルモア元寇合戦記",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Angolmois 元寇合战记",
+        "抗元奇侠"
+      ],
+      "zh-Hant": [
+        "元寇合戰記",
+        "Angolmois 元寇合戰記"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://ch.nicovideo.jp/angolmois",
+    "begin": "2018-07-10T15:30:00.000Z",
+    "end": "2018-09-25T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "218572"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "102692",
+        "begin": "2018-07-10T17:30:00.000Z",
+        "broadcast": "R/2018-07-10T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "angolmois",
+        "begin": "2018-07-18T15:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "6d7c7cd82c1e46bdb213",
+        "begin": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jh4PnnM6ue8PV5OwsDIynhs",
+        "begin": "2020-03-29T16:00:00.000Z",
+        "broadcast": "R/2020-03-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "95889",
+        "begin": "2019-07-18T09:00:00.000Z",
+        "broadcast": "R/2019-07-18T09:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1469/95052.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1469/95052t.jpg",
+    "synonyms": [
+      "Angolmois",
+      "Angolmois 元寇合战记",
+      "Angolmois: Chronique de L'Invasion Mongole",
+      "Angolmois: Genkō Kassenki",
+      "Angolmois: Record of Mongol Invasion",
+      "アンゴルモア 元寇合戦記",
+      "アンゴルモア元寇合戦記",
+      "アンゴルモア～元寇合戦記～",
+      "앙골모아 원구전투기"
+    ]
+  },
+  {
+    "title": "夢王国と眠れる100人の王子様",
+    "titleTranslate": {
+      "zh-Hans": [
+        "梦王国与沉睡的100名王子"
+      ],
+      "zh-Hant": [
+        "夢王國與沉睡中的100位王子殿下"
+      ],
+      "en": [
+        "100 Sleeping Princes & The Kingdom of Dreams"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://yume-100-anime.com/",
+    "begin": "2018-07-05T15:00:00.000Z",
+    "end": "2018-09-20T14:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "191323"
+      },
+      {
+        "site": "bilibili",
+        "id": "102812",
+        "begin": "2018-07-05T13:30:00.000Z",
+        "broadcast": "R/2018-07-05T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yume-100",
+        "begin": "2018-07-09T03:00:00.000Z"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQXqfEDyDnMwIGzUZvdfJnV",
+        "begin": "2022-08-08T16:00:00.000Z",
+        "broadcast": "R/2022-08-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "100sleepingprincesthekingdomofdreams_117505",
+        "begin": "2018-07-05T15:00:00.000Z",
+        "broadcast": "R/2018-07-05T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "96318",
+        "begin": "2021-03-03T01:00:00.000Z",
+        "broadcast": "R/2021-03-03T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "12363"
+      },
+      {
+        "site": "anilist",
+        "id": "97605"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yume-oukoku-to-nemureru-100-nin-no-ouji-sama-short-stories"
+      },
+      {
+        "site": "anisearch",
+        "id": "12437"
+      },
+      {
+        "site": "kitsu",
+        "id": "40641"
+      },
+      {
+        "site": "livechart",
+        "id": "2305"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34961"
+      },
+      {
+        "site": "notify",
+        "id": "mJJD2Fimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1526/95041.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1526/95041t.jpg",
+    "synonyms": [
+      "100 Sleeping Princes & The Kingdom of Dreams",
+      "100 Sleeping Princes & the Kingdom of Dreams",
+      "100 Sleeping Princes and the Kingdom of Dreams",
+      "Yume Oukoku to Nemureru 100 Nin no Ouji-sama",
+      "Yume Oukoku to Nemureru 100 Nin no Oujisama",
+      "Yume Oukoku to Nemureru 100-nin no Ouji-sama",
+      "Yume Ōkoku to Nemureru 100 Nin no Ōjisama",
+      "夢100",
+      "夢王国と眠れる100人の王子様",
+      "梦王国与沉睡的100名王子",
+      "꿈왕국과 잠자는 100명의 왕자님"
+    ]
+  },
+  {
+    "title": "殺戮の天使",
+    "titleTranslate": {
+      "zh-Hans": [
+        "杀戮天使",
+        "X的天使",
+        "Angels of Death"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://satsuriku.com/",
+    "begin": "2018-07-06T11:30:00.000Z",
+    "end": "2018-10-26T12:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220566"
+      },
+      {
+        "site": "bilibili",
+        "id": "102792",
+        "begin": "2018-07-06T13:00:00.000Z",
+        "broadcast": "R/2018-07-06T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgytf8l",
+        "begin": "2018-07-06T12:55:12.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "satsuriku",
+        "begin": "2018-07-13T15:00:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "u/u8rljkriw7yeorg",
+        "begin": "2018-07-06T13:00:00.000Z"
+      },
+      {
+        "site": "anilist",
+        "id": "104243"
+      },
+      {
+        "site": "anime-planet",
+        "id": "angels-of-death-web"
+      },
+      {
+        "site": "anisearch",
+        "id": "13913"
+      },
+      {
+        "site": "kitsu",
+        "id": "41963"
+      },
+      {
+        "site": "livechart",
+        "id": "3530"
+      },
+      {
+        "site": "notify",
+        "id": "8KGWmvAig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 16,
+    "picture": "https://cdn.myanimelist.net/images/anime/1862/95624.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1862/95624t.jpg",
+    "synonyms": [
+      "Angel Slaughter",
+      "Angel of Death",
+      "Angel of Massacre",
+      "Angel of Slaughter",
+      "Angels of Death",
+      "Aniołowie zbrodni",
+      "Ангел резни",
+      "ทูตสวรรค์ทัณฑ์อำมหิต",
+      "杀戮天使",
+      "殺戮の天使",
+      "살육의 천사"
+    ]
+  },
+  {
+    "title": "ゆらぎ荘の幽奈さん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "汤摇庄的幽奈同学",
+        "摇曳庄的幽奈小姐",
+        "搖曳莊的幽奈小姐"
+      ],
+      "en": [
+        "Yuuna and the Haunted Hot Springs"
+      ],
+      "zh-Hant": [
+        "搖曳莊的幽奈小姐"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://yuragisou.com/",
+    "begin": "2018-07-14T14:30:00.000Z",
+    "end": "2018-09-29T15:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "228969"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgyth5x",
+        "begin": "2018-07-14T15:55:10.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yuragisou",
+        "begin": "2018-07-16T03:00:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "81037377",
+        "begin": "2018-12-31T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "141572",
+        "begin": "2018-10-13T05:46:00.000Z",
+        "broadcast": "R/2018-10-13T05:46:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "13552"
+      },
+      {
+        "site": "anilist",
+        "id": "100483"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yuuna-and-the-haunted-hot-springs"
+      },
+      {
+        "site": "anisearch",
+        "id": "12952"
+      },
+      {
+        "site": "kitsu",
+        "id": "14090"
+      },
+      {
+        "site": "livechart",
+        "id": "2962"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36726"
+      },
+      {
+        "site": "notify",
+        "id": "290NhKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/89469.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/89469t.jpg",
+    "synonyms": [
+      "Yunas Geisterhaus OVA",
+      "Yuragi-sou no Yuuna-san (2018)",
+      "Yuragi-sou no Yuuna-san OAD",
+      "Yuragi-sō no Yūna-san (2018)",
+      "Yuuna and the Haunted Hot Springs",
+      "Yuuna and the Haunted Hot Springs OVA",
+      "Yuuna of Yuragi Manor",
+      "Yuuna of Yuragi Manor OVA",
+      "ยูรากิโซ ที่นี่ผีน่ารักนะ OVA",
+      "ゆらぎ荘の幽奈さん",
+      "ゆらぎ荘の幽奈さん OAD",
+      "ゆらぎ荘の幽奈さん OVA",
+      "ゆらぎ荘の幽奈さん （2018）",
+      "搖曳莊的幽奈小姐 OAD",
+      "汤摇庄的幽奈同学 OAD",
+      "유라기장의 유우나씨 (OAD)",
+      "유라기장의 유우나씨 OAD"
+    ]
+  },
+  {
+    "title": "すのはら荘の管理人さん",
+    "titleTranslate": {
+      "en": [
+        "Miss caretaker of Sunohara-sou"
+      ],
+      "zh-Hans": [
+        "春原庄的管理人",
+        "春原庄的管理人小姐",
+        "春原庄的管理员小姐",
+        "春原庄的管理员"
+      ],
+      "zh-Hant": [
+        "春原莊的管理員小姐"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://sunoharasou-anime.com/",
+    "begin": "2018-07-05T12:00:00.000Z",
+    "end": "2018-09-20T12:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "230110"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sunoharasou",
+        "begin": "2018-07-08T13:00:00.000Z"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28222067",
+        "begin": "2019-08-07T04:24:00.000Z",
+        "broadcast": "R/2019-08-07T04:24:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1539/124746.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1539/124746t.jpg",
+    "synonyms": [
+      "Miss Caretaker of Sunohara-sou",
+      "Miss caretaker of Sunohara-sou",
+      "Sunohara-sō no Kanrinin-san",
+      "Sunoharasou no Kanrinin-san",
+      "sunohara",
+      "مشرفة المسكن سونوهارا-سان",
+      "すのはら荘の管理人さん",
+      "春原庄的管理人",
+      "스노하라장의 관리인"
+    ]
+  },
+  {
+    "title": "音楽少女",
+    "titleTranslate": {
+      "en": [
+        "Ongaku shoujo"
+      ],
+      "zh-Hans": [
+        "音乐少女"
+      ],
+      "zh-Hant": [
+        "音樂少女"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://ongaku-shoujo.jp/",
+    "begin": "2018-07-07T16:00:00.000Z",
+    "end": "2018-09-21T14:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "240366"
+      },
+      {
+        "site": "bilibili",
+        "id": "102032",
+        "begin": "2018-07-07T17:30:00.000Z",
+        "broadcast": "R/2018-07-07T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ongaku-shoujo",
+        "begin": "2018-07-07T16:30:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "98233",
+        "begin": "2018-07-07T17:30:00.000Z",
+        "broadcast": "R/2018-07-07T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "11102"
+      },
+      {
+        "site": "anilist",
+        "id": "21071"
+      },
+      {
+        "site": "anime-planet",
+        "id": "music-girls-2015"
+      },
+      {
+        "site": "anisearch",
+        "id": "10247"
+      },
+      {
+        "site": "kitsu",
+        "id": "10422"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29511"
+      },
+      {
+        "site": "notify",
+        "id": "yTJUtFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1811/91043.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1811/91043t.jpg",
+    "synonyms": [
+      "Music Girls",
+      "Ongaku Shoujo",
+      "Ongaku Shoujo (2018)",
+      "Ongaku Shoujo Music Girls",
+      "Ongaku Shōjo (2018)",
+      "音乐少女",
+      "音楽少女",
+      "音楽少女 (2018)",
+      "音楽少女 (TV)",
+      "音楽少女 （2018）",
+      "음악소녀 (2018)"
+    ]
+  },
+  {
+    "title": "はるかなレシーブ",
+    "titleTranslate": {
+      "en": [
+        "HARUKANA RECEIVE"
+      ],
+      "zh-Hans": [
+        "遥之彼方的接发球",
+        "遥的接球"
+      ],
+      "zh-Hant": [
+        "遙的接球"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.harukana-receive.jp/",
+    "begin": "2018-07-06T16:40:00.000Z",
+    "end": "2018-09-21T12:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220375"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh6y4sl",
+        "begin": "2018-07-06T13:25:12.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "harukana-receive",
+        "begin": "2018-07-12T15:30:00.000Z"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucj2pUmKfKdr2QYqFQntzfzK",
+        "begin": "2022-09-24T16:00:00.000Z",
+        "broadcast": "R/2022-09-24T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "90508",
+        "begin": "2018-07-06T13:30:00.000Z",
+        "broadcast": "R/2018-07-06T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "117395"
+      },
+      {
+        "site": "anisearch",
+        "id": "17025"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38067"
+      },
+      {
+        "site": "notify",
+        "id": "hKfjwaTig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1924/95212.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1924/95212t.jpg",
+    "synonyms": [
+      "harurec",
+      "はるかなレシーブ",
+      "遥的接球",
+      "아득한 리시브"
+    ]
+  },
+  {
+    "title": "進撃の巨人 Season3",
+    "titleTranslate": {
+      "zh-Hans": [
+        "进击的巨人 第三季",
+        "自由之翼 3"
+      ],
+      "zh-Hant": [
+        "進擊的巨人 第三季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://shingeki.tv/season3/",
+    "begin": "2018-07-22T15:35:00.000Z",
+    "end": "2018-10-14T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "217300"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shingeki_season3",
+        "begin": "2018-07-30T03:00:00.000Z"
+      },
+      {
+        "site": "bilibili_tw",
+        "id": "117372",
+        "begin": "2018-07-22T18:05:00.000Z",
+        "broadcast": "R/2018-07-22T18:05:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "467613",
+        "begin": "2022-12-14T16:00:00.000Z",
+        "broadcast": "R/2022-12-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "89557",
+        "begin": "2018-07-22T18:05:00.000Z",
+        "broadcast": "R/2018-07-22T18:05:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchkFx6Rl70VbQeT10lIKoL7",
+        "begin": "2023-06-11T13:55:55.059Z",
+        "broadcast": "R/2023-06-11T13:55:55.059Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5D0Qx5ecSvHm",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "10944"
+      },
+      {
+        "site": "anidb",
+        "id": "14444"
+      },
+      {
+        "site": "anidb",
+        "id": "15582"
+      },
+      {
+        "site": "anilist",
+        "id": "104578"
+      },
+      {
+        "site": "anilist",
+        "id": "108942"
+      },
+      {
+        "site": "anilist",
+        "id": "119113"
+      },
+      {
+        "site": "anilist",
+        "id": "150005"
+      },
+      {
+        "site": "anilist",
+        "id": "20958"
+      },
+      {
+        "site": "anilist",
+        "id": "99634"
+      },
+      {
+        "site": "anime-planet",
+        "id": "15-pun-de-oitsukeru-attack-on-titan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "20-pun-de-oitsukeru-attack-on-titan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "attack-on-titan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "attack-on-titan-2nd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "attack-on-titan-3rd-season-part-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "attack-on-titan-3rd-season-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "attack-on-titan-movie-4-chronicle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "attack-on-titan-the-final-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "attack-on-titan-the-final-season-part-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "linked-horizon-akatsuki-no-requiem"
+      },
+      {
+        "site": "anisearch",
+        "id": "10082"
+      },
+      {
+        "site": "anisearch",
+        "id": "13942"
+      },
+      {
+        "site": "anisearch",
+        "id": "13955"
+      },
+      {
+        "site": "anisearch",
+        "id": "15289"
+      },
+      {
+        "site": "anisearch",
+        "id": "18425"
+      },
+      {
+        "site": "anisearch",
+        "id": "18451"
+      },
+      {
+        "site": "anisearch",
+        "id": "18609"
+      },
+      {
+        "site": "kitsu",
+        "id": "41982"
+      },
+      {
+        "site": "kitsu",
+        "id": "42247"
+      },
+      {
+        "site": "kitsu",
+        "id": "47130"
+      },
+      {
+        "site": "kitsu",
+        "id": "47131"
+      },
+      {
+        "site": "kitsu",
+        "id": "47259"
+      },
+      {
+        "site": "kitsu",
+        "id": "47661"
+      },
+      {
+        "site": "kitsu",
+        "id": "8671"
+      },
+      {
+        "site": "livechart",
+        "id": "10487"
+      },
+      {
+        "site": "livechart",
+        "id": "11010"
+      },
+      {
+        "site": "livechart",
+        "id": "139"
+      },
+      {
+        "site": "livechart",
+        "id": "1756"
+      },
+      {
+        "site": "livechart",
+        "id": "2830"
+      },
+      {
+        "site": "livechart",
+        "id": "2959"
+      },
+      {
+        "site": "livechart",
+        "id": "3558"
+      },
+      {
+        "site": "livechart",
+        "id": "38"
+      },
+      {
+        "site": "livechart",
+        "id": "3968"
+      },
+      {
+        "site": "livechart",
+        "id": "513"
+      },
+      {
+        "site": "livechart",
+        "id": "514"
+      },
+      {
+        "site": "livechart",
+        "id": "754"
+      },
+      {
+        "site": "livechart",
+        "id": "755"
+      },
+      {
+        "site": "livechart",
+        "id": "9491"
+      },
+      {
+        "site": "livechart",
+        "id": "9996"
+      },
+      {
+        "site": "myanimelist",
+        "id": "25777"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38524"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39477"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42091"
+      },
+      {
+        "site": "myanimelist",
+        "id": "51240"
+      },
+      {
+        "site": "myanimelist",
+        "id": "51241"
+      },
+      {
+        "site": "myanimelist",
+        "id": "54468"
+      },
+      {
+        "site": "notify",
+        "id": "jh2JpFimg"
+      },
+      {
+        "site": "notify",
+        "id": "k8I25a-ig"
+      },
+      {
+        "site": "notify",
+        "id": "yQjTRLzGg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1173/92110.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1173/92110t.jpg",
+    "synonyms": [
+      "AoT 3",
+      "AoT S3",
+      "AoT3",
+      "Ataque a los Titanes Temporada 3",
+      "Ataque a los Titanes: Temporada 3",
+      "Ataque a los Titanes: Tercera Temporada",
+      "Attack on Titan 3. Staffel",
+      "Attack on Titan 3rd Season",
+      "Attack on Titan Season 3",
+      "Attack on Titan Staffel 3",
+      "Attack on Titan: Season 3 - Part 1",
+      "L'Attacco dei Giganti - Terza Stagione",
+      "L'Attacco dei Giganti 3",
+      "L'Attacco dei Giganti Stagione 3",
+      "L'Attaque des Titans Saison 3",
+      "L`Attacco Dei Giganti - Terza Stagione",
+      "L`attacco dei Giganti - Stagione 3.1",
+      "L’Attaque des Titans Saison 3",
+      "Shingeki no Kyojin (2018)",
+      "Shingeki no Kyojin 3",
+      "Shingeki no Kyojin 3rd Season",
+      "Shingeki no Kyojin S3",
+      "SnK 3",
+      "SnK3",
+      "Атака титанов 3 сезон",
+      "מתקפת הטיטאנים עונה 3",
+      "حمله به تایتان فصل 3",
+      "هجوم العمالقة 3",
+      "ผ่าพิภพไททัน ภาค 3",
+      "ผ่าพิภพไททัน ภาค 3 Part 1",
+      "进击的巨人 第三季",
+      "進撃の巨人 Season 3",
+      "進撃の巨人 Season3",
+      "進撃の巨人 attack on titan Season 3",
+      "進撃の巨人3",
+      "進撃の巨人３",
+      "진격의 거인 3"
+    ]
+  },
+  {
+    "title": "中間管理録トネガワ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "中间管理录利根川"
+      ],
+      "zh-Hant": [
+        "中間管理錄利根川"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tonegawa-anime.com/",
+    "begin": "2018-07-03T17:04:00.000Z",
+    "end": "2018-12-25T17:09:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "237834"
+      },
+      {
+        "site": "bilibili",
+        "id": "102632",
+        "begin": "2018-07-03T20:30:00.000Z",
+        "broadcast": "R/2018-07-03T20:29:59.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tonegawa-anime",
+        "begin": "2018-07-04T15:30:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "95426",
+        "begin": "2019-06-27T07:00:00.000Z",
+        "broadcast": "R/2019-06-27T07:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "5427"
+      },
+      {
+        "site": "anilist",
+        "id": "10271"
+      },
+      {
+        "site": "anilist",
+        "id": "3002"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kaiji-against-all-rules"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kaiji-ultimate-survivor"
+      },
+      {
+        "site": "anisearch",
+        "id": "3427"
+      },
+      {
+        "site": "anisearch",
+        "id": "4470"
+      },
+      {
+        "site": "kitsu",
+        "id": "2713"
+      },
+      {
+        "site": "livechart",
+        "id": "1524"
+      },
+      {
+        "site": "livechart",
+        "id": "3677"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3002"
+      },
+      {
+        "site": "notify",
+        "id": "-bLUcFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/1072/93145.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1072/93145t.jpg",
+    "synonyms": [
+      "1 Day Outside Pass Foreman",
+      "1日外出録ハンチョウ",
+      "Chūkan Kanriroku Tonegawa",
+      "Ichinichi Gaishutsuroku Hanchou",
+      "Middle Manager Tonegawa",
+      "Mr. Tonegawa Middle Management Blues",
+      "Mr. Tonegawa Middle Management Blues!",
+      "Mr. Tonegawa: Middle Management Blues",
+      "tonegawa",
+      "中間管理録 トネガワ",
+      "中間管理録トネガワ",
+      "中间管理录利根川",
+      "중간관리록 토네가와"
+    ]
+  },
+  {
+    "title": "深夜！天才バカボン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "深夜！天才傻鹏"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://shinya-bakabon.com/",
+    "begin": "2018-07-10T16:40:00.000Z",
+    "end": "2018-09-25T17:05:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "242082"
+      },
+      {
+        "site": "bilibili",
+        "id": "102472",
+        "begin": "2018-07-10T17:35:00.000Z",
+        "broadcast": "R/2018-07-10T17:40:00.000Z/P7D"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh6ycz5",
+        "begin": "2018-07-10T17:40:10.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shinya-bakabon",
+        "begin": "2018-07-15T15:30:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "01856a5271ed4474bfab",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "5494"
+      },
+      {
+        "site": "anilist",
+        "id": "6468"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ganso-tensai-bakabon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "heisei-tensai-bakabon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "late-night-the-genius-bakabon-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rerere-no-tensai-bakabon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tensai-bakabon"
+      },
+      {
+        "site": "anisearch",
+        "id": "4518"
+      },
+      {
+        "site": "kitsu",
+        "id": "6485"
+      },
+      {
+        "site": "livechart",
+        "id": "743"
+      },
+      {
+        "site": "livechart",
+        "id": "9582"
+      },
+      {
+        "site": "livechart",
+        "id": "9583"
+      },
+      {
+        "site": "livechart",
+        "id": "9584"
+      },
+      {
+        "site": "livechart",
+        "id": "9585"
+      },
+      {
+        "site": "myanimelist",
+        "id": "11268"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38001"
+      },
+      {
+        "site": "notify",
+        "id": "QBFItFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1031/92911.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1031/92911t.jpg",
+    "synonyms": [
+      "Late Night Genius Bakabon",
+      "Late Night! Genius Bakabon",
+      "Late Night! The Genius Bakabon",
+      "Late night! The Genius Bakabon",
+      "Shin`ya! Tensai Bakabon",
+      "Shinya Tensai Bakabon",
+      "Shin’ya! Tensai Bakabon",
+      "深夜! 天才バカボン",
+      "深夜！ 天才バカボン",
+      "深夜！天才バカボン",
+      "深夜！天才傻鹏",
+      "심야! 천재 바카본"
+    ]
+  },
+  {
+    "title": "七星のスバル",
+    "titleTranslate": {
+      "en": [
+        "Seven Senses of the Beunion"
+      ],
+      "zh-Hans": [
+        "昴宿七星",
+        "七星的昴星团"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://7subaru.jp/",
+    "begin": "2018-07-05T16:58:00.000Z",
+    "end": "2018-09-20T17:29:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "225843"
+      },
+      {
+        "site": "bilibili",
+        "id": "102732",
+        "begin": "2018-07-06T06:30:00.000Z",
+        "broadcast": "R/2018-07-06T06:30:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1956/94914.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1956/94914t.jpg",
+    "synonyms": [
+      "La Unión de los Siete Sentidos",
+      "La unión de los siete sentidos",
+      "Les Sept Sens de la Re'Union",
+      "Sete Sentidos da Re-União",
+      "Seven Senses of the Re'Union",
+      "Seven Senses of the Re`Union",
+      "Seven Senses of the Reunion",
+      "Seven Senses of the Re’Union",
+      "subaru",
+      "七星のスバル",
+      "昴宿七星",
+      "칠성의 스바루"
+    ]
+  },
+  {
+    "title": "百錬の覇王と聖約の戦乙女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "百炼霸王与圣约女武神"
+      ],
+      "en": [
+        "The Master of Ragnarok & Blesser of Einherjar"
+      ],
+      "zh-Hant": [
+        "百鍊霸王與聖約女武神"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://hyakuren-anime.com/",
+    "begin": "2018-07-07T16:30:00.000Z",
+    "end": "2018-09-22T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "239960"
+      },
+      {
+        "site": "bilibili",
+        "id": "102772",
+        "begin": "2018-07-07T16:30:00.000Z",
+        "broadcast": "R/2018-07-07T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hyakuren-anime",
+        "begin": "2018-07-10T16:30:00.000Z"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28220870",
+        "begin": "2019-05-17T03:26:00.000Z",
+        "broadcast": "R/2019-05-17T03:26:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1585/95225.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1585/95225t.jpg",
+    "synonyms": [
+      "Hyakuren no Haou to Seiyaku no Ikusa Otome",
+      "Hyakuren no Haō to Seiyaku no Valkyria",
+      "The Master of Ragnarok & Blesser of Einherjar",
+      "The Master of Ragnarök & Blesser of Einherjar",
+      "hyakuren",
+      "norsekai",
+      "ราชาอาชาไนยกับวาลคิรีแห่งพันธสัญญา",
+      "百炼霸王与圣约女武神",
+      "百錬の覇王と聖約の戦乙女",
+      "百錬の覇王と聖約の戦乙女[ヴァルキュリア]",
+      "百錬の覇王と聖約の戦乙女〈ヴァルキュリア〉",
+      "백련의 패왕과 성약의 발키리"
+    ]
+  },
+  {
+    "title": "暮光幻影",
+    "titleTranslate": {
+      "ja": [
+        "Phantom in the Twilight"
+      ],
+      "zh-Hant": [
+        "暮光幻影"
+      ]
+    },
+    "type": "tv",
+    "lang": "zh-Hans",
+    "officialSite": "http://phantowa.com/",
+    "begin": "2018-07-09T15:30:00.000Z",
+    "end": "2018-09-13T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "241264"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh6y6l9",
+        "begin": "2018-07-05T04:15:38.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "95292",
+        "begin": "2018-07-05T04:00:00.000Z",
+        "broadcast": "R/2018-07-05T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcgOs6MidwR0fKv6F4g9ZXCE",
+        "begin": "2021-01-07T16:00:00.000Z",
+        "broadcast": "R/2021-01-07T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "myanimelist",
+        "id": "47756"
+      },
+      {
+        "site": "myanimelist",
+        "id": "52850"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1156/93567.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1156/93567t.jpg",
+    "synonyms": [
+      "Phantom in The Twilight",
+      "pitt",
+      "ファントム イン ザ トワイライト",
+      "暮光幻影",
+      "팬텀 인 더 트와일라잇"
+    ]
+  },
+  {
+    "title": "つくもがみ貸します",
+    "titleTranslate": {
+      "zh-Hans": [
+        "付丧神出租中"
+      ],
+      "zh-Hant": [
+        "付喪神出租中！",
+        "付喪神出租中"
+      ],
+      "en": [
+        "We Rent Tsukumogami"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://tsukumogami.jp/",
+    "begin": "2018-07-22T15:10:00.000Z",
+    "end": "2018-10-14T15:40:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "228382"
+      },
+      {
+        "site": "bilibili",
+        "id": "102712",
+        "begin": "2018-07-22T17:10:00.000Z",
+        "broadcast": "R/2018-07-22T17:10:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tsukumogami",
+        "begin": "2019-01-31T15:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "95427",
+        "begin": "2019-06-14T09:00:00.000Z",
+        "broadcast": "R/2019-06-14T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjQkgX42bxrCAytLb8mes76",
+        "begin": "2023-05-20T16:00:00.000Z",
+        "broadcast": "R/2023-05-20T16:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1373/107550.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1373/107550t.jpg",
+    "synonyms": [
+      "Tsukumogami à louer",
+      "We Rent Tsukumogami",
+      "つくもがみ貸します",
+      "付丧神出租中",
+      "付喪神出租中",
+      "츠쿠모가미 빌려드립니다"
+    ]
+  },
+  {
+    "title": "働くお兄さん！の2！",
+    "titleTranslate": {
+      "en": [
+        "WORKING BUDDIES!"
+      ],
+      "zh-Hans": [
+        "打工小哥！之2！"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.hataoni.jp/",
+    "begin": "2018-07-06T12:54:00.000Z",
+    "end": "2018-09-21T13:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "241831"
+      },
+      {
+        "site": "bilibili",
+        "id": "103072",
+        "begin": "2018-07-06T12:54:00.000Z",
+        "broadcast": "R/2018-07-06T12:54:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hataoni2",
+        "begin": "2018-07-06T13:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "13573"
+      },
+      {
+        "site": "anilist",
+        "id": "100873"
+      },
+      {
+        "site": "anime-planet",
+        "id": "working-buddies"
+      },
+      {
+        "site": "anisearch",
+        "id": "12999"
+      },
+      {
+        "site": "kitsu",
+        "id": "14161"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36784"
+      },
+      {
+        "site": "notify",
+        "id": "aIlNhFmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 11,
+    "picture": "https://cdn.myanimelist.net/images/anime/1250/95044.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1250/95044t.jpg",
+    "synonyms": [
+      "Hataraku Onii-san! No 2!",
+      "Hataraku Oniisan! No 2!",
+      "Working Buddies! 2",
+      "Working Buddies! 2!",
+      "Working Buddies! No 2!",
+      "Working Buddies: Season 2",
+      "働くお兄さん! の2!",
+      "働くお兄さん！ の2！",
+      "働くお兄さん！の2！",
+      "打工小哥! 之2!",
+      "일하는 형씨 2"
+    ]
+  },
+  {
+    "title": "BANANA FISH",
+    "titleTranslate": {
+      "zh-Hans": [
+        "BANANA FISH",
+        "战栗杀机",
+        "香蕉鱼"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://bananafish.tv/",
+    "begin": "2018-07-05T15:55:00.000Z",
+    "end": "2018-12-20T17:15:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "228350"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgytq5h",
+        "begin": "2018-07-06T00:13:01.000Z"
+      },
+      {
+        "site": "anilist",
+        "id": "124196"
+      },
+      {
+        "site": "myanimelist",
+        "id": "44086"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/1190/93472.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1190/93472t.jpg",
+    "synonyms": [
+      "BANANA FISH",
+      "MUZ BALIĞI",
+      "Банановая рыба",
+      "بنانا فيش",
+      "बनाना फिश",
+      "பனானா பிஷ்",
+      "బనాన ఫిష్",
+      "บานาน่าฟิช",
+      "バナナフィッシュ",
+      "战栗杀机",
+      "香蕉鱼",
+      "바나나 피쉬"
+    ]
+  },
+  {
+    "title": "One Room セカンドシーズン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "One Room 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://oneroom-anime.com/",
+    "begin": "2018-07-02T16:35:00.000Z",
+    "end": "2018-09-24T13:55:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "226507"
+      },
+      {
+        "site": "bilibili",
+        "id": "103032",
+        "begin": "2018-07-02T16:35:00.000Z",
+        "broadcast": "R/2018-07-02T16:35:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "oneroom2nd",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "12550"
+      },
+      {
+        "site": "anidb",
+        "id": "15411"
+      },
+      {
+        "site": "anilist",
+        "id": "107298"
+      },
+      {
+        "site": "anilist",
+        "id": "116147"
+      },
+      {
+        "site": "anilist",
+        "id": "97857"
+      },
+      {
+        "site": "anime-planet",
+        "id": "one-room"
+      },
+      {
+        "site": "anime-planet",
+        "id": "one-room-2nd-season-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "one-room-3rd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "one-room-hanasaka-yuis-prologue"
+      },
+      {
+        "site": "anisearch",
+        "id": "12007"
+      },
+      {
+        "site": "anisearch",
+        "id": "13726"
+      },
+      {
+        "site": "anisearch",
+        "id": "15029"
+      },
+      {
+        "site": "anisearch",
+        "id": "15599"
+      },
+      {
+        "site": "kitsu",
+        "id": "12758"
+      },
+      {
+        "site": "kitsu",
+        "id": "41452"
+      },
+      {
+        "site": "kitsu",
+        "id": "43556"
+      },
+      {
+        "site": "livechart",
+        "id": "2417"
+      },
+      {
+        "site": "livechart",
+        "id": "2418"
+      },
+      {
+        "site": "livechart",
+        "id": "2516"
+      },
+      {
+        "site": "livechart",
+        "id": "8712"
+      },
+      {
+        "site": "livechart",
+        "id": "9813"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34392"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38061"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38789"
+      },
+      {
+        "site": "myanimelist",
+        "id": "41364"
+      },
+      {
+        "site": "notify",
+        "id": "4Z--DfDiR"
+      },
+      {
+        "site": "notify",
+        "id": "_M-VTACWR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1098/93257.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1098/93257t.jpg",
+    "synonyms": [
+      "One Room 2",
+      "One Room 2nd Season",
+      "One Room S2",
+      "One Room SECOND SEASON",
+      "One Room Saison 2",
+      "One Room Second Season",
+      "One Room Temporada 2",
+      "One Room Zweite Staffel",
+      "One Room セカンドシーズン",
+      "One Room 第二季",
+      "One Room: Segunda Temporada",
+      "OneRoom (2018)",
+      "В одной комнате 2",
+      "ワンルーム",
+      "원 룸 세컨드 시즌"
+    ]
+  },
+  {
+    "title": "じょしおちっ！～2階から女の子が…降ってきた!?～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天降少女！～从2层落下了少女！？～",
+        "落女子！有女孩子从二楼掉下来了！？"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://ch.nicovideo.jp/joshiochi",
+    "begin": "2018-07-01T16:00:00.000Z",
+    "end": "2018-08-26T16:05:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "248206"
+      },
+      {
+        "site": "nicovideo",
+        "id": "joshiochi",
+        "begin": "2018-07-01T16:00:00.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 9,
+    "picture": "https://cdn.myanimelist.net/images/anime/1716/93151.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1716/93151t.jpg",
+    "synonyms": [
+      "Falling Girls! A Girl Comes... Falling from the Second Floor",
+      "Joshi Ochi! 2-kai kara Onnanoko ga … Futte Kita!?",
+      "Joshi Ochi! 2-kai kara Onnanoko ga... Futte Kita!?",
+      "Joshi Ochi! A Girl Fell from the 2nd Floor",
+      "Joshi Ochi!!: 2-kai kara Ero Musume ga Futte kite, Ore no Areni!?",
+      "Joshiochi! 2-kai kara Onna no Ko ga... Kudattekita",
+      "Jyoshi Occhi",
+      "What She Fell on Was the Tip of My Dick",
+      "じょしおちっ！ ～2階から女の子が… 降ってきた！？～",
+      "じょしおちっ！～2階から女の子が…降ってきた!?～",
+      "じょしおちっ！～2階から女の子が…降ってきた！？～"
+    ]
+  },
+  {
+    "title": "闇芝居(第6期)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "暗芝居 第六季"
+      ],
+      "zh-Hant": [
+        "闇芝居S6",
+        "闇芝居 第六季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/yamishibai/",
+    "begin": "2018-07-06T19:00:00.000Z",
+    "end": "2018-09-28T19:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "250117"
+      },
+      {
+        "site": "bilibili",
+        "id": "103092",
+        "begin": "2018-07-06T19:55:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "yamishibai6",
+        "begin": "2018-07-07T03:00:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh6yfr1",
+        "begin": "2018-07-06T20:00:10.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "90a4a55ffbf547329da5",
+        "begin": "2018-07-06T19:58:01.000Z"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjRs26ruy3ZwpTXgMXil4EE",
+        "begin": "2022-01-06T16:00:00.000Z",
+        "broadcast": "R/2022-01-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "100090",
+        "begin": "2020-08-28T04:30:00.000Z",
+        "broadcast": "R/2020-08-28T04:30:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "13219"
+      },
+      {
+        "site": "anidb",
+        "id": "14922"
+      },
+      {
+        "site": "anilist",
+        "id": "109603"
+      },
+      {
+        "site": "anilist",
+        "id": "98978"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yamishibai-japanese-ghost-stories"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yamishibai-japanese-ghost-stories-2nd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yamishibai-japanese-ghost-stories-3rd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yamishibai-japanese-ghost-stories-4th-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yamishibai-japanese-ghost-stories-5th-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yamishibai-japanese-ghost-stories-7th-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yamishibai-japanese-ghost-stories-8th-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yamishibai-japanese-ghost-stories-9th-season"
+      },
+      {
+        "site": "anisearch",
+        "id": "12547"
+      },
+      {
+        "site": "anisearch",
+        "id": "14417"
+      },
+      {
+        "site": "kitsu",
+        "id": "13576"
+      },
+      {
+        "site": "kitsu",
+        "id": "42359"
+      },
+      {
+        "site": "livechart",
+        "id": "10023"
+      },
+      {
+        "site": "livechart",
+        "id": "10240"
+      },
+      {
+        "site": "livechart",
+        "id": "10620"
+      },
+      {
+        "site": "livechart",
+        "id": "10953"
+      },
+      {
+        "site": "livechart",
+        "id": "11992"
+      },
+      {
+        "site": "livechart",
+        "id": "122"
+      },
+      {
+        "site": "livechart",
+        "id": "12415"
+      },
+      {
+        "site": "livechart",
+        "id": "1905"
+      },
+      {
+        "site": "livechart",
+        "id": "2438"
+      },
+      {
+        "site": "livechart",
+        "id": "2723"
+      },
+      {
+        "site": "livechart",
+        "id": "429"
+      },
+      {
+        "site": "livechart",
+        "id": "9448"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35714"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39836"
+      },
+      {
+        "site": "notify",
+        "id": "IbpyvjWZR"
+      },
+      {
+        "site": "notify",
+        "id": "qkFVhFmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/1911/95045.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1911/95045t.jpg",
+    "synonyms": [
+      "Theater of Darkness 6th Season",
+      "Theater of Darkness: Yamishibai 6",
+      "Theatre of Darkness: Yamishibai 6",
+      "Yami Shibai - Japanese Ghost Stories 6",
+      "Yami Shibai 6th Season",
+      "Yamishibai: Historias Japonesas de Fantasmas 6",
+      "Yamishibai: Japanese Ghost Stories 6",
+      "Yamishibai: Japanese Ghost Stories 6th Season",
+      "Yamishibai: Japanese Ghost Stories Sixth Season",
+      "Yamishibai: Japanese Ghost Stories Sixth Season, Theater of Darkness 6th Season",
+      "เรื่องเล่าผีญี่ปุ่น ภาค 6",
+      "暗芝居 第六季",
+      "闇芝居 6",
+      "闇芝居 6期",
+      "闇芝居 六期",
+      "闇芝居(第6期)",
+      "야미시바이 6"
+    ]
+  },
+  {
+    "title": "陰陽師・平安物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阴阳师·平安物语"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://s.mxtv.jp/anime/onmyoji/",
+    "begin": "2018-07-03T16:35:00.000Z",
+    "end": "2018-09-18T16:40:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "226615"
+      },
+      {
+        "site": "anidb",
+        "id": "14853"
+      },
+      {
+        "site": "anidb",
+        "id": "15248"
+      },
+      {
+        "site": "anidb",
+        "id": "15422"
+      },
+      {
+        "site": "anidb",
+        "id": "16017"
+      },
+      {
+        "site": "anilist",
+        "id": "109342"
+      },
+      {
+        "site": "anilist",
+        "id": "112932"
+      },
+      {
+        "site": "anilist",
+        "id": "115824"
+      },
+      {
+        "site": "anilist",
+        "id": "115908"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yin-yang-shi-ping-an-wu-yu-2nd-season"
+      },
+      {
+        "site": "anisearch",
+        "id": "14673"
+      },
+      {
+        "site": "kitsu",
+        "id": "43266"
+      },
+      {
+        "site": "kitsu",
+        "id": "43375"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39678"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40568"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42319"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42443"
+      },
+      {
+        "site": "myanimelist",
+        "id": "50841"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1159/91533.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1159/91533t.jpg",
+    "synonyms": [
+      "Onmyouji: Heian Monogatari",
+      "Onmyouji: Heian Monogatari (陰陽師・平安物語)",
+      "Onmyouji: Peace Story",
+      "Yinyang Shi: Pingan Wuyu",
+      "阴阳师·平安物语",
+      "阴阳师：平安物语",
+      "陰陽師・平安物語"
+    ]
+  },
+  {
+    "title": "うさぎのマシュー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "兔子玛修",
+        "萌萌大耳兔"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://twitter.com/usamashu3",
+    "begin": "2018-07-12T17:42:00.000Z",
+    "end": "2019-07-18T17:40:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "239853"
+      },
+      {
+        "site": "youku",
+        "id": "efbfbd0fefbfbd2b2859",
+        "begin": "2020-04-27T01:58:08.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhwvtn5",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200cp0h5fm",
+        "begin": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 52,
+    "picture": "https://cdn.myanimelist.net/images/anime/1003/95068.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1003/95068t.jpg",
+    "synonyms": [
+      "Matthew the Rabbit",
+      "Usagi no Mathew",
+      "うさぎのマシュー"
+    ]
+  },
+  {
+    "title": "天狼 Sirius the Jaeger",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天狼 Sirius the Jaeger",
+        "天狼"
+      ],
+      "zh-Hant": [
+        "天狼 Sirius the Jaeger"
+      ],
+      "en": [
+        "Sirius the Jaeger"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://sirius-the-jaeger.com/",
+    "begin": "2018-07-12T15:30:00.000Z",
+    "end": "2018-09-27T14:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "241089"
+      },
+      {
+        "site": "bilibili",
+        "id": "102272",
+        "begin": "2018-07-11T16:00:01.000Z",
+        "broadcast": "R/2018-07-12T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgytf5h",
+        "begin": "2018-07-12T15:25:10.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "5/5tbi0vej2cqtofj",
+        "begin": "2018-07-12T15:30:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "0028141ea8f64ac0970e",
+        "begin": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80997339",
+        "begin": "2018-12-21T00:00:00.000Z",
+        "broadcast": "R/2018-12-21T00:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1456/94897.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1456/94897t.jpg",
+    "synonyms": [
+      "Avcı Sirius",
+      "Sirius der Jäger",
+      "Sirius the Jaeger",
+      "Tenrou",
+      "Tenrou the Jaeger",
+      "Tenrou: Sirius the Jaeger",
+      "sirius",
+      "סיריוס הייגר",
+      "天狼 Sirius the Jaeger",
+      "天狼〈シリウス〉 Sirius the Jaeger",
+      "천랑 Sirius the Jaeger"
+    ]
+  },
+  {
+    "title": "銀魂. (銀ノ魂篇 後半戦)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银魂. 银之魂篇 后半战",
+        "银魂. 银之魂篇 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/gintama/",
+    "begin": "2018-07-08T16:35:00.000Z",
+    "end": "2018-10-07T17:05:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "240811"
+      },
+      {
+        "site": "youku",
+        "id": "cc0026e0962411de83b1",
+        "begin": "2011-10-28T04:57:52.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "13263"
+      },
+      {
+        "site": "anidb",
+        "id": "15902"
+      },
+      {
+        "site": "anilist",
+        "id": "100784"
+      },
+      {
+        "site": "anilist",
+        "id": "126819"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gintama"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gintama-2011"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gintama-2015"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gintama-2017"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gintama-enchousen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gintama-porori-hen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gintama-shirogane-no-tamashii-hen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gintama-the-very-final"
+      },
+      {
+        "site": "anisearch",
+        "id": "13151"
+      },
+      {
+        "site": "anisearch",
+        "id": "14669"
+      },
+      {
+        "site": "anisearch",
+        "id": "15184"
+      },
+      {
+        "site": "kitsu",
+        "id": "14095"
+      },
+      {
+        "site": "kitsu",
+        "id": "43683"
+      },
+      {
+        "site": "livechart",
+        "id": "1290"
+      },
+      {
+        "site": "livechart",
+        "id": "1340"
+      },
+      {
+        "site": "livechart",
+        "id": "1523"
+      },
+      {
+        "site": "livechart",
+        "id": "1929"
+      },
+      {
+        "site": "livechart",
+        "id": "1968"
+      },
+      {
+        "site": "livechart",
+        "id": "3591"
+      },
+      {
+        "site": "livechart",
+        "id": "3815"
+      },
+      {
+        "site": "livechart",
+        "id": "3989"
+      },
+      {
+        "site": "livechart",
+        "id": "3999"
+      },
+      {
+        "site": "livechart",
+        "id": "4296"
+      },
+      {
+        "site": "livechart",
+        "id": "43"
+      },
+      {
+        "site": "livechart",
+        "id": "4331"
+      },
+      {
+        "site": "livechart",
+        "id": "4557"
+      },
+      {
+        "site": "livechart",
+        "id": "696"
+      },
+      {
+        "site": "livechart",
+        "id": "937"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36838"
+      },
+      {
+        "site": "myanimelist",
+        "id": "44087"
+      },
+      {
+        "site": "notify",
+        "id": "4tdpvu0Mg"
+      },
+      {
+        "site": "notify",
+        "id": "HlyefFrZg"
+      },
+      {
+        "site": "notify",
+        "id": "XxJHhKmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 14,
+    "picture": "https://cdn.myanimelist.net/images/anime/1776/96566.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1776/96566t.jpg",
+    "synonyms": [
+      "Gintama (Episoden 354-367)",
+      "Gintama (Episodes 354-367)",
+      "Gintama (Episodi 354-367)",
+      "Gintama (Épisodes 354-367)",
+      "Gintama Season 4 (2018)",
+      "Gintama. (2018)",
+      "Gintama. Gin no Tamashii-hen 2nd Season",
+      "Gintama. Silver Soul Arc 2nd Season",
+      "Gintama. Silver Soul Arc Season 2",
+      "Gintama.: Gin no Tamashii-hen 2",
+      "Gintama.: Gin no Tamashii-hen Kouhan-sen",
+      "Gintama.: Shirogane no Tamashii Hen - Kouhan-sen",
+      "Gintama.: Shirogane no Tamashii Hen 2nd Part",
+      "Gintama.: Shirogane no Tamashii-hen 2",
+      "Gintama.: Shirogane no Tamashii-hen Season 2",
+      "Gintama.: Shirogane no Tamashī-hen - Kōhan-sen",
+      "Gintama.: Silver Soul Arc - Second Half War",
+      "Gintama.: Silver Soul Arc 2",
+      "Gintama.: Silver Soul Arc 2nd Season",
+      "Gintama: Shirogane no Tamashii Hen",
+      "Gintama: Shirogane no Tamashii-hen 2",
+      "Gintama: Silver Soul Arc",
+      "Gintama: Silver Soul Arc 2",
+      "銀魂. (2018)",
+      "銀魂. (銀ノ魂篇 後半戦)",
+      "銀魂. 銀ノ魂篇 2",
+      "銀魂. 銀ノ魂篇 後半戦",
+      "銀魂. 銀ノ魂篇2",
+      "銀魂。 銀ノ魂篇 後半戦",
+      "银魂. (2018)",
+      "银魂. 银之魂篇 第二季",
+      "은혼 (2018)"
+    ]
+  },
+  {
+    "title": "おしえて魔法のペンデュラム～リルリルフェアリル～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "告诉我魔法之摆～莉露莉露妖精莉露～",
+        "告诉我吧魔法吊坠～莉露莉露妖精莉露～"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://fairilu.jp/",
+    "begin": "2018-07-06T23:15:00.000Z",
+    "end": "2019-01-05T23:45:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "237762"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fairilu",
+        "begin": "2018-07-28T22:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "127092",
+        "begin": "2018-07-06T16:00:01.000Z",
+        "broadcast": "R/2018-08-21T03:57:00.000Z/P7D"
+      },
+      {
+        "site": "pptv",
+        "id": "WY9o5k60JGLFQ6s",
+        "begin": ""
+      },
+      {
+        "site": "anidb",
+        "id": "12825"
+      },
+      {
+        "site": "anilist",
+        "id": "98421"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rilu-rilu-fairilu-mahou-no-kagami"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rilu-rilu-fairilu-yousei-no-door"
+      },
+      {
+        "site": "anisearch",
+        "id": "12231"
+      },
+      {
+        "site": "kitsu",
+        "id": "13577"
+      },
+      {
+        "site": "livechart",
+        "id": "1959"
+      },
+      {
+        "site": "livechart",
+        "id": "2611"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34927"
+      },
+      {
+        "site": "notify",
+        "id": "4IF42Fmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/1123/93548.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1123/93548t.jpg",
+    "synonyms": [
+      "Oshiete Fairilu: Mahou no Pendulum",
+      "Oshiete Mahō no Pendulum: Rilu Rilu Fairilu",
+      "おしえて魔法のペンデュラム ~リルリルフェアリル~",
+      "おしえて魔法のペンデュラム ～リルリルフェアリル～",
+      "おしえて魔法のペンデュラム～リルリルフェアリル～",
+      "リルリルフェアリル",
+      "가르쳐줘 마법의 펜듈럼 ~리루리루 페어리루~"
+    ]
+  },
+  {
+    "title": "BanG Dream! ガルパ☆ピコ",
+    "titleTranslate": {
+      "en": [
+        "BanG Dream! Girls Band Party!★PICO"
+      ],
+      "zh-Hans": [
+        "BanG Dream! 少女乐团派对！☆PICO"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://anime.bang-dream.com/pico/",
+    "begin": "2018-07-06T13:45:00.000Z",
+    "end": "2018-09-28T13:50:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "246431"
+      },
+      {
+        "site": "pptv",
+        "id": "6ywJhib9VxQNm5Ew",
+        "begin": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "girls-band-party-pico",
+        "begin": "2018-08-23T11:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "135252",
+        "begin": "2018-07-06T13:45:00.000Z",
+        "broadcast": "R/2018-07-05T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "12262"
+      },
+      {
+        "site": "anidb",
+        "id": "15307"
+      },
+      {
+        "site": "anilist",
+        "id": "113906"
+      },
+      {
+        "site": "anilist",
+        "id": "87435"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bang-dream"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bang-dream-girls-band-party-pico-ohmori"
+      },
+      {
+        "site": "anisearch",
+        "id": "11563"
+      },
+      {
+        "site": "anisearch",
+        "id": "15065"
+      },
+      {
+        "site": "kitsu",
+        "id": "12330"
+      },
+      {
+        "site": "kitsu",
+        "id": "43185"
+      },
+      {
+        "site": "livechart",
+        "id": "10567"
+      },
+      {
+        "site": "livechart",
+        "id": "10631"
+      },
+      {
+        "site": "livechart",
+        "id": "11126"
+      },
+      {
+        "site": "livechart",
+        "id": "2247"
+      },
+      {
+        "site": "livechart",
+        "id": "2537"
+      },
+      {
+        "site": "livechart",
+        "id": "3225"
+      },
+      {
+        "site": "livechart",
+        "id": "3238"
+      },
+      {
+        "site": "livechart",
+        "id": "3239"
+      },
+      {
+        "site": "livechart",
+        "id": "9396"
+      },
+      {
+        "site": "livechart",
+        "id": "9667"
+      },
+      {
+        "site": "livechart",
+        "id": "9713"
+      },
+      {
+        "site": "livechart",
+        "id": "9841"
+      },
+      {
+        "site": "livechart",
+        "id": "9897"
+      },
+      {
+        "site": "livechart",
+        "id": "9898"
+      },
+      {
+        "site": "livechart",
+        "id": "9899"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33573"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40854"
+      },
+      {
+        "site": "notify",
+        "id": "pfzkhKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "wDAC1vrWg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/1341/92872.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1341/92872t.jpg",
+    "synonyms": [
+      "BanG Dream! Garupa Pico",
+      "BanG Dream! Girls Band Party! Pico",
+      "BanG Dream! Girls Band Party! ☆ Pico",
+      "BanG Dream! Girls Band Party!☆PICO",
+      "BanG Dream! Girls Band Party!☆Pico",
+      "BanG Dream! ガルパ☆ピコ",
+      "BanG Dream! 少女乐团派对！",
+      "Bandori",
+      "Bang Dream! Garupa Pico",
+      "Bang Dream! Girl`s Band Party Pico",
+      "뱅드림 걸즈 밴드 파티 피코"
+    ]
+  },
+  {
+    "title": "あるゾンビ少女の災難",
+    "titleTranslate": {
+      "zh-Hans": [
+        "某僵尸少女的灾难"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.zombie-girl.net/",
+    "begin": "2018-07-04T16:00:00.000Z",
+    "end": "2018-07-04T18:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "101994"
+      },
+      {
+        "site": "nicovideo",
+        "id": "aruzombie-sainan",
+        "begin": ""
+      },
+      {
+        "site": "anime-planet",
+        "id": "calamity-of-a-zombie-girl"
+      },
+      {
+        "site": "anisearch",
+        "id": "13564"
+      },
+      {
+        "site": "kitsu",
+        "id": "8018"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37735"
+      },
+      {
+        "site": "notify",
+        "id": "0XA2pFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2012,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/74565.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/74565t.jpg",
+    "synonyms": [
+      "Aru Zombie Shoujo no Sainan",
+      "Aru Zombie Shōjo no Sainan",
+      "Calamity of a Zombie Girl PV",
+      "The Misfortune of a Certain Zombie Girl",
+      "あるゾンビ少女の災難"
+    ]
+  },
+  {
+    "title": "嫌な顔されながらおパンツ見せてもらいたい",
+    "titleTranslate": {
+      "zh-Hans": [
+        "一脸嫌弃表情的妹子给你看胖次"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://iyapan-anime.com/",
+    "begin": "2018-07-14T09:30:00.000Z",
+    "end": "2018-08-18T09:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "234195"
+      },
+      {
+        "site": "nicovideo",
+        "id": "iyapan-anime",
+        "begin": "2018-07-21T09:30:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "14259"
+      },
+      {
+        "site": "anilist",
+        "id": "104979"
+      },
+      {
+        "site": "anime-planet",
+        "id": "iya-na-kao-sarenagara-opantsu-misete-moraitai-2nd-season"
+      },
+      {
+        "site": "anisearch",
+        "id": "13806"
+      },
+      {
+        "site": "kitsu",
+        "id": "42091"
+      },
+      {
+        "site": "livechart",
+        "id": "3461"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38163"
+      },
+      {
+        "site": "notify",
+        "id": "f81qlt8ig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/1887/95009.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1887/95009t.jpg",
+    "synonyms": [
+      "I Want You To Make a Disgusted Face and Show Me Your Underwear",
+      "I Want You To Make a Disgusted Face and Show me Your Underwear",
+      "I Want You To Show Me Your Panties With a Disgusted Face",
+      "I Want You to Make a Disgusted Face and Show Me Your Underwear",
+      "Iya na Kao Sarenagara Opantsu Misete Moraitai",
+      "IyaPan",
+      "Iyapan",
+      "iyapan",
+      "嫌な顔されながらおパンツ見せてもらいたい",
+      "嫌パン",
+      "摆出讨厌的表情露出内裤",
+      "싫은 얼굴을 하면서 팬티 보여줬으면 한다"
+    ]
+  },
+  {
+    "title": "スペースバグ",
+    "titleTranslate": {
+      "en": [
+        "Space Bug",
+        "Space bug"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.spacebug-special.com/",
+    "begin": "2018-07-08T01:30:00.000Z",
+    "end": "2019-01-06T01:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "258390"
+      },
+      {
+        "site": "nicovideo",
+        "id": "space-bug",
+        "begin": "2018-07-09T14:00:00.000Z"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/1063/94832.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1063/94832t.jpg",
+    "synonyms": [
+      "The Journey Home",
+      "スペースバグ",
+      "스페이스 버그"
+    ]
+  },
+  {
+    "title": "ているず おぶ ざ れいず 劇場",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场镜光传说"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://torays.tales-ch.jp/special/shortAnime/",
+    "begin": "2018-07-20T16:00:00.000Z",
+    "end": "2018-07-21T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "232793"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tales-of-the-rays-theater",
+        "begin": "2018-07-21T12:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "14628"
+      },
+      {
+        "site": "anilist",
+        "id": "109189"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tales-of-the-rays-everlasting-destiny"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tales-of-the-rays-mirrage-prison-op"
+      },
+      {
+        "site": "anisearch",
+        "id": "13199"
+      },
+      {
+        "site": "livechart",
+        "id": "1645"
+      },
+      {
+        "site": "livechart",
+        "id": "1972"
+      },
+      {
+        "site": "livechart",
+        "id": "1973"
+      },
+      {
+        "site": "livechart",
+        "id": "3907"
+      },
+      {
+        "site": "livechart",
+        "id": "4359"
+      },
+      {
+        "site": "livechart",
+        "id": "4371"
+      },
+      {
+        "site": "livechart",
+        "id": "4925"
+      },
+      {
+        "site": "livechart",
+        "id": "5410"
+      },
+      {
+        "site": "livechart",
+        "id": "5464"
+      },
+      {
+        "site": "livechart",
+        "id": "601"
+      },
+      {
+        "site": "livechart",
+        "id": "6204"
+      },
+      {
+        "site": "livechart",
+        "id": "6789"
+      },
+      {
+        "site": "livechart",
+        "id": "7332"
+      },
+      {
+        "site": "livechart",
+        "id": "7850"
+      },
+      {
+        "site": "livechart",
+        "id": "7876"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34939"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38110"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38112"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 8,
+    "picture": "https://cdn.myanimelist.net/images/anime/1851/95295.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1851/95295t.jpg",
+    "synonyms": [
+      "Tales of the Rays Gekijō",
+      "Tales of the Rays Theater",
+      "ているず おぶ ざ れいず 劇場",
+      "ているず おぶ ざ れいず劇場"
+    ]
+  },
+  {
+    "title": "スーパードラゴンボールヒーローズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超级龙珠英雄"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.carddass.com/dbh/",
+    "begin": "2018-07-01T16:00:00.000Z",
+    "end": "2020-02-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "246914"
+      },
+      {
+        "site": "anidb",
+        "id": "11210"
+      },
+      {
+        "site": "anidb",
+        "id": "233"
+      },
+      {
+        "site": "anilist",
+        "id": "21175"
+      },
+      {
+        "site": "anisearch",
+        "id": "10383"
+      },
+      {
+        "site": "anisearch",
+        "id": "2748"
+      },
+      {
+        "site": "kitsu",
+        "id": "10879"
+      },
+      {
+        "site": "livechart",
+        "id": "3632"
+      },
+      {
+        "site": "livechart",
+        "id": "3636"
+      },
+      {
+        "site": "livechart",
+        "id": "4152"
+      },
+      {
+        "site": "livechart",
+        "id": "4177"
+      },
+      {
+        "site": "livechart",
+        "id": "4206"
+      },
+      {
+        "site": "livechart",
+        "id": "4219"
+      },
+      {
+        "site": "livechart",
+        "id": "4287"
+      },
+      {
+        "site": "livechart",
+        "id": "4294"
+      },
+      {
+        "site": "livechart",
+        "id": "4312"
+      },
+      {
+        "site": "livechart",
+        "id": "4572"
+      },
+      {
+        "site": "livechart",
+        "id": "4719"
+      },
+      {
+        "site": "livechart",
+        "id": "4815"
+      },
+      {
+        "site": "livechart",
+        "id": "4919"
+      },
+      {
+        "site": "livechart",
+        "id": "5906"
+      },
+      {
+        "site": "livechart",
+        "id": "6390"
+      },
+      {
+        "site": "myanimelist",
+        "id": "223"
+      },
+      {
+        "site": "myanimelist",
+        "id": "225"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30694"
+      },
+      {
+        "site": "myanimelist",
+        "id": "813"
+      },
+      {
+        "site": "notify",
+        "id": "MQm2cKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "Mj2_pFimR"
+      },
+      {
+        "site": "notify",
+        "id": "hbih5KmmR"
+      },
+      {
+        "site": "notify",
+        "id": "ir-05Fmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "ONGOING",
+    "episodes": 51,
+    "picture": "https://cdn.myanimelist.net/images/anime/1480/92990.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1480/92990t.jpg",
+    "synonyms": [
+      "Dragon Ball Heroes",
+      "SBDH",
+      "Super Dragon Ball Heroes: Big Bang Mission",
+      "Super Dragon Ball Heroes: Ultra God Mission",
+      "Super Dragon Ball Heroes: Universe Mission",
+      "db s7",
+      "スーパードラゴンボールヒーローズ",
+      "スーパードラゴンボールヒーローズ ユニバースミッション",
+      "ドラゴンボールヒーローズ",
+      "超级龙珠英雄",
+      "超龍珠英雄 監獄惑星篇",
+      "슈퍼 드래곤볼 히어로즈"
+    ]
+  },
+  {
+    "title": "劇場版 ポケットモンスター みんなの物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 精灵宝可梦 大家的故事"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/",
+    "begin": "2018-07-13T16:00:00.000Z",
+    "end": "2018-07-13T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "231970"
+      },
+      {
+        "site": "youku",
+        "id": "34d5a5beda334772994f",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200zyzgesv",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28228298",
+        "begin": "2018-07-12T16:00:00.000Z",
+        "broadcast": "R/2020-03-20T04:01:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "12646"
+      },
+      {
+        "site": "anidb",
+        "id": "14993"
+      },
+      {
+        "site": "anilist",
+        "id": "97634"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-movie-20-i-choose-you"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-movie-23-secrets-of-the-jungle"
+      },
+      {
+        "site": "anisearch",
+        "id": "12149"
+      },
+      {
+        "site": "anisearch",
+        "id": "14495"
+      },
+      {
+        "site": "kitsu",
+        "id": "43025"
+      },
+      {
+        "site": "livechart",
+        "id": "3702"
+      },
+      {
+        "site": "livechart",
+        "id": "3816"
+      },
+      {
+        "site": "livechart",
+        "id": "3979"
+      },
+      {
+        "site": "livechart",
+        "id": "3992"
+      },
+      {
+        "site": "livechart",
+        "id": "4045"
+      },
+      {
+        "site": "livechart",
+        "id": "4466"
+      },
+      {
+        "site": "livechart",
+        "id": "4505"
+      },
+      {
+        "site": "livechart",
+        "id": "5008"
+      },
+      {
+        "site": "livechart",
+        "id": "5217"
+      },
+      {
+        "site": "livechart",
+        "id": "5345"
+      },
+      {
+        "site": "livechart",
+        "id": "5371"
+      },
+      {
+        "site": "livechart",
+        "id": "5627"
+      },
+      {
+        "site": "livechart",
+        "id": "5641"
+      },
+      {
+        "site": "livechart",
+        "id": "5643"
+      },
+      {
+        "site": "livechart",
+        "id": "8945"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34034"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34540"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40881"
+      },
+      {
+        "site": "notify",
+        "id": "-SY3Pi0MR"
+      },
+      {
+        "site": "notify",
+        "id": "pExWhKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1580/90795.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1580/90795t.jpg",
+    "synonyms": [
+      "Film Pokémon: Siła jest w nas",
+      "Gekijouban Pocket Monster: Minna no Monogatari",
+      "Gekijouban Pocket Monsters: Minna no Monogatari",
+      "Gekijōban Pocket Monsters: Minna no Monogatari",
+      "Il film Pokémon: In ognuno di noi",
+      "Pocket Monsters: Minna no Monogatari",
+      "Pokemon Movie 21: The Power of Us",
+      "Pokemon the Movie: Everyone`s Story",
+      "Pokemon the Movie: The Power of Us",
+      "Pokemon: Everyone's Story",
+      "Pokemon: Movie 21",
+      "Pokemon: The Power of Us",
+      "Pokémon - Der Film: Die Macht in uns",
+      "Pokémon Film 21: Le pouvoir est en nous",
+      "Pokémon Movie 21",
+      "Pokémon Película 21: El Poder de Todos",
+      "Pokémon The Movie: The Power of Us",
+      "Pokémon film: Společně to zvládnem",
+      "Pokémon the Movie 21: Everyone`s Story",
+      "Pokémon the Movie 21: Our Story",
+      "Pokémon the Movie: Everyone's Story",
+      "Pokémon the Movie: Everyone’s Story",
+      "Pokémon the Movie: The Power of Us",
+      "Pokémon, le film : Le pouvoir est en nous",
+      "Pokémon: Der Film - Die Macht in uns",
+      "Pokémon: El poder de todos",
+      "Pokémon: Siła jest w nas",
+      "Pokémonfilmen: Kraften av oss",
+      "pm movie 21",
+      "Покемон-фильм: Сила Внутри Нас",
+      "剧场版 精灵宝可梦 大家的故事",
+      "劇場版 ポケットモンスター みんなの物語",
+      "劇場版ポケットモンスター みんなの物語"
+    ]
+  }
+]

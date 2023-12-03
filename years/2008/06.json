@@ -1,92 +1,415 @@
-{
-  "title": "ななみちゃん 第5シリーズ",
-  "titleTranslate": {
-    "zh-Hans": [
-      "魔法娜娜咪 第五季"
+[
+  {
+    "title": "テレパシー少女 蘭",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超能力少女兰",
+        "心灵感应少女兰",
+        "超能少女兰",
+        "心灵感应少女 兰"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www3.nhk.or.jp/anime/ran/",
+    "begin": "2008-06-21T09:25:00.000Z",
+    "end": "2008-12-20T09:50:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "GCgTkflfzw1w7lY",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "20683"
+      },
+      {
+        "site": "bilibili",
+        "id": "4799",
+        "begin": "2008-06-20T16:00:01.000Z",
+        "broadcast": "R/2016-06-14T04:23:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2008,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/21526.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/21526t.jpg",
+    "synonyms": [
+      "Telepathy Girl Ran",
+      "Telepathy Shojo Ran",
+      "Telepathy Shōjo Ran",
+      "The Telepathy Girl Ran",
+      "ran",
+      "てれぱしーしょうじょらん",
+      "テレパシー少女 蘭"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "",
-  "begin": "2008-06-08T16:00:00.000Z",
-  "end": "2008-10-12T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "216384"
+  {
+    "title": "一騎当千 Great Guardians",
+    "titleTranslate": {
+      "zh-Hans": [
+        "一骑当千 Great Guardians",
+        "一骑当千GG",
+        "一骑当千 第三部"
+      ]
     },
-    {
-      "site": "anidb",
-      "id": "9837"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.ikkitousen.com/",
+    "begin": "2008-06-11T00:30:00.000Z",
+    "end": "2008-08-27T01:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "4841"
+      },
+      {
+        "site": "anidb",
+        "id": "4870"
+      },
+      {
+        "site": "anidb",
+        "id": "7219"
+      },
+      {
+        "site": "anilist",
+        "id": "1956"
+      },
+      {
+        "site": "anilist",
+        "id": "5333"
+      },
+      {
+        "site": "anilist",
+        "id": "7580"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-dragon-destiny"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-dragon-destiny-hot-springs-grand-final-battle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-extravaganza-epoch"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-great-guardians-battle-tour-club-sexy-cosplay"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-shuugaku-toushi-keppuuroku"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-western-wolves"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-xtreme-xecutor"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-xtreme-xecutor-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shin-ikkitousen"
+      },
+      {
+        "site": "anisearch",
+        "id": "2537"
+      },
+      {
+        "site": "anisearch",
+        "id": "3981"
+      },
+      {
+        "site": "anisearch",
+        "id": "5064"
+      },
+      {
+        "site": "kitsu",
+        "id": "1762"
+      },
+      {
+        "site": "kitsu",
+        "id": "4061"
+      },
+      {
+        "site": "kitsu",
+        "id": "5037"
+      },
+      {
+        "site": "livechart",
+        "id": "10674"
+      },
+      {
+        "site": "livechart",
+        "id": "3543"
+      },
+      {
+        "site": "livechart",
+        "id": "3836"
+      },
+      {
+        "site": "livechart",
+        "id": "4017"
+      },
+      {
+        "site": "livechart",
+        "id": "4021"
+      },
+      {
+        "site": "livechart",
+        "id": "4883"
+      },
+      {
+        "site": "livechart",
+        "id": "491"
+      },
+      {
+        "site": "livechart",
+        "id": "4928"
+      },
+      {
+        "site": "livechart",
+        "id": "4991"
+      },
+      {
+        "site": "livechart",
+        "id": "5024"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1956"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5333"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7580"
+      },
+      {
+        "site": "notify",
+        "id": "8ZdCcFmig"
+      },
+      {
+        "site": "notify",
+        "id": "TyGktKimg"
+      },
+      {
+        "site": "notify",
+        "id": "guGL5FmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2008,
+      "month": "06"
     },
-    {
-      "site": "anidb",
-      "id": "9839"
-    },
-    {
-      "site": "anilist",
-      "id": "116046"
-    },
-    {
-      "site": "anilist",
-      "id": "116050"
-    },
-    {
-      "site": "anime-planet",
-      "id": "nanami-chan"
-    },
-    {
-      "site": "anime-planet",
-      "id": "nanami-chan-2nd-series"
-    },
-    {
-      "site": "anime-planet",
-      "id": "nanami-chan-3rd-series"
-    },
-    {
-      "site": "anime-planet",
-      "id": "nanami-chan-4th-series"
-    },
-    {
-      "site": "anime-planet",
-      "id": "nanami-chan-6th-series"
-    },
-    {
-      "site": "anisearch",
-      "id": "8945"
-    },
-    {
-      "site": "anisearch",
-      "id": "8947"
-    },
-    {
-      "site": "kitsu",
-      "id": "42575"
-    },
-    {
-      "site": "kitsu",
-      "id": "42577"
-    },
-    {
-      "site": "myanimelist",
-      "id": "40406"
-    },
-    {
-      "site": "myanimelist",
-      "id": "40408"
-    }
-  ],
-  "animeSeason": {
-    "season": "SUMMER",
-    "year": 2008,
-    "month": "06"
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/22922.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/22922t.jpg",
+    "synonyms": [
+      "Ikki Tousen - Great Guardians",
+      "Ikki Tousen Great Guardians",
+      "Ikki Tousen Saison 3: Great Guardians",
+      "Ikki Tousen: Great Guardians",
+      "Ikki Tousen: Season 3",
+      "Ikkitousen 3",
+      "Ikkitousen: Season 3",
+      "Ikkitōsen: Great Guardians",
+      "igg",
+      "ikki s3",
+      "ikki3",
+      "一騎当千 Great Guardians",
+      "一騎当千: Great Guardians",
+      "一骑当千 Great Guardians",
+      "일기당천 그레이트 가디언스"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 16,
-  "picture": "https://cdn.myanimelist.net/images/anime/1915/103065.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1915/103065t.jpg",
-  "synonyms": [
-    "Nanami-chan 5",
-    "ななみちゃん 第5シリーズ"
-  ]
-}
+  {
+    "title": "チョコレート・アンダーグラウンド",
+    "titleTranslate": {
+      "en": [
+        "Chocolate Underground"
+      ],
+      "zh-Hans": [
+        "地下巧克力"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.choco-bar.jp/",
+    "begin": "2008-06-12T03:00:00.000Z",
+    "end": "2008-06-12T03:05:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "ESkUkvpg0A5x71c",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "10559"
+      },
+      {
+        "site": "anidb",
+        "id": "11387"
+      },
+      {
+        "site": "anilist",
+        "id": "5238"
+      },
+      {
+        "site": "anime-planet",
+        "id": "chocolate-underground-bokura-no-chocolate-sensou"
+      },
+      {
+        "site": "anisearch",
+        "id": "6655"
+      },
+      {
+        "site": "kitsu",
+        "id": "4006"
+      },
+      {
+        "site": "livechart",
+        "id": "7325"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5238"
+      },
+      {
+        "site": "notify",
+        "id": "eFZjcKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2008,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/12400.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/12400t.jpg",
+    "synonyms": [
+      "Подземен Шоколад",
+      "Подпольный Шоколад",
+      "Шоколадне підпілля",
+      "ちょこれーと・あんだーぐらうんど",
+      "チョコレート・アンダーグラウンド"
+    ]
+  },
+  {
+    "title": "ななみちゃん 第5シリーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法娜娜咪 第五季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2008-06-08T16:00:00.000Z",
+    "end": "2008-10-12T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "216384"
+      },
+      {
+        "site": "anidb",
+        "id": "9837"
+      },
+      {
+        "site": "anidb",
+        "id": "9839"
+      },
+      {
+        "site": "anilist",
+        "id": "116046"
+      },
+      {
+        "site": "anilist",
+        "id": "116050"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nanami-chan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nanami-chan-2nd-series"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nanami-chan-3rd-series"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nanami-chan-4th-series"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nanami-chan-6th-series"
+      },
+      {
+        "site": "anisearch",
+        "id": "8945"
+      },
+      {
+        "site": "anisearch",
+        "id": "8947"
+      },
+      {
+        "site": "kitsu",
+        "id": "42575"
+      },
+      {
+        "site": "kitsu",
+        "id": "42577"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40406"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40408"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2008,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 16,
+    "picture": "https://cdn.myanimelist.net/images/anime/1915/103065.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1915/103065t.jpg",
+    "synonyms": [
+      "Nanami-chan 5",
+      "ななみちゃん 第5シリーズ"
+    ]
+  }
+]

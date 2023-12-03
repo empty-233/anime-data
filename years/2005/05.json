@@ -1,67 +1,499 @@
-{
-  "title": "鴉 -KARAS-",
-  "titleTranslate": {
-    "zh-Hans": [
-      "鸦 -KARAS-"
+[
+  {
+    "title": "雪の女王",
+    "titleTranslate": {
+      "zh-Hans": [
+        "雪之女王"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www3.nhk.or.jp/anime/snowqueen/",
+    "begin": "2005-05-22T10:30:00.000Z",
+    "end": "2006-02-12T10:55:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "1mVg3kasHFq9O6M",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "19519"
+      },
+      {
+        "site": "bilibili",
+        "id": "5081",
+        "begin": "2005-05-21T16:00:01.000Z",
+        "broadcast": "R/2016-06-23T04:23:00.000Z/P7D"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34946"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2005,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 36,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/26180.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/26180t.jpg",
+    "synonyms": [
+      "Karlar Kraliçesi",
+      "Królowa śniegu",
+      "The Snow Queen",
+      "The Snow Queen (TV)",
+      "YnJ",
+      "Yuki no Jo-Oh",
+      "Yuki no Joou",
+      "Yuki no Joō",
+      "tsq",
+      "Снежната Кралица",
+      "Снежная королева",
+      "ملكة الثلج",
+      "ゆきのじょおう",
+      "雪の女王"
     ]
   },
-  "type": "ova",
-  "lang": "ja",
-  "officialSite": "http://www.thekaras.net/",
-  "begin": "2005-05-28T16:00:00.000Z",
-  "end": "2007-10-26T16:30:00.000Z",
-  "sites": [
-    {
-      "site": "pptv",
-      "id": "VdibqKJD2ZqQHhe0",
-      "begin": ""
+  {
+    "title": "絶対少年",
+    "titleTranslate": {
+      "zh-Hans": [
+        "绝对少年"
+      ]
     },
-    {
-      "site": "bangumi",
-      "id": "2135"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://web.archive.org/web/*/www.zettai-shonen.com/",
+    "begin": "2005-05-20T23:06:00.000Z",
+    "end": "2005-11-18T23:32:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "12722"
+      },
+      {
+        "site": "bilibili",
+        "id": "3260",
+        "begin": "2005-05-20T16:00:01.000Z",
+        "broadcast": "R/2016-01-05T04:09:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2005,
+      "month": "05"
     },
-    {
-      "site": "letv",
-      "id": "29095",
-      "begin": ""
-    },
-    {
-      "site": "bilibili",
-      "id": "1857",
-      "begin": "2005-05-27T16:00:00.000Z",
-      "broadcast": "R/2013-04-13T21:04:00.000Z/P7D"
-    }
-  ],
-  "animeSeason": {
-    "season": "SPRING",
-    "year": 2005,
-    "month": "05"
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/4905.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/4905t.jpg",
+    "synonyms": [
+      "Absolute Boy",
+      "Zettai Shonen",
+      "Zettai Shōnen",
+      "ab",
+      "zs",
+      "Абсолютный парень",
+      "ぜったいしょうねん",
+      "絶対少年",
+      "绝对少年",
+      "절대소년"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 6,
-  "picture": "https://cdn.myanimelist.net/images/anime/1054/98245.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1054/98245t.jpg",
-  "synonyms": [
-    "Crow",
-    "KARAS",
-    "Karas: The Prophecy",
-    "Karas: The Revelation",
-    "Karga",
-    "Kruk",
-    "Raven",
-    "The Crow",
-    "The Karas",
-    "Varnas",
-    "Ворон",
-    "Гарван",
-    "Карас",
-    "קאראס",
-    "كاراس",
-    "คาราส อหังการปักษาทมิฬ",
-    "からす",
-    "鴉 -KARAS-",
-    "鴉 -Karas-",
-    "鸦 -KARAS-",
-    "카라스"
-  ]
-}
+  {
+    "title": "僕は妹に恋をする",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妹妹恋人"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.ponycanyon.co.jp/tpic/boku_imoto/",
+    "begin": "2005-05-08T16:00:00.000Z",
+    "end": "2005-05-08T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "4/4lz3b5jl9iaf2hm",
+        "begin": ""
+      },
+      {
+        "site": "letv",
+        "id": "22161",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "7258"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2005,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1178/121937.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1178/121937t.jpg",
+    "synonyms": [
+      "Boku wa Imouto ni Koi o Suru",
+      "Boku wa Imōto ni Koi o Suru",
+      "BwInKwS",
+      "I Love My Younger Sister",
+      "I'm In Love With My Sister",
+      "I'm My Little Sister's Secret",
+      "I'm in Love With My Little Sister",
+      "I`m My Little Sister`s Secret",
+      "Kız Kardeşime Aşığım",
+      "Lazos Prohibidos",
+      "Secret Sweethearts",
+      "Аз обичам по-малката си сестра",
+      "Я люблю свою сестренку",
+      "ぼくはいもうとにこいをする",
+      "僕は妹に恋をする",
+      "妹妹恋人"
+    ]
+  },
+  {
+    "title": "機動戦士Zガンダム -星を継ぐ者-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士Z高达 星之继承者"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.z-gundam.net/",
+    "begin": "2005-05-28T16:00:00.000Z",
+    "end": "2005-05-28T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "2/286vuymzp0bvolj",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "5378"
+      },
+      {
+        "site": "anidb",
+        "id": "3969"
+      },
+      {
+        "site": "anidb",
+        "id": "718"
+      },
+      {
+        "site": "anilist",
+        "id": "1092"
+      },
+      {
+        "site": "anilist",
+        "id": "1968"
+      },
+      {
+        "site": "anilist",
+        "id": "80"
+      },
+      {
+        "site": "anilist",
+        "id": "84"
+      },
+      {
+        "site": "anilist",
+        "id": "85"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-zeta-gundam"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-zeta-gundam-a-new-translation-ii-lovers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mobile-suit-zeta-gundam-a-new-translation-iii-love-is-the-pulse-of-the-stars"
+      },
+      {
+        "site": "anisearch",
+        "id": "1581"
+      },
+      {
+        "site": "anisearch",
+        "id": "1959"
+      },
+      {
+        "site": "kitsu",
+        "id": "1773"
+      },
+      {
+        "site": "kitsu",
+        "id": "59"
+      },
+      {
+        "site": "kitsu",
+        "id": "63"
+      },
+      {
+        "site": "kitsu",
+        "id": "64"
+      },
+      {
+        "site": "kitsu",
+        "id": "977"
+      },
+      {
+        "site": "livechart",
+        "id": "3938"
+      },
+      {
+        "site": "livechart",
+        "id": "4607"
+      },
+      {
+        "site": "livechart",
+        "id": "4659"
+      },
+      {
+        "site": "livechart",
+        "id": "4683"
+      },
+      {
+        "site": "livechart",
+        "id": "4695"
+      },
+      {
+        "site": "livechart",
+        "id": "4944"
+      },
+      {
+        "site": "livechart",
+        "id": "5926"
+      },
+      {
+        "site": "livechart",
+        "id": "5947"
+      },
+      {
+        "site": "livechart",
+        "id": "6906"
+      },
+      {
+        "site": "livechart",
+        "id": "6987"
+      },
+      {
+        "site": "livechart",
+        "id": "7514"
+      },
+      {
+        "site": "livechart",
+        "id": "7582"
+      },
+      {
+        "site": "livechart",
+        "id": "7717"
+      },
+      {
+        "site": "livechart",
+        "id": "7848"
+      },
+      {
+        "site": "livechart",
+        "id": "8121"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1092"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1968"
+      },
+      {
+        "site": "myanimelist",
+        "id": "80"
+      },
+      {
+        "site": "myanimelist",
+        "id": "84"
+      },
+      {
+        "site": "myanimelist",
+        "id": "85"
+      },
+      {
+        "site": "notify",
+        "id": "-att5Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "GRXJ5Kiig"
+      },
+      {
+        "site": "notify",
+        "id": "Y2VLcKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "aucpcKimR"
+      },
+      {
+        "site": "notify",
+        "id": "vTptcKmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2005,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/36701.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/36701t.jpg",
+    "synonyms": [
+      "Gundam: Kidou Senshi Z Gundam: A New Translation - Hoshi o Tsugu Mono",
+      "Kido Senshi Z Gundam - Hoshi wo Tsugu Mono",
+      "Kidou Senshi Z Gundam I: Hoshi o Tsugu Mono",
+      "Kidou Senshi Z Gundam: A New Translation - Hoshi o Tsugu Mono",
+      "Kidou Senshi Z Gundam: A New Translation - Hoshi wo Tsugu Mono",
+      "Kidou Senshi Z Gundam: Hoshi o Tsugu Mono",
+      "Kidou Senshi Zeta Gundam: A New Translation - Hoshi o Tsugu Mono",
+      "Kidō Senshi Z Gundam: A New Translation - Hoshi o Tsugu Mono",
+      "Mobile Suit Z Gundam A New Translation I - Eredi delle stelle",
+      "Mobile Suit Z Gundam I: A New Translation - Eredi delle stelle",
+      "Mobile Suit Zeta Gundam I",
+      "Mobile Suit Zeta Gundam: A New Translation - Heir to the Stars",
+      "Mobile Suit Zeta Gundam: A New Translation -Heirs to the Stars-",
+      "Mobile Suit Zeta Gundam: A New Translation I - Heir to the Stars",
+      "โมบิลสูท Z กันดั้ม ภาค 1 ตอน ผู้สืบทอดแห่งดวงดาว",
+      "机动战士Z高达 星之继承者",
+      "機動戦士Zガンダム -星を継ぐ者-",
+      "機動戦士Zガンダム A New Translation 星を継ぐ者",
+      "機動戦士ZガンダムI 星を継ぐ者",
+      "機動戦士Ζガンダム A New Translation -星を継ぐ者-"
+    ]
+  },
+  {
+    "title": "ガラスのうさぎ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "玻璃兔"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.ggvp.net/usagi/",
+    "begin": "2005-05-14T16:00:00.000Z",
+    "end": "2005-05-14T17:25:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "16357"
+      },
+      {
+        "site": "letv",
+        "id": "10008174",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5116",
+        "begin": "2005-05-13T16:00:01.000Z",
+        "broadcast": "R/2016-07-06T08:03:48.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2005,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1188/94727.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1188/94727t.jpg",
+    "synonyms": [
+      "Garasu no Usagi",
+      "Glass Rabbit",
+      "The Glass Rabbit",
+      "Стеклянный кролик",
+      "ガラスのうさぎ"
+    ]
+  },
+  {
+    "title": "鴉 -KARAS-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鸦 -KARAS-"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.thekaras.net/",
+    "begin": "2005-05-28T16:00:00.000Z",
+    "end": "2007-10-26T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "VdibqKJD2ZqQHhe0",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2135"
+      },
+      {
+        "site": "letv",
+        "id": "29095",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "1857",
+        "begin": "2005-05-27T16:00:00.000Z",
+        "broadcast": "R/2013-04-13T21:04:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2005,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/1054/98245.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1054/98245t.jpg",
+    "synonyms": [
+      "Crow",
+      "KARAS",
+      "Karas: The Prophecy",
+      "Karas: The Revelation",
+      "Karga",
+      "Kruk",
+      "Raven",
+      "The Crow",
+      "The Karas",
+      "Varnas",
+      "Ворон",
+      "Гарван",
+      "Карас",
+      "קאראס",
+      "كاراس",
+      "คาราส อหังการปักษาทมิฬ",
+      "からす",
+      "鴉 -KARAS-",
+      "鴉 -Karas-",
+      "鸦 -KARAS-",
+      "카라스"
+    ]
+  }
+]

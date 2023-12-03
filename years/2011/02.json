@@ -1,43 +1,882 @@
-{
-  "title": "マイの魔法と家庭の日",
-  "titleTranslate": {
-    "zh-Hans": [
-      "麻衣的魔法和家庭日"
+[
+  {
+    "title": "スイートプリキュア♪",
+    "titleTranslate": {
+      "en": [
+        "SUITE PRECURE"
+      ],
+      "zh-Hans": [
+        "组曲光之美少女♪",
+        "Suite光之美少女♪"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://asahi.co.jp/suite_precure/",
+    "begin": "2011-02-05T23:30:00.000Z",
+    "end": "2012-01-29T00:00:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb14k1",
+        "begin": "2015-08-14T17:08:48.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "11779"
+      },
+      {
+        "site": "anidb",
+        "id": "1413"
+      },
+      {
+        "site": "anidb",
+        "id": "8489"
+      },
+      {
+        "site": "anidb",
+        "id": "8751"
+      },
+      {
+        "site": "anilist",
+        "id": "100661"
+      },
+      {
+        "site": "anilist",
+        "id": "101908"
+      },
+      {
+        "site": "anilist",
+        "id": "105857"
+      },
+      {
+        "site": "anilist",
+        "id": "10736"
+      },
+      {
+        "site": "anilist",
+        "id": "10821"
+      },
+      {
+        "site": "anilist",
+        "id": "112748"
+      },
+      {
+        "site": "anilist",
+        "id": "11569"
+      },
+      {
+        "site": "anilist",
+        "id": "12191"
+      },
+      {
+        "site": "anilist",
+        "id": "12221"
+      },
+      {
+        "site": "anilist",
+        "id": "126905"
+      },
+      {
+        "site": "anilist",
+        "id": "142080"
+      },
+      {
+        "site": "anilist",
+        "id": "1534"
+      },
+      {
+        "site": "anilist",
+        "id": "157883"
+      },
+      {
+        "site": "anilist",
+        "id": "159429"
+      },
+      {
+        "site": "anilist",
+        "id": "16419"
+      },
+      {
+        "site": "anilist",
+        "id": "16442"
+      },
+      {
+        "site": "anilist",
+        "id": "1932"
+      },
+      {
+        "site": "anilist",
+        "id": "20549"
+      },
+      {
+        "site": "anilist",
+        "id": "20577"
+      },
+      {
+        "site": "anilist",
+        "id": "21001"
+      },
+      {
+        "site": "anilist",
+        "id": "21137"
+      },
+      {
+        "site": "anilist",
+        "id": "21504"
+      },
+      {
+        "site": "anilist",
+        "id": "21506"
+      },
+      {
+        "site": "anilist",
+        "id": "5684"
+      },
+      {
+        "site": "anilist",
+        "id": "603"
+      },
+      {
+        "site": "anilist",
+        "id": "7645"
+      },
+      {
+        "site": "anilist",
+        "id": "98059"
+      },
+      {
+        "site": "anilist",
+        "id": "9979"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dokidoki-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fresh-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "go-princess-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "happiness-charge-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "healin-good-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "heartcatch-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hugtto-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hugtto-pretty-cure-x-futari-wa-pretty-cure-movie-all-stars-memories"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kirakira-pretty-cure-a-la-mode"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mahou-tsukai-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-dx-3-mirai-ni-todoke-sekai-wo-tsunagu-niji-iro-no-hana"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-haru-no-carnival"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-minna-de-utau-kiseki-no-mahou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-new-stage-2-kokoro-no-tomodachi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-new-stage-3-eien-no-tomodachi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-all-stars-new-stage-mirai-no-tomodachi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-kara-minna-e-no-ouen-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-max-heart"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pretty-cure-splash-star"
+      },
+      {
+        "site": "anime-planet",
+        "id": "smile-precure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "star-twinkle-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "suite-pretty-cure-movie-torimodose-kokoro-ga-tsunagu-kiseki-no-melody"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tropical-rouge-pretty-cure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yes-pretty-cure-5"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yes-pretty-cure-5-gogo"
+      },
+      {
+        "site": "anisearch",
+        "id": "18342"
+      },
+      {
+        "site": "anisearch",
+        "id": "2594"
+      },
+      {
+        "site": "anisearch",
+        "id": "6603"
+      },
+      {
+        "site": "anisearch",
+        "id": "7163"
+      },
+      {
+        "site": "anisearch",
+        "id": "7387"
+      },
+      {
+        "site": "kitsu",
+        "id": "1375"
+      },
+      {
+        "site": "kitsu",
+        "id": "1739"
+      },
+      {
+        "site": "kitsu",
+        "id": "1742"
+      },
+      {
+        "site": "kitsu",
+        "id": "3199"
+      },
+      {
+        "site": "kitsu",
+        "id": "4243"
+      },
+      {
+        "site": "kitsu",
+        "id": "5065"
+      },
+      {
+        "site": "kitsu",
+        "id": "558"
+      },
+      {
+        "site": "kitsu",
+        "id": "6687"
+      },
+      {
+        "site": "kitsu",
+        "id": "7426"
+      },
+      {
+        "site": "kitsu",
+        "id": "8269"
+      },
+      {
+        "site": "livechart",
+        "id": "1252"
+      },
+      {
+        "site": "livechart",
+        "id": "1934"
+      },
+      {
+        "site": "livechart",
+        "id": "325"
+      },
+      {
+        "site": "livechart",
+        "id": "5603"
+      },
+      {
+        "site": "livechart",
+        "id": "5839"
+      },
+      {
+        "site": "livechart",
+        "id": "5937"
+      },
+      {
+        "site": "livechart",
+        "id": "905"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10736"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10821"
+      },
+      {
+        "site": "myanimelist",
+        "id": "12191"
+      },
+      {
+        "site": "myanimelist",
+        "id": "12221"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1534"
+      },
+      {
+        "site": "myanimelist",
+        "id": "16419"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1929"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1932"
+      },
+      {
+        "site": "myanimelist",
+        "id": "21407"
+      },
+      {
+        "site": "myanimelist",
+        "id": "28669"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31884"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34290"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34302"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36593"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3692"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38578"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40610"
+      },
+      {
+        "site": "myanimelist",
+        "id": "44191"
+      },
+      {
+        "site": "myanimelist",
+        "id": "50281"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53716"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5684"
+      },
+      {
+        "site": "myanimelist",
+        "id": "603"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7645"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9979"
+      },
+      {
+        "site": "notify",
+        "id": "-pNkpKimg"
+      },
+      {
+        "site": "notify",
+        "id": "0k6QH90WR"
+      },
+      {
+        "site": "notify",
+        "id": "3TDHtFimR"
+      },
+      {
+        "site": "notify",
+        "id": "5fDHtKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "Gb-opKiig"
+      },
+      {
+        "site": "notify",
+        "id": "Gmsx8N_4g"
+      },
+      {
+        "site": "notify",
+        "id": "INPKpKiig"
+      },
+      {
+        "site": "notify",
+        "id": "MssWhKimR"
+      },
+      {
+        "site": "notify",
+        "id": "QnWnpKmig"
+      },
+      {
+        "site": "notify",
+        "id": "TrDU4H0nR"
+      },
+      {
+        "site": "notify",
+        "id": "UEDl5Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "XRL4tKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "ZhI3pKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "fVOCkIAGR"
+      },
+      {
+        "site": "notify",
+        "id": "fgjTcKiig"
+      },
+      {
+        "site": "notify",
+        "id": "hgrEtFimg"
+      },
+      {
+        "site": "notify",
+        "id": "o_wj5KiiR"
+      },
+      {
+        "site": "notify",
+        "id": "re0WhFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "sdXVpKimR"
+      },
+      {
+        "site": "notify",
+        "id": "tEoqN0hVg"
+      },
+      {
+        "site": "notify",
+        "id": "tzmLcFiig"
+      },
+      {
+        "site": "notify",
+        "id": "yBkLcFmmg"
+      },
+      {
+        "site": "notify",
+        "id": "yo0-cKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2011,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 48,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/32129.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/32129t.jpg",
+    "synonyms": [
+      "Pretty Cure Season 08",
+      "Suite PreCure!",
+      "Suite Precure",
+      "Suite Pretty Cure",
+      "Suite Pretty Cure♪",
+      "Suite 光之美少女♪",
+      "precure8",
+      "supc",
+      "スイート プリキュア♪",
+      "スイートプリキュア♪"
     ]
   },
-  "type": "tv",
-  "lang": "ja",
-  "officialSite": "http://www.pref.toyama.jp/sections/1201/anime/index.html",
-  "begin": "2011-02-20T16:00:00.000Z",
-  "end": "2011-02-20T16:00:00.000Z",
-  "comment": "",
-  "sites": [
-    {
-      "site": "bangumi",
-      "id": "10610"
+  {
+    "title": "爆丸バトルブローラーズ メクタニウムサージ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爆丸4 机械波涛"
+      ]
     },
-    {
-      "site": "bilibili",
-      "id": "957",
-      "begin": "2011-02-19T16:00:00.000Z",
-      "broadcast": "R/2013-08-28T11:14:00.000Z/P7D"
-    }
-  ],
-  "animeSeason": {
-    "season": "WINTER",
-    "year": 2011,
-    "month": "02"
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.bakugan.jp/",
+    "begin": "2011-02-13T16:30:00.000Z",
+    "end": "2012-01-26T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "83253"
+      },
+      {
+        "site": "bilibili",
+        "id": "131672",
+        "begin": "2011-02-12T16:00:00.000Z",
+        "broadcast": "R/2018-09-07T08:26:26.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "7535"
+      },
+      {
+        "site": "anilist",
+        "id": "7334"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bakugan-battle-brawlers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bakugan-battle-brawlers-gundalian-invaders"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bakugan-battle-brawlers-new-vestroia"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bakugan-battle-planet"
+      },
+      {
+        "site": "anisearch",
+        "id": "5940"
+      },
+      {
+        "site": "kitsu",
+        "id": "4944"
+      },
+      {
+        "site": "livechart",
+        "id": "10470"
+      },
+      {
+        "site": "livechart",
+        "id": "10523"
+      },
+      {
+        "site": "livechart",
+        "id": "10524"
+      },
+      {
+        "site": "livechart",
+        "id": "11118"
+      },
+      {
+        "site": "livechart",
+        "id": "11851"
+      },
+      {
+        "site": "livechart",
+        "id": "12285"
+      },
+      {
+        "site": "livechart",
+        "id": "2996"
+      },
+      {
+        "site": "livechart",
+        "id": "4692"
+      },
+      {
+        "site": "livechart",
+        "id": "4814"
+      },
+      {
+        "site": "livechart",
+        "id": "5283"
+      },
+      {
+        "site": "livechart",
+        "id": "9830"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7334"
+      },
+      {
+        "site": "notify",
+        "id": "wIwRpKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2018,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 46,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/82083.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/82083t.jpg",
+    "synonyms": [
+      "Bakugan : La Déferlante Mechtanium",
+      "Bakugan Battle Brawlers: Survival Force",
+      "Bakugan: Apogeo Mechtanium",
+      "Bakugan: Mechtanium Surge",
+      "Bakugan: Mechtanium kitörés",
+      "Bakugan: Potenza Mechtanium",
+      "Bakugan: Świat Mechtoganów",
+      "Бакуган: Мектаниум се надига",
+      "爆丸 バトルブローラーズ サバイバル・フォース",
+      "爆丸 バトルブローラーズ メクタニウムサージ",
+      "爆丸4 机械波涛",
+      "爆丸バトルブローラーズ Mechtanium Surge",
+      "爆丸バトルブローラーズ メクタニウムサージ"
+    ]
   },
-  "status": "FINISHED",
-  "episodes": 1,
-  "picture": "https://cdn.myanimelist.net/images/anime/1475/127171.jpg",
-  "thumbnail": "https://cdn.myanimelist.net/images/anime/1475/127171t.jpg",
-  "synonyms": [
-    "Mai no Mahō to Katei no Hi",
-    "Mai, Magic and Family Day",
-    "maikate",
-    "まいかて",
-    "マイの魔法と家庭の日",
-    "麻衣的魔法和家庭日"
-  ]
-}
+  {
+    "title": "放課後のプレアデス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "放学后的昴星团 网络放送版"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://sbr-gx.jp",
+    "begin": "2011-02-01T16:00:00.000Z",
+    "end": "2011-02-01T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "AEo2tByC8jCTEXk",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "9820"
+      },
+      {
+        "site": "anidb",
+        "id": "8076"
+      },
+      {
+        "site": "anilist",
+        "id": "107862"
+      },
+      {
+        "site": "anilist",
+        "id": "9911"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kano-stella-rium"
+      },
+      {
+        "site": "anime-planet",
+        "id": "wish-upon-the-pleiades-2011"
+      },
+      {
+        "site": "anime-planet",
+        "id": "wish-upon-the-pleiades-manner-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "6596"
+      },
+      {
+        "site": "kitsu",
+        "id": "5937"
+      },
+      {
+        "site": "livechart",
+        "id": "4690"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35585"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9911"
+      },
+      {
+        "site": "notify",
+        "id": "oIjMtKiig"
+      },
+      {
+        "site": "notify",
+        "id": "y8JINVuiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2015,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/73434.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/73434t.jpg",
+    "synonyms": [
+      "Afterschool Pleiades",
+      "Hokago no Pleiades",
+      "Houkago no Pleiades",
+      "Houkago no Pleiades (2015)",
+      "Houkago no Pleiades TV",
+      "Hōkago no Pleiades (2015)",
+      "Wish Upon the Pleiades",
+      "Wish Upon the Pleiades (2015)",
+      "Wish Upon the Pleiades TV",
+      "Wish upon the Pleiades",
+      "ほうかごのぷれあです",
+      "放学后的昴星团",
+      "放學後的昴星團",
+      "放課後のプレアデス",
+      "放課後のプレアデス (2015)",
+      "放課後のプレアデス （2015）",
+      "방과후의 플레이아데스"
+    ]
+  },
+  {
+    "title": "コイ☆セント",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恋爱☆迁都"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://dbeat.bandaivisual.co.jp/koisento/",
+    "begin": "2011-02-25T16:00:00.000Z",
+    "end": "2011-02-25T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "hb2IBm7URILlY8s",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "14890"
+      },
+      {
+        "site": "bilibili",
+        "id": "2838",
+        "begin": "2011-02-24T16:00:00.000Z",
+        "broadcast": "R/2015-10-13T15:54:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2010,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/29297.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/29297t.jpg",
+    "synonyms": [
+      "Coicent",
+      "Koi Sento",
+      "Koisento",
+      "Koi☆Cent",
+      "こいせんと",
+      "コイ☆セント"
+    ]
+  },
+  {
+    "title": "マイの魔法と家庭の日",
+    "titleTranslate": {
+      "zh-Hans": [
+        "麻衣的魔法和家庭日"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.pref.toyama.jp/sections/1201/anime/index.html",
+    "begin": "2011-02-20T16:00:00.000Z",
+    "end": "2011-02-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10610"
+      },
+      {
+        "site": "bilibili",
+        "id": "957",
+        "begin": "2011-02-19T16:00:00.000Z",
+        "broadcast": "R/2013-08-28T11:14:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2011,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1475/127171.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1475/127171t.jpg",
+    "synonyms": [
+      "Mai no Mahō to Katei no Hi",
+      "Mai, Magic and Family Day",
+      "maikate",
+      "まいかて",
+      "マイの魔法と家庭の日",
+      "麻衣的魔法和家庭日"
+    ]
+  }
+]
