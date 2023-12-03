@@ -71,4 +71,4 @@ jobs:
         git checkout -b release
         git add .
         git commit -m "Auto Update Data"
-        git push -f -u origin release
+        git push -f
