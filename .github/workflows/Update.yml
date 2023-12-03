@@ -68,6 +68,8 @@ jobs:
         cp ./data.d.ts ./data
         cd data
         sed -i 's#./original-data/bangumi-data/data.d.ts#./bangumi-data/data.d.ts#' ./data.d.ts
+        git config --local user.name "My GitHub Actions Bot"
+        git config --local user.email "my-github-actions-bot@example.org"
         git add .
         git commit -m "Auto Update Data"
         git push -f
