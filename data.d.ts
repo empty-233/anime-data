@@ -1,5 +1,5 @@
 // @ts-ignore
-import { Item } from "./original-data/bangumi-data/data.js";
+import { Item } from "./original-data/bangumi-data/data.d.ts";
 
 declare type Season = "SPRING" | "SUMMER" | "FALL" | "WINTER" | "UNDEFINED";
 declare type Status = "UPCOMING" | "ONGOING" | "FINISHED";
