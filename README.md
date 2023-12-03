@@ -16,7 +16,7 @@
 ├── years                   # 年(按照bangumi-data仓库结构)
 │   └── [年]                # 以年份分割的目录
 |       └──[月].json        # 以月份分割的目录，番组以开播年月放在对应的文件中
-├── data.d.ts                  # data.d.ts(typescript声明文件)
+├── data.d.ts               # data.d.ts(typescript声明文件)
 └── data.json               # 全部数据
 ```
 
