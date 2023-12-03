@@ -35,6 +35,12 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'pnpm'
+
+    - name: Checkout release
+      uses: actions/checkout@v4
+      with:
+        ref: release
+        path: data
     
     - name: pnpm install
       run: pnpm install
@@ -54,12 +60,6 @@ jobs:
     #     file_pattern: 'data/'
     #     skip_dirty_check: true
 
-    - name: Checkout release
-      uses: actions/checkout@v4
-      with:
-        ref: release
-        path: data
-
     - name: Git push assets to release branch
       run: |
         rm -r data/bangumi-data
@@ -68,7 +68,6 @@ jobs:
         cp ./data.d.ts ./data
         cd data
         sed -i 's#./original-data/bangumi-data/data.d.ts#./bangumi-data/data.d.ts#' ./data.d.ts
-        git checkout -b release
         git add .
         git commit -m "Auto Update Data"
         git push -f
