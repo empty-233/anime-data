@@ -54,18 +54,21 @@ jobs:
     #     file_pattern: 'data/'
     #     skip_dirty_check: true
 
+    - name: Checkout release
+      uses: actions/checkout@v4
+      with:
+        ref: release
+        path: data
+
     - name: Git push assets to release branch
       run: |
+        rm data/bangumi-data
         mkdir data/bangumi-data
         cp ./original-data/bangumi-data/data.d.ts ./data/bangumi-data/data.d.ts
         cp ./data.d.ts ./data
         cd data
         sed -i 's#./original-data/bangumi-data/data.d.ts#./bangumi-data/data.d.ts#' ./data.d.ts
-        git init
-        git config --local user.name "My GitHub Actions Bot"
-        git config --local user.email "my-github-actions-bot@example.org"
         git checkout -b release
         git add .
         git commit -m "Auto Update Data"
-        git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
         git push -f -u origin release
