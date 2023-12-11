@@ -46,7 +46,7 @@ jobs:
       run: pnpm install
 
     - name: npm install ts-node
-      run: npm install -g ts-node
+      run: npm install -g ts-node@10.9.1
       
     - name: Run main.ts with ts-node-esm
       run: ts-node-esm main.ts
