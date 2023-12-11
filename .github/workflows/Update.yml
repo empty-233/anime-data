@@ -35,21 +35,21 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'pnpm'
+    
+    - name: pnpm install
+      run: pnpm install
+
+    - name: npm install ts-node
+      run: npm install -g ts-node
+      
+    - name: Run main.ts with ts-node-esm
+      run: ts-node-esm main.ts
 
     - name: Checkout release
       uses: actions/checkout@v4
       with:
         ref: release
         path: data
-    
-    - name: pnpm install
-      run: pnpm install
-
-    - name: npm install ts-node
-      run: npm install -g ts-node@10.9.1
-      
-    - name: Run main.ts with ts-node-esm
-      run: ts-node-esm main.ts
 
     # - uses: stefanzweifel/git-auto-commit-action@v5
     #   with:
