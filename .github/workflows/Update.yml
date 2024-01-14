@@ -75,5 +75,5 @@ jobs:
         git config --local user.name "My GitHub Actions Bot"
         git config --local user.email "my-github-actions-bot@example.org"
         git add .
-        git commit -m "Auto Update Data"
+        git diff-index --quiet HEAD || git commit -m "Auto Update Data"
         git push -f
