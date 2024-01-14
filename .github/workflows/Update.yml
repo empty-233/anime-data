@@ -45,6 +45,9 @@ jobs:
     - name: Run main.ts with tsx
       run: tsx main.ts
 
+    - name: Run ls
+      run: ls ./data
+
     - name: Checkout release
       uses: actions/checkout@v4
       with:
