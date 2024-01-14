@@ -69,7 +69,7 @@ jobs:
           mkdir git/bangumi-data
         fi
         cp -f ./original-data/bangumi-data/data.d.ts ./git/bangumi-data/data.d.ts
-        cp -f -r ./data/* ./git/*
+        cp -rf ./data/* ./git/
         cd git
         sed -i 's#./original-data/bangumi-data/data.d.ts#./bangumi-data/data.d.ts#' ./data.d.ts
         git config --local user.name "My GitHub Actions Bot"
