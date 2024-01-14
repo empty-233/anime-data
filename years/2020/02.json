@@ -96,6 +96,10 @@
       },
       {
         "site": "anilist",
+        "id": "171030"
+      },
+      {
+        "site": "anilist",
         "id": "1932"
       },
       {
@@ -432,13 +436,20 @@
       {
         "site": "nicovideo",
         "id": "goblins-crown",
-        "begin": ""
+        "begin": "2020-09-24T15:00:00.000Z",
+        "broadcast": "R/2020-09-24T15:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "104689",
         "begin": "2020-07-30T03:00:00.000Z",
         "broadcast": "R/2020-07-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "174-17",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -555,8 +566,8 @@
       {
         "site": "nicovideo",
         "id": "movie-shirobako",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-02-07T15:00:00.000Z",
+        "broadcast": "R/2021-02-07T15:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -654,8 +665,8 @@
       {
         "site": "nicovideo",
         "id": "sekai-ichi",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-06-10T15:00:00.000Z",
+        "broadcast": "R/2021-06-10T15:00:00.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
@@ -815,6 +826,65 @@
       "虫籠のカガステル",
       "蟲籠的卡伽斯特爾",
       "가가스테루의 습격"
+    ]
+  },
+  {
+    "title": "囀る鳥は羽ばたかない The clouds gather",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鸣鸟不飞 The clouds gather"
+      ],
+      "zh-Hant": [
+        "鳴鳥不飛：烏雲密布"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://saezuru.com/",
+    "begin": "2020-02-14T16:00:00.000Z",
+    "end": "2020-02-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "281305"
+      },
+      {
+        "site": "gamer",
+        "id": "108388",
+        "begin": "2023-10-20T04:00:00.000Z",
+        "broadcast": "R/2023-10-20T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "15395"
+      },
+      {
+        "site": "anisearch",
+        "id": "15399"
+      },
+      {
+        "site": "anisearch",
+        "id": "17273"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2020,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://www.anisearch.com/images/anime/cover/14/14374_400_300.webp",
+    "thumbnail": "https://www.anisearch.com/images/anime/cover/14/14374_400.webp",
+    "synonyms": [
+      "Pájaro que trina no vuela",
+      "Saezuru Tori wa Habatakanai",
+      "The Roaring Birds Do Not Fly",
+      "Twittering Birds Never Fly",
+      "Twittering Birds Never Fly: The Clouds Gather",
+      "囀る鳥は羽ばたかない",
+      "囀る鳥は羽ばたかない The clouds gather"
     ]
   }
 ]

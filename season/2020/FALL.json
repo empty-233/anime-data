@@ -52,6 +52,18 @@
         "broadcast": "R/2023-06-13T16:00:00.000Z/P7D"
       },
       {
+        "site": "nicovideo",
+        "id": "auo",
+        "begin": "2023-01-14T17:15:00.000Z",
+        "broadcast": "R/2023-01-14T17:15:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-151",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anilist",
         "id": "157294"
       },
@@ -125,8 +137,12 @@
       {
         "site": "nicovideo",
         "id": "tgcf-anime",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-07-07T03:00:00.000Z",
+        "broadcast": "R/2021-07-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "18218"
       },
       {
         "site": "anilist",
@@ -199,6 +215,49 @@
     ]
   },
   {
+    "title": "ぶらどらぶ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "吸血鬼之爱"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.vladlove.com/",
+    "begin": "2021-02-14T16:00:00.000Z",
+    "end": "2021-03-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "285424"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ichigo-animation",
+        "begin": "2021-02-13T15:00:00.000Z",
+        "broadcast": "R/2021-02-13T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2020,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1796/110394.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1796/110394t.jpg",
+    "synonyms": [
+      "VLAD LOVE",
+      "VLADLOVE",
+      "VladLove",
+      "Vladlove",
+      "ぶらどらぶ",
+      "ぶらどらぶ VLADLOVE"
+    ]
+  },
+  {
     "title": "WAVE!!～サーフィンやっぺ!!～",
     "titleTranslate": {
       "zh-Hans": [
@@ -227,8 +286,8 @@
       {
         "site": "nicovideo",
         "id": "wave-anime",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-01-17T03:00:00.000Z",
+        "broadcast": "R/2021-01-17T03:00:00.000Z/P7D"
       },
       {
         "site": "mytv",
@@ -342,6 +401,93 @@
     ]
   },
   {
+    "title": "ジョゼと虎と魚たち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "乔西的虎与鱼"
+      ],
+      "zh-Hant": [
+        "喬瑟與虎與魚群"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://joseetora.jp",
+    "begin": "2020-12-25T16:00:00.000Z",
+    "end": "2020-12-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "295778"
+      },
+      {
+        "site": "nicovideo",
+        "id": "joseetora",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "108993",
+        "begin": "2023-10-20T04:00:00.000Z",
+        "broadcast": "R/2023-10-20T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "126898"
+      },
+      {
+        "site": "anime-planet",
+        "id": "eve-ao-no-waltz"
+      },
+      {
+        "site": "myanimelist",
+        "id": "44407"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2020,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1714/108892.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1714/108892t.jpg",
+    "synonyms": [
+      "Josee to Tora to Sakanatachi",
+      "Josee, El Tigre i Els Peixos",
+      "Josee, el Tigre i els Peixos",
+      "Josee, el Tigre y les Peces",
+      "Josee, el Tigre y los Peces",
+      "Josee, la Tigre e i Pesci",
+      "Josee, the Tiger and the Fish",
+      "Josee, the Tiger and the Fish.",
+      "Josee: Khi nàng thơ yêu",
+      "Josie, der Tiger und die Fische",
+      "Josie, der Tiger und die Fische.",
+      "Josée, Le Tigre et Les Poissons.",
+      "Josée, la Tigre e i Pesci",
+      "Josée, le Tigre et les Poissons.",
+      "Josée, le tigre et les poissons",
+      "Joze to Tora to Sakana-tachi",
+      "joseetora",
+      "Žose, tigras ir žuvis",
+      "Её заветное желание",
+      "Жозе",
+      "Жозе, тигр и рыба",
+      "тигр і риба",
+      "โจเซ่ กับเสือและหมู่ปลา",
+      "โจเสะ กับเสือและมวลหมู่ปลา",
+      "ジョゼと虎と魚たち",
+      "ジョゼ虎",
+      "乔西的虎与鱼",
+      "喬瑟與虎與魚群",
+      "조제, 호랑이 그리고 물고기들"
+    ]
+  },
+  {
     "title": "アーヤと魔女",
     "titleTranslate": {
       "zh-Hans": [
@@ -398,6 +544,202 @@
     ]
   },
   {
+    "title": "劇場版ポケットモンスター ココ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宝可梦：皮卡丘和可可的冒险"
+      ],
+      "zh-Hant": [
+        "寶可夢：皮卡丘與可可的冒險"
+      ],
+      "en": [
+        "Pokémon the Movie: Secrets of the Jungle"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.pokemon-movie.jp/",
+    "begin": "2020-12-25T16:00:00.000Z",
+    "end": "2020-12-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "298119"
+      },
+      {
+        "site": "netflix",
+        "id": "81346307",
+        "begin": "2021-10-07T16:00:00.000Z",
+        "broadcast": "R/2021-10-07T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "109489",
+        "begin": "2022-07-01T04:00:00.000Z",
+        "broadcast": "R/2022-07-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "13649"
+      },
+      {
+        "site": "anilist",
+        "id": "112153"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-movie-20-i-choose-you"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon-movie-21-the-power-of-us"
+      },
+      {
+        "site": "anisearch",
+        "id": "13125"
+      },
+      {
+        "site": "anisearch",
+        "id": "18067"
+      },
+      {
+        "site": "kitsu",
+        "id": "41413"
+      },
+      {
+        "site": "kitsu",
+        "id": "42534"
+      },
+      {
+        "site": "livechart",
+        "id": "3702"
+      },
+      {
+        "site": "livechart",
+        "id": "3816"
+      },
+      {
+        "site": "livechart",
+        "id": "3979"
+      },
+      {
+        "site": "livechart",
+        "id": "3992"
+      },
+      {
+        "site": "livechart",
+        "id": "4045"
+      },
+      {
+        "site": "livechart",
+        "id": "4466"
+      },
+      {
+        "site": "livechart",
+        "id": "4505"
+      },
+      {
+        "site": "livechart",
+        "id": "5008"
+      },
+      {
+        "site": "livechart",
+        "id": "5217"
+      },
+      {
+        "site": "livechart",
+        "id": "5332"
+      },
+      {
+        "site": "livechart",
+        "id": "5345"
+      },
+      {
+        "site": "livechart",
+        "id": "5371"
+      },
+      {
+        "site": "livechart",
+        "id": "5627"
+      },
+      {
+        "site": "livechart",
+        "id": "5641"
+      },
+      {
+        "site": "livechart",
+        "id": "8945"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36927"
+      },
+      {
+        "site": "myanimelist",
+        "id": "527"
+      },
+      {
+        "site": "notify",
+        "id": "qI2bVAvmg"
+      },
+      {
+        "site": "notify",
+        "id": "sv1ocKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2020,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1029/106237.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1029/106237t.jpg",
+    "synonyms": [
+      "Film Pokémon: Sekrety Dżungli",
+      "Film Pokémon: Sekrety dżungli",
+      "Gekijouban Pocket Monsters Coco",
+      "Gekijouban Pocket Monsters Koko",
+      "Gekijouban Pocket Monsters: Coco",
+      "Gekijouban Pocket Monsters: Koko",
+      "Gekijōban Pocket Monsters Koko",
+      "Pocket Monsters: Coco",
+      "Pocket Monsters: Koko",
+      "Pokemon Movie 23: Coco",
+      "Pokemon Movie 23: Secrets of the Jungle",
+      "Pokemon the Movie: Secrets of the Jungle",
+      "Pokemon with You",
+      "Pokemon: Coco",
+      "Pokemon: Movie 23",
+      "Pokémon - Der Film: Geheimnisse des Dschungels",
+      "Pokémon Film 23: Geheimnisse des Dschungels",
+      "Pokémon Film 23: Les Secrets de la Jungle",
+      "Pokémon Filmen: Djungelns Hemligheter",
+      "Pokémon Movie 23: Koko",
+      "Pokémon Película 23: Los Secretos de la Selva",
+      "Pokémon the Movie: Secrets of the Jungle",
+      "Pokémon, le film : Les secrets de la jungle",
+      "Pokémon-filmen: Junglens hemmeligheder",
+      "Pokémon: Coco",
+      "Pokémon: Der Film - Geheimnisse des Dschungels",
+      "Pokémon: I segreti della giungla",
+      "Pokémon: Koko",
+      "Pokémon: Los secretos de la selva",
+      "Pokémonfilmen: Jungelens Hemmeligheter",
+      "pm movie 23",
+      "Покемон-фильм: Секреты джунглей",
+      "ポケットモンスターココ",
+      "劇場版ポケットモンスター ココ",
+      "精灵宝可梦：可可"
+    ]
+  },
+  {
     "title": "デート・ア・バレット　ナイトメア・オア・クイーン",
     "titleTranslate": {
       "zh-Hans": [
@@ -422,8 +764,8 @@
       {
         "site": "nicovideo",
         "id": "date-a-bullet-movie2",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-03-23T15:00:00.000Z",
+        "broadcast": "R/2021-03-23T15:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -557,8 +899,8 @@
       {
         "site": "nicovideo",
         "id": "movie-monster-strike",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-06-02T15:00:00.000Z",
+        "broadcast": "R/2021-06-02T15:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -717,8 +1059,8 @@
       {
         "site": "nicovideo",
         "id": "kimikana",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-05-09T03:00:00.000Z",
+        "broadcast": "R/2021-05-09T03:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -772,8 +1114,8 @@
       {
         "site": "nicovideo",
         "id": "grisaia-pt-movie",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-04-30T15:00:00.000Z",
+        "broadcast": "R/2021-04-30T15:00:00.000Z/P7D"
       },
       {
         "site": "anilist",
@@ -1047,6 +1389,149 @@
     ]
   },
   {
+    "title": "魔女見習いをさがして",
+    "titleTranslate": {
+      "zh-Hans": [
+        "寻找见习魔女"
+      ],
+      "zh-Hant": [
+        "尋找小魔女 DoReMi"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://lookingfor-magical-doremi.com/",
+    "begin": "2020-11-12T16:00:00.000Z",
+    "end": "2020-11-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "278898"
+      },
+      {
+        "site": "gamer",
+        "id": "104714",
+        "begin": "2023-09-13T04:00:00.000Z",
+        "broadcast": "R/2023-09-13T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lookingfor-magical-doremi",
+        "begin": "2021-12-22T15:00:00.000Z",
+        "broadcast": "R/2021-12-22T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1767"
+      },
+      {
+        "site": "anidb",
+        "id": "888"
+      },
+      {
+        "site": "anilist",
+        "id": "150201"
+      },
+      {
+        "site": "anilist",
+        "id": "350"
+      },
+      {
+        "site": "anime-planet",
+        "id": "motto-ojamajo-doremi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ojamajo-doremi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ojamajo-doremi-dokkaan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ojamajo-doremi-sharp"
+      },
+      {
+        "site": "anisearch",
+        "id": "3083"
+      },
+      {
+        "site": "livechart",
+        "id": "5331"
+      },
+      {
+        "site": "livechart",
+        "id": "5450"
+      },
+      {
+        "site": "livechart",
+        "id": "5563"
+      },
+      {
+        "site": "livechart",
+        "id": "5570"
+      },
+      {
+        "site": "livechart",
+        "id": "6781"
+      },
+      {
+        "site": "livechart",
+        "id": "6859"
+      },
+      {
+        "site": "livechart",
+        "id": "6878"
+      },
+      {
+        "site": "livechart",
+        "id": "7223"
+      },
+      {
+        "site": "myanimelist",
+        "id": "350"
+      },
+      {
+        "site": "notify",
+        "id": "oJPh5KimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2020,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1937/110713.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1937/110713t.jpg",
+    "synonyms": [
+      "Alla ricerca di Magica Doremì",
+      "Buscanda a la Mágica Doremi",
+      "Buscando a la Mágica Doremi",
+      "Buscant la màgica DoReMi",
+      "Buscant la màgica Doremi",
+      "Looking for Magical DoReMi",
+      "Looking for Magical Doremi",
+      "Looking for Witch Apprentices",
+      "Magical DoReMi Movie",
+      "Magical Doremi à la Recherche des apprenties sorcières",
+      "Majo Minarai o Sagashite",
+      "Majo Minarai wo Sagashite, Magical DoReMi Movie, Useless Witchgirl Doremi Movie",
+      "Ojamajo Doremi (2020)",
+      "Ojamajo Doremi: Majo Minarai o Sagashite (おジャ魔女どれみ 魔女見習いをさがして)",
+      "Ojamajo Doremi: Majo Minarai wo Sagashite (おジャ魔女どれみ 魔女見習いをさがして)",
+      "Searching for Witch Apprentices",
+      "Useless Witchgirl Doremi Movie",
+      "おジャ魔女どれみ (2020)",
+      "寻找见习魔女",
+      "尋找小魔女 DoReMi",
+      "魔女見習いをさがして"
+    ]
+  },
+  {
     "title": "ご注文はうさぎですか？BLOOM",
     "titleTranslate": {
       "en": [
@@ -1096,6 +1581,12 @@
         "id": "101411",
         "begin": "2020-10-10T14:00:00.000Z",
         "broadcast": "R/2020-10-10T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "117-6zrzjibaxzh",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -1317,6 +1808,12 @@
         "broadcast": ""
       },
       {
+        "site": "abema",
+        "id": "174-3",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "13829"
       },
@@ -1507,6 +2004,7 @@
       "danmachi3",
       "هل من الخطأ الإيقاع بفتياتٍ في ديماس؟ III",
       "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน ภาค 3",
+      "ダンまちⅢ",
       "ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH III",
       "ダンジョンに出会いを求めるのは間違っているだろうか III",
       "ダンジョンに出会いを求めるのは間違っているだろうかIII",
@@ -1567,6 +2065,12 @@
         "broadcast": "R/2020-10-03T17:00:00.000Z/P7D"
       },
       {
+        "site": "abema",
+        "id": "25-2xrwzkrsieb",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "10182"
       },
@@ -1601,10 +2105,6 @@
       {
         "site": "anime-planet",
         "id": "the-irregular-at-magic-high-school-movie-the-girl-who-summons-the-stars"
-      },
-      {
-        "site": "anime-planet",
-        "id": "the-irregular-at-magic-high-school-new"
       },
       {
         "site": "anime-planet",
@@ -1748,6 +2248,12 @@
         "id": "109387",
         "begin": "2020-10-07T13:30:00.000Z",
         "broadcast": "R/2020-10-07T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-151",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -2377,6 +2883,12 @@
         "broadcast": "R/2020-10-02T13:30:00.000Z/P7D"
       },
       {
+        "site": "abema",
+        "id": "174-18",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anilist",
         "id": "129839"
       },
@@ -2512,6 +3024,12 @@
         "id": "109015",
         "begin": "2020-10-02T16:30:00.000Z",
         "broadcast": "R/2020-10-02T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-108",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -3276,6 +3794,12 @@
         "broadcast": "R/2020-10-03T15:00:00.000Z/P7D"
       },
       {
+        "site": "abema",
+        "id": "13-123",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "15379"
       },
@@ -3458,6 +3982,10 @@
       {
         "site": "myanimelist",
         "id": "55748"
+      },
+      {
+        "site": "myanimelist",
+        "id": "57623"
       },
       {
         "site": "notify",
@@ -4353,6 +4881,10 @@
       {
         "site": "anime-planet",
         "id": "hatena-yume-ja-nai"
+      },
+      {
+        "site": "kitsu",
+        "id": "48131"
       },
       {
         "site": "myanimelist",
@@ -5478,7 +6010,7 @@
       "month": "09"
     },
     "status": "ONGOING",
-    "episodes": 109,
+    "episodes": 111,
     "picture": "https://cdn.myanimelist.net/images/anime/1994/108212.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1994/108212t.jpg",
     "synonyms": [
@@ -5487,181 +6019,6 @@
       "The Supernatural Sweet Shop",
       "ふしぎ駄菓子屋 銭天堂",
       "神奇柑仔店"
-    ]
-  },
-  {
-    "title": "劇場版 ヴァイオレット・エヴァーガーデン",
-    "titleTranslate": {
-      "zh-Hans": [
-        "剧场版 紫罗兰永恒花园"
-      ],
-      "zh-Hant": [
-        "紫羅蘭永恆花園劇場版"
-      ],
-      "en": [
-        "Violet Evergarden the Movie"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "http://www.violet-evergarden.jp/",
-    "begin": "2020-09-17T16:00:00.000Z",
-    "end": "2020-09-17T16:00:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "242216"
-      },
-      {
-        "site": "netflix",
-        "id": "81193214",
-        "begin": "2020-09-16T16:00:00.000Z",
-        "broadcast": "R/2020-09-16T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "12138"
-      },
-      {
-        "site": "anilist",
-        "id": "109190"
-      },
-      {
-        "site": "anime-planet",
-        "id": "violet-evergarden"
-      },
-      {
-        "site": "anime-planet",
-        "id": "violet-evergarden-eternity-and-the-auto-memory-doll"
-      },
-      {
-        "site": "anime-planet",
-        "id": "violet-evergarden-special"
-      },
-      {
-        "site": "anisearch",
-        "id": "11480"
-      },
-      {
-        "site": "kitsu",
-        "id": "12230"
-      },
-      {
-        "site": "livechart",
-        "id": "11685"
-      },
-      {
-        "site": "livechart",
-        "id": "2197"
-      },
-      {
-        "site": "livechart",
-        "id": "3199"
-      },
-      {
-        "site": "livechart",
-        "id": "9419"
-      },
-      {
-        "site": "myanimelist",
-        "id": "33352"
-      },
-      {
-        "site": "notify",
-        "id": "yF1RhKiiR"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2020,
-      "month": "09"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1825/110716.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1825/110716t.jpg",
-    "synonyms": [
-      "Gekijouban Violet Evergarden",
-      "Gekijōban Violet Evergarden",
-      "Violet Evergarden - film",
-      "Violet Evergarden : Le Film",
-      "Violet Evergarden movie",
-      "Violet Evergarden the Movie",
-      "Violet Evergarden – film",
-      "Violet Evergarden: Der Film",
-      "Violet Evergarden: Il Film",
-      "Violet Evergarden: La película",
-      "Violet Evergarden: Le film",
-      "Violet Evergarden: O Filme",
-      "Violet Evergarden: The Movie",
-      "Violet Evergarden: the Movie",
-      "violet movie",
-      "Вайоллет Эвергарден",
-      "Виолетта Эвергарден",
-      "剧场版 紫罗兰永恒花园",
-      "劇場版 ヴァイオレット・エヴァーガーデン",
-      "劇場版 紫羅蘭永恆花園",
-      "薇尔莉特·伊芙加登",
-      "극장판 바이올렛 에버가든"
-    ]
-  },
-  {
-    "title": "思い、思われ、ふり、ふられ",
-    "titleTranslate": {
-      "zh-Hans": [
-        "恋途未卜"
-      ],
-      "zh-Hant": [
-        "交錯的想念"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "https://furifura-movie-animation.jp",
-    "begin": "2020-09-17T16:00:00.000Z",
-    "end": "2020-09-17T16:00:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "281096"
-      },
-      {
-        "site": "gamer",
-        "id": "105203",
-        "begin": "2022-04-08T04:00:00.000Z",
-        "broadcast": "R/2022-04-08T04:00:00.000Z/P7D"
-      },
-      {
-        "site": "anime-planet",
-        "id": "bump-of-chicken-gravity"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2020,
-      "month": "09"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1418/108748.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1418/108748t.jpg",
-    "synonyms": [
-      "Furi Fura",
-      "Furifura",
-      "Love Me",
-      "Love Me Not",
-      "Love Me, Love Me Not",
-      "Love, Be Loved, Leave, Be Left",
-      "Love, Be Loved, Leave, Be Left, Furifura",
-      "Miracles of Love: Nimm dein Schicksal in die Hand",
-      "Любит — не любит",
-      "ふりふら",
-      "交錯的想念",
-      "思い, 思われ, ふり, ふられ",
-      "思い、思われ、ふり、ふられ",
-      "恋途未卜"
     ]
   },
   {
@@ -5689,7 +6046,8 @@
       {
         "site": "nicovideo",
         "id": "hxeros",
-        "begin": "2020-07-06T03:00:00.000Z"
+        "begin": "2020-07-06T03:00:00.000Z",
+        "broadcast": "R/2020-07-06T03:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -5760,6 +6118,96 @@
     ]
   },
   {
+    "title": "かいじゅうステップ ワンダバダ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小怪兽成长日记 蹒跚学步"
+      ],
+      "zh-Hant": [
+        "小怪獸成長日記"
+      ],
+      "en": [
+        "THE KAIJU STEP"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.kaijustep.com/anime/",
+    "begin": "2019-09-27T16:00:00.000Z",
+    "end": "2020-03-27T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302157"
+      },
+      {
+        "site": "youku",
+        "id": "abfbce7364264ae09321",
+        "begin": "2020-05-07T09:43:28.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kaijustep",
+        "begin": "2020-09-02T15:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28338170",
+        "begin": "2022-05-31T16:00:05.000Z",
+        "broadcast": "R/2022-05-31T16:00:05.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "131761",
+        "begin": "2023-04-28T03:00:00.000Z",
+        "broadcast": "R/2023-04-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "14806"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kaijuu-step-wandabada"
+      },
+      {
+        "site": "anisearch",
+        "id": "14642"
+      },
+      {
+        "site": "kitsu",
+        "id": "42594"
+      },
+      {
+        "site": "livechart",
+        "id": "9399"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39628"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2020,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/1934/109054.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1934/109054t.jpg",
+    "synonyms": [
+      "Kaiju Step Wandabada 2nd Season",
+      "Kaijuu Step Wandabada Dai 2 Series",
+      "Kaijū Step Wandabada 2nd Season",
+      "The Kaiju Step 2nd Season",
+      "かいじゅうステップ ワンダバダ",
+      "かいじゅうステップ ワンダバダ 2シリーズ",
+      "かいじゅうステップ　ワンダバダ 第2シリーズ"
+    ]
+  },
+  {
     "title": "せいぜいがんばれ！魔法少女くるみ",
     "titleTranslate": {},
     "type": "web",
@@ -5775,7 +6223,8 @@
       {
         "site": "nicovideo",
         "id": "seizeiganbare",
-        "begin": "2017-08-12T03:00:00.000Z"
+        "begin": "2017-08-12T03:00:00.000Z",
+        "broadcast": "R/2017-08-12T03:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -5872,13 +6321,20 @@
       {
         "site": "nicovideo",
         "id": "oyashirosama",
-        "begin": "2016-08-23T03:00:00.000Z"
+        "begin": "2016-08-23T03:00:00.000Z",
+        "broadcast": "R/2016-08-23T03:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
         "id": "70308793",
         "begin": "2019-07-30T16:00:00.000Z",
         "broadcast": "R/2019-07-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "117-1m-6rcjtu92",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",

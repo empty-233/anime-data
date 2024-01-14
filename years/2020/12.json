@@ -85,6 +85,12 @@
         "broadcast": ""
       },
       {
+        "site": "abema",
+        "id": "30-5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "14977"
       },
@@ -245,8 +251,8 @@
     "synonyms": [
       "AoT 4",
       "AoT Final Season Part 2",
+      "Ataque a los Titanes. Temporada Final - Parte 2",
       "Attack on Titan Final Season Part 2",
-      "Attack on Titan Final Season Parte 2",
       "Attack on Titan Season 4",
       "Attack on Titan Season 4 Part 2",
       "Attack on Titan The Final Season (2022)",
@@ -500,6 +506,10 @@
       },
       {
         "site": "livechart",
+        "id": "12430"
+      },
+      {
+        "site": "livechart",
         "id": "2403"
       },
       {
@@ -586,6 +596,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "乔西的虎与鱼"
+      ],
+      "zh-Hant": [
+        "喬瑟與虎與魚群"
       ]
     },
     "type": "movie",
@@ -606,16 +619,26 @@
         "broadcast": ""
       },
       {
+        "site": "gamer",
+        "id": "108993",
+        "begin": "2023-10-20T04:00:00.000Z",
+        "broadcast": "R/2023-10-20T04:00:00.000Z/P7D"
+      },
+      {
         "site": "anilist",
         "id": "126898"
       },
       {
         "site": "anime-planet",
         "id": "eve-ao-no-waltz"
+      },
+      {
+        "site": "myanimelist",
+        "id": "44407"
       }
     ],
     "animeSeason": {
-      "season": "WINTER",
+      "season": "FALL",
       "year": 2020,
       "month": "12"
     },
@@ -821,6 +844,10 @@
       },
       {
         "site": "livechart",
+        "id": "5332"
+      },
+      {
+        "site": "livechart",
         "id": "5345"
       },
       {
@@ -834,10 +861,6 @@
       {
         "site": "livechart",
         "id": "5641"
-      },
-      {
-        "site": "livechart",
-        "id": "5643"
       },
       {
         "site": "livechart",
@@ -861,7 +884,7 @@
       }
     ],
     "animeSeason": {
-      "season": "SUMMER",
+      "season": "FALL",
       "year": 2020,
       "month": "12"
     },
@@ -888,6 +911,7 @@
       "Pokémon - Der Film: Geheimnisse des Dschungels",
       "Pokémon Film 23: Geheimnisse des Dschungels",
       "Pokémon Film 23: Les Secrets de la Jungle",
+      "Pokémon Filmen: Djungelns Hemligheter",
       "Pokémon Movie 23: Koko",
       "Pokémon Película 23: Los Secretos de la Selva",
       "Pokémon the Movie: Secrets of the Jungle",

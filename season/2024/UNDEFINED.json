@@ -3,7 +3,8 @@
     "title": "カミエラビ GOD.app",
     "titleTranslate": {
       "zh-Hans": [
-        "神选"
+        "神选",
+        "神明选拔"
       ]
     },
     "type": "tv",
@@ -11,12 +12,24 @@
     "officialSite": "https://kamierabi.com/",
     "begin": "2023-10-04T15:55:00.000Z",
     "broadcast": "R/2023-10-04T15:55:00.000Z/P7D",
-    "end": "",
+    "end": "2023-12-20T16:35:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "425601"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kamierabi",
+        "begin": "2023-10-10T03:00:00.000Z",
+        "broadcast": "R/2023-10-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-172",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "myanimelist",
@@ -33,126 +46,137 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1516/139247.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1516/139247t.jpg",
     "synonyms": [
-      "KamiErabi GOD.app 2nd Season",
+      "KamiErabi GOD.app Season 2",
       "カミエラビ GOD.app"
     ]
   },
   {
-    "title": "【推しの子】",
+    "title": "精霊幻想記",
     "titleTranslate": {
-      "zh-Hans": [
-        "【我推的孩子】"
-      ],
-      "zh-Hant": [
-        "【我推的孩子】"
-      ],
       "en": [
-        "【Oshi No Ko】"
+        "Spirit Chronicles"
+      ],
+      "zh-Hans": [
+        "精灵幻想记"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://ichigoproduction.com/",
-    "begin": "2023-04-12T14:00:00.000Z",
-    "broadcast": "R/2023-04-12T14:00:00.000Z/P7D",
-    "end": "2023-06-28T14:30:00.000Z",
+    "officialSite": "http://seireigensouki.com/",
+    "begin": "2021-07-05T17:00:00.000Z",
+    "broadcast": "R/2021-07-05T17:00:00.000Z/P7D",
+    "end": "2021-09-20T17:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
-        "id": "386809"
+        "id": "320851"
       },
       {
-        "site": "ani_one_asia",
-        "id": "PLxSscENEp7Jhas5i3D5PMB2HNS6Z6HJF2",
-        "begin": "2023-04-12T15:00:00.000Z",
-        "broadcast": "R/2023-04-12T15:00:00.000Z/P7D"
+        "site": "bilibili",
+        "id": "28234625",
+        "begin": "2021-07-05T17:00:01.000Z",
+        "broadcast": "R/2021-07-05T17:00:01.000Z/P7D"
       },
       {
-        "site": "ani_one",
-        "id": "PLC18xlbCdwtQ4MUqIQ_WXCfYVD_2OJGHp",
-        "begin": "2023-04-12T15:00:00.000Z",
-        "broadcast": "R/2023-04-12T15:00:00.000Z/P7D",
-        "comment": "粵語版: PLC18xlbCdwtSzlUic_X__m871jQes2c-I"
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234720",
+        "begin": "2021-07-05T17:00:01.000Z",
+        "broadcast": "R/2021-07-05T17:00:01.000Z/P7D"
       },
       {
-        "site": "viu",
-        "id": "2120482",
-        "begin": "2023-04-12T15:00:00.000Z",
-        "broadcast": "R/2023-04-12T15:00:00.000Z/P7D",
-        "comment": "粵語版: 2252089"
+        "site": "nicovideo",
+        "id": "seireigensouki",
+        "begin": "2022-08-21T15:00:00.000Z",
+        "broadcast": "R/2022-08-21T15:00:00.000Z/P7D"
       },
       {
-        "site": "netflix",
-        "id": "81684733",
-        "begin": "2023-04-12T15:00:00.000Z",
-        "broadcast": "R/2023-04-12T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "128085",
-        "begin": "2023-04-12T15:00:00.000Z",
-        "broadcast": "R/2023-04-12T15:00:00.000Z/P7D"
+        "site": "abema",
+        "id": "169-116",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
-        "id": "17449"
+        "id": "15875"
       },
       {
         "site": "anilist",
-        "id": "150672"
+        "id": "126546"
+      },
+      {
+        "site": "anilist",
+        "id": "167990"
       },
       {
         "site": "anime-planet",
-        "id": "oshi-no-ko"
+        "id": "seirei-gensouki-spirit-chronicles"
+      },
+      {
+        "site": "anime-planet",
+        "id": "seirei-gensouki-spirit-chronicles-season-2-mini-anime"
       },
       {
         "site": "anisearch",
-        "id": "17452"
+        "id": "15782"
       },
       {
         "site": "kitsu",
-        "id": "46170"
+        "id": "44174"
       },
       {
         "site": "livechart",
-        "id": "11247"
+        "id": "10238"
+      },
+      {
+        "site": "livechart",
+        "id": "10606"
+      },
+      {
+        "site": "livechart",
+        "id": "12287"
       },
       {
         "site": "myanimelist",
-        "id": "52034"
+        "id": "44203"
+      },
+      {
+        "site": "myanimelist",
+        "id": "56178"
       },
       {
         "site": "notify",
-        "id": "JBDkzdj7R"
+        "id": "GV752OgIR"
+      },
+      {
+        "site": "notify",
+        "id": "pEUqs4AGg"
       }
     ],
     "animeSeason": {
       "season": "UNDEFINED",
       "year": 2024,
-      "month": "04"
+      "month": "07"
     },
     "status": "UPCOMING",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1915/139947.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1915/139947t.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/1443/119231.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1443/119231t.jpg",
     "synonyms": [
-      "\"Oshi no Ko\" 2",
-      "My Star Season 2",
-      "Oshi no Ko 2",
-      "Oshi no Ko 2nd Season",
-      "Oshi no Ko Dai 2 Ki",
-      "Oshi no Ko Season 2",
-      "Oshi no Ko: Mein Star Staffel 2",
-      "[Oshi No Ko] Season 2",
-      "[Oshi no Ko] 2nd Season",
-      "[Oshi no Ko] Season 2",
-      "[推しの子] 2",
-      "[推しの子] 第2期",
-      "【OSHI NO KO】2nd Season",
-      "【推しの子】",
-      "【推しの子】第2",
-      "【推しの子】第2期"
+      "Seirei Gensouki 2",
+      "Seirei Gensouki: Spirit Chronicles 2",
+      "Seirei Gensouki: Spirit Chronicles 2nd Season",
+      "Seirei Gensouki: Spirit Chronicles Season 2",
+      "Seirei Gensōki 2",
+      "Spirit Chronicles Season 2",
+      "seigen s2",
+      "ตำนานวิญญาณแฟนซี ภาค 2",
+      "精灵幻想记吧2",
+      "精霊幻想記",
+      "精霊幻想記 2",
+      "精霊幻想記 第2期",
+      "精霊幻想記2",
+      "精霊幻想記２"
     ]
   }
 ]

@@ -208,6 +208,18 @@
         "broadcast": "R/2023-02-08T16:00:00.000Z/P7D"
       },
       {
+        "site": "nicovideo",
+        "id": "tenken-anime",
+        "begin": "2022-10-05T14:30:00.000Z",
+        "broadcast": "R/2022-10-05T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "11-46",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "17789"
       },
@@ -334,12 +346,36 @@
         "broadcast": "R/2023-01-02T16:00:00.000Z/P7D"
       },
       {
+        "site": "nicovideo",
+        "id": "akulas-pr",
+        "begin": "2022-10-01T14:00:00.000Z",
+        "broadcast": "R/2022-10-01T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "11-47",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anilist",
         "id": "154955"
       },
       {
         "site": "anime-planet",
         "id": "im-the-villainess-so-im-taming-the-final-boss-mini-anime"
+      },
+      {
+        "site": "anisearch",
+        "id": "18757"
+      },
+      {
+        "site": "anisearch",
+        "id": "18763"
+      },
+      {
+        "site": "anisearch",
+        "id": "18764"
       },
       {
         "site": "livechart",
@@ -449,6 +485,12 @@
         "id": "81643081",
         "begin": "2023-01-10T16:00:00.000Z",
         "broadcast": "R/2023-01-10T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shippona-anime",
+        "begin": "2022-10-03T03:00:00.000Z",
+        "broadcast": "R/2022-10-03T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -712,7 +754,7 @@
       }
     ],
     "animeSeason": {
-      "season": "FALL",
+      "season": "SUMMER",
       "year": 2022,
       "month": "09"
     },
@@ -837,12 +879,16 @@
         "id": "52573"
       },
       {
+        "site": "myanimelist",
+        "id": "57622"
+      },
+      {
         "site": "notify",
         "id": "h1uutb8ig"
       }
     ],
     "animeSeason": {
-      "season": "FALL",
+      "season": "SUMMER",
       "year": 2022,
       "month": "09"
     },

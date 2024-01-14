@@ -180,10 +180,6 @@
       },
       {
         "site": "livechart",
-        "id": "3936"
-      },
-      {
-        "site": "livechart",
         "id": "3979"
       },
       {
@@ -196,7 +192,7 @@
       },
       {
         "site": "livechart",
-        "id": "4148"
+        "id": "4466"
       },
       {
         "site": "livechart",
@@ -204,11 +200,19 @@
       },
       {
         "site": "livechart",
+        "id": "5008"
+      },
+      {
+        "site": "livechart",
         "id": "5217"
       },
       {
         "site": "livechart",
-        "id": "5359"
+        "id": "5332"
+      },
+      {
+        "site": "livechart",
+        "id": "5345"
       },
       {
         "site": "livechart",
@@ -221,10 +225,6 @@
       {
         "site": "livechart",
         "id": "5641"
-      },
-      {
-        "site": "livechart",
-        "id": "5643"
       },
       {
         "site": "livechart",
@@ -348,7 +348,8 @@
       {
         "site": "nicovideo",
         "id": "kamigaminoki",
-        "begin": "2017-01-13T09:00:00.000Z"
+        "begin": "2017-01-13T09:00:00.000Z",
+        "broadcast": "R/2017-01-13T09:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -800,6 +801,12 @@
         "broadcast": "R/2020-06-11T06:30:00.000Z/P7D"
       },
       {
+        "site": "nicovideo",
+        "id": "tenchimuyo4th",
+        "begin": "2022-01-07T03:00:00.000Z",
+        "broadcast": "R/2022-01-07T03:00:00.000Z/P7D"
+      },
+      {
         "site": "anidb",
         "id": "15007"
       },
@@ -1006,6 +1013,12 @@
         "id": "78981",
         "begin": "2020-03-01T04:00:00.000Z",
         "broadcast": "R/2020-03-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kancolle-movie",
+        "begin": "2022-08-31T15:00:00.000Z",
+        "broadcast": "R/2022-08-31T15:00:00.000Z/P7D"
       },
       {
         "site": "anidb",

@@ -1,83 +1,5 @@
 [
   {
-    "title": "かくしごと",
-    "titleTranslate": {
-      "zh-Hans": [
-        "隐瞒之事"
-      ],
-      "zh-Hant": [
-        "隱瞞之事"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://kakushigoto-anime.com/",
-    "begin": "2020-04-02T14:30:00.000Z",
-    "end": "2020-06-18T15:00:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "294713"
-      },
-      {
-        "site": "acfun",
-        "id": "6001745",
-        "begin": "2020-04-02T15:45:00.000Z"
-      },
-      {
-        "site": "nicovideo",
-        "id": "kakushigoto-anime",
-        "begin": "2020-04-07T15:00:00.000Z"
-      },
-      {
-        "site": "gamer",
-        "id": "109025",
-        "begin": "2020-04-02T16:00:00.000Z",
-        "broadcast": "R/2020-04-02T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "anilist",
-        "id": "113311"
-      },
-      {
-        "site": "anime-planet",
-        "id": "kakushigoto"
-      },
-      {
-        "site": "anisearch",
-        "id": "14770"
-      },
-      {
-        "site": "kitsu",
-        "id": "42722"
-      },
-      {
-        "site": "myanimelist",
-        "id": "40716"
-      },
-      {
-        "site": "notify",
-        "id": "EuV32AUWg"
-      }
-    ],
-    "animeSeason": {
-      "season": "SUMMER",
-      "year": 2016,
-      "month": "04"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/83525.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/83525t.jpg",
-    "synonyms": [
-      "Kakushigoto",
-      "かくしごと",
-      "かくしごと PV",
-      "かくしごとPV"
-    ]
-  },
-  {
     "title": "マギアレコード 魔法少女まどか☆マギカ外伝",
     "titleTranslate": {
       "zh-Hans": [
@@ -102,7 +24,8 @@
       {
         "site": "nicovideo",
         "id": "magireco",
-        "begin": "2020-01-07T15:30:00.000Z"
+        "begin": "2020-01-07T15:30:00.000Z",
+        "broadcast": "R/2020-01-07T15:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -150,6 +73,7 @@
     "thumbnail": "https://cdn.myanimelist.net/images/anime/3/85020t.jpg",
     "synonyms": [
       "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden",
+      "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden PV",
       "Puella Magi Madoka Magica Side Story: Magia Record",
       "マギアレコード 魔法少女まどか☆マギカ外伝"
     ]
@@ -187,7 +111,8 @@
       {
         "site": "nicovideo",
         "id": "anime-hachinai",
-        "begin": ""
+        "begin": "2019-04-16T03:00:00.000Z",
+        "broadcast": "R/2019-04-16T03:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -407,63 +332,6 @@
     ]
   },
   {
-    "title": "ヘボット！",
-    "titleTranslate": {
-      "en": [
-        "HEYBOT!"
-      ],
-      "zh-Hans": [
-        "HEYBOT!"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://www.heybot.net/",
-    "begin": "2016-09-17T22:00:00.000Z",
-    "end": "2017-09-24T22:30:00.000Z",
-    "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rrh91o7h",
-        "begin": "2017-01-05T07:00:13.000Z"
-      },
-      {
-        "site": "letv",
-        "id": "10029958",
-        "begin": "2016-09-17T22:30:00.000Z"
-      },
-      {
-        "site": "pptv",
-        "id": "lJ9591icFNXPWVLw",
-        "begin": "2016-09-17T22:30:00.000Z"
-      },
-      {
-        "site": "bangumi",
-        "id": "184884"
-      },
-      {
-        "site": "youku",
-        "id": "5f0ab5a878c311e69e06",
-        "begin": "2017-01-07T22:28:01.000Z"
-      }
-    ],
-    "animeSeason": {
-      "season": "SUMMER",
-      "year": 2016,
-      "month": "09"
-    },
-    "status": "FINISHED",
-    "episodes": 50,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/82258.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/82258t.jpg",
-    "synonyms": [
-      "HEYBOT!",
-      "へぼっと",
-      "ヘボット!",
-      "ヘボット！"
-    ]
-  },
-  {
     "title": "ドリフェス！",
     "titleTranslate": {
       "zh-Hans": [
@@ -537,6 +405,110 @@
       "ドリフェス!",
       "ドリフェス！",
       "梦之祭"
+    ]
+  },
+  {
+    "title": "怪獣娘 ～ウルトラ怪獣擬人化計画～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪兽娘 奥特怪兽拟人化计划",
+        "怪兽娘～奥特怪兽拟人化计划～"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://kaiju-gk.jp/",
+    "begin": "2016-09-27T09:00:00.000Z",
+    "end": "2016-12-13T09:30:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10029740",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9uqjh",
+        "begin": "2016-09-27T10:00:13.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "u/ujosn0cmd203mxa",
+        "begin": "2016-09-26T16:00:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "175405"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kaiju-gk",
+        "begin": "2016-10-04T03:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "13401"
+      },
+      {
+        "site": "anilist",
+        "id": "99888"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kaijuu-girls-2nd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kaijuu-girls-black"
+      },
+      {
+        "site": "anisearch",
+        "id": "12763"
+      },
+      {
+        "site": "anisearch",
+        "id": "1849"
+      },
+      {
+        "site": "kitsu",
+        "id": "14152"
+      },
+      {
+        "site": "livechart",
+        "id": "2838"
+      },
+      {
+        "site": "livechart",
+        "id": "3187"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36196"
+      },
+      {
+        "site": "notify",
+        "id": "GiwN2FmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2016,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/82138.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/82138t.jpg",
+    "synonyms": [
+      "KAIJU GIRLS",
+      "Kaiju Girls",
+      "Kaijuu Girls",
+      "Kaijû Girls",
+      "Kaijū Girls: Ultra Kaijū Gijinka Keikaku",
+      "Ultra Kaijuu Gijinka Keikaku S1",
+      "怪兽娘～奥特怪兽拟人化计划～",
+      "怪獣娘 ～ウルトラ怪獣擬人化計画～",
+      "怪獣娘[かいじゅうがーるず] ~ウルトラ怪獣擬人化計画~"
     ]
   },
   {
@@ -696,6 +668,113 @@
       "こちら葛飾区亀有公園前派出所 ~THE FINAL 両津勘吉最後の日~",
       "こちら葛飾区亀有公園前派出所～THE FINAL 両津勘吉最後の日～",
       "乌龙派出所 THE FINAL 两津勘吉最后的一天"
+    ]
+  },
+  {
+    "title": "PERSONA5 the Animation -THE DAY BREAKERS-",
+    "titleTranslate": {
+      "en": [
+        "PERSONA5 the Animation -THE DAY BREAKERS-"
+      ],
+      "zh-Hans": [
+        "女神异闻录5 -THE DAY BREAKERS-"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.aniplex.co.jp/p5a/",
+    "begin": "2016-09-03T16:00:00.000Z",
+    "end": "2016-09-03T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "147067"
+      },
+      {
+        "site": "nicovideo",
+        "id": "PERSONA5",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5482",
+        "begin": "2016-09-02T16:00:01.000Z",
+        "broadcast": "R/2016-09-03T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "13331"
+      },
+      {
+        "site": "anilist",
+        "id": "99693"
+      },
+      {
+        "site": "anime-planet",
+        "id": "persona-5-the-animation"
+      },
+      {
+        "site": "anisearch",
+        "id": "12675"
+      },
+      {
+        "site": "anisearch",
+        "id": "7939"
+      },
+      {
+        "site": "anisearch",
+        "id": "9640"
+      },
+      {
+        "site": "kitsu",
+        "id": "13684"
+      },
+      {
+        "site": "livechart",
+        "id": "2815"
+      },
+      {
+        "site": "livechart",
+        "id": "3544"
+      },
+      {
+        "site": "livechart",
+        "id": "8697"
+      },
+      {
+        "site": "livechart",
+        "id": "9360"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36023"
+      },
+      {
+        "site": "notify",
+        "id": "dFwV2Kiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2016,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/81869.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/81869t.jpg",
+    "synonyms": [
+      "PERSONA 5 the Animation: THE DAY BREAKERS",
+      "PERSONA5 the Animation -THE DAY BREAKERS-",
+      "PERSONA5 the Animation: The Day Breakers",
+      "Persona 5 The Animation -the Day Breakers-",
+      "Persona 5 The Animation: The Day Breakers",
+      "Persona 5 the Animation -THE DAY BREAKERS-",
+      "p5a special",
+      "p5atv",
+      "persona special",
+      "ぺるそなふぁいぶじあにめーしょんざでいぶれーかーず",
+      "女神异闻录5 -THE DAY BREAKERS-"
     ]
   },
   {
@@ -1104,6 +1183,12 @@
         "id": "80223226",
         "begin": "2022-07-30T16:00:00.000Z",
         "broadcast": "R/2022-07-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "74043",
+        "begin": "2023-10-18T04:00:00.000Z",
+        "broadcast": "R/2023-10-18T04:00:00.000Z/P7D"
       },
       {
         "site": "anilist",
@@ -1605,6 +1690,109 @@
       "のんのんびより りぴーと OAD",
       "のんのんびより りぴーと 蛍が楽しんだ",
       "논논비요리 리피트: 호타루가 즐겁게 보냈다"
+    ]
+  },
+  {
+    "title": "planetarian～星の人～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "星之梦～星之人～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://planetarian-project.com/",
+    "begin": "2016-09-03T16:00:00.000Z",
+    "end": "2016-09-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "178884"
+      },
+      {
+        "site": "bilibili",
+        "id": "5051",
+        "begin": "2016-09-02T16:00:00.000Z",
+        "broadcast": "R/2017-03-03T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "12085"
+      },
+      {
+        "site": "anilist",
+        "id": "113595"
+      },
+      {
+        "site": "anilist",
+        "id": "21732"
+      },
+      {
+        "site": "anime-planet",
+        "id": "planetarian"
+      },
+      {
+        "site": "anime-planet",
+        "id": "planetarian-snow-globe"
+      },
+      {
+        "site": "anisearch",
+        "id": "11402"
+      },
+      {
+        "site": "kitsu",
+        "id": "12023"
+      },
+      {
+        "site": "livechart",
+        "id": "10537"
+      },
+      {
+        "site": "livechart",
+        "id": "10976"
+      },
+      {
+        "site": "livechart",
+        "id": "2141"
+      },
+      {
+        "site": "livechart",
+        "id": "9686"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33091"
+      },
+      {
+        "site": "notify",
+        "id": "MeB6tFimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2016,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/79771.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/79771t.jpg",
+    "synonyms": [
+      "Planetarian (Movie)",
+      "Planetarian Movie",
+      "Planetarian Movie: Hoshi no Hito",
+      "Planetarian ~Mensch der Sterne~",
+      "Planetarian ~별의 사람~",
+      "Planetarian: Chiisana Hoshi no Yume (プラネタリアン ちいさなほしのゆめ)",
+      "Planetarian: Storyteller of The Stars",
+      "Planetarian: Storyteller of the Stars",
+      "planetarian ~星の人~",
+      "planetarian: Hoshi no Hito",
+      "planetarian～星の人～",
+      "Планетарий: грёзы маленькой звезды",
+      "ぷらねたりあんほしのひと",
+      "プラネタリアン ～星の人～"
     ]
   },
   {
@@ -2738,6 +2926,12 @@
         "broadcast": "R/2022-06-10T03:00:00.000Z/P7D"
       },
       {
+        "site": "abema",
+        "id": "13-24ditdrg-nze",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "11645"
       },
@@ -3811,6 +4005,12 @@
         "broadcast": "R/2022-10-07T03:30:00.000Z/P7D"
       },
       {
+        "site": "abema",
+        "id": "25-43zr98hyeb55",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "12819"
       },
@@ -4865,6 +5065,10 @@
       {
         "site": "anilist",
         "id": "105244"
+      },
+      {
+        "site": "anilist",
+        "id": "169766"
       },
       {
         "site": "anime-planet",
@@ -8295,61 +8499,6 @@
     ]
   },
   {
-    "title": "RS計画 -Rebirth Storage-",
-    "titleTranslate": {
-      "zh-Hans": [
-        "RS计划 -Rebirth Storage-"
-      ],
-      "en": [
-        "RS Project -Rebirth Storage-"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://rsproject.jp/",
-    "begin": "2016-06-25T17:20:00.000Z",
-    "end": "2016-06-25T17:20:00.000Z",
-    "sites": [
-      {
-        "site": "pptv",
-        "id": "iarehH4ftXZvibfOQ",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "10024292",
-        "begin": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "174147"
-      },
-      {
-        "site": "youku",
-        "id": "e2b1ccd83f3511e69b6d",
-        "begin": "2016-07-01T09:52:10.000Z"
-      }
-    ],
-    "animeSeason": {
-      "season": "SUMMER",
-      "year": 2016,
-      "month": "06"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/80584.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/80584t.jpg",
-    "synonyms": [
-      "RS Project",
-      "RS Project -Rebirth Storage-",
-      "RS Project: Rebirth Storage",
-      "RS計画 -Rebirth Storage-",
-      "RS計画　-Rebirth Storage-",
-      "RS计划 -Rebirth Storage-",
-      "あーるえすけいかくりばーすすとれーじ"
-    ]
-  },
-  {
     "title": "不機嫌なモノノケ庵",
     "titleTranslate": {
       "zh-Hans": [
@@ -8463,146 +8612,6 @@
       "不愉快的妖怪庵",
       "不機嫌なモノノケ庵",
       "忧郁的物怪庵"
-    ]
-  },
-  {
-    "title": "麻神",
-    "titleTranslate": {},
-    "type": "web",
-    "lang": "zh-Hans",
-    "officialSite": "http://ac.qq.com/event/mashen/",
-    "begin": "2016-06-29T02:00:00.000Z",
-    "end": "2016-10-19T02:15:00.000Z",
-    "sites": [
-      {
-        "site": "qq",
-        "id": "g/g1l5z0cndggpfja",
-        "begin": "2016-06-29T02:00:00.000Z"
-      },
-      {
-        "site": "bangumi",
-        "id": "185176"
-      }
-    ],
-    "animeSeason": {
-      "season": "SUMMER",
-      "year": 2016,
-      "month": "06"
-    },
-    "status": "FINISHED",
-    "episodes": 16,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/81481.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/81481t.jpg",
-    "synonyms": [
-      "Mahjong God",
-      "Mahjong King",
-      "Mashen",
-      "麻神"
-    ]
-  },
-  {
-    "title": "くまみこ",
-    "titleTranslate": {
-      "zh-Hans": [
-        "当女孩遇到熊",
-        "熊巫女"
-      ],
-      "zh-Hant": [
-        "當女孩遇到熊"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://kmmk.tv/",
-    "begin": "2016-04-03T14:30:00.000Z",
-    "end": "2016-06-19T15:00:00.000Z",
-    "sites": [
-      {
-        "site": "youku",
-        "id": "994a2206e4eb11e5a2a2",
-        "begin": "2016-04-03T16:58:00.000Z"
-      },
-      {
-        "site": "bangumi",
-        "id": "148361"
-      },
-      {
-        "site": "nicovideo",
-        "id": "kmmk",
-        "begin": "2016-04-10T15:00:00.000Z"
-      },
-      {
-        "site": "iqiyi",
-        "id": "a_19rrhevm65",
-        "begin": "2018-04-30T16:01:59.000Z"
-      },
-      {
-        "site": "bilibili",
-        "id": "98612",
-        "begin": "2016-04-02T16:00:01.000Z",
-        "broadcast": "R/2018-06-12T06:31:00.000Z/P7D",
-        "comment": "SP: 5485"
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UchQeJqIQzPxNIPx5M8w5nr1",
-        "begin": "2019-08-28T16:00:00.000Z",
-        "broadcast": "R/2019-08-28T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "80035",
-        "begin": "2016-04-03T17:00:00.000Z",
-        "broadcast": "R/2016-04-03T17:00:00.000Z/P7D"
-      },
-      {
-        "site": "anilist",
-        "id": "21423"
-      },
-      {
-        "site": "anime-planet",
-        "id": "kumamiko-girl-meets-bear"
-      },
-      {
-        "site": "anisearch",
-        "id": "10833"
-      },
-      {
-        "site": "kitsu",
-        "id": "11446"
-      },
-      {
-        "site": "livechart",
-        "id": "1870"
-      },
-      {
-        "site": "myanimelist",
-        "id": "31804"
-      },
-      {
-        "site": "notify",
-        "id": "gDmjtKmiR"
-      }
-    ],
-    "animeSeason": {
-      "season": "SUMMER",
-      "year": 2016,
-      "month": "04"
-    },
-    "status": "FINISHED",
-    "episodes": 2,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/79557.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/79557t.jpg",
-    "synonyms": [
-      "Girl Meets Bear OVA",
-      "Girl meets Bear Specials",
-      "Kuma Miko: Girl Meets Bear Specials",
-      "Kumamiko -Girl Meets Bear Specials",
-      "Kumamiko: Girl Meets Bear OVAs",
-      "Kumamiko: Girl Meets Bear Specials",
-      "くまみこ",
-      "くまみこ Girl meets Bear",
-      "くまみこ Girl meets Bear Specials"
     ]
   },
   {
@@ -8787,99 +8796,6 @@
     ]
   },
   {
-    "title": "田中くんはいつもけだるげ",
-    "titleTranslate": {
-      "zh-Hans": [
-        "田中君总是如此慵懒"
-      ],
-      "zh-Hant": [
-        "田中君總是如此慵懶"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://tanakakun.tv",
-    "begin": "2016-04-09T13:00:00.000Z",
-    "end": "2016-06-25T13:30:00.000Z",
-    "sites": [
-      {
-        "site": "pptv",
-        "id": "6lg0shqA8C6RD3c",
-        "begin": "2016-04-09T14:00:00.000Z"
-      },
-      {
-        "site": "bangumi",
-        "id": "155704"
-      },
-      {
-        "site": "qq",
-        "id": "6/6h3s95n4b0ejvmv",
-        "begin": ""
-      },
-      {
-        "site": "bilibili_hk_mo_tw",
-        "id": "28221445",
-        "begin": "2019-06-26T08:56:34.000Z",
-        "broadcast": "R/2019-06-26T08:56:34.000Z/P7D"
-      },
-      {
-        "site": "anilist",
-        "id": "21495"
-      },
-      {
-        "site": "anime-planet",
-        "id": "tanaka-kun-is-always-listless"
-      },
-      {
-        "site": "anime-planet",
-        "id": "tanaka-kun-wa-kyou-mo-kedaruge"
-      },
-      {
-        "site": "anisearch",
-        "id": "10987"
-      },
-      {
-        "site": "kitsu",
-        "id": "11538"
-      },
-      {
-        "site": "livechart",
-        "id": "1925"
-      },
-      {
-        "site": "livechart",
-        "id": "4136"
-      },
-      {
-        "site": "myanimelist",
-        "id": "32093"
-      },
-      {
-        "site": "notify",
-        "id": "s3AjtFmiR"
-      }
-    ],
-    "animeSeason": {
-      "season": "SUMMER",
-      "year": 2016,
-      "month": "04"
-    },
-    "status": "FINISHED",
-    "episodes": 7,
-    "picture": "https://cdn.myanimelist.net/images/anime/1511/111995.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1511/111995t.jpg",
-    "synonyms": [
-      "Tanaka-kun is Always Listless",
-      "Tanaka-kun is Always Listless Specials",
-      "Tanaka-kun is Always Listless Tokuten",
-      "Tanaka-kun wa Itsumo Kedaruge Tokuten",
-      "Tanaka-kun wa Itsumo Kedaruge Tokuten Anime",
-      "田中くんはいつもけだるげ",
-      "田中くんはいつもけだるげ特典",
-      "田中くんはいつもけだるげ特典アニメ"
-    ]
-  },
-  {
     "title": "うさかめ",
     "titleTranslate": {
       "zh-Hans": [
@@ -9045,6 +8961,283 @@
     "thumbnail": "https://cdn.myanimelist.net/images/anime/6/82172t.jpg",
     "synonyms": [
       "磯部磯兵衛物語"
+    ]
+  },
+  {
+    "title": "ぷれぷれぷれあです",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Play Play 昴宿星团",
+        "OVERLORD SP"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://overlord-anime.com/",
+    "begin": "2015-08-03T16:00:00.000Z",
+    "end": "2015-09-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "193953"
+      },
+      {
+        "site": "bilibili",
+        "id": "3428",
+        "begin": "2016-03-14T08:25:00.000Z",
+        "broadcast": "R/2016-03-14T08:25:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "10816"
+      },
+      {
+        "site": "anilist",
+        "id": "101098"
+      },
+      {
+        "site": "anilist",
+        "id": "20832"
+      },
+      {
+        "site": "anilist",
+        "id": "21305"
+      },
+      {
+        "site": "anime-planet",
+        "id": "overlord"
+      },
+      {
+        "site": "anime-planet",
+        "id": "overlord-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "overlord-ii-play-play-pleiades"
+      },
+      {
+        "site": "anime-planet",
+        "id": "overlord-iii-play-play-pleiades"
+      },
+      {
+        "site": "anime-planet",
+        "id": "overlord-play-play-pleiades"
+      },
+      {
+        "site": "anime-planet",
+        "id": "overlord-ple-ple-pleiades-clementine-toubou-hen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "overlord-ple-ple-pleiades-theatrical-version"
+      },
+      {
+        "site": "anisearch",
+        "id": "10637"
+      },
+      {
+        "site": "kitsu",
+        "id": "11166"
+      },
+      {
+        "site": "kitsu",
+        "id": "9965"
+      },
+      {
+        "site": "livechart",
+        "id": "10571"
+      },
+      {
+        "site": "livechart",
+        "id": "10572"
+      },
+      {
+        "site": "livechart",
+        "id": "11290"
+      },
+      {
+        "site": "livechart",
+        "id": "1685"
+      },
+      {
+        "site": "livechart",
+        "id": "2355"
+      },
+      {
+        "site": "livechart",
+        "id": "2425"
+      },
+      {
+        "site": "livechart",
+        "id": "2574"
+      },
+      {
+        "site": "livechart",
+        "id": "3021"
+      },
+      {
+        "site": "livechart",
+        "id": "3206"
+      },
+      {
+        "site": "livechart",
+        "id": "3356"
+      },
+      {
+        "site": "livechart",
+        "id": "3550"
+      },
+      {
+        "site": "livechart",
+        "id": "784"
+      },
+      {
+        "site": "livechart",
+        "id": "9481"
+      },
+      {
+        "site": "livechart",
+        "id": "9870"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29803"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31138"
+      },
+      {
+        "site": "notify",
+        "id": "ac0PtFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "oMYutKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "uY4v2KmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2016,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/80173.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/80173t.jpg",
+    "synonyms": [
+      "OVERLORD: Pure Pure Pleiades",
+      "Overlord OVA",
+      "Overlord: Play Play Pleiades OVA",
+      "Overlord: Ple Ple Pleiades (OVA)",
+      "Overlord: Ple Ple Pleiades - Nazarick's Greatest Crisis",
+      "Overlord: Ple Ple Pleiades OVA",
+      "Overlord: Pure Pure Pleiades - Nazarick's Greatest Crisis",
+      "Ple Ple Pleiades",
+      "Pure Pure Pleiades",
+      "ぷれぷれぷれあです",
+      "オーバーロード OVA",
+      "オーバーロード ぷれぷれぷれあです 『なざりっく最大の危機』",
+      "オーバーロード　ぷれぷれぷれあです",
+      "オーバーロード　ぷれぷれぷれあです 『なざりっく最大の危機』"
+    ]
+  },
+  {
+    "title": "銀河機攻隊 マジェスティックプリンス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河机攻队 Majestic Prince",
+        "银河机攻队 庄严皇子",
+        "银河机攻战队"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://mjp-anime.jp/",
+    "begin": "2013-04-04T13:30:00.000Z",
+    "end": "2013-09-19T14:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "50535"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mjp",
+        "begin": "2013-04-08T14:30:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "5942",
+        "begin": "2017-03-14T10:00:00.000Z",
+        "broadcast": "R/2017-03-14T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "15863"
+      },
+      {
+        "site": "anilist",
+        "id": "21750"
+      },
+      {
+        "site": "anime-planet",
+        "id": "majestic-prince"
+      },
+      {
+        "site": "anime-planet",
+        "id": "majestic-prince-movie-kakusei-no-idenshiko"
+      },
+      {
+        "site": "anisearch",
+        "id": "11395"
+      },
+      {
+        "site": "anisearch",
+        "id": "8124"
+      },
+      {
+        "site": "livechart",
+        "id": "2114"
+      },
+      {
+        "site": "livechart",
+        "id": "33"
+      },
+      {
+        "site": "myanimelist",
+        "id": "15863"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33025"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2016,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/79232.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/79232t.jpg",
+    "synonyms": [
+      "Ginga Kikoutai Majestic Prince Episode 25",
+      "Ginga Kikoutai Majestic Prince Special",
+      "Ginga Kikōtai Majestic Prince: Mirai e no Tsubasa",
+      "Majestic Prince Episode 25 – Wings to the Future",
+      "Majestic Prince Special",
+      "Majestic Prince: Wings to the Future",
+      "ぎんがきこうたいまじぇすてぃっくぷりんす",
+      "銀河機攻隊 マジェスティックプリンス",
+      "銀河機攻隊 マジェスティックプリンス 「未来への翼」",
+      "銀河機攻隊 マジェスティックプリンス 未来への翼"
     ]
   }
 ]

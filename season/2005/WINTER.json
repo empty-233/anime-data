@@ -22,6 +22,12 @@
         "begin": "2020-08-21T15:00:00.000Z"
       },
       {
+        "site": "abema",
+        "id": "171-3",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anilist",
         "id": "2476"
       },
@@ -81,272 +87,265 @@
     ]
   },
   {
-    "title": "リーンの翼",
+    "title": "年をとった鰐",
     "titleTranslate": {
       "zh-Hans": [
-        "圣光之翼"
+        "年老的鳄鱼"
       ]
     },
     "type": "web",
     "lang": "ja",
-    "officialSite": "http://www.rean-wings.net/",
-    "begin": "2005-12-15T21:00:00.000Z",
-    "end": "2006-09-07T21:30:00.000Z",
+    "officialSite": "http://oldcrocodileoctopus.blog65.fc2.com",
+    "begin": "2006-08-04T16:00:00.000Z",
+    "end": "2006-08-04T16:00:00.000Z",
     "sites": [
       {
         "site": "bangumi",
-        "id": "3417"
+        "id": "137292"
       },
       {
-        "site": "anidb",
-        "id": "899"
-      },
-      {
-        "site": "anilist",
-        "id": "929"
-      },
-      {
-        "site": "anime-planet",
-        "id": "aura-battle-dunbine-the-tale-of-neo-byston-well"
-      },
-      {
-        "site": "anime-planet",
-        "id": "aura-battler-dunbine"
-      },
-      {
-        "site": "anime-planet",
-        "id": "garzeys-wing"
-      },
-      {
-        "site": "anisearch",
-        "id": "623"
-      },
-      {
-        "site": "kitsu",
-        "id": "827"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1657"
-      },
-      {
-        "site": "myanimelist",
-        "id": "929"
-      },
-      {
-        "site": "notify",
-        "id": "hmnJcKmiR"
+        "site": "bilibili",
+        "id": "4900",
+        "begin": "2016-06-17T03:30:00.000Z",
+        "broadcast": "R/2016-06-17T03:30:00.000Z/P7D"
       }
     ],
     "animeSeason": {
       "season": "WINTER",
       "year": 2005,
-      "month": "12"
+      "month": "08"
     },
     "status": "FINISHED",
-    "episodes": 6,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/28902.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/28902t.jpg",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/8561.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/8561t.jpg",
     "synonyms": [
-      "Rean`s Wing",
-      "RnT",
-      "The Wings of Rean",
-      "Wings of Rean",
-      "WoR",
-      "dunbine (2005)",
-      "rean",
-      "りーんのつばさ",
-      "リーンの翼",
-      "圣光之翼"
+      "Le Vieux Crocodile",
+      "The Old Crocodile",
+      "Toshi o Totta Wani",
+      "Toshi wo totta Wani",
+      "年をとった鰐"
     ]
   },
   {
-    "title": "I\"s Pure",
+    "title": "鴉 -KARAS-",
     "titleTranslate": {
       "zh-Hans": [
-        "I\"s Pure"
+        "鸦 -KARAS-"
       ]
     },
     "type": "ova",
     "lang": "ja",
-    "officialSite": "",
-    "begin": "2005-11-01T16:00:00.000Z",
-    "end": "2006-06-23T16:30:00.000Z",
+    "officialSite": "http://www.thekaras.net/",
+    "begin": "2005-05-28T16:00:00.000Z",
+    "end": "2007-10-26T16:30:00.000Z",
     "sites": [
       {
         "site": "pptv",
-        "id": "QIt181vBMWicSULg",
-        "begin": ""
-      },
-      {
-        "site": "qq",
-        "id": "f/ff8gwhoafxcojuz",
+        "id": "VdibqKJD2ZqQHhe0",
         "begin": ""
       },
       {
         "site": "bangumi",
-        "id": "3393"
+        "id": "2135"
       },
       {
-        "site": "anidb",
-        "id": "404"
+        "site": "letv",
+        "id": "29095",
+        "begin": ""
       },
       {
-        "site": "anilist",
-        "id": "1084"
-      },
-      {
-        "site": "anilist",
-        "id": "1235"
-      },
-      {
-        "site": "anime-planet",
-        "id": "is-ova"
-      },
-      {
-        "site": "anime-planet",
-        "id": "is-pure-bonus"
-      },
-      {
-        "site": "anisearch",
-        "id": "1553"
-      },
-      {
-        "site": "anisearch",
-        "id": "8552"
-      },
-      {
-        "site": "kitsu",
-        "id": "1111"
-      },
-      {
-        "site": "kitsu",
-        "id": "969"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1084"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1235"
-      },
-      {
-        "site": "notify",
-        "id": "3PwJcFimR"
-      },
-      {
-        "site": "notify",
-        "id": "l-hb5Fimg"
+        "site": "bilibili",
+        "id": "1857",
+        "begin": "2005-05-27T16:00:00.000Z",
+        "broadcast": "R/2013-04-13T21:04:00.000Z/P7D"
       }
     ],
     "animeSeason": {
       "season": "WINTER",
       "year": 2005,
-      "month": "11"
+      "month": "05"
     },
     "status": "FINISHED",
     "episodes": 6,
-    "picture": "https://cdn.myanimelist.net/images/anime/1555/134512.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1555/134512t.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/1054/98245.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1054/98245t.jpg",
     "synonyms": [
-      "Aizu Pure",
-      "I\"S",
-      "I\"s Pure",
-      "I''s OVA",
-      "I''s OVA 2",
-      "I''s [アイズ]",
-      "I``S",
-      "I``s OVA 2",
-      "I``s Pure",
-      "I´s Pure",
-      "アイズピュア"
+      "Crow",
+      "KARAS",
+      "Karas: The Prophecy",
+      "Karas: The Revelation",
+      "Karga",
+      "Kruk",
+      "Raven",
+      "The Crow",
+      "The Karas",
+      "Varnas",
+      "Ворон",
+      "Гарван",
+      "Карас",
+      "קאראס",
+      "كاراس",
+      "คาราส อหังการปักษาทมิฬ",
+      "からす",
+      "鴉 -KARAS-",
+      "鴉 -Karas-",
+      "鸦 -KARAS-",
+      "카라스"
     ]
   },
   {
-    "title": "あまえないでよっ!!",
+    "title": "ONE PIECE THE MOVIE オマツリ男爵と秘密の島",
     "titleTranslate": {
       "zh-Hans": [
-        "不要撒娇哦!!",
-        "极乐天师",
-        "極樂天師"
+        "海贼王 祭典男爵与神秘岛"
       ]
     },
-    "type": "tv",
+    "type": "movie",
     "lang": "ja",
-    "officialSite": "http://www.vap.co.jp/amae/",
-    "begin": "2005-07-01T01:00:00.000Z",
-    "end": "2005-09-16T01:30:00.000Z",
+    "officialSite": "http://www.onepiece-movie.com/",
+    "begin": "2005-03-04T16:00:00.000Z",
+    "end": "2005-03-04T17:30:00.000Z",
     "sites": [
       {
         "site": "bangumi",
-        "id": "22049"
+        "id": "1991"
+      },
+      {
+        "site": "anidb",
+        "id": "69"
       },
       {
         "site": "anilist",
-        "id": "591"
+        "id": "21"
+      },
+      {
+        "site": "anilist",
+        "id": "463"
+      },
+      {
+        "site": "anilist",
+        "id": "465"
       },
       {
         "site": "anime-planet",
-        "id": "ah-my-buddha"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ah-my-buddha-katsu"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ah-my-buddha-katsu-dont-be-fooled"
+        "id": "one-piece"
       },
       {
         "site": "anisearch",
-        "id": "2665"
+        "id": "2227"
       },
       {
         "site": "kitsu",
-        "id": "546"
+        "id": "12"
       },
       {
         "site": "livechart",
-        "id": "4515"
+        "id": "321"
       },
       {
         "site": "livechart",
-        "id": "5413"
+        "id": "4028"
       },
       {
         "site": "livechart",
-        "id": "7107"
+        "id": "4166"
+      },
+      {
+        "site": "livechart",
+        "id": "4187"
+      },
+      {
+        "site": "livechart",
+        "id": "4199"
+      },
+      {
+        "site": "livechart",
+        "id": "4208"
+      },
+      {
+        "site": "livechart",
+        "id": "4720"
+      },
+      {
+        "site": "livechart",
+        "id": "4723"
+      },
+      {
+        "site": "livechart",
+        "id": "4817"
+      },
+      {
+        "site": "livechart",
+        "id": "4824"
+      },
+      {
+        "site": "livechart",
+        "id": "4938"
+      },
+      {
+        "site": "livechart",
+        "id": "5000"
+      },
+      {
+        "site": "livechart",
+        "id": "5174"
+      },
+      {
+        "site": "livechart",
+        "id": "5208"
+      },
+      {
+        "site": "livechart",
+        "id": "6598"
       },
       {
         "site": "myanimelist",
-        "id": "591"
+        "id": "21"
       },
       {
         "site": "notify",
-        "id": "oiuocKiig"
+        "id": "jdZp5KmiR"
       }
     ],
     "animeSeason": {
       "season": "WINTER",
       "year": 2005,
-      "month": "07"
+      "month": "03"
     },
     "status": "FINISHED",
     "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/32069.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/32069t.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/11/25415.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/25415t.jpg",
     "synonyms": [
-      "Ah My Buddha!! Don't Rest!!",
-      "Ah! My Buddha Special",
-      "Ah! My Buddha!! Don’t Rest!!",
-      "Ah! My Buddha: Don’t Be Sleepy!!",
-      "Amaenaide yo!! Special",
-      "Amaenaide yo!! Yasumanaide yo!!",
-      "Amaenaideyo!! Special",
-      "あまえないでよっ!!",
-      "あまえないでよっ!!: 休まないでよっ!!",
-      "あまえないでよっ！！ 休まないでよっ！！"
+      "ONE PIECE -オマツリ男爵と秘密の島-",
+      "ONE PIECE THE MOVIE オマツリ男爵と秘密の島",
+      "ONE PIECE THE MOVIE: Omatsuri Danshaku to Himitsu no Shima",
+      "OP Movie 6",
+      "One Piece - 6. Film: Baron Omatsuri und die geheimnisvolle Insel",
+      "One Piece - L'isola segreta del barone Omatsuri",
+      "One Piece : Le Baron Omatsuri et l`Île secrète",
+      "One Piece : Le baron Omatsuri et l’île secrète",
+      "One Piece Film 6: Baron Omatsuri und die geheimnisvolle Insel",
+      "One Piece Film 6: Le Baron Omatsuri et L'île aux Secrets",
+      "One Piece Movie 6",
+      "One Piece Movie 6: Baron Omatsuri and the Secret Island",
+      "One Piece Movie 6: Omatsuri Danshaku to Himitsu no Shima",
+      "One Piece Película 6: El Barón Omatsuri y la Isla de los Secretos",
+      "One Piece The Movie 6: Baron Omatsuri and the Secret Island",
+      "One Piece: 6. Film - Baron Omatsuri und die geheimnisvolle Insel",
+      "One Piece: Baron Omatsuri and the Island of Secrets",
+      "One Piece: Baron Omatsuri and the Secret Island",
+      "One Piece: Baron Omatsuri und die geheimnisvolle Insel",
+      "One Piece: Baronas Omatsuri ir Paslaptingoji sala",
+      "One Piece: El Barón Omatsuri Y La Isla De Los Secretos",
+      "One Piece: El barón Omatsuri y la isla de los secretos",
+      "One Piece: L'isola segreta del barone Omatsuri",
+      "One Piece: L`Isola Segreta del Barone Omatsuri",
+      "One Piece: Omatsuri Danshaku to Himitsu no Shima",
+      "opm6",
+      "ワンピース THE MOVIE オマツリ男爵と秘密の島",
+      "ワンピース オマツリ男爵と秘密の島"
     ]
   },
   {
@@ -472,6 +471,198 @@
       "สตราโตส 4 แอดวานซ์",
       "すとらとすふぉーあどばんす",
       "ストラトス・フォー アドヴァンス"
+    ]
+  },
+  {
+    "title": "撲殺天使ドクロちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "扑杀天使朵库萝"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.bin-kan.com/",
+    "begin": "2005-03-25T16:00:00.000Z",
+    "end": "2005-09-22T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "vo96ibGDGNnTXVb0",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3059"
+      },
+      {
+        "site": "anidb",
+        "id": "5089"
+      },
+      {
+        "site": "anilist",
+        "id": "2131"
+      },
+      {
+        "site": "anime-planet",
+        "id": "bludgeoning-angel-dokuro-chan-2"
+      },
+      {
+        "site": "anisearch",
+        "id": "4428"
+      },
+      {
+        "site": "kitsu",
+        "id": "1928"
+      },
+      {
+        "site": "livechart",
+        "id": "4036"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2131"
+      },
+      {
+        "site": "notify",
+        "id": "CAuL5Kmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2005,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/13210.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/13210t.jpg",
+    "synonyms": [
+      "Angelas su Kuoka",
+      "Beating Angel Dokuro-chan",
+      "Bludgeoning Angel Dokoro-chan",
+      "Bludgeoning Angel Dokuro-Chan",
+      "Bludgeoning Angel Dokuro-chan",
+      "Bokusatsu",
+      "Club-To-Death Angel Dokuro-chan",
+      "Club-to-death Angel Dokuro-chan",
+      "Dokuro Chan",
+      "Dokuro chan",
+      "Dokuro-Chan",
+      "El Ángel de la Maza Mortal Dokuro-chan",
+      "Totschlag-Engel Dokuro-chan",
+      "btd",
+      "dokuro",
+      "dokuro-chan",
+      "Убойный ангел Докуро-тян",
+      "ぼくさつてんしどくろちゃん",
+      "扑杀天使",
+      "扑杀天使朵库萝",
+      "撲殺天使ドクロちゃん"
+    ]
+  },
+  {
+    "title": "天上天下 ULTIMATE FIGHT",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天上天下 终极格斗"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-03-16T16:00:00.000Z",
+    "end": "2005-03-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "38766"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tenten-anime-uf",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3919",
+        "begin": "2016-05-03T07:14:00.000Z",
+        "broadcast": "R/2016-05-03T07:14:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1540"
+      },
+      {
+        "site": "anilist",
+        "id": "174"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenjho-tenge"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tenjho-tenge-the-past-chapter"
+      },
+      {
+        "site": "anisearch",
+        "id": "3310"
+      },
+      {
+        "site": "kitsu",
+        "id": "151"
+      },
+      {
+        "site": "livechart",
+        "id": "3812"
+      },
+      {
+        "site": "livechart",
+        "id": "5752"
+      },
+      {
+        "site": "myanimelist",
+        "id": "174"
+      },
+      {
+        "site": "notify",
+        "id": "98Xt5KmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2005,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/7362.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/7362t.jpg",
+    "synonyms": [
+      "Enfer & Paradis - OAV",
+      "Enfer et Paradis",
+      "Enfer et Paradis OAV",
+      "Enfer et paradis - OAV",
+      "Tenjho Tenge OVA",
+      "Tenjho Tenge los OVAs",
+      "Tenjho Tenge: The Ultimate Fight",
+      "Tenjho Tenge: Ultimate Fight",
+      "Tenjo Tenge OVA",
+      "Tenjou Tenge (2005)",
+      "Tenjou Tenge OVA",
+      "Tenjou Tenge: ULTIMATE FIGHT",
+      "Tenjou Tenge: Ultimate Fight",
+      "Tenjō Tenge: Ultimate Fight",
+      "Ultimate Fight",
+      "tenten ova",
+      "天上天下 (2005)",
+      "天上天下 ULTIMATE FIGHT",
+      "天上天下 アルティメットファイト",
+      "天上天下 终极格斗",
+      "天上天下ULTIMATE FIGHT"
     ]
   },
   {
@@ -2750,6 +2941,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "网球王子剧场版 二人的武士"
+      ],
+      "zh-Hant": [
+        "網球王子劇場版 二人武士"
       ]
     },
     "type": "movie",
@@ -2787,6 +2981,12 @@
         "id": "3071924",
         "begin": "2018-11-07T03:28:00.000Z",
         "broadcast": "R/2018-11-07T03:28:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "29784",
+        "begin": "2023-06-16T03:10:00.000Z",
+        "broadcast": "R/2023-06-16T03:10:00.000Z/P7D"
       },
       {
         "site": "anidb",

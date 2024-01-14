@@ -24,12 +24,19 @@
       {
         "site": "nicovideo",
         "id": "tukimonogatari",
-        "begin": "2015-09-01T06:00:00.000Z"
+        "begin": "2015-09-01T06:00:00.000Z",
+        "broadcast": "R/2014-10-24T06:00:00.000Z/P7D"
       },
       {
         "site": "acfun",
         "id": "6003168",
         "begin": ""
+      },
+      {
+        "site": "abema",
+        "id": "26-2mzbynr-cph",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -317,7 +324,7 @@
       }
     ],
     "animeSeason": {
-      "season": "WINTER",
+      "season": "FALL",
       "year": 2014,
       "month": "12"
     },
@@ -521,7 +528,8 @@
       {
         "site": "nicovideo",
         "id": "s-witchOVA",
-        "begin": "2016-10-11T06:00:00.000Z"
+        "begin": "2016-10-11T06:00:00.000Z",
+        "broadcast": "R/2016-10-11T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -912,7 +920,7 @@
       }
     ],
     "animeSeason": {
-      "season": "WINTER",
+      "season": "FALL",
       "year": 2014,
       "month": "12"
     },
@@ -941,6 +949,175 @@
       "Наруто: Последний фильм",
       "ザ・ラスト ナルト・ザ・ムービー",
       "火影忍者 剧场版 终章"
+    ]
+  },
+  {
+    "title": "一騎当千 Extravaganza Epoch",
+    "titleTranslate": {
+      "zh-Hans": [
+        "一骑当千 Extravaganza Epoch"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.ikkitousen.com/",
+    "begin": "2014-12-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2014-12-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "100568"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ikkitousen-ova2",
+        "begin": "2022-06-23T15:00:00.000Z",
+        "broadcast": "R/2022-06-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "14420"
+      },
+      {
+        "site": "anidb",
+        "id": "8569"
+      },
+      {
+        "site": "anilist",
+        "id": "105391"
+      },
+      {
+        "site": "anilist",
+        "id": "11255"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-dragon-destiny"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-dragon-destiny-hot-springs-grand-final-battle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-great-guardians"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-great-guardians-battle-tour-club-sexy-cosplay"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-shuugaku-toushi-keppuuroku"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-western-wolves"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-xtreme-xecutor"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-xtreme-xecutor-specials"
+      },
+      {
+        "site": "anisearch",
+        "id": "13916"
+      },
+      {
+        "site": "anisearch",
+        "id": "7239"
+      },
+      {
+        "site": "kitsu",
+        "id": "42005"
+      },
+      {
+        "site": "kitsu",
+        "id": "6483"
+      },
+      {
+        "site": "livechart",
+        "id": "10674"
+      },
+      {
+        "site": "livechart",
+        "id": "3543"
+      },
+      {
+        "site": "livechart",
+        "id": "3836"
+      },
+      {
+        "site": "livechart",
+        "id": "4017"
+      },
+      {
+        "site": "livechart",
+        "id": "4021"
+      },
+      {
+        "site": "livechart",
+        "id": "4085"
+      },
+      {
+        "site": "livechart",
+        "id": "4883"
+      },
+      {
+        "site": "livechart",
+        "id": "4928"
+      },
+      {
+        "site": "livechart",
+        "id": "4991"
+      },
+      {
+        "site": "livechart",
+        "id": "5024"
+      },
+      {
+        "site": "myanimelist",
+        "id": "11255"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38425"
+      },
+      {
+        "site": "notify",
+        "id": "63v9DTPmR"
+      },
+      {
+        "site": "notify",
+        "id": "UKFIpKmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2014,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/1413/133384.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1413/133384t.jpg",
+    "synonyms": [
+      "Ikki Tousen: Extravaganza Epoch",
+      "Ikkitōsen: Extravaganza Epoch",
+      "ikki ova 2",
+      "Школьные войны Эпоха феерии",
+      "いっきとうせんえくすとらヴぁがんざえぽっく",
+      "一騎当千 Extravaganza Epoch",
+      "一骑当千 Extravaganza Epoch"
     ]
   }
 ]

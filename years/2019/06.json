@@ -349,6 +349,12 @@
         "broadcast": "R/2020-02-17T06:00:00.000Z/P7D"
       },
       {
+        "site": "abema",
+        "id": "26-111",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "13900"
       },
@@ -502,7 +508,7 @@
       }
     ],
     "animeSeason": {
-      "season": "SUMMER",
+      "season": "SPRING",
       "year": 2019,
       "month": "06"
     },
@@ -975,6 +981,85 @@
       "それいけ! アンパンマン きらめけ! アイスの国のバニラ姫",
       "それいけ！ アンパンマン きらめけ！ アイスの国のバニラ姫",
       "映画 それいけ!アンパンマン　きらめけ!アイスの国のバニラ姫"
+    ]
+  },
+  {
+    "title": "きみと、波にのれたら",
+    "titleTranslate": {
+      "zh-Hans": [
+        "若能与你共乘海浪之上"
+      ],
+      "zh-Hant": [
+        "乘浪之約"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://kimi-nami.com/",
+    "begin": "2019-06-20T16:00:00.000Z",
+    "end": "2019-06-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "265372"
+      },
+      {
+        "site": "gamer",
+        "id": "102233",
+        "begin": "2023-10-04T07:00:00.000Z",
+        "broadcast": "R/2023-10-04T07:00:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "119593"
+      },
+      {
+        "site": "anime-planet",
+        "id": "generations-from-exile-tribe-brand-new-story"
+      },
+      {
+        "site": "anisearch",
+        "id": "14465"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39962"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2019,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1893/99701.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1893/99701t.jpg",
+    "synonyms": [
+      "El Amor Está en el Agua",
+      "El Amor está en el Agua",
+      "El amor está en el agua",
+      "L`amor és a l`aigua",
+      "Lướt sóng cùng em",
+      "Mėgaukis savo banga",
+      "Ride Your Wave",
+      "Ride Your Wave: Juntos en el mar",
+      "Riding a Wave with You",
+      "Sənin dalğanda",
+      "Uz tava viļņa",
+      "kiminami",
+      "На твоей волне",
+      "Піймай свою хвилю",
+      "Сенің толқыныңда",
+      "คำสัญญา..ปาฎิหาริย์รัก 2 โลก",
+      "きみと, 波にのれたら",
+      "きみと、波にのれたら",
+      "きみ波",
+      "乘浪之約",
+      "浪尖上的約定",
+      "若能與你共乘海浪之上",
+      "너와 파도를 탈 수 있다면"
     ]
   }
 ]

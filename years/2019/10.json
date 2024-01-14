@@ -58,6 +58,12 @@
         "broadcast": "R/2019-10-05T16:30:00.000Z/P7D"
       },
       {
+        "site": "abema",
+        "id": "25-1nzan-whrxe",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "14796"
       },
@@ -211,6 +217,7 @@
       "ソードアート・オンライン アリシゼーション War of Underworld 最終章 (2nd Season)",
       "ソードアート・オンライン アリシゼーション War of Underworld （2020）",
       "ソードアート・オンライン アリシゼーション War of Underworld　最終章(2ndクール)",
+      "刀剑神域 Alicization War of Underworld 后半部",
       "刀劍神域 Alicization War of Underworld -THE LAST SEASON-",
       "소드 아트 온라인: 앨리시제이션 - War of Underworld (2020)"
     ]
@@ -298,6 +305,12 @@
         "id": "28222853",
         "begin": "2019-10-02T15:00:00.000Z",
         "broadcast": "R/2019-10-02T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-129",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -715,6 +728,12 @@
         "id": "28222949",
         "begin": "2019-10-07T15:00:00.000Z",
         "broadcast": "R/2019-10-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "168-32",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -1130,15 +1149,15 @@
       },
       {
         "site": "anime-planet",
-        "id": "ascendance-of-a-bookworm-part-ii"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ascendance-of-a-bookworm-part-iii"
-      },
-      {
-        "site": "anime-planet",
         "id": "ascendance-of-a-bookworm-recaps"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ascendance-of-a-bookworm-season-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ascendance-of-a-bookworm-season-3"
       },
       {
         "site": "anisearch",
@@ -1163,6 +1182,10 @@
       {
         "site": "livechart",
         "id": "10065"
+      },
+      {
+        "site": "livechart",
+        "id": "12439"
       },
       {
         "site": "livechart",
@@ -1367,6 +1390,12 @@
         "id": "104419",
         "begin": "2019-12-27T04:00:00.000Z",
         "broadcast": "R/2019-12-27T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "174-13",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -1385,11 +1414,10 @@
       "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku You Desu!",
       "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku You desu!",
       "Choyoyu",
-      "Choyoyu!: High School Prodigies Have It Easy Even In Another World!",
+      "Choyoyu! High School Prodigies Have It Easy Even in Another World!",
       "Chōjin Kōkōsei-tachi wa Isekai demo Yoyū de Ikinuku Yō desu!",
       "Die Oberschul-Wunderkinder sind in einer anderen Welt eingetroffen!",
       "High School Prodigies Have It Easy Even In Another World",
-      "High School Prodigies Have It Easy Even In Another World!",
       "High School Prodigies Have It Easy Even in Another World",
       "High School Prodigies Have It Easy Even in Another World!",
       "I prodigi delle superiori sono arrivati in un altro mondo!",
@@ -1463,7 +1491,8 @@
       "ヴァルラヴ",
       "战×恋",
       "戦×恋",
-      "戦×恋（ヴァルラヴ）"
+      "戦×恋（ヴァルラヴ）",
+      "싸움×사랑"
     ]
   },
   {
@@ -2304,7 +2333,7 @@
       }
     ],
     "animeSeason": {
-      "season": "SPRING",
+      "season": "WINTER",
       "year": 2020,
       "month": "10"
     },
@@ -2601,7 +2630,7 @@
       }
     ],
     "animeSeason": {
-      "season": "SPRING",
+      "season": "WINTER",
       "year": 2020,
       "month": "10"
     },
@@ -2929,6 +2958,10 @@
       },
       {
         "site": "anilist",
+        "id": "15119"
+      },
+      {
+        "site": "anilist",
         "id": "99424"
       },
       {
@@ -2941,11 +2974,43 @@
       },
       {
         "site": "myanimelist",
+        "id": "55365"
+      },
+      {
+        "site": "myanimelist",
         "id": "57108"
       },
       {
         "site": "myanimelist",
         "id": "57109"
+      },
+      {
+        "site": "myanimelist",
+        "id": "57358"
+      },
+      {
+        "site": "myanimelist",
+        "id": "57359"
+      },
+      {
+        "site": "myanimelist",
+        "id": "57397"
+      },
+      {
+        "site": "myanimelist",
+        "id": "57398"
+      },
+      {
+        "site": "myanimelist",
+        "id": "57415"
+      },
+      {
+        "site": "myanimelist",
+        "id": "57424"
+      },
+      {
+        "site": "myanimelist",
+        "id": "57485"
       }
     ],
     "animeSeason": {
@@ -5405,6 +5470,10 @@
       },
       {
         "site": "anime-planet",
+        "id": "psycho-pass-providence"
+      },
+      {
+        "site": "anime-planet",
         "id": "psycho-pass-ss-case-1-crime-and-punishment"
       },
       {
@@ -5993,6 +6062,10 @@
       },
       {
         "site": "livechart",
+        "id": "12399"
+      },
+      {
+        "site": "livechart",
         "id": "2887"
       },
       {
@@ -6060,6 +6133,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "只想受你欢迎。"
+      ],
+      "zh-Hant": [
+        "只想受到你的歡迎"
       ]
     },
     "type": "movie",
@@ -6078,6 +6154,12 @@
         "id": "28228701",
         "begin": "2019-10-24T16:00:00.000Z",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "107464",
+        "begin": "2023-09-01T02:00:00.000Z",
+        "broadcast": "R/2023-09-01T02:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -6118,6 +6200,12 @@
       {
         "site": "bilibili",
         "id": "28229860",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "19-141",
         "begin": "",
         "broadcast": ""
       },

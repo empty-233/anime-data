@@ -1,142 +1,631 @@
 [
   {
-    "title": "MEMORIES",
+    "title": "ドラゴンボールZ 復活のフュージョン!!悟空とベジータ",
     "titleTranslate": {
       "zh-Hans": [
-        "回忆三部曲"
+        "龙珠Z 复活！悟空与贝吉塔的合体"
       ]
     },
     "type": "movie",
     "lang": "ja",
     "officialSite": "",
-    "begin": "1995-12-23T16:00:00.000Z",
-    "end": "1995-12-23T16:00:00.000Z",
+    "begin": "1995-03-04T16:00:00.000Z",
+    "end": "1995-03-04T16:55:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "Gj0Ihu5UxAJl40s",
+        "site": "bangumi",
+        "id": "18504"
+      },
+      {
+        "site": "nicovideo",
+        "id": "DBZ_fushion",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4015",
+        "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "1530"
+      },
+      {
+        "site": "anilist",
+        "id": "813"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-episode-of-bardock"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-plan-to-destroy-the-saiyajin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-yo-the-return-of-son-goku-and-friends"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-atsumare-goku-world"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-battle-of-gods"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-kai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-kai-bring-peace-to-the-future-gokus-spirit-is-eternal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-kai-the-final-chapters"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-1-dead-zone"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-10-broly-second-coming"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-11-bio-broly"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-13-wrath-of-the-dragon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-15-resurrection-f"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-2-the-world-s-strongest"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-3-the-tree-of-might"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-4-lord-slug"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-5-cooler-s-revenge"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-6-return-of-cooler"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-7-super-android-13"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-8-broly-the-legendary-super-saiyan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-movie-9-bojack-unbound"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-plan-to-destroy-the-saiyajin"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-special-1-bardock-the-father-of-goku"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dragon-ball-z-special-2-the-history-of-trunks"
+      },
+      {
+        "site": "anisearch",
+        "id": "2938"
+      },
+      {
+        "site": "kitsu",
+        "id": "720"
+      },
+      {
+        "site": "livechart",
+        "id": "3632"
+      },
+      {
+        "site": "livechart",
+        "id": "4152"
+      },
+      {
+        "site": "livechart",
+        "id": "4177"
+      },
+      {
+        "site": "livechart",
+        "id": "4206"
+      },
+      {
+        "site": "livechart",
+        "id": "4219"
+      },
+      {
+        "site": "livechart",
+        "id": "4264"
+      },
+      {
+        "site": "livechart",
+        "id": "4268"
+      },
+      {
+        "site": "livechart",
+        "id": "4287"
+      },
+      {
+        "site": "livechart",
+        "id": "4294"
+      },
+      {
+        "site": "livechart",
+        "id": "4312"
+      },
+      {
+        "site": "livechart",
+        "id": "4367"
+      },
+      {
+        "site": "livechart",
+        "id": "5074"
+      },
+      {
+        "site": "livechart",
+        "id": "5540"
+      },
+      {
+        "site": "livechart",
+        "id": "5906"
+      },
+      {
+        "site": "livechart",
+        "id": "6390"
+      },
+      {
+        "site": "myanimelist",
+        "id": "813"
+      },
+      {
+        "site": "notify",
+        "id": "ir-05Fmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1995,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1015/93675.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1015/93675t.jpg",
+    "synonyms": [
+      "Bảy Viên Ngọc Rồng Z: Cửa Địa Ngục",
+      "DBZ Movie 12",
+      "Dragon Ball Z - Der Film",
+      "Dragon Ball Z 12 - A Fusão",
+      "Dragon Ball Z 12 - Fusion",
+      "Dragon Ball Z 12 - Janemba",
+      "Dragon Ball Z : Fusions",
+      "Dragon Ball Z Film 12: Die Fusion",
+      "Dragon Ball Z Film 12: Fusion",
+      "Dragon Ball Z Movie 12: Fusion Reborn",
+      "Dragon Ball Z Película 12: ¡El Renacimiento de la Fusión! Goku y Vegeta",
+      "Dragon Ball Z: Die Fusion",
+      "Dragon Ball Z: Fukkatsu no Fusion!! Goku to Vegeta",
+      "Dragon Ball Z: Fukkatsu no Fusion!! Gokuu to Vegeta",
+      "Dragon Ball Z: Fukkatsu no Fusion!! Gokū to Vegeta",
+      "Dragon Ball Z: Fusion Reborn",
+      "Dragon Ball Z: Fusion Revival!! Goku and Vegeta",
+      "Dragon Ball Z: Fusión",
+      "Dragon Ball Z: Fuzja",
+      "Dragon Ball Z: Il diabolico guerriero degli inferi",
+      "Dragon Ball Z: Movie 12",
+      "Dragon Ball Z: Revival Fusion",
+      "Dragon Ball Z: The Rebirth of Fusion!! Goku and Vegeta",
+      "Dragonball Z: Die Fusion",
+      "ดราก้อนบอล Z เดอะมูฟวี่ 12 ฟิวชั่นของโกคูและเบจีต้า",
+      "ドラゴンボールZ 復活のフュージョン!! 悟空とベジータ",
+      "ドラゴンボールZ 復活のフュージョン!!悟空とベジータ",
+      "ドラゴンボールZ 復活のフュージョン！！悟空とベジータ",
+      "ドラゴンボールＺ 復活のフュージョン!!悟空とベジータ"
+    ]
+  },
+  {
+    "title": "スラムダンク 湘北最大の危機！燃えろ桜木花道",
+    "titleTranslate": {
+      "zh-Hans": [
+        "灌篮高手 湘北最大的危机！燃烧吧樱木花道"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-03-04T16:00:00.000Z",
+    "end": "1995-03-04T16:40:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3733"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb405h",
+        "begin": "2016-02-04T10:33:39.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "590"
+      },
+      {
+        "site": "anilist",
+        "id": "170"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slam-dunk"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slam-dunk-movie-1"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slam-dunk-movie-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "slam-dunk-movie-4"
+      },
+      {
+        "site": "anisearch",
+        "id": "1808"
+      },
+      {
+        "site": "kitsu",
+        "id": "148"
+      },
+      {
+        "site": "livechart",
+        "id": "10318"
+      },
+      {
+        "site": "livechart",
+        "id": "11964"
+      },
+      {
+        "site": "livechart",
+        "id": "3848"
+      },
+      {
+        "site": "livechart",
+        "id": "4970"
+      },
+      {
+        "site": "livechart",
+        "id": "5443"
+      },
+      {
+        "site": "livechart",
+        "id": "5690"
+      },
+      {
+        "site": "myanimelist",
+        "id": "170"
+      },
+      {
+        "site": "notify",
+        "id": "4DutcFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1995,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1140/94409.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1140/94409t.jpg",
+    "synonyms": [
+      "SDM3",
+      "SLAM DUNK 湘北最大の危機! 燃えろ桜木花道",
+      "SLAM DUNK: Shouhoku Saidai no Kiki! Moero Sakuragi Hanamichi",
+      "Slam Dunk : Situation Critique pour Shôhoku ! Enflamme-toi, Hanamichi Sakuragi !",
+      "Slam Dunk Movie 3",
+      "Slam Dunk OVA 3",
+      "Slam Dunk Shouhoku Kaidai no Kiki! Moeru Sakuragi Hanamichi",
+      "Slam Dunk. Movie 3: Shouhoku Saidai no Kiki! Moero Sakuragi Hanamichi",
+      "Slam Dunk: Shohoku Maximum Crisis! Burn Sakuragi Hanamichi",
+      "Slam Dunk: Shouhoku's Greatest Danger! Sakuragi Hanamichi",
+      "Slam Dunk: Shōhoku Saidai no Kiki! Moero Sakuragi Hanamichi",
+      "สแลมดังก์ เดอะ มูฟวี่ อันตรายของโชโฮคุและความเร่าร้อนของซากุรางิ",
+      "スラムダンク 湘北最大の危機! 燃えろ桜木花道",
+      "スラムダンク 湘北最大の危機！燃えろ桜木花道"
+    ]
+  },
+  {
+    "title": "ドラえもん のび太の創世日記",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：大雄的创世日记"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-03-04T16:00:00.000Z",
+    "end": "1995-03-04T17:40:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "80950",
         "begin": ""
       },
       {
         "site": "bangumi",
-        "id": "3627"
-      }
-    ],
-    "animeSeason": {
-      "season": "WINTER",
-      "year": 1995,
-      "month": "12"
-    },
-    "status": "FINISHED",
-    "episodes": 3,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/74781.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/74781t.jpg",
-    "synonyms": [
-      "Amintiri",
-      "Anılar",
-      "Atsiminimai",
-      "Cannon Fodder",
-      "Emlékek",
-      "Hatıralar",
-      "Kanojo no Omoide",
-      "MEMORIES",
-      "MEMORIES（メモリーズ）",
-      "Magnetic Rose",
-      "Memories - muistoja tulevaisuudesta",
-      "Memórias",
-      "Recuerdos",
-      "Recuerdos peligrosos",
-      "Saishuu-heiki",
-      "Stink Bomb",
-      "Taihou no Machi",
-      "Wspomnienia",
-      "Воспоминания о будущем",
-      "Спогади",
-      "Спомени",
-      "メモリーズ",
-      "回忆三部曲",
-      "回憶三部曲",
-      "大砲の街",
-      "彼女の想いで",
-      "最臭兵器",
-      "메모리즈"
-    ]
-  },
-  {
-    "title": "こどものおもちゃ OVA",
-    "titleTranslate": {
-      "zh-Hans": [
-        "玩偶游戏"
-      ]
-    },
-    "type": "ova",
-    "lang": "ja",
-    "officialSite": "",
-    "begin": "1995-12-15T16:00:00.000Z",
-    "end": "1995-12-15T16:00:00.000Z",
-    "sites": [
+        "id": "455"
+      },
       {
-        "site": "bangumi",
-        "id": "134594"
+        "site": "pptv",
+        "id": "7qoHhe1TwwFk4ko",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "z/z8alyhrvkd3jp2y",
+        "begin": ""
       },
       {
         "site": "bilibili",
-        "id": "5471",
-        "begin": "2016-08-24T03:45:00.000Z",
-        "broadcast": "R/2016-08-24T03:45:00.000Z/P7D"
+        "id": "2563",
+        "begin": "1995-03-03T16:00:00.000Z"
+      },
+      {
+        "site": "abema",
+        "id": "35-46",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
-        "id": "285"
+        "id": "1078"
+      },
+      {
+        "site": "anidb",
+        "id": "2691"
       },
       {
         "site": "anilist",
-        "id": "1486"
+        "id": "2471"
       },
       {
         "site": "anime-planet",
-        "id": "kodocha"
+        "id": "doraemon-1979"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back-1998"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-doraemons-strange-sweets-strange"
       },
       {
         "site": "anisearch",
-        "id": "888"
+        "id": "540"
       },
       {
         "site": "kitsu",
-        "id": "1332"
+        "id": "2412"
+      },
+      {
+        "site": "kitsu",
+        "id": "460"
       },
       {
         "site": "livechart",
-        "id": "5653"
+        "id": "12164"
+      },
+      {
+        "site": "livechart",
+        "id": "5614"
+      },
+      {
+        "site": "livechart",
+        "id": "6575"
+      },
+      {
+        "site": "livechart",
+        "id": "6880"
+      },
+      {
+        "site": "livechart",
+        "id": "8740"
+      },
+      {
+        "site": "livechart",
+        "id": "8868"
+      },
+      {
+        "site": "livechart",
+        "id": "8871"
+      },
+      {
+        "site": "livechart",
+        "id": "8877"
+      },
+      {
+        "site": "livechart",
+        "id": "8878"
+      },
+      {
+        "site": "livechart",
+        "id": "8884"
+      },
+      {
+        "site": "livechart",
+        "id": "8897"
+      },
+      {
+        "site": "livechart",
+        "id": "8900"
+      },
+      {
+        "site": "livechart",
+        "id": "8901"
+      },
+      {
+        "site": "livechart",
+        "id": "8902"
+      },
+      {
+        "site": "livechart",
+        "id": "8998"
       },
       {
         "site": "myanimelist",
-        "id": "1486"
+        "id": "2471"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2648"
       },
       {
         "site": "notify",
-        "id": "53OacFmmR"
+        "id": "AK1s5Kiig"
+      },
+      {
+        "site": "notify",
+        "id": "BRto5KimR"
       }
     ],
     "animeSeason": {
       "season": "WINTER",
       "year": 1995,
-      "month": "12"
+      "month": "03"
     },
     "status": "FINISHED",
     "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1461/105879.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1461/105879t.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/8/72421.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/72421t.jpg",
     "synonyms": [
-      "Child's Toy OVA",
-      "Child`s toy OVA",
-      "Kodocha OVA",
-      "Kodomo no Omocha (OVA)",
-      "Kodomo no Omocha OVA",
-      "kodocha ova",
-      "こどものおもちゃ",
-      "こどものおもちゃ (OVA)",
-      "こどものおもちゃ OVA"
+      "Doraemon Movie 16",
+      "Doraemon Movie 16: Nobita's Genesis Diary",
+      "Doraemon Película 16: Doraemon y la Historia de la Creación del Mundo",
+      "Doraemon the Movie: Nobita's Diary of the Creation of the World",
+      "Doraemon: Nobita no Sousei Nikki",
+      "Doraemon: Nobita no Sōsei Nikki",
+      "Doraemon: Nobita's Diary of the Creation of the World",
+      "Doraemon: Nobita's Genesis Diary",
+      "Doraemon: Nobita`s Diary of the Creation of the World",
+      "Doraemon: Nobita`s Diary on the Creation of the World",
+      "ドラえもん のび太の創世日記",
+      "哆啦A梦 大雄的创世日记",
+      "映画 ドラえもん のび太の創世日記"
+    ]
+  },
+  {
+    "title": "ユンカース・カム・ヒア",
+    "titleTranslate": {
+      "zh-Hans": [
+        "祈愿物语"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-03-18T16:00:00.000Z",
+    "end": "1995-03-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "63012"
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200rpjb37v",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "9205"
+      },
+      {
+        "site": "anilist",
+        "id": "122029"
+      },
+      {
+        "site": "anime-planet",
+        "id": "junkers-come-here-memories-of-you"
+      },
+      {
+        "site": "anime-planet",
+        "id": "junkers-come-here-pilot-film"
+      },
+      {
+        "site": "anisearch",
+        "id": "7792"
+      },
+      {
+        "site": "kitsu",
+        "id": "9009"
+      },
+      {
+        "site": "myanimelist",
+        "id": "19627"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42228"
+      },
+      {
+        "site": "notify",
+        "id": "6Z9xpKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1995,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1343/100456.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1343/100456t.jpg",
+    "synonyms": [
+      "Junkers Come Home",
+      "Yookasu Come Here",
+      "ゆんかーす・かむ・ひあ",
+      "ユンカース・カム・ヒア",
+      "祈愿物语"
     ]
   },
   {
@@ -461,7 +950,7 @@
       "month": "01"
     },
     "status": "ONGOING",
-    "episodes": 1415,
+    "episodes": 1421,
     "picture": "https://cdn.myanimelist.net/images/anime/1108/100604.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1108/100604t.jpg",
     "synonyms": [
@@ -757,7 +1246,7 @@
       "month": "01"
     },
     "status": "ONGOING",
-    "episodes": 1415,
+    "episodes": 1421,
     "picture": "https://cdn.myanimelist.net/images/anime/1108/100604.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1108/100604t.jpg",
     "synonyms": [

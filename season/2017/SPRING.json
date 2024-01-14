@@ -90,7 +90,8 @@
       {
         "site": "nicovideo",
         "id": "mahouka_movie",
-        "begin": ""
+        "begin": "2018-04-24T15:00:00.000Z",
+        "broadcast": "R/2018-04-24T15:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -102,6 +103,12 @@
         "id": "82332",
         "begin": "2020-04-01T04:40:00.000Z",
         "broadcast": "R/2020-04-01T04:40:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-101",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -137,11 +144,11 @@
       },
       {
         "site": "anime-planet",
-        "id": "the-irregular-at-magic-high-school-new"
+        "id": "the-irregular-at-magic-high-school-reminiscence-arc"
       },
       {
         "site": "anime-planet",
-        "id": "the-irregular-at-magic-high-school-reminiscence-arc"
+        "id": "the-irregular-at-magic-high-school-season-3"
       },
       {
         "site": "anime-planet",
@@ -485,6 +492,94 @@
       "Mobile Suit Gundam: Twilight Axis",
       "機動戦士ガンダム TWILIGHT AXIS",
       "機動戦士ガンダム Twilight AXIS"
+    ]
+  },
+  {
+    "title": "CHAOS;CHILD SILENT SKY",
+    "titleTranslate": {
+      "zh-Hans": [
+        "混沌子 SILENT SKY"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://chaoschildanime.com/",
+    "begin": "2017-06-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-06-16T16:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212221"
+      },
+      {
+        "site": "nicovideo",
+        "id": "chaos-child-silent-sky",
+        "begin": "2022-01-31T15:00:00.000Z",
+        "broadcast": "R/2022-01-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "11166"
+      },
+      {
+        "site": "anilist",
+        "id": "21126"
+      },
+      {
+        "site": "anime-planet",
+        "id": "chaos-child"
+      },
+      {
+        "site": "anime-planet",
+        "id": "chaos-child-chaos-head"
+      },
+      {
+        "site": "anisearch",
+        "id": "10334"
+      },
+      {
+        "site": "kitsu",
+        "id": "10786"
+      },
+      {
+        "site": "livechart",
+        "id": "1490"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30485"
+      },
+      {
+        "site": "notify",
+        "id": "Xki_tFmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/88031.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/88031t.jpg",
+    "synonyms": [
+      "C;C movie",
+      "CHAOS;CHILD SILENT SKY",
+      "CHAOS;CHILD: SILENT SKY",
+      "CHAOS;CHILD: Silent Sky",
+      "Chaos Child",
+      "Chaos Child Episode 13",
+      "Chaos Child Episode 14",
+      "Chaos Child: Silent Sky",
+      "Chaos;Child, Folge 13 & 14 Silent Sky",
+      "Chaos;Child: Silent Sky",
+      "ChäoS;Child: Silent Sky. Episodios 13 y 14",
+      "ChäoS;Child: Épisode 13 und 14 Silent Sky",
+      "Chäos;Child: Silent Sky",
+      "카오스;차일드: SILENT SKY"
     ]
   },
   {
@@ -861,15 +956,7 @@
       },
       {
         "site": "myanimelist",
-        "id": "12049"
-      },
-      {
-        "site": "myanimelist",
         "id": "22043"
-      },
-      {
-        "site": "myanimelist",
-        "id": "6702"
       },
       {
         "site": "notify",
@@ -1531,6 +1618,12 @@
         "broadcast": "R/2021-11-12T06:00:00.000Z/P7D"
       },
       {
+        "site": "abema",
+        "id": "19-143",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "10538"
       },
@@ -1717,6 +1810,12 @@
       {
         "site": "disneyplus",
         "id": "2Mj3DLJdrkpa",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "174-7",
         "begin": "",
         "broadcast": ""
       },
@@ -1980,6 +2079,12 @@
         "broadcast": ""
       },
       {
+        "site": "abema",
+        "id": "30-5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "13241"
       },
@@ -2234,9 +2339,10 @@
       "Angreifende Riesen 2",
       "AoT 2",
       "AoT2",
-      "Ataque A Los Titanes Secunda Temporada",
       "Ataque A Los Titanes Temporada 2",
       "Ataque a los Titanes Temporada 2",
+      "Ataque a los Titanes: Secunda Temporada",
+      "Ataque a los Titanes: Temporada 2",
       "Attack on Titan (2017)",
       "Attack on Titan 2",
       "Attack on Titan 2nd Season",
@@ -2668,6 +2774,10 @@
       },
       {
         "site": "myanimelist",
+        "id": "41062"
+      },
+      {
+        "site": "myanimelist",
         "id": "49057"
       }
     ],
@@ -2790,6 +2900,12 @@
         "id": "PLC18xlbCdwtTSgY082GehVYBm37ahyQiZ",
         "begin": "2022-07-24T16:00:00.000Z",
         "broadcast": "R/2022-07-24T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-60",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -3118,6 +3234,12 @@
         "broadcast": "R/2023-06-02T03:00:00.000Z/P7D"
       },
       {
+        "site": "abema",
+        "id": "25-59",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "13580"
       },
@@ -3237,6 +3359,12 @@
         "id": "84118",
         "begin": "2017-04-11T16:00:00.000Z",
         "broadcast": "R/2017-04-11T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-63",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -3409,6 +3537,9 @@
       "zh-Hans": [
         "从零开始的魔法书",
         "零之魔法书"
+      ],
+      "zh-Hant": [
+        "從零開始的魔法書"
       ]
     },
     "type": "tv",
@@ -3436,6 +3567,18 @@
         "site": "nicovideo",
         "id": "zeronosyo",
         "begin": "2017-04-17T15:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "85400",
+        "begin": "2023-12-15T04:00:00.000Z",
+        "broadcast": "R/2023-12-15T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-58",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -3477,9 +3620,11 @@
     "thumbnail": "https://cdn.myanimelist.net/images/anime/5/85224t.jpg",
     "synonyms": [
       "El Libro Mágico de Zero",
+      "El Mágico Libro de Zero",
       "El mágico libro de Zero",
       "Grimoire of Zero",
       "Grymuar Zero",
+      "La Bruja y la Bestia",
       "Zero kara Hajimeru Mahō no Sho",
       "zeronosyo",
       "zerosho",
@@ -3752,6 +3897,12 @@
         "id": "86651",
         "begin": "2017-04-11T19:00:00.000Z",
         "broadcast": "R/2017-04-11T19:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "190-26",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -7771,7 +7922,6 @@
       "Night is Short, Walk on Girl",
       "The Night Is Short",
       "The Night Is Short, Walk On Girl",
-      "The Night Is Short, Walk on Girl",
       "The Night is Short, Walk On Girl",
       "The Night is Short, Walk on Girl",
       "Walk On Girl",
@@ -7782,155 +7932,6 @@
       "春宵苦短,少女前进吧!",
       "春宵苦短，少女前进吧！",
       "밤은 짧아 걸어 아가씨야"
-    ]
-  },
-  {
-    "title": "ドラえもん のび太の南極カチコチ大冒険",
-    "titleTranslate": {
-      "zh-Hans": [
-        "哆啦A梦 大雄的南极大冒险"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "http://doraeiga.com/2017/",
-    "begin": "2017-03-04T16:00:00.000Z",
-    "end": "2017-03-04T17:40:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "187132"
-      },
-      {
-        "site": "anidb",
-        "id": "4635"
-      },
-      {
-        "site": "anilist",
-        "id": "8687"
-      },
-      {
-        "site": "anime-planet",
-        "id": "doraemon-1979"
-      },
-      {
-        "site": "anime-planet",
-        "id": "doraemon-2005"
-      },
-      {
-        "site": "anime-planet",
-        "id": "doraemon-doraemon-comes-back"
-      },
-      {
-        "site": "anime-planet",
-        "id": "doraemon-doraemon-comes-back-1998"
-      },
-      {
-        "site": "anime-planet",
-        "id": "the-doraemons-strange-sweets-strange"
-      },
-      {
-        "site": "anisearch",
-        "id": "3754"
-      },
-      {
-        "site": "kitsu",
-        "id": "5443"
-      },
-      {
-        "site": "livechart",
-        "id": "12164"
-      },
-      {
-        "site": "livechart",
-        "id": "5614"
-      },
-      {
-        "site": "livechart",
-        "id": "6575"
-      },
-      {
-        "site": "livechart",
-        "id": "6880"
-      },
-      {
-        "site": "livechart",
-        "id": "8740"
-      },
-      {
-        "site": "livechart",
-        "id": "8868"
-      },
-      {
-        "site": "livechart",
-        "id": "8871"
-      },
-      {
-        "site": "livechart",
-        "id": "8877"
-      },
-      {
-        "site": "livechart",
-        "id": "8878"
-      },
-      {
-        "site": "livechart",
-        "id": "8884"
-      },
-      {
-        "site": "livechart",
-        "id": "8897"
-      },
-      {
-        "site": "livechart",
-        "id": "8900"
-      },
-      {
-        "site": "livechart",
-        "id": "8901"
-      },
-      {
-        "site": "livechart",
-        "id": "8902"
-      },
-      {
-        "site": "livechart",
-        "id": "8998"
-      },
-      {
-        "site": "myanimelist",
-        "id": "8687"
-      },
-      {
-        "site": "notify",
-        "id": "vluitKmiR"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2017,
-      "month": "03"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/84521.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/84521t.jpg",
-    "synonyms": [
-      "Doraemon Movie 37",
-      "Doraemon Movie 37: Great Adventure in the Antarctic Kachi Kochi",
-      "Doraemon Movie 37: Nobita no Nankyoku Kachi Kochi Daibouken",
-      "Doraemon Película 37: Doraemon y la Gran Aventura en la Antártida",
-      "Doraemon il film: Nobita e la grande avventura in Antartide \"Kachi Kochi\"",
-      "Doraemon the Movie 2017: Great Adventure in the Antarctic Kachi Kochi",
-      "Doraemon the Movie 37: Great Adventure in the Antarctic Kachi Kochi",
-      "Doraemon: Aventura en la Antártida",
-      "Doraemon: Great Adventure in the Antarctic Kachi Kochi",
-      "Doraemon: Nobita no Nankyoku Kachi Kochi Daibouken",
-      "Eiga Doraemon: Nobita no Nankyoku Kachi Kochi Daibouken",
-      "Eiga Doraemon: Nobita no Nankyoku Kachi Kochi Daibōken",
-      "ドラえもん のび太の南極カチコチ大冒険",
-      "映画 ドラえもん のび太の南極カチコチ大冒険",
-      "映画ドラえもん のび太の南極カチコチ大冒険"
     ]
   },
   {
@@ -8068,73 +8069,6 @@
     ]
   },
   {
-    "title": "変形少女",
-    "titleTranslate": {
-      "zh-Hans": [
-        "变形少女"
-      ]
-    },
-    "type": "web",
-    "lang": "ja",
-    "officialSite": "http://henkeigirls.com/",
-    "begin": "2017-03-27T16:00:00.000Z",
-    "end": "2017-10-24T16:02:00.000Z",
-    "sites": [
-      {
-        "site": "pptv",
-        "id": "EycRjicddzQtu7FQ",
-        "begin": ""
-      },
-      {
-        "site": "sohu",
-        "id": "s2017/dhpbxsn",
-        "begin": ""
-      },
-      {
-        "site": "qq",
-        "id": "l/ls84d0qcj6rcuq1",
-        "begin": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "212187"
-      },
-      {
-        "site": "iqiyi",
-        "id": "a_19rrhd0rb1",
-        "begin": "2017-08-29T08:37:22.000Z"
-      },
-      {
-        "site": "bilibili",
-        "id": "6070",
-        "begin": "2017-03-26T16:00:01.000Z",
-        "broadcast": "R/2017-08-30T05:57:00.000Z/P7D"
-      },
-      {
-        "site": "youku",
-        "id": "efbfbd58efbfbd6f7311",
-        "begin": ""
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2017,
-      "month": "03"
-    },
-    "status": "FINISHED",
-    "episodes": 5,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/86539.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/86539t.jpg",
-    "synonyms": [
-      "Henkei Girls",
-      "Henkei Shojo",
-      "Henkei Shōjo",
-      "Transforming Girls",
-      "变形少女",
-      "変形少女"
-    ]
-  },
-  {
     "title": "劇場版総集編 オーバーロード 漆黒の英雄",
     "titleTranslate": {
       "zh-Hans": [
@@ -8233,11 +8167,11 @@
       },
       {
         "site": "livechart",
-        "id": "10572"
+        "id": "11290"
       },
       {
         "site": "livechart",
-        "id": "11290"
+        "id": "12390"
       },
       {
         "site": "livechart",
@@ -8270,6 +8204,10 @@
       {
         "site": "livechart",
         "id": "3550"
+      },
+      {
+        "site": "livechart",
+        "id": "4642"
       },
       {
         "site": "livechart",
@@ -8327,291 +8265,6 @@
       "โอเวอร์ ลอร์ด จอมมารพิชิตโลก เดอะ มูฟวี่ The Dark Hero",
       "【後編】劇場版総集編 オーバーロード 漆黒の英雄",
       "劇場版総集編 オーバーロード 漆黒の英雄"
-    ]
-  },
-  {
-    "title": "恋するシロクマ",
-    "titleTranslate": {
-      "zh-Hans": [
-        "恋爱的白熊"
-      ]
-    },
-    "type": "web",
-    "lang": "ja",
-    "officialSite": "http://koisurushirokuma.jp/",
-    "begin": "2017-02-28T16:00:00.000Z",
-    "end": "2018-02-01T16:00:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "202156"
-      },
-      {
-        "site": "letv",
-        "id": "10037653",
-        "begin": ""
-      },
-      {
-        "site": "anilist",
-        "id": "132016"
-      },
-      {
-        "site": "anime-planet",
-        "id": "a-polar-bear-in-love-chikyuu-wa-marui-hen"
-      },
-      {
-        "site": "anime-planet",
-        "id": "a-polar-bear-in-love-web"
-      },
-      {
-        "site": "anisearch",
-        "id": "13017"
-      },
-      {
-        "site": "myanimelist",
-        "id": "36742"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2017,
-      "month": "02"
-    },
-    "status": "FINISHED",
-    "episodes": 21,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/84270.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/84270t.jpg",
-    "synonyms": [
-      "A Polar Bear in Love",
-      "Koi Suru Shirokuma",
-      "Polar Bear in Love",
-      "恋するシロクマ"
-    ]
-  },
-  {
-    "title": "ガヴリールドロップアウト",
-    "titleTranslate": {
-      "zh-Hans": [
-        "珈百璃的堕落",
-        "废天使加百列"
-      ],
-      "en": [
-        "Gabriel Dropout"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://gabdro.com/",
-    "begin": "2017-01-09T13:30:00.000Z",
-    "end": "2017-03-27T14:00:00.000Z",
-    "sites": [
-      {
-        "site": "bilibili",
-        "id": "5793",
-        "begin": "2017-01-09T15:00:00.000Z",
-        "broadcast": "R/2017-01-09T15:00:00.000Z/P7D",
-        "comment": "SP: 6042"
-      },
-      {
-        "site": "iqiyi",
-        "id": "a_19rrh91prt",
-        "begin": "2017-01-09T15:00:00.000Z"
-      },
-      {
-        "site": "pptv",
-        "id": "ZcibpJ4ic1ZaMGhOw",
-        "begin": "2017-01-09T15:00:00.000Z"
-      },
-      {
-        "site": "mgtv",
-        "id": "310215",
-        "begin": "2017-01-09T15:00:00.000Z"
-      },
-      {
-        "site": "sohu",
-        "id": "s2018/dhpjblddl",
-        "begin": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "188091"
-      },
-      {
-        "site": "nicovideo",
-        "id": "gabdro",
-        "begin": "2017-01-15T15:30:00.000Z"
-      },
-      {
-        "site": "qq",
-        "id": "r/rb48zfttktfr7sq",
-        "begin": ""
-      },
-      {
-        "site": "youku",
-        "id": "ec93eb2ec1b511e6acec",
-        "begin": ""
-      },
-      {
-        "site": "acfun",
-        "id": "5025006",
-        "begin": ""
-      },
-      {
-        "site": "anilist",
-        "id": "21878"
-      },
-      {
-        "site": "anime-planet",
-        "id": "gabriel-dropout"
-      },
-      {
-        "site": "anisearch",
-        "id": "11636"
-      },
-      {
-        "site": "kitsu",
-        "id": "12497"
-      },
-      {
-        "site": "livechart",
-        "id": "2263"
-      },
-      {
-        "site": "myanimelist",
-        "id": "33731"
-      },
-      {
-        "site": "notify",
-        "id": "yIyz2KmiR"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2017,
-      "month": "01"
-    },
-    "status": "FINISHED",
-    "episodes": 2,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/89690.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/89690t.jpg",
-    "synonyms": [
-      "Gabriel Dropout OVA",
-      "Gabriel Dropout Specials",
-      "がぶりーるどろっぷあうと",
-      "ガヴリールドロップアウト",
-      "ガヴリールドロップアウト Specials",
-      "ガヴリールドロップアウトOVA"
-    ]
-  },
-  {
-    "title": "小林さんちのメイドラゴン",
-    "titleTranslate": {
-      "zh-Hans": [
-        "小林家的妹抖龙",
-        "小林家的龙女仆",
-        "小林家的女仆龙"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://maidragon.jp/",
-    "begin": "2017-01-11T15:00:00.000Z",
-    "end": "2017-04-05T15:30:00.000Z",
-    "sites": [
-      {
-        "site": "bilibili",
-        "id": "5800",
-        "begin": "2017-01-11T15:30:00.000Z",
-        "broadcast": "R/2017-01-11T15:30:00.000Z/P7D",
-        "comment": "中配版: 28236715"
-      },
-      {
-        "site": "bangumi",
-        "id": "179949"
-      },
-      {
-        "site": "nicovideo",
-        "id": "maidragon",
-        "begin": "2017-01-14T03:00:00.000Z"
-      },
-      {
-        "site": "anilist",
-        "id": "21776"
-      },
-      {
-        "site": "anime-planet",
-        "id": "miss-kobayashis-dragon-maid"
-      },
-      {
-        "site": "anime-planet",
-        "id": "miss-kobayashis-dragon-maid-valentines-and-hot-springs-please-dont-get-your-hopes-up"
-      },
-      {
-        "site": "anisearch",
-        "id": "11415"
-      },
-      {
-        "site": "kitsu",
-        "id": "12243"
-      },
-      {
-        "site": "livechart",
-        "id": "10497"
-      },
-      {
-        "site": "livechart",
-        "id": "10689"
-      },
-      {
-        "site": "livechart",
-        "id": "10690"
-      },
-      {
-        "site": "livechart",
-        "id": "10691"
-      },
-      {
-        "site": "livechart",
-        "id": "2166"
-      },
-      {
-        "site": "livechart",
-        "id": "2661"
-      },
-      {
-        "site": "livechart",
-        "id": "9222"
-      },
-      {
-        "site": "myanimelist",
-        "id": "33206"
-      },
-      {
-        "site": "notify",
-        "id": "ewaR2Kimg"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2017,
-      "month": "01"
-    },
-    "status": "FINISHED",
-    "episodes": 7,
-    "picture": "https://cdn.myanimelist.net/images/anime/1013/121928.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1013/121928t.jpg",
-    "synonyms": [
-      "Kobayashi-san Chi no Maid Dragon Specials",
-      "Kobayashi-san Chi no Marumaru Dragon",
-      "Kobayashi-san Chi no ○○ Dragon",
-      "Miss Kobayashi's Anything Dragon",
-      "Miss Kobayashi's Dragon Maid Specials",
-      "Miss Kobayashi's Dragon Something",
-      "Miss Kobayashi’s Dragon Something",
-      "The Maid Dragon of Kobayashi-san Specials",
-      "こばやしさんちのめいどらごん",
-      "小林さんちの○○ドラゴン",
-      "小林さんちのメイドラゴン"
     ]
   },
   {
@@ -8815,7 +8468,8 @@
       {
         "site": "nicovideo",
         "id": "nanbaka",
-        "begin": "2016-10-08T03:00:00.000Z"
+        "begin": "2016-10-08T03:00:00.000Z",
+        "broadcast": "R/2016-09-23T06:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -8902,126 +8556,6 @@
       "ナンバカ 出席番号のついたバカたち!",
       "ナンバカ 出関番号のついたバカたち",
       "出席番号のついたバカたち！"
-    ]
-  },
-  {
-    "title": "DAYS",
-    "titleTranslate": {
-      "zh-Hans": [
-        "DAYS"
-      ],
-      "en": [
-        "Days",
-        "DAYS"
-      ],
-      "zh-Hant": [
-        "DAYS"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://days-project.jp/",
-    "begin": "2016-07-02T18:28:00.000Z",
-    "end": "2016-12-17T18:28:00.000Z",
-    "sites": [
-      {
-        "site": "bilibili",
-        "id": "5063",
-        "begin": "2016-07-02T18:58:00.000Z",
-        "broadcast": "R/2016-07-02T18:58:00.000Z/P7D"
-      },
-      {
-        "site": "pptv",
-        "id": "Ys6qKJD2ZqQHhe0",
-        "begin": "2016-07-02T18:58:00.000Z"
-      },
-      {
-        "site": "letv",
-        "id": "10024397",
-        "begin": "2016-07-02T18:58:00.000Z"
-      },
-      {
-        "site": "youku",
-        "id": "806966103a7d11e6b32f",
-        "begin": "2016-07-02T18:58:00.000Z"
-      },
-      {
-        "site": "bangumi",
-        "id": "165046"
-      },
-      {
-        "site": "nicovideo",
-        "id": "days-project",
-        "begin": "2016-07-06T03:00:00.000Z"
-      },
-      {
-        "site": "gamer",
-        "id": "81353",
-        "begin": "2021-04-22T08:00:00.000Z",
-        "broadcast": "R/2021-04-22T08:00:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "11875"
-      },
-      {
-        "site": "anilist",
-        "id": "21578"
-      },
-      {
-        "site": "anime-planet",
-        "id": "days"
-      },
-      {
-        "site": "anime-planet",
-        "id": "days-2nd-season"
-      },
-      {
-        "site": "anisearch",
-        "id": "11222"
-      },
-      {
-        "site": "kitsu",
-        "id": "11748"
-      },
-      {
-        "site": "livechart",
-        "id": "1990"
-      },
-      {
-        "site": "livechart",
-        "id": "2455"
-      },
-      {
-        "site": "myanimelist",
-        "id": "32494"
-      },
-      {
-        "site": "notify",
-        "id": "Li2qtKmiR"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2017,
-      "month": "07"
-    },
-    "status": "FINISHED",
-    "episodes": 2,
-    "picture": "https://cdn.myanimelist.net/images/anime/1752/96673.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1752/96673t.jpg",
-    "synonyms": [
-      "DAYS",
-      "DAYS (2017)",
-      "DAYS OAD",
-      "DAYS OVA",
-      "Days (2017)",
-      "Days OAD",
-      "Days OAV",
-      "Days OVA",
-      "でいず",
-      "デイズ OVA",
-      "デイズ （2017）"
     ]
   },
   {

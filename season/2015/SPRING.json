@@ -100,8 +100,8 @@
       {
         "site": "nicovideo",
         "id": "animehorsaga",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-01-09T03:00:00.000Z",
+        "broadcast": "R/2021-01-09T03:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -177,7 +177,8 @@
       {
         "site": "nicovideo",
         "id": "you-zitsu",
-        "begin": "2017-07-18T16:00:00.000Z"
+        "begin": "2017-07-18T16:00:00.000Z",
+        "broadcast": "R/2017-07-06T09:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -196,6 +197,12 @@
         "id": "88688",
         "begin": "2017-07-12T16:00:00.000Z",
         "broadcast": "R/2017-07-12T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-73",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anime-planet",
@@ -237,109 +244,6 @@
       "ようこそじつりょくしじょうしゅぎのきょうしつへ",
       "ようこそ実力至上主義の教室へ",
       "ようこそ実力至上主義の教室へ PV"
-    ]
-  },
-  {
-    "title": "昭和元禄落語心中",
-    "titleTranslate": {
-      "zh-Hans": [
-        "昭和元禄落语心中"
-      ],
-      "zh-Hant": [
-        "昭和元祿 落語心中",
-        "昭和元祿落語心中"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://rakugo-shinju-anime.jp/",
-    "begin": "2016-01-08T17:35:00.000Z",
-    "end": "2016-03-18T17:55:00.000Z",
-    "sites": [
-      {
-        "site": "youku",
-        "id": "faedb5a4a86911e5be16",
-        "begin": "2016-01-08T19:10:00.000Z"
-      },
-      {
-        "site": "bangumi",
-        "id": "119394"
-      },
-      {
-        "site": "nicovideo",
-        "id": "rakugo-shinju",
-        "begin": "2016-10-11T15:00:00.000Z"
-      },
-      {
-        "site": "gamer",
-        "id": "74412",
-        "begin": "2020-12-09T02:00:00.000Z",
-        "broadcast": "R/2020-12-09T02:00:00.000Z/P7D"
-      },
-      {
-        "site": "bilibili_hk_mo_tw",
-        "id": "4308942",
-        "begin": "2018-11-19T10:09:50.000Z",
-        "broadcast": "R/2018-11-19T10:09:50.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "10960"
-      },
-      {
-        "site": "anilist",
-        "id": "20972"
-      },
-      {
-        "site": "anime-planet",
-        "id": "descending-stories-shouwa-genroku-rakugo-shinjuu"
-      },
-      {
-        "site": "anime-planet",
-        "id": "shouwa-genroku-rakugo-shinjuu"
-      },
-      {
-        "site": "anisearch",
-        "id": "10094"
-      },
-      {
-        "site": "kitsu",
-        "id": "10051"
-      },
-      {
-        "site": "livechart",
-        "id": "1314"
-      },
-      {
-        "site": "livechart",
-        "id": "2143"
-      },
-      {
-        "site": "myanimelist",
-        "id": "28735"
-      },
-      {
-        "site": "notify",
-        "id": "-JePpKmiR"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2015,
-      "month": "01"
-    },
-    "status": "FINISHED",
-    "episodes": 2,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/66057.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/66057t.jpg",
-    "synonyms": [
-      "Shouwa Genroku Rakugo Shinjuu",
-      "Shouwa Genroku Rakugo Shinjuu OVA",
-      "Shōwa Genroku Rakugo Shinjū: Yotarō Hōrō-hen",
-      "shouwagen ova",
-      "昭和元禄落語心中",
-      "昭和元禄落語心中 与太郎放浪篇",
-      "昭和元禄落语心中 OAD"
     ]
   },
   {
@@ -563,6 +467,457 @@
       "Huyao Xiao Hongniang: Xia Sha",
       "Little Foxspirit Matchmaker",
       "狐妖小红娘"
+    ]
+  },
+  {
+    "title": "弱虫ペダル Re:ROAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "飙速宅男 Re:ROAD"
+      ],
+      "zh-Hant": [
+        "飆速宅男 Re：ROAD"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://yowapeda.com/reroad/",
+    "begin": "2015-06-12T16:00:00.000Z",
+    "end": "2015-06-12T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "134232"
+      },
+      {
+        "site": "pptv",
+        "id": "ety4Np4EdLIVkics",
+        "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "118347",
+        "begin": "2021-07-02T02:40:00.000Z",
+        "broadcast": "R/2021-07-02T02:40:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "10643"
+      },
+      {
+        "site": "anidb",
+        "id": "10769"
+      },
+      {
+        "site": "anidb",
+        "id": "11154"
+      },
+      {
+        "site": "anilist",
+        "id": "20723"
+      },
+      {
+        "site": "anilist",
+        "id": "20808"
+      },
+      {
+        "site": "anime-planet",
+        "id": "chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuuanzen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-glory-line"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-grande-road"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-new-generation"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-re-ride"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-regeneration"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-spare-bike"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-special-ride"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yowamushi-pedal-the-movie"
+      },
+      {
+        "site": "anisearch",
+        "id": "9658"
+      },
+      {
+        "site": "kitsu",
+        "id": "13941"
+      },
+      {
+        "site": "kitsu",
+        "id": "8635"
+      },
+      {
+        "site": "kitsu",
+        "id": "8657"
+      },
+      {
+        "site": "livechart",
+        "id": "10928"
+      },
+      {
+        "site": "livechart",
+        "id": "1464"
+      },
+      {
+        "site": "livechart",
+        "id": "1864"
+      },
+      {
+        "site": "livechart",
+        "id": "2190"
+      },
+      {
+        "site": "livechart",
+        "id": "2755"
+      },
+      {
+        "site": "livechart",
+        "id": "2784"
+      },
+      {
+        "site": "livechart",
+        "id": "53"
+      },
+      {
+        "site": "livechart",
+        "id": "560"
+      },
+      {
+        "site": "livechart",
+        "id": "68"
+      },
+      {
+        "site": "livechart",
+        "id": "700"
+      },
+      {
+        "site": "myanimelist",
+        "id": "24277"
+      },
+      {
+        "site": "myanimelist",
+        "id": "25755"
+      },
+      {
+        "site": "notify",
+        "id": "0l41tFimR"
+      },
+      {
+        "site": "notify",
+        "id": "e9FJpFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "fUjS2KiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2015,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/86877.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/86877t.jpg",
+    "synonyms": [
+      "Yowamushi Pedal Re:ROAD",
+      "Yowamushi Pedal Re:Road",
+      "Yowamushi Pedal: Re:ROAD",
+      "Yowapeda Re:ROAD",
+      "Yowapeda: Re:ROAD",
+      "よわむしぺだるりろーど",
+      "弱虫ペダル Re:ROAD"
+    ]
+  },
+  {
+    "title": "攻殻機動隊 新劇場版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "攻壳机动队 新剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kokaku-a.jp/index.html",
+    "begin": "2015-06-20T16:00:00.000Z",
+    "end": "2015-06-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "112770"
+      },
+      {
+        "site": "anidb",
+        "id": "11023"
+      },
+      {
+        "site": "anilist",
+        "id": "123077"
+      },
+      {
+        "site": "anilist",
+        "id": "21056"
+      },
+      {
+        "site": "anime-planet",
+        "id": "anime-gatari-x-ghost-in-the-shell-collaboration"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-2-0"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-2-innocence"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-arise"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-arise-alternate-architecture"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-arise-another-mission"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-arise-border-less-project-working-high"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-arise-logicoma-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-ghost-chaser"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-individual-eleven"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-nyuumon-arise"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-2nd-gig"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-2nd-gig-tachikoma-days"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-individual-eleven-tachikoma-days"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-solid-state-society"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-tachikoma-days"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-stand-alone-complex-the-laughing-man-tachikoma-days"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-standalone-complex-the-laughing-man"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ghost-in-the-shell-uchikomatic-days"
+      },
+      {
+        "site": "anisearch",
+        "id": "10100"
+      },
+      {
+        "site": "anisearch",
+        "id": "18610"
+      },
+      {
+        "site": "anisearch",
+        "id": "2088"
+      },
+      {
+        "site": "anisearch",
+        "id": "8303"
+      },
+      {
+        "site": "kitsu",
+        "id": "10229"
+      },
+      {
+        "site": "kitsu",
+        "id": "12476"
+      },
+      {
+        "site": "kitsu",
+        "id": "25"
+      },
+      {
+        "site": "kitsu",
+        "id": "42036"
+      },
+      {
+        "site": "livechart",
+        "id": "3607"
+      },
+      {
+        "site": "livechart",
+        "id": "3662"
+      },
+      {
+        "site": "livechart",
+        "id": "3767"
+      },
+      {
+        "site": "livechart",
+        "id": "3782"
+      },
+      {
+        "site": "livechart",
+        "id": "3984"
+      },
+      {
+        "site": "livechart",
+        "id": "4054"
+      },
+      {
+        "site": "livechart",
+        "id": "4823"
+      },
+      {
+        "site": "livechart",
+        "id": "5530"
+      },
+      {
+        "site": "livechart",
+        "id": "5793"
+      },
+      {
+        "site": "livechart",
+        "id": "6221"
+      },
+      {
+        "site": "livechart",
+        "id": "6604"
+      },
+      {
+        "site": "livechart",
+        "id": "7133"
+      },
+      {
+        "site": "livechart",
+        "id": "7156"
+      },
+      {
+        "site": "livechart",
+        "id": "7289"
+      },
+      {
+        "site": "livechart",
+        "id": "7353"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29325"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33512"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38799"
+      },
+      {
+        "site": "myanimelist",
+        "id": "43"
+      },
+      {
+        "site": "notify",
+        "id": "8S4t5Kiig"
+      },
+      {
+        "site": "notify",
+        "id": "GtUspFimR"
+      },
+      {
+        "site": "notify",
+        "id": "I2Bz2KimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2015,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/72690.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/72690t.jpg",
+    "synonyms": [
+      "Ghost In The Shell: The New Movie",
+      "Ghost In The Shell: The Rising",
+      "Ghost in the Shell (2015)",
+      "Ghost in the Shell New Movie (2015)",
+      "Ghost in the Shell: La Nueva Película (The Rising)",
+      "Ghost in the Shell: O Amanhecer",
+      "Ghost in the Shell: O Novo Filme",
+      "Ghost in the Shell: The (new) Movie",
+      "Ghost in the Shell: The New Movie",
+      "Ghost in the Shell: The Rising",
+      "GitS (2015)",
+      "GitS: Shin Gekijouban",
+      "Koukaku Kidoutai (2015)",
+      "Koukaku Kidoutai: Shin Gekijouban",
+      "Kōkaku Kidōtai: Shin Gekijōban",
+      "Дух в броня (2015)",
+      "攻殻機動隊 新劇場版"
     ]
   },
   {
@@ -860,6 +1215,12 @@
         "begin": "2016-06-09T03:54:36.000Z"
       },
       {
+        "site": "abema",
+        "id": "168-48",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anilist",
         "id": "145405"
       },
@@ -1095,6 +1456,125 @@
     ]
   },
   {
+    "title": "這いよれ! ニャル子さんF",
+    "titleTranslate": {
+      "zh-Hans": [
+        "潜行吧！奈亚子F"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://nyaruko.com/",
+    "begin": "2015-05-30T16:00:00.000Z",
+    "end": "2015-05-30T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "111081"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nyaruko-f",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2941",
+        "begin": "2015-05-29T16:00:00.000Z",
+        "broadcast": "R/2015-11-02T08:39:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "9459"
+      },
+      {
+        "site": "anilist",
+        "id": "15699"
+      },
+      {
+        "site": "anime-planet",
+        "id": "haiyore-nyaruko-san"
+      },
+      {
+        "site": "anime-planet",
+        "id": "haiyore-nyaruko-san-w"
+      },
+      {
+        "site": "anime-planet",
+        "id": "haiyore-nyaruko-san-w-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "haiyore-nyaruko-san-yasashii-teki-no-shitome-kata"
+      },
+      {
+        "site": "anime-planet",
+        "id": "haiyoru-nyaru-ani"
+      },
+      {
+        "site": "anime-planet",
+        "id": "haiyoru-nyaru-ani-remember-my-lovecraft-sensei"
+      },
+      {
+        "site": "anime-planet",
+        "id": "haiyoru-nyaru-ani-remember-my-lovecraft-sensei-special"
+      },
+      {
+        "site": "anisearch",
+        "id": "8121"
+      },
+      {
+        "site": "kitsu",
+        "id": "7295"
+      },
+      {
+        "site": "livechart",
+        "id": "1107"
+      },
+      {
+        "site": "livechart",
+        "id": "3296"
+      },
+      {
+        "site": "livechart",
+        "id": "3297"
+      },
+      {
+        "site": "livechart",
+        "id": "814"
+      },
+      {
+        "site": "myanimelist",
+        "id": "15699"
+      },
+      {
+        "site": "notify",
+        "id": "zmmKtFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2015,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/73735.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/73735t.jpg",
+    "synonyms": [
+      "Nyarko-san: Another Crawling Chaos F",
+      "Nyaruko-san: Another Crawling Chaos F",
+      "はいよれにゃるこさんふぁいなるかうんとだうん",
+      "潜行吧！奈亚子F",
+      "襲來！美少女邪神 F",
+      "這いよれ! ニャル子さんF",
+      "這いよれ！ ニャル子さんF",
+      "這いよれ！ニャル子さん F",
+      "這いよれ！ニャル子さんF",
+      "기어와라! 냐루코양 F"
+    ]
+  },
+  {
     "title": "やはり俺の青春ラブコメはまちがっている。続",
     "titleTranslate": {
       "zh-Hans": [
@@ -1158,6 +1638,12 @@
         "id": "69017",
         "begin": "2016-05-04T08:52:00.000Z",
         "broadcast": "R/2016-05-04T08:52:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-78",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -1986,6 +2472,12 @@
         "broadcast": "R/2020-08-05T09:00:00.000Z/P7D"
       },
       {
+        "site": "abema",
+        "id": "26-28",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "9977"
       },
@@ -2579,6 +3071,12 @@
         "broadcast": ""
       },
       {
+        "site": "abema",
+        "id": "174-3",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "11941"
       },
@@ -2692,6 +3190,10 @@
       },
       {
         "site": "livechart",
+        "id": "12398"
+      },
+      {
+        "site": "livechart",
         "id": "2045"
       },
       {
@@ -2787,13 +3289,14 @@
       "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Myth",
       "Danmachi: ¿Qué Tiene De Malo Intentar Ligar En Una Mazmorra?",
       "Danmachi: ¿Qué Tiene de Malo Intentar Ligar en una Mazmorra?",
-      "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka",
-      "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka: Familia Myth",
       "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth",
-      "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darō ka",
+      "Dungeon ni Deai o Motomeru no wa Machigatte Iru darou ka",
+      "Dungeon ni Deai o Motomeru no wa Machigatte Iru darou ka: Familia Myth",
+      "Dungeon ni Deai o Motomeru no wa Machigatte Iru darō ka",
       "Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darou ka",
-      "Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darou ka: Familia Myth",
       "Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darouka: Familia Myth",
+      "Dungeon ni Deai wo Motomeru no wa Machigatte Iru darou ka",
+      "Dungeon ni Deai wo Motomeru no wa Machigatte Iru darou ka: Familia Myth",
       "Dungeon ni Deai wo Motomeru no wa Machigatteiru no Darou ka",
       "Is It Wrong That I Want to Meet You in a Dungeon",
       "Is It Wrong That I Want to Meet You in a Dungeon?",
@@ -3498,6 +4001,12 @@
         "broadcast": "R/2015-12-13T16:00:00.000Z/P7D"
       },
       {
+        "site": "abema",
+        "id": "25-18",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "12037"
       },
@@ -3687,6 +4196,12 @@
         "id": "6002268",
         "begin": "2020-04-30T16:00:00.000Z",
         "broadcast": "R/2020-04-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "203-1",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -5229,6 +5744,12 @@
         "broadcast": ""
       },
       {
+        "site": "abema",
+        "id": "106-1zxpewrca-r",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "11746"
       },
@@ -5555,6 +6076,12 @@
         "id": "28233841",
         "begin": "2021-03-31T10:00:00.000Z",
         "broadcast": "R/2021-03-31T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-47",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -7461,6 +7988,7 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1052/122018.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1052/122018t.jpg",
     "synonyms": [
+      "I Cavalieri dello Zodiaco: Saint Seiya - Soul of Gold",
       "Los Caballeros del Zodiaco: Alma de Oro",
       "Os Cavaleiros do Zodíaco: alma de ouro",
       "Saint Seiya Soul of Gold",
@@ -7829,6 +8357,8 @@
       "Detective Conan Movie 19",
       "Detective Conan Movie 19: Gouka no Himawari",
       "Detective Conan Movie 19: I girasoli infernali",
+      "Detective Conan Movie 19: The Hellfire Sunflowers",
+      "Detective Conan Movie 19: The Sunflowers of Inferno",
       "Detective Conan Película 19: Los Girasoles del Infierno",
       "Detective Conan: Los girasoles del fuego infernal",
       "Detective Conan: Los girasoles del infierno",
@@ -7841,7 +8371,6 @@
       "Detektiv Conan: Die Sonnenblumen des Infernos",
       "Détective Conan: Les Tournesols des Flammes Infernales",
       "Meitantei Conan Movie 19",
-      "Meitantei Conan Movie 19: Gouka no Himawari",
       "Meitantei Conan: Gouka no Himawari",
       "Meitantei Conan: Gōka no Himawari",
       "名侦探柯南 业火的向日葵",
@@ -8260,285 +8789,143 @@
     ]
   },
   {
-    "title": "勇者大冒险",
-    "titleTranslate": {},
-    "type": "web",
-    "lang": "zh-Hans",
-    "officialSite": "http://ac.qq.com/event/yzdmx201510/index.html",
-    "begin": "2015-03-31T12:00:00.000Z",
-    "end": "2015-10-30T12:15:00.000Z",
+    "title": "わしも-wasimo-(第3シリーズ)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "WASIMO 第三季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www9.nhk.or.jp/anime/wasimo/",
+    "begin": "2015-03-30T09:00:00.000Z",
+    "end": "2015-08-25T09:10:00.000Z",
     "sites": [
+      {
+        "site": "bangumi",
+        "id": "183497"
+      },
       {
         "site": "bilibili",
-        "id": "2542",
-        "begin": "2015-02-28T16:00:00.000Z",
-        "broadcast": "R/2015-03-31T03:24:00.000Z/P7D"
-      },
-      {
-        "site": "pptv",
-        "id": "bsWvLZX7a6kMiavI",
-        "begin": ""
-      },
-      {
-        "site": "qq",
-        "id": "t/tjcnpm8ju18qojf",
-        "begin": ""
-      },
-      {
-        "site": "iqiyi",
-        "id": "a_19rrhayff9",
-        "begin": "2015-03-31T04:21:33.000Z"
-      },
-      {
-        "site": "letv",
-        "id": "10008864",
-        "begin": ""
-      },
-      {
-        "site": "sohu",
-        "id": "s2015/yzdmx",
-        "begin": ""
-      },
-      {
-        "site": "mgtv",
-        "id": "157132",
-        "begin": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "130364"
-      },
-      {
-        "site": "acfun",
-        "id": "5020018",
-        "begin": "2017-11-13T09:27:44.000Z"
-      },
-      {
-        "site": "anilist",
-        "id": "103351"
-      },
-      {
-        "site": "anime-planet",
-        "id": "yong-zhe-da-mao-xian-2nd-season"
-      },
-      {
-        "site": "kitsu",
-        "id": "12614"
-      },
-      {
-        "site": "myanimelist",
-        "id": "33763"
-      },
-      {
-        "site": "notify",
-        "id": "5HvihKimR"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2015,
-      "month": "03"
-    },
-    "status": "FINISHED",
-    "episodes": 26,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/81277.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/81277t.jpg",
-    "synonyms": [
-      "Brave Adventure",
-      "Yong Zhe Da Mao Xian",
-      "勇者大冒险"
-    ]
-  },
-  {
-    "title": "ハッピーカムカム",
-    "titleTranslate": {
-      "zh-Hans": [
-        "机器人妈妈"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "http://animemirai.jp/happy.html",
-    "begin": "2015-03-22T16:00:00.000Z",
-    "end": "2015-03-22T16:30:00.000Z",
-    "sites": [
-      {
-        "site": "pptv",
-        "id": "QibjEQqoQgL4hnwc",
-        "begin": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "108011"
-      },
-      {
-        "site": "anilist",
-        "id": "21069"
-      },
-      {
-        "site": "anilist",
-        "id": "21071"
-      },
-      {
-        "site": "anilist",
-        "id": "21072"
-      },
-      {
-        "site": "anisearch",
-        "id": "10245"
-      },
-      {
-        "site": "anisearch",
-        "id": "10247"
-      },
-      {
-        "site": "anisearch",
-        "id": "10248"
-      },
-      {
-        "site": "kitsu",
-        "id": "10369"
-      },
-      {
-        "site": "kitsu",
-        "id": "10407"
-      },
-      {
-        "site": "kitsu",
-        "id": "10422"
-      },
-      {
-        "site": "livechart",
-        "id": "683"
-      },
-      {
-        "site": "livechart",
-        "id": "685"
-      },
-      {
-        "site": "livechart",
-        "id": "686"
-      },
-      {
-        "site": "myanimelist",
-        "id": "29511"
-      },
-      {
-        "site": "myanimelist",
-        "id": "29513"
-      },
-      {
-        "site": "myanimelist",
-        "id": "29517"
-      },
-      {
-        "site": "notify",
-        "id": "2xTUpKiiR"
-      },
-      {
-        "site": "notify",
-        "id": "ZPdUpFiiR"
-      },
-      {
-        "site": "notify",
-        "id": "yTJUtFiiR"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2015,
-      "month": "03"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/72482.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/72482t.jpg",
-    "synonyms": [
-      "2015 Young Animator Training Project",
-      "Anime Mirai 2015",
-      "Anime Mirai Project 2015",
-      "Happy Come Come",
-      "Happy★ComeCome",
-      "Wakate Animator Ikusei Project",
-      "Wakate Animator Ikusei Project 2015",
-      "Young Animator Training Project 2015",
-      "ハッピーカムカム"
-    ]
-  },
-  {
-    "title": "劇場版 シドニアの騎士",
-    "titleTranslate": {
-      "zh-Hans": [
-        "剧场版 希德尼娅的骑士"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "http://www.knightsofsidonia.com/",
-    "begin": "2015-03-06T16:00:00.000Z",
-    "end": "2015-03-06T16:00:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "118098"
-      },
-      {
-        "site": "nicovideo",
-        "id": "movie-sidonia",
-        "begin": ""
-      },
-      {
-        "site": "pptv",
-        "id": "UPbiaYMguntwicvSU",
-        "begin": ""
+        "id": "5915",
+        "begin": "2015-03-29T16:00:00.000Z",
+        "broadcast": "R/2017-02-06T06:02:50.000Z/P7D"
       },
       {
         "site": "anidb",
-        "id": "9892"
+        "id": "11007"
+      },
+      {
+        "site": "anidb",
+        "id": "12061"
       },
       {
         "site": "anilist",
-        "id": "19775"
+        "id": "21048"
+      },
+      {
+        "site": "anilist",
+        "id": "98764"
       },
       {
         "site": "anime-planet",
-        "id": "knights-of-sidonia"
+        "id": "washimo"
       },
       {
         "site": "anime-planet",
-        "id": "knights-of-sidonia-battle-for-planet-nine"
+        "id": "washimo-2"
       },
       {
         "site": "anime-planet",
-        "id": "knights-of-sidonia-love-woven-in-the-stars"
+        "id": "washimo-4"
+      },
+      {
+        "site": "anime-planet",
+        "id": "washimo-5"
+      },
+      {
+        "site": "anime-planet",
+        "id": "washimo-6"
+      },
+      {
+        "site": "anime-planet",
+        "id": "washimo-7"
+      },
+      {
+        "site": "anime-planet",
+        "id": "washimo-8"
+      },
+      {
+        "site": "anime-planet",
+        "id": "washimo-9"
       },
       {
         "site": "anisearch",
-        "id": "8876"
+        "id": "10102"
+      },
+      {
+        "site": "anisearch",
+        "id": "11347"
       },
       {
         "site": "kitsu",
-        "id": "7768"
+        "id": "10473"
+      },
+      {
+        "site": "kitsu",
+        "id": "12030"
       },
       {
         "site": "livechart",
-        "id": "10056"
+        "id": "10479"
       },
       {
         "site": "livechart",
-        "id": "155"
+        "id": "11120"
       },
       {
         "site": "livechart",
-        "id": "642"
+        "id": "1355"
+      },
+      {
+        "site": "livechart",
+        "id": "2144"
+      },
+      {
+        "site": "livechart",
+        "id": "2640"
+      },
+      {
+        "site": "livechart",
+        "id": "3198"
+      },
+      {
+        "site": "livechart",
+        "id": "422"
+      },
+      {
+        "site": "livechart",
+        "id": "9392"
+      },
+      {
+        "site": "livechart",
+        "id": "9857"
       },
       {
         "site": "myanimelist",
-        "id": "19775"
+        "id": "29099"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33099"
       },
       {
         "site": "notify",
-        "id": "VrOptKmmg"
+        "id": "3GEepKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "BL88tFimR"
       }
     ],
     "animeSeason": {
@@ -8547,19 +8934,18 @@
       "month": "03"
     },
     "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/69369.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/69369t.jpg",
+    "episodes": 44,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/74290.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/74290t.jpg",
     "synonyms": [
-      "Gekijouban Sidonia no Kishi",
-      "Gekijōban Sidonia no Kishi",
-      "Knights of Sidonia (Movie)",
-      "Knights of Sidonia Movie",
-      "Knights of Sidonia: The Movie",
-      "gsidki movie",
-      "劇場版 シドニアの騎士",
-      "劇場版「シドニアの騎士」",
-      "극장판 시도니아의 기사"
+      "Washimo 3",
+      "Washimo Season 3",
+      "Washimo Third Season",
+      "Wasimo 3",
+      "Wasimo Third Season",
+      "わしも 3",
+      "わしも 第3期",
+      "わしも-wasimo-(第3シリーズ)"
     ]
   },
   {
@@ -8682,6 +9068,164 @@
       "Space Battleship Yamato 2199: Odyssey of the Celestial Ark Picture Drama",
       "Uchuu Senkan Yamato 2199: Hoshi-Meguru Hakobune Picture Drama",
       "宇宙戦艦ヤマト2199 星巡る方舟"
+    ]
+  },
+  {
+    "title": "七つの大罪",
+    "titleTranslate": {
+      "zh-Hans": [
+        "七大罪"
+      ],
+      "en": [
+        "The Seven Deadly Sins"
+      ],
+      "zh-Hant": [
+        "七大罪"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.7-taizai.net/1st/",
+    "begin": "2014-10-05T08:00:00.000Z",
+    "end": "2015-03-29T08:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "101820"
+      },
+      {
+        "site": "nicovideo",
+        "id": "7-taizai",
+        "begin": "2014-10-11T15:30:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80050063",
+        "begin": "2015-11-01T07:00:00.000Z",
+        "broadcast": "R/2021-01-11T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "thesevendeadlysins0001_139186",
+        "begin": "2023-08-01T02:00:00.000Z",
+        "broadcast": "R/2023-08-01T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "10596"
+      },
+      {
+        "site": "anilist",
+        "id": "20789"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-seven-deadly-sins"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-seven-deadly-sins-movie-prisoners-of-the-sky"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-seven-deadly-sins-revival-of-the-commandments"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-seven-deadly-sins-revival-of-the-commandments-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-seven-deadly-sins-revival-of-the-commandments-prologue"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-seven-deadly-sins-signs-of-holy-war"
+      },
+      {
+        "site": "anisearch",
+        "id": "9597"
+      },
+      {
+        "site": "kitsu",
+        "id": "8699"
+      },
+      {
+        "site": "livechart",
+        "id": "10292"
+      },
+      {
+        "site": "livechart",
+        "id": "10358"
+      },
+      {
+        "site": "livechart",
+        "id": "10878"
+      },
+      {
+        "site": "livechart",
+        "id": "11213"
+      },
+      {
+        "site": "livechart",
+        "id": "1844"
+      },
+      {
+        "site": "livechart",
+        "id": "2333"
+      },
+      {
+        "site": "livechart",
+        "id": "2796"
+      },
+      {
+        "site": "livechart",
+        "id": "527"
+      },
+      {
+        "site": "livechart",
+        "id": "9410"
+      },
+      {
+        "site": "livechart",
+        "id": "9851"
+      },
+      {
+        "site": "myanimelist",
+        "id": "23755"
+      },
+      {
+        "site": "notify",
+        "id": "RvaJtFmig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2015,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/1973/97505.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1973/97505t.jpg",
+    "synonyms": [
+      "7DS OVA",
+      "Nanatsu no Taizai (2015)",
+      "Nanatsu no Taizai OAD",
+      "Nanatsu no Taizai: Ban no Bangai-hen",
+      "SDS OVA",
+      "The Seven Deadly Sins OAD",
+      "The Seven Deadly Sins OVA",
+      "The Seven Deadly Sins: Ban's Side Story",
+      "The Seven Deadly Sins: Ban's Side Story OVA",
+      "The Seven Deadly Sins: Bandit Ban OVA 1",
+      "ななつのたいざい",
+      "七つの大罪",
+      "七つの大罪 (2015)",
+      "七つの大罪 OAD",
+      "七つの大罪 OVA",
+      "七つの大罪 （2015）",
+      "七大罪 OAD"
     ]
   },
   {

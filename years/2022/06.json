@@ -281,7 +281,7 @@
       }
     ],
     "animeSeason": {
-      "season": "SUMMER",
+      "season": "SPRING",
       "year": 2022,
       "month": "06"
     },
@@ -334,6 +334,18 @@
         "id": "118547",
         "begin": "2023-02-01T04:00:00.000Z",
         "broadcast": "R/2023-02-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "isekai-quartet-movie",
+        "begin": "2023-02-28T15:00:00.000Z",
+        "broadcast": "R/2023-02-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-249",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -449,7 +461,7 @@
       }
     ],
     "animeSeason": {
-      "season": "SUMMER",
+      "season": "SPRING",
       "year": 2022,
       "month": "06"
     },
@@ -506,6 +518,12 @@
         "id": "20138339",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "gundam-cucuruz-doan",
+        "begin": "2023-10-13T15:00:00.000Z",
+        "broadcast": "R/2023-10-13T15:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -616,6 +634,174 @@
       "Mobile Suit Gundam: Cucuruz Doan’s Island",
       "机动战士高达 库库鲁斯·杜安之岛",
       "機動戦士ガンダム ククルス・ドアンの島"
+    ]
+  },
+  {
+    "title": "快把我哥带走5",
+    "titleTranslate": {
+      "zh-Hans": [
+        "快把我哥带走5",
+        "快把我哥带走 第五季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-06-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "345805"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anitsuke5",
+        "begin": "2022-07-29T03:00:00.000Z",
+        "broadcast": "R/2022-07-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "15600"
+      },
+      {
+        "site": "anilist",
+        "id": "120046"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ani-ni-tsukeru-kusuri-wa-nai-4"
+      },
+      {
+        "site": "anisearch",
+        "id": "15368"
+      },
+      {
+        "site": "kitsu",
+        "id": "43275"
+      },
+      {
+        "site": "livechart",
+        "id": "10018"
+      },
+      {
+        "site": "livechart",
+        "id": "2571"
+      },
+      {
+        "site": "livechart",
+        "id": "3276"
+      },
+      {
+        "site": "livechart",
+        "id": "9471"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42238"
+      },
+      {
+        "site": "notify",
+        "id": "gF4EmVWGg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2022,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1611/129197.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1611/129197t.jpg",
+    "synonyms": [
+      "Ani ni Tsukeru Kusuri wa Nai! 5 (兄に付ける薬はない! 5)",
+      "Ani ni Tsukeru Kusuri wa Nai! 5th Season",
+      "Kuai Ba Wo Ge Dai Zou 5",
+      "Please Take My Brother Away 5",
+      "Please Take My Brother Away! 5",
+      "Take My Brother Away! 5",
+      "anitsukeru5",
+      "兄に付ける薬はない! 5",
+      "兄に付ける薬はない！5",
+      "快把我哥带走 5",
+      "快把我哥带走 第5季",
+      "快把我哥带走5",
+      "快把我哥帯走5"
+    ]
+  },
+  {
+    "title": "怪盗クイーンはサーカスがお好き",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪盗皇后喜欢马戏团"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://miragequeen.jp/",
+    "begin": "2022-06-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "341657"
+      },
+      {
+        "site": "nicovideo",
+        "id": "miragequeen",
+        "begin": "2022-12-20T15:00:00.000Z",
+        "broadcast": "R/2022-12-20T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "17905"
+      },
+      {
+        "site": "anilist",
+        "id": "162682"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kaitou-queen-no-yuuga-na-vacances"
+      },
+      {
+        "site": "anisearch",
+        "id": "18265"
+      },
+      {
+        "site": "livechart",
+        "id": "11854"
+      },
+      {
+        "site": "myanimelist",
+        "id": "54705"
+      },
+      {
+        "site": "notify",
+        "id": "vpSS0Aa4g"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2022,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1387/121512.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1387/121512t.jpg",
+    "synonyms": [
+      "Kaitou QUEEN wa Circus ga Osuki",
+      "Kaitō Queen wa Circus ga Osuki",
+      "Mirage QUEEN Prefers Circus",
+      "Mirage Queen Aime Cirque",
+      "Mirage Queen Prefers Circus",
+      "怪盗クイーンはサーカスがお好き"
     ]
   }
 ]

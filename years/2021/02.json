@@ -118,6 +118,10 @@
       },
       {
         "site": "anilist",
+        "id": "171030"
+      },
+      {
+        "site": "anilist",
         "id": "1932"
       },
       {
@@ -478,12 +482,12 @@
       {
         "site": "nicovideo",
         "id": "ichigo-animation",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-02-13T15:00:00.000Z",
+        "broadcast": "R/2021-02-13T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
-      "season": "WINTER",
+      "season": "FALL",
       "year": 2020,
       "month": "02"
     },
@@ -670,6 +674,12 @@
         "broadcast": "R/2021-11-19T08:00:00.000Z/P7D"
       },
       {
+        "site": "nicovideo",
+        "id": "tenipuri-game-of-future",
+        "begin": "2022-09-30T15:00:00.000Z",
+        "broadcast": "R/2022-09-30T15:00:00.000Z/P7D"
+      },
+      {
         "site": "anidb",
         "id": "8601"
       },
@@ -745,6 +755,102 @@
       "ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด: ภาคใหม่ เฮียวเท ปะทะ ริคไค",
       "新テニスの王子様 氷帝 vs 立海 Game of Future",
       "新テニスの王子様 氷帝vs立海 Game of Future"
+    ]
+  },
+  {
+    "title": "囀る鳥は羽ばたかない Don’t stay gold",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鸣鸟不飞 Don’t stay gold"
+      ],
+      "zh-Hant": [
+        "鳴鳥不飛：Don’t stay gold"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-02-28T16:00:00.000Z",
+    "end": "2021-02-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317644"
+      },
+      {
+        "site": "gamer",
+        "id": "116199",
+        "begin": "2023-10-20T04:00:00.000Z",
+        "broadcast": "R/2023-10-20T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "14889"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saezuru-doubutsu-wa-yarushikanai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "saezuru-tori-wa-habatakanai-the-storm-breaks"
+      },
+      {
+        "site": "anime-planet",
+        "id": "twittering-birds-never-fly-the-clouds-gather"
+      },
+      {
+        "site": "anisearch",
+        "id": "14374"
+      },
+      {
+        "site": "kitsu",
+        "id": "42295"
+      },
+      {
+        "site": "livechart",
+        "id": "9425"
+      },
+      {
+        "site": "livechart",
+        "id": "9630"
+      },
+      {
+        "site": "livechart",
+        "id": "9631"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39761"
+      },
+      {
+        "site": "notify",
+        "id": "hG4xt7TZg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2021,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1087/106064.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1087/106064t.jpg",
+    "synonyms": [
+      "Saezuru Tori wa Habatakanai OVA",
+      "Saezuru Tori wa Habatakanai: Don`t Stay Gold",
+      "Saezuru Tori wa Habatakanai: Don’t Stay Gold",
+      "The Roaring Birds Do Not Fly OVA",
+      "Twittering Birds Never Fly OVA",
+      "Twittering Birds Never Fly: Don't Stay Gold",
+      "Twittering Birds Never Fly: Don`t Stay Gold",
+      "Twittering Birds Never Fly: Don’t Stay Gold",
+      "Twittering birds never fly: Don't Stay Gold",
+      "囀る鳥は羽ばたかない Don't stay gold",
+      "囀る鳥は羽ばたかない Don`t stay gold",
+      "囀る鳥は羽ばたかない Don’t stay gold"
     ]
   }
 ]

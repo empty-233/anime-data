@@ -201,6 +201,12 @@
         "broadcast": ""
       },
       {
+        "site": "nicovideo",
+        "id": "gundam-hathaway",
+        "begin": "2021-10-15T15:00:00.000Z",
+        "broadcast": "R/2021-10-15T15:00:00.000Z/P7D"
+      },
+      {
         "site": "anime-planet",
         "id": "mobile-suit-gundam-0080-war-in-the-pocket"
       },
@@ -497,6 +503,12 @@
         "broadcast": ""
       },
       {
+        "site": "nicovideo",
+        "id": "pompo-the-cinephile",
+        "begin": "2022-01-31T15:00:00.000Z",
+        "broadcast": "R/2022-01-31T15:00:00.000Z/P7D"
+      },
+      {
         "site": "anime-planet",
         "id": "pompo-the-cinephile"
       },
@@ -674,6 +686,142 @@
       "فيلم الرحلة",
       "ジャーニー",
       "ジャーニー 太古アラビア半島での奇跡と戦いの物語"
+    ]
+  },
+  {
+    "title": "プリティーオールフレンズセレクション",
+    "titleTranslate": {
+      "zh-Hans": [
+        "美妙全友情精选"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-06-05T16:00:00.000Z",
+    "broadcast": "R/2021-06-05T16:00:00.000Z/P7D",
+    "end": "2021-09-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "334494"
+      },
+      {
+        "site": "nicovideo",
+        "id": "pretty10th",
+        "begin": "2021-06-07T08:00:00.000Z",
+        "broadcast": "R/2021-06-07T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "101097"
+      },
+      {
+        "site": "anilist",
+        "id": "10257"
+      },
+      {
+        "site": "anilist",
+        "id": "12863"
+      },
+      {
+        "site": "anilist",
+        "id": "17249"
+      },
+      {
+        "site": "anilist",
+        "id": "20742"
+      },
+      {
+        "site": "anilist",
+        "id": "98107"
+      },
+      {
+        "site": "anisearch",
+        "id": "9554"
+      },
+      {
+        "site": "livechart",
+        "id": "1126"
+      },
+      {
+        "site": "livechart",
+        "id": "1542"
+      },
+      {
+        "site": "livechart",
+        "id": "1670"
+      },
+      {
+        "site": "livechart",
+        "id": "1857"
+      },
+      {
+        "site": "livechart",
+        "id": "1887"
+      },
+      {
+        "site": "livechart",
+        "id": "2323"
+      },
+      {
+        "site": "livechart",
+        "id": "2396"
+      },
+      {
+        "site": "livechart",
+        "id": "2513"
+      },
+      {
+        "site": "livechart",
+        "id": "3057"
+      },
+      {
+        "site": "livechart",
+        "id": "371"
+      },
+      {
+        "site": "livechart",
+        "id": "39"
+      },
+      {
+        "site": "livechart",
+        "id": "423"
+      },
+      {
+        "site": "livechart",
+        "id": "463"
+      },
+      {
+        "site": "livechart",
+        "id": "5801"
+      },
+      {
+        "site": "livechart",
+        "id": "768"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40880"
+      },
+      {
+        "site": "notify",
+        "id": "GdlZAb8WR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2021,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 16,
+    "picture": "https://cdn.myanimelist.net/images/anime/1968/114657.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1968/114657t.jpg",
+    "synonyms": [
+      "プリティーオールフレンズ",
+      "プリティーオールフレンズセレクション"
     ]
   }
 ]

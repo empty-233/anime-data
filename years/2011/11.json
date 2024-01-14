@@ -24,7 +24,8 @@
       {
         "site": "nicovideo",
         "id": "ribon-highscore",
-        "begin": ""
+        "begin": "2011-12-28T03:00:00.000Z",
+        "broadcast": "R/2011-12-28T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -66,7 +67,8 @@
       {
         "site": "nicovideo",
         "id": "TOS-anime03",
-        "begin": "2016-07-06T06:00:00.000Z"
+        "begin": "2016-07-06T06:00:00.000Z",
+        "broadcast": "R/2016-07-06T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -167,7 +169,8 @@
       {
         "site": "nicovideo",
         "id": "sora-anime",
-        "begin": "2012-02-17T16:30:00.000Z"
+        "begin": "2012-02-17T16:30:00.000Z",
+        "broadcast": "R/2011-08-12T03:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -286,7 +289,8 @@
       {
         "site": "nicovideo",
         "id": "nom",
-        "begin": "2011-11-28T03:00:00.000Z"
+        "begin": "2011-11-28T03:00:00.000Z",
+        "broadcast": "R/2011-11-28T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -325,7 +329,8 @@
       {
         "site": "nicovideo",
         "id": "konodan",
-        "begin": "2012-04-27T06:00:00.000Z"
+        "begin": "2012-04-27T06:00:00.000Z",
+        "broadcast": "R/2012-04-27T06:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -627,6 +632,177 @@
       "Un-Go: Chapter of Inga",
       "Un-Go: Episode 0 - Inga-ron",
       "Un-go - Chapitre d`Inga"
+    ]
+  },
+  {
+    "title": "一騎当千 集鍔闘士血風録",
+    "titleTranslate": {
+      "zh-Hans": [
+        "一骑当千 集锷斗士血风录"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.ikkitousen.com/",
+    "begin": "2011-11-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "21898"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ikkitousen-ova1",
+        "begin": "2022-06-23T15:00:00.000Z",
+        "broadcast": "R/2022-06-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "10812"
+      },
+      {
+        "site": "anidb",
+        "id": "7219"
+      },
+      {
+        "site": "anilist",
+        "id": "7580"
+      },
+      {
+        "site": "anilist",
+        "id": "87475"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-dragon-destiny"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-dragon-destiny-hot-springs-grand-final-battle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-extravaganza-epoch"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-great-guardians"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-great-guardians-battle-tour-club-sexy-cosplay"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-western-wolves"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-xtreme-xecutor"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ikkitousen-xtreme-xecutor-specials"
+      },
+      {
+        "site": "anisearch",
+        "id": "2537"
+      },
+      {
+        "site": "anisearch",
+        "id": "9812"
+      },
+      {
+        "site": "kitsu",
+        "id": "13220"
+      },
+      {
+        "site": "kitsu",
+        "id": "5037"
+      },
+      {
+        "site": "livechart",
+        "id": "10674"
+      },
+      {
+        "site": "livechart",
+        "id": "3543"
+      },
+      {
+        "site": "livechart",
+        "id": "3836"
+      },
+      {
+        "site": "livechart",
+        "id": "4017"
+      },
+      {
+        "site": "livechart",
+        "id": "4021"
+      },
+      {
+        "site": "livechart",
+        "id": "4085"
+      },
+      {
+        "site": "livechart",
+        "id": "4883"
+      },
+      {
+        "site": "livechart",
+        "id": "491"
+      },
+      {
+        "site": "livechart",
+        "id": "4928"
+      },
+      {
+        "site": "livechart",
+        "id": "5024"
+      },
+      {
+        "site": "myanimelist",
+        "id": "26183"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7580"
+      },
+      {
+        "site": "notify",
+        "id": "BV8G2Kimg"
+      },
+      {
+        "site": "notify",
+        "id": "TyGktKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2011,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1452/138211.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1452/138211t.jpg",
+    "synonyms": [
+      "Ikki Tousen in Kyoto",
+      "Ikki Tousen: Shugaku Toshi Keppu-roku",
+      "Ikki Tousen: Shuugaku Epic Battle",
+      "Ikkitousen: Shuugaku Toushi Keppuu-roku",
+      "Ikkitōsen: Shūgaku Tōshi Keppū-roku",
+      "ikki ova 1",
+      "ikki5",
+      "一騎当千 集鍔闘士血風録",
+      "一骑当千 集锷斗士血风录"
     ]
   }
 ]

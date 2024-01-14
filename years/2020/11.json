@@ -24,8 +24,8 @@
       {
         "site": "nicovideo",
         "id": "date-a-bullet-movie2",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-03-23T15:00:00.000Z",
+        "broadcast": "R/2021-03-23T15:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -159,8 +159,8 @@
       {
         "site": "nicovideo",
         "id": "movie-monster-strike",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-06-02T15:00:00.000Z",
+        "broadcast": "R/2021-06-02T15:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -319,8 +319,8 @@
       {
         "site": "nicovideo",
         "id": "kimikana",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-05-09T03:00:00.000Z",
+        "broadcast": "R/2021-05-09T03:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -374,8 +374,8 @@
       {
         "site": "nicovideo",
         "id": "grisaia-pt-movie",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-04-30T15:00:00.000Z",
+        "broadcast": "R/2021-04-30T15:00:00.000Z/P7D"
       },
       {
         "site": "anilist",
@@ -646,6 +646,149 @@
     "synonyms": [
       "RWBY Season 8",
       "RWBY Volume 8"
+    ]
+  },
+  {
+    "title": "魔女見習いをさがして",
+    "titleTranslate": {
+      "zh-Hans": [
+        "寻找见习魔女"
+      ],
+      "zh-Hant": [
+        "尋找小魔女 DoReMi"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://lookingfor-magical-doremi.com/",
+    "begin": "2020-11-12T16:00:00.000Z",
+    "end": "2020-11-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "278898"
+      },
+      {
+        "site": "gamer",
+        "id": "104714",
+        "begin": "2023-09-13T04:00:00.000Z",
+        "broadcast": "R/2023-09-13T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lookingfor-magical-doremi",
+        "begin": "2021-12-22T15:00:00.000Z",
+        "broadcast": "R/2021-12-22T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "1767"
+      },
+      {
+        "site": "anidb",
+        "id": "888"
+      },
+      {
+        "site": "anilist",
+        "id": "150201"
+      },
+      {
+        "site": "anilist",
+        "id": "350"
+      },
+      {
+        "site": "anime-planet",
+        "id": "motto-ojamajo-doremi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ojamajo-doremi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ojamajo-doremi-dokkaan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ojamajo-doremi-sharp"
+      },
+      {
+        "site": "anisearch",
+        "id": "3083"
+      },
+      {
+        "site": "livechart",
+        "id": "5331"
+      },
+      {
+        "site": "livechart",
+        "id": "5450"
+      },
+      {
+        "site": "livechart",
+        "id": "5563"
+      },
+      {
+        "site": "livechart",
+        "id": "5570"
+      },
+      {
+        "site": "livechart",
+        "id": "6781"
+      },
+      {
+        "site": "livechart",
+        "id": "6859"
+      },
+      {
+        "site": "livechart",
+        "id": "6878"
+      },
+      {
+        "site": "livechart",
+        "id": "7223"
+      },
+      {
+        "site": "myanimelist",
+        "id": "350"
+      },
+      {
+        "site": "notify",
+        "id": "oJPh5KimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2020,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1937/110713.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1937/110713t.jpg",
+    "synonyms": [
+      "Alla ricerca di Magica Doremì",
+      "Buscanda a la Mágica Doremi",
+      "Buscando a la Mágica Doremi",
+      "Buscant la màgica DoReMi",
+      "Buscant la màgica Doremi",
+      "Looking for Magical DoReMi",
+      "Looking for Magical Doremi",
+      "Looking for Witch Apprentices",
+      "Magical DoReMi Movie",
+      "Magical Doremi à la Recherche des apprenties sorcières",
+      "Majo Minarai o Sagashite",
+      "Majo Minarai wo Sagashite, Magical DoReMi Movie, Useless Witchgirl Doremi Movie",
+      "Ojamajo Doremi (2020)",
+      "Ojamajo Doremi: Majo Minarai o Sagashite (おジャ魔女どれみ 魔女見習いをさがして)",
+      "Ojamajo Doremi: Majo Minarai wo Sagashite (おジャ魔女どれみ 魔女見習いをさがして)",
+      "Searching for Witch Apprentices",
+      "Useless Witchgirl Doremi Movie",
+      "おジャ魔女どれみ (2020)",
+      "寻找见习魔女",
+      "尋找小魔女 DoReMi",
+      "魔女見習いをさがして"
     ]
   }
 ]

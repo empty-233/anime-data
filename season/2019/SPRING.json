@@ -388,6 +388,12 @@
         "broadcast": "R/2020-02-17T06:00:00.000Z/P7D"
       },
       {
+        "site": "abema",
+        "id": "26-111",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "13900"
       },
@@ -489,6 +495,83 @@
       "青春ブタ野郎はゆめみる少女の夢を見ない",
       "青春猪头少年不会梦到怀梦美少女",
       "청춘 돼지는 꿈꾸는 소녀의 꿈을 꾸지 않는다"
+    ]
+  },
+  {
+    "title": "海獣の子供",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海兽之子"
+      ],
+      "zh-Hant": [
+        "海獸之子"
+      ],
+      "en": [
+        "Children of the Sea"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kaijunokodomo.com/",
+    "begin": "2019-06-07T16:00:00.000Z",
+    "end": "2019-06-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "253997"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kaijunokodomo",
+        "begin": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "PPmmokvapG3T",
+        "url": "https://www.disneyplus.com/movies/children-of-the-sea/PPmmokvapG3T",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anime-planet",
+        "id": "kenshi-yonezu-umi-no-yuurei"
+      },
+      {
+        "site": "kitsu",
+        "id": "42447"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39875"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2019,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1103/99778.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1103/99778t.jpg",
+    "synonyms": [
+      "Children Of The Sea",
+      "Children of the Sea",
+      "CotS",
+      "I Figli del Mare",
+      "I figli del mare",
+      "Kaijū no Kodomo",
+      "Les Enfants de La Mer",
+      "Les Enfants de la Mer",
+      "Les enfants de la Mer",
+      "Les enfants de la mer",
+      "Los Niños del Mar",
+      "The Sea Monster's Children",
+      "The Sea Monster’s Children",
+      "Дети моря",
+      "海兽之子",
+      "海獣の子供"
     ]
   },
   {
@@ -940,6 +1023,85 @@
     ]
   },
   {
+    "title": "きみと、波にのれたら",
+    "titleTranslate": {
+      "zh-Hans": [
+        "若能与你共乘海浪之上"
+      ],
+      "zh-Hant": [
+        "乘浪之約"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://kimi-nami.com/",
+    "begin": "2019-06-20T16:00:00.000Z",
+    "end": "2019-06-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "265372"
+      },
+      {
+        "site": "gamer",
+        "id": "102233",
+        "begin": "2023-10-04T07:00:00.000Z",
+        "broadcast": "R/2023-10-04T07:00:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "119593"
+      },
+      {
+        "site": "anime-planet",
+        "id": "generations-from-exile-tribe-brand-new-story"
+      },
+      {
+        "site": "anisearch",
+        "id": "14465"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39962"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2019,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1893/99701.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1893/99701t.jpg",
+    "synonyms": [
+      "El Amor Está en el Agua",
+      "El Amor está en el Agua",
+      "El amor está en el agua",
+      "L`amor és a l`aigua",
+      "Lướt sóng cùng em",
+      "Mėgaukis savo banga",
+      "Ride Your Wave",
+      "Ride Your Wave: Juntos en el mar",
+      "Riding a Wave with You",
+      "Sənin dalğanda",
+      "Uz tava viļņa",
+      "kiminami",
+      "На твоей волне",
+      "Піймай свою хвилю",
+      "Сенің толқыныңда",
+      "คำสัญญา..ปาฎิหาริย์รัก 2 โลก",
+      "きみと, 波にのれたら",
+      "きみと、波にのれたら",
+      "きみ波",
+      "乘浪之約",
+      "浪尖上的約定",
+      "若能與你共乘海浪之上",
+      "너와 파도를 탈 수 있다면"
+    ]
+  },
+  {
     "title": "みるタイツ",
     "titleTranslate": {
       "zh-Hans": [
@@ -1292,12 +1454,19 @@
       {
         "site": "nicovideo",
         "id": "kenja-no-mago",
-        "begin": "2019-04-20T15:00:00.000Z"
+        "begin": "2019-04-20T15:00:00.000Z",
+        "broadcast": "R/2019-04-20T15:00:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "cacb6223b85e43ce8958",
         "begin": "2019-04-19T08:06:27.000Z"
+      },
+      {
+        "site": "abema",
+        "id": "25-170",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anilist",
@@ -1371,7 +1540,8 @@
       {
         "site": "nicovideo",
         "id": "boku-ben",
-        "begin": ""
+        "begin": "2019-04-02T11:00:00.000Z",
+        "broadcast": "R/2019-04-02T11:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -1499,7 +1669,8 @@
       {
         "site": "nicovideo",
         "id": "shiny_seven_stars",
-        "begin": ""
+        "begin": "2019-04-17T03:00:00.000Z",
+        "broadcast": "R/2019-04-17T03:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -1662,7 +1833,14 @@
       {
         "site": "nicovideo",
         "id": "isekai-quartet",
-        "begin": ""
+        "begin": "2019-04-09T15:45:00.000Z",
+        "broadcast": "R/2019-04-09T15:45:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-115",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -1883,7 +2061,8 @@
       {
         "site": "nicovideo",
         "id": "hitoribocchi",
-        "begin": ""
+        "begin": "2019-03-29T09:00:00.000Z",
+        "broadcast": "R/2019-03-29T09:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -1953,7 +2132,8 @@
       {
         "site": "nicovideo",
         "id": "senryu-girl",
-        "begin": "2019-04-07T03:00:00.000Z"
+        "begin": "2019-04-07T03:00:00.000Z",
+        "broadcast": "R/2019-04-05T13:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -2020,7 +2200,8 @@
       {
         "site": "nicovideo",
         "id": "aochan-anime",
-        "begin": "2019-04-07T03:00:00.000Z"
+        "begin": "2019-04-07T03:00:00.000Z",
+        "broadcast": "R/2019-04-05T12:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -2049,9 +2230,9 @@
       "Ao-chan Can't Study!",
       "Ao-chan Can`t Study",
       "Ao-chan Can’t Study!",
-      "Lustful Ao can't study",
+      "Lustful Ao Can’t Study",
       "Midara na Ao-chan wa Benkyō ga Dekinai",
-      "The lewd Ao-chan isn't good at studying",
+      "The Lewd Ao-chan Isn’t Good at Studying",
       "aochan",
       "Похотливая Ао не может учиться",
       "みだらなあおちゃんはべんきょうができない",
@@ -2096,7 +2277,8 @@
       {
         "site": "nicovideo",
         "id": "fruba",
-        "begin": "2019-04-13T03:00:00.000Z"
+        "begin": "2019-04-13T03:00:00.000Z",
+        "broadcast": "R/2019-04-06T03:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -2289,7 +2471,8 @@
       {
         "site": "nicovideo",
         "id": "senkosan",
-        "begin": ""
+        "begin": "2019-04-16T15:00:00.000Z",
+        "broadcast": "R/2019-04-16T15:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -2367,7 +2550,8 @@
       {
         "site": "nicovideo",
         "id": "shoumetsutoshi-anime",
-        "begin": "2019-06-30T15:00:00.000Z"
+        "begin": "2019-06-30T15:00:00.000Z",
+        "broadcast": "R/2019-06-30T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2429,7 +2613,8 @@
       {
         "site": "nicovideo",
         "id": "kimetsu",
-        "begin": ""
+        "begin": "2019-04-08T14:30:00.000Z",
+        "broadcast": "R/2019-04-08T14:30:00.000Z/P7D"
       },
       {
         "site": "viu",
@@ -2455,6 +2640,12 @@
         "id": "98149",
         "begin": "2019-04-06T16:00:00.000Z",
         "broadcast": "R/2019-04-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-75",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -2730,7 +2921,8 @@
       {
         "site": "nicovideo",
         "id": "cingeki-anime-cs",
-        "begin": "2019-04-03T03:00:00.000Z"
+        "begin": "2019-04-03T03:00:00.000Z",
+        "broadcast": "R/2019-04-03T03:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -2957,7 +3149,8 @@
       {
         "site": "nicovideo",
         "id": "choukadou-anime",
-        "begin": ""
+        "begin": "2019-03-11T09:00:00.000Z",
+        "broadcast": "R/2019-03-11T09:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -3033,7 +3226,8 @@
       {
         "site": "nicovideo",
         "id": "joshikau-anime",
-        "begin": ""
+        "begin": "2019-03-11T09:00:00.000Z",
+        "broadcast": "R/2019-03-11T09:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -3082,7 +3276,8 @@
       {
         "site": "nicovideo",
         "id": "nobutsuma-anime",
-        "begin": ""
+        "begin": "2019-03-11T09:00:00.000Z",
+        "broadcast": "R/2019-03-11T09:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -3138,7 +3333,8 @@
       {
         "site": "nicovideo",
         "id": "fairygone",
-        "begin": ""
+        "begin": "2019-04-10T15:00:00.000Z",
+        "broadcast": "R/2019-04-10T15:00:00.000Z/P7D"
       },
       {
         "site": "viu",
@@ -3382,7 +3578,8 @@
       {
         "site": "nicovideo",
         "id": "namuami-utena",
-        "begin": ""
+        "begin": "2019-04-14T03:00:00.000Z",
+        "broadcast": "R/2019-04-14T03:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -3436,7 +3633,8 @@
       {
         "site": "nicovideo",
         "id": "yatogame",
-        "begin": ""
+        "begin": "2019-04-10T03:00:00.000Z",
+        "broadcast": "R/2019-04-10T03:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -3530,7 +3728,8 @@
       {
         "site": "nicovideo",
         "id": "bungo-stray-dogs3",
-        "begin": ""
+        "begin": "2019-03-29T09:00:00.000Z",
+        "broadcast": "R/2019-03-29T09:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -3911,7 +4110,8 @@
       {
         "site": "nicovideo",
         "id": "diaace_2",
-        "begin": "2019-04-10T03:00:00.000Z"
+        "begin": "2019-04-10T03:00:00.000Z",
+        "broadcast": "R/2019-04-10T03:00:00.000Z/P7D"
       },
       {
         "site": "viu",
@@ -4087,7 +4287,8 @@
       {
         "site": "nicovideo",
         "id": "501_takeoff",
-        "begin": ""
+        "begin": "2019-04-16T15:00:00.000Z",
+        "broadcast": "R/2019-04-16T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili_tw",
@@ -4310,7 +4511,8 @@
       {
         "site": "nicovideo",
         "id": "sarazanmai-anime",
-        "begin": "2019-04-12T03:00:00.000Z"
+        "begin": "2019-04-12T03:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "anilist",
@@ -4363,7 +4565,8 @@
       {
         "site": "nicovideo",
         "id": "bakugan-bp",
-        "begin": "2019-04-09T03:00:00.000Z"
+        "begin": "2019-04-09T03:00:00.000Z",
+        "broadcast": "R/2019-04-09T03:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -4908,7 +5111,8 @@
       {
         "site": "nicovideo",
         "id": "BAKUMATSU2",
-        "begin": "2019-04-12T15:00:00.000Z"
+        "begin": "2019-04-12T15:00:00.000Z",
+        "broadcast": "R/2019-03-14T09:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -5129,7 +5333,8 @@
       {
         "site": "nicovideo",
         "id": "youkai-watch2019",
-        "begin": "2019-04-12T03:00:00.000Z"
+        "begin": "2019-04-12T03:00:00.000Z",
+        "broadcast": "R/2019-04-12T03:00:00.000Z/P7D"
       },
       {
         "site": "mytv",
@@ -5417,7 +5622,8 @@
       {
         "site": "nicovideo",
         "id": "duelmasters_2",
-        "begin": ""
+        "begin": "2019-04-10T11:00:00.000Z",
+        "broadcast": "R/2019-04-10T11:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -5820,7 +6026,8 @@
       {
         "site": "nicovideo",
         "id": "occultkoumuin",
-        "begin": ""
+        "begin": "2019-03-29T09:00:00.000Z",
+        "broadcast": "R/2019-03-29T09:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -6115,9 +6322,9 @@
       "AoT 3",
       "AoT 3 Part 2",
       "AoT 3.5",
-      "Ataque A Los Titanes Tercera Temporada (2da Parte)",
       "Ataque a los Titanes Temporada 3 Parte 2",
-      "Attack on Titan 3 (seconda parte)",
+      "Ataque a los Titanes: Temporada 3 (2da Parte)",
+      "Ataque a los Titanes: Tercera Temporada (2da Parte)",
       "Attack on Titan 3rd Season: Part II",
       "Attack on Titan Season 3 (2019)",
       "Attack on Titan Season 3 (Part 2)",
@@ -6131,7 +6338,8 @@
       "L'Attaque des Titans Saison 3 Partie 2",
       "L`Attacco dei Giganti - Terza Stagione (2019)",
       "L`attacco dei Giganti - Stagione 3.2",
-      "L’attaque des Titans Saison 3 Arc 2",
+      "L’Attacco dei Giganti: Stagione 3 (seconda parte)",
+      "L’Attaque des Titans : Saison 3 - Arc 2",
       "Shingeki no Kyojin 3 Part 2",
       "Shingeki no Kyojin Season 3 (2019)",
       "Shingeki no Kyojin Season 3: Part II",
@@ -6309,7 +6517,8 @@
       {
         "site": "nicovideo",
         "id": "laidbackers",
-        "begin": ""
+        "begin": "2019-06-19T15:00:00.000Z",
+        "broadcast": "R/2019-06-19T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -6356,7 +6565,8 @@
       {
         "site": "nicovideo",
         "id": "revdol",
-        "begin": "2019-04-19T03:00:00.000Z"
+        "begin": "2019-04-19T03:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "acfun",
@@ -6503,6 +6713,12 @@
         "broadcast": ""
       },
       {
+        "site": "nicovideo",
+        "id": "anime-eupho-movie",
+        "begin": "2022-02-28T15:00:00.000Z",
+        "broadcast": "R/2022-02-28T15:00:00.000Z/P7D"
+      },
+      {
         "site": "anidb",
         "id": "11746"
       },
@@ -6617,10 +6833,6 @@
       {
         "site": "myanimelist",
         "id": "35677"
-      },
-      {
-        "site": "myanimelist",
-        "id": "39894"
       },
       {
         "site": "myanimelist",
@@ -7171,6 +7383,153 @@
     ]
   },
   {
+    "title": "映画ドラえもん のび太の月面探査記",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：大雄的月球探险记",
+        "哆啦A梦：大雄的月球探测记",
+        "哆啦A梦 野比的月面探査记"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://doraeiga.com/2019/",
+    "begin": "2019-02-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-02-28T16:01:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "263808"
+      },
+      {
+        "site": "abema",
+        "id": "35-46",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "4635"
+      },
+      {
+        "site": "anilist",
+        "id": "8687"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-2005"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back-1998"
+      },
+      {
+        "site": "anisearch",
+        "id": "3754"
+      },
+      {
+        "site": "kitsu",
+        "id": "5443"
+      },
+      {
+        "site": "livechart",
+        "id": "12164"
+      },
+      {
+        "site": "livechart",
+        "id": "5614"
+      },
+      {
+        "site": "livechart",
+        "id": "6575"
+      },
+      {
+        "site": "livechart",
+        "id": "6880"
+      },
+      {
+        "site": "livechart",
+        "id": "8740"
+      },
+      {
+        "site": "livechart",
+        "id": "8868"
+      },
+      {
+        "site": "livechart",
+        "id": "8871"
+      },
+      {
+        "site": "livechart",
+        "id": "8877"
+      },
+      {
+        "site": "livechart",
+        "id": "8878"
+      },
+      {
+        "site": "livechart",
+        "id": "8884"
+      },
+      {
+        "site": "livechart",
+        "id": "8897"
+      },
+      {
+        "site": "livechart",
+        "id": "8900"
+      },
+      {
+        "site": "livechart",
+        "id": "8901"
+      },
+      {
+        "site": "livechart",
+        "id": "8902"
+      },
+      {
+        "site": "livechart",
+        "id": "8998"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8687"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2019,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1369/102185.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1369/102185t.jpg",
+    "synonyms": [
+      "Doraemon Movie 39",
+      "Doraemon the Movie 2019: Chronicle of the Moon Exploration",
+      "Doraemon the Movie 2019: Nobita's Chronicle of the Moon Exploration",
+      "Doraemon the Movie 39: Nobita's Chronicle of the Moon Exploration",
+      "Doraemon the Movie 39: Nobita’s Chronicle of the Moon Exploration",
+      "Doraemon the Movie: Nobita`s Chronicle of the Moon Exploration",
+      "Doraemon: Il film - Nobita e le cronache dell’esplorazione della Luna",
+      "Doraemon: Nobita no Getsumen Tansa-ki",
+      "Doraemon: Nobita no Getsumen Tansaki",
+      "Eiga Doraemon: Nobita no Getsumen Tansaki",
+      "โดราเอมอน เดอะ มูฟวี่ ตอน โนบิตะสำรวจดินแดนจันทรา",
+      "ドラえもん のび太の月面探査記",
+      "哆啦A梦：大雄的月球探险记",
+      "映画 ドラえもん のび太の月面探査記",
+      "映画ドラえもん のび太の月面探査記"
+    ]
+  },
+  {
     "title": "私に天使が舞い降りた！",
     "titleTranslate": {
       "zh-Hans": [
@@ -7198,7 +7557,8 @@
       {
         "site": "nicovideo",
         "id": "watatentv",
-        "begin": "2019-01-08T16:00:00.000Z"
+        "begin": "2019-01-08T16:00:00.000Z",
+        "broadcast": "R/2018-12-27T06:00:00.000Z/P7D"
       },
       {
         "site": "anilist",
@@ -7286,7 +7646,8 @@
       {
         "site": "nicovideo",
         "id": "VTubers",
-        "begin": "2019-01-09T15:30:00.000Z"
+        "begin": "2019-01-09T15:30:00.000Z",
+        "broadcast": "R/2019-01-09T15:30:00.000Z/P7D"
       },
       {
         "site": "pptv",
@@ -7367,6 +7728,12 @@
         "id": "93181",
         "begin": "2020-10-22T06:30:00.000Z",
         "broadcast": "R/2020-10-22T06:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-2mzbynr-cph",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "kitsu",
@@ -7478,7 +7845,8 @@
       {
         "site": "nicovideo",
         "id": "p5a",
-        "begin": "2018-04-09T03:00:00.000Z"
+        "begin": "2018-04-09T03:00:00.000Z",
+        "broadcast": "R/2018-04-09T03:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -7546,7 +7914,8 @@
       {
         "site": "nicovideo",
         "id": "maerchen-anime",
-        "begin": "2018-01-12T03:00:00.000Z"
+        "begin": "2018-01-12T03:00:00.000Z",
+        "broadcast": "R/2019-06-07T03:00:00.000Z/P7D"
       },
       {
         "site": "netflix",

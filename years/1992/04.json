@@ -166,6 +166,13 @@
         "comment": "中文, 第二季（中文）: 6262, 第三季（中文）: 6264, 第四季（中文）: 6266, 第五季（中文）: 6268, 第六季（中文）:6295"
       },
       {
+        "site": "abema",
+        "id": "35-50",
+        "begin": "",
+        "broadcast": "",
+        "comment": "クレヨンしんちゃん: 87-830"
+      },
+      {
         "site": "anidb",
         "id": "10252"
       },
@@ -220,6 +227,10 @@
       {
         "site": "anidb",
         "id": "17762"
+      },
+      {
+        "site": "anidb",
+        "id": "18306"
       },
       {
         "site": "anidb",
@@ -356,6 +367,10 @@
       {
         "site": "anilist",
         "id": "17113"
+      },
+      {
+        "site": "anilist",
+        "id": "171145"
       },
       {
         "site": "anilist",
@@ -1377,6 +1392,57 @@
       "الضربة الصاعقة",
       "あしたへ フリーキック",
       "あしたへフリーキック"
+    ]
+  },
+  {
+    "title": "クッキングパパ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妙厨老爹",
+        "天才酷爸",
+        "伙头爸b"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-04-08T16:00:00.000Z",
+    "broadcast": "R/1992-04-08T16:00:00.000Z/P7D",
+    "end": "1995-05-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "195860"
+      },
+      {
+        "site": "abema",
+        "id": "482-3",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "kitsu",
+        "id": "10605"
+      },
+      {
+        "site": "notify",
+        "id": "s_SQpFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1992,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 151,
+    "picture": "https://cdn.myanimelist.net/images/anime/1581/120955.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1581/120955t.jpg",
+    "synonyms": [
+      "أبي الحنون",
+      "クッキングパパ",
+      "妙厨老爹"
     ]
   }
 ]

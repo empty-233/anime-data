@@ -233,7 +233,7 @@
       }
     ],
     "animeSeason": {
-      "season": "FALL",
+      "season": "SUMMER",
       "year": 2008,
       "month": "01"
     },
@@ -1223,6 +1223,12 @@
         "begin": "2020-02-11T06:23:41.000Z"
       },
       {
+        "site": "abema",
+        "id": "25-13tyr-wzynnz",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "5406"
       },
@@ -1276,7 +1282,7 @@
       }
     ],
     "animeSeason": {
-      "season": "WINTER",
+      "season": "SPRING",
       "year": 2024,
       "month": "01"
     },
@@ -1295,6 +1301,7 @@
       "Spice and Wolf: Merchant Meets the Wise Wolf",
       "Spice and Wolf: merchant meets the wise wolf",
       "Ōkami to Kōshinryō: Merchant Meets the Wise Wolf",
+      "สาวหมาป่ากับนายเครื่องเทศ",
       "狼と香辛料",
       "狼と香辛料 merchant meets the wise wolf"
     ]
@@ -1331,6 +1338,12 @@
         "id": "621",
         "begin": "2008-01-05T16:00:00.000Z",
         "broadcast": "R/2014-05-16T10:08:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "115-6iuxkuhubgj",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -1926,6 +1939,102 @@
       "Nora Mimi",
       "のらみみ",
       "野咪咪"
+    ]
+  },
+  {
+    "title": "School Days 「Valentine Days」",
+    "titleTranslate": {
+      "zh-Hans": [
+        "日在校园OVA 情人节",
+        "日在校园 L×H OVA",
+        "School Days PS2番外篇OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2008-01-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "54764"
+      },
+      {
+        "site": "abema",
+        "id": "171-23",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "5117"
+      },
+      {
+        "site": "anilist",
+        "id": "2476"
+      },
+      {
+        "site": "anime-planet",
+        "id": "school-days"
+      },
+      {
+        "site": "anime-planet",
+        "id": "school-days-magical-heart-kokoro-chan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "school-days-ona"
+      },
+      {
+        "site": "anisearch",
+        "id": "4220"
+      },
+      {
+        "site": "kitsu",
+        "id": "2249"
+      },
+      {
+        "site": "livechart",
+        "id": "3625"
+      },
+      {
+        "site": "livechart",
+        "id": "4534"
+      },
+      {
+        "site": "livechart",
+        "id": "5103"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2476"
+      },
+      {
+        "site": "notify",
+        "id": "gY9EcKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2008,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1691/121897.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1691/121897t.jpg",
+    "synonyms": [
+      "School Days <Valentine Days>",
+      "School Days LxH",
+      "School Days OVA",
+      "School Days 「Valentine Days」",
+      "School Days: Walentynki",
+      "Szkolne dni: Walentynki",
+      "schooldays ova",
+      "Шкільні дні: день святого Валентина"
     ]
   }
 ]

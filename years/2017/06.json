@@ -30,7 +30,8 @@
       {
         "site": "nicovideo",
         "id": "hinalogic",
-        "begin": "2017-07-05T03:00:00.000Z"
+        "begin": "2017-07-05T03:00:00.000Z",
+        "broadcast": "R/2017-07-05T03:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -150,7 +151,8 @@
       {
         "site": "nicovideo",
         "id": "mahouka_movie",
-        "begin": ""
+        "begin": "2018-04-24T15:00:00.000Z",
+        "broadcast": "R/2018-04-24T15:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -162,6 +164,12 @@
         "id": "82332",
         "begin": "2020-04-01T04:40:00.000Z",
         "broadcast": "R/2020-04-01T04:40:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-101",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -197,11 +205,11 @@
       },
       {
         "site": "anime-planet",
-        "id": "the-irregular-at-magic-high-school-new"
+        "id": "the-irregular-at-magic-high-school-reminiscence-arc"
       },
       {
         "site": "anime-planet",
-        "id": "the-irregular-at-magic-high-school-reminiscence-arc"
+        "id": "the-irregular-at-magic-high-school-season-3"
       },
       {
         "site": "anime-planet",
@@ -545,6 +553,94 @@
       "Mobile Suit Gundam: Twilight Axis",
       "機動戦士ガンダム TWILIGHT AXIS",
       "機動戦士ガンダム Twilight AXIS"
+    ]
+  },
+  {
+    "title": "CHAOS;CHILD SILENT SKY",
+    "titleTranslate": {
+      "zh-Hans": [
+        "混沌子 SILENT SKY"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://chaoschildanime.com/",
+    "begin": "2017-06-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-06-16T16:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212221"
+      },
+      {
+        "site": "nicovideo",
+        "id": "chaos-child-silent-sky",
+        "begin": "2022-01-31T15:00:00.000Z",
+        "broadcast": "R/2022-01-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "11166"
+      },
+      {
+        "site": "anilist",
+        "id": "21126"
+      },
+      {
+        "site": "anime-planet",
+        "id": "chaos-child"
+      },
+      {
+        "site": "anime-planet",
+        "id": "chaos-child-chaos-head"
+      },
+      {
+        "site": "anisearch",
+        "id": "10334"
+      },
+      {
+        "site": "kitsu",
+        "id": "10786"
+      },
+      {
+        "site": "livechart",
+        "id": "1490"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30485"
+      },
+      {
+        "site": "notify",
+        "id": "Xki_tFmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2017,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/88031.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/88031t.jpg",
+    "synonyms": [
+      "C;C movie",
+      "CHAOS;CHILD SILENT SKY",
+      "CHAOS;CHILD: SILENT SKY",
+      "CHAOS;CHILD: Silent Sky",
+      "Chaos Child",
+      "Chaos Child Episode 13",
+      "Chaos Child Episode 14",
+      "Chaos Child: Silent Sky",
+      "Chaos;Child, Folge 13 & 14 Silent Sky",
+      "Chaos;Child: Silent Sky",
+      "ChäoS;Child: Silent Sky. Episodios 13 y 14",
+      "ChäoS;Child: Épisode 13 und 14 Silent Sky",
+      "Chäos;Child: Silent Sky",
+      "카오스;차일드: SILENT SKY"
     ]
   }
 ]

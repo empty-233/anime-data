@@ -542,7 +542,8 @@
       {
         "site": "nicovideo",
         "id": "mai-mai",
-        "begin": ""
+        "begin": "2015-05-29T06:00:00.000Z",
+        "broadcast": "R/2015-05-29T06:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1624,6 +1625,12 @@
         "begin": "2011-01-03T09:30:00.000Z"
       },
       {
+        "site": "abema",
+        "id": "26-2mzbynr-cph",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anime-planet",
         "id": "bakemonogatari"
       },
@@ -2207,65 +2214,6 @@
     ]
   },
   {
-    "title": "星に願いを COLD BODY + WARM HEART",
-    "titleTranslate": {
-      "zh-Hans": [
-        "向星星许愿 COLD BODY + WARM HEART"
-      ]
-    },
-    "type": "web",
-    "lang": "ja",
-    "officialSite": "http://www.barnumlaboratory.com/",
-    "begin": "2009-06-01T16:00:00.000Z",
-    "end": "2009-06-01T16:30:00.000Z",
-    "sites": [
-      {
-        "site": "pptv",
-        "id": "CvLeXMQqmtg7uSE",
-        "begin": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "67371"
-      },
-      {
-        "site": "anilist",
-        "id": "6992"
-      },
-      {
-        "site": "anisearch",
-        "id": "5525"
-      },
-      {
-        "site": "kitsu",
-        "id": "4826"
-      },
-      {
-        "site": "myanimelist",
-        "id": "6992"
-      },
-      {
-        "site": "notify",
-        "id": "HgdRtKmmg"
-      }
-    ],
-    "animeSeason": {
-      "season": "SUMMER",
-      "year": 2009,
-      "month": "06"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/67065.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/67065t.jpg",
-    "synonyms": [
-      "Hoshi ni Negai o: Cold Body x Warm Heart",
-      "Hoshi ni Negai wo: COLD BODY + WARM HEART",
-      "星に願いを COLD BODY + WARM HEART",
-      "星に願いを Cold Body + Warm Heart"
-    ]
-  },
-  {
     "title": "ななみちゃん 第6シリーズ",
     "titleTranslate": {
       "zh-Hans": [
@@ -2473,128 +2421,6 @@
       "Utawareru Mono OVA",
       "うたわれるもの OVA",
       "おーぶいえーうたわれるもの"
-    ]
-  },
-  {
-    "title": "みなみけ べつばら",
-    "titleTranslate": {
-      "zh-Hans": [
-        "南家三姐妹 饭后甜点"
-      ]
-    },
-    "type": "ova",
-    "lang": "ja",
-    "officialSite": "",
-    "begin": "2009-06-23T16:00:00.000Z",
-    "end": "2009-06-23T16:30:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "3016"
-      },
-      {
-        "site": "pptv",
-        "id": "F2tV0zuhEUibyMJg",
-        "begin": ""
-      },
-      {
-        "site": "anidb",
-        "id": "6219"
-      },
-      {
-        "site": "anidb",
-        "id": "9075"
-      },
-      {
-        "site": "anilist",
-        "id": "5162"
-      },
-      {
-        "site": "anime-planet",
-        "id": "minami-ke"
-      },
-      {
-        "site": "anime-planet",
-        "id": "minami-ke-natsuyasumi"
-      },
-      {
-        "site": "anime-planet",
-        "id": "minami-ke-okaeri"
-      },
-      {
-        "site": "anime-planet",
-        "id": "minami-ke-okawari"
-      },
-      {
-        "site": "anime-planet",
-        "id": "minami-ke-omatase"
-      },
-      {
-        "site": "anime-planet",
-        "id": "minami-ke-tadaima"
-      },
-      {
-        "site": "anisearch",
-        "id": "5150"
-      },
-      {
-        "site": "anisearch",
-        "id": "7918"
-      },
-      {
-        "site": "kitsu",
-        "id": "3959"
-      },
-      {
-        "site": "livechart",
-        "id": "1005"
-      },
-      {
-        "site": "livechart",
-        "id": "207"
-      },
-      {
-        "site": "livechart",
-        "id": "3696"
-      },
-      {
-        "site": "livechart",
-        "id": "3960"
-      },
-      {
-        "site": "livechart",
-        "id": "3972"
-      },
-      {
-        "site": "livechart",
-        "id": "889"
-      },
-      {
-        "site": "myanimelist",
-        "id": "5162"
-      },
-      {
-        "site": "notify",
-        "id": "yKqr5FimR"
-      }
-    ],
-    "animeSeason": {
-      "season": "SUMMER",
-      "year": 2009,
-      "month": "06"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1458/133565.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1458/133565t.jpg",
-    "synonyms": [
-      "Minami-ke OAD",
-      "Minami-ke OVA",
-      "Minami-ke: Betsubara",
-      "Minamike Betsubara",
-      "mke4",
-      "mkeb",
-      "みなみけ べつばら"
     ]
   },
   {
@@ -2819,6 +2645,7 @@
       "Evangelion: 2.0 (Nie) możesz iść naprzód.",
       "Evangelion: 2.0 - You Can (Not) Advance.",
       "Evangelion: 2.0 Você (não) pode prosseguir",
+      "Evangelion: 2.0 You Can (Not) Advance",
       "Evangelion: 2.22 (Nie) możesz iść naprzód.",
       "Evangelion: 2.22 - Sie können (nicht) vorrücken.",
       "Evangelion: 2.22 - You Can (Not) Advance",
@@ -2841,89 +2668,6 @@
       "福音战士新剧场版：破",
       "福音戰士新劇場版：破",
       "에반게리온: 파"
-    ]
-  },
-  {
-    "title": "花咲ける青少年",
-    "titleTranslate": {
-      "zh-Hans": [
-        "天国少女"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://www3.nhk.or.jp/anime/hana/",
-    "begin": "2009-04-05T14:01:00.000Z",
-    "end": "2010-02-14T14:26:00.000Z",
-    "sites": [
-      {
-        "site": "pptv",
-        "id": "0nVQzjacDEqtK5M",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "5341",
-        "begin": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "2093"
-      },
-      {
-        "site": "iqiyi",
-        "id": "a_19rrhbp039",
-        "begin": "2017-10-31T16:01:40.000Z"
-      },
-      {
-        "site": "bilibili",
-        "id": "1133",
-        "begin": "2009-04-04T16:00:00.000Z",
-        "broadcast": "R/2013-08-01T04:30:00.000Z/P7D"
-      },
-      {
-        "site": "qq",
-        "id": "7/7nnibq9kn718cfn",
-        "begin": ""
-      },
-      {
-        "site": "anime-planet",
-        "id": "hanasakeru-seishounen"
-      },
-      {
-        "site": "anisearch",
-        "id": "5177"
-      },
-      {
-        "site": "kitsu",
-        "id": "4297"
-      },
-      {
-        "site": "myanimelist",
-        "id": "5835"
-      },
-      {
-        "site": "notify",
-        "id": "mhRqcFmig"
-      }
-    ],
-    "animeSeason": {
-      "season": "SUMMER",
-      "year": 2009,
-      "month": "04"
-    },
-    "status": "FINISHED",
-    "episodes": 3,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/15465.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/15465t.jpg",
-    "synonyms": [
-      "Hanasakeru Seishonen Specials",
-      "Hanasakeru Seishounen 12.5, 25.5, 39.5",
-      "Hanasakeru Seishounen Special",
-      "Hanasakeru Seishōnen Special",
-      "はなさけるせいしょうねん",
-      "花咲ける青少年",
-      "花咲ける青少年スペシャル"
     ]
   },
   {
@@ -2964,7 +2708,8 @@
       {
         "site": "nicovideo",
         "id": "hagaren-fa",
-        "begin": "2015-04-10T06:00:00.000Z"
+        "begin": "2015-04-10T06:00:00.000Z",
+        "broadcast": "R/2015-04-10T06:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -3191,7 +2936,8 @@
       {
         "site": "nicovideo",
         "id": "ch322",
-        "begin": "2010-06-27T15:00:01.000Z"
+        "begin": "2010-06-27T15:00:01.000Z",
+        "broadcast": "R/2010-06-27T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -3348,7 +3094,8 @@
       {
         "site": "nicovideo",
         "id": "linebarrels",
-        "begin": "2013-06-07T06:00:00.000Z"
+        "begin": "2013-06-07T06:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "bilibili",

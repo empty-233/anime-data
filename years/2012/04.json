@@ -30,7 +30,8 @@
       {
         "site": "nicovideo",
         "id": "uchukyodai",
-        "begin": "2014-07-10T06:00:00.000Z"
+        "begin": "2014-07-10T06:00:00.000Z",
+        "broadcast": "R/2014-07-10T06:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -195,7 +196,8 @@
       {
         "site": "nicovideo",
         "id": "nazokano_x",
-        "begin": "2012-04-13T15:00:00.000Z"
+        "begin": "2012-04-13T15:00:00.000Z",
+        "broadcast": "R/2012-03-29T06:50:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -291,7 +293,8 @@
       {
         "site": "nicovideo",
         "id": "accel-world",
-        "begin": "2012-04-10T14:00:00.000Z"
+        "begin": "2012-04-10T14:00:00.000Z",
+        "broadcast": "R/2012-04-10T14:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -316,6 +319,12 @@
         "id": "52205",
         "begin": "2020-06-19T09:00:00.000Z",
         "broadcast": "R/2020-06-19T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-8cwxyxikzsj",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -466,7 +475,8 @@
       {
         "site": "nicovideo",
         "id": "natsuiro-kiseki",
-        "begin": "2012-04-13T14:00:00.000Z"
+        "begin": "2012-04-13T14:00:00.000Z",
+        "broadcast": "R/2012-04-13T14:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -549,7 +559,8 @@
       {
         "site": "nicovideo",
         "id": "amnesia-tv",
-        "begin": "2012-04-26T15:00:00.000Z"
+        "begin": "2012-04-26T15:00:00.000Z",
+        "broadcast": "R/2012-04-26T15:00:00.000Z/P7D"
       },
       {
         "site": "anilist",
@@ -626,7 +637,8 @@
       {
         "site": "nicovideo",
         "id": "saki-sidea",
-        "begin": "2012-04-23T16:30:00.000Z"
+        "begin": "2012-04-23T16:30:00.000Z",
+        "broadcast": "R/2012-04-04T06:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -803,7 +815,8 @@
       {
         "site": "nicovideo",
         "id": "eurekaao",
-        "begin": "2018-03-26T06:00:00.000Z"
+        "begin": "2018-03-26T06:00:00.000Z",
+        "broadcast": "R/2018-03-26T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1010,7 +1023,8 @@
       {
         "site": "nicovideo",
         "id": "queensblade",
-        "begin": "2012-04-19T15:00:00.000Z"
+        "begin": "2012-04-19T15:00:00.000Z",
+        "broadcast": "R/2012-04-17T10:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -1258,7 +1272,8 @@
       {
         "site": "nicovideo",
         "id": "medakabox",
-        "begin": "2012-04-07T17:00:00.000Z"
+        "begin": "2012-04-07T17:00:00.000Z",
+        "broadcast": "R/2012-04-07T17:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -1336,7 +1351,9 @@
       {
         "site": "nicovideo",
         "id": "yuru",
-        "begin": "2012-04-06T16:10:00.000Z"
+        "begin": "2012-04-06T16:10:00.000Z",
+        "broadcast": "R/2012-04-05T12:00:00.000Z/P7D",
+        "comment": "plus: yuruplus"
       },
       {
         "site": "bilibili",
@@ -1484,7 +1501,8 @@
       {
         "site": "nicovideo",
         "id": "jormungand",
-        "begin": "2012-04-20T16:30:00.000Z"
+        "begin": "2012-04-20T16:30:00.000Z",
+        "broadcast": "R/2012-04-20T16:30:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -1689,7 +1707,8 @@
       {
         "site": "nicovideo",
         "id": "sencolle",
-        "begin": "2012-04-24T16:00:00.000Z"
+        "begin": "2012-04-24T16:00:00.000Z",
+        "broadcast": "R/2012-04-24T16:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1803,7 +1822,8 @@
       {
         "site": "nicovideo",
         "id": "koreha-zombie-desuka",
-        "begin": ""
+        "begin": "2019-12-13T06:00:00.000Z",
+        "broadcast": "R/2019-12-13T06:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -1937,13 +1957,20 @@
       {
         "site": "nicovideo",
         "id": "nyaruko",
-        "begin": "2012-04-10T16:30:00.000Z"
+        "begin": "2012-04-10T16:30:00.000Z",
+        "broadcast": "R/2012-03-23T12:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "39168",
         "begin": "2021-11-05T06:00:00.000Z",
         "broadcast": "R/2021-11-05T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "174-1",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -2185,7 +2212,7 @@
       }
     ],
     "animeSeason": {
-      "season": "SUMMER",
+      "season": "SPRING",
       "year": 2012,
       "month": "04"
     },
@@ -2237,7 +2264,8 @@
       {
         "site": "nicovideo",
         "id": "rikoran2",
-        "begin": "2012-04-12T16:00:00.000Z"
+        "begin": "2012-04-12T16:00:00.000Z",
+        "broadcast": "R/2012-03-29T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2382,7 +2410,8 @@
       {
         "site": "nicovideo",
         "id": "kotenbu",
-        "begin": "2017-09-16T03:00:00.000Z"
+        "begin": "2017-09-16T03:00:00.000Z",
+        "broadcast": "R/2017-09-16T03:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -2395,6 +2424,12 @@
         "id": "53316",
         "begin": "2017-08-24T16:00:00.000Z",
         "broadcast": "R/2017-08-24T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-7krpy-sgurg",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -2718,7 +2753,8 @@
       {
         "site": "nicovideo",
         "id": "hearts",
-        "begin": "2012-04-18T15:30:00.000Z"
+        "begin": "2012-04-18T15:30:00.000Z",
+        "broadcast": "R/2012-04-18T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2927,7 +2963,8 @@
       {
         "site": "nicovideo",
         "id": "kimiboku2",
-        "begin": "2012-04-06T14:30:00.000Z"
+        "begin": "2012-04-06T14:30:00.000Z",
+        "broadcast": "R/2012-04-06T14:30:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -3017,7 +3054,8 @@
       {
         "site": "nicovideo",
         "id": "inuko",
-        "begin": "2012-04-01T13:27:00.000Z"
+        "begin": "2012-04-01T13:27:00.000Z",
+        "broadcast": "R/2012-04-01T13:27:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -3068,7 +3106,8 @@
       {
         "site": "nicovideo",
         "id": "minefujiko",
-        "begin": "2015-07-06T06:00:00.000Z"
+        "begin": "2015-07-06T06:00:00.000Z",
+        "broadcast": "R/2015-07-06T06:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -3395,6 +3434,7 @@
       "Lupin III: Une femme nommée Fujiko Mine",
       "Lupin III~Mine Fujiko to Iu Onna~",
       "Lupin Sansei: Mine Fujiko to Iu Onna",
+      "Lupin the 3rd: The Woman Called Fujiko Mine",
       "Lupin the Third ~峰不二子という女~",
       "Lupin the Third, The Woman Called Fujiko Mine",
       "Lupin the Third: La donna chiamata Fujiko Mine",
@@ -3789,7 +3829,8 @@
       {
         "site": "nicovideo",
         "id": "vanguard2",
-        "begin": "2012-04-08T02:00:00.000Z"
+        "begin": "2012-04-08T02:00:00.000Z",
+        "broadcast": "R/2012-04-08T02:00:00.000Z/P7D"
       },
       {
         "site": "letv",
@@ -4418,7 +4459,8 @@
       {
         "site": "nicovideo",
         "id": "upotte",
-        "begin": "2013-03-02T13:00:00.000Z"
+        "begin": "2013-03-02T13:00:00.000Z",
+        "broadcast": "R/2012-03-19T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -4993,7 +5035,8 @@
       {
         "site": "nicovideo",
         "id": "momo-letter",
-        "begin": ""
+        "begin": "2012-10-25T15:00:00.000Z",
+        "broadcast": "R/2012-10-25T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -5003,7 +5046,7 @@
       }
     ],
     "animeSeason": {
-      "season": "FALL",
+      "season": "SPRING",
       "year": 2012,
       "month": "04"
     },
@@ -5328,7 +5371,8 @@
       {
         "site": "nicovideo",
         "id": "seitokai_banngaihen",
-        "begin": "2017-06-14T03:00:00.000Z"
+        "begin": "2017-06-14T03:00:00.000Z",
+        "broadcast": "R/2017-06-14T03:00:00.000Z/P7D"
       },
       {
         "site": "anilist",

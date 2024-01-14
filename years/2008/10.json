@@ -93,7 +93,7 @@
       }
     ],
     "animeSeason": {
-      "season": "SPRING",
+      "season": "WINTER",
       "year": 2006,
       "month": "10"
     },
@@ -153,7 +153,8 @@
       {
         "site": "nicovideo",
         "id": "jigokushoujo03",
-        "begin": "2017-08-31T15:00:00.000Z"
+        "begin": "2017-08-31T15:00:00.000Z",
+        "broadcast": "R/2017-08-31T15:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -310,7 +311,8 @@
       {
         "site": "nicovideo",
         "id": "clannad_after",
-        "begin": "2017-12-29T03:00:00.000Z"
+        "begin": "2017-12-29T03:00:00.000Z",
+        "broadcast": "R/2017-12-29T03:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -1228,7 +1230,8 @@
       {
         "site": "nicovideo",
         "id": "toradora",
-        "begin": "2011-11-27T16:00:00.000Z"
+        "begin": "2011-11-27T16:00:00.000Z",
+        "broadcast": "R/2011-11-27T16:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -1241,6 +1244,12 @@
         "id": "2245478",
         "begin": "2023-09-21T16:00:00.000Z",
         "broadcast": "R/2023-09-21T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "17962",
+        "begin": "2023-08-04T03:40:00.000Z",
+        "broadcast": "R/2023-08-04T03:40:00.000Z/P7D"
       },
       {
         "site": "anilist",
@@ -1398,7 +1407,8 @@
       {
         "site": "nicovideo",
         "id": "vampire-knight2",
-        "begin": "2014-11-12T06:00:00.000Z"
+        "begin": "2014-11-12T06:00:00.000Z",
+        "broadcast": "R/2014-11-12T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1508,7 +1518,8 @@
       {
         "site": "nicovideo",
         "id": "kemeko",
-        "begin": "2011-11-09T06:00:00.000Z"
+        "begin": "2011-11-09T06:00:00.000Z",
+        "broadcast": "R/2011-11-09T06:00:00.000Z/P7D"
       },
       {
         "site": "letv",
@@ -1599,8 +1610,8 @@
       {
         "site": "nicovideo",
         "id": "ga-rei-zero",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-09-01T03:00:00.000Z",
+        "broadcast": "R/2021-09-01T03:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -1672,7 +1683,8 @@
       {
         "site": "nicovideo",
         "id": "makademi",
-        "begin": "2011-11-30T06:00:00.000Z"
+        "begin": "2011-11-30T06:00:00.000Z",
+        "broadcast": "R/2011-11-30T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1734,7 +1746,8 @@
       {
         "site": "nicovideo",
         "id": "ch322",
-        "begin": "2010-06-27T15:00:01.000Z"
+        "begin": "2010-06-27T15:00:01.000Z",
+        "broadcast": "R/2010-06-27T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2081,7 +2094,8 @@
       {
         "site": "nicovideo",
         "id": "linebarrels",
-        "begin": "2013-06-07T06:00:00.000Z"
+        "begin": "2013-06-07T06:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -2221,6 +2235,12 @@
         "id": "1040",
         "begin": "2008-10-08T16:00:00.000Z",
         "broadcast": "R/2021-03-16T04:40:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-159",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -2415,7 +2435,8 @@
       {
         "site": "nicovideo",
         "id": "ch60004",
-        "begin": "2011-04-02T16:30:00.000Z"
+        "begin": "2011-04-02T16:30:00.000Z",
+        "broadcast": "R/2011-04-02T16:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2521,7 +2542,8 @@
       {
         "site": "nicovideo",
         "id": "ch641",
-        "begin": "2010-09-17T03:00:01.000Z"
+        "begin": "2010-09-17T03:00:01.000Z",
+        "broadcast": "R/2010-09-17T03:00:01.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2540,6 +2562,12 @@
         "id": "718",
         "begin": "2016-01-13T09:53:00.000Z",
         "broadcast": "R/2016-01-13T09:53:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-4pkxnjwwrpn",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -3099,6 +3127,7 @@
       "Cassherns",
       "Kiašano Nuodėmės",
       "Kyashan Sins",
+      "Los pecados de Casshern",
       "Грехи Кьяшанна",
       "Греховете на Кашан",
       "חטאי קאשרן",
@@ -3135,7 +3164,8 @@
       {
         "site": "nicovideo",
         "id": "ch243",
-        "begin": ""
+        "begin": "2009-04-16T07:08:57.000Z",
+        "broadcast": "R/2009-04-16T07:08:57.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -3219,7 +3249,8 @@
       {
         "site": "nicovideo",
         "id": "akane-iro",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "letv",
@@ -4579,6 +4610,175 @@
       "ヘルズ, (ヘルズエンジェルス)",
       "ヘルズエンジェルス",
       "地狱天使"
+    ]
+  },
+  {
+    "title": "獄・さよなら絶望先生",
+    "titleTranslate": {
+      "zh-Hans": [
+        "狱・再见绝望先生"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2008-10-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2603"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zetsubou_oad1",
+        "begin": "2022-04-30T15:00:00.000Z",
+        "broadcast": "R/2022-04-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "5576"
+      },
+      {
+        "site": "anidb",
+        "id": "6509"
+      },
+      {
+        "site": "anilist",
+        "id": "3228"
+      },
+      {
+        "site": "anilist",
+        "id": "6377"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sayonara-zetsubou-sensei"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sayonara-zetsubou-sensei-blu-ray-box-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sayonara-zetsubou-sensei-jo-zetsubou-shoujo-senshuu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sayonara-zetsubou-sensei-jo-zoku-zetsubou-shoujo-senshuu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sayonara-zetsubou-sensei-special-omake"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zan-sayonara-zetsubou-sensei"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zan-sayonara-zetsubou-sensei-bangaichi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zoku-sayonara-zetsubou-sensei"
+      },
+      {
+        "site": "anisearch",
+        "id": "4590"
+      },
+      {
+        "site": "anisearch",
+        "id": "5373"
+      },
+      {
+        "site": "kitsu",
+        "id": "2871"
+      },
+      {
+        "site": "kitsu",
+        "id": "4537"
+      },
+      {
+        "site": "livechart",
+        "id": "3647"
+      },
+      {
+        "site": "livechart",
+        "id": "3904"
+      },
+      {
+        "site": "livechart",
+        "id": "3923"
+      },
+      {
+        "site": "livechart",
+        "id": "4462"
+      },
+      {
+        "site": "livechart",
+        "id": "4778"
+      },
+      {
+        "site": "livechart",
+        "id": "6941"
+      },
+      {
+        "site": "livechart",
+        "id": "6974"
+      },
+      {
+        "site": "livechart",
+        "id": "7653"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3228"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6377"
+      },
+      {
+        "site": "notify",
+        "id": "S3g65FmmR"
+      },
+      {
+        "site": "notify",
+        "id": "YdSQ5KiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2008,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/14336.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/14336t.jpg",
+    "synonyms": [
+      "GSZS",
+      "Goku Sayonara Zetsubou-sensei",
+      "Goku Sayonara Zetsubō-sensei",
+      "Goodbye Mr. Despair OAD",
+      "Goodbye Mr. Despair OVA",
+      "Sayonara Zetsubou Sensei OAD",
+      "Sayonara Zetsubou Sensei OVA",
+      "Sayonara Zetsubou-sensei OVA",
+      "gszs",
+      "szs ova",
+      "szs3",
+      "zetsubou ova",
+      "zetsubou2 ova",
+      "Прощай",
+      "Сбогом",
+      "безрадостный учитель OVA-1",
+      "отчаян учителю: Тишина",
+      "狱·再见! 绝望老师",
+      "獄・さよなら絶望先生"
     ]
   }
 ]

@@ -32,7 +32,8 @@
       {
         "site": "nicovideo",
         "id": "utawarerumono",
-        "begin": "2015-10-15T06:00:00.000Z"
+        "begin": "2015-10-15T06:00:00.000Z",
+        "broadcast": "R/2015-10-15T06:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -173,13 +174,20 @@
       {
         "site": "nicovideo",
         "id": "oyashirosama",
-        "begin": "2016-08-23T03:00:00.000Z"
+        "begin": "2016-08-23T03:00:00.000Z",
+        "broadcast": "R/2016-08-23T03:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
         "id": "70308793",
         "begin": "2019-07-30T16:00:00.000Z",
         "broadcast": "R/2019-07-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "117-1m-6rcjtu92",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -1100,7 +1108,8 @@
       {
         "site": "nicovideo",
         "id": "hostbu",
-        "begin": "2014-04-15T06:00:00.000Z"
+        "begin": "2014-04-15T06:00:00.000Z",
+        "broadcast": "R/2014-04-15T06:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -1391,7 +1400,8 @@
       {
         "site": "nicovideo",
         "id": "blacklagoon",
-        "begin": "2011-10-13T15:30:00.000Z"
+        "begin": "2011-10-13T15:30:00.000Z",
+        "broadcast": "R/2011-10-13T15:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1404,6 +1414,12 @@
         "id": "70308852",
         "begin": "2017-11-29T15:00:00.000Z",
         "broadcast": "R/2019-09-11T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "11-8",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -1758,6 +1774,9 @@
         "偶像宣言",
         "花漾明星KIRARIN",
         "星梦天使"
+      ],
+      "zh-Hant": [
+        "KIRARIN 花漾明星"
       ]
     },
     "type": "tv",
@@ -1774,6 +1793,12 @@
       {
         "site": "bangumi",
         "id": "49559"
+      },
+      {
+        "site": "gamer",
+        "id": "575",
+        "begin": "2023-11-03T04:00:00.000Z",
+        "broadcast": "R/2023-11-03T04:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2314,6 +2339,7 @@
       "Haruhi S2",
       "La Malinconia di Haruhi Suzumiya",
       "La Mélancolie de Haruhi Suzumiya",
+      "La Mélancolie de Haruhi Suzumiya : Saison 2",
       "La malinconia di Haruhi Suzumiya (2009)",
       "La mélancolie de Haruhi Suzumiya (2009)",
       "Melancholia Haruhi Suzumii (2009)",
@@ -2638,7 +2664,8 @@
       {
         "site": "nicovideo",
         "id": "nana01",
-        "begin": "2015-03-13T06:00:00.000Z"
+        "begin": "2015-03-13T06:00:00.000Z",
+        "broadcast": "R/2015-03-13T06:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -2724,7 +2751,8 @@
       {
         "site": "nicovideo",
         "id": "gintama01",
-        "begin": "2015-04-17T06:00:00.000Z"
+        "begin": "2015-04-17T06:00:00.000Z",
+        "broadcast": "R/2015-04-17T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo_tw",
@@ -2737,6 +2765,12 @@
         "id": "28233839",
         "begin": "2021-03-19T10:00:00.000Z",
         "broadcast": "R/2021-03-19T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-47",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -2793,6 +2827,10 @@
       {
         "site": "anime-planet",
         "id": "3-nen-z-gumi-ginpachi-sensei"
+      },
+      {
+        "site": "anime-planet",
+        "id": "3-nen-z-gumi-ginpachi-sensei-tokuhou-eizou"
       },
       {
         "site": "anime-planet",
@@ -3336,6 +3374,7 @@
     "synonyms": [
       "AIR GEAR Special",
       "Air Gear - Special Trick",
+      "Air Gear : Special Trick",
       "Air Gear Episode 21.5",
       "Air Gear: Episode 21.5",
       "Air Gear: Special Trick",
@@ -3577,8 +3616,8 @@
     },
     "status": "FINISHED",
     "episodes": 26,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/3590.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/3590t.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/1856/138786.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1856/138786t.jpg",
     "synonyms": [
       "Spider Riders",
       "Spider Riders: Oracle no Yūsha-tachi",
@@ -4019,6 +4058,8 @@
       "Ring ni Kakero 1 Episode: The Pacific War",
       "Ring ni Kakero 1: Nichibei Kessen Hen",
       "Ring ni Kakero S2",
+      "Ring ni Kakero Season 2",
+      "Ring ni Kakero: US VS JAPAN",
       "Ring ni Kakero: US vs Japan",
       "rinkake s2",
       "りんぐにかけろ1にちべいけっせんへん",
@@ -4394,10 +4435,6 @@
       },
       {
         "site": "livechart",
-        "id": "3936"
-      },
-      {
-        "site": "livechart",
         "id": "3979"
       },
       {
@@ -4410,7 +4447,7 @@
       },
       {
         "site": "livechart",
-        "id": "4148"
+        "id": "4466"
       },
       {
         "site": "livechart",
@@ -4418,11 +4455,19 @@
       },
       {
         "site": "livechart",
+        "id": "5008"
+      },
+      {
+        "site": "livechart",
         "id": "5217"
       },
       {
         "site": "livechart",
-        "id": "5359"
+        "id": "5332"
+      },
+      {
+        "site": "livechart",
+        "id": "5345"
       },
       {
         "site": "livechart",
@@ -4438,10 +4483,6 @@
       },
       {
         "site": "livechart",
-        "id": "5643"
-      },
-      {
-        "site": "livechart",
         "id": "8945"
       },
       {
@@ -4454,7 +4495,7 @@
       }
     ],
     "animeSeason": {
-      "season": "SPRING",
+      "season": "FALL",
       "year": 2006,
       "month": "04"
     },
@@ -4477,7 +4518,6 @@
       "Pokémon: Le Maître des Mirages",
       "Pokémon: The Mastermind of Mirage Pokémon",
       "Pokémon: le maître des mirages",
-      "Senritsu no Mirage Pokemon",
       "Senritsu no Mirage Pokémon",
       "ポケットモンスター 戦慄のミラージュポケモン",
       "戦慄のミラージュポケモン"
@@ -4506,7 +4546,8 @@
       {
         "site": "nicovideo",
         "id": "arianatu01",
-        "begin": "2015-04-02T10:00:00.000Z"
+        "begin": "2015-04-02T10:00:00.000Z",
+        "broadcast": "R/2015-04-02T10:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -5008,6 +5049,7 @@
       "DC M10",
       "Detective Conan 10 - El réquiem de los detectives (2006)",
       "Detective Conan Film 10: Le Requiem des Détectives",
+      "Detective Conan Movie 10: Requiem of the Detectives",
       "Detective Conan Movie 10: Requiem per un Detective",
       "Detective Conan Movie 10: The Private Eyes' Requiem",
       "Detective Conan Movie 10: The Private Eyes’ Requiem",
@@ -5015,7 +5057,6 @@
       "Detective Conan: Requiem Per Un Detective",
       "Detective Conan: Requiem of the Detectives",
       "Detective Conan: Requiem per un detective",
-      "Detective Conan: The Private Eyes' Requiem",
       "Detective Conan: The Private Eyes` Requiem",
       "Detektiv Conan - 10. Film: Das Requiem der Detektive",
       "Detektiv Conan Film 10",
@@ -5024,7 +5065,6 @@
       "Détective Conan - Film 10",
       "Détective Conan: Le Requiem des Détectives",
       "Meitantei Conan Movie 10",
-      "Meitantei Conan Movie 10: Tantei-tachi no Requiem",
       "Meitantei Conan: Tantei-tachi no Requiem",
       "The Private Eyes' Requiem",
       "Детектив Конан: Реквиемът на Детективите",
@@ -5094,7 +5134,7 @@
       }
     ],
     "animeSeason": {
-      "season": "SPRING",
+      "season": "WINTER",
       "year": 2006,
       "month": "04"
     },

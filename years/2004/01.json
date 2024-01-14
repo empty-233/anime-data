@@ -31,7 +31,8 @@
       {
         "site": "nicovideo",
         "id": "mariasama",
-        "begin": "2019-10-16T15:00:00.000Z"
+        "begin": "2019-10-16T15:00:00.000Z",
+        "broadcast": "R/2019-10-16T15:00:00.000Z/P7D"
       },
       {
         "site": "anilist",
@@ -354,7 +355,8 @@
       {
         "site": "nicovideo",
         "id": "mezzo",
-        "begin": "2014-03-21T03:00:00.000Z"
+        "begin": "2014-03-21T03:00:00.000Z",
+        "broadcast": "R/2014-03-21T03:00:00.000Z/P7D"
       },
       {
         "site": "anime-planet",
@@ -1156,6 +1158,18 @@
         "broadcast": "R/2015-02-27T22:00:00.000Z/P7D"
       },
       {
+        "site": "nicovideo",
+        "id": "kokaku-sac-2nd-gig",
+        "begin": "2022-11-07T15:00:00.000Z",
+        "broadcast": "R/2022-11-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "420-6",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "247"
       },
@@ -1461,7 +1475,8 @@
       {
         "site": "nicovideo",
         "id": "futariha-precure",
-        "begin": "2018-10-12T15:00:00.000Z"
+        "begin": "2018-10-12T15:00:00.000Z",
+        "broadcast": "R/2018-10-05T08:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -1598,6 +1613,10 @@
       {
         "site": "anilist",
         "id": "16442"
+      },
+      {
+        "site": "anilist",
+        "id": "171030"
       },
       {
         "site": "anilist",
@@ -1806,6 +1825,10 @@
       {
         "site": "anisearch",
         "id": "18342"
+      },
+      {
+        "site": "anisearch",
+        "id": "18886"
       },
       {
         "site": "anisearch",

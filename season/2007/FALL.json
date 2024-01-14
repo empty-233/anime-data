@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "剧场版 Free!-Timeless Medley- 绊"
+      ],
+      "zh-Hant": [
+        "劇場版 FREE! 男子游泳部 Timeless Medley- 絆"
       ]
     },
     "type": "movie",
@@ -20,6 +23,12 @@
         "site": "nicovideo",
         "id": "free-tm-movie",
         "begin": "2018-07-01T06:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "88092",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -120,6 +129,179 @@
       "空の境界",
       "空之境界",
       "공의 경계"
+    ]
+  },
+  {
+    "title": "ああっ女神さまっ 闘う翼",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的女神 战斗之翼"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/megamisama/",
+    "begin": "2007-12-08T16:00:00.000Z",
+    "end": "2007-12-08T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "k/kjdoip1hshpdcbk",
+        "begin": ""
+      },
+      {
+        "site": "pptv",
+        "id": "Ihbxb9c9retOzDQ",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "13551"
+      },
+      {
+        "site": "bilibili",
+        "id": "5742",
+        "begin": "2007-12-07T16:00:01.000Z",
+        "broadcast": "R/2016-12-03T07:48:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "4153"
+      },
+      {
+        "site": "anidb",
+        "id": "7973"
+      },
+      {
+        "site": "anilist",
+        "id": "2198"
+      },
+      {
+        "site": "anilist",
+        "id": "9611"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ah-my-goddess"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ah-my-goddess-2011"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ah-my-goddess-flights-of-fancy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ah-my-goddess-flights-of-fancy-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ah-my-goddess-the-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ah-my-goddess-tv"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ah-my-goddess-tv-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "oh-my-goddess-the-adventures-of-mini-goddess"
+      },
+      {
+        "site": "anisearch",
+        "id": "1278"
+      },
+      {
+        "site": "anisearch",
+        "id": "6520"
+      },
+      {
+        "site": "kitsu",
+        "id": "5808"
+      },
+      {
+        "site": "kitsu",
+        "id": "780"
+      },
+      {
+        "site": "livechart",
+        "id": "3892"
+      },
+      {
+        "site": "livechart",
+        "id": "4190"
+      },
+      {
+        "site": "livechart",
+        "id": "4503"
+      },
+      {
+        "site": "livechart",
+        "id": "5110"
+      },
+      {
+        "site": "livechart",
+        "id": "5114"
+      },
+      {
+        "site": "livechart",
+        "id": "5408"
+      },
+      {
+        "site": "livechart",
+        "id": "5968"
+      },
+      {
+        "site": "livechart",
+        "id": "6044"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2198"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9611"
+      },
+      {
+        "site": "notify",
+        "id": "CSC05FmmR"
+      },
+      {
+        "site": "notify",
+        "id": "HYFMpFimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2007,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/18673.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/18673t.jpg",
+    "synonyms": [
+      "AA! Nữ thần của tôi: Đôi cánh chiến đấu",
+      "Aa! Megami-sama!: Tatakau Tsubasa",
+      "Ah! Megami-sama! Tatakau Tsubasa",
+      "Ah! My Goddess, Fighting Wings",
+      "Ah! My Goddess: Fighting Wings",
+      "Ah! My Goddess: Fighting wings",
+      "Ah! My Goddess: Tatakau Tsubasa",
+      "Oh! My Goddess: Fighting Wings",
+      "amg (2007)",
+      "amgtt",
+      "Ā! Megami-sama!: Tatakau Tsubasa",
+      "ああっめがみさまったたかうつばさ",
+      "ああっ女神さまっ 闘う翼",
+      "我的女神 战斗之翼",
+      "오! 나의 여신님: 싸움의 날개"
     ]
   },
   {
@@ -2393,6 +2575,12 @@
         "begin": ""
       },
       {
+        "site": "abema",
+        "id": "115-6iuxkuhubgj",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "5510"
       },
@@ -3320,179 +3508,6 @@
     ]
   },
   {
-    "title": "ストレンヂア 無皇刃譚",
-    "titleTranslate": {
-      "zh-Hans": [
-        "异邦人 无皇刃谭"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "http://www.stranja.jp/",
-    "begin": "2007-09-29T16:00:00.000Z",
-    "end": "2007-09-29T16:00:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "4014"
-      },
-      {
-        "site": "qq",
-        "id": "n/n845812mqzji6l1",
-        "begin": ""
-      },
-      {
-        "site": "bilibili",
-        "id": "3151",
-        "begin": "2007-09-29T16:00:00.000Z",
-        "broadcast": ""
-      },
-      {
-        "site": "anilist",
-        "id": "14617"
-      },
-      {
-        "site": "anime-planet",
-        "id": "sword-of-the-stranger-pilot"
-      },
-      {
-        "site": "anisearch",
-        "id": "7498"
-      },
-      {
-        "site": "kitsu",
-        "id": "7140"
-      },
-      {
-        "site": "livechart",
-        "id": "7606"
-      },
-      {
-        "site": "myanimelist",
-        "id": "14617"
-      },
-      {
-        "site": "notify",
-        "id": "a9vOtFiig"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2007,
-      "month": "09"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/87066.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/87066t.jpg",
-    "synonyms": [
-      "Kiếm của quái nhân",
-      "Nepažįstamojo Kardas",
-      "Stranger -Mukoh Hadan-",
-      "Stranger -Mukou Hadan-",
-      "Stranger ~Mukoh Hadan~",
-      "Stranger: Mukoh Hadan",
-      "Stranger: Mukō Hadan",
-      "Stranja",
-      "Stranja: Mukou Hadan",
-      "Sword of the Stranger",
-      "Sword of the Stranger: El Samurai sin Nombre",
-      "Sword of the stranger",
-      "Võõra mõõk",
-      "stranger",
-      "Меч чужака",
-      "Меч чужинця",
-      "Мечът на странника",
-      "سيف الغريب",
-      "شمشیر غریبه",
-      "すとれんぢあむこうはだん",
-      "ストレンヂア -無皇刃譚-",
-      "ストレンヂア 無皇刃譚",
-      "异邦人 无皇刃谭",
-      "异邦人-无皇刃谭-",
-      "스트레인저 무황인담"
-    ]
-  },
-  {
-    "title": "ぽてまよ",
-    "titleTranslate": {
-      "zh-Hans": [
-        "蛋黄酱萝莉",
-        "土豆蛋黄酱"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://www.potemayo.com/",
-    "begin": "2007-07-06T16:30:00.000Z",
-    "end": "2007-09-21T17:00:00.000Z",
-    "sites": [
-      {
-        "site": "pptv",
-        "id": "1GNe3ESqGlia7OaE",
-        "begin": ""
-      },
-      {
-        "site": "qq",
-        "id": "z/zcvyxzaq7fksa3y",
-        "begin": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "6849"
-      },
-      {
-        "site": "bilibili",
-        "id": "3233",
-        "begin": "2007-07-05T16:00:01.000Z",
-        "broadcast": "R/2015-12-23T08:08:37.000Z/P7D"
-      },
-      {
-        "site": "anilist",
-        "id": "2744"
-      },
-      {
-        "site": "anime-planet",
-        "id": "potemayo"
-      },
-      {
-        "site": "anisearch",
-        "id": "4033"
-      },
-      {
-        "site": "kitsu",
-        "id": "2504"
-      },
-      {
-        "site": "livechart",
-        "id": "5613"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2744"
-      },
-      {
-        "site": "notify",
-        "id": "3FCycKmmg"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2007,
-      "month": "07"
-    },
-    "status": "FINISHED",
-    "episodes": 6,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/42859.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/42859t.jpg",
-    "synonyms": [
-      "Potemayo DVD Special",
-      "ぽてまよ",
-      "ぽてまよ Specials",
-      "ぽてまよ 特典"
-    ]
-  },
-  {
     "title": "もえたん",
     "titleTranslate": {
       "zh-Hans": [
@@ -3643,159 +3658,6 @@
       "がくえんゆーとぴあ まなびストレート！ 夏だ！ まなびだ！ 強化合宿だ！",
       "がくえんゆーとぴあ まなびストレート！夏だ! まなびだ! 強化合宿だ!",
       "がくえんゆーとぴあまなびすとれーと"
-    ]
-  },
-  {
-    "title": "ときめきメモリアル Only Love",
-    "titleTranslate": {
-      "zh-Hans": [
-        "心跳回忆Only Love"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://www.konami.jp/visual/tokimemo-anime/",
-    "begin": "2006-10-02T16:30:00.000Z",
-    "end": "2007-03-26T17:30:00.000Z",
-    "sites": [
-      {
-        "site": "pptv",
-        "id": "Akw4th6E9DKVE3s",
-        "begin": ""
-      },
-      {
-        "site": "qq",
-        "id": "u/uqm4ypu0zrkwrzj",
-        "begin": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "1804"
-      },
-      {
-        "site": "bilibili",
-        "id": "1410",
-        "begin": "2006-10-01T16:00:00.000Z",
-        "broadcast": "R/2011-10-03T09:21:00.000Z/P7D"
-      },
-      {
-        "site": "anime-planet",
-        "id": "tokimeki-memorial"
-      },
-      {
-        "site": "anime-planet",
-        "id": "tokimeki-memorial-only-love"
-      },
-      {
-        "site": "anisearch",
-        "id": "3603"
-      },
-      {
-        "site": "kitsu",
-        "id": "1395"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1555"
-      },
-      {
-        "site": "notify",
-        "id": "efaa5FiiR"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2007,
-      "month": "10"
-    },
-    "status": "FINISHED",
-    "episodes": 2,
-    "picture": "https://cdn.myanimelist.net/images/anime/1511/128538.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1511/128538t.jpg",
-    "synonyms": [
-      "Tokimeki Memorial 17.5: The Excitement of Heroism",
-      "Tokimeki Memorial 25.5",
-      "Tokimeki no Sentaku",
-      "Tokimeki no Yuuki",
-      "ときめきめもりあるおんりーらぶ",
-      "ときめきメモリアル Only Love",
-      "ときめきメモリアル Only Love Specials"
-    ]
-  },
-  {
-    "title": "すもももももも ～地上最強のヨメ～",
-    "titleTranslate": {
-      "zh-Hans": [
-        "地上最强新娘",
-        "铁拳少女桃子"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://www.tv-sumomo.com/",
-    "begin": "2006-10-05T17:40:00.000Z",
-    "end": "2007-03-15T17:40:00.000Z",
-    "sites": [
-      {
-        "site": "pptv",
-        "id": "DzMOjPRayghr6VE",
-        "begin": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "6848"
-      },
-      {
-        "site": "bilibili",
-        "id": "1811",
-        "begin": "2006-10-04T16:00:00.000Z",
-        "broadcast": ""
-      },
-      {
-        "site": "anilist",
-        "id": "1568"
-      },
-      {
-        "site": "anime-planet",
-        "id": "sumomomo-momomo"
-      },
-      {
-        "site": "anisearch",
-        "id": "3675"
-      },
-      {
-        "site": "kitsu",
-        "id": "1408"
-      },
-      {
-        "site": "livechart",
-        "id": "4255"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1568"
-      },
-      {
-        "site": "notify",
-        "id": "9JY-5Kmig"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2007,
-      "month": "10"
-    },
-    "status": "FINISHED",
-    "episodes": 2,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/5575.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/5575t.jpg",
-    "synonyms": [
-      "Sumomomo Momomo Specials",
-      "Sumomomo Momomo: Chijō Saikyō no Yome Specials",
-      "Sumomomo Momomo: The Strongest Bride on Earth Specials",
-      "すもももももも ～地上最強のヨメ～",
-      "すもももももも ～地上最強のヨメ～ Specials",
-      "すももももももちじょうさいきょうのよめ"
     ]
   }
 ]

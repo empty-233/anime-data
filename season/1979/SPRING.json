@@ -1,5 +1,1239 @@
 [
   {
+    "title": "ドラえもん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-asahi.co.jp/doraemon/",
+    "begin": "2005-04-15T10:00:00.000Z",
+    "broadcast": "R/2019-10-05T08:00:00.000Z/P7D",
+    "end": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "18692"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228115",
+        "begin": "2020-03-07T05:16:00.000Z",
+        "broadcast": "R/2020-03-07T05:16:00.000Z/P7D",
+        "comment": "第二季: 28228116, 第三季: 28228117, 第四季: 28338738"
+      },
+      {
+        "site": "abema",
+        "id": "35-53",
+        "begin": "",
+        "broadcast": "",
+        "comment": "ドラえもん: 87-1084"
+      },
+      {
+        "site": "anidb",
+        "id": "10253"
+      },
+      {
+        "site": "anidb",
+        "id": "1951"
+      },
+      {
+        "site": "anidb",
+        "id": "2110"
+      },
+      {
+        "site": "anidb",
+        "id": "2691"
+      },
+      {
+        "site": "anidb",
+        "id": "2692"
+      },
+      {
+        "site": "anidb",
+        "id": "2717"
+      },
+      {
+        "site": "anidb",
+        "id": "3113"
+      },
+      {
+        "site": "anidb",
+        "id": "3114"
+      },
+      {
+        "site": "anidb",
+        "id": "3314"
+      },
+      {
+        "site": "anidb",
+        "id": "3315"
+      },
+      {
+        "site": "anidb",
+        "id": "4635"
+      },
+      {
+        "site": "anidb",
+        "id": "4673"
+      },
+      {
+        "site": "anidb",
+        "id": "4674"
+      },
+      {
+        "site": "anidb",
+        "id": "4765"
+      },
+      {
+        "site": "anidb",
+        "id": "4967"
+      },
+      {
+        "site": "anidb",
+        "id": "5046"
+      },
+      {
+        "site": "anidb",
+        "id": "5047"
+      },
+      {
+        "site": "anidb",
+        "id": "6582"
+      },
+      {
+        "site": "anidb",
+        "id": "6583"
+      },
+      {
+        "site": "anidb",
+        "id": "6584"
+      },
+      {
+        "site": "anidb",
+        "id": "6585"
+      },
+      {
+        "site": "anidb",
+        "id": "6586"
+      },
+      {
+        "site": "anidb",
+        "id": "6587"
+      },
+      {
+        "site": "anidb",
+        "id": "6588"
+      },
+      {
+        "site": "anidb",
+        "id": "6590"
+      },
+      {
+        "site": "anidb",
+        "id": "6591"
+      },
+      {
+        "site": "anidb",
+        "id": "6592"
+      },
+      {
+        "site": "anidb",
+        "id": "6593"
+      },
+      {
+        "site": "anidb",
+        "id": "6594"
+      },
+      {
+        "site": "anidb",
+        "id": "6595"
+      },
+      {
+        "site": "anidb",
+        "id": "6596"
+      },
+      {
+        "site": "anidb",
+        "id": "6597"
+      },
+      {
+        "site": "anidb",
+        "id": "6599"
+      },
+      {
+        "site": "anidb",
+        "id": "7014"
+      },
+      {
+        "site": "anidb",
+        "id": "7049"
+      },
+      {
+        "site": "anidb",
+        "id": "7764"
+      },
+      {
+        "site": "anidb",
+        "id": "7765"
+      },
+      {
+        "site": "anidb",
+        "id": "7766"
+      },
+      {
+        "site": "anidb",
+        "id": "7767"
+      },
+      {
+        "site": "anidb",
+        "id": "7768"
+      },
+      {
+        "site": "anidb",
+        "id": "7769"
+      },
+      {
+        "site": "anilist",
+        "id": "126783"
+      },
+      {
+        "site": "anilist",
+        "id": "136667"
+      },
+      {
+        "site": "anilist",
+        "id": "16702"
+      },
+      {
+        "site": "anilist",
+        "id": "2393"
+      },
+      {
+        "site": "anilist",
+        "id": "2643"
+      },
+      {
+        "site": "anilist",
+        "id": "2644"
+      },
+      {
+        "site": "anilist",
+        "id": "2648"
+      },
+      {
+        "site": "anilist",
+        "id": "2654"
+      },
+      {
+        "site": "anilist",
+        "id": "2655"
+      },
+      {
+        "site": "anilist",
+        "id": "2656"
+      },
+      {
+        "site": "anilist",
+        "id": "2657"
+      },
+      {
+        "site": "anilist",
+        "id": "2658"
+      },
+      {
+        "site": "anilist",
+        "id": "2659"
+      },
+      {
+        "site": "anilist",
+        "id": "2661"
+      },
+      {
+        "site": "anilist",
+        "id": "2662"
+      },
+      {
+        "site": "anilist",
+        "id": "2664"
+      },
+      {
+        "site": "anilist",
+        "id": "2665"
+      },
+      {
+        "site": "anilist",
+        "id": "2666"
+      },
+      {
+        "site": "anilist",
+        "id": "2667"
+      },
+      {
+        "site": "anilist",
+        "id": "2668"
+      },
+      {
+        "site": "anilist",
+        "id": "2669"
+      },
+      {
+        "site": "anilist",
+        "id": "2670"
+      },
+      {
+        "site": "anilist",
+        "id": "2671"
+      },
+      {
+        "site": "anilist",
+        "id": "2672"
+      },
+      {
+        "site": "anilist",
+        "id": "2674"
+      },
+      {
+        "site": "anilist",
+        "id": "2675"
+      },
+      {
+        "site": "anilist",
+        "id": "2676"
+      },
+      {
+        "site": "anilist",
+        "id": "2677"
+      },
+      {
+        "site": "anilist",
+        "id": "2678"
+      },
+      {
+        "site": "anilist",
+        "id": "3727"
+      },
+      {
+        "site": "anilist",
+        "id": "501"
+      },
+      {
+        "site": "anilist",
+        "id": "7045"
+      },
+      {
+        "site": "anilist",
+        "id": "8687"
+      },
+      {
+        "site": "anime-planet",
+        "id": "2112-the-birth-of-doraemon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-1973"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-1979-special-1-benkyou-beya-no-tsuribori"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-1979-special-17-doraemon-meets-hattori-the-ninja"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-1979-special-2-doraemons-time-capsule-for-2001"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-1979-special-27-the-country-of-ichi-the-stray-dog"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-1979-special-5-dora-q-perman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-1979-special-9-nessies-coming"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-2005"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-boku-momotarou-no-nanna-no-sa"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-boku-no-umareta-hi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back-1998"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-eigo-kyoushitsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-ganbare-gian"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-1-nobitas-dinosaur"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-10-nobita-at-the-birth-of-japan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-11-nobita-to-animal-planet"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-12-nobita-in-dorabian-nights"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-13-nobita-to-kumo-no-oukoku"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-14-nobitas-tin-plate-labyrinth"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-15-nobitas-fantastical-three-musketeers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-16-nobitas-genesis-diary"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-17-nobitas-galactic-express"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-18-nobitas-adventure-in-clockwork-city"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-19-nobitas-south-sea-adventure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-2-nobita-no-uchuu-kaitakushi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-20-nobita-gets-lost-in-space"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-21-nobita-and-the-legend-of-the-sun-king"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-22-nobitas-winged-heroes"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-23-nobita-and-robot-kingdom"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-24-nobita-and-the-strange-wind-rider"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-25-nobitas-wannyan-space-time-legend"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-26-nobitas-dinosaur-2006"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-27-nobita-no-shin-makai-daibouken-shichinin-no-mahou-tsukai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-28-nobita-and-the-green-giant-legend"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-29-shin-nobita-no-uchuu-kaitakushi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-3-nobitas-great-demon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-30-nobitas-great-mermaid-naval-battle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-31-shin-nobita-to-tetsujin-heidan-habatake-tenshi-tachi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-33-nobita-no-himitsu-dougu-museum"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-34-new-nobitas-great-demon-peko-and-the-exploration-party-of-five"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-35-nobita-no-space-heroes"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-36-nobita-at-the-birth-of-japan-2016"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-37-nobita-no-nankyoku-kachi-kochi-daibouken"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-38-nobitas-treasure-island"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-4-nobitas-monstrous-underwater-castle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-5-nobitas-great-adventure-into-the-underworld"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-6-nobitas-little-star-wars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-7-nobita-and-the-platoon-of-iron-men"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-8-nobita-and-the-dragon-rider"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-9-nobitas-version-of-saiyuki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-nobita-no-kekkon-zenya"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-nobita-no-shin-kyouryuu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-nobita-to-mirai-note"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-obaa-chan-no-omoide"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-tokimeki-solar-kurumaniyon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dorami-and-doraemons-robot-schools-seven-mysteries"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dorami-chan-hello-kyouryuu-kids"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dorami-chan-mini-dora-sos"
+      },
+      {
+        "site": "anime-planet",
+        "id": "edutainment-planetarium-doraemon-to-chigasou-uchuu-no-tomodachi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "koutsuu-anzen-da-yo-doraemon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "stand-by-me-doraemon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-doraemons-goal-goal-goal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-doraemons-kaitou-dorapan-nazo-no-chousenjou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-doraemons-mushimushi-pyonpyon-daisakusen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-doraemons-strange-sweets-strange"
+      },
+      {
+        "site": "anisearch",
+        "id": "1167"
+      },
+      {
+        "site": "anisearch",
+        "id": "1659"
+      },
+      {
+        "site": "anisearch",
+        "id": "1840"
+      },
+      {
+        "site": "anisearch",
+        "id": "2049"
+      },
+      {
+        "site": "anisearch",
+        "id": "3198"
+      },
+      {
+        "site": "anisearch",
+        "id": "3754"
+      },
+      {
+        "site": "anisearch",
+        "id": "3824"
+      },
+      {
+        "site": "anisearch",
+        "id": "3825"
+      },
+      {
+        "site": "anisearch",
+        "id": "4071"
+      },
+      {
+        "site": "anisearch",
+        "id": "4144"
+      },
+      {
+        "site": "anisearch",
+        "id": "4145"
+      },
+      {
+        "site": "anisearch",
+        "id": "4504"
+      },
+      {
+        "site": "anisearch",
+        "id": "510"
+      },
+      {
+        "site": "anisearch",
+        "id": "5110"
+      },
+      {
+        "site": "anisearch",
+        "id": "5111"
+      },
+      {
+        "site": "anisearch",
+        "id": "5112"
+      },
+      {
+        "site": "anisearch",
+        "id": "5114"
+      },
+      {
+        "site": "anisearch",
+        "id": "5115"
+      },
+      {
+        "site": "anisearch",
+        "id": "5117"
+      },
+      {
+        "site": "anisearch",
+        "id": "5118"
+      },
+      {
+        "site": "anisearch",
+        "id": "5119"
+      },
+      {
+        "site": "anisearch",
+        "id": "5120"
+      },
+      {
+        "site": "anisearch",
+        "id": "5585"
+      },
+      {
+        "site": "anisearch",
+        "id": "5586"
+      },
+      {
+        "site": "anisearch",
+        "id": "5587"
+      },
+      {
+        "site": "anisearch",
+        "id": "5588"
+      },
+      {
+        "site": "anisearch",
+        "id": "5589"
+      },
+      {
+        "site": "anisearch",
+        "id": "5590"
+      },
+      {
+        "site": "anisearch",
+        "id": "6385"
+      },
+      {
+        "site": "anisearch",
+        "id": "6386"
+      },
+      {
+        "site": "anisearch",
+        "id": "9270"
+      },
+      {
+        "site": "anisearch",
+        "id": "975"
+      },
+      {
+        "site": "kitsu",
+        "id": "2170"
+      },
+      {
+        "site": "kitsu",
+        "id": "2389"
+      },
+      {
+        "site": "kitsu",
+        "id": "2391"
+      },
+      {
+        "site": "kitsu",
+        "id": "2393"
+      },
+      {
+        "site": "kitsu",
+        "id": "2394"
+      },
+      {
+        "site": "kitsu",
+        "id": "2396"
+      },
+      {
+        "site": "kitsu",
+        "id": "2397"
+      },
+      {
+        "site": "kitsu",
+        "id": "2398"
+      },
+      {
+        "site": "kitsu",
+        "id": "5443"
+      },
+      {
+        "site": "kitsu",
+        "id": "8898"
+      },
+      {
+        "site": "livechart",
+        "id": "12164"
+      },
+      {
+        "site": "livechart",
+        "id": "6575"
+      },
+      {
+        "site": "livechart",
+        "id": "6880"
+      },
+      {
+        "site": "livechart",
+        "id": "7693"
+      },
+      {
+        "site": "livechart",
+        "id": "8740"
+      },
+      {
+        "site": "livechart",
+        "id": "8868"
+      },
+      {
+        "site": "livechart",
+        "id": "8871"
+      },
+      {
+        "site": "livechart",
+        "id": "8877"
+      },
+      {
+        "site": "livechart",
+        "id": "8878"
+      },
+      {
+        "site": "livechart",
+        "id": "8884"
+      },
+      {
+        "site": "livechart",
+        "id": "8897"
+      },
+      {
+        "site": "livechart",
+        "id": "8900"
+      },
+      {
+        "site": "livechart",
+        "id": "8901"
+      },
+      {
+        "site": "livechart",
+        "id": "8902"
+      },
+      {
+        "site": "livechart",
+        "id": "8998"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10534"
+      },
+      {
+        "site": "myanimelist",
+        "id": "11053"
+      },
+      {
+        "site": "myanimelist",
+        "id": "15925"
+      },
+      {
+        "site": "myanimelist",
+        "id": "16702"
+      },
+      {
+        "site": "myanimelist",
+        "id": "19645"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2392"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2393"
+      },
+      {
+        "site": "myanimelist",
+        "id": "25383"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2625"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2629"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2630"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2632"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2633"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2634"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2650"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2654"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2655"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2656"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2657"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2658"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2659"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2661"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2662"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2664"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2665"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2666"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2667"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2668"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2669"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2670"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2671"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2672"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2673"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2674"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2675"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2676"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2677"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2678"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31201"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33672"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36287"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36730"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3727"
+      },
+      {
+        "site": "myanimelist",
+        "id": "501"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5096"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53953"
+      },
+      {
+        "site": "myanimelist",
+        "id": "54105"
+      },
+      {
+        "site": "myanimelist",
+        "id": "55649"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6930"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6988"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7045"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8687"
+      },
+      {
+        "site": "notify",
+        "id": "-MYy5Kmig"
+      },
+      {
+        "site": "notify",
+        "id": "4Pxs5KimR"
+      },
+      {
+        "site": "notify",
+        "id": "51TscFiig"
+      },
+      {
+        "site": "notify",
+        "id": "5dLs5KimR"
+      },
+      {
+        "site": "notify",
+        "id": "6kAycKiig"
+      },
+      {
+        "site": "notify",
+        "id": "8Jxs5Kimg"
+      },
+      {
+        "site": "notify",
+        "id": "9HbscFimR"
+      },
+      {
+        "site": "notify",
+        "id": "Ba2s5Kimg"
+      },
+      {
+        "site": "notify",
+        "id": "DK2scKiig"
+      },
+      {
+        "site": "notify",
+        "id": "FWay5Fiig"
+      },
+      {
+        "site": "notify",
+        "id": "GB1s5FimR"
+      },
+      {
+        "site": "notify",
+        "id": "GV2btKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "GsAy5FmmR"
+      },
+      {
+        "site": "notify",
+        "id": "JKBy5Kiig"
+      },
+      {
+        "site": "notify",
+        "id": "M8BscKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "OgLs5Kmmg"
+      },
+      {
+        "site": "notify",
+        "id": "Q7tgtFmig"
+      },
+      {
+        "site": "notify",
+        "id": "QMxscFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "Q_As5KimR"
+      },
+      {
+        "site": "notify",
+        "id": "RtxycKimg"
+      },
+      {
+        "site": "notify",
+        "id": "S4YPcFimg"
+      },
+      {
+        "site": "notify",
+        "id": "XBay5FiiR"
+      },
+      {
+        "site": "notify",
+        "id": "X_bscKiig"
+      },
+      {
+        "site": "notify",
+        "id": "Yvos5KimR"
+      },
+      {
+        "site": "notify",
+        "id": "ZQ-y5KimR"
+      },
+      {
+        "site": "notify",
+        "id": "a92s5KmmR"
+      },
+      {
+        "site": "notify",
+        "id": "fCTscFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "h0-ycFiig"
+      },
+      {
+        "site": "notify",
+        "id": "hOAscKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "iGgctKimR"
+      },
+      {
+        "site": "notify",
+        "id": "kH-scKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "lLTs5FimR"
+      },
+      {
+        "site": "notify",
+        "id": "m5ascFimg"
+      },
+      {
+        "site": "notify",
+        "id": "mrfs5KiiR"
+      },
+      {
+        "site": "notify",
+        "id": "o2AscFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "prK_5KmiR"
+      },
+      {
+        "site": "notify",
+        "id": "rTfycKimg"
+      },
+      {
+        "site": "notify",
+        "id": "s7fycKmig"
+      },
+      {
+        "site": "notify",
+        "id": "tj-ycFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "tzBy5Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "uRTscKimg"
+      },
+      {
+        "site": "notify",
+        "id": "vluitKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "xpoycKmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1979,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1787,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/3953.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/3953t.jpg",
+    "synonyms": [
+      "Albert and Sydney",
+      "Doraemon",
+      "Doraemon - O Gato Cósmico",
+      "Doraemon Oyama Edition",
+      "Doraemon: El gato cósmico",
+      "Doraemon: o gato cósmico",
+      "The Adventures of Albert & Sydney",
+      "Đô-rê-mon",
+      "Đôrêmon",
+      "דורימון",
+      "عبقور",
+      "どらえもん",
+      "ドラえもん",
+      "ドラえもん (1979)",
+      "ドラえもん （1979）",
+      "哆啦A梦 大山版",
+      "大山版ドラえもん"
+    ]
+  },
+  {
     "title": "機動戦士ガンダム",
     "titleTranslate": {
       "zh-Hans": [
@@ -1184,6 +2418,1257 @@
       "機動戦士ガンダム",
       "機動戰士高達",
       "기동전사 건담"
+    ]
+  },
+  {
+    "title": "ドラえもん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦",
+        "哆啦A梦 大山版",
+        "哆啦A梦 第2季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-asahi.co.jp/doraemon/",
+    "begin": "1979-04-02T10:00:00.000Z",
+    "end": "2005-03-25T10:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "qicXPTbUbia8ksqhI",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb2ai5",
+        "begin": "2015-06-30T07:36:59.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "j/jxj5pth9h3a71sg",
+        "begin": ""
+      },
+      {
+        "site": "letv",
+        "id": "78930",
+        "begin": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2011/dhpjqm",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "37460"
+      },
+      {
+        "site": "bilibili",
+        "id": "6009",
+        "begin": "1979-04-01T16:00:01.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "10253"
+      },
+      {
+        "site": "anidb",
+        "id": "1951"
+      },
+      {
+        "site": "anidb",
+        "id": "2110"
+      },
+      {
+        "site": "anidb",
+        "id": "2691"
+      },
+      {
+        "site": "anidb",
+        "id": "2692"
+      },
+      {
+        "site": "anidb",
+        "id": "2717"
+      },
+      {
+        "site": "anidb",
+        "id": "3113"
+      },
+      {
+        "site": "anidb",
+        "id": "3114"
+      },
+      {
+        "site": "anidb",
+        "id": "3314"
+      },
+      {
+        "site": "anidb",
+        "id": "3315"
+      },
+      {
+        "site": "anidb",
+        "id": "4635"
+      },
+      {
+        "site": "anidb",
+        "id": "4673"
+      },
+      {
+        "site": "anidb",
+        "id": "4674"
+      },
+      {
+        "site": "anidb",
+        "id": "4765"
+      },
+      {
+        "site": "anidb",
+        "id": "4967"
+      },
+      {
+        "site": "anidb",
+        "id": "5046"
+      },
+      {
+        "site": "anidb",
+        "id": "5047"
+      },
+      {
+        "site": "anidb",
+        "id": "6582"
+      },
+      {
+        "site": "anidb",
+        "id": "6583"
+      },
+      {
+        "site": "anidb",
+        "id": "6584"
+      },
+      {
+        "site": "anidb",
+        "id": "6585"
+      },
+      {
+        "site": "anidb",
+        "id": "6586"
+      },
+      {
+        "site": "anidb",
+        "id": "6587"
+      },
+      {
+        "site": "anidb",
+        "id": "6588"
+      },
+      {
+        "site": "anidb",
+        "id": "6590"
+      },
+      {
+        "site": "anidb",
+        "id": "6591"
+      },
+      {
+        "site": "anidb",
+        "id": "6592"
+      },
+      {
+        "site": "anidb",
+        "id": "6593"
+      },
+      {
+        "site": "anidb",
+        "id": "6594"
+      },
+      {
+        "site": "anidb",
+        "id": "6595"
+      },
+      {
+        "site": "anidb",
+        "id": "6596"
+      },
+      {
+        "site": "anidb",
+        "id": "6597"
+      },
+      {
+        "site": "anidb",
+        "id": "6599"
+      },
+      {
+        "site": "anidb",
+        "id": "7014"
+      },
+      {
+        "site": "anidb",
+        "id": "7049"
+      },
+      {
+        "site": "anidb",
+        "id": "7764"
+      },
+      {
+        "site": "anidb",
+        "id": "7765"
+      },
+      {
+        "site": "anidb",
+        "id": "7766"
+      },
+      {
+        "site": "anidb",
+        "id": "7767"
+      },
+      {
+        "site": "anidb",
+        "id": "7768"
+      },
+      {
+        "site": "anidb",
+        "id": "7769"
+      },
+      {
+        "site": "anilist",
+        "id": "126783"
+      },
+      {
+        "site": "anilist",
+        "id": "136667"
+      },
+      {
+        "site": "anilist",
+        "id": "16702"
+      },
+      {
+        "site": "anilist",
+        "id": "2393"
+      },
+      {
+        "site": "anilist",
+        "id": "2643"
+      },
+      {
+        "site": "anilist",
+        "id": "2644"
+      },
+      {
+        "site": "anilist",
+        "id": "2648"
+      },
+      {
+        "site": "anilist",
+        "id": "2654"
+      },
+      {
+        "site": "anilist",
+        "id": "2655"
+      },
+      {
+        "site": "anilist",
+        "id": "2656"
+      },
+      {
+        "site": "anilist",
+        "id": "2657"
+      },
+      {
+        "site": "anilist",
+        "id": "2658"
+      },
+      {
+        "site": "anilist",
+        "id": "2659"
+      },
+      {
+        "site": "anilist",
+        "id": "2661"
+      },
+      {
+        "site": "anilist",
+        "id": "2662"
+      },
+      {
+        "site": "anilist",
+        "id": "2664"
+      },
+      {
+        "site": "anilist",
+        "id": "2665"
+      },
+      {
+        "site": "anilist",
+        "id": "2666"
+      },
+      {
+        "site": "anilist",
+        "id": "2667"
+      },
+      {
+        "site": "anilist",
+        "id": "2668"
+      },
+      {
+        "site": "anilist",
+        "id": "2669"
+      },
+      {
+        "site": "anilist",
+        "id": "2670"
+      },
+      {
+        "site": "anilist",
+        "id": "2671"
+      },
+      {
+        "site": "anilist",
+        "id": "2672"
+      },
+      {
+        "site": "anilist",
+        "id": "2674"
+      },
+      {
+        "site": "anilist",
+        "id": "2675"
+      },
+      {
+        "site": "anilist",
+        "id": "2676"
+      },
+      {
+        "site": "anilist",
+        "id": "2677"
+      },
+      {
+        "site": "anilist",
+        "id": "2678"
+      },
+      {
+        "site": "anilist",
+        "id": "3727"
+      },
+      {
+        "site": "anilist",
+        "id": "501"
+      },
+      {
+        "site": "anilist",
+        "id": "7045"
+      },
+      {
+        "site": "anilist",
+        "id": "8687"
+      },
+      {
+        "site": "anime-planet",
+        "id": "2112-the-birth-of-doraemon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-1973"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-1979-special-1-benkyou-beya-no-tsuribori"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-1979-special-17-doraemon-meets-hattori-the-ninja"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-1979-special-2-doraemons-time-capsule-for-2001"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-1979-special-27-the-country-of-ichi-the-stray-dog"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-1979-special-5-dora-q-perman"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-1979-special-9-nessies-coming"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-2005"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-boku-momotarou-no-nanna-no-sa"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-boku-no-umareta-hi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back-1998"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-eigo-kyoushitsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-ganbare-gian"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-1-nobitas-dinosaur"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-10-nobita-at-the-birth-of-japan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-11-nobita-to-animal-planet"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-12-nobita-in-dorabian-nights"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-13-nobita-to-kumo-no-oukoku"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-14-nobitas-tin-plate-labyrinth"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-15-nobitas-fantastical-three-musketeers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-16-nobitas-genesis-diary"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-17-nobitas-galactic-express"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-18-nobitas-adventure-in-clockwork-city"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-19-nobitas-south-sea-adventure"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-2-nobita-no-uchuu-kaitakushi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-20-nobita-gets-lost-in-space"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-21-nobita-and-the-legend-of-the-sun-king"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-22-nobitas-winged-heroes"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-23-nobita-and-robot-kingdom"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-24-nobita-and-the-strange-wind-rider"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-25-nobitas-wannyan-space-time-legend"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-26-nobitas-dinosaur-2006"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-27-nobita-no-shin-makai-daibouken-shichinin-no-mahou-tsukai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-28-nobita-and-the-green-giant-legend"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-29-shin-nobita-no-uchuu-kaitakushi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-3-nobitas-great-demon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-30-nobitas-great-mermaid-naval-battle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-31-shin-nobita-to-tetsujin-heidan-habatake-tenshi-tachi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-33-nobita-no-himitsu-dougu-museum"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-34-new-nobitas-great-demon-peko-and-the-exploration-party-of-five"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-35-nobita-no-space-heroes"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-36-nobita-at-the-birth-of-japan-2016"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-37-nobita-no-nankyoku-kachi-kochi-daibouken"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-38-nobitas-treasure-island"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-4-nobitas-monstrous-underwater-castle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-5-nobitas-great-adventure-into-the-underworld"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-6-nobitas-little-star-wars"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-7-nobita-and-the-platoon-of-iron-men"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-8-nobita-and-the-dragon-rider"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-movie-9-nobitas-version-of-saiyuki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-nobita-no-kekkon-zenya"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-nobita-no-shin-kyouryuu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-nobita-to-mirai-note"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-obaa-chan-no-omoide"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-tokimeki-solar-kurumaniyon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dorami-and-doraemons-robot-schools-seven-mysteries"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dorami-chan-hello-kyouryuu-kids"
+      },
+      {
+        "site": "anime-planet",
+        "id": "dorami-chan-mini-dora-sos"
+      },
+      {
+        "site": "anime-planet",
+        "id": "edutainment-planetarium-doraemon-to-chigasou-uchuu-no-tomodachi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "koutsuu-anzen-da-yo-doraemon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "stand-by-me-doraemon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-doraemons-goal-goal-goal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-doraemons-kaitou-dorapan-nazo-no-chousenjou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-doraemons-mushimushi-pyonpyon-daisakusen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-doraemons-strange-sweets-strange"
+      },
+      {
+        "site": "anisearch",
+        "id": "1167"
+      },
+      {
+        "site": "anisearch",
+        "id": "1659"
+      },
+      {
+        "site": "anisearch",
+        "id": "1840"
+      },
+      {
+        "site": "anisearch",
+        "id": "2049"
+      },
+      {
+        "site": "anisearch",
+        "id": "3198"
+      },
+      {
+        "site": "anisearch",
+        "id": "3754"
+      },
+      {
+        "site": "anisearch",
+        "id": "3824"
+      },
+      {
+        "site": "anisearch",
+        "id": "3825"
+      },
+      {
+        "site": "anisearch",
+        "id": "4071"
+      },
+      {
+        "site": "anisearch",
+        "id": "4144"
+      },
+      {
+        "site": "anisearch",
+        "id": "4145"
+      },
+      {
+        "site": "anisearch",
+        "id": "4504"
+      },
+      {
+        "site": "anisearch",
+        "id": "510"
+      },
+      {
+        "site": "anisearch",
+        "id": "5110"
+      },
+      {
+        "site": "anisearch",
+        "id": "5111"
+      },
+      {
+        "site": "anisearch",
+        "id": "5112"
+      },
+      {
+        "site": "anisearch",
+        "id": "5114"
+      },
+      {
+        "site": "anisearch",
+        "id": "5115"
+      },
+      {
+        "site": "anisearch",
+        "id": "5117"
+      },
+      {
+        "site": "anisearch",
+        "id": "5118"
+      },
+      {
+        "site": "anisearch",
+        "id": "5119"
+      },
+      {
+        "site": "anisearch",
+        "id": "5120"
+      },
+      {
+        "site": "anisearch",
+        "id": "5585"
+      },
+      {
+        "site": "anisearch",
+        "id": "5586"
+      },
+      {
+        "site": "anisearch",
+        "id": "5587"
+      },
+      {
+        "site": "anisearch",
+        "id": "5588"
+      },
+      {
+        "site": "anisearch",
+        "id": "5589"
+      },
+      {
+        "site": "anisearch",
+        "id": "5590"
+      },
+      {
+        "site": "anisearch",
+        "id": "6385"
+      },
+      {
+        "site": "anisearch",
+        "id": "6386"
+      },
+      {
+        "site": "anisearch",
+        "id": "9270"
+      },
+      {
+        "site": "anisearch",
+        "id": "975"
+      },
+      {
+        "site": "kitsu",
+        "id": "2170"
+      },
+      {
+        "site": "kitsu",
+        "id": "2389"
+      },
+      {
+        "site": "kitsu",
+        "id": "2391"
+      },
+      {
+        "site": "kitsu",
+        "id": "2393"
+      },
+      {
+        "site": "kitsu",
+        "id": "2394"
+      },
+      {
+        "site": "kitsu",
+        "id": "2396"
+      },
+      {
+        "site": "kitsu",
+        "id": "2397"
+      },
+      {
+        "site": "kitsu",
+        "id": "2398"
+      },
+      {
+        "site": "kitsu",
+        "id": "5443"
+      },
+      {
+        "site": "kitsu",
+        "id": "8898"
+      },
+      {
+        "site": "livechart",
+        "id": "12164"
+      },
+      {
+        "site": "livechart",
+        "id": "6575"
+      },
+      {
+        "site": "livechart",
+        "id": "6880"
+      },
+      {
+        "site": "livechart",
+        "id": "7693"
+      },
+      {
+        "site": "livechart",
+        "id": "8740"
+      },
+      {
+        "site": "livechart",
+        "id": "8868"
+      },
+      {
+        "site": "livechart",
+        "id": "8871"
+      },
+      {
+        "site": "livechart",
+        "id": "8877"
+      },
+      {
+        "site": "livechart",
+        "id": "8878"
+      },
+      {
+        "site": "livechart",
+        "id": "8884"
+      },
+      {
+        "site": "livechart",
+        "id": "8897"
+      },
+      {
+        "site": "livechart",
+        "id": "8900"
+      },
+      {
+        "site": "livechart",
+        "id": "8901"
+      },
+      {
+        "site": "livechart",
+        "id": "8902"
+      },
+      {
+        "site": "livechart",
+        "id": "8998"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10534"
+      },
+      {
+        "site": "myanimelist",
+        "id": "11053"
+      },
+      {
+        "site": "myanimelist",
+        "id": "15925"
+      },
+      {
+        "site": "myanimelist",
+        "id": "16702"
+      },
+      {
+        "site": "myanimelist",
+        "id": "19645"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2392"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2393"
+      },
+      {
+        "site": "myanimelist",
+        "id": "25383"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2625"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2629"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2630"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2632"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2633"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2634"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2650"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2654"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2655"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2656"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2657"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2658"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2659"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2661"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2662"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2664"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2665"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2666"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2667"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2668"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2669"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2670"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2671"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2672"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2673"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2674"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2675"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2676"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2677"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2678"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31201"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33672"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36287"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36730"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3727"
+      },
+      {
+        "site": "myanimelist",
+        "id": "501"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5096"
+      },
+      {
+        "site": "myanimelist",
+        "id": "53953"
+      },
+      {
+        "site": "myanimelist",
+        "id": "54105"
+      },
+      {
+        "site": "myanimelist",
+        "id": "55649"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6930"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6988"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7045"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8687"
+      },
+      {
+        "site": "notify",
+        "id": "-MYy5Kmig"
+      },
+      {
+        "site": "notify",
+        "id": "4Pxs5KimR"
+      },
+      {
+        "site": "notify",
+        "id": "51TscFiig"
+      },
+      {
+        "site": "notify",
+        "id": "5dLs5KimR"
+      },
+      {
+        "site": "notify",
+        "id": "6kAycKiig"
+      },
+      {
+        "site": "notify",
+        "id": "8Jxs5Kimg"
+      },
+      {
+        "site": "notify",
+        "id": "9HbscFimR"
+      },
+      {
+        "site": "notify",
+        "id": "Ba2s5Kimg"
+      },
+      {
+        "site": "notify",
+        "id": "DK2scKiig"
+      },
+      {
+        "site": "notify",
+        "id": "FWay5Fiig"
+      },
+      {
+        "site": "notify",
+        "id": "GB1s5FimR"
+      },
+      {
+        "site": "notify",
+        "id": "GV2btKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "GsAy5FmmR"
+      },
+      {
+        "site": "notify",
+        "id": "JKBy5Kiig"
+      },
+      {
+        "site": "notify",
+        "id": "M8BscKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "OgLs5Kmmg"
+      },
+      {
+        "site": "notify",
+        "id": "Q7tgtFmig"
+      },
+      {
+        "site": "notify",
+        "id": "QMxscFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "Q_As5KimR"
+      },
+      {
+        "site": "notify",
+        "id": "RtxycKimg"
+      },
+      {
+        "site": "notify",
+        "id": "S4YPcFimg"
+      },
+      {
+        "site": "notify",
+        "id": "XBay5FiiR"
+      },
+      {
+        "site": "notify",
+        "id": "X_bscKiig"
+      },
+      {
+        "site": "notify",
+        "id": "Yvos5KimR"
+      },
+      {
+        "site": "notify",
+        "id": "ZQ-y5KimR"
+      },
+      {
+        "site": "notify",
+        "id": "a92s5KmmR"
+      },
+      {
+        "site": "notify",
+        "id": "fCTscFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "h0-ycFiig"
+      },
+      {
+        "site": "notify",
+        "id": "hOAscKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "iGgctKimR"
+      },
+      {
+        "site": "notify",
+        "id": "kH-scKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "lLTs5FimR"
+      },
+      {
+        "site": "notify",
+        "id": "m5ascFimg"
+      },
+      {
+        "site": "notify",
+        "id": "mrfs5KiiR"
+      },
+      {
+        "site": "notify",
+        "id": "o2AscFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "prK_5KmiR"
+      },
+      {
+        "site": "notify",
+        "id": "rTfycKimg"
+      },
+      {
+        "site": "notify",
+        "id": "s7fycKmig"
+      },
+      {
+        "site": "notify",
+        "id": "tj-ycFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "tzBy5Fmmg"
+      },
+      {
+        "site": "notify",
+        "id": "uRTscKimg"
+      },
+      {
+        "site": "notify",
+        "id": "vluitKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "xpoycKmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1979,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1787,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/3953.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/3953t.jpg",
+    "synonyms": [
+      "Albert and Sydney",
+      "Doraemon",
+      "Doraemon - O Gato Cósmico",
+      "Doraemon Oyama Edition",
+      "Doraemon: El gato cósmico",
+      "Doraemon: o gato cósmico",
+      "The Adventures of Albert & Sydney",
+      "Đô-rê-mon",
+      "Đôrêmon",
+      "דורימון",
+      "عبقور",
+      "どらえもん",
+      "ドラえもん",
+      "ドラえもん (1979)",
+      "ドラえもん （1979）",
+      "哆啦A梦 大山版",
+      "大山版ドラえもん"
     ]
   },
   {

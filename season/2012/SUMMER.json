@@ -19,7 +19,8 @@
       {
         "site": "nicovideo",
         "id": "aruzombie-sainan",
-        "begin": ""
+        "begin": "2018-04-27T09:00:00.000Z",
+        "broadcast": "R/2018-04-27T09:00:00.000Z/P7D"
       },
       {
         "site": "anime-planet",
@@ -354,7 +355,8 @@
       {
         "site": "nicovideo",
         "id": "asura-movie",
-        "begin": ""
+        "begin": "2012-09-21T12:55:49.000Z",
+        "broadcast": "R/2012-09-21T12:55:49.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -371,6 +373,60 @@
       "Асура",
       "アシュラ",
       "阿修罗"
+    ]
+  },
+  {
+    "title": "ごきチャ!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蟑螂娘"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2012-09-14T16:00:00.000Z",
+    "end": "2012-09-14T16:20:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "TbiaEAmrQQH7hX8c",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "49057"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch60379",
+        "begin": "2012-09-14T09:00:00.000Z",
+        "broadcast": "R/2012-09-14T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "4473",
+        "begin": "2012-09-13T16:00:01.000Z",
+        "broadcast": "R/2016-06-06T03:22:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2012,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/77941.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/77941t.jpg",
+    "synonyms": [
+      "Cockroach Girls",
+      "Gokicha!! Cockroach Girl!",
+      "Gokicha!! Cockroach Girls",
+      "ごきチャ!!",
+      "ごきチャ!! Cockroach Girls",
+      "ごきチャ！！ Cockroach Girls",
+      "蟑螂娘"
     ]
   },
   {
@@ -570,142 +626,6 @@
       "きょうのあすかしょー",
       "今日のあすかショー",
       "天然萌少女明日香"
-    ]
-  },
-  {
-    "title": "輪廻のラグランジェ 鴨川デイズ",
-    "titleTranslate": {
-      "zh-Hans": [
-        "轮回的拉格朗日 鸭川日常"
-      ]
-    },
-    "type": "ova",
-    "lang": "ja",
-    "officialSite": "http://b.bngi-channel.jp/lag-rin",
-    "begin": "2012-08-23T16:00:00.000Z",
-    "end": "2012-08-23T17:00:00.000Z",
-    "sites": [
-      {
-        "site": "letv",
-        "id": "81606",
-        "begin": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "41428"
-      },
-      {
-        "site": "bilibili",
-        "id": "3812",
-        "begin": "2012-08-22T16:00:01.000Z"
-      },
-      {
-        "site": "anidb",
-        "id": "8583"
-      },
-      {
-        "site": "anidb",
-        "id": "8962"
-      },
-      {
-        "site": "anilist",
-        "id": "11227"
-      },
-      {
-        "site": "anilist",
-        "id": "12281"
-      },
-      {
-        "site": "anime-planet",
-        "id": "lagrange-the-flower-of-rin-ne"
-      },
-      {
-        "site": "anime-planet",
-        "id": "lagrange-the-flower-of-rin-ne-kamogawa-memoria"
-      },
-      {
-        "site": "anime-planet",
-        "id": "lagrange-the-flower-of-rin-ne-picture-drama"
-      },
-      {
-        "site": "anime-planet",
-        "id": "lagrange-the-flower-of-rin-ne-season-2"
-      },
-      {
-        "site": "anime-planet",
-        "id": "lagrange-the-flower-of-rin-ne-season-2-picture-drama"
-      },
-      {
-        "site": "anisearch",
-        "id": "7256"
-      },
-      {
-        "site": "anisearch",
-        "id": "7705"
-      },
-      {
-        "site": "kitsu",
-        "id": "6477"
-      },
-      {
-        "site": "kitsu",
-        "id": "6699"
-      },
-      {
-        "site": "livechart",
-        "id": "1037"
-      },
-      {
-        "site": "livechart",
-        "id": "1160"
-      },
-      {
-        "site": "livechart",
-        "id": "3254"
-      },
-      {
-        "site": "livechart",
-        "id": "5928"
-      },
-      {
-        "site": "livechart",
-        "id": "6736"
-      },
-      {
-        "site": "myanimelist",
-        "id": "11227"
-      },
-      {
-        "site": "myanimelist",
-        "id": "12281"
-      },
-      {
-        "site": "notify",
-        "id": "2KOSpFimR"
-      },
-      {
-        "site": "notify",
-        "id": "NMKHtFimg"
-      }
-    ],
-    "animeSeason": {
-      "season": "SUMMER",
-      "year": 2012,
-      "month": "08"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/38259.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/38259t.jpg",
-    "synonyms": [
-      "Flower Declaration of Your Heart: Kamogawa Days",
-      "Flower declaration of your heart: Kamogawa Days",
-      "Lag-Rin: Kamogawa Days",
-      "Lagrange: The Flower of Rin-ne - Kamogawa Days",
-      "Lagrange: The Flower of Rin-ne – Kamogawa Days",
-      "Rinne no Lagrange: Flower Declaration of Your Heart - Kamogawa Days",
-      "輪廻のラグランジェ Flower declaration of your heart 鴨川デイズ",
-      "輪廻のラグランジェ 鴨川デイズ"
     ]
   },
   {
@@ -1133,7 +1053,8 @@
       {
         "site": "nicovideo",
         "id": "yuruyuri2",
-        "begin": "2012-07-03T14:30:00.000Z"
+        "begin": "2012-07-03T14:30:00.000Z",
+        "broadcast": "R/2012-06-27T06:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -1294,7 +1215,8 @@
       {
         "site": "nicovideo",
         "id": "odanobuna",
-        "begin": "2012-07-15T15:30:00.000Z"
+        "begin": "2012-07-15T15:30:00.000Z",
+        "broadcast": "R/2012-06-27T06:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -1381,7 +1303,8 @@
       {
         "site": "nicovideo",
         "id": "lag-rin",
-        "begin": ""
+        "begin": "2012-02-08T03:00:00.000Z",
+        "broadcast": "R/2012-02-08T03:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1523,7 +1446,8 @@
       {
         "site": "nicovideo",
         "id": "boku-h",
-        "begin": "2012-07-15T15:00:00.000Z"
+        "begin": "2012-07-15T15:00:00.000Z",
+        "broadcast": "R/2012-07-15T15:00:00.000Z/P7D"
       },
       {
         "site": "anime-planet",
@@ -1595,7 +1519,8 @@
       {
         "site": "nicovideo",
         "id": "getyou",
-        "begin": "2012-07-05T16:00:00.000Z"
+        "begin": "2012-07-05T16:00:00.000Z",
+        "broadcast": "R/2012-06-27T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1684,7 +1609,8 @@
       {
         "site": "nicovideo",
         "id": "koichoco",
-        "begin": "2012-07-30T16:00:00.000Z"
+        "begin": "2012-07-30T16:00:00.000Z",
+        "broadcast": "R/2012-07-30T16:00:00.000Z/P7D"
       },
       {
         "site": "anilist",
@@ -1784,7 +1710,8 @@
       {
         "site": "nicovideo",
         "id": "hagure",
-        "begin": "2012-07-26T15:00:00.000Z"
+        "begin": "2012-07-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-28T04:00:00.000Z/P7D"
       },
       {
         "site": "anilist",
@@ -1893,7 +1820,8 @@
       {
         "site": "nicovideo",
         "id": "kokoro-connect",
-        "begin": "2012-07-13T16:00:00.000Z"
+        "begin": "2012-07-13T16:00:00.000Z",
+        "broadcast": "R/2012-07-04T03:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1972,7 +1900,8 @@
       {
         "site": "nicovideo",
         "id": "total-eclipse",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "youku",
@@ -2170,7 +2099,8 @@
       {
         "site": "nicovideo",
         "id": "nakaimo",
-        "begin": "2013-03-29T06:00:00.000Z"
+        "begin": "2013-03-29T06:00:00.000Z",
+        "broadcast": "R/2013-03-29T06:00:00.000Z/P7D"
       },
       {
         "site": "anilist",
@@ -2249,7 +2179,8 @@
       {
         "site": "nicovideo",
         "id": "taritari",
-        "begin": "2012-07-07T14:30:00.000Z"
+        "begin": "2012-07-07T14:30:00.000Z",
+        "broadcast": "R/2012-06-27T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2363,7 +2294,8 @@
       {
         "site": "nicovideo",
         "id": "arcana",
-        "begin": "2012-07-07T16:00:00.000Z"
+        "begin": "2012-07-07T16:00:00.000Z",
+        "broadcast": "R/2012-06-27T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2613,7 +2545,8 @@
       {
         "site": "nicovideo",
         "id": "hakuoki_reimeiroku",
-        "begin": "2012-07-12T14:00:00.000Z"
+        "begin": "2012-07-12T14:00:00.000Z",
+        "broadcast": "R/2012-07-12T14:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2916,7 +2849,8 @@
       {
         "site": "nicovideo",
         "id": "utakoi",
-        "begin": "2012-07-24T14:30:00.000Z"
+        "begin": "2012-07-24T14:30:00.000Z",
+        "broadcast": "R/2012-07-24T14:30:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -3006,6 +2940,12 @@
         "site": "bilibili",
         "id": "2677",
         "begin": "2012-07-07T17:28:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "13-42",
+        "begin": "",
         "broadcast": ""
       },
       {
@@ -3364,6 +3304,10 @@
       },
       {
         "site": "livechart",
+        "id": "5332"
+      },
+      {
+        "site": "livechart",
         "id": "5345"
       },
       {
@@ -3377,10 +3321,6 @@
       {
         "site": "livechart",
         "id": "5641"
-      },
-      {
-        "site": "livechart",
-        "id": "5643"
       },
       {
         "site": "livechart",
@@ -3668,6 +3608,10 @@
       },
       {
         "site": "livechart",
+        "id": "5332"
+      },
+      {
+        "site": "livechart",
         "id": "5345"
       },
       {
@@ -3681,10 +3625,6 @@
       {
         "site": "livechart",
         "id": "5641"
-      },
-      {
-        "site": "livechart",
-        "id": "5643"
       },
       {
         "site": "livechart",
@@ -3907,6 +3847,66 @@
       {
         "site": "kitsu",
         "id": "7080"
+      },
+      {
+        "site": "livechart",
+        "id": "3702"
+      },
+      {
+        "site": "livechart",
+        "id": "3816"
+      },
+      {
+        "site": "livechart",
+        "id": "3979"
+      },
+      {
+        "site": "livechart",
+        "id": "3992"
+      },
+      {
+        "site": "livechart",
+        "id": "4045"
+      },
+      {
+        "site": "livechart",
+        "id": "4466"
+      },
+      {
+        "site": "livechart",
+        "id": "4505"
+      },
+      {
+        "site": "livechart",
+        "id": "5008"
+      },
+      {
+        "site": "livechart",
+        "id": "5217"
+      },
+      {
+        "site": "livechart",
+        "id": "5332"
+      },
+      {
+        "site": "livechart",
+        "id": "5345"
+      },
+      {
+        "site": "livechart",
+        "id": "5371"
+      },
+      {
+        "site": "livechart",
+        "id": "5627"
+      },
+      {
+        "site": "livechart",
+        "id": "5641"
+      },
+      {
+        "site": "livechart",
+        "id": "8945"
       },
       {
         "site": "myanimelist",
@@ -4523,6 +4523,12 @@
         "id": "3795",
         "begin": "2012-07-13T16:00:00.000Z",
         "broadcast": "R/2016-04-19T09:35:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nanoha-movie",
+        "begin": "2021-12-23T15:00:00.000Z",
+        "broadcast": "R/2021-12-23T15:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -5331,10 +5337,6 @@
       },
       {
         "site": "livechart",
-        "id": "3936"
-      },
-      {
-        "site": "livechart",
         "id": "3979"
       },
       {
@@ -5347,7 +5349,7 @@
       },
       {
         "site": "livechart",
-        "id": "4148"
+        "id": "4466"
       },
       {
         "site": "livechart",
@@ -5355,11 +5357,19 @@
       },
       {
         "site": "livechart",
+        "id": "5008"
+      },
+      {
+        "site": "livechart",
         "id": "5217"
       },
       {
         "site": "livechart",
-        "id": "5359"
+        "id": "5332"
+      },
+      {
+        "site": "livechart",
+        "id": "5345"
       },
       {
         "site": "livechart",
@@ -5372,10 +5382,6 @@
       {
         "site": "livechart",
         "id": "5641"
-      },
-      {
-        "site": "livechart",
-        "id": "5643"
       },
       {
         "site": "livechart",
@@ -5506,103 +5512,6 @@
       "ぽけっともんすたーべすとういっしゅしーずんつー",
       "ポケットモンスター ベストウイッシュ シーズン2",
       "精灵宝可梦 超级愿望 第2季"
-    ]
-  },
-  {
-    "title": "図書館戦争 革命のつばさ",
-    "titleTranslate": {
-      "zh-Hans": [
-        "图书馆战争 革命之翼"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "http://www.kadokawa.co.jp/toshokan-sensou/",
-    "begin": "2012-06-16T16:00:00.000Z",
-    "end": "2012-06-16T16:00:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "34025"
-      },
-      {
-        "site": "nicovideo",
-        "id": "toshokan",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "85725",
-        "begin": ""
-      },
-      {
-        "site": "bilibili",
-        "id": "3805",
-        "begin": "2012-06-15T16:00:01.000Z",
-        "broadcast": ""
-      },
-      {
-        "site": "qq",
-        "id": "m/mzc00200z3lzano",
-        "begin": ""
-      },
-      {
-        "site": "anidb",
-        "id": "5558"
-      },
-      {
-        "site": "anilist",
-        "id": "3613"
-      },
-      {
-        "site": "anime-planet",
-        "id": "library-war"
-      },
-      {
-        "site": "anime-planet",
-        "id": "library-war-romance-impairment"
-      },
-      {
-        "site": "anisearch",
-        "id": "4623"
-      },
-      {
-        "site": "kitsu",
-        "id": "3140"
-      },
-      {
-        "site": "myanimelist",
-        "id": "3613"
-      },
-      {
-        "site": "notify",
-        "id": "M5Z_5Fiig"
-      }
-    ],
-    "animeSeason": {
-      "season": "SUMMER",
-      "year": 2012,
-      "month": "06"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/39273.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/39273t.jpg",
-    "synonyms": [
-      "Gekijouban Toshokan Sensou",
-      "Library War Movie",
-      "Library War the Movie",
-      "Library War: The Movie",
-      "Library War: The Wings of Revolution",
-      "Library Wars: The Wings of Revolution",
-      "Toshokan Sensou Movie",
-      "Toshokan Sensō: Kakumei no Tsubasa",
-      "Библиотечная война: Крылья Революции",
-      "Библиотечни войни: Крила на революцията",
-      "جنگ کتابخانه",
-      "としょかんせんそうかくめいのつばさ",
-      "図書館戦争 革命のつばさ",
-      "图书馆战争 革命之翼"
     ]
   },
   {
@@ -5773,284 +5682,107 @@
     ]
   },
   {
-    "title": "劇場版 BLOOD-C The Last Dark",
+    "title": "妖狐×僕SS",
     "titleTranslate": {
       "zh-Hans": [
-        "BLOOD-C The Last Dark"
-      ],
-      "zh-Hant": [
-        "血戰-C：The Last Dark"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "http://blood-c-movie.jp/index.html",
-    "begin": "2012-06-01T16:00:00.000Z",
-    "end": "2012-06-01T16:00:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "23626"
-      },
-      {
-        "site": "gamer",
-        "id": "45942",
-        "begin": "2021-02-01T03:00:00.000Z",
-        "broadcast": "R/2021-02-01T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "3186"
-      },
-      {
-        "site": "anidb",
-        "id": "43"
-      },
-      {
-        "site": "anidb",
-        "id": "7178"
-      },
-      {
-        "site": "anidb",
-        "id": "8348"
-      },
-      {
-        "site": "anilist",
-        "id": "10490"
-      },
-      {
-        "site": "anilist",
-        "id": "14117"
-      },
-      {
-        "site": "anilist",
-        "id": "150"
-      },
-      {
-        "site": "anilist",
-        "id": "405"
-      },
-      {
-        "site": "anilist",
-        "id": "861"
-      },
-      {
-        "site": "anime-planet",
-        "id": "blood-c"
-      },
-      {
-        "site": "anime-planet",
-        "id": "blood-plus"
-      },
-      {
-        "site": "anime-planet",
-        "id": "blood-the-last-vampire"
-      },
-      {
-        "site": "anisearch",
-        "id": "38"
-      },
-      {
-        "site": "anisearch",
-        "id": "6967"
-      },
-      {
-        "site": "kitsu",
-        "id": "128"
-      },
-      {
-        "site": "kitsu",
-        "id": "372"
-      },
-      {
-        "site": "kitsu",
-        "id": "6203"
-      },
-      {
-        "site": "kitsu",
-        "id": "7082"
-      },
-      {
-        "site": "livechart",
-        "id": "1209"
-      },
-      {
-        "site": "livechart",
-        "id": "3713"
-      },
-      {
-        "site": "livechart",
-        "id": "4303"
-      },
-      {
-        "site": "livechart",
-        "id": "6727"
-      },
-      {
-        "site": "livechart",
-        "id": "7354"
-      },
-      {
-        "site": "myanimelist",
-        "id": "10490"
-      },
-      {
-        "site": "myanimelist",
-        "id": "14117"
-      },
-      {
-        "site": "myanimelist",
-        "id": "150"
-      },
-      {
-        "site": "myanimelist",
-        "id": "405"
-      },
-      {
-        "site": "notify",
-        "id": "J_q2cFiiR"
-      },
-      {
-        "site": "notify",
-        "id": "Uryp5Kimg"
-      },
-      {
-        "site": "notify",
-        "id": "g1gdpFiiR"
-      },
-      {
-        "site": "notify",
-        "id": "ukMVpFmmR"
-      }
-    ],
-    "animeSeason": {
-      "season": "SUMMER",
-      "year": 2012,
-      "month": "06"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1159/94216.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1159/94216t.jpg",
-    "synonyms": [
-      "BLOOD-C: The Last Dark",
-      "Blood C: The Last Dark",
-      "Blood-C Movie",
-      "Blood-C: Последний тёмный",
-      "Gekijouban Blood-C",
-      "Gekijouban Blood-C: The Last Dark",
-      "Gekijōban Blood-C: The Last Dark",
-      "bloodc movie",
-      "劇場版 BLOOD-C The Last Dark",
-      "劇場版 Blood-C The Last Dark",
-      "劇場版 ブラッドシー ザ ラスト ダーク"
-    ]
-  },
-  {
-    "title": "さんかれあ",
-    "titleTranslate": {
-      "zh-Hans": [
-        "散华礼弥"
+        "妖狐×仆SS",
+        "妖狐×仆ss",
+        "妖狐×我SS"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "http://www.tbs.co.jp/anime/sankarea/",
-    "begin": "2012-04-05T17:50:00.000Z",
-    "end": "2015-06-12T16:30:00.000Z",
+    "officialSite": "http://www.inuboku.tv/",
+    "begin": "2012-01-12T17:27:00.000Z",
+    "end": "2013-04-04T17:05:00.000Z",
     "sites": [
       {
+        "site": "pptv",
+        "id": "JXBMyjKYCEapJ48",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrk52409",
+        "begin": "2012-11-13T01:23:24.000Z"
+      },
+      {
+        "site": "letv",
+        "id": "70921",
+        "begin": ""
+      },
+      {
         "site": "bangumi",
-        "id": "28230"
+        "id": "20582"
+      },
+      {
+        "site": "nicovideo",
+        "id": "inuboku",
+        "begin": "2012-01-22T12:30:00.000Z"
       },
       {
         "site": "bilibili",
-        "id": "710",
-        "begin": "2012-04-04T16:00:00.000Z",
-        "broadcast": "R/2012-04-05T19:29:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "8642"
+        "id": "809",
+        "begin": "2012-01-11T16:00:00.000Z",
+        "broadcast": "",
+        "comment": "SP: 5859"
       },
       {
         "site": "anilist",
-        "id": "11499"
-      },
-      {
-        "site": "anilist",
-        "id": "16694"
+        "id": "11013"
       },
       {
         "site": "anime-planet",
-        "id": "sankarea"
-      },
-      {
-        "site": "anime-planet",
-        "id": "sankarea-wagahai-mo-zombie-de-aru"
+        "id": "inu-x-boku-secret-service"
       },
       {
         "site": "anisearch",
-        "id": "7504"
+        "id": "7254"
       },
       {
         "site": "kitsu",
-        "id": "6521"
-      },
-      {
-        "site": "kitsu",
-        "id": "7492"
+        "id": "6439"
       },
       {
         "site": "livechart",
-        "id": "1131"
-      },
-      {
-        "site": "livechart",
-        "id": "3820"
+        "id": "1150"
       },
       {
         "site": "myanimelist",
-        "id": "11499"
-      },
-      {
-        "site": "myanimelist",
-        "id": "16694"
+        "id": "11013"
       },
       {
         "site": "notify",
-        "id": "HBASpFimg"
-      },
-      {
-        "site": "notify",
-        "id": "kx6FpKimR"
+        "id": "R9MSpFmmg"
       }
     ],
     "animeSeason": {
       "season": "SUMMER",
       "year": 2012,
-      "month": "04"
+      "month": "01"
     },
     "status": "FINISHED",
-    "episodes": 2,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/79032.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/79032t.jpg",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/41927.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/41927t.jpg",
     "synonyms": [
-      "Sankarea (2012)",
-      "Sankarea (OVA)",
-      "Sankarea : Un cors de zombie... un cœur...",
-      "Sankarea Episode 0",
-      "Sankarea Episode 14",
-      "Sankarea Episodes 00 & 14",
-      "Sankarea: Undying Love - Das... Mädchen...",
-      "Sankarea: Undying Love OVA",
-      "Санкареа ОВА",
-      "さんかれあ",
-      "さんかれあ (2012)",
-      "さんかれあ (OVA)",
-      "さんかれあ （2012）",
-      "散华礼弥 OAD"
+      "Inu X Boku Secret Service Episode 13",
+      "Inu X Boku Secret Service Special",
+      "Inu x Boku SS Special",
+      "Inu x Boku SS: Miketsukami-kun Henka / Switch / Omamagoto",
+      "Inu x Boku Secret Service: Miketsukami-kun‘s Transformations / Switch / Playing House",
+      "Inu x Boku Secret Service: Miketsukami‘s Metamorphosis / Switch / Playing House",
+      "Inu × Boku SS Special",
+      "Inu × Boku SS: Miketsukami-kun Henka / Switch / Omamagoto",
+      "Inu × Boku Secret Service: Miketsukami-kun‘s Transformations / Switch / Playing House",
+      "Inu × Boku Secret Service: Miketsukami‘s Metamorphosis",
+      "Inu × Boku Secret Service: Miketsukami‘s Metamorphosis / Switch / Playing House",
+      "Youko x Boku SS Special",
+      "Youko × Boku SS Special",
+      "いぬぼくしーくれっとさーびす",
+      "妖狐×僕SS",
+      "妖狐×僕SS 御狐神くん変化 / スイッチ / おままごと",
+      "妖狐×僕SS 御狐神くん変化 ／ スイッチ ／ おままごと"
     ]
   },
   {

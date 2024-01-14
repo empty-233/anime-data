@@ -22,7 +22,8 @@
       {
         "site": "nicovideo",
         "id": "22_7",
-        "begin": "2020-01-14T14:30:00.000Z"
+        "begin": "2020-01-14T14:30:00.000Z",
+        "broadcast": "R/2020-01-14T14:30:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -889,7 +890,8 @@
       {
         "site": "nicovideo",
         "id": "hozukino-reitetsu2",
-        "begin": "2017-10-10T03:00:00.000Z"
+        "begin": "2017-10-10T03:00:00.000Z",
+        "broadcast": "R/2017-10-17T03:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -1049,7 +1051,8 @@
       {
         "site": "nicovideo",
         "id": "tadakoi",
-        "begin": "2018-04-11T15:00:00.000Z"
+        "begin": "2018-04-11T15:00:00.000Z",
+        "broadcast": "R/2018-04-11T15:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -1308,7 +1311,8 @@
       {
         "site": "nicovideo",
         "id": "fullmeta-iv",
-        "begin": "2018-04-20T16:00:00.000Z"
+        "begin": "2018-04-20T16:00:00.000Z",
+        "broadcast": "R/2018-03-30T03:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -1817,7 +1821,8 @@
       {
         "site": "nicovideo",
         "id": "comic-girls",
-        "begin": "2018-04-08T15:00:00.000Z"
+        "begin": "2018-04-08T15:00:00.000Z",
+        "broadcast": "R/2018-04-04T03:00:00.000Z/P7D"
       },
       {
         "site": "anilist",
@@ -1872,7 +1877,8 @@
       {
         "site": "nicovideo",
         "id": "hina-matsuri",
-        "begin": "2018-04-13T15:30:00.000Z"
+        "begin": "2018-04-13T15:30:00.000Z",
+        "broadcast": "R/2018-04-13T15:30:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1929,7 +1935,8 @@
       {
         "site": "nicovideo",
         "id": "mahoushoujyo-anime",
-        "begin": "2018-06-07T03:00:00.000Z"
+        "begin": "2018-06-07T03:00:00.000Z",
+        "broadcast": "R/2018-06-07T03:00:00.000Z/P7D"
       },
       {
         "site": "anime-planet",
@@ -2008,7 +2015,8 @@
       {
         "site": "nicovideo",
         "id": "devilsline",
-        "begin": "2018-04-08T03:00:00.000Z"
+        "begin": "2018-04-08T03:00:00.000Z",
+        "broadcast": "R/2018-04-08T03:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -2108,7 +2116,8 @@
       {
         "site": "nicovideo",
         "id": "caligula-anime",
-        "begin": "2018-04-09T15:30:00.000Z"
+        "begin": "2018-04-09T15:30:00.000Z",
+        "broadcast": "R/2018-04-09T15:30:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2154,7 +2163,8 @@
       {
         "site": "nicovideo",
         "id": "haremking4",
-        "begin": "2018-04-17T15:30:00.000Z"
+        "begin": "2018-04-17T15:30:00.000Z",
+        "broadcast": "R/2018-04-02T10:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -2326,7 +2336,8 @@
       {
         "site": "nicovideo",
         "id": "lastperiod",
-        "begin": "2018-04-12T15:00:00.000Z"
+        "begin": "2018-04-12T15:00:00.000Z",
+        "broadcast": "R/2018-04-12T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2585,7 +2596,8 @@
       {
         "site": "nicovideo",
         "id": "nobunaga-no-shinobi03",
-        "begin": "2018-04-07T03:00:00.000Z"
+        "begin": "2018-04-07T03:00:00.000Z",
+        "broadcast": "R/2018-04-07T03:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -2669,6 +2681,113 @@
     ]
   },
   {
+    "title": "宇宙戦艦ティラミス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰提拉米斯",
+        "宇宙战舰提拉米苏"
+      ],
+      "en": [
+        "SPACE BATTLESHIP TIRAMISU"
+      ],
+      "zh-Hant": [
+        "宇宙戰艦提拉米斯"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://tiramisu-anime.com/",
+    "begin": "2018-04-02T16:00:00.000Z",
+    "end": "2018-06-25T16:10:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "225022"
+      },
+      {
+        "site": "bilibili",
+        "id": "78612",
+        "begin": "2018-04-02T17:00:00.000Z",
+        "broadcast": "R/2018-04-02T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tiramisu-anime",
+        "begin": "2018-11-04T15:00:00.000Z",
+        "broadcast": "R/2018-11-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "91492",
+        "begin": "2020-11-19T07:00:00.000Z",
+        "broadcast": "R/2020-11-19T07:00:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "100009"
+      },
+      {
+        "site": "anime-planet",
+        "id": "space-battleship-tiramisu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "space-battleship-tiramisu-zwei"
+      },
+      {
+        "site": "anime-planet",
+        "id": "space-battleship-tiramisu-zwei-specials"
+      },
+      {
+        "site": "anisearch",
+        "id": "12784"
+      },
+      {
+        "site": "kitsu",
+        "id": "40875"
+      },
+      {
+        "site": "livechart",
+        "id": "2849"
+      },
+      {
+        "site": "livechart",
+        "id": "3360"
+      },
+      {
+        "site": "livechart",
+        "id": "3540"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36267"
+      },
+      {
+        "site": "notify",
+        "id": "pqtO2FimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2018,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/1770/92820.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1770/92820t.jpg",
+    "synonyms": [
+      "Space Battleship Tiramisu",
+      "Space Battleship Tiramisu EX",
+      "Space Battleship Tiramisu OVA",
+      "Space Battleship Tiramisu Specials",
+      "Uchuu Senkan Tiramisu Specials",
+      "Uchū Senkan Tiramisu Specials",
+      "宇宙戦艦ティラミス",
+      "宇宙戦艦ティラミス Specials"
+    ]
+  },
+  {
     "title": "東京喰種:re",
     "titleTranslate": {
       "zh-Hans": [
@@ -2697,7 +2816,8 @@
       {
         "site": "nicovideo",
         "id": "tokyoghoul_re",
-        "begin": "2018-04-11T03:00:00.000Z"
+        "begin": "2018-04-11T03:00:00.000Z",
+        "broadcast": "R/2018-03-10T06:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -2716,6 +2836,12 @@
         "id": "78672",
         "begin": "2018-04-03T15:00:00.000Z",
         "broadcast": "R/2018-04-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "171-1",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -2869,7 +2995,8 @@
       {
         "site": "nicovideo",
         "id": "magicalgirl-ore",
-        "begin": "2018-04-04T03:00:00.000Z"
+        "begin": "2018-04-04T03:00:00.000Z",
+        "broadcast": "R/2018-04-04T03:00:00.000Z/P7D"
       },
       {
         "site": "anime-planet",
@@ -3063,7 +3190,8 @@
       {
         "site": "nicovideo",
         "id": "nilad-anime",
-        "begin": "2018-04-14T15:30:00.000Z"
+        "begin": "2018-04-14T15:30:00.000Z",
+        "broadcast": "R/2018-04-14T15:30:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -3400,7 +3528,8 @@
       {
         "site": "nicovideo",
         "id": "3dkanojo-anime",
-        "begin": "2018-04-06T03:00:00.000Z"
+        "begin": "2018-04-06T03:00:00.000Z",
+        "broadcast": "R/2018-04-06T03:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -3488,7 +3617,8 @@
       {
         "site": "nicovideo",
         "id": "gungale-online",
-        "begin": "2018-04-21T15:00:00.000Z"
+        "begin": "2018-04-21T15:00:00.000Z",
+        "broadcast": "R/2018-03-26T07:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -3533,10 +3663,6 @@
       {
         "site": "anime-planet",
         "id": "sword-art-online-extra-edition"
-      },
-      {
-        "site": "anime-planet",
-        "id": "sword-art-online-fatal-bullet-the-third-episode-kansei-ban"
       },
       {
         "site": "anime-planet",
@@ -3792,7 +3918,8 @@
       {
         "site": "nicovideo",
         "id": "kitaro6",
-        "begin": "2018-04-15T03:00:00.000Z"
+        "begin": "2018-04-15T03:00:00.000Z",
+        "broadcast": "R/2018-04-15T03:00:00.000Z/P7D"
       },
       {
         "site": "mytv",
@@ -3960,6 +4087,10 @@
       {
         "site": "livechart",
         "id": "10813"
+      },
+      {
+        "site": "livechart",
+        "id": "12421"
       },
       {
         "site": "livechart",
@@ -4142,7 +4273,8 @@
       {
         "site": "nicovideo",
         "id": "gineiden-anime",
-        "begin": "2018-04-08T03:00:00.000Z"
+        "begin": "2018-04-08T03:00:00.000Z",
+        "broadcast": "R/2018-04-08T03:00:00.000Z/P7D"
       },
       {
         "site": "pptv",
@@ -4229,6 +4361,10 @@
       {
         "site": "livechart",
         "id": "11217"
+      },
+      {
+        "site": "livechart",
+        "id": "12399"
       },
       {
         "site": "livechart",
@@ -4331,7 +4467,8 @@
       {
         "site": "nicovideo",
         "id": "butlers",
-        "begin": "2018-04-20T13:30:00.000Z"
+        "begin": "2018-04-20T13:30:00.000Z",
+        "broadcast": "R/2018-04-20T04:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -4585,7 +4722,8 @@
       {
         "site": "nicovideo",
         "id": "prichan",
-        "begin": "2018-04-10T15:00:00.000Z"
+        "begin": "2018-04-10T15:00:00.000Z",
+        "broadcast": "R/2018-04-10T15:00:00.000Z/P7D"
       },
       {
         "site": "anilist",
@@ -4598,6 +4736,10 @@
       {
         "site": "anilist",
         "id": "136206"
+      },
+      {
+        "site": "anilist",
+        "id": "171080"
       },
       {
         "site": "anilist",
@@ -4682,7 +4824,8 @@
       {
         "site": "nicovideo",
         "id": "boueibu_hk",
-        "begin": "2018-04-22T15:30:00.000Z"
+        "begin": "2018-04-22T15:30:00.000Z",
+        "broadcast": "R/2018-04-15T15:30:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -4792,7 +4935,8 @@
       {
         "site": "nicovideo",
         "id": "sareryu",
-        "begin": "2018-04-05T21:00:00.000Z"
+        "begin": "2018-04-05T21:00:00.000Z",
+        "broadcast": "R/2018-04-05T21:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4901,7 +5045,8 @@
       {
         "site": "nicovideo",
         "id": "tachibanakan-anime",
-        "begin": "2018-04-10T15:00:00.000Z"
+        "begin": "2018-04-10T15:00:00.000Z",
+        "broadcast": "R/2018-04-10T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4951,7 +5096,8 @@
       {
         "site": "nicovideo",
         "id": "kanshu",
-        "begin": "2018-04-01T16:00:00.000Z"
+        "begin": "2018-04-01T16:00:00.000Z",
+        "broadcast": "R/2018-04-01T16:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -5006,7 +5152,8 @@
       {
         "site": "nicovideo",
         "id": "akkun-kanojo",
-        "begin": "2018-04-06T13:30:00.000Z"
+        "begin": "2018-04-06T13:30:00.000Z",
+        "broadcast": "R/2018-04-06T13:30:00.000Z/P7D"
       },
       {
         "site": "pptv",
@@ -5065,7 +5212,8 @@
       {
         "site": "nicovideo",
         "id": "rokuhoudou-anime",
-        "begin": "2018-04-17T15:00:00.000Z"
+        "begin": "2018-04-17T15:00:00.000Z",
+        "broadcast": "R/2018-04-09T09:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -5278,7 +5426,8 @@
       {
         "site": "nicovideo",
         "id": "lupin-pt5",
-        "begin": "2018-04-04T03:00:00.000Z"
+        "begin": "2018-04-04T03:00:00.000Z",
+        "broadcast": "R/2018-04-04T03:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -5598,7 +5747,9 @@
       {
         "site": "nicovideo",
         "id": "anime-pad",
-        "begin": "2018-04-05T03:00:00.000Z"
+        "begin": "2018-04-05T03:00:00.000Z",
+        "broadcast": "R/2018-04-03T06:00:00.000Z/P7D",
+        "comment": "第2シリーズ: anime-pad2"
       },
       {
         "site": "anidb",
@@ -5635,7 +5786,7 @@
       "month": "04"
     },
     "status": "ONGOING",
-    "episodes": 283,
+    "episodes": 287,
     "picture": "https://cdn.myanimelist.net/images/anime/1535/95070.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1535/95070t.jpg",
     "synonyms": [
@@ -5992,7 +6143,8 @@
       {
         "site": "nicovideo",
         "id": "waka-okami",
-        "begin": "2018-04-14T15:00:00.000Z"
+        "begin": "2018-04-14T15:00:00.000Z",
+        "broadcast": "R/2018-04-09T09:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -6360,7 +6512,8 @@
       {
         "site": "nicovideo",
         "id": "souten-regenesis",
-        "begin": "2018-05-08T03:00:00.000Z"
+        "begin": "2018-05-08T03:00:00.000Z",
+        "broadcast": "R/2018-05-08T03:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -6479,7 +6632,8 @@
       {
         "site": "nicovideo",
         "id": "inazuma2018",
-        "begin": "2018-04-13T03:00:00.000Z"
+        "begin": "2018-04-13T03:00:00.000Z",
+        "broadcast": "R/2018-04-13T03:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -6723,7 +6877,8 @@
       {
         "site": "nicovideo",
         "id": "nana-na",
-        "begin": "2018-04-06T14:00:00.000Z"
+        "begin": "2018-04-06T14:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "iqiyi",
@@ -6823,7 +6978,8 @@
       {
         "site": "nicovideo",
         "id": "gurazeni",
-        "begin": ""
+        "begin": "2018-07-01T09:30:00.000Z",
+        "broadcast": "R/2018-07-01T09:30:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -6903,7 +7059,14 @@
       {
         "site": "nicovideo",
         "id": "nobu_anime",
-        "begin": "2018-04-13T03:00:00.000Z"
+        "begin": "2018-04-13T03:00:00.000Z",
+        "broadcast": "R/2018-04-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-67",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -6961,7 +7124,8 @@
       {
         "site": "nicovideo",
         "id": "amanchu2",
-        "begin": "2018-04-11T03:00:00.000Z"
+        "begin": "2018-04-11T03:00:00.000Z",
+        "broadcast": "R/2018-03-23T09:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -7286,7 +7450,8 @@
       {
         "site": "nicovideo",
         "id": "doreiku-anime",
-        "begin": "2018-04-20T15:00:00.000Z"
+        "begin": "2018-04-20T15:00:00.000Z",
+        "broadcast": "R/2018-04-20T15:00:00.000Z/P7D"
       },
       {
         "site": "mytv",
@@ -7375,7 +7540,8 @@
       {
         "site": "nicovideo",
         "id": "fumikirijikan",
-        "begin": "2018-04-09T16:15:00.000Z"
+        "begin": "2018-04-09T16:15:00.000Z",
+        "broadcast": "R/2018-04-09T16:15:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -7416,7 +7582,8 @@
       {
         "site": "nicovideo",
         "id": "ladysp",
-        "begin": "2018-04-17T03:00:00.000Z"
+        "begin": "2018-04-17T03:00:00.000Z",
+        "broadcast": "R/2018-04-17T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -7458,7 +7625,8 @@
       {
         "site": "nicovideo",
         "id": "youkai-watch-ss",
-        "begin": "2018-04-20T03:00:00.000Z"
+        "begin": "2018-04-20T03:00:00.000Z",
+        "broadcast": "R/2018-04-20T03:00:00.000Z/P7D"
       },
       {
         "site": "mgtv",
@@ -7673,6 +7841,12 @@
         "site": "youku",
         "id": "fc65ffd3afac444683d1",
         "begin": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "liz-bluebird",
+        "begin": "2023-06-04T15:00:00.000Z",
+        "broadcast": "R/2023-06-04T15:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -8104,120 +8278,6 @@
     ]
   },
   {
-    "title": "ソードガイ The Animation",
-    "titleTranslate": {
-      "zh-Hans": [
-        "SWORD GAI 装刀凯",
-        "装刀凯"
-      ]
-    },
-    "type": "web",
-    "lang": "ja",
-    "officialSite": "http://swordgai-anime.com/",
-    "begin": "2018-03-23T16:00:00.000Z",
-    "end": "2018-03-23T16:00:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "114706"
-      },
-      {
-        "site": "bilibili",
-        "id": "79492",
-        "begin": "2018-03-31T16:00:00.000Z",
-        "broadcast": "R/2018-03-24T09:00:00.000Z/P7D"
-      },
-      {
-        "site": "iqiyi",
-        "id": "a_19rrgzccfp",
-        "begin": "2018-03-24T08:55:06.000Z"
-      },
-      {
-        "site": "youku",
-        "id": "08b5b5f6e42e11e5a080",
-        "begin": "2018-03-24T08:58:06.000Z"
-      },
-      {
-        "site": "netflix",
-        "id": "80175350",
-        "begin": "2018-03-23T07:00:00.000Z",
-        "broadcast": "R/2018-03-22T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "13902"
-      },
-      {
-        "site": "anidb",
-        "id": "14000"
-      },
-      {
-        "site": "anilist",
-        "id": "101471"
-      },
-      {
-        "site": "anime-planet",
-        "id": "sword-gai-the-animation-part-ii"
-      },
-      {
-        "site": "anisearch",
-        "id": "13537"
-      },
-      {
-        "site": "anisearch",
-        "id": "9055"
-      },
-      {
-        "site": "kitsu",
-        "id": "13135"
-      },
-      {
-        "site": "kitsu",
-        "id": "41175"
-      },
-      {
-        "site": "livechart",
-        "id": "3202"
-      },
-      {
-        "site": "myanimelist",
-        "id": "31966"
-      },
-      {
-        "site": "myanimelist",
-        "id": "37655"
-      },
-      {
-        "site": "notify",
-        "id": "6j5M2Kmig"
-      },
-      {
-        "site": "notify",
-        "id": "_dJuHBZiR"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2018,
-      "month": "03"
-    },
-    "status": "FINISHED",
-    "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/89759.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/89759t.jpg",
-    "synonyms": [
-      "Gai`nin Kılıcı",
-      "SWORDGAI The Animation",
-      "Sword Gai: The Animation",
-      "Swordgai The Animation",
-      "חרבו של גאי: האנימציה",
-      "غاي ذو السيف",
-      "หัตถ์ศาสตราผ่าโลกันต์",
-      "ソードガイ The Animation",
-      "ソードガイThe Animation"
-    ]
-  },
-  {
     "title": "重神機パンドーラ",
     "titleTranslate": {
       "zh-Hans": [
@@ -8448,199 +8508,6 @@
     ]
   },
   {
-    "title": "TIME DRIVER 僕らが描いた未来",
-    "titleTranslate": {},
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "",
-    "begin": "2018-03-10T16:00:00.000Z",
-    "end": "2018-03-10T16:00:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "216417"
-      },
-      {
-        "site": "anilist",
-        "id": "100359"
-      },
-      {
-        "site": "anilist",
-        "id": "100360"
-      },
-      {
-        "site": "anilist",
-        "id": "100361"
-      },
-      {
-        "site": "kitsu",
-        "id": "13976"
-      },
-      {
-        "site": "kitsu",
-        "id": "13977"
-      },
-      {
-        "site": "kitsu",
-        "id": "13978"
-      },
-      {
-        "site": "livechart",
-        "id": "2718"
-      },
-      {
-        "site": "livechart",
-        "id": "2719"
-      },
-      {
-        "site": "livechart",
-        "id": "2720"
-      },
-      {
-        "site": "myanimelist",
-        "id": "35681"
-      },
-      {
-        "site": "myanimelist",
-        "id": "35682"
-      },
-      {
-        "site": "myanimelist",
-        "id": "35683"
-      },
-      {
-        "site": "notify",
-        "id": "3vmHhFimR"
-      },
-      {
-        "site": "notify",
-        "id": "t1mNhKmmR"
-      },
-      {
-        "site": "notify",
-        "id": "ytiHhKimg"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2018,
-      "month": "03"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1931/96228.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1931/96228t.jpg",
-    "synonyms": [
-      "2018 Young Animator Training Project",
-      "Anime Mirai 2018",
-      "Anime Tamago",
-      "Anime Tamago 2018",
-      "TIME DRIVER 僕らが描いた未来",
-      "TIME DRIVER: Bokura ga Kaita Mirai",
-      "TIME DRIVER: The Future We Draw",
-      "TIME DRIVER: 僕らが描いた未来",
-      "TIME DRIVER　僕らが描いた未来",
-      "Time Driver: The Future We Draw",
-      "Wakate Animator Ikusei Project",
-      "Wakate Animator Ikusei Project 2018"
-    ]
-  },
-  {
-    "title": "ミルキーパニック twelve",
-    "titleTranslate": {},
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "",
-    "begin": "2018-03-10T16:00:00.000Z",
-    "end": "2018-03-10T16:00:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "216419"
-      },
-      {
-        "site": "anilist",
-        "id": "100358"
-      },
-      {
-        "site": "anilist",
-        "id": "100359"
-      },
-      {
-        "site": "anilist",
-        "id": "100361"
-      },
-      {
-        "site": "kitsu",
-        "id": "13975"
-      },
-      {
-        "site": "kitsu",
-        "id": "13976"
-      },
-      {
-        "site": "kitsu",
-        "id": "13978"
-      },
-      {
-        "site": "livechart",
-        "id": "2717"
-      },
-      {
-        "site": "livechart",
-        "id": "2718"
-      },
-      {
-        "site": "livechart",
-        "id": "2719"
-      },
-      {
-        "site": "myanimelist",
-        "id": "35680"
-      },
-      {
-        "site": "myanimelist",
-        "id": "35681"
-      },
-      {
-        "site": "myanimelist",
-        "id": "35683"
-      },
-      {
-        "site": "notify",
-        "id": "3vmHhFimR"
-      },
-      {
-        "site": "notify",
-        "id": "VViHhFiiR"
-      },
-      {
-        "site": "notify",
-        "id": "t1mNhKmmR"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2018,
-      "month": "03"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/89200.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/89200t.jpg",
-    "synonyms": [
-      "12 Busters",
-      "2018 Young Animator Training Project",
-      "Anime Mirai 2018",
-      "Anime Tamago",
-      "Anime Tamago 2018",
-      "Milky Panic: Twelve",
-      "Wakate Animator Ikusei Project",
-      "Wakate Animator Ikusei Project 2018",
-      "ミルキーパニック twelve"
-    ]
-  },
-  {
     "title": "ReLIFE 完結編",
     "titleTranslate": {
       "zh-Hans": [
@@ -8744,6 +8611,165 @@
     ]
   },
   {
+    "title": "映画ドラえもん のび太の宝島",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：大雄的金银岛",
+        "哆啦A梦 大雄的宝岛",
+        "电影多啦A梦：大雄之金银岛"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://doraeiga.com/2018/",
+    "begin": "2018-03-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-03-02T17:49:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "217072"
+      },
+      {
+        "site": "abema",
+        "id": "35-46",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "3315"
+      },
+      {
+        "site": "anidb",
+        "id": "4635"
+      },
+      {
+        "site": "anilist",
+        "id": "2664"
+      },
+      {
+        "site": "anilist",
+        "id": "8687"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-1979"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-2005"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back"
+      },
+      {
+        "site": "anime-planet",
+        "id": "doraemon-doraemon-comes-back-1998"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-doraemons-strange-sweets-strange"
+      },
+      {
+        "site": "anisearch",
+        "id": "3754"
+      },
+      {
+        "site": "livechart",
+        "id": "12164"
+      },
+      {
+        "site": "livechart",
+        "id": "5614"
+      },
+      {
+        "site": "livechart",
+        "id": "6575"
+      },
+      {
+        "site": "livechart",
+        "id": "6880"
+      },
+      {
+        "site": "livechart",
+        "id": "8740"
+      },
+      {
+        "site": "livechart",
+        "id": "8868"
+      },
+      {
+        "site": "livechart",
+        "id": "8871"
+      },
+      {
+        "site": "livechart",
+        "id": "8877"
+      },
+      {
+        "site": "livechart",
+        "id": "8878"
+      },
+      {
+        "site": "livechart",
+        "id": "8884"
+      },
+      {
+        "site": "livechart",
+        "id": "8897"
+      },
+      {
+        "site": "livechart",
+        "id": "8900"
+      },
+      {
+        "site": "livechart",
+        "id": "8901"
+      },
+      {
+        "site": "livechart",
+        "id": "8902"
+      },
+      {
+        "site": "livechart",
+        "id": "8998"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8687"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2018,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/89830.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/89830t.jpg",
+    "synonyms": [
+      "Doraemon Movie 38",
+      "Doraemon Movie 38: Nobita's Treasure Island",
+      "Doraemon The Movie 2018 : Nobita's Treasure Island",
+      "Doraemon The Movie: Nobita's Treasure Island",
+      "Doraemon the Movie 2018: Nobita's Treasure Island",
+      "Doraemon the Movie 38: Nobita's Treasure Island",
+      "Doraemon the Movie: Nobita`s Treasure Island",
+      "Doraemon y la Isla del Tesoro",
+      "Doraemon: Il film - Nobita e l'isola del tesoro",
+      "Doraemon: Nobita no Takarajima",
+      "Doraemon: Nobita's Treasure Island",
+      "Eiga Doraemon: Nobita no Takarajima",
+      "哆啦A梦 大雄的金银岛",
+      "映画 ドラえもん のび太の宝島",
+      "映画ドラえもん のび太の宝島"
+    ]
+  },
+  {
     "title": "サンリオ男子",
     "titleTranslate": {
       "zh-Hans": [
@@ -8777,7 +8803,8 @@
       {
         "site": "nicovideo",
         "id": "sdan-anime",
-        "begin": "2018-01-09T14:00:00.000Z"
+        "begin": "2018-01-09T14:00:00.000Z",
+        "broadcast": "R/2017-12-22T06:00:00.000Z/P7D"
       },
       {
         "site": "livechart",
@@ -8880,7 +8907,8 @@
       {
         "site": "nicovideo",
         "id": "7-virtues",
-        "begin": "2018-02-23T15:30:00.000Z"
+        "begin": "2018-02-23T15:30:00.000Z",
+        "broadcast": "R/2018-02-20T03:00:00.000Z/P7D"
       },
       {
         "site": "anilist",
@@ -8948,7 +8976,8 @@
       {
         "site": "nicovideo",
         "id": "ginno-guardian2",
-        "begin": "2018-01-13T13:00:00.000Z"
+        "begin": "2018-01-13T13:00:00.000Z",
+        "broadcast": "R/2018-01-05T06:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -9044,7 +9073,8 @@
       {
         "site": "nicovideo",
         "id": "kisekichosakan",
-        "begin": "2017-07-19T14:30:00.000Z"
+        "begin": "2017-07-19T14:30:00.000Z",
+        "broadcast": "R/2017-07-04T08:30:00.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
@@ -9292,6 +9322,10 @@
       {
         "site": "livechart",
         "id": "10813"
+      },
+      {
+        "site": "livechart",
+        "id": "12421"
       },
       {
         "site": "livechart",
@@ -9629,6 +9663,10 @@
       },
       {
         "site": "livechart",
+        "id": "12421"
+      },
+      {
+        "site": "livechart",
         "id": "6548"
       },
       {
@@ -9960,6 +9998,10 @@
       {
         "site": "livechart",
         "id": "10813"
+      },
+      {
+        "site": "livechart",
+        "id": "12421"
       },
       {
         "site": "livechart",
@@ -10431,6 +10473,10 @@
       },
       {
         "site": "livechart",
+        "id": "12421"
+      },
+      {
+        "site": "livechart",
         "id": "6548"
       },
       {
@@ -10756,6 +10802,10 @@
       {
         "site": "livechart",
         "id": "10813"
+      },
+      {
+        "site": "livechart",
+        "id": "12421"
       },
       {
         "site": "livechart",
@@ -11090,6 +11140,10 @@
       {
         "site": "livechart",
         "id": "10813"
+      },
+      {
+        "site": "livechart",
+        "id": "12421"
       },
       {
         "site": "livechart",

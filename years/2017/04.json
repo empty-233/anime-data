@@ -267,6 +267,12 @@
         "broadcast": "R/2021-11-12T06:00:00.000Z/P7D"
       },
       {
+        "site": "abema",
+        "id": "19-143",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "10538"
       },
@@ -453,6 +459,12 @@
       {
         "site": "disneyplus",
         "id": "2Mj3DLJdrkpa",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "174-7",
         "begin": "",
         "broadcast": ""
       },
@@ -716,6 +728,12 @@
         "broadcast": ""
       },
       {
+        "site": "abema",
+        "id": "30-5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "13241"
       },
@@ -970,9 +988,10 @@
       "Angreifende Riesen 2",
       "AoT 2",
       "AoT2",
-      "Ataque A Los Titanes Secunda Temporada",
       "Ataque A Los Titanes Temporada 2",
       "Ataque a los Titanes Temporada 2",
+      "Ataque a los Titanes: Secunda Temporada",
+      "Ataque a los Titanes: Temporada 2",
       "Attack on Titan (2017)",
       "Attack on Titan 2",
       "Attack on Titan 2nd Season",
@@ -1404,6 +1423,10 @@
       },
       {
         "site": "myanimelist",
+        "id": "41062"
+      },
+      {
+        "site": "myanimelist",
         "id": "49057"
       }
     ],
@@ -1526,6 +1549,12 @@
         "id": "PLC18xlbCdwtTSgY082GehVYBm37ahyQiZ",
         "begin": "2022-07-24T16:00:00.000Z",
         "broadcast": "R/2022-07-24T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-60",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -1854,6 +1883,12 @@
         "broadcast": "R/2023-06-02T03:00:00.000Z/P7D"
       },
       {
+        "site": "abema",
+        "id": "25-59",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "13580"
       },
@@ -1973,6 +2008,12 @@
         "id": "84118",
         "begin": "2017-04-11T16:00:00.000Z",
         "broadcast": "R/2017-04-11T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-63",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -2224,6 +2265,9 @@
       "zh-Hans": [
         "从零开始的魔法书",
         "零之魔法书"
+      ],
+      "zh-Hant": [
+        "從零開始的魔法書"
       ]
     },
     "type": "tv",
@@ -2251,6 +2295,18 @@
         "site": "nicovideo",
         "id": "zeronosyo",
         "begin": "2017-04-17T15:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "85400",
+        "begin": "2023-12-15T04:00:00.000Z",
+        "broadcast": "R/2023-12-15T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-58",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -2292,9 +2348,11 @@
     "thumbnail": "https://cdn.myanimelist.net/images/anime/5/85224t.jpg",
     "synonyms": [
       "El Libro Mágico de Zero",
+      "El Mágico Libro de Zero",
       "El mágico libro de Zero",
       "Grimoire of Zero",
       "Grymuar Zero",
+      "La Bruja y la Bestia",
       "Zero kara Hajimeru Mahō no Sho",
       "zeronosyo",
       "zerosho",
@@ -2567,6 +2625,12 @@
         "id": "86651",
         "begin": "2017-04-11T19:00:00.000Z",
         "broadcast": "R/2017-04-11T19:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "190-26",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -6839,6 +6903,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "剧场版 Free!-Timeless Medley- 绊"
+      ],
+      "zh-Hant": [
+        "劇場版 FREE! 男子游泳部 Timeless Medley- 絆"
       ]
     },
     "type": "movie",
@@ -6855,6 +6922,12 @@
         "site": "nicovideo",
         "id": "free-tm-movie",
         "begin": "2018-07-01T06:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "88092",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -6960,7 +7033,6 @@
       "Night is Short, Walk on Girl",
       "The Night Is Short",
       "The Night Is Short, Walk On Girl",
-      "The Night Is Short, Walk on Girl",
       "The Night is Short, Walk On Girl",
       "The Night is Short, Walk on Girl",
       "Walk On Girl",

@@ -29,7 +29,8 @@
       {
         "site": "nicovideo",
         "id": "pokemon_anime",
-        "begin": "2019-11-25T03:00:00.000Z"
+        "begin": "2019-11-25T03:00:00.000Z",
+        "broadcast": "R/2019-11-25T03:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -42,6 +43,12 @@
         "id": "107963",
         "begin": "2021-02-19T02:00:00.000Z",
         "broadcast": "R/2021-02-19T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "2-14",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -277,6 +284,10 @@
       },
       {
         "site": "livechart",
+        "id": "5332"
+      },
+      {
+        "site": "livechart",
         "id": "5345"
       },
       {
@@ -290,10 +301,6 @@
       {
         "site": "livechart",
         "id": "5641"
-      },
-      {
-        "site": "livechart",
-        "id": "5643"
       },
       {
         "site": "livechart",
@@ -401,6 +408,7 @@
       "Pokémon på rejse",
       "Pokémon, les voyages",
       "Pokémon: Podróże – Seria",
+      "Pokémon: Resan Serien",
       "Serie Viajes Definitivos Pokémon",
       "Serie Viajes Maestros Pokémon",
       "Serie Viajes Pokémon",
@@ -572,7 +580,8 @@
       {
         "site": "nicovideo",
         "id": "yuruyuri_ova",
-        "begin": "2019-12-12T15:00:00.000Z"
+        "begin": "2019-12-12T15:00:00.000Z",
+        "broadcast": "R/2019-12-12T15:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -672,7 +681,7 @@
       }
     ],
     "animeSeason": {
-      "season": "FALL",
+      "season": "SUMMER",
       "year": 2019,
       "month": "11"
     },
@@ -688,6 +697,8 @@
       "YuruYuri Ten",
       "YuruYuri,",
       "Yuruyuri ten",
+      "ova",
+      "yuri",
       "ゆるゆり,",
       "ゆるゆり、",
       "ゆるゆりてん",
@@ -718,7 +729,8 @@
       {
         "site": "nicovideo",
         "id": "sumikkogurashi-movie",
-        "begin": ""
+        "begin": "2020-04-07T15:00:00.000Z",
+        "broadcast": "R/2020-04-07T15:00:00.000Z/P7D"
       },
       {
         "site": "viu",
@@ -816,7 +828,8 @@
       {
         "site": "nicovideo",
         "id": "re-zero-hyoketsu",
-        "begin": ""
+        "begin": "2020-06-11T15:00:00.000Z",
+        "broadcast": "R/2020-06-11T15:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -843,6 +856,12 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28340506",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "25-146",
         "begin": "",
         "broadcast": ""
       },

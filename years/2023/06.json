@@ -35,6 +35,18 @@
         "broadcast": "R/2023-06-25T14:30:00.000Z/P7D"
       },
       {
+        "site": "nicovideo",
+        "id": "yohane",
+        "begin": "2023-07-02T14:00:00.000Z",
+        "broadcast": "R/2023-07-02T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-168",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "11878"
       },
@@ -45,6 +57,10 @@
       {
         "site": "anilist",
         "id": "21584"
+      },
+      {
+        "site": "anime-planet",
+        "id": "genjitsu-no-rimuru-sunshine-in-the-slime"
       },
       {
         "site": "anime-planet",
@@ -200,7 +216,7 @@
       }
     ],
     "animeSeason": {
-      "season": "SUMMER",
+      "season": "SPRING",
       "year": 2023,
       "month": "06"
     },
@@ -377,6 +393,10 @@
       },
       {
         "site": "livechart",
+        "id": "12475"
+      },
+      {
+        "site": "livechart",
         "id": "9720"
       },
       {
@@ -389,7 +409,7 @@
       }
     ],
     "animeSeason": {
-      "season": "SUMMER",
+      "season": "SPRING",
       "year": 2023,
       "month": "06"
     },
@@ -398,18 +418,155 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1515/134847.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1515/134847t.jpg",
     "synonyms": [
-      "Love Live! Nijigasaki Gakuen School Idol Doukoukai Next Sky",
+      "Love Live! Nijigasaki Gakuen School Idol Doukoukai NEXT SKY",
       "Love Live! Nijigasaki Gakuen School Idol Doukoukai OVA",
       "Love Live! Nijigasaki Gakuen School Idol Doukoukai: NEXT SKY",
       "Love Live! Nijigasaki Gakuen School Idol Dōkō-kai: Next Sky",
       "Love Live! Nijigasaki High School Idol Club (2023)",
-      "Love Live! Nijigasaki High School Idol Club Next Sky",
+      "Love Live! Nijigasaki High School Idol Club NEXT SKY",
       "Love Live! Nijigasaki High School Idol Club OAD",
       "Love Live! Nijigasaki High School Idol Club OVA",
+      "Love Live! Nijigasaki High School Idol Club: NEXT SKY",
       "Love Live! Nijigasaki High School Idol Club: Next Sky",
+      "Лав Лайв! Клуб айдолов академии Нидзигасаки. НОВОЕ НЕБО",
       "ラブライブ! 虹ヶ咲学園スクールアイドル同好会 NEXT SKY",
       "ラブライブ！ 虹ヶ咲学園スクールアイドル同好会 NEXT SKY",
       "ラブライブ！虹ヶ咲学園スクールアイドル同好会 NEXT SKY"
+    ]
+  },
+  {
+    "title": "青春ブタ野郎はおでかけシスターの夢を見ない",
+    "titleTranslate": {
+      "zh-Hans": [
+        "青春笨蛋少年不会梦到娇怜外出妹",
+        "青春猪头少年不会梦到娇怜外出妹"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://ao-buta.com/odekake/",
+    "begin": "2023-06-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-06-22T17:13:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "402656"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ao-buta-odekake",
+        "begin": "2023-11-28T15:00:00.000Z",
+        "broadcast": "R/2023-11-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-211",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "14397"
+      },
+      {
+        "site": "anidb",
+        "id": "17862"
+      },
+      {
+        "site": "anilist",
+        "id": "104157"
+      },
+      {
+        "site": "anilist",
+        "id": "161474"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rascal-does-not-dream-of-a-dreaming-girl"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rascal-does-not-dream-of-a-knapsack-kid"
+      },
+      {
+        "site": "anime-planet",
+        "id": "rascal-does-not-dream-of-bunny-girl-senpai"
+      },
+      {
+        "site": "anisearch",
+        "id": "13889"
+      },
+      {
+        "site": "anisearch",
+        "id": "18205"
+      },
+      {
+        "site": "kitsu",
+        "id": "41991"
+      },
+      {
+        "site": "kitsu",
+        "id": "47742"
+      },
+      {
+        "site": "livechart",
+        "id": "11695"
+      },
+      {
+        "site": "livechart",
+        "id": "3147"
+      },
+      {
+        "site": "livechart",
+        "id": "3513"
+      },
+      {
+        "site": "livechart",
+        "id": "8711"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38329"
+      },
+      {
+        "site": "myanimelist",
+        "id": "54870"
+      },
+      {
+        "site": "notify",
+        "id": "xxwM2f-mg"
+      },
+      {
+        "site": "notify",
+        "id": "zCSJhxj4R"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2023,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1540/134808.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1540/134808t.jpg",
+    "synonyms": [
+      "Ao Buta",
+      "Rascal Does Not Dream of a Knapsack Kid",
+      "Rascal Does Not Dream of a Sister Venturing Out",
+      "Seishun Buta Yarou wa Dekake Sister no Yume wo Minai",
+      "Seishun Buta Yarou wa Odekake Sister no Yume o Minai",
+      "Seishun Buta Yarou wa Randoseru Girl no Yume o Minai",
+      "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
+      "Seishun Buta Yarō wa Odekake Sister no Yume o Minai",
+      "aobuta movie 2",
+      "bgs movie 2",
+      "เรื่องฝันปั่นป่วยของผมกับน้องสาวออกนอกบ้าน",
+      "青ブタ",
+      "青春ブタ野郎はおでかけシスターの夢を見ない",
+      "青春笨蛋少年不会梦到娇怜外出妹"
     ]
   }
 ]

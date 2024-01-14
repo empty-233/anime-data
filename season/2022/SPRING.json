@@ -11,12 +11,24 @@
     "officialSite": "https://koryaku-wanted.jp/",
     "begin": "2023-10-06T14:00:00.000Z",
     "broadcast": "R/2023-10-06T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-12-22T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "358728"
+      },
+      {
+        "site": "nicovideo",
+        "id": "koryaku-wanted",
+        "begin": "2023-10-11T14:00:00.000Z",
+        "broadcast": "R/2023-10-11T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-246",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -29,6 +41,7 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1594/125585.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1594/125585t.jpg",
     "synonyms": [
+      "Kouryaku Wanted! Isekai Sukuimasu!?",
       "Kouryaku Wanted!: Isekai Sukuimasu!?",
       "Let Me Check the Walkthrough First",
       "Let me Check the Walkthrough First",
@@ -37,6 +50,7 @@
       "Zanting! Rang Wo Cha Gonglüe",
       "Zanting! Rang Wo Zha Gonglüe",
       "攻略うぉんてっど! ~異世界救います! ?~",
+      "攻略うぉんてっど! 異世界救います!?",
       "攻略うぉんてっど！～異世界救います!?～",
       "暂停！让我查攻略"
     ]
@@ -134,6 +148,12 @@
       {
         "site": "bangumi",
         "id": "268449"
+      },
+      {
+        "site": "nicovideo",
+        "id": "the_last_summoner",
+        "begin": "2023-01-17T15:00:00.000Z",
+        "broadcast": "R/2023-01-17T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -152,6 +172,189 @@
       "Zuihou De Zhaohuan Shi",
       "最后的召唤师",
       "最後の召喚師 -The Last Summoner-"
+    ]
+  },
+  {
+    "title": "僕のヒーローアカデミア HLB",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的英雄学院 HLB"
+      ],
+      "zh-Hant": [
+        "我的英雄學院 HLB英雄棒球聯盟",
+        "我的英雄學院 HLB 英雄棒球聯盟"
+      ],
+      "en": [
+        "My Hero Academia HLB"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://heroaca.com/",
+    "begin": "2022-07-31T16:00:00.000Z",
+    "end": "2022-07-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "381212"
+      },
+      {
+        "site": "viu",
+        "id": "446803",
+        "begin": "2021-03-26T16:00:00.000Z",
+        "broadcast": "R/2021-03-26T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "myheroacademiahlb_136198",
+        "begin": "2022-08-01T11:00:00.000Z",
+        "broadcast": "R/2022-08-01T11:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "126026",
+        "begin": "2022-08-01T11:00:00.000Z",
+        "broadcast": "R/2022-08-01T11:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "1WUo7sgngr1w",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "15484"
+      },
+      {
+        "site": "anilist",
+        "id": "117193"
+      },
+      {
+        "site": "anime-planet",
+        "id": "my-hero-academia-5"
+      },
+      {
+        "site": "anisearch",
+        "id": "15141"
+      },
+      {
+        "site": "kitsu",
+        "id": "43108"
+      },
+      {
+        "site": "livechart",
+        "id": "10100"
+      },
+      {
+        "site": "livechart",
+        "id": "10236"
+      },
+      {
+        "site": "livechart",
+        "id": "10814"
+      },
+      {
+        "site": "livechart",
+        "id": "10926"
+      },
+      {
+        "site": "livechart",
+        "id": "11909"
+      },
+      {
+        "site": "livechart",
+        "id": "12333"
+      },
+      {
+        "site": "livechart",
+        "id": "1895"
+      },
+      {
+        "site": "livechart",
+        "id": "2225"
+      },
+      {
+        "site": "livechart",
+        "id": "2292"
+      },
+      {
+        "site": "livechart",
+        "id": "2899"
+      },
+      {
+        "site": "livechart",
+        "id": "3004"
+      },
+      {
+        "site": "livechart",
+        "id": "3539"
+      },
+      {
+        "site": "livechart",
+        "id": "8357"
+      },
+      {
+        "site": "livechart",
+        "id": "9371"
+      },
+      {
+        "site": "livechart",
+        "id": "9877"
+      },
+      {
+        "site": "myanimelist",
+        "id": "41587"
+      },
+      {
+        "site": "notify",
+        "id": "dbcnm1Nng"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2022,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/1873/123688.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1873/123688t.jpg",
+    "synonyms": [
+      "Boku no Hero Academia (Web)",
+      "Boku no Hero Academia 5 (ONA)",
+      "Boku no Hero Academia 5th Season OVA",
+      "Boku no Hero Academia HLA",
+      "Boku no Hero Academia HLB",
+      "Boku no Hero Academia: HLB",
+      "Boku no Hero Academia: Warae! Jigoku no You ni",
+      "Hero League Baseball",
+      "Heroes League Baseball",
+      "My Hero Academia (ONA)",
+      "My Hero Academia (Web)",
+      "My Hero Academia ONA",
+      "My Hero Academia Saison 5 OVAs",
+      "My Hero Academia Season 5 OVA",
+      "My Hero Academia Season 5 OVAs",
+      "My Hero Academia Staffel 5 OVAs",
+      "My Hero Academia Stagione 5 OVAs",
+      "My Hero Academia: HLB",
+      "My Hero Academia: HLB (Hero League Baseball)",
+      "My Hero Academia: Hero League Baseball",
+      "My Hero Academia: Laugh! As if you are in hell",
+      "bnha (2022)",
+      "bnha(Web)",
+      "僕のヒーローアカデミア",
+      "僕のヒーローアカデミア (Web)",
+      "僕のヒーローアカデミア 5 (ONA)",
+      "僕のヒーローアカデミア HLB",
+      "僕のヒーローアカデミア 笑え!地獄のように",
+      "僕のヒーローアカデミア 第5期 OVA",
+      "僕のヒーローアカデミア （Web）",
+      "僕のヒーローアカデミア: HLB",
+      "我的英雄学院 HLB",
+      "我的英雄學院(Web)"
     ]
   },
   {
@@ -246,6 +449,306 @@
     ]
   },
   {
+    "title": "劇場版 からかい上手の高木さん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "擅长捉弄的高木同学 剧场版"
+      ],
+      "zh-Hant": [
+        "劇場版 擅長捉弄人的高木同學"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://takagi3.me/",
+    "begin": "2022-06-10T16:00:00.000Z",
+    "end": "2022-06-10T17:12:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "347888"
+      },
+      {
+        "site": "gamer",
+        "id": "123482",
+        "begin": "2023-01-10T04:00:00.000Z",
+        "broadcast": "R/2023-01-10T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28480940",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28435376",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "16559"
+      },
+      {
+        "site": "anilist",
+        "id": "138424"
+      },
+      {
+        "site": "anime-planet",
+        "id": "teasing-master-takagi-san"
+      },
+      {
+        "site": "anime-planet",
+        "id": "teasing-master-takagi-san-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "teasing-master-takagi-san-3"
+      },
+      {
+        "site": "anisearch",
+        "id": "16555"
+      },
+      {
+        "site": "kitsu",
+        "id": "45022"
+      },
+      {
+        "site": "livechart",
+        "id": "10764"
+      },
+      {
+        "site": "livechart",
+        "id": "2782"
+      },
+      {
+        "site": "livechart",
+        "id": "3196"
+      },
+      {
+        "site": "livechart",
+        "id": "9187"
+      },
+      {
+        "site": "myanimelist",
+        "id": "49721"
+      },
+      {
+        "site": "notify",
+        "id": "ixOGZj47g"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2022,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1376/123398.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1376/123398t.jpg",
+    "synonyms": [
+      "Gekijouban Karakai Jouzu no Takagi-san",
+      "Gekijōban Karakai Jōzu no Takagi-san",
+      "La Maestra de las Bromas Takagi-san: La Película",
+      "Nicht schon wieder, Takagi-san: Der Film",
+      "Quand Takagi me Taquine, le Film",
+      "Teasing Master Takagi-san",
+      "Teasing Master Takagi-san Movie",
+      "Teasing Master Takagi-san The Movie",
+      "Teasing Master Takagi-san: The Movie",
+      "takagi movie",
+      "takagisan movie",
+      "แกล้งนัก รักนะ รู้ยัง? มูฟวี่",
+      "からかい上手の高木さん",
+      "劇場版 からかい上手の高木さん",
+      "擅长捉弄的高木同学 剧场版",
+      "映画 からかい上手の高木さん"
+    ]
+  },
+  {
+    "title": "劇場版 異世界かるてっと ～あなざーわーるど～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 异世界四重奏 ～Another World～"
+      ],
+      "zh-Hant": [
+        "劇場版 異世界四重奏 ～Another World～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://isekai-quartet.com",
+    "begin": "2022-06-09T16:00:00.000Z",
+    "end": "2022-06-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "303126"
+      },
+      {
+        "site": "gamer",
+        "id": "118547",
+        "begin": "2023-02-01T04:00:00.000Z",
+        "broadcast": "R/2023-02-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "isekai-quartet-movie",
+        "begin": "2023-02-28T15:00:00.000Z",
+        "broadcast": "R/2023-02-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-249",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "14964"
+      },
+      {
+        "site": "anilist",
+        "id": "110178"
+      },
+      {
+        "site": "anilist",
+        "id": "20832"
+      },
+      {
+        "site": "anilist",
+        "id": "21202"
+      },
+      {
+        "site": "anilist",
+        "id": "21355"
+      },
+      {
+        "site": "anilist",
+        "id": "21613"
+      },
+      {
+        "site": "anilist",
+        "id": "99263"
+      },
+      {
+        "site": "anime-planet",
+        "id": "isekai-quartet"
+      },
+      {
+        "site": "anime-planet",
+        "id": "isekai-quartet-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "isekai-quartet-relay-pv"
+      },
+      {
+        "site": "anisearch",
+        "id": "14448"
+      },
+      {
+        "site": "kitsu",
+        "id": "42032"
+      },
+      {
+        "site": "livechart",
+        "id": "3550"
+      },
+      {
+        "site": "livechart",
+        "id": "9481"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29803"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30831"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31240"
+      },
+      {
+        "site": "myanimelist",
+        "id": "32615"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35790"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39988"
+      },
+      {
+        "site": "notify",
+        "id": "3wnwtzsig"
+      },
+      {
+        "site": "notify",
+        "id": "4qBqtKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "GyEecxUig"
+      },
+      {
+        "site": "notify",
+        "id": "NZ8lpFiig"
+      },
+      {
+        "site": "notify",
+        "id": "Un9XpFimg"
+      },
+      {
+        "site": "notify",
+        "id": "ac0PtFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "obp42Kmig"
+      },
+      {
+        "site": "notify",
+        "id": "vTpJW9AWg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2022,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1222/122000.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1222/122000t.jpg",
+    "synonyms": [
+      "Gekijouban Isekai Quartet: Another World",
+      "Gekijōban Isekai Quartet: Another World",
+      "IQ s3",
+      "ISEKAI QUARTET the Movie -Another World-",
+      "Isekai Quartet The Movie: Another World",
+      "Isekai Quartet t3",
+      "Isekai Quartet the Movie: Another World",
+      "Isekai Quartet, la Película: Otro Mundo",
+      "Isekai Quartet: Another World",
+      "عالم آخر رباعي 3",
+      "劇場版 異世界かるてっと ~あなざーわーるど~",
+      "劇場版 異世界かるてっと ～あなざーわーるど～",
+      "异世界四重奏 3",
+      "異世界かるてっと ～あなざーわーるど～",
+      "異世界四重奏 第三季",
+      "이세계 콰르텟 3"
+    ]
+  },
+  {
     "title": "機動戦士ガンダム ククルス・ドアンの島",
     "titleTranslate": {
       "zh-Hans": [
@@ -275,6 +778,12 @@
         "id": "20138339",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "gundam-cucuruz-doan",
+        "begin": "2023-10-13T15:00:00.000Z",
+        "broadcast": "R/2023-10-13T15:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -388,6 +897,174 @@
     ]
   },
   {
+    "title": "快把我哥带走5",
+    "titleTranslate": {
+      "zh-Hans": [
+        "快把我哥带走5",
+        "快把我哥带走 第五季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-06-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "345805"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anitsuke5",
+        "begin": "2022-07-29T03:00:00.000Z",
+        "broadcast": "R/2022-07-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "15600"
+      },
+      {
+        "site": "anilist",
+        "id": "120046"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ani-ni-tsukeru-kusuri-wa-nai-4"
+      },
+      {
+        "site": "anisearch",
+        "id": "15368"
+      },
+      {
+        "site": "kitsu",
+        "id": "43275"
+      },
+      {
+        "site": "livechart",
+        "id": "10018"
+      },
+      {
+        "site": "livechart",
+        "id": "2571"
+      },
+      {
+        "site": "livechart",
+        "id": "3276"
+      },
+      {
+        "site": "livechart",
+        "id": "9471"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42238"
+      },
+      {
+        "site": "notify",
+        "id": "gF4EmVWGg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2022,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1611/129197.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1611/129197t.jpg",
+    "synonyms": [
+      "Ani ni Tsukeru Kusuri wa Nai! 5 (兄に付ける薬はない! 5)",
+      "Ani ni Tsukeru Kusuri wa Nai! 5th Season",
+      "Kuai Ba Wo Ge Dai Zou 5",
+      "Please Take My Brother Away 5",
+      "Please Take My Brother Away! 5",
+      "Take My Brother Away! 5",
+      "anitsukeru5",
+      "兄に付ける薬はない! 5",
+      "兄に付ける薬はない！5",
+      "快把我哥带走 5",
+      "快把我哥带走 第5季",
+      "快把我哥带走5",
+      "快把我哥帯走5"
+    ]
+  },
+  {
+    "title": "怪盗クイーンはサーカスがお好き",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪盗皇后喜欢马戏团"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://miragequeen.jp/",
+    "begin": "2022-06-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "341657"
+      },
+      {
+        "site": "nicovideo",
+        "id": "miragequeen",
+        "begin": "2022-12-20T15:00:00.000Z",
+        "broadcast": "R/2022-12-20T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "17905"
+      },
+      {
+        "site": "anilist",
+        "id": "162682"
+      },
+      {
+        "site": "anime-planet",
+        "id": "kaitou-queen-no-yuuga-na-vacances"
+      },
+      {
+        "site": "anisearch",
+        "id": "18265"
+      },
+      {
+        "site": "livechart",
+        "id": "11854"
+      },
+      {
+        "site": "myanimelist",
+        "id": "54705"
+      },
+      {
+        "site": "notify",
+        "id": "vpSS0Aa4g"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2022,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1387/121512.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1387/121512t.jpg",
+    "synonyms": [
+      "Kaitou QUEEN wa Circus ga Osuki",
+      "Kaitō Queen wa Circus ga Osuki",
+      "Mirage QUEEN Prefers Circus",
+      "Mirage Queen Aime Cirque",
+      "Mirage Queen Prefers Circus",
+      "怪盗クイーンはサーカスがお好き"
+    ]
+  },
+  {
     "title": "真・一騎当千",
     "titleTranslate": {
       "zh-Hans": [
@@ -405,6 +1082,12 @@
       {
         "site": "bangumi",
         "id": "340677"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shin-ikkitousen",
+        "begin": "2022-06-23T15:00:00.000Z",
+        "broadcast": "R/2022-06-23T15:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -502,6 +1185,30 @@
       "มหาศึกลูกแก้วมากะ คำรบใหม่",
       "真・一騎当千",
       "真・一骑当千"
+    ]
+  },
+  {
+    "title": "ドラ馬チック脳内",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.asahi.co.jp/sp/doramachikku/index.html",
+    "begin": "2022-05-05T14:16:00.000Z",
+    "broadcast": "R/2022-05-05T14:16:00.000Z/P7D",
+    "end": "2022-05-26T14:23:00.000Z",
+    "comment": "",
+    "sites": [],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2022,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/1833/137870.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1833/137870t.jpg",
+    "synonyms": [
+      "ドラ馬チック脳内"
     ]
   },
   {
@@ -813,6 +1520,180 @@
     ]
   },
   {
+    "title": "映画 五等分の花嫁",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 五等分的新娘",
+        "电影 五等分的花嫁"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tbs.co.jp/anime/5hanayome/movie",
+    "begin": "2022-05-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "331489"
+      },
+      {
+        "site": "nicovideo",
+        "id": "5hanayome-movie",
+        "begin": "2022-10-20T15:00:00.000Z",
+        "broadcast": "R/2022-10-20T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "189-52",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "14903"
+      },
+      {
+        "site": "anilist",
+        "id": "163327"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nakano-ke-no-itsutsugo-5-toubun-no-hanayome-arigatou-no-hana"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nakano-ke-no-itsutsugo-5-toubun-no-kiseki"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-quintessential-quintuplets-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-quintessential-quintuplets-tilde"
+      },
+      {
+        "site": "anisearch",
+        "id": "14395"
+      },
+      {
+        "site": "kitsu",
+        "id": "42324"
+      },
+      {
+        "site": "livechart",
+        "id": "11921"
+      },
+      {
+        "site": "livechart",
+        "id": "3448"
+      },
+      {
+        "site": "livechart",
+        "id": "9428"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39783"
+      },
+      {
+        "site": "myanimelist",
+        "id": "54915"
+      },
+      {
+        "site": "notify",
+        "id": "rH8uLenZR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2022,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1037/122516.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1037/122516t.jpg",
+    "synonyms": [
+      "5-Toubun no Hanayome",
+      "5-Toubun no Hanayome Movie",
+      "5-toubun no Hanayome 3",
+      "Eiga Go-Toubun no Hanayome",
+      "Eiga Go-Tōbun no Hanayome",
+      "Eiga Go-toubun no Hanayome",
+      "Go-Toubun no Hanayome Movie",
+      "Go-toubun no Hanayome Movie",
+      "Gotoubun no Hanayome",
+      "Gotoubun no Hanayome Movie",
+      "The Five Wedded Brides",
+      "The Five Wedded Brides 3",
+      "The Quintessential Quintuplets",
+      "The Quintessential Quintuplets 3",
+      "The Quintessential Quintuplets Movie",
+      "qq s3",
+      "tqq3",
+      "เจ้าสาวผมเป็นแฝดห้า The Movie",
+      "五等分の花嫁",
+      "五等分の花嫁 (続編)",
+      "映画 五等分の花嫁",
+      "电影 五等分的新娘"
+    ]
+  },
+  {
+    "title": "犬王",
+    "titleTranslate": {
+      "zh-Hans": [
+        "犬王",
+        "平家物语：犬王"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://inuoh-anime.com",
+    "begin": "2022-05-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-05-27T17:38:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "284524"
+      },
+      {
+        "site": "nicovideo",
+        "id": "inuoh-anime",
+        "begin": "2023-01-13T15:00:00.000Z",
+        "broadcast": "R/2023-01-13T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2022,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1682/121461.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1682/121461t.jpg",
+    "synonyms": [
+      "Heike Monogatari: Inu-Oh no Maki",
+      "INU-OH",
+      "Inu Ou",
+      "Inu-Oh",
+      "Inu-oh",
+      "Inu-ou",
+      "Inu-ō",
+      "Tales of Heike: Inu-Oh",
+      "Іну-о: Народження легенди",
+      "Ину-о: Рождение легенды",
+      "אינו-הו",
+      "犬王"
+    ]
+  },
+  {
     "title": "エスタブライフ グレイトエスケープ",
     "titleTranslate": {
       "zh-Hans": [
@@ -863,6 +1744,10 @@
       {
         "site": "notify",
         "id": "0tKocb3nR"
+      },
+      {
+        "site": "notify",
+        "id": "cfgXFcfVg"
       }
     ],
     "animeSeason": {
@@ -919,6 +1804,12 @@
         "id": "28237229",
         "begin": "2022-05-12T17:28:01.000Z",
         "broadcast": "R/2022-05-12T17:28:01.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "machikado2",
+        "begin": "2022-04-08T03:00:00.000Z",
+        "broadcast": "R/2022-04-08T03:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -1055,6 +1946,18 @@
         "broadcast": "R/2022-05-16T12:00:01.000Z/P7D"
       },
       {
+        "site": "nicovideo",
+        "id": "reimeiki",
+        "begin": "2022-04-10T17:30:00.000Z",
+        "broadcast": "R/2022-04-10T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "194-28",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "12450"
       },
@@ -1179,6 +2082,18 @@
         "id": "PLuxqoToY7UchdhYPkDbRqbGy-fqzrz9k5",
         "begin": "2022-04-09T17:30:00.000Z",
         "broadcast": "R/2022-04-09T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shikimori-anime",
+        "begin": "2022-04-14T17:30:00.000Z",
+        "broadcast": "R/2022-04-14T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "11-44",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -1246,6 +2161,12 @@
         "begin": "2022-04-01T17:25:00.000Z",
         "broadcast": "R/2022-04-01T17:25:00.000Z/P7D",
         "comment": "中配版: 28338774"
+      },
+      {
+        "site": "nicovideo",
+        "id": "aharen",
+        "begin": "2022-04-08T03:00:00.000Z",
+        "broadcast": "R/2022-04-08T03:00:00.000Z/P7D"
       },
       {
         "site": "anilist",
@@ -1429,6 +2350,12 @@
         "broadcast": "R/2022-04-01T16:00:00.000Z/P7D"
       },
       {
+        "site": "nicovideo",
+        "id": "virgin-road",
+        "begin": "2022-04-06T15:00:00.000Z",
+        "broadcast": "R/2022-04-06T15:00:00.000Z/P7D"
+      },
+      {
         "site": "myanimelist",
         "id": "56005"
       }
@@ -1525,6 +2452,18 @@
         "id": "81594273",
         "begin": "2023-07-30T16:00:00.000Z",
         "broadcast": "R/2023-07-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yuuyame",
+        "begin": "2022-04-12T14:30:00.000Z",
+        "broadcast": "R/2022-04-12T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-194",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anilist",
@@ -1664,6 +2603,12 @@
         "id": "28237266",
         "begin": "2022-04-24T12:00:01.000Z",
         "broadcast": "R/2022-04-24T12:00:01.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kono-healer-anime",
+        "begin": "2022-04-17T12:30:00.000Z",
+        "broadcast": "R/2022-04-17T12:30:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1741,6 +2686,18 @@
         "id": "120759",
         "begin": "2022-05-12T04:00:00.000Z",
         "broadcast": "R/2022-05-12T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mobseka",
+        "begin": "2022-04-10T14:00:00.000Z",
+        "broadcast": "R/2022-04-10T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-201",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -1867,6 +2824,12 @@
         "id": "28237283",
         "begin": "2022-06-08T15:30:01.000Z",
         "broadcast": "R/2022-06-08T15:30:01.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "deaimon",
+        "begin": "2022-04-13T15:30:00.000Z",
+        "broadcast": "R/2022-04-13T15:30:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1941,6 +2904,18 @@
         "id": "81597507",
         "begin": "2022-11-26T00:00:00.000Z",
         "broadcast": "R/2022-11-26T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "skeleton-knight",
+        "begin": "2022-04-14T14:30:00.000Z",
+        "broadcast": "R/2022-04-14T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "54-69",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -2002,6 +2977,12 @@
         "id": "28237278",
         "begin": "2022-04-14T13:30:01.000Z",
         "broadcast": "R/2022-04-14T13:30:01.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shachikusan",
+        "begin": "2022-04-14T12:00:00.000Z",
+        "broadcast": "R/2022-04-14T12:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2061,6 +3042,12 @@
         "id": "6LJhlNWYcdjJ",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "blackrockshooter-dawnfall",
+        "begin": "2022-10-04T03:00:00.000Z",
+        "broadcast": "R/2022-10-04T03:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -2191,6 +3178,12 @@
         "id": "431943",
         "begin": "2022-04-07T16:00:00.000Z",
         "broadcast": "R/2022-04-07T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "koiseka-anime",
+        "begin": "2022-04-08T13:30:00.000Z",
+        "broadcast": "R/2022-04-08T13:30:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2598,6 +3591,12 @@
         "id": "28237280",
         "begin": "2022-05-14T16:00:01.000Z",
         "broadcast": "R/2022-05-14T16:00:01.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fanfare-anime",
+        "begin": "2022-04-05T03:00:00.000Z",
+        "broadcast": "R/2022-04-05T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2652,6 +3651,12 @@
         "id": "28237267",
         "begin": "2022-04-06T13:30:00.000Z",
         "broadcast": "R/2022-04-06T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "rpg-rs",
+        "begin": "2022-04-13T13:00:00.000Z",
+        "broadcast": "R/2022-04-13T13:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2701,6 +3706,12 @@
         "id": "28237190",
         "begin": "2022-04-08T14:00:00.000Z",
         "broadcast": "R/2022-04-08T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "date-a-live4",
+        "begin": "2022-04-15T14:00:00.000Z",
+        "broadcast": "R/2022-04-15T14:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -2848,6 +3859,18 @@
       {
         "site": "bangumi",
         "id": "362997"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yugioh-gorush",
+        "begin": "2022-04-05T03:00:00.000Z",
+        "broadcast": "R/2022-04-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "203-7",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -3016,9 +4039,9 @@
       "month": "04"
     },
     "status": "ONGOING",
-    "episodes": 86,
-    "picture": "https://cdn.myanimelist.net/images/anime/1624/134752.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1624/134752t.jpg",
+    "episodes": 90,
+    "picture": "https://cdn.myanimelist.net/images/anime/1690/140394.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1690/140394t.jpg",
     "synonyms": [
       "Yu-Gi-Oh! GO RUSH!!",
       "Yu-Gi-Oh! Go Rush!!",
@@ -3062,6 +4085,12 @@
         "begin": "2022-04-01T11:00:01.000Z",
         "broadcast": "R/2022-04-01T11:00:01.000Z/P7D",
         "comment": "中配版: 28339549"
+      },
+      {
+        "site": "nicovideo",
+        "id": "rikekoi_sin",
+        "begin": "2022-04-15T16:30:00.000Z",
+        "broadcast": "R/2022-04-15T16:30:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -3234,6 +4263,12 @@
         "id": "3yAkVZXo1tzj",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "tomodachi-anime",
+        "begin": "2022-04-08T15:00:00.000Z",
+        "broadcast": "R/2022-04-08T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3291,6 +4326,12 @@
         "id": "28237218",
         "begin": "2022-06-06T14:30:01.000Z",
         "broadcast": "R/2022-06-06T14:30:01.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "healer-girl",
+        "begin": "2022-04-04T14:30:00.000Z",
+        "broadcast": "R/2022-04-04T14:30:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3415,6 +4456,12 @@
         "id": "PLxSscENEp7Ji1XCAnJ_2Nt_1G2tejMnKZ",
         "begin": "2022-04-05T08:00:00.000Z",
         "broadcast": "R/2022-04-05T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "birdie-wing",
+        "begin": "2022-04-06T03:00:00.000Z",
+        "broadcast": "R/2022-04-06T03:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -3597,6 +4644,18 @@
         "comment": "中配版: 20317229"
       },
       {
+        "site": "nicovideo",
+        "id": "kaguya_love3",
+        "begin": "2022-04-11T03:00:00.000Z",
+        "broadcast": "R/2022-04-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-66",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "15207"
       },
@@ -3740,7 +4799,6 @@
       "Nona Kaguya Ingin Ditembak: Ultra Romantic",
       "kaguya s3",
       "Госпожа Кагуя: в любви как на войне. Ультраромантика",
-      "Кагуя хочет, чтобы ей признались: война любви и разума гениев 3",
       "สารภาพรักกับคุณคางุยะ ซะดี ๆ -อุลตร้า โรแมนติก-",
       "สารภาพรักกับคุณคางุยะซะดี ๆ ~สงครามประสาทความรักของเหล่าอัจฉริยะ~ ภาค 3",
       "かぐや様は告らせたい-ウルトラロマンティック-",
@@ -3808,6 +4866,18 @@
       {
         "site": "disneyplus",
         "id": "4lgHH2jdAefe",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "shieldhero-anime_02",
+        "begin": "2022-04-13T14:30:00.000Z",
+        "broadcast": "R/2022-04-13T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-109",
         "begin": "",
         "broadcast": ""
       },
@@ -3996,6 +5066,12 @@
         "broadcast": "R/2022-04-02T17:00:00.000Z/P7D"
       },
       {
+        "site": "nicovideo",
+        "id": "build-divide2",
+        "begin": "2022-04-05T03:00:00.000Z",
+        "broadcast": "R/2022-04-05T03:00:00.000Z/P7D"
+      },
+      {
         "site": "anidb",
         "id": "16265"
       },
@@ -4122,6 +5198,18 @@
         "id": "81598010",
         "begin": "2023-08-30T16:00:00.000Z",
         "broadcast": "R/2023-08-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "murabito-a-anime",
+        "begin": "2022-04-12T15:00:00.000Z",
+        "broadcast": "R/2022-04-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "54-70",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -4151,41 +5239,6 @@
       "史上最強大魔王轉生為村民A",
       "史上最强大魔王重生为村民A",
       "史上最强大魔王重生为村民甲"
-    ]
-  },
-  {
-    "title": "3秒後、野獣。～合コンで隅にいた彼は肉食でした",
-    "titleTranslate": {
-      "zh-Hans": [
-        "3秒后，野兽。～坐在联谊会角落的他是个肉食系"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://3byogoyaju.af-original.com/",
-    "begin": "2022-04-03T16:00:00.000Z",
-    "broadcast": "R/2022-04-03T16:00:00.000Z/P7D",
-    "end": "2022-06-05T16:05:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "354246"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2022,
-      "month": "04"
-    },
-    "status": "FINISHED",
-    "episodes": 8,
-    "picture": "https://cdn.myanimelist.net/images/anime/1972/121006.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1972/121006t.jpg",
-    "synonyms": [
-      "3 Seconds Later, He Turned Into a Beast",
-      "3-byougo, Yajuu.: Goukon de Sumi ni Ita Kare wa Midara Nikushoku deshita",
-      "3秒後、野獣。～合コンで隅にいた彼は肉食でした"
     ]
   },
   {
@@ -4219,6 +5272,12 @@
       {
         "site": "gamer",
         "id": "116803",
+        "begin": "2022-04-23T16:30:00.000Z",
+        "broadcast": "R/2022-04-23T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "cuckoos-anime",
         "begin": "2022-04-23T16:30:00.000Z",
         "broadcast": "R/2022-04-23T16:30:00.000Z/P7D"
       },
@@ -4460,6 +5519,12 @@
         "broadcast": "R/2022-12-02T01:30:00.000Z/P7D"
       },
       {
+        "site": "nicovideo",
+        "id": "oddtaxi-movie",
+        "begin": "2023-01-24T15:00:00.000Z",
+        "broadcast": "R/2023-01-24T15:00:00.000Z/P7D"
+      },
+      {
         "site": "anidb",
         "id": "15989"
       },
@@ -4542,6 +5607,12 @@
         "id": "123643",
         "begin": "2022-04-11T16:00:00.000Z",
         "broadcast": "R/2022-04-11T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kyoukai_senki",
+        "begin": "2023-07-27T15:00:00.000Z",
+        "broadcast": "R/2023-07-27T15:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -4668,6 +5739,176 @@
     ]
   },
   {
+    "title": "ちいかわ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小可爱",
+        "Chiikawa"
+      ],
+      "zh-Hant": [
+        "吉伊卡哇",
+        "Chiikawa"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://fs.iwatobi-sc.com/",
+    "begin": "2022-04-03T20:40:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "354700"
+      },
+      {
+        "site": "gamer",
+        "id": "120421",
+        "begin": "2023-12-22T08:10:00.000Z",
+        "broadcast": "R/2023-12-22T08:10:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "171203"
+      },
+      {
+        "site": "anisearch",
+        "id": "18978"
+      },
+      {
+        "site": "kitsu",
+        "id": "48302"
+      },
+      {
+        "site": "myanimelist",
+        "id": "57586"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2022,
+      "month": "04"
+    },
+    "status": "ONGOING",
+    "episodes": 130,
+    "picture": "https://cdn.myanimelist.net/images/anime/1783/121944.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1783/121944t.jpg",
+    "synonyms": [
+      "Chīkawa",
+      "Nanka Chiisakute Kawaii Yatsu",
+      "Something Small and Cute",
+      "ちいかわ",
+      "なんか小さくてかわいいやつ"
+    ]
+  },
+  {
+    "title": "マギアレコード 魔法少女まどか☆マギカ外伝 Final SEASON ‐浅き夢の暁‐",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法纪录 魔法少女小圆外传 Final SEASON -浅梦的黎明-",
+        "魔法纪录 魔法少女小圆外传 Final SEASON -浅梦之晓-",
+        "魔法纪录 魔法少女小圆外传 最终季 -浅梦的黎明-",
+        "Magia Record 魔法少女小圆外传 最终季 -浅梦的黎明-",
+        "Magia Record 魔法少女小圆外传 Final SEASON -浅梦的黎明-"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://anime.magireco.com",
+    "begin": "2022-04-02T16:00:00.000Z",
+    "broadcast": "R/2022-04-02T16:00:00.000Z/P7D",
+    "end": "2022-04-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "339998"
+      },
+      {
+        "site": "nicovideo",
+        "id": "magireco_3rd",
+        "begin": "2022-04-06T03:00:00.000Z",
+        "broadcast": "R/2022-04-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "15472"
+      },
+      {
+        "site": "anilist",
+        "id": "117002"
+      },
+      {
+        "site": "anime-planet",
+        "id": "magia-record-puella-magi-madoka-magica-side-story"
+      },
+      {
+        "site": "anime-planet",
+        "id": "magia-record-puella-magi-madoka-magica-side-story-season-2-the-eve-of-awakening"
+      },
+      {
+        "site": "anisearch",
+        "id": "15130"
+      },
+      {
+        "site": "kitsu",
+        "id": "43090"
+      },
+      {
+        "site": "livechart",
+        "id": "3495"
+      },
+      {
+        "site": "livechart",
+        "id": "9862"
+      },
+      {
+        "site": "myanimelist",
+        "id": "41530"
+      },
+      {
+        "site": "notify",
+        "id": "iCgP8OCWg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2022,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/1944/122298.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1944/122298t.jpg",
+    "synonyms": [
+      "Magia Record : Puella Magi Madoka Magica Side Story Final Season - The Dawn of the Ephemeral Dream",
+      "Magia Record Final Season",
+      "Magia Record: Mahou Shoujo Madoka Magica Gaiden Final Season - Asaki Yume no Akatsuki",
+      "Magia Record: Mahou Shoujo Madoka★Magica Gaiden Final SEASON - Asaki Yume no Akatsuki",
+      "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki",
+      "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden Final SEASON - Asaki Yume no Akatsuki",
+      "Magia Record: Mahō Shōjo Madoka Magica Gaiden Final Season - Asaki Yume no Akatsuki",
+      "Magia Record: Puella Magi Madoka Magica Side Story Final SEASON -Dawn of a Shallow Dream-",
+      "Magia Record: Puella Magi Madoka Magica Side Story Final Season",
+      "Magia Record: Puella Magi Madoka Magica Side Story Final Season - Dawn of a Shallow Dream",
+      "Magia Record: Puella Magi Madoka Magica Side Story Final Season - The Dawn of the Ephemeral Dream",
+      "Magia Record: Puella Magi Madoka Magica Side Story Final Season -Dawn of a Shallow Dream-",
+      "madoka (2022)",
+      "madokamagica (2022)",
+      "magireco s3",
+      "msmm (2022)",
+      "Записи о магии: Другая история девочки-волшебницы Мадоки. Последний сезон: Рассвет эфемерной мечты",
+      "สาวน้อยเวทมนตร์ มาโดกะ ภาคนอกตำนาน [มากิอา เรคคอร์ด] ภาคอวสาน - รุ่งอรุณฝันสาง -",
+      "マギアレコード 魔法少女まどか☆マギカ外伝 Final SEASON ‐浅き夢の暁‐",
+      "マギアレコード 魔法少女まどか☆マギカ外伝 Final Season -浅き夢の暁-",
+      "マギアレコード 魔法少女まどか☆マギカ外伝 Final Season ‐浅き夢の暁‐",
+      "マギアレコード　魔法少女まどか☆マギカ外伝 Final SEASON -浅き夢の暁-",
+      "マギアレコード　魔法少女まどか☆マギカ外伝 Final SEASON‐浅き夢の暁‐",
+      "マギレコ Final SEASON-浅き夢の暁-",
+      "魔法纪录 魔法少女小圆外传 Final SEASON -浅梦的黎明-"
+    ]
+  },
+  {
     "title": "パリピ孔明",
     "titleTranslate": {
       "zh-Hans": [
@@ -4729,8 +5970,36 @@
         "broadcast": "R/2023-09-14T16:00:00.000Z/P7D"
       },
       {
+        "site": "nicovideo",
+        "id": "paripikoumei-anime",
+        "begin": "2022-04-10T14:00:00.000Z",
+        "broadcast": "R/2022-04-10T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "194-27",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anime-planet",
         "id": "queendom-chikichikibanban"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ya-boy-kongming-road-to-summer-sonia"
+      },
+      {
+        "site": "livechart",
+        "id": "12431"
+      },
+      {
+        "site": "myanimelist",
+        "id": "57369"
+      },
+      {
+        "site": "notify",
+        "id": "hRqCSbDIg"
       }
     ],
     "animeSeason": {
@@ -4886,419 +6155,6 @@
     ]
   },
   {
-    "title": "赤ちゃん本部長(第3シリーズ)",
-    "titleTranslate": {
-      "en": [
-        "GENERAL MANAGER OF BABY"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://www.nhk.jp/p/ts/7PR67N6RJ8/",
-    "begin": "2022-03-27T16:06:00.000Z",
-    "broadcast": "R/2022-03-27T16:06:00.000Z/P7D",
-    "end": "2022-03-27T16:57:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "anidb",
-        "id": "17123"
-      },
-      {
-        "site": "anime-planet",
-        "id": "baby-in-charge-2nd-season"
-      },
-      {
-        "site": "anisearch",
-        "id": "17112"
-      },
-      {
-        "site": "kitsu",
-        "id": "45994"
-      },
-      {
-        "site": "livechart",
-        "id": "10441"
-      },
-      {
-        "site": "livechart",
-        "id": "11020"
-      },
-      {
-        "site": "myanimelist",
-        "id": "51132"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2022,
-      "month": "03"
-    },
-    "status": "FINISHED",
-    "episodes": 10,
-    "picture": "https://cdn.myanimelist.net/images/anime/1035/124259.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1035/124259t.jpg",
-    "synonyms": [
-      "Aka-chan Honbuchou 3rd Season",
-      "Akachan Honbuchou 3rd Series",
-      "Akachan Honbuchō 3rd Series",
-      "Baby in Charge 3rd Season",
-      "General Manager of Baby 3rd Season",
-      "General Manager of Baby 3rd Series",
-      "赤ちゃん本部長 （第3シリーズ）",
-      "赤ちゃん本部長(第3シリーズ)"
-    ]
-  },
-  {
-    "title": "ストライク・ザ・ブラッドFINAL",
-    "titleTranslate": {
-      "zh-Hans": [
-        "噬血狂袭 最终季"
-      ],
-      "zh-Hant": [
-        "噬血狂襲 FINAL"
-      ],
-      "en": [
-        "STRIKE THE BLOOD FINAL"
-      ]
-    },
-    "type": "ova",
-    "lang": "ja",
-    "officialSite": "http://www.strike-the-blood.com/final/index.html",
-    "begin": "2022-03-29T16:00:00.000Z",
-    "end": "2022-07-28T16:00:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "340288"
-      },
-      {
-        "site": "mytv",
-        "id": "strikethebloodfinal_136930",
-        "begin": "2022-11-11T17:00:00.000Z",
-        "broadcast": "R/2022-11-11T17:00:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "15126"
-      },
-      {
-        "site": "anilist",
-        "id": "112296"
-      },
-      {
-        "site": "anime-planet",
-        "id": "strike-the-blood"
-      },
-      {
-        "site": "anime-planet",
-        "id": "strike-the-blood-ii"
-      },
-      {
-        "site": "anime-planet",
-        "id": "strike-the-blood-iii"
-      },
-      {
-        "site": "anime-planet",
-        "id": "strike-the-blood-iv"
-      },
-      {
-        "site": "anime-planet",
-        "id": "strike-the-blood-kieta-seisou-hen"
-      },
-      {
-        "site": "anime-planet",
-        "id": "strike-the-blood-kingdom-of-the-valkyria"
-      },
-      {
-        "site": "anisearch",
-        "id": "14664"
-      },
-      {
-        "site": "kitsu",
-        "id": "42606"
-      },
-      {
-        "site": "livechart",
-        "id": "107"
-      },
-      {
-        "site": "livechart",
-        "id": "1446"
-      },
-      {
-        "site": "livechart",
-        "id": "2186"
-      },
-      {
-        "site": "livechart",
-        "id": "3145"
-      },
-      {
-        "site": "livechart",
-        "id": "9623"
-      },
-      {
-        "site": "livechart",
-        "id": "9625"
-      },
-      {
-        "site": "myanimelist",
-        "id": "40485"
-      },
-      {
-        "site": "notify",
-        "id": "VWhmxx8Zg"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2022,
-      "month": "03"
-    },
-    "status": "FINISHED",
-    "episodes": 4,
-    "picture": "https://cdn.myanimelist.net/images/anime/1208/120085.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1208/120085t.jpg",
-    "synonyms": [
-      "StB 5",
-      "StB Final",
-      "Strike the Blood FINAL",
-      "Strike the Blood Fifth",
-      "Strike the Blood Season 5",
-      "Strike the Blood V",
-      "stb5",
-      "ราชันย์โลหิตรัตติกาล ภาค 5",
-      "ストライク・ザ・ブラッド V",
-      "ストライク・ザ・ブラッドFINAL",
-      "噬血狂袭 最终季",
-      "스트라이크 더 블러드 Final"
-    ]
-  },
-  {
-    "title": "とつくにの少女",
-    "titleTranslate": {
-      "zh-Hans": [
-        "外之国的少女"
-      ]
-    },
-    "type": "ova",
-    "lang": "ja",
-    "officialSite": "https://www.totsukuni.com/",
-    "begin": "2022-03-09T16:00:00.000Z",
-    "end": "2022-03-09T16:00:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "329907"
-      },
-      {
-        "site": "bilibili",
-        "id": "28237281",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "anidb",
-        "id": "14736"
-      },
-      {
-        "site": "anilist",
-        "id": "108354"
-      },
-      {
-        "site": "anime-planet",
-        "id": "the-girl-from-the-other-side-siuil-a-run-ova"
-      },
-      {
-        "site": "anisearch",
-        "id": "14252"
-      },
-      {
-        "site": "kitsu",
-        "id": "42185"
-      },
-      {
-        "site": "livechart",
-        "id": "10576"
-      },
-      {
-        "site": "livechart",
-        "id": "9267"
-      },
-      {
-        "site": "myanimelist",
-        "id": "39495"
-      },
-      {
-        "site": "notify",
-        "id": "mFhT9d6mR"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2022,
-      "month": "03"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1957/113267.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1957/113267t.jpg",
-    "synonyms": [
-      "A Menina do Outro Lado",
-      "Das fremde Mädchen (2022)",
-      "Dziewczynka w Krainie Przeklętych",
-      "L'Enfant et le Maudit",
-      "La pequeña forastera: Siúil, a Rún (2022)",
-      "L’Enfant et le Maudit",
-      "Siúil, a Rún",
-      "Siúil, a Rún OVA",
-      "The Girl From the Other Side",
-      "The Girl From the Other Side: Siuil, a Run (2022)",
-      "The Girl From the Other Side: Siúil, a Rún OVA",
-      "The Girl from the Other Side",
-      "The Girl from the Other Side (2022)",
-      "The Girl from the Other Side: Siuil",
-      "The Girl from the Other Side: Siuil, a Run (2022)",
-      "The Girl from the Other Side: Siúil",
-      "Totsukuni no Shoujo",
-      "Totsukuni no Shoujo OAD",
-      "Totsukuni no Shoujo OVA",
-      "Totsukuni no Shōjo (2022)",
-      "a Run (2022)",
-      "a Rún (2022)",
-      "الفتاة التي تعيش في دولة الغيب (2022)",
-      "とつくにの少女",
-      "とつくにの少女 (2022)",
-      "とつくにの少女 （2022）",
-      "外之国的少女（2020）"
-    ]
-  },
-  {
-    "title": "ありふれた職業で世界最強 2nd season",
-    "titleTranslate": {
-      "zh-Hans": [
-        "平凡职业成就世界最强 第二季",
-        "平凡职业造就世界最强 第二季",
-        "平职 2"
-      ],
-      "zh-Hant": [
-        "平凡職業造就世界最強 第二季",
-        "平凡職業造就世界最強S2"
-      ],
-      "en": [
-        "Arifureta: From Commonplace to World's Strongest"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://arifureta.com/",
-    "begin": "2022-01-13T14:30:00.000Z",
-    "broadcast": "R/2022-01-13T14:30:00.000Z/P7D",
-    "end": "2022-03-31T15:00:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "292316"
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UchHqB3C_BYT3Utkboqf04jb",
-        "begin": "2022-01-13T16:00:00.000Z",
-        "broadcast": "R/2022-01-13T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "netflix",
-        "id": "81144534",
-        "begin": "2022-05-30T16:00:00.000Z",
-        "broadcast": "R/2022-05-30T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "108080",
-        "begin": "2022-01-13T15:30:00.000Z",
-        "broadcast": "R/2022-01-13T15:30:00.000Z/P7D"
-      },
-      {
-        "site": "bilibili_hk_mo_tw",
-        "id": "28236370",
-        "begin": "2022-01-13T15:30:01.000Z",
-        "broadcast": "R/2022-01-13T15:30:01.000Z/P7D"
-      },
-      {
-        "site": "anilist",
-        "id": "112323"
-      },
-      {
-        "site": "anilist",
-        "id": "154473"
-      },
-      {
-        "site": "anime-planet",
-        "id": "arifureta-from-commonplace-to-worlds-strongest-2nd-season"
-      },
-      {
-        "site": "kitsu",
-        "id": "42611"
-      },
-      {
-        "site": "livechart",
-        "id": "11238"
-      },
-      {
-        "site": "livechart",
-        "id": "11465"
-      },
-      {
-        "site": "livechart",
-        "id": "3000"
-      },
-      {
-        "site": "livechart",
-        "id": "9488"
-      },
-      {
-        "site": "livechart",
-        "id": "9632"
-      },
-      {
-        "site": "myanimelist",
-        "id": "40507"
-      },
-      {
-        "site": "notify",
-        "id": "5b5EXzQWR"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2022,
-      "month": "01"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1981/120698.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1981/120698t.jpg",
-    "synonyms": [
-      "ARIFURETA: from commonplace to world's strongest second season",
-      "Arifureta Shokugyou de Sekai Saikyou 2nd Season Special",
-      "Arifureta Shokugyou de Sekai Saikyou 2nd season Episode 13",
-      "Arifureta Shokugyou de Sekai Saikyou 2nd season Special",
-      "Arifureta Yorimichi de Sekai Saikyou",
-      "Arifureta: From Commonplace to World's Strongest Season 2 Special",
-      "Arifureta: From a Detour to the World's Strongest",
-      "From Common Job Class to the Strongest in the World 2nd Season",
-      "From Common Job Class to the Strongest in the World 2nd Season Special",
-      "อาชีพกระจอกแล้วทำไม ยังไงข้าก็เทพ ภาค 2 ตอนพิเศษ",
-      "ありふれた職業で世界最強 2nd season",
-      "ありふれた職業で世界最強 2nd season 未放送エピソード",
-      "ありふれた職業で世界最強 ありふれた寄り道で世界最強"
-    ]
-  },
-  {
     "title": "薔薇王の葬列",
     "titleTranslate": {
       "zh-Hans": [
@@ -5340,6 +6196,12 @@
       {
         "site": "gamer",
         "id": "116520",
+        "begin": "2022-01-09T14:00:00.000Z",
+        "broadcast": "R/2022-01-09T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "baraou-anime",
         "begin": "2022-01-09T14:00:00.000Z",
         "broadcast": "R/2022-01-09T14:00:00.000Z/P7D"
       },
@@ -5415,9 +6277,9 @@
       },
       {
         "site": "nicovideo",
-        "id": "kyoukai-senki",
-        "begin": "",
-        "broadcast": ""
+        "id": "kyoukai_senki",
+        "begin": "2023-07-27T15:00:00.000Z",
+        "broadcast": "R/2023-07-27T15:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -5615,6 +6477,12 @@
       {
         "site": "gamer",
         "id": "119692",
+        "begin": "2021-10-12T16:30:00.000Z",
+        "broadcast": "R/2021-10-12T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kaginado",
         "begin": "2021-10-12T16:30:00.000Z",
         "broadcast": "R/2021-10-12T16:30:00.000Z/P7D"
       },
@@ -6025,6 +6893,10 @@
       },
       {
         "site": "livechart",
+        "id": "12424"
+      },
+      {
+        "site": "livechart",
         "id": "2997"
       },
       {
@@ -6100,7 +6972,14 @@
       {
         "site": "nicovideo",
         "id": "5hanayome",
-        "begin": "2019-01-11T15:00:00.000Z"
+        "begin": "2019-01-11T15:00:00.000Z",
+        "broadcast": "R/2019-01-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "189-11",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",

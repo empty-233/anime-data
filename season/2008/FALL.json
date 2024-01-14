@@ -276,6 +276,7 @@
       "Gekijōban Gegege no Kitarō: Nippon Bakuretsu!!",
       "Spooky Kitaro: Japan Explodes!!",
       "げきじょうばんげげげのきたろうにっぽんばくれつ",
+      "剧场版 鬼太郎 日本爆裂！！",
       "劇場版 ゲゲゲの鬼太郎 日本爆裂!!",
       "劇場版 ゲゲゲの鬼太郎 日本爆裂！！"
     ]
@@ -308,7 +309,8 @@
       {
         "site": "nicovideo",
         "id": "jigokushoujo03",
-        "begin": "2017-08-31T15:00:00.000Z"
+        "begin": "2017-08-31T15:00:00.000Z",
+        "broadcast": "R/2017-08-31T15:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -465,7 +467,8 @@
       {
         "site": "nicovideo",
         "id": "clannad_after",
-        "begin": "2017-12-29T03:00:00.000Z"
+        "begin": "2017-12-29T03:00:00.000Z",
+        "broadcast": "R/2017-12-29T03:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -1383,7 +1386,8 @@
       {
         "site": "nicovideo",
         "id": "toradora",
-        "begin": "2011-11-27T16:00:00.000Z"
+        "begin": "2011-11-27T16:00:00.000Z",
+        "broadcast": "R/2011-11-27T16:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -1396,6 +1400,12 @@
         "id": "2245478",
         "begin": "2023-09-21T16:00:00.000Z",
         "broadcast": "R/2023-09-21T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "17962",
+        "begin": "2023-08-04T03:40:00.000Z",
+        "broadcast": "R/2023-08-04T03:40:00.000Z/P7D"
       },
       {
         "site": "anilist",
@@ -1553,7 +1563,8 @@
       {
         "site": "nicovideo",
         "id": "vampire-knight2",
-        "begin": "2014-11-12T06:00:00.000Z"
+        "begin": "2014-11-12T06:00:00.000Z",
+        "broadcast": "R/2014-11-12T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1663,7 +1674,8 @@
       {
         "site": "nicovideo",
         "id": "kemeko",
-        "begin": "2011-11-09T06:00:00.000Z"
+        "begin": "2011-11-09T06:00:00.000Z",
+        "broadcast": "R/2011-11-09T06:00:00.000Z/P7D"
       },
       {
         "site": "letv",
@@ -1754,8 +1766,8 @@
       {
         "site": "nicovideo",
         "id": "ga-rei-zero",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-09-01T03:00:00.000Z",
+        "broadcast": "R/2021-09-01T03:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -1827,7 +1839,8 @@
       {
         "site": "nicovideo",
         "id": "makademi",
-        "begin": "2011-11-30T06:00:00.000Z"
+        "begin": "2011-11-30T06:00:00.000Z",
+        "broadcast": "R/2011-11-30T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2133,6 +2146,12 @@
         "broadcast": "R/2021-03-16T04:40:00.000Z/P7D"
       },
       {
+        "site": "abema",
+        "id": "19-159",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "4691"
       },
@@ -2343,7 +2362,8 @@
       {
         "site": "nicovideo",
         "id": "ch641",
-        "begin": "2010-09-17T03:00:01.000Z"
+        "begin": "2010-09-17T03:00:01.000Z",
+        "broadcast": "R/2010-09-17T03:00:01.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2362,6 +2382,12 @@
         "id": "718",
         "begin": "2016-01-13T09:53:00.000Z",
         "broadcast": "R/2016-01-13T09:53:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-4pkxnjwwrpn",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -2921,6 +2947,7 @@
       "Cassherns",
       "Kiašano Nuodėmės",
       "Kyashan Sins",
+      "Los pecados de Casshern",
       "Грехи Кьяшанна",
       "Греховете на Кашан",
       "חטאי קאשרן",
@@ -2965,7 +2992,8 @@
       {
         "site": "nicovideo",
         "id": "akane-iro",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "letv",
@@ -4246,6 +4274,175 @@
     ]
   },
   {
+    "title": "獄・さよなら絶望先生",
+    "titleTranslate": {
+      "zh-Hans": [
+        "狱・再见绝望先生"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2008-10-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2603"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zetsubou_oad1",
+        "begin": "2022-04-30T15:00:00.000Z",
+        "broadcast": "R/2022-04-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "5576"
+      },
+      {
+        "site": "anidb",
+        "id": "6509"
+      },
+      {
+        "site": "anilist",
+        "id": "3228"
+      },
+      {
+        "site": "anilist",
+        "id": "6377"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sayonara-zetsubou-sensei"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sayonara-zetsubou-sensei-blu-ray-box-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sayonara-zetsubou-sensei-jo-zetsubou-shoujo-senshuu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sayonara-zetsubou-sensei-jo-zoku-zetsubou-shoujo-senshuu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sayonara-zetsubou-sensei-special-omake"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zan-sayonara-zetsubou-sensei"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zan-sayonara-zetsubou-sensei-bangaichi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zoku-sayonara-zetsubou-sensei"
+      },
+      {
+        "site": "anisearch",
+        "id": "4590"
+      },
+      {
+        "site": "anisearch",
+        "id": "5373"
+      },
+      {
+        "site": "kitsu",
+        "id": "2871"
+      },
+      {
+        "site": "kitsu",
+        "id": "4537"
+      },
+      {
+        "site": "livechart",
+        "id": "3647"
+      },
+      {
+        "site": "livechart",
+        "id": "3904"
+      },
+      {
+        "site": "livechart",
+        "id": "3923"
+      },
+      {
+        "site": "livechart",
+        "id": "4462"
+      },
+      {
+        "site": "livechart",
+        "id": "4778"
+      },
+      {
+        "site": "livechart",
+        "id": "6941"
+      },
+      {
+        "site": "livechart",
+        "id": "6974"
+      },
+      {
+        "site": "livechart",
+        "id": "7653"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3228"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6377"
+      },
+      {
+        "site": "notify",
+        "id": "S3g65FmmR"
+      },
+      {
+        "site": "notify",
+        "id": "YdSQ5KiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2008,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/14336.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/14336t.jpg",
+    "synonyms": [
+      "GSZS",
+      "Goku Sayonara Zetsubou-sensei",
+      "Goku Sayonara Zetsubō-sensei",
+      "Goodbye Mr. Despair OAD",
+      "Goodbye Mr. Despair OVA",
+      "Sayonara Zetsubou Sensei OAD",
+      "Sayonara Zetsubou Sensei OVA",
+      "Sayonara Zetsubou-sensei OVA",
+      "gszs",
+      "szs ova",
+      "szs3",
+      "zetsubou ova",
+      "zetsubou2 ova",
+      "Прощай",
+      "Сбогом",
+      "безрадостный учитель OVA-1",
+      "отчаян учителю: Тишина",
+      "狱·再见! 绝望老师",
+      "獄・さよなら絶望先生"
+    ]
+  },
+  {
     "title": "バトルスピリッツ 少年突破バシン",
     "titleTranslate": {
       "zh-Hans": [
@@ -4445,77 +4642,65 @@
     ]
   },
   {
-    "title": "らき☆すた OVA",
+    "title": "伯爵と妖精",
     "titleTranslate": {
       "zh-Hans": [
-        "幸运星 OVA"
+        "伯爵与妖精"
       ]
     },
-    "type": "ova",
+    "type": "tv",
     "lang": "ja",
-    "officialSite": "http://www.movic.jp/info/rakisutaova/",
-    "begin": "2008-09-26T16:00:00.000Z",
-    "end": "2008-09-26T16:30:00.000Z",
+    "officialSite": "http://web.archive.org/web/*/www.myfairy.tv/index.html",
+    "begin": "2008-09-28T15:00:00.000Z",
+    "end": "2008-12-23T16:45:00.000Z",
     "sites": [
       {
         "site": "pptv",
-        "id": "XYSAicmbMPHrdW8M",
+        "id": "yGpV0zuhEUibyMJg",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "p/pk87sfhwvxamsxd",
         "begin": ""
       },
       {
         "site": "bangumi",
-        "id": "13557"
+        "id": "1980"
       },
       {
         "site": "bilibili",
-        "id": "3548",
-        "begin": "2008-09-25T16:00:01.000Z",
-        "broadcast": ""
-      },
-      {
-        "site": "acfun",
-        "id": "6000137",
-        "begin": "2019-09-19T10:58:48.000Z"
-      },
-      {
-        "site": "anidb",
-        "id": "4777"
+        "id": "1220",
+        "begin": "2008-10-06T16:00:00.000Z",
+        "broadcast": "R/2013-08-21T04:20:00.000Z/P7D"
       },
       {
         "site": "anilist",
-        "id": "1887"
+        "id": "4551"
       },
       {
         "site": "anime-planet",
-        "id": "lucky-star"
-      },
-      {
-        "site": "anime-planet",
-        "id": "miyakawa-ke-no-kuufuku"
+        "id": "earl-and-fairy"
       },
       {
         "site": "anisearch",
-        "id": "3906"
+        "id": "4995"
       },
       {
         "site": "kitsu",
-        "id": "1697"
+        "id": "3678"
       },
       {
         "site": "livechart",
-        "id": "3624"
-      },
-      {
-        "site": "livechart",
-        "id": "865"
+        "id": "4355"
       },
       {
         "site": "myanimelist",
-        "id": "1887"
+        "id": "4551"
       },
       {
         "site": "notify",
-        "id": "Pg9BcFmig"
+        "id": "PDeu5KiiR"
       }
     ],
     "animeSeason": {
@@ -4524,22 +4709,16 @@
       "month": "09"
     },
     "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1475/99189.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1475/99189t.jpg",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/59963.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/59963t.jpg",
     "synonyms": [
-      "LS OVA",
-      "Lucky Star JK",
-      "Lucky Star OVA",
-      "Lucky Star OVA: JK",
-      "Lucky☆Star OVA",
-      "Късметлийската звезда OVA",
-      "らき☆すた OVA",
-      "らき☆すた OVA JK",
-      "らき☆すた OVA（オリジナルなビジュアルとアニメーション）",
-      "幸运☆星 OVA",
-      "幸运星OVA",
-      "幸運☆星 OVA"
+      "Earl and Fairy DVD Extra",
+      "Earl and Fairy Specials",
+      "Hakushaku to Yōsei Specials",
+      "はくしゃくとようせい",
+      "伯爵と妖精",
+      "伯爵と妖精 Specials"
     ]
   },
   {
@@ -4629,182 +4808,6 @@
     ]
   },
   {
-    "title": "劇場版 天元突破グレンラガン 紅蓮篇",
-    "titleTranslate": {
-      "zh-Hans": [
-        "天元突破红莲螺岩 红莲篇"
-      ],
-      "zh-Hant": [
-        "天元突破 紅蓮螺巖 紅蓮篇"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "http://www.gurren-lagann-movie.net/",
-    "begin": "2008-09-06T16:00:00.000Z",
-    "end": "2008-09-06T16:00:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "3995"
-      },
-      {
-        "site": "nicovideo",
-        "id": "gurren-lagann-movie-gurren",
-        "begin": "2018-05-31T15:00:00.000Z"
-      },
-      {
-        "site": "qq",
-        "id": "3/35z9osowz7d1jcp",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "gamer",
-        "id": "22664",
-        "begin": "2021-02-01T03:00:00.000Z",
-        "broadcast": "R/2021-02-01T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "bilibili",
-        "id": "24789198",
-        "begin": "2014-08-01T11:16:00.000Z",
-        "broadcast": "R/2014-08-01T11:16:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "4575"
-      },
-      {
-        "site": "anidb",
-        "id": "6325"
-      },
-      {
-        "site": "anilist",
-        "id": "2001"
-      },
-      {
-        "site": "anilist",
-        "id": "4565"
-      },
-      {
-        "site": "anime-planet",
-        "id": "tengen-toppa-gurren-lagann"
-      },
-      {
-        "site": "anime-planet",
-        "id": "tengen-toppa-gurren-lagann-gekijouban-zenyasai-special-virals-sweet-dream"
-      },
-      {
-        "site": "anime-planet",
-        "id": "tengen-toppa-gurren-lagann-kirameki-yoko-box-pieces-of-sweet-stars"
-      },
-      {
-        "site": "anime-planet",
-        "id": "tengen-toppa-gurren-lagann-lagann-hen"
-      },
-      {
-        "site": "anime-planet",
-        "id": "tengen-toppa-gurren-lagann-ova"
-      },
-      {
-        "site": "anime-planet",
-        "id": "tengen-toppa-gurren-lagann-parallel-works"
-      },
-      {
-        "site": "anime-planet",
-        "id": "tengen-toppa-gurren-lagann-parallel-works-2"
-      },
-      {
-        "site": "anisearch",
-        "id": "3711"
-      },
-      {
-        "site": "anisearch",
-        "id": "5223"
-      },
-      {
-        "site": "kitsu",
-        "id": "1801"
-      },
-      {
-        "site": "kitsu",
-        "id": "3689"
-      },
-      {
-        "site": "livechart",
-        "id": "3583"
-      },
-      {
-        "site": "livechart",
-        "id": "3838"
-      },
-      {
-        "site": "livechart",
-        "id": "4520"
-      },
-      {
-        "site": "livechart",
-        "id": "4535"
-      },
-      {
-        "site": "livechart",
-        "id": "4558"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2001"
-      },
-      {
-        "site": "myanimelist",
-        "id": "4565"
-      },
-      {
-        "site": "myanimelist",
-        "id": "5947"
-      },
-      {
-        "site": "notify",
-        "id": "D7dYcKmmR"
-      },
-      {
-        "site": "notify",
-        "id": "Ou6ucKiig"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2008,
-      "month": "09"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1270/115752.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1270/115752t.jpg",
-    "synonyms": [
-      "Gekijouban Tengen Toppa Gurren Lagann: Guren-hen",
-      "Gekijouban Tengen Toppa Gurren Lagann: Gurren Hen",
-      "Gekijouban Tengen Toppa Gurren Lagann: Gurren-hen",
-      "Gekijōban Tengen Toppa Gurren Lagann: Gurren-hen",
-      "Gurren Lagann Movie 1: Childhood's End",
-      "Gurren Lagann The Movie: Childhood's End",
-      "Gurren Lagann the Movie: Childhood`s End",
-      "Gurren Lagann. Película 1: El fin de la infancia",
-      "Gurren Lagann: El Fin de la Infancia",
-      "Gurren-Lagann Movie: Gurren Arc",
-      "Tengen Toppa Gurren Lagann Movie 1: Guren-hen",
-      "Tengen Toppa Gurren Lagann Movie: Gurren-hen",
-      "Tengen Toppa Gurren Lagann The Movie: Crimson Lotus Chapter",
-      "Tengen Toppa Gurren Lagann the Movie",
-      "Tengen Toppa Gurren Lagann: Gurren-hen",
-      "ttgl movie",
-      "Гуррен Лаганн: Арката Гуррен",
-      "劇場版 天元突破グレンラガン 紅蓮篇",
-      "天元突破グレンラガン 紅蓮篇",
-      "극장판 천원돌파 그렌라간: 홍련편"
-    ]
-  },
-  {
     "title": "ヴァンパイア騎士",
     "titleTranslate": {
       "en": [
@@ -4842,7 +4845,8 @@
       {
         "site": "nicovideo",
         "id": "vampire-knight",
-        "begin": "2014-10-08T06:00:00.000Z"
+        "begin": "2014-10-08T06:00:00.000Z",
+        "broadcast": "R/2014-10-08T06:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -4912,180 +4916,6 @@
       "ヴァンパイア騎士",
       "ヴァンパイア騎士 Portrait of Passionate Love",
       "ヴァンパイア騎士 激愛の肖像～ポートレート～"
-    ]
-  },
-  {
-    "title": "シゴフミ",
-    "titleTranslate": {
-      "zh-Hans": [
-        "死后文",
-        "奇迹邮递员",
-        "死亡之信",
-        "亡者之信"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://www.shigofumi.com/",
-    "begin": "2008-01-05T16:35:00.000Z",
-    "end": "2008-03-22T17:05:00.000Z",
-    "sites": [
-      {
-        "site": "pptv",
-        "id": "yWpV0zuhEUibyMJg",
-        "begin": ""
-      },
-      {
-        "site": "qq",
-        "id": "4/4p10d7cilzonxbc",
-        "begin": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "281"
-      },
-      {
-        "site": "bilibili",
-        "id": "1262",
-        "begin": "2008-01-04T16:00:00.000Z",
-        "broadcast": "R/2017-03-18T06:05:00.000Z/P7D"
-      },
-      {
-        "site": "anilist",
-        "id": "3420"
-      },
-      {
-        "site": "anime-planet",
-        "id": "shigofumi"
-      },
-      {
-        "site": "anime-planet",
-        "id": "shigofumi-picture-drama"
-      },
-      {
-        "site": "anisearch",
-        "id": "4579"
-      },
-      {
-        "site": "kitsu",
-        "id": "2996"
-      },
-      {
-        "site": "livechart",
-        "id": "4023"
-      },
-      {
-        "site": "livechart",
-        "id": "7040"
-      },
-      {
-        "site": "myanimelist",
-        "id": "3420"
-      },
-      {
-        "site": "notify",
-        "id": "86fQcFimR"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2008,
-      "month": "01"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/9064.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/9064t.jpg",
-    "synonyms": [
-      "Shigofumi 13th episode",
-      "Shigofumi Episode 13",
-      "Shigofumi OVA",
-      "Shigofumi Special",
-      "Shigofumi ~Stories of Last Letter~ Special",
-      "Shigofumi: And Then",
-      "Shigofumi: And Then...",
-      "Shigofumi: Danach",
-      "Shigofumi: Letters from the Departed - Thereafter",
-      "Shigofumi: Letters from the Departed Special",
-      "Shigofumi: Sorekara",
-      "Shigofumi: Stories of Last Letter - After That",
-      "しごふみ",
-      "シゴフミ",
-      "シゴフミ ソレカラ",
-      "シゴフミ「ソレカラ」"
-    ]
-  },
-  {
-    "title": "メイプルストーリー",
-    "titleTranslate": {
-      "zh-Hans": [
-        "枫叶物语",
-        "冒险岛",
-        "枫之谷",
-        "MAPLESTORY"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://www.tv-tokyo.co.jp/anime/maplestory/",
-    "begin": "2007-10-06T23:30:00.000Z",
-    "end": "2008-03-30T00:00:00.000Z",
-    "sites": [
-      {
-        "site": "pptv",
-        "id": "SYJibicGTKOnjbWcE",
-        "begin": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "49049"
-      },
-      {
-        "site": "bilibili",
-        "id": "1348",
-        "begin": "2011-11-10T20:50:00.000Z",
-        "broadcast": "R/2011-11-10T20:50:00.000Z/P7D"
-      },
-      {
-        "site": "anime-planet",
-        "id": "maple-story"
-      },
-      {
-        "site": "anisearch",
-        "id": "4444"
-      },
-      {
-        "site": "kitsu",
-        "id": "2480"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2719"
-      },
-      {
-        "site": "notify",
-        "id": "A5lycKiiR"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2008,
-      "month": "10"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/12/68281.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/68281t.jpg",
-    "synonyms": [
-      "Maple Story Special",
-      "MapleStory Episode 26",
-      "MapleStory: Appreciation",
-      "MapleStory: Chiisana Gokai to, Ookina Kansha",
-      "MapleStory: Chīsana Gokai to, Ōkina Kansha",
-      "めいぷるすとーりー",
-      "メイプルストーリー",
-      "メイプルストーリー 小さな誤解と、大きな感謝",
-      "메이플스토리 작은 오해와 커다란 감사"
     ]
   },
   {

@@ -293,7 +293,8 @@
       {
         "site": "nicovideo",
         "id": "ch60020",
-        "begin": "2011-04-29T03:00:01.000Z"
+        "begin": "2011-04-29T03:00:01.000Z",
+        "broadcast": "R/2011-04-29T03:00:01.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -312,6 +313,12 @@
         "id": "28663",
         "begin": "2021-12-03T06:00:00.000Z",
         "broadcast": "R/2021-12-03T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-33",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -627,7 +634,8 @@
       {
         "site": "nicovideo",
         "id": "sorawoto",
-        "begin": "2012-07-25T06:00:00.000Z"
+        "begin": "2012-07-25T06:00:00.000Z",
+        "broadcast": "R/2012-07-25T06:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -660,7 +668,7 @@
       }
     ],
     "animeSeason": {
-      "season": "SUMMER",
+      "season": "SPRING",
       "year": 2010,
       "month": "01"
     },
@@ -707,7 +715,8 @@
       {
         "site": "nicovideo",
         "id": "ch332",
-        "begin": "2011-02-26T06:00:00.000Z"
+        "begin": "2011-02-26T06:00:00.000Z",
+        "broadcast": "R/2011-02-26T06:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -854,7 +863,8 @@
       {
         "site": "nicovideo",
         "id": "hidamari_03",
-        "begin": "2014-12-19T06:00:00.000Z"
+        "begin": "2014-12-19T06:00:00.000Z",
+        "broadcast": "R/2014-12-19T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1079,7 +1089,8 @@
       {
         "site": "nicovideo",
         "id": "okami",
-        "begin": "2012-09-05T06:00:00.000Z"
+        "begin": "2012-09-05T06:00:00.000Z",
+        "broadcast": "R/2012-09-05T06:00:00.000Z/P7D"
       },
       {
         "site": "anisearch",
@@ -1205,7 +1216,8 @@
       {
         "site": "nicovideo",
         "id": "omamorihimari",
-        "begin": ""
+        "begin": "2020-03-13T06:00:00.000Z",
+        "broadcast": "R/2020-03-13T06:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1264,6 +1276,12 @@
         "site": "letv",
         "id": "15039",
         "begin": ""
+      },
+      {
+        "site": "abema",
+        "id": "19-160",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anilist",
@@ -1459,6 +1477,18 @@
         "id": "8154"
       },
       {
+        "site": "anilist",
+        "id": "10073"
+      },
+      {
+        "site": "anilist",
+        "id": "8668"
+      },
+      {
+        "site": "anilist",
+        "id": "9202"
+      },
+      {
         "site": "anime-planet",
         "id": "the-qwaser-of-stigmata-ii"
       },
@@ -1542,6 +1572,7 @@
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1212/97589t.jpg",
     "synonyms": [
       "Qwaser",
+      "Seikon no Quasar",
       "SnQ",
       "The Qwaser Of Stigmata",
       "The Qwaser of Stigmata",
@@ -1623,11 +1654,19 @@
       },
       {
         "site": "anilist",
+        "id": "21318"
+      },
+      {
+        "site": "anilist",
         "id": "21717"
       },
       {
         "site": "anilist",
         "id": "356"
+      },
+      {
+        "site": "anilist",
+        "id": "97815"
       },
       {
         "site": "anilist",
@@ -1823,6 +1862,7 @@
       "Fate stay night la Película: Unlimited Blade Works",
       "Fate/Stay Night: UBW",
       "Fate/Stay Night: Unlimited Blade Works",
+      "Fate/Stay Night: Unlimited Blade Works - The Motion Picture",
       "Fate/stay night - Unlimited Blade Works",
       "Fate/stay night Movie",
       "Fate/stay night Movie: UNLIMITED BLADE WORKS",
@@ -2052,7 +2092,7 @@
       }
     ],
     "animeSeason": {
-      "season": "WINTER",
+      "season": "FALL",
       "year": 2009,
       "month": "01"
     },
@@ -2093,6 +2133,12 @@
         "site": "pptv",
         "id": "oFw4th6E9DKVE3s",
         "begin": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "nanoha-movie",
+        "begin": "2021-12-23T15:00:00.000Z",
+        "broadcast": "R/2021-12-23T15:00:00.000Z/P7D"
       },
       {
         "site": "anidb",

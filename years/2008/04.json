@@ -27,7 +27,8 @@
       {
         "site": "nicovideo",
         "id": "allison",
-        "begin": "2020-06-24T15:00:00.000Z"
+        "begin": "2020-06-24T15:00:00.000Z",
+        "broadcast": "R/2020-06-24T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -261,320 +262,6 @@
     ]
   },
   {
-    "title": "遊戯王5D's",
-    "titleTranslate": {
-      "zh-Hans": [
-        "游戏王5D's",
-        "游☆戏☆王 5D's"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://www.tv-tokyo.co.jp/anime/yugioh/",
-    "begin": "2008-04-02T09:00:00.000Z",
-    "end": "2015-01-30T23:00:00.000Z",
-    "sites": [
-      {
-        "site": "pptv",
-        "id": "ltexL5f9basOjPQ",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "5895",
-        "begin": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "1609"
-      },
-      {
-        "site": "nicovideo",
-        "id": "yugioh-5ds",
-        "begin": "2018-09-30T15:00:00.000Z"
-      },
-      {
-        "site": "bilibili",
-        "id": "1717",
-        "begin": "2010-08-08T16:40:00.000Z",
-        "broadcast": "R/2010-08-08T16:40:00.000Z/P7D",
-        "comment": "第二季: 1718, 第三季: 1720, 第四季: 1719"
-      },
-      {
-        "site": "anidb",
-        "id": "10310"
-      },
-      {
-        "site": "anidb",
-        "id": "2766"
-      },
-      {
-        "site": "anidb",
-        "id": "7036"
-      },
-      {
-        "site": "anidb",
-        "id": "8140"
-      },
-      {
-        "site": "anilist",
-        "id": "10015"
-      },
-      {
-        "site": "anilist",
-        "id": "114072"
-      },
-      {
-        "site": "anilist",
-        "id": "142842"
-      },
-      {
-        "site": "anilist",
-        "id": "20552"
-      },
-      {
-        "site": "anilist",
-        "id": "21590"
-      },
-      {
-        "site": "anilist",
-        "id": "482"
-      },
-      {
-        "site": "anilist",
-        "id": "6951"
-      },
-      {
-        "site": "anilist",
-        "id": "98231"
-      },
-      {
-        "site": "anime-planet",
-        "id": "yu-gi-oh-3d-bonds-beyond-time"
-      },
-      {
-        "site": "anime-planet",
-        "id": "yu-gi-oh-5ds-evolving-duel-stardust-vs-red-demons"
-      },
-      {
-        "site": "anime-planet",
-        "id": "yu-gi-oh-arc-v"
-      },
-      {
-        "site": "anime-planet",
-        "id": "yu-gi-oh-duel-monsters"
-      },
-      {
-        "site": "anime-planet",
-        "id": "yu-gi-oh-go-rush"
-      },
-      {
-        "site": "anime-planet",
-        "id": "yu-gi-oh-gx"
-      },
-      {
-        "site": "anime-planet",
-        "id": "yu-gi-oh-sevens"
-      },
-      {
-        "site": "anime-planet",
-        "id": "yu-gi-oh-vrains"
-      },
-      {
-        "site": "anime-planet",
-        "id": "yu-gi-oh-zexal"
-      },
-      {
-        "site": "anisearch",
-        "id": "2618"
-      },
-      {
-        "site": "anisearch",
-        "id": "5576"
-      },
-      {
-        "site": "anisearch",
-        "id": "5761"
-      },
-      {
-        "site": "anisearch",
-        "id": "6825"
-      },
-      {
-        "site": "kitsu",
-        "id": "4042"
-      },
-      {
-        "site": "kitsu",
-        "id": "443"
-      },
-      {
-        "site": "kitsu",
-        "id": "4802"
-      },
-      {
-        "site": "kitsu",
-        "id": "5995"
-      },
-      {
-        "site": "kitsu",
-        "id": "8126"
-      },
-      {
-        "site": "livechart",
-        "id": "1009"
-      },
-      {
-        "site": "livechart",
-        "id": "1560"
-      },
-      {
-        "site": "livechart",
-        "id": "322"
-      },
-      {
-        "site": "livechart",
-        "id": "356"
-      },
-      {
-        "site": "livechart",
-        "id": "3803"
-      },
-      {
-        "site": "livechart",
-        "id": "3987"
-      },
-      {
-        "site": "livechart",
-        "id": "4014"
-      },
-      {
-        "site": "livechart",
-        "id": "4649"
-      },
-      {
-        "site": "livechart",
-        "id": "4830"
-      },
-      {
-        "site": "livechart",
-        "id": "5325"
-      },
-      {
-        "site": "livechart",
-        "id": "5401"
-      },
-      {
-        "site": "livechart",
-        "id": "5870"
-      },
-      {
-        "site": "livechart",
-        "id": "625"
-      },
-      {
-        "site": "livechart",
-        "id": "7658"
-      },
-      {
-        "site": "livechart",
-        "id": "7946"
-      },
-      {
-        "site": "myanimelist",
-        "id": "10015"
-      },
-      {
-        "site": "myanimelist",
-        "id": "21639"
-      },
-      {
-        "site": "myanimelist",
-        "id": "34866"
-      },
-      {
-        "site": "myanimelist",
-        "id": "40145"
-      },
-      {
-        "site": "myanimelist",
-        "id": "482"
-      },
-      {
-        "site": "myanimelist",
-        "id": "5298"
-      },
-      {
-        "site": "myanimelist",
-        "id": "6951"
-      },
-      {
-        "site": "notify",
-        "id": "-3ICcKimR"
-      },
-      {
-        "site": "notify",
-        "id": "0r7ntFmmg"
-      },
-      {
-        "site": "notify",
-        "id": "6qHOtaong"
-      },
-      {
-        "site": "notify",
-        "id": "AAdocFiig"
-      },
-      {
-        "site": "notify",
-        "id": "pQ32pKmmR"
-      },
-      {
-        "site": "notify",
-        "id": "zJVgtKiig"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2008,
-      "month": "04"
-    },
-    "status": "FINISHED",
-    "episodes": 154,
-    "picture": "https://cdn.myanimelist.net/images/anime/1667/103658.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1667/103658t.jpg",
-    "synonyms": [
-      "5ds",
-      "Yu-Gi-Oh! - Az öt sárkány",
-      "Yu-Gi-Oh! 5 Dragons",
-      "Yu-Gi-Oh! 5 Duel Scoop",
-      "Yu-Gi-Oh! 5D",
-      "Yu-Gi-Oh! 5D's",
-      "Yu-Gi-Oh! 5D`s",
-      "Yu-Gi-Oh! 5D’s",
-      "Yu-Gi-Oh! Duel Runners 5D's",
-      "Yugioh - Az öt sárkány",
-      "Yugioh 5 D's",
-      "Yugioh 5D`s",
-      "Yugioh! 5D's",
-      "Yuu Gi Ou 5D`s",
-      "Yuu Gi Ou 5D’s",
-      "Yuu Gi Ou: Duel Monsters 5DS",
-      "Yuugioh Faibudiizu",
-      "Yū Gi Ō 5D’s",
-      "yugioh5d",
-      "יו-גי-הו! המימד החמישי",
-      "יו-גי-הו: המימד החמישי",
-      "يوغي أوه! التنانين الخمس",
-      "يوغي أوه! مبارزة السحب الخمس",
-      "游戏王5D`s",
-      "遊☆戯☆王 5D`s",
-      "遊☆戯☆王5D's（ファイブディーズ）",
-      "遊☆戯☆王5D`s",
-      "遊戯王5D's",
-      "遊戯王5D`s"
-    ]
-  },
-  {
     "title": "コードギアス 反逆のルルーシュR2",
     "titleTranslate": {
       "en": [
@@ -622,7 +309,8 @@
       {
         "site": "nicovideo",
         "id": "geass-r2-anime",
-        "begin": "2020-03-06T15:00:00.000Z"
+        "begin": "2020-03-06T15:00:00.000Z",
+        "broadcast": "R/2020-03-06T15:00:00.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
@@ -647,6 +335,12 @@
         "id": "15993",
         "begin": "2021-08-26T08:00:00.000Z",
         "broadcast": "R/2021-08-26T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-16ztm7jzi7ee",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -1469,7 +1163,7 @@
       }
     ],
     "animeSeason": {
-      "season": "SUMMER",
+      "season": "SPRING",
       "year": 2008,
       "month": "04"
     },
@@ -1587,7 +1281,8 @@
       {
         "site": "nicovideo",
         "id": "to-love-ru",
-        "begin": "2012-10-17T06:00:00.000Z"
+        "begin": "2012-10-17T06:00:00.000Z",
+        "broadcast": "R/2012-10-17T06:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -1909,7 +1604,8 @@
       {
         "site": "nicovideo",
         "id": "dc2ss",
-        "begin": "2012-08-01T06:00:00.000Z"
+        "begin": "2012-08-01T06:00:00.000Z",
+        "broadcast": "R/2012-08-01T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2100,6 +1796,12 @@
         "broadcast": "R/2010-08-18T17:19:00.000Z/P7D"
       },
       {
+        "site": "nicovideo",
+        "id": "macross_f",
+        "begin": "2023-01-28T15:00:00.000Z",
+        "broadcast": "R/2023-01-28T15:00:00.000Z/P7D"
+      },
+      {
         "site": "anidb",
         "id": "10569"
       },
@@ -2138,10 +1840,6 @@
       {
         "site": "anilist",
         "id": "10361"
-      },
-      {
-        "site": "anilist",
-        "id": "129549"
       },
       {
         "site": "anilist",
@@ -2540,7 +2238,8 @@
       {
         "site": "nicovideo",
         "id": "vampire-knight",
-        "begin": "2014-10-08T06:00:00.000Z"
+        "begin": "2014-10-08T06:00:00.000Z",
+        "broadcast": "R/2014-10-08T06:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -2789,7 +2488,8 @@
       {
         "site": "nicovideo",
         "id": "blassreiter",
-        "begin": "2019-08-04T15:00:00.000Z"
+        "begin": "2019-08-04T15:00:00.000Z",
+        "broadcast": "R/2019-08-04T15:00:00.000Z/P7D"
       },
       {
         "site": "letv",
@@ -3816,6 +3516,7 @@
       "DC M12",
       "Detective Conan 12 - La partitura del miedo",
       "Detective Conan 2008",
+      "Detective Conan Movie 12: Full Score of Fear",
       "Detective Conan Movie 12: La melodia della paura",
       "Detective Conan movie 12",
       "Detective Conan: Full Score of Fear",
@@ -3828,7 +3529,6 @@
       "Détective Conan Film 12: La mélodie de la Peur",
       "Détective Conan: La Mélodie de la Peur",
       "Meitantei Conan Movie 12",
-      "Meitantei Conan Movie 12: Senritsu no Full Score",
       "Meitantei Conan Movie 12: Senritsu no Gakufu",
       "Meitantei Conan Movie 12: Senritsu no Gakufu (Full Score)",
       "Meitantei Conan: Senritsu no Full Score",

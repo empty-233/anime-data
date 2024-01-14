@@ -115,7 +115,7 @@
       }
     ],
     "animeSeason": {
-      "season": "SUMMER",
+      "season": "SPRING",
       "year": 2009,
       "month": "04"
     },
@@ -171,7 +171,8 @@
       {
         "site": "nicovideo",
         "id": "hagaren-fa",
-        "begin": "2015-04-10T06:00:00.000Z"
+        "begin": "2015-04-10T06:00:00.000Z",
+        "broadcast": "R/2015-04-10T06:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -652,7 +653,8 @@
       {
         "site": "nicovideo",
         "id": "queensblade01",
-        "begin": "2012-04-11T06:00:00.000Z"
+        "begin": "2012-04-11T06:00:00.000Z",
+        "broadcast": "R/2012-04-11T06:00:00.000Z/P7D"
       },
       {
         "site": "anilist",
@@ -1552,7 +1554,8 @@
       {
         "site": "nicovideo",
         "id": "ch327",
-        "begin": "2010-07-31T15:00:00.000Z"
+        "begin": "2010-07-31T15:00:00.000Z",
+        "broadcast": "R/2010-07-31T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1836,7 +1839,8 @@
       {
         "site": "nicovideo",
         "id": "k-on_anime",
-        "begin": "2018-12-27T15:00:00.000Z"
+        "begin": "2018-12-27T15:00:00.000Z",
+        "broadcast": "R/2018-12-27T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2009,7 +2013,8 @@
       {
         "site": "nicovideo",
         "id": "anime-shangrila",
-        "begin": "2020-06-15T06:00:00.000Z"
+        "begin": "2020-06-15T06:00:00.000Z",
+        "broadcast": "R/2020-06-15T06:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2062,7 +2067,8 @@
       {
         "site": "nicovideo",
         "id": "polyphonica_cs",
-        "begin": "2013-07-30T07:00:00.000Z"
+        "begin": "2013-07-30T07:00:00.000Z",
+        "broadcast": "R/2013-07-30T07:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2430,7 +2436,8 @@
       {
         "site": "nicovideo",
         "id": "souten_anime",
-        "begin": "2016-06-22T06:00:00.000Z"
+        "begin": "2016-06-22T06:00:00.000Z",
+        "broadcast": "R/2016-06-22T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2484,6 +2491,12 @@
       {
         "site": "bangumi",
         "id": "2103"
+      },
+      {
+        "site": "abema",
+        "id": "5-29",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -2728,6 +2741,7 @@
       "Dragon Ball Kai",
       "Dragon Ball Kai: Majin Buu Saga",
       "Dragon Ball Kai: Majinbuu Hen",
+      "Dragon Ball Z Kai (2014)",
       "Dragon Ball Z Kai: The Final Chapters",
       "Dragonball Kai",
       "Dragonball Z Kai: Boo-Saga",
@@ -3665,6 +3679,12 @@
         "begin": "2012-11-27T17:48:22.000Z"
       },
       {
+        "site": "abema",
+        "id": "35-55",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "708"
       },
@@ -4194,6 +4214,7 @@
       "Detective Conan Film 13: Le Chasseur Noir de Jais",
       "Detective Conan Movie 13",
       "Detective Conan Movie 13: ...E le stelle stanno a guardare",
+      "Detective Conan Movie 13: The Raven Chaser",
       "Detective Conan Película 13: El Perseguidor Negro",
       "Detective Conan: ...E Le Stelle Stanno A Guardare",
       "Detective Conan: El perseguidor negro",
@@ -4207,7 +4228,6 @@
       "Detektiv Conan: Der nachtschwarze Jäger",
       "Détective Conan: Le Chasseur Noir de Jais",
       "Meitantei Conan Movie 13",
-      "Meitantei Conan Movie 13: Shikkoku no Chaser",
       "Meitantei Conan Movie 13: The Raven Chaser",
       "Meitantei Conan: Shikkoku no Chaser",
       "Детектив Конан: Гарван преследвач",
@@ -4337,7 +4357,8 @@
       {
         "site": "nicovideo",
         "id": "th2adplus",
-        "begin": "2012-03-03T13:30:00.000Z"
+        "begin": "2012-03-03T13:30:00.000Z",
+        "broadcast": "R/2012-03-03T13:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -4522,6 +4543,10 @@
       },
       {
         "site": "anilist",
+        "id": "1135"
+      },
+      {
+        "site": "anilist",
         "id": "5702"
       },
       {
@@ -4619,7 +4644,8 @@
       {
         "site": "nicovideo",
         "id": "gurren-lagann-movie-lagann",
-        "begin": "2018-05-31T15:00:00.000Z"
+        "begin": "2018-05-31T15:00:00.000Z",
+        "broadcast": "R/2018-05-31T15:00:00.000Z/P7D"
       },
       {
         "site": "qq",

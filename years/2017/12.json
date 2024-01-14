@@ -83,7 +83,7 @@
       }
     ],
     "animeSeason": {
-      "season": "WINTER",
+      "season": "FALL",
       "year": 2017,
       "month": "12"
     },
@@ -125,7 +125,8 @@
       {
         "site": "nicovideo",
         "id": "inazma-delivery2",
-        "begin": ""
+        "begin": "2018-06-15T06:00:00.000Z",
+        "broadcast": "R/2018-06-15T06:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -455,7 +456,7 @@
       }
     ],
     "animeSeason": {
-      "season": "WINTER",
+      "season": "FALL",
       "year": 2017,
       "month": "12"
     },
@@ -854,6 +855,12 @@
         "broadcast": ""
       },
       {
+        "site": "nicovideo",
+        "id": "fgo-moonlight-lostroom",
+        "begin": "2022-02-18T03:00:00.000Z",
+        "broadcast": "R/2022-02-18T03:00:00.000Z/P7D"
+      },
+      {
         "site": "anidb",
         "id": "15461"
       },
@@ -888,6 +895,10 @@
       {
         "site": "livechart",
         "id": "11765"
+      },
+      {
+        "site": "livechart",
+        "id": "12430"
       },
       {
         "site": "livechart",

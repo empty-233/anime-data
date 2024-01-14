@@ -142,7 +142,8 @@
       {
         "site": "nicovideo",
         "id": "naruto",
-        "begin": "2015-07-15T06:00:00.000Z"
+        "begin": "2015-07-15T06:00:00.000Z",
+        "broadcast": "R/2015-07-15T06:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -981,7 +982,7 @@
       }
     ],
     "animeSeason": {
-      "season": "FALL",
+      "season": "SUMMER",
       "year": 2003,
       "month": "10"
     },
@@ -1468,6 +1469,18 @@
         "broadcast": "R/2011-08-25T10:01:00.000Z/P7D"
       },
       {
+        "site": "nicovideo",
+        "id": "kokaku-sac",
+        "begin": "2022-11-07T15:00:00.000Z",
+        "broadcast": "R/2022-11-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "420-5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "1176"
       },
@@ -1801,7 +1814,8 @@
       {
         "site": "nicovideo",
         "id": "duelmasters01",
-        "begin": "2014-11-27T06:00:00.000Z"
+        "begin": "2014-11-27T06:00:00.000Z",
+        "broadcast": "R/2014-11-27T06:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
