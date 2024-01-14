@@ -45,14 +45,11 @@ jobs:
     - name: Run main.ts with tsx
       run: tsx main.ts
 
-    - name: Run ls
-      run: ls ./data
-
     - name: Checkout release
       uses: actions/checkout@v4
       with:
         ref: release
-        path: data
+        path: git
 
     # - uses: stefanzweifel/git-auto-commit-action@v5
     #   with:
@@ -65,15 +62,15 @@ jobs:
 
     - name: Git push assets to release branch
       run: |
-        if [ -d "data/bangumi-data" ]; then
-          rm -r data/bangumi-data
-          mkdir data/bangumi-data
+        if [ -d "git/bangumi-data" ]; then
+          rm -r git/bangumi-data
+          mkdir git/bangumi-data
         else
-          mkdir data/bangumi-data
+          mkdir git/bangumi-data
         fi
-        cp -f ./original-data/bangumi-data/data.d.ts ./data/bangumi-data/data.d.ts
-        cp -f ./data.d.ts ./data
-        cd data
+        cp -f ./original-data/bangumi-data/data.d.ts ./git/bangumi-data/data.d.ts
+        cp -f ./data/* ./git/*
+        cd git
         sed -i 's#./original-data/bangumi-data/data.d.ts#./bangumi-data/data.d.ts#' ./data.d.ts
         git config --local user.name "My GitHub Actions Bot"
         git config --local user.email "my-github-actions-bot@example.org"
