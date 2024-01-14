@@ -40,10 +40,10 @@ jobs:
       run: pnpm install
 
     - name: npm install ts-node
-      run: npm install -g ts-node@10.9.1
+      run: npm install --global tsx
       
-    - name: Run main.ts with ts-node-esm
-      run: ts-node-esm main.ts
+    - name: Run main.ts with tsx
+      run: tsx main.ts
 
     - name: Checkout release
       uses: actions/checkout@v4
