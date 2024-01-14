@@ -39,7 +39,7 @@ jobs:
     - name: pnpm install
       run: pnpm install
 
-    - name: npm install ts-node
+    - name: npm install tsx
       run: npm install --global tsx
       
     - name: Run main.ts with tsx
