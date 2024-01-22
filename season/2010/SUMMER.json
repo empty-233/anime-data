@@ -1,5 +1,147 @@
 [
   {
+    "title": "たまゆら",
+    "titleTranslate": {
+      "zh-Hans": [
+        "玉响"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.tamayura.info/",
+    "begin": "2010-11-26T16:00:00.000Z",
+    "end": "2010-12-23T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "BDQPjfVbywls6lI",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "h/hsac5f0iqzra0pl",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "8452"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tamayura",
+        "begin": "2012-02-29T15:00:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgjbxcp",
+        "begin": "2014-01-15T08:57:11.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "8234"
+      },
+      {
+        "site": "anilist",
+        "id": "10232"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tamayura-hitotose"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tamayura-hitotose-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tamayura-more-aggressive"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tamayura-more-aggressive-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tamayura-more-aggressive-picture-drama"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tamayura-sotsugyou-shashin-movie-1-kizashi"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tamayura-sotsugyou-shashin-movie-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tamayura-sotsugyou-shashin-movie-3-akogare"
+      },
+      {
+        "site": "anime-planet",
+        "id": "tamayura-sotsugyou-shashin-movie-4-tamayura-sotsugyou-shashin-movie-4tamayura-sotsugyou-shashin-movie-4-ashita"
+      },
+      {
+        "site": "anisearch",
+        "id": "6863"
+      },
+      {
+        "site": "kitsu",
+        "id": "6087"
+      },
+      {
+        "site": "livechart",
+        "id": "1204"
+      },
+      {
+        "site": "livechart",
+        "id": "1387"
+      },
+      {
+        "site": "livechart",
+        "id": "1388"
+      },
+      {
+        "site": "livechart",
+        "id": "1389"
+      },
+      {
+        "site": "livechart",
+        "id": "34"
+      },
+      {
+        "site": "livechart",
+        "id": "373"
+      },
+      {
+        "site": "livechart",
+        "id": "750"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10232"
+      },
+      {
+        "site": "notify",
+        "id": "heB7pKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2010,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/1612/132744.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1612/132744t.jpg",
+    "synonyms": [
+      "Tamayura OVA Series",
+      "たまゆら",
+      "幸福光暈",
+      "玉响"
+    ]
+  },
+  {
     "title": "ToHeart2 adnext",
     "titleTranslate": {},
     "type": "ova",
@@ -632,7 +774,8 @@
       {
         "site": "nicovideo",
         "id": "seitokai01",
-        "begin": "2013-12-18T06:00:00.000Z"
+        "begin": "2013-12-18T06:00:00.000Z",
+        "broadcast": "R/2013-12-18T06:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -748,7 +891,8 @@
       {
         "site": "nicovideo",
         "id": "otogi-bank",
-        "begin": "2011-11-30T06:00:00.000Z"
+        "begin": "2011-11-30T06:00:00.000Z",
+        "broadcast": "R/2011-11-30T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -939,7 +1083,8 @@
       {
         "site": "nicovideo",
         "id": "denyudenr",
-        "begin": "2012-03-28T06:00:00.000Z"
+        "begin": "2012-03-28T06:00:00.000Z",
+        "broadcast": "R/2012-03-28T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1118,7 +1263,8 @@
       {
         "site": "nicovideo",
         "id": "ch326",
-        "begin": "2010-07-09T03:00:00.000Z"
+        "begin": "2010-07-09T03:00:00.000Z",
+        "broadcast": "R/2010-07-09T03:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -1632,6 +1778,12 @@
         "site": "letv",
         "id": "29309",
         "begin": ""
+      },
+      {
+        "site": "abema",
+        "id": "25-37btyx385rbe",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",

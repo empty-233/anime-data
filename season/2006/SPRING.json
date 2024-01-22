@@ -233,88 +233,6 @@
     ]
   },
   {
-    "title": "Memories Off #5 とぎれたフィルム THE ANIMATION",
-    "titleTranslate": {
-      "zh-Hans": [
-        "秋之回忆5 中断的胶片"
-      ]
-    },
-    "type": "ova",
-    "lang": "ja",
-    "officialSite": "",
-    "begin": "2006-05-24T16:00:00.000Z",
-    "end": "2006-05-24T16:00:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "23157"
-      },
-      {
-        "site": "bilibili",
-        "id": "4916",
-        "begin": "2016-06-17T09:15:00.000Z",
-        "broadcast": "R/2016-06-17T09:15:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "2604"
-      },
-      {
-        "site": "anilist",
-        "id": "363"
-      },
-      {
-        "site": "anime-planet",
-        "id": "memories-off"
-      },
-      {
-        "site": "anime-planet",
-        "id": "memories-off-2nd"
-      },
-      {
-        "site": "anime-planet",
-        "id": "memories-off-3-5"
-      },
-      {
-        "site": "anisearch",
-        "id": "116"
-      },
-      {
-        "site": "kitsu",
-        "id": "330"
-      },
-      {
-        "site": "myanimelist",
-        "id": "363"
-      },
-      {
-        "site": "notify",
-        "id": "kh825KiiR"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2006,
-      "month": "05"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/4682.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/4682t.jpg",
-    "synonyms": [
-      "Memories Off #5",
-      "Memories Off #5 - Togireta Film",
-      "Memories Off #5 The Broken Off Film",
-      "Memories Off #5 Togireta Film",
-      "Memories Off #5 とぎれたフィルム",
-      "Memories Off #5 とぎれたフィルム THE ANIMATION",
-      "Memories Off 5: Togireta Film THE ANIMATION",
-      "memoff s5",
-      "memooff5"
-    ]
-  },
-  {
     "title": "いぬかみっ！",
     "titleTranslate": {
       "zh-Hans": [
@@ -1173,7 +1091,8 @@
       "Слънчоглед!",
       "ひまわりっ!",
       "ひまわりっ！",
-      "向日葵"
+      "向日葵",
+      "忍者少女"
     ]
   },
   {
@@ -2236,9 +2155,11 @@
     "synonyms": [
       "Digimon 05",
       "Digimon 5 Data Squad",
+      "Digimon 5th Season",
       "Digimon : Data Squad",
       "Digimon Data Squad",
       "Digimon: Data Squad",
+      "Digimon: Digital Monsters Season 5",
       "digimon s5",
       "digimon5",
       "digisave",
@@ -2848,6 +2769,10 @@
       {
         "site": "anime-planet",
         "id": "fushigiboshi-no-futagohime"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fushigiboshi-no-futagohime-gyu-gururi-fushigi-boshi-meguri"
       },
       {
         "site": "anisearch",
@@ -3825,6 +3750,62 @@
     ]
   },
   {
+    "title": "GUN道 MUSASHI",
+    "titleTranslate": {
+      "zh-Hans": [
+        "枪道MUSASHI",
+        "GUN道"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://web.archive.org/web/*/www.bs-i.co.jp/main/entertainment/show.php?0050",
+    "begin": "2006-04-09T00:30:00.000Z",
+    "end": "2006-10-08T01:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "35848"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gun-dou-musashi"
+      },
+      {
+        "site": "kitsu",
+        "id": "1079"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1200"
+      },
+      {
+        "site": "notify",
+        "id": "o_vx5Fimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2006,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/28267.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/28267t.jpg",
+    "synonyms": [
+      "GUN道 MUSASHI",
+      "Gun Samurai Recap",
+      "Gun-do Musashi",
+      "Gun-dou Musashi Special",
+      "Gundou Musashi",
+      "MUSASHI -GUN-",
+      "Musashi-GUNDOH",
+      "Musashi: The Way of the Gun",
+      "がんどうむさし"
+    ]
+  },
+  {
     "title": "味楽る！ミミカ",
     "titleTranslate": {},
     "type": "tv",
@@ -4517,6 +4498,10 @@
       {
         "site": "anime-planet",
         "id": "fushigiboshi-no-futagohime"
+      },
+      {
+        "site": "anime-planet",
+        "id": "fushigiboshi-no-futagohime-gyu-gururi-fushigi-boshi-meguri"
       },
       {
         "site": "anisearch",

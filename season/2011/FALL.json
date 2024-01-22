@@ -170,6 +170,10 @@
       },
       {
         "site": "livechart",
+        "id": "12458"
+      },
+      {
+        "site": "livechart",
         "id": "3719"
       },
       {
@@ -1495,7 +1499,7 @@
     "officialSite": "http://www.ikkitousen.com/",
     "begin": "2011-11-11T16:00:00.000Z",
     "broadcast": "",
-    "end": "",
+    "end": "2011-11-11T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4422,6 +4426,7 @@
       "Bakuman.",
       "Bakuman. (2011)",
       "Bakuman. 2",
+      "Bakuman. Season 2",
       "bakuman2",
       "Бакуман (2011)",
       "Бакуман 2",
@@ -5656,7 +5661,8 @@
       {
         "site": "nicovideo",
         "id": "hidannoaria",
-        "begin": "2011-09-29T15:00:00.000Z"
+        "begin": "2011-09-29T15:00:00.000Z",
+        "broadcast": "R/2011-09-29T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -5754,7 +5760,8 @@
       {
         "site": "nicovideo",
         "id": "ch60018",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -5829,7 +5836,8 @@
       {
         "site": "nicovideo",
         "id": "ch60013",
-        "begin": "2011-04-23T04:30:30.000Z"
+        "begin": "2011-04-23T04:30:30.000Z",
+        "broadcast": "R/2011-04-23T04:30:30.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -6034,6 +6042,58 @@
     "thumbnail": "https://cdn.myanimelist.net/images/anime/7/78817t.jpg",
     "synonyms": [
       "食パンミミー"
+    ]
+  },
+  {
+    "title": "やんやんマチコ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "波波咩"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://yanyan-machiko.com/",
+    "begin": "2009-12-25T16:00:00.000Z",
+    "end": "2015-08-20T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9616"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch313",
+        "begin": "2010-01-26T07:32:57.000Z"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yanyan-machiko"
+      },
+      {
+        "site": "kitsu",
+        "id": "5408"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8631"
+      },
+      {
+        "site": "notify",
+        "id": "0LymtFiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2011,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 5,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/78980.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/78980t.jpg",
+    "synonyms": [
+      "やんやんマチコ"
     ]
   }
 ]

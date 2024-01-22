@@ -119,7 +119,8 @@
       {
         "site": "nicovideo",
         "id": "hidamari_02",
-        "begin": "2014-12-18T06:00:00.000Z"
+        "begin": "2014-12-18T06:00:00.000Z",
+        "broadcast": "R/2014-12-18T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -596,7 +597,8 @@
       {
         "site": "nicovideo",
         "id": "mugen_anime",
-        "begin": "2017-06-06T06:00:00.000Z"
+        "begin": "2017-06-06T06:00:00.000Z",
+        "broadcast": "R/2017-06-06T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -722,7 +724,8 @@
       {
         "site": "nicovideo",
         "id": "natsume-anime",
-        "begin": "2015-10-01T06:00:00.000Z"
+        "begin": "2015-10-01T06:00:00.000Z",
+        "broadcast": "R/2015-10-01T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1040,7 +1043,8 @@
       {
         "site": "nicovideo",
         "id": "nogizaka-haruka",
-        "begin": "2011-10-26T06:00:00.000Z"
+        "begin": "2011-10-26T06:00:00.000Z",
+        "broadcast": "R/2011-10-26T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1145,7 +1149,14 @@
       {
         "site": "nicovideo",
         "id": "ch324",
-        "begin": "2010-06-28T15:00:00.000Z"
+        "begin": "2010-06-28T15:00:00.000Z",
+        "broadcast": "R/2010-06-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-21mnmuhwpipb",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -1302,7 +1313,8 @@
       {
         "site": "nicovideo",
         "id": "ch325",
-        "begin": "2010-06-26T15:00:00.000Z"
+        "begin": "2010-06-26T15:00:00.000Z",
+        "broadcast": "R/2010-06-26T15:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -1455,7 +1467,8 @@
       {
         "site": "nicovideo",
         "id": "koihime",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -1590,6 +1603,8 @@
     "synonyms": [
       "Koi-hime Musou",
       "Koi-hime Musō",
+      "Koihime Muso",
+      "Koihime Muso: The Last Heroine",
       "Koihime Musou",
       "Matchless Love Princess",
       "Несравненная принцесса любви",

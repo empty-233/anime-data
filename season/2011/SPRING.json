@@ -733,7 +733,6 @@
       "Dzieci, które ścigają zagubione głosy",
       "Děti, které následují hvězdy",
       "Hoshi o Ou Kodomo",
-      "Hoshi o Ō Kodomo",
       "I Bambini Che Inseguono Le Stelle",
       "I bambini che inseguono le stelle",
       "Journey to Agartha",
@@ -990,7 +989,8 @@
       {
         "site": "nicovideo",
         "id": "ch60017",
-        "begin": "2011-04-22T12:00:00.000Z"
+        "begin": "2011-04-22T12:00:00.000Z",
+        "broadcast": "R/2011-04-22T12:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1114,7 +1114,8 @@
       {
         "site": "nicovideo",
         "id": "ch60012",
-        "begin": "2011-04-11T14:30:00.000Z"
+        "begin": "2011-04-11T14:30:00.000Z",
+        "broadcast": "R/2011-04-11T14:30:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -1211,7 +1212,8 @@
       {
         "site": "nicovideo",
         "id": "ch60005",
-        "begin": "2017-01-08T04:00:00.000Z"
+        "begin": "2017-01-08T04:00:00.000Z",
+        "broadcast": "R/2017-01-08T04:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -1398,7 +1400,8 @@
       {
         "site": "nicovideo",
         "id": "ch60011",
-        "begin": "2011-04-17T14:30:00.000Z"
+        "begin": "2011-04-17T14:30:00.000Z",
+        "broadcast": "R/2011-04-17T14:30:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -1637,7 +1640,8 @@
       {
         "site": "nicovideo",
         "id": "ao-ex",
-        "begin": "2012-08-08T06:00:00.000Z"
+        "begin": "2012-08-08T06:00:00.000Z",
+        "broadcast": "R/2012-08-08T06:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -1667,6 +1671,12 @@
         "id": "26-16",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchwEaDRYxR1H8YcifaKI28m",
+        "begin": "2024-01-05T16:00:00.000Z",
+        "broadcast": "R/2024-01-05T16:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -1869,7 +1879,8 @@
       {
         "site": "nicovideo",
         "id": "prettyrhythm_n",
-        "begin": "2012-09-28T11:00:00.000Z"
+        "begin": "2012-09-28T11:00:00.000Z",
+        "broadcast": "R/2012-09-28T11:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -2151,7 +2162,8 @@
       {
         "site": "nicovideo",
         "id": "ch60015",
-        "begin": "2011-04-18T16:30:00.000Z"
+        "begin": "2011-04-18T16:30:00.000Z",
+        "broadcast": "R/2011-04-18T16:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2269,7 +2281,8 @@
       {
         "site": "nicovideo",
         "id": "ch60008",
-        "begin": "2011-04-09T14:30:00.000Z"
+        "begin": "2011-04-09T14:30:00.000Z",
+        "broadcast": "R/2011-04-09T14:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2365,124 +2378,6 @@
     ]
   },
   {
-    "title": "世界一初恋",
-    "titleTranslate": {
-      "zh-Hans": [
-        "世界第一初恋",
-        "世界第一的初恋"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://sekai-ichi.jp/",
-    "begin": "2011-04-08T16:05:00.000Z",
-    "end": "2011-06-24T16:35:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "10243"
-      },
-      {
-        "site": "anidb",
-        "id": "8113"
-      },
-      {
-        "site": "anilist",
-        "id": "9926"
-      },
-      {
-        "site": "anime-planet",
-        "id": "sekai-ichi-hatsukoi-valentine-hen"
-      },
-      {
-        "site": "anime-planet",
-        "id": "sekai-ichi-hatsukoi-worlds-greatest-first-love"
-      },
-      {
-        "site": "anime-planet",
-        "id": "sekai-ichi-hatsukoi-worlds-greatest-first-love-2"
-      },
-      {
-        "site": "anime-planet",
-        "id": "sekai-ichi-hatsukoi-worlds-greatest-first-love-proposal-hen"
-      },
-      {
-        "site": "anime-planet",
-        "id": "sekai-ichi-hatsukoi-yokozawa-takafumi-no-baai"
-      },
-      {
-        "site": "anisearch",
-        "id": "6732"
-      },
-      {
-        "site": "kitsu",
-        "id": "5944"
-      },
-      {
-        "site": "livechart",
-        "id": "1201"
-      },
-      {
-        "site": "livechart",
-        "id": "1546"
-      },
-      {
-        "site": "livechart",
-        "id": "267"
-      },
-      {
-        "site": "livechart",
-        "id": "268"
-      },
-      {
-        "site": "livechart",
-        "id": "9572"
-      },
-      {
-        "site": "myanimelist",
-        "id": "9926"
-      },
-      {
-        "site": "notify",
-        "id": "2-3GtKiig"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2011,
-      "month": "04"
-    },
-    "status": "FINISHED",
-    "episodes": 2,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/35863.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/35863t.jpg",
-    "synonyms": [
-      "Onodera Ritsu no Baai",
-      "Sekai Ichi Hatsukoi: The World`s Greatest First Love OVAs",
-      "Sekai Ichi Hatsukoi: World’s Greatest First Love OVA",
-      "Sekai'ichi Hatsukoi",
-      "Sekai-ichi Hatsukoi",
-      "Sekai-ichi Hatsukoi Episode 0",
-      "Sekai-ichi Hatsukoi Episode 12.5",
-      "Sekai-ichi Hatsukoi OVA",
-      "Sekai-ichi Hatsukoi: Onodera Ritsu no Baai",
-      "Sekai-ichi Hatsukoi: World's Greatest First Love OVA",
-      "Sekaiichi Hatsukoi",
-      "Sekaiichi Hatsukoi Episode 0",
-      "Sekaiichi Hatsukoi Episode 12.5",
-      "Sekaiichi Hatsukoi OAV",
-      "Sekaiichi Hatsukoi: The World’s Greatest First Love OVA",
-      "Sekaiichi Hatsukoi: Yoshino Chiaki no Baai",
-      "Sekaīchi Hatsukoi",
-      "World`s Greatest First Love",
-      "Yoshino Chiaki no Baai",
-      "sekakoi",
-      "セカコイ",
-      "世界一初恋",
-      "世界一初恋 OVA"
-    ]
-  },
-  {
     "title": "戦国乙女～桃色パラドックス～",
     "titleTranslate": {
       "zh-Hans": [
@@ -2545,12 +2440,19 @@
       {
         "site": "nicovideo",
         "id": "kaminomi2",
-        "begin": "2013-07-12T06:00:00.000Z"
+        "begin": "2013-07-12T06:00:00.000Z",
+        "broadcast": "R/2013-07-12T06:00:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "785910189b1511e0a046",
         "begin": "2012-11-07T16:18:02.000Z"
+      },
+      {
+        "site": "abema",
+        "id": "11-17",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -2730,7 +2632,8 @@
       {
         "site": "nicovideo",
         "id": "ch60019",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -2820,7 +2723,8 @@
       {
         "site": "nicovideo",
         "id": "ch60009",
-        "begin": "2011-04-10T13:30:00.000Z"
+        "begin": "2011-04-10T13:30:00.000Z",
+        "broadcast": "R/2011-04-10T13:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2897,10 +2801,6 @@
       {
         "site": "anidb",
         "id": "9471"
-      },
-      {
-        "site": "anilist",
-        "id": "10775"
       },
       {
         "site": "anilist",
@@ -3047,7 +2947,8 @@
       {
         "site": "nicovideo",
         "id": "ch60022",
-        "begin": "2011-05-20T17:30:00.000Z"
+        "begin": "2011-05-20T17:30:00.000Z",
+        "broadcast": "R/2011-05-20T17:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -3196,7 +3097,8 @@
       {
         "site": "nicovideo",
         "id": "ch60014",
-        "begin": "2011-04-11T14:30:00.000Z"
+        "begin": "2011-04-11T14:30:00.000Z",
+        "broadcast": "R/2011-04-11T14:30:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -3339,7 +3241,14 @@
       {
         "site": "nicovideo",
         "id": "tigerandbunny",
-        "begin": "2020-05-16T03:00:00.000Z"
+        "begin": "2020-05-16T03:00:00.000Z",
+        "broadcast": "R/2020-05-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-11iiskggehbc",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -4226,7 +4135,8 @@
       {
         "site": "nicovideo",
         "id": "kaiji2_anime",
-        "begin": "2014-04-01T06:00:00.000Z"
+        "begin": "2014-04-01T06:00:00.000Z",
+        "broadcast": "R/2014-04-01T06:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -5173,7 +5083,8 @@
       {
         "site": "nicovideo",
         "id": "seitokai_banngaihen",
-        "begin": "2017-06-14T03:00:00.000Z"
+        "begin": "2017-06-14T03:00:00.000Z",
+        "broadcast": "R/2017-06-14T03:00:00.000Z/P7D"
       },
       {
         "site": "anilist",
@@ -5516,7 +5427,7 @@
     "officialSite": "http://www.nhk.or.jp/kids/program/pakkororin.html",
     "begin": "2011-03-27T23:24:00.000Z",
     "broadcast": "R/2018-10-01T23:24:00.000Z/P7D",
-    "end": "",
+    "end": "2011-03-27T23:24:00.000Z",
     "sites": [
       {
         "site": "bangumi",
@@ -5730,6 +5641,119 @@
       "べるぜばぶ",
       "べるぜバブ",
       "べるぜバブ 走れ！ベル坊刑事！！"
+    ]
+  },
+  {
+    "title": "アマガミSS",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圣诞之吻SS",
+        "甜蜜吻痕SS"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/anime/amagami/1st/",
+    "begin": "2010-07-01T16:40:00.000Z",
+    "end": "2014-08-29T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "jryHBW3TQ4HkYso",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "5656"
+      },
+      {
+        "site": "bilibili",
+        "id": "815",
+        "begin": "2010-07-01T16:00:00.000Z",
+        "broadcast": "R/2011-03-26T03:13:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-178",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anilist",
+        "id": "8676"
+      },
+      {
+        "site": "anime-planet",
+        "id": "amagami-ss"
+      },
+      {
+        "site": "anime-planet",
+        "id": "amagami-ss-plus"
+      },
+      {
+        "site": "anime-planet",
+        "id": "amagami-ss-plus-picture-drama"
+      },
+      {
+        "site": "anime-planet",
+        "id": "amagami-ss-plus-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "amagami-ss-special"
+      },
+      {
+        "site": "anisearch",
+        "id": "6265"
+      },
+      {
+        "site": "kitsu",
+        "id": "5435"
+      },
+      {
+        "site": "livechart",
+        "id": "1140"
+      },
+      {
+        "site": "livechart",
+        "id": "1563"
+      },
+      {
+        "site": "livechart",
+        "id": "2280"
+      },
+      {
+        "site": "livechart",
+        "id": "3260"
+      },
+      {
+        "site": "livechart",
+        "id": "3263"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8676"
+      },
+      {
+        "site": "notify",
+        "id": "ds_mtKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2011,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/1892/121810.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1892/121810t.jpg",
+    "synonyms": [
+      "Amagami SS",
+      "Amagami SS Short Animations",
+      "あまがみえすえす",
+      "アマガミSS",
+      "アマガミSS 作ショートアニメーション"
     ]
   },
   {

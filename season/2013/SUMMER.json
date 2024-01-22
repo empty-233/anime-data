@@ -26,7 +26,7 @@
         "site": "nicovideo",
         "id": "land-of-the-lustrous",
         "begin": "2017-10-10T15:00:00.000Z",
-        "broadcast": "R/2017-09-26T03:00:00.000Z/P7D"
+        "broadcast": "R/2017-10-10T15:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -154,6 +154,10 @@
       {
         "site": "kitsu",
         "id": "12127"
+      },
+      {
+        "site": "kitsu",
+        "id": "48297"
       },
       {
         "site": "livechart",
@@ -465,6 +469,10 @@
       {
         "site": "kitsu",
         "id": "12127"
+      },
+      {
+        "site": "kitsu",
+        "id": "48297"
       },
       {
         "site": "livechart",
@@ -1281,7 +1289,8 @@
       {
         "site": "nicovideo",
         "id": "kakusen-kun",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -1352,7 +1361,8 @@
       {
         "site": "nicovideo",
         "id": "servantservice",
-        "begin": "2013-07-09T14:30:00.000Z"
+        "begin": "2013-07-09T14:30:00.000Z",
+        "broadcast": "R/2013-07-09T14:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1413,7 +1423,8 @@
       {
         "site": "nicovideo",
         "id": "inuhasa",
-        "begin": "2013-07-04T14:30:00.000Z"
+        "begin": "2013-07-04T14:30:00.000Z",
+        "broadcast": "R/2013-07-04T14:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1466,13 +1477,20 @@
       {
         "site": "nicovideo",
         "id": "kinmosa",
-        "begin": "2013-07-11T16:00:00.000Z"
+        "begin": "2013-07-11T16:00:00.000Z",
+        "broadcast": "R/2013-07-11T16:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
         "id": "443",
         "begin": "2013-07-05T16:00:00.000Z",
         "broadcast": "R/2018-09-07T02:20:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-17mhiuakxewg",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -1569,7 +1587,8 @@
       {
         "site": "nicovideo",
         "id": "kiminoirumachi",
-        "begin": "2013-07-14T14:30:00.000Z"
+        "begin": "2013-07-14T14:30:00.000Z",
+        "broadcast": "R/2013-07-14T14:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1690,7 +1709,8 @@
       {
         "site": "nicovideo",
         "id": "rikoran3",
-        "begin": "2013-07-11T16:00:00.000Z"
+        "begin": "2013-07-11T16:00:00.000Z",
+        "broadcast": "R/2013-07-11T16:00:00.000Z/P7D"
       },
       {
         "site": "letv",
@@ -1831,12 +1851,19 @@
       {
         "site": "nicovideo",
         "id": "kaminomi3",
-        "begin": "2013-07-13T14:30:00.000Z"
+        "begin": "2013-07-13T14:30:00.000Z",
+        "broadcast": "R/2013-07-13T14:30:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "fce4a04acfe311e2be40",
         "begin": "2013-07-06T07:54:07.000Z"
+      },
+      {
+        "site": "abema",
+        "id": "11-18",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -1983,7 +2010,8 @@
       {
         "site": "nicovideo",
         "id": "watamote",
-        "begin": "2013-07-13T16:00:00.000Z"
+        "begin": "2013-07-13T16:00:00.000Z",
+        "broadcast": "R/2013-07-13T16:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -2179,7 +2207,8 @@
       {
         "site": "nicovideo",
         "id": "fantasistadoll",
-        "begin": "2013-07-07T15:30:00.000Z"
+        "begin": "2013-07-07T15:30:00.000Z",
+        "broadcast": "R/2013-07-07T15:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2241,7 +2270,8 @@
       {
         "site": "nicovideo",
         "id": "prisma-illya",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "gamer",
@@ -2589,7 +2619,8 @@
       {
         "site": "nicovideo",
         "id": "geneitaiyo",
-        "begin": "2013-07-12T15:00:00.000Z"
+        "begin": "2013-07-12T15:00:00.000Z",
+        "broadcast": "R/2013-07-12T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2682,7 +2713,8 @@
       {
         "site": "nicovideo",
         "id": "haremking2",
-        "begin": "2013-07-11T16:30:00.000Z"
+        "begin": "2013-07-11T16:30:00.000Z",
+        "broadcast": "R/2013-07-11T16:30:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -2866,7 +2898,8 @@
       {
         "site": "nicovideo",
         "id": "kami-nai",
-        "begin": "2013-07-26T03:00:00.000Z"
+        "begin": "2013-07-26T03:00:00.000Z",
+        "broadcast": "R/2013-07-26T03:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2966,7 +2999,8 @@
       {
         "site": "nicovideo",
         "id": "stella-c3bu",
-        "begin": "2013-07-16T15:30:00.000Z"
+        "begin": "2013-07-16T15:30:00.000Z",
+        "broadcast": "R/2013-07-16T15:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -3030,7 +3064,8 @@
       {
         "site": "nicovideo",
         "id": "love-lab",
-        "begin": "2013-07-14T14:00:00.000Z"
+        "begin": "2013-07-14T14:00:00.000Z",
+        "broadcast": "R/2013-07-14T14:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -3091,7 +3126,8 @@
       {
         "site": "nicovideo",
         "id": "danganronpa-anime",
-        "begin": "2013-07-06T16:30:00.000Z"
+        "begin": "2013-07-06T16:30:00.000Z",
+        "broadcast": "R/2013-07-06T16:30:00.000Z/P7D"
       },
       {
         "site": "sohu",
@@ -3255,7 +3291,8 @@
       {
         "site": "nicovideo",
         "id": "milky-holmes-futari",
-        "begin": "2013-07-15T15:00:00.000Z"
+        "begin": "2013-07-15T15:00:00.000Z",
+        "broadcast": "R/2013-07-15T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -3511,7 +3548,8 @@
       {
         "site": "nicovideo",
         "id": "gatchaman-crowds",
-        "begin": "2015-06-28T15:30:00.000Z"
+        "begin": "2015-06-28T15:30:00.000Z",
+        "broadcast": "R/2015-06-28T15:30:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -3668,7 +3706,8 @@
       {
         "site": "nicovideo",
         "id": "makai-ouji",
-        "begin": "2013-07-08T14:00:00.000Z"
+        "begin": "2013-07-08T14:00:00.000Z",
+        "broadcast": "R/2013-07-08T14:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -3724,7 +3763,8 @@
       {
         "site": "nicovideo",
         "id": "bc-anime",
-        "begin": "2013-07-04T13:30:00.000Z"
+        "begin": "2013-07-04T13:30:00.000Z",
+        "broadcast": "R/2013-07-04T13:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -4178,7 +4218,8 @@
       {
         "site": "nicovideo",
         "id": "kadendanshi",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "youku",
@@ -4574,6 +4615,7 @@
     "thumbnail": "https://cdn.myanimelist.net/images/anime/8/52353t.jpg",
     "synonyms": [
       "As Asas do Vento",
+      "Det Blåser upp en Vind",
       "Det blåser upp en vind",
       "El Viento Se Levanta",
       "El Viento se Levanta",
@@ -4590,6 +4632,7 @@
       "Tuuli nousee",
       "Vidas ao Vento",
       "Vidas ao vento",
+      "Vinden Stiger",
       "Vinden stiger",
       "Wie der Wind sich hebt",
       "Zrywa się wiatr",
@@ -5259,6 +5302,98 @@
       "ぷちっとがるがんてぃあ",
       "ぷちっとがるがんてぃあ 特別企画 - 〇〇のガルガンティア",
       "ぷちっとがるがんてぃあ: 特別企画 - 〇〇のガルガンティア"
+    ]
+  },
+  {
+    "title": "AMNESIA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "失忆症"
+      ],
+      "zh-Hant": [
+        "AMNESIA 失憶症"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.anime-amnesia.com/",
+    "begin": "2013-01-07T14:30:00.000Z",
+    "end": "2013-03-25T15:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "46452"
+      },
+      {
+        "site": "nicovideo",
+        "id": "amnesia",
+        "begin": "2013-01-09T16:30:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "638",
+        "begin": "2013-01-07T16:00:00.000Z",
+        "broadcast": "R/2016-01-28T09:16:00.000Z/P7D",
+        "comment": "SP: 5490"
+      },
+      {
+        "site": "qq",
+        "id": "9/9ce3zy2dfy7ts6r",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhl4v3t",
+        "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "57195",
+        "begin": "2020-09-07T07:00:00.000Z",
+        "broadcast": "R/2020-09-07T07:00:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "15085"
+      },
+      {
+        "site": "anime-planet",
+        "id": "amnesia"
+      },
+      {
+        "site": "anisearch",
+        "id": "7989"
+      },
+      {
+        "site": "kitsu",
+        "id": "7209"
+      },
+      {
+        "site": "livechart",
+        "id": "873"
+      },
+      {
+        "site": "myanimelist",
+        "id": "15085"
+      },
+      {
+        "site": "notify",
+        "id": "azYdtFmiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2013,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1328/128739.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1328/128739t.jpg",
+    "synonyms": [
+      "AMNESIA",
+      "AMNESIA OVA",
+      "あむねしあ"
     ]
   },
   {

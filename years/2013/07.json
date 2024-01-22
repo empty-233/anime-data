@@ -40,7 +40,8 @@
       {
         "site": "nicovideo",
         "id": "kakusen-kun",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -107,7 +108,8 @@
       {
         "site": "nicovideo",
         "id": "symphogear-g",
-        "begin": "2013-07-07T15:00:00.000Z"
+        "begin": "2013-07-07T15:00:00.000Z",
+        "broadcast": "R/2013-07-07T15:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -153,6 +155,10 @@
       {
         "site": "livechart",
         "id": "1161"
+      },
+      {
+        "site": "livechart",
+        "id": "12434"
       },
       {
         "site": "livechart",
@@ -242,7 +248,8 @@
       {
         "site": "nicovideo",
         "id": "nep-anime",
-        "begin": "2013-07-19T14:30:00.000Z"
+        "begin": "2013-07-19T14:30:00.000Z",
+        "broadcast": "R/2013-07-19T14:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -351,7 +358,8 @@
       {
         "site": "nicovideo",
         "id": "servantservice",
-        "begin": "2013-07-09T14:30:00.000Z"
+        "begin": "2013-07-09T14:30:00.000Z",
+        "broadcast": "R/2013-07-09T14:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -412,7 +420,8 @@
       {
         "site": "nicovideo",
         "id": "inuhasa",
-        "begin": "2013-07-04T14:30:00.000Z"
+        "begin": "2013-07-04T14:30:00.000Z",
+        "broadcast": "R/2013-07-04T14:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -465,13 +474,20 @@
       {
         "site": "nicovideo",
         "id": "kinmosa",
-        "begin": "2013-07-11T16:00:00.000Z"
+        "begin": "2013-07-11T16:00:00.000Z",
+        "broadcast": "R/2013-07-11T16:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
         "id": "443",
         "begin": "2013-07-05T16:00:00.000Z",
         "broadcast": "R/2018-09-07T02:20:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-17mhiuakxewg",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -568,7 +584,8 @@
       {
         "site": "nicovideo",
         "id": "kiminoirumachi",
-        "begin": "2013-07-14T14:30:00.000Z"
+        "begin": "2013-07-14T14:30:00.000Z",
+        "broadcast": "R/2013-07-14T14:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -689,7 +706,8 @@
       {
         "site": "nicovideo",
         "id": "rikoran3",
-        "begin": "2013-07-11T16:00:00.000Z"
+        "begin": "2013-07-11T16:00:00.000Z",
+        "broadcast": "R/2013-07-11T16:00:00.000Z/P7D"
       },
       {
         "site": "letv",
@@ -830,12 +848,19 @@
       {
         "site": "nicovideo",
         "id": "kaminomi3",
-        "begin": "2013-07-13T14:30:00.000Z"
+        "begin": "2013-07-13T14:30:00.000Z",
+        "broadcast": "R/2013-07-13T14:30:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "fce4a04acfe311e2be40",
         "begin": "2013-07-06T07:54:07.000Z"
+      },
+      {
+        "site": "abema",
+        "id": "11-18",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -982,7 +1007,8 @@
       {
         "site": "nicovideo",
         "id": "watamote",
-        "begin": "2013-07-13T16:00:00.000Z"
+        "begin": "2013-07-13T16:00:00.000Z",
+        "broadcast": "R/2013-07-13T16:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -1178,7 +1204,8 @@
       {
         "site": "nicovideo",
         "id": "fantasistadoll",
-        "begin": "2013-07-07T15:30:00.000Z"
+        "begin": "2013-07-07T15:30:00.000Z",
+        "broadcast": "R/2013-07-07T15:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1233,7 +1260,8 @@
       {
         "site": "nicovideo",
         "id": "iwatobi-sc",
-        "begin": "2013-07-08T13:30:00.000Z"
+        "begin": "2013-07-08T13:30:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -1421,7 +1449,8 @@
       {
         "site": "nicovideo",
         "id": "prisma-illya",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "gamer",
@@ -1769,7 +1798,8 @@
       {
         "site": "nicovideo",
         "id": "geneitaiyo",
-        "begin": "2013-07-12T15:00:00.000Z"
+        "begin": "2013-07-12T15:00:00.000Z",
+        "broadcast": "R/2013-07-12T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1862,7 +1892,8 @@
       {
         "site": "nicovideo",
         "id": "haremking2",
-        "begin": "2013-07-11T16:30:00.000Z"
+        "begin": "2013-07-11T16:30:00.000Z",
+        "broadcast": "R/2013-07-11T16:30:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -2046,7 +2077,8 @@
       {
         "site": "nicovideo",
         "id": "kami-nai",
-        "begin": "2013-07-26T03:00:00.000Z"
+        "begin": "2013-07-26T03:00:00.000Z",
+        "broadcast": "R/2013-07-26T03:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2146,7 +2178,8 @@
       {
         "site": "nicovideo",
         "id": "stella-c3bu",
-        "begin": "2013-07-16T15:30:00.000Z"
+        "begin": "2013-07-16T15:30:00.000Z",
+        "broadcast": "R/2013-07-16T15:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2210,7 +2243,8 @@
       {
         "site": "nicovideo",
         "id": "love-lab",
-        "begin": "2013-07-14T14:00:00.000Z"
+        "begin": "2013-07-14T14:00:00.000Z",
+        "broadcast": "R/2013-07-14T14:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2271,7 +2305,8 @@
       {
         "site": "nicovideo",
         "id": "danganronpa-anime",
-        "begin": "2013-07-06T16:30:00.000Z"
+        "begin": "2013-07-06T16:30:00.000Z",
+        "broadcast": "R/2013-07-06T16:30:00.000Z/P7D"
       },
       {
         "site": "sohu",
@@ -2435,7 +2470,8 @@
       {
         "site": "nicovideo",
         "id": "milky-holmes-futari",
-        "begin": "2013-07-15T15:00:00.000Z"
+        "begin": "2013-07-15T15:00:00.000Z",
+        "broadcast": "R/2013-07-15T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2596,7 +2632,8 @@
       {
         "site": "nicovideo",
         "id": "kitakubu",
-        "begin": "2014-05-22T06:00:00.000Z"
+        "begin": "2014-05-22T06:00:00.000Z",
+        "broadcast": "R/2014-05-22T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -2760,7 +2797,8 @@
       {
         "site": "nicovideo",
         "id": "gatchaman-crowds",
-        "begin": "2015-06-28T15:30:00.000Z"
+        "begin": "2015-06-28T15:30:00.000Z",
+        "broadcast": "R/2015-06-28T15:30:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -2917,7 +2955,8 @@
       {
         "site": "nicovideo",
         "id": "makai-ouji",
-        "begin": "2013-07-08T14:00:00.000Z"
+        "begin": "2013-07-08T14:00:00.000Z",
+        "broadcast": "R/2013-07-08T14:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -2973,7 +3012,8 @@
       {
         "site": "nicovideo",
         "id": "bc-anime",
-        "begin": "2013-07-04T13:30:00.000Z"
+        "begin": "2013-07-04T13:30:00.000Z",
+        "broadcast": "R/2013-07-04T13:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -3427,7 +3467,8 @@
       {
         "site": "nicovideo",
         "id": "kadendanshi",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "youku",
@@ -3499,7 +3540,8 @@
       {
         "site": "nicovideo",
         "id": "karanokyoukai",
-        "begin": "2013-07-05T15:30:00.000Z"
+        "begin": "2013-07-05T15:30:00.000Z",
+        "broadcast": "R/2018-07-19T09:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -3909,6 +3951,7 @@
     "thumbnail": "https://cdn.myanimelist.net/images/anime/8/52353t.jpg",
     "synonyms": [
       "As Asas do Vento",
+      "Det Blåser upp en Vind",
       "Det blåser upp en vind",
       "El Viento Se Levanta",
       "El Viento se Levanta",
@@ -3925,6 +3968,7 @@
       "Tuuli nousee",
       "Vidas ao Vento",
       "Vidas ao vento",
+      "Vinden Stiger",
       "Vinden stiger",
       "Wie der Wind sich hebt",
       "Zrywa się wiatr",

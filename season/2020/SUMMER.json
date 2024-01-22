@@ -363,6 +363,12 @@
         "broadcast": "R/2020-09-16T16:00:00.000Z/P7D"
       },
       {
+        "site": "bilibili",
+        "id": "28235728",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "12138"
       },
@@ -984,7 +990,7 @@
         "site": "nicovideo",
         "id": "uzakichan",
         "begin": "2020-07-15T13:00:00.000Z",
-        "broadcast": "R/2019-02-07T03:00:00.000Z/P7D"
+        "broadcast": "R/2020-07-15T13:00:00.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo_tw",
@@ -2092,7 +2098,7 @@
         "site": "nicovideo",
         "id": "gibiate-anime",
         "begin": "2020-07-16T03:00:00.000Z",
-        "broadcast": "R/2021-09-10T15:00:00.000Z/P7D"
+        "broadcast": "R/2020-07-16T03:00:00.000Z/P7D"
       },
       {
         "site": "mytv",
@@ -2508,6 +2514,10 @@
       {
         "site": "myanimelist",
         "id": "57184"
+      },
+      {
+        "site": "notify",
+        "id": "9rkTydHIg"
       }
     ],
     "animeSeason": {
@@ -3002,7 +3012,7 @@
         "site": "nicovideo",
         "id": "anime-seton",
         "begin": "2020-01-09T15:30:00.000Z",
-        "broadcast": "R/2020-01-06T11:00:00.000Z/P7D"
+        "broadcast": "R/2020-01-09T15:30:00.000Z/P7D"
       },
       {
         "site": "acfun",
@@ -3108,7 +3118,8 @@
       {
         "site": "nicovideo",
         "id": "sao-alicization-wou",
-        "begin": "2019-10-05T15:00:00.000Z"
+        "begin": "2019-10-05T15:00:00.000Z",
+        "broadcast": "R/2019-10-05T15:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -3326,7 +3337,8 @@
       {
         "site": "nicovideo",
         "id": "granbluefantasy2",
-        "begin": "2019-10-07T03:00:00.000Z"
+        "begin": "2019-10-07T03:00:00.000Z",
+        "broadcast": "R/2019-10-07T03:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -3407,7 +3419,8 @@
       {
         "site": "nicovideo",
         "id": "pipecat-kabukicho",
-        "begin": "2019-10-19T04:00:00.000Z"
+        "begin": "2019-10-19T04:00:00.000Z",
+        "broadcast": "R/2019-10-19T04:00:00.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo_tw",
@@ -3506,7 +3519,8 @@
       {
         "site": "nicovideo",
         "id": "nogunslife",
-        "begin": "2020-01-22T03:00:00.000Z"
+        "begin": "2020-01-22T03:00:00.000Z",
+        "broadcast": "R/2020-01-22T03:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",

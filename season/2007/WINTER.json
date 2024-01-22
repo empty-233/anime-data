@@ -65,7 +65,14 @@
       {
         "site": "nicovideo",
         "id": "ch324",
-        "begin": "2010-06-28T15:00:00.000Z"
+        "begin": "2010-06-28T15:00:00.000Z",
+        "broadcast": "R/2010-06-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-21mnmuhwpipb",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -1556,10 +1563,6 @@
       },
       {
         "site": "kitsu",
-        "id": "11688"
-      },
-      {
-        "site": "kitsu",
         "id": "1375"
       },
       {
@@ -1593,6 +1596,10 @@
       {
         "site": "kitsu",
         "id": "7426"
+      },
+      {
+        "site": "kitsu",
+        "id": "8269"
       },
       {
         "site": "livechart",
@@ -2581,6 +2588,10 @@
       {
         "site": "anisearch",
         "id": "1407"
+      },
+      {
+        "site": "anisearch",
+        "id": "18845"
       },
       {
         "site": "anisearch",

@@ -276,6 +276,92 @@
     ]
   },
   {
+    "title": "クイズマジックアカデミー ～オリジナルアニメーション～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "问答魔法学院"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.konami.jp/products/qma_ova/",
+    "begin": "2008-09-12T16:00:00.000Z",
+    "end": "2010-02-11T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "4663"
+      },
+      {
+        "site": "pptv",
+        "id": "KQUAfuZMvPpd20M",
+        "begin": ""
+      },
+      {
+        "site": "letv",
+        "id": "18248",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5460",
+        "begin": "2008-09-11T16:00:01.000Z",
+        "broadcast": "R/2016-08-22T04:10:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "7255"
+      },
+      {
+        "site": "anilist",
+        "id": "7549"
+      },
+      {
+        "site": "anime-planet",
+        "id": "quiz-magic-academy-the-original-animation-2"
+      },
+      {
+        "site": "anisearch",
+        "id": "5840"
+      },
+      {
+        "site": "kitsu",
+        "id": "5025"
+      },
+      {
+        "site": "livechart",
+        "id": "7804"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7549"
+      },
+      {
+        "site": "notify",
+        "id": "RvZktKiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2008,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/13459.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/13459t.jpg",
+    "synonyms": [
+      "QMA",
+      "QUIZ MAGIC ACADEMY ~The Original Animation~",
+      "Quiz Magic Academy",
+      "Quiz Magic Academy The Original Animation",
+      "クイズマジックアカデミー ~The Original Animation~",
+      "クイズマジックアカデミー ~オリジナルアニメーション~",
+      "クイズマジックアカデミー ～オリジナルアニメーション～",
+      "问答魔法学院"
+    ]
+  },
+  {
     "title": "劇場版 天元突破グレンラガン 紅蓮篇",
     "titleTranslate": {
       "zh-Hans": [
@@ -298,7 +384,8 @@
       {
         "site": "nicovideo",
         "id": "gurren-lagann-movie-gurren",
-        "begin": "2018-05-31T15:00:00.000Z"
+        "begin": "2018-05-31T15:00:00.000Z",
+        "broadcast": "R/2018-05-31T15:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -317,6 +404,12 @@
         "id": "24789198",
         "begin": "2014-08-01T11:16:00.000Z",
         "broadcast": "R/2014-08-01T11:16:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-48",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -1096,7 +1189,8 @@
       {
         "site": "nicovideo",
         "id": "natsume-anime",
-        "begin": "2015-10-01T06:00:00.000Z"
+        "begin": "2015-10-01T06:00:00.000Z",
+        "broadcast": "R/2015-10-01T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1414,7 +1508,8 @@
       {
         "site": "nicovideo",
         "id": "nogizaka-haruka",
-        "begin": "2011-10-26T06:00:00.000Z"
+        "begin": "2011-10-26T06:00:00.000Z",
+        "broadcast": "R/2011-10-26T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1520,7 +1615,8 @@
       {
         "site": "nicovideo",
         "id": "ch325",
-        "begin": "2010-06-26T15:00:00.000Z"
+        "begin": "2010-06-26T15:00:00.000Z",
+        "broadcast": "R/2010-06-26T15:00:00.000Z/P7D"
       },
       {
         "site": "anidb",
@@ -1673,7 +1769,8 @@
       {
         "site": "nicovideo",
         "id": "koihime",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anidb",
@@ -1808,6 +1905,8 @@
     "synonyms": [
       "Koi-hime Musou",
       "Koi-hime Musō",
+      "Koihime Muso",
+      "Koihime Muso: The Last Heroine",
       "Koihime Musou",
       "Matchless Love Princess",
       "Несравненная принцесса любви",

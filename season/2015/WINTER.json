@@ -1,5 +1,84 @@
 [
   {
+    "title": "オルタンシア・サーガ",
+    "titleTranslate": {
+      "en": [
+        "Hortensia Saga"
+      ],
+      "zh-Hans": [
+        "苍之骑士团"
+      ],
+      "zh-Hant": [
+        "蒼之騎士團"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://animehorsaga.jp/",
+    "begin": "2021-01-06T15:30:00.000Z",
+    "broadcast": "R/2021-01-06T15:30:00.000Z/P7D",
+    "end": "2021-03-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "297370"
+      },
+      {
+        "site": "bilibili",
+        "id": "28231926",
+        "begin": "2021-01-06T17:00:00.000Z",
+        "broadcast": "R/2021-01-06T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "animehorsaga",
+        "begin": "2021-01-09T03:00:00.000Z",
+        "broadcast": "R/2021-01-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "109385",
+        "begin": "2021-01-06T17:00:00.000Z",
+        "broadcast": "R/2021-01-06T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28233480",
+        "begin": "2021-01-06T17:00:00.000Z",
+        "broadcast": "R/2021-01-06T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "kitsu",
+        "id": "43568"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40961"
+      },
+      {
+        "site": "notify",
+        "id": "YhMnAWuWg"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2015,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 7,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/85276.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/85276t.jpg",
+    "synonyms": [
+      "Daisanbu Mirai e no Tsubasa",
+      "Hortensia Saga: Aoi no Kishidan",
+      "Uketsugare Shimono-hen",
+      "オルタンシア・サーガ",
+      "オルタンシア・サーガ-蒼の騎士団-"
+    ]
+  },
+  {
     "title": "昭和元禄落語心中",
     "titleTranslate": {
       "zh-Hans": [
@@ -271,6 +350,10 @@
       {
         "site": "anisearch",
         "id": "8761"
+      },
+      {
+        "site": "kitsu",
+        "id": "41027"
       },
       {
         "site": "kitsu",
@@ -1105,7 +1188,7 @@
         "site": "nicovideo",
         "id": "mental-anime",
         "begin": "2015-02-12T20:00:00.000Z",
-        "broadcast": "R/2014-12-26T06:00:00.000Z/P7D"
+        "broadcast": "R/2015-02-12T20:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1123,6 +1206,8 @@
       "Anime de Wakaru Shinryōnaika",
       "Anime de Wakaru: Shinryounaika",
       "Comical Psychosomatic Medicine",
+      "Explained Through Anime: Psychosomatic Medicine",
+      "Psychosomatic Medicine Explained Through Anime",
       "あにめでわかるしんりょうないか",
       "アニメで分かる心療内科",
       "애니메이션으로 배우는 심신의학"

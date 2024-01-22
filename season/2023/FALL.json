@@ -17,6 +17,24 @@
       {
         "site": "bangumi",
         "id": "469072"
+      },
+      {
+        "site": "nicovideo",
+        "id": "adamkun",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0097523",
+        "begin": "2024-01-07T16:00:00.000Z",
+        "broadcast": "R/2024-01-07T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "643-3",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -61,6 +79,139 @@
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1021/140098t.jpg",
     "synonyms": [
       "カッラフルなエッッブリデイ"
+    ]
+  },
+  {
+    "title": "ポケモンコンシェルジュ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宝可梦 礼宾部"
+      ],
+      "zh-Hant": [
+        "寶可夢 禮賓部"
+      ],
+      "en": [
+        "Pokémon Concierge"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-12-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-12-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "422154"
+      },
+      {
+        "site": "netflix",
+        "id": "81186864",
+        "begin": "2023-12-28T00:00:00.000Z",
+        "broadcast": "R/2023-12-28T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "230"
+      },
+      {
+        "site": "anilist",
+        "id": "158871"
+      },
+      {
+        "site": "anime-planet",
+        "id": "pokemon"
+      },
+      {
+        "site": "livechart",
+        "id": "3702"
+      },
+      {
+        "site": "livechart",
+        "id": "3816"
+      },
+      {
+        "site": "livechart",
+        "id": "3979"
+      },
+      {
+        "site": "livechart",
+        "id": "3992"
+      },
+      {
+        "site": "livechart",
+        "id": "4045"
+      },
+      {
+        "site": "livechart",
+        "id": "4466"
+      },
+      {
+        "site": "livechart",
+        "id": "4505"
+      },
+      {
+        "site": "livechart",
+        "id": "5008"
+      },
+      {
+        "site": "livechart",
+        "id": "5217"
+      },
+      {
+        "site": "livechart",
+        "id": "5332"
+      },
+      {
+        "site": "livechart",
+        "id": "5345"
+      },
+      {
+        "site": "livechart",
+        "id": "5371"
+      },
+      {
+        "site": "livechart",
+        "id": "5627"
+      },
+      {
+        "site": "livechart",
+        "id": "5641"
+      },
+      {
+        "site": "livechart",
+        "id": "8945"
+      },
+      {
+        "site": "myanimelist",
+        "id": "527"
+      },
+      {
+        "site": "notify",
+        "id": "sv1ocKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2023,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/1064/139658.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1064/139658t.jpg",
+    "synonyms": [
+      "Die Pokémon-Concierge",
+      "Konsjerżka Pokémonów",
+      "La concierge Pokémon",
+      "La conserje Pokémon",
+      "La réceptionniste Pokémon",
+      "Pocket Monsters Concierge",
+      "Pokémon Concierge",
+      "Pokémon Portvakt",
+      "ポケモンコンシェルジュ"
     ]
   },
   {
@@ -328,146 +479,6 @@
     ]
   },
   {
-    "title": "葬送のフリーレン",
-    "titleTranslate": {
-      "zh-Hans": [
-        "葬送的芙莉莲"
-      ],
-      "zh-Hant": [
-        "葬送的芙莉蓮"
-      ],
-      "en": [
-        "Frieren: Beyond the Journey's End"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://frieren-anime.jp/",
-    "begin": "2023-10-06T13:30:00.000Z",
-    "broadcast": "R/2023-10-06T13:30:00.000Z/P7D",
-    "end": "",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "400602"
-      },
-      {
-        "site": "netflix",
-        "id": "81726714",
-        "begin": "2023-09-28T16:00:00.000Z",
-        "broadcast": "R/2023-09-28T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "viu",
-        "id": "2247874",
-        "begin": "2023-09-28T16:00:00.000Z",
-        "broadcast": "R/2023-09-28T16:00:00.000Z/P7D",
-        "comment": "粵語版: 2262136"
-      },
-      {
-        "site": "gamer",
-        "id": "127137",
-        "begin": "2023-09-29T14:30:00.000Z",
-        "broadcast": "R/2023-09-29T14:30:00.000Z/P7D"
-      },
-      {
-        "site": "bilibili",
-        "id": "21087073",
-        "begin": "2023-10-24T12:00:01.000Z",
-        "broadcast": "R/2023-10-24T12:00:01.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "19-171",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "anilist",
-        "id": "169811"
-      },
-      {
-        "site": "anilist",
-        "id": "170068"
-      },
-      {
-        "site": "anime-planet",
-        "id": "sousou-no-frieren-mini-anime-maru-maru-no-mahou"
-      },
-      {
-        "site": "anime-planet",
-        "id": "yoasobi-yuusha"
-      },
-      {
-        "site": "anisearch",
-        "id": "18758"
-      },
-      {
-        "site": "anisearch",
-        "id": "18782"
-      },
-      {
-        "site": "kitsu",
-        "id": "48105"
-      },
-      {
-        "site": "kitsu",
-        "id": "48113"
-      },
-      {
-        "site": "livechart",
-        "id": "12370"
-      },
-      {
-        "site": "myanimelist",
-        "id": "56805"
-      },
-      {
-        "site": "myanimelist",
-        "id": "56885"
-      },
-      {
-        "site": "notify",
-        "id": "ggy49QGSg"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2023,
-      "month": "10"
-    },
-    "status": "ONGOING",
-    "episodes": 28,
-    "picture": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1015/138006t.jpg",
-    "synonyms": [
-      "Frieren",
-      "Frieren - Oltre la Fine del Viaggio",
-      "Frieren - Pháp sư tiễn táng",
-      "Frieren at the Funeral",
-      "Frieren e a Jornada para o Além",
-      "Frieren en el funeral",
-      "Frieren – Nach dem Ende der Reise",
-      "Frieren. U kresu drogi",
-      "Frieren: Beyond Journey's End",
-      "Frieren: Beyond Journey`s End",
-      "Frieren: Beyond Journey’s End",
-      "Frieren: Más allá del final del viaje",
-      "Frieren: Nach dem Ende der Reise",
-      "Frieren: Oltre la Fine del Viaggio",
-      "Frieren: Tras finalizar el viaje",
-      "Sōsō no Frieren",
-      "Sōsō no Furīren",
-      "Фрирен, провожающая в последний путь",
-      "คำอธิษฐานในวันที่จากลา Frieren",
-      "葬送のフリーレン",
-      "葬送的芙莉莲",
-      "葬送的芙莉蓮",
-      "장송의 프리렌"
-    ]
-  },
-  {
     "title": "ウマ娘 プリティーダービー Season 3",
     "titleTranslate": {
       "zh-Hans": [
@@ -487,7 +498,7 @@
     "officialSite": "https://anime-umamusume.jp/",
     "begin": "2023-10-04T15:00:00.000Z",
     "broadcast": "R/2023-10-04T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-12-27T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -521,6 +532,12 @@
       {
         "site": "abema",
         "id": "19-71",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "21086401",
         "begin": "",
         "broadcast": ""
       },
@@ -656,8 +673,8 @@
       {
         "site": "nicovideo",
         "id": "kusuriyanohitorigoto",
-        "begin": "2023-10-21T17:40:00.000Z",
-        "broadcast": "R/2023-10-21T17:40:00.000Z/P7D"
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "abema",
@@ -707,6 +724,7 @@
       "Il Monologo della Speziale",
       "Il monologo della Speziale",
       "Les Carnets de l'Apothicaire",
+      "Les Carnets de l`apothicaire",
       "Les Carnets de l’apothicaire",
       "Los diarios de la boticaria",
       "The Apothecary Diaries",
@@ -840,8 +858,8 @@
       {
         "site": "nicovideo",
         "id": "ikenaikyo",
-        "begin": "2023-08-23T11:00:00.000Z",
-        "broadcast": "R/2023-08-23T11:00:00.000Z/P7D"
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "abema",
@@ -1027,6 +1045,10 @@
       },
       {
         "site": "anisearch",
+        "id": "1591"
+      },
+      {
+        "site": "anisearch",
         "id": "4536"
       },
       {
@@ -1177,6 +1199,12 @@
         "broadcast": ""
       },
       {
+        "site": "bilibili",
+        "id": "21086747",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anilist",
         "id": "169750"
       },
@@ -1189,6 +1217,10 @@
         "id": "18841"
       },
       {
+        "site": "anisearch",
+        "id": "19007"
+      },
+      {
         "site": "livechart",
         "id": "12356"
       },
@@ -1199,6 +1231,10 @@
       {
         "site": "myanimelist",
         "id": "56791"
+      },
+      {
+        "site": "myanimelist",
+        "id": "57834"
       }
     ],
     "animeSeason": {
@@ -1212,6 +1248,7 @@
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1500/139931t.jpg",
     "synonyms": [
       "SHANGRI-LA FRONTIER ～เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ～",
+      "SLF",
       "ShanFro",
       "Shanfro",
       "Shangri-La Frontier",
@@ -1605,6 +1642,12 @@
       {
         "site": "abema",
         "id": "564-7",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "21089341",
         "begin": "",
         "broadcast": ""
       }
@@ -2785,6 +2828,10 @@
         "id": "171748"
       },
       {
+        "site": "anime-planet",
+        "id": "shy-2nd-season"
+      },
+      {
         "site": "anisearch",
         "id": "18941"
       },
@@ -3371,6 +3418,10 @@
         "id": "172355"
       },
       {
+        "site": "anime-planet",
+        "id": "ron-kamonohashis-forbidden-deductions-season-2"
+      },
+      {
         "site": "anisearch",
         "id": "18984"
       },
@@ -3739,7 +3790,7 @@
     "officialSite": "https://seijyonomaryoku.jp/",
     "begin": "2023-10-03T14:00:00.000Z",
     "broadcast": "R/2023-10-03T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-12-19T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4190,7 +4241,8 @@
       "My New Boss is Goofy",
       "My New Boss is Too Scatterbrained",
       "我的新上司是天然呆",
-      "新しい上司はど天然"
+      "新しい上司はど天然",
+      "新上司是天然呆"
     ]
   },
   {
@@ -4349,7 +4401,7 @@
     "officialSite": "http://shieldhero-anime.jp/",
     "begin": "2023-10-06T12:00:00.000Z",
     "broadcast": "R/2023-10-06T12:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-12-22T12:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4389,6 +4441,12 @@
       {
         "site": "abema",
         "id": "25-109",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "21086581",
         "begin": "",
         "broadcast": ""
       },
@@ -4670,7 +4728,7 @@
       "month": "10"
     },
     "status": "ONGOING",
-    "episodes": 13,
+    "episodes": 14,
     "picture": "https://cdn.myanimelist.net/images/anime/1312/138299.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1312/138299t.jpg",
     "synonyms": [
@@ -5023,7 +5081,7 @@
       "year": 2023,
       "month": "10"
     },
-    "status": "ONGOING",
+    "status": "FINISHED",
     "episodes": 12,
     "picture": "https://cdn.myanimelist.net/images/anime/1921/138501.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1921/138501t.jpg",
@@ -5157,7 +5215,7 @@
     "officialSite": "https://mahoyome.jp/",
     "begin": "2023-10-05T13:00:00.000Z",
     "broadcast": "R/2023-10-05T13:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-12-21T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5281,7 +5339,7 @@
     "officialSite": "https://kanokano-anime.com/",
     "begin": "2023-10-05T17:23:00.000Z",
     "broadcast": "R/2023-10-05T17:23:00.000Z/P7D",
-    "end": "",
+    "end": "2023-12-21T17:23:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6115,7 +6173,7 @@
     "officialSite": "https://millionlive-anime.idolmaster-official.jp/",
     "begin": "2023-10-08T01:00:00.000Z",
     "broadcast": "R/2023-10-08T01:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-12-24T01:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6327,6 +6385,146 @@
       "Тот, кто зажигает звёзды: Миллионный концерт!",
       "アイドルマスター ミリオンライブ!",
       "アイドルマスター ミリオンライブ！"
+    ]
+  },
+  {
+    "title": "葬送のフリーレン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "葬送的芙莉莲"
+      ],
+      "zh-Hant": [
+        "葬送的芙莉蓮"
+      ],
+      "en": [
+        "Frieren: Beyond the Journey's End"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://frieren-anime.jp/",
+    "begin": "2023-09-29T14:00:00.000Z",
+    "broadcast": "R/2023-09-29T14:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "400602"
+      },
+      {
+        "site": "netflix",
+        "id": "81726714",
+        "begin": "2023-09-28T16:00:00.000Z",
+        "broadcast": "R/2023-09-28T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "2247874",
+        "begin": "2023-09-28T16:00:00.000Z",
+        "broadcast": "R/2023-09-28T16:00:00.000Z/P7D",
+        "comment": "粵語版: 2262136"
+      },
+      {
+        "site": "gamer",
+        "id": "127137",
+        "begin": "2023-09-29T14:30:00.000Z",
+        "broadcast": "R/2023-09-29T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "21087073",
+        "begin": "2023-10-24T12:00:01.000Z",
+        "broadcast": "R/2023-10-24T12:00:01.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-171",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anilist",
+        "id": "169811"
+      },
+      {
+        "site": "anilist",
+        "id": "170068"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sousou-no-frieren-mini-anime-maru-maru-no-mahou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yoasobi-yuusha"
+      },
+      {
+        "site": "anisearch",
+        "id": "18758"
+      },
+      {
+        "site": "anisearch",
+        "id": "18782"
+      },
+      {
+        "site": "kitsu",
+        "id": "48105"
+      },
+      {
+        "site": "kitsu",
+        "id": "48113"
+      },
+      {
+        "site": "livechart",
+        "id": "12370"
+      },
+      {
+        "site": "myanimelist",
+        "id": "56805"
+      },
+      {
+        "site": "myanimelist",
+        "id": "56885"
+      },
+      {
+        "site": "notify",
+        "id": "ggy49QGSg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2023,
+      "month": "09"
+    },
+    "status": "ONGOING",
+    "episodes": 28,
+    "picture": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1015/138006t.jpg",
+    "synonyms": [
+      "Frieren",
+      "Frieren - Oltre la Fine del Viaggio",
+      "Frieren - Pháp sư tiễn táng",
+      "Frieren at the Funeral",
+      "Frieren e a Jornada para o Além",
+      "Frieren en el funeral",
+      "Frieren – Nach dem Ende der Reise",
+      "Frieren. U kresu drogi",
+      "Frieren: Beyond Journey's End",
+      "Frieren: Beyond Journey`s End",
+      "Frieren: Beyond Journey’s End",
+      "Frieren: Más allá del final del viaje",
+      "Frieren: Nach dem Ende der Reise",
+      "Frieren: Oltre la Fine del Viaggio",
+      "Frieren: Tras finalizar el viaje",
+      "Sōsō no Frieren",
+      "Sōsō no Furīren",
+      "Фрирен, провожающая в последний путь",
+      "คำอธิษฐานในวันที่จากลา Frieren",
+      "葬送のフリーレン",
+      "葬送的芙莉莲",
+      "葬送的芙莉蓮",
+      "장송의 프리렌"
     ]
   },
   {
@@ -7660,7 +7858,7 @@
       "month": "10"
     },
     "status": "ONGOING",
-    "episodes": 12,
+    "episodes": 26,
     "picture": "https://cdn.myanimelist.net/images/anime/1833/138170.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1833/138170t.jpg",
     "synonyms": [

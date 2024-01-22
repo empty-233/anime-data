@@ -367,7 +367,7 @@
       "month": "08"
     },
     "status": "ONGOING",
-    "episodes": 24,
+    "episodes": 26,
     "picture": "https://cdn.myanimelist.net/images/anime/1464/136707.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1464/136707t.jpg",
     "synonyms": [
@@ -404,6 +404,12 @@
       {
         "site": "bangumi",
         "id": "386195"
+      },
+      {
+        "site": "bilibili",
+        "id": "21139535",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "bilibili_hk_mo",
@@ -498,6 +504,10 @@
       {
         "site": "myanimelist",
         "id": "35678"
+      },
+      {
+        "site": "myanimelist",
+        "id": "39894"
       },
       {
         "site": "notify",
@@ -836,6 +846,12 @@
         "id": "ai-no-idenshi",
         "begin": "2023-07-14T13:00:00.000Z",
         "broadcast": "R/2023-07-14T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "564-6",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -1829,6 +1845,12 @@
         "id": "25-243",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81736316",
+        "begin": "2024-01-08T16:00:00.000Z",
+        "broadcast": "R/2024-01-08T16:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3087,6 +3109,12 @@
         "broadcast": "R/2023-07-01T12:00:00.000Z/P7D"
       },
       {
+        "site": "abema",
+        "id": "54-84",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anidb",
         "id": "15748"
       },
@@ -3287,7 +3315,7 @@
     "officialSite": "https://tonikawa.com/",
     "begin": "2023-07-11T16:00:00.000Z",
     "broadcast": "",
-    "end": "",
+    "end": "2023-08-23T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4159,7 +4187,7 @@
         "site": "nicovideo",
         "id": "kanokari",
         "begin": "2020-07-15T17:00:00.000Z",
-        "broadcast": "R/2020-07-13T09:30:00.000Z/P7D"
+        "broadcast": "R/2020-07-15T17:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",

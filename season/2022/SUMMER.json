@@ -1542,11 +1542,11 @@
       },
       {
         "site": "anime-planet",
-        "id": "dropkick-on-my-devil-dash"
+        "id": "dropkick-on-my-devil-apocalypse-day"
       },
       {
         "site": "anime-planet",
-        "id": "dropkick-on-my-devil-end-of-century-edition"
+        "id": "dropkick-on-my-devil-dash"
       },
       {
         "site": "anisearch",
@@ -1866,6 +1866,12 @@
         "broadcast": "R/2022-07-15T17:25:00.000Z/P7D"
       },
       {
+        "site": "abema",
+        "id": "19-99",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "anime-planet",
         "id": "lucifer-and-the-biscuit-hammer-zenhan-sen"
       },
@@ -2009,6 +2015,12 @@
         "id": "primadoll",
         "begin": "2022-07-08T16:00:00.000Z",
         "broadcast": "R/2022-07-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "11-45",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -2469,6 +2481,12 @@
       {
         "site": "bangumi",
         "id": "356774"
+      },
+      {
+        "site": "abema",
+        "id": "19-177",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "anilist",
@@ -3599,6 +3617,12 @@
         "id": "teppen-anime",
         "begin": "2022-07-04T13:00:00.000Z",
         "broadcast": "R/2022-07-04T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "481-8",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -5127,7 +5151,7 @@
     "officialSite": "https://shallwedate.jp/obeyme/",
     "begin": "2022-07-21T16:00:00.000Z",
     "broadcast": "",
-    "end": "",
+    "end": "2022-07-21T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5205,7 +5229,7 @@
     "officialSite": "http://www.aikatsu.net/",
     "begin": "2022-07-14T16:00:00.000Z",
     "broadcast": "",
-    "end": "",
+    "end": "2022-07-14T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5619,6 +5643,51 @@
     ]
   },
   {
+    "title": "魔神英雄伝ワタル 七魂の龍神丸 -再会-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔神英雄传 七魂的龙神丸 -再会-"
+      ],
+      "zh-Hant": [
+        "魔神英雄傳 七魂的龍神丸 -再會-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-01-06T16:00:00.000Z",
+    "end": "2022-01-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "363033"
+      },
+      {
+        "site": "gamer",
+        "id": "120394",
+        "begin": "2022-08-18T04:00:00.000Z",
+        "broadcast": "R/2022-08-18T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40567"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2022,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1938/140898.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1938/140898t.jpg",
+    "synonyms": [
+      "魔神英雄伝ワタル 七魂の龍神丸 -再会-"
+    ]
+  },
+  {
     "title": "邪神ちゃんドロップキック",
     "titleTranslate": {
       "zh-Hans": [
@@ -5689,11 +5758,11 @@
       },
       {
         "site": "anime-planet",
-        "id": "dropkick-on-my-devil-dash"
+        "id": "dropkick-on-my-devil-apocalypse-day"
       },
       {
         "site": "anime-planet",
-        "id": "dropkick-on-my-devil-end-of-century-edition"
+        "id": "dropkick-on-my-devil-dash"
       },
       {
         "site": "anisearch",

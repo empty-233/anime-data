@@ -67,85 +67,6 @@
     ]
   },
   {
-    "title": "オルタンシア・サーガ",
-    "titleTranslate": {
-      "en": [
-        "Hortensia Saga"
-      ],
-      "zh-Hans": [
-        "苍之骑士团"
-      ],
-      "zh-Hant": [
-        "蒼之騎士團"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://animehorsaga.jp/",
-    "begin": "2021-01-06T15:30:00.000Z",
-    "broadcast": "R/2021-01-06T15:30:00.000Z/P7D",
-    "end": "2021-03-24T16:00:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "297370"
-      },
-      {
-        "site": "bilibili",
-        "id": "28231926",
-        "begin": "2021-01-06T17:00:00.000Z",
-        "broadcast": "R/2021-01-06T17:00:00.000Z/P7D"
-      },
-      {
-        "site": "nicovideo",
-        "id": "animehorsaga",
-        "begin": "2021-01-09T03:00:00.000Z",
-        "broadcast": "R/2021-01-09T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "109385",
-        "begin": "2021-01-06T17:00:00.000Z",
-        "broadcast": "R/2021-01-06T17:00:00.000Z/P7D"
-      },
-      {
-        "site": "bilibili_hk_mo_tw",
-        "id": "28233480",
-        "begin": "2021-01-06T17:00:00.000Z",
-        "broadcast": "R/2021-01-06T17:00:00.000Z/P7D"
-      },
-      {
-        "site": "kitsu",
-        "id": "43568"
-      },
-      {
-        "site": "myanimelist",
-        "id": "40961"
-      },
-      {
-        "site": "notify",
-        "id": "YhMnAWuWg"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2015,
-      "month": "01"
-    },
-    "status": "FINISHED",
-    "episodes": 7,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/85276.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/85276t.jpg",
-    "synonyms": [
-      "Daisanbu Mirai e no Tsubasa",
-      "Hortensia Saga: Aoi no Kishidan",
-      "Uketsugare Shimono-hen",
-      "オルタンシア・サーガ",
-      "オルタンシア・サーガ-蒼の騎士団-"
-    ]
-  },
-  {
     "title": "ようこそ実力至上主義の教室へ",
     "titleTranslate": {
       "zh-Hans": [
@@ -178,7 +99,7 @@
         "site": "nicovideo",
         "id": "you-zitsu",
         "begin": "2017-07-18T16:00:00.000Z",
-        "broadcast": "R/2017-07-06T09:00:00.000Z/P7D"
+        "broadcast": "R/2017-07-18T16:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -203,6 +124,12 @@
         "id": "25-73",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80193178",
+        "begin": "2023-12-31T00:00:00.000Z",
+        "broadcast": "R/2023-12-31T00:00:00.000Z/P7D"
       },
       {
         "site": "anime-planet",
@@ -467,6 +394,50 @@
       "Huyao Xiao Hongniang: Xia Sha",
       "Little Foxspirit Matchmaker",
       "狐妖小红娘"
+    ]
+  },
+  {
+    "title": "台風のノルダ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "台风的诺尔达"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://typhoon-noruda.com/",
+    "begin": "2015-06-05T16:00:00.000Z",
+    "end": "2015-06-05T17:30:00.000Z",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10008488",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "130609"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2015,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/73450.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/73450t.jpg",
+    "synonyms": [
+      "Taifu no Noruda",
+      "Taifuu no Naruda",
+      "Taifū no Noruda",
+      "Tifón Noruda",
+      "Typhoon Noruda",
+      "Typhoon no Noruda",
+      "たいふうののるだ",
+      "台風のノルダ",
+      "태풍의 노루다"
     ]
   },
   {
@@ -1445,8 +1416,8 @@
     },
     "status": "FINISHED",
     "episodes": 4,
-    "picture": "https://www.anisearch.com/images/anime/cover/9/9865_300.webp",
-    "thumbnail": "https://www.anisearch.com/images/anime/cover/full/9/9865.webp",
+    "picture": "https://www.anisearch.com/images/anime/cover/9/9865_400_300.webp",
+    "thumbnail": "https://www.anisearch.com/images/anime/cover/9/9865_400.webp",
     "synonyms": [
       "Tamayura: Graduation Photo",
       "Tamayura: Sotsugyō Shashin",
@@ -8369,6 +8340,7 @@
       "Detektiv Conan Film 19",
       "Detektiv Conan Film 19: Die Sonnenblume des Infernos",
       "Detektiv Conan: Die Sonnenblumen des Infernos",
+      "Détective Conan : Les tournesols des flammes infernales",
       "Détective Conan: Les Tournesols des Flammes Infernales",
       "Meitantei Conan Movie 19",
       "Meitantei Conan: Gouka no Himawari",

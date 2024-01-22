@@ -2847,6 +2847,86 @@
     ]
   },
   {
+    "title": "フリージング ヴァイブレーション",
+    "titleTranslate": {
+      "zh-Hans": [
+        "零度战姬Vibration",
+        "零度战姬 振动",
+        "结界女王 第二季"
+      ],
+      "en": [
+        "FREEZING VIBRATION"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://freezing.tv/",
+    "begin": "2013-10-04T12:30:00.000Z",
+    "end": "2013-12-20T13:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "78404"
+      },
+      {
+        "site": "nicovideo",
+        "id": "freezing2-tv",
+        "begin": "2013-10-10T17:00:00.000Z"
+      },
+      {
+        "site": "anilist",
+        "id": "18001"
+      },
+      {
+        "site": "anime-planet",
+        "id": "freezing-vibration"
+      },
+      {
+        "site": "anisearch",
+        "id": "8456"
+      },
+      {
+        "site": "kitsu",
+        "id": "7710"
+      },
+      {
+        "site": "livechart",
+        "id": "2984"
+      },
+      {
+        "site": "livechart",
+        "id": "4069"
+      },
+      {
+        "site": "livechart",
+        "id": "69"
+      },
+      {
+        "site": "myanimelist",
+        "id": "18001"
+      },
+      {
+        "site": "notify",
+        "id": "BegppFiiR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2013,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/56413.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/56413t.jpg",
+    "synonyms": [
+      "Freezing Vibration OVAs",
+      "Furue Chau Freezing Vibration OVA",
+      "フリージング ヴァイブレーション",
+      "震えちゃう❤フリージング ヴァイブレーションOVA"
+    ]
+  },
+  {
     "title": "WHITE ALBUM2",
     "titleTranslate": {
       "zh-Hans": [
@@ -6909,7 +6989,8 @@
       {
         "site": "nicovideo",
         "id": "kitakubu",
-        "begin": "2014-05-22T06:00:00.000Z"
+        "begin": "2014-05-22T06:00:00.000Z",
+        "broadcast": "R/2014-05-22T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -6959,95 +7040,65 @@
     ]
   },
   {
-    "title": "AMNESIA",
+    "title": "どーにゃつ",
     "titleTranslate": {
       "zh-Hans": [
-        "失忆症"
-      ],
-      "zh-Hant": [
-        "AMNESIA 失憶症"
+        "甜甜圈猫"
       ]
     },
-    "type": "tv",
+    "type": "movie",
     "lang": "ja",
-    "officialSite": "http://www.anime-amnesia.com/",
-    "begin": "2013-01-07T14:30:00.000Z",
-    "end": "2013-03-25T15:00:00.000Z",
+    "officialSite": "http://donyatsu.jp",
+    "begin": "2013-06-01T16:00:00.000Z",
+    "end": "2013-06-01T16:00:00.000Z",
     "sites": [
       {
         "site": "bangumi",
-        "id": "46452"
+        "id": "94548"
       },
       {
         "site": "nicovideo",
-        "id": "amnesia",
-        "begin": "2013-01-09T16:30:00.000Z"
-      },
-      {
-        "site": "bilibili",
-        "id": "638",
-        "begin": "2013-01-07T16:00:00.000Z",
-        "broadcast": "R/2016-01-28T09:16:00.000Z/P7D",
-        "comment": "SP: 5490"
-      },
-      {
-        "site": "qq",
-        "id": "9/9ce3zy2dfy7ts6r",
-        "begin": ""
-      },
-      {
-        "site": "iqiyi",
-        "id": "a_19rrhl4v3t",
-        "begin": ""
-      },
-      {
-        "site": "gamer",
-        "id": "57195",
-        "begin": "2020-09-07T07:00:00.000Z",
-        "broadcast": "R/2020-09-07T07:00:00.000Z/P7D"
+        "id": "donyatsu",
+        "begin": "2013-06-30T15:00:00.000Z",
+        "broadcast": "R/2013-06-30T15:00:00.000Z/P7D"
       },
       {
         "site": "anilist",
-        "id": "15085"
+        "id": "18755"
       },
       {
         "site": "anime-planet",
-        "id": "amnesia"
+        "id": "donyatsu"
       },
       {
         "site": "anisearch",
-        "id": "7989"
+        "id": "8709"
       },
       {
         "site": "kitsu",
-        "id": "7209"
-      },
-      {
-        "site": "livechart",
-        "id": "873"
+        "id": "8051"
       },
       {
         "site": "myanimelist",
-        "id": "15085"
+        "id": "18755"
       },
       {
         "site": "notify",
-        "id": "azYdtFmiR"
+        "id": "bCf2pKmmR"
       }
     ],
     "animeSeason": {
       "season": "FALL",
       "year": 2013,
-      "month": "01"
+      "month": "06"
     },
     "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1328/128739.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1328/128739t.jpg",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/65947.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/65947t.jpg",
     "synonyms": [
-      "AMNESIA",
-      "AMNESIA OVA",
-      "あむねしあ"
+      "どーにゃつ",
+      "どーにゃつ Specials"
     ]
   }
 ]
