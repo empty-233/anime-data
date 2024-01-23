@@ -33,34 +33,143 @@
         "broadcast": ""
       },
       {
+        "site": "anidb",
+        "id": "17930"
+      },
+      {
+        "site": "anidb",
+        "id": "505"
+      },
+      {
+        "site": "anilist",
+        "id": "163024"
+      },
+      {
+        "site": "anilist",
+        "id": "1674"
+      },
+      {
+        "site": "anilist",
+        "id": "2116"
+      },
+      {
         "site": "anime-planet",
-        "id": "captain-tsubasa-2018"
+        "id": "captain-tsubasa"
+      },
+      {
+        "site": "anime-planet",
+        "id": "captain-tsubasa-season-2-junior-youth-arc"
+      },
+      {
+        "site": "anime-planet",
+        "id": "captain-tsubasa-special"
+      },
+      {
+        "site": "anisearch",
+        "id": "1633"
+      },
+      {
+        "site": "anisearch",
+        "id": "18289"
       },
       {
         "site": "kitsu",
-        "id": "14182"
+        "id": "1451"
+      },
+      {
+        "site": "kitsu",
+        "id": "44669"
+      },
+      {
+        "site": "kitsu",
+        "id": "47229"
+      },
+      {
+        "site": "livechart",
+        "id": "11896"
+      },
+      {
+        "site": "livechart",
+        "id": "4357"
+      },
+      {
+        "site": "livechart",
+        "id": "4490"
+      },
+      {
+        "site": "livechart",
+        "id": "4715"
+      },
+      {
+        "site": "livechart",
+        "id": "5377"
+      },
+      {
+        "site": "livechart",
+        "id": "6142"
+      },
+      {
+        "site": "livechart",
+        "id": "6608"
+      },
+      {
+        "site": "livechart",
+        "id": "7121"
+      },
+      {
+        "site": "livechart",
+        "id": "7222"
+      },
+      {
+        "site": "livechart",
+        "id": "7233"
       },
       {
         "site": "myanimelist",
-        "id": "36934"
+        "id": "2116"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40606"
+      },
+      {
+        "site": "myanimelist",
+        "id": "54803"
       },
       {
         "site": "notify",
-        "id": "yrrN2KmmR"
+        "id": "dQxe55BVg"
+      },
+      {
+        "site": "notify",
+        "id": "fKplccB4g"
+      },
+      {
+        "site": "notify",
+        "id": "qk9acFimR"
       }
     ],
     "animeSeason": {
-      "season": "FALL",
-      "year": 2019,
+      "season": "SPRING",
+      "year": 2018,
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1173/139465.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1173/139465t.jpg",
+    "episodes": 52,
+    "picture": "https://cdn.myanimelist.net/images/anime/1866/91270.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1866/91270t.jpg",
     "synonyms": [
-      "Captain Tsubasa Special",
-      "キャプテン翼"
+      "Captain Tsubasa",
+      "Captain Tsubasa 2018",
+      "Captain Tsubasa: The New Series",
+      "Kapitan Tsubasa (2018)",
+      "Tsubasa (2018)",
+      "كابتن ماجد",
+      "キャプテン翼",
+      "キャプテン翼 (2018)",
+      "キャプテン翼 （2018）",
+      "足球小将 (2018)",
+      "队长小翼"
     ]
   },
   {
@@ -294,24 +403,240 @@
         "begin": "2012-11-17T01:44:36.000Z"
       },
       {
+        "site": "anidb",
+        "id": "12484"
+      },
+      {
+        "site": "anidb",
+        "id": "14551"
+      },
+      {
+        "site": "anidb",
+        "id": "14771"
+      },
+      {
+        "site": "anidb",
+        "id": "2380"
+      },
+      {
+        "site": "anidb",
+        "id": "4244"
+      },
+      {
+        "site": "anidb",
+        "id": "8344"
+      },
+      {
+        "site": "anidb",
+        "id": "8373"
+      },
+      {
         "site": "anilist",
-        "id": "4053"
+        "id": "10276"
+      },
+      {
+        "site": "anilist",
+        "id": "10731"
+      },
+      {
+        "site": "anilist",
+        "id": "10862"
+      },
+      {
+        "site": "anilist",
+        "id": "109097"
+      },
+      {
+        "site": "anilist",
+        "id": "1190"
+      },
+      {
+        "site": "anilist",
+        "id": "20942"
+      },
+      {
+        "site": "anilist",
+        "id": "5996"
+      },
+      {
+        "site": "anilist",
+        "id": "6749"
+      },
+      {
+        "site": "anilist",
+        "id": "814"
+      },
+      {
+        "site": "anilist",
+        "id": "815"
+      },
+      {
+        "site": "anilist",
+        "id": "995"
       },
       {
         "site": "anime-planet",
-        "id": "the-prince-of-tennis"
+        "id": "miloha-x-the-prince-of-tennis"
+      },
+      {
+        "site": "anime-planet",
+        "id": "ryoma-the-prince-of-tennis"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-prince-of-tennis-a-day-on-survival-mountain"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-prince-of-tennis-a-gift-from-atobe"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-prince-of-tennis-another-story-ii-ano-toki-no-bokura"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-prince-of-tennis-another-story-kako-to-mirai-no-message"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-prince-of-tennis-best-games"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-prince-of-tennis-ii"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-prince-of-tennis-ii-ova-vs-genius-10"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-prince-of-tennis-ii-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-prince-of-tennis-ii-u-17-world-cup"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-prince-of-tennis-message-in-a-bottle"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-prince-of-tennis-mini-theater"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-prince-of-tennis-movie-1-two-samurai-the-first-game"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-prince-of-tennis-movie-2-eikoku-shiki-teikyuu-shiro-kessen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-prince-of-tennis-new-years-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-prince-of-tennis-the-band-of-princes-film-kick-the-future"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-prince-of-tennis-the-national-tournament"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-prince-of-tennis-the-national-tournament-final"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-prince-of-tennis-the-national-tournament-semifinal"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-prince-of-tennis-tv-anime-ban-pair-puri-picture-drama"
+      },
+      {
+        "site": "anisearch",
+        "id": "12088"
+      },
+      {
+        "site": "anisearch",
+        "id": "13407"
+      },
+      {
+        "site": "anisearch",
+        "id": "15481"
+      },
+      {
+        "site": "anisearch",
+        "id": "1908"
+      },
+      {
+        "site": "anisearch",
+        "id": "2382"
+      },
+      {
+        "site": "anisearch",
+        "id": "4543"
+      },
+      {
+        "site": "anisearch",
+        "id": "6214"
+      },
+      {
+        "site": "anisearch",
+        "id": "6999"
+      },
+      {
+        "site": "anisearch",
+        "id": "7000"
+      },
+      {
+        "site": "anisearch",
+        "id": "8163"
       },
       {
         "site": "kitsu",
-        "id": "13"
+        "id": "1070"
+      },
+      {
+        "site": "kitsu",
+        "id": "4378"
+      },
+      {
+        "site": "kitsu",
+        "id": "4699"
+      },
+      {
+        "site": "kitsu",
+        "id": "6110"
+      },
+      {
+        "site": "kitsu",
+        "id": "6321"
+      },
+      {
+        "site": "kitsu",
+        "id": "6388"
+      },
+      {
+        "site": "kitsu",
+        "id": "721"
+      },
+      {
+        "site": "kitsu",
+        "id": "722"
+      },
+      {
+        "site": "kitsu",
+        "id": "885"
       },
       {
         "site": "livechart",
         "id": "1155"
-      },
-      {
-        "site": "livechart",
-        "id": "4029"
       },
       {
         "site": "livechart",
@@ -347,6 +672,10 @@
       },
       {
         "site": "livechart",
+        "id": "7960"
+      },
+      {
+        "site": "livechart",
         "id": "8014"
       },
       {
@@ -367,32 +696,119 @@
       },
       {
         "site": "myanimelist",
-        "id": "22"
+        "id": "10276"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10731"
+      },
+      {
+        "site": "myanimelist",
+        "id": "10862"
+      },
+      {
+        "site": "myanimelist",
+        "id": "1190"
+      },
+      {
+        "site": "myanimelist",
+        "id": "29697"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36952"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42602"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5996"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6749"
+      },
+      {
+        "site": "myanimelist",
+        "id": "814"
+      },
+      {
+        "site": "myanimelist",
+        "id": "815"
+      },
+      {
+        "site": "myanimelist",
+        "id": "995"
       },
       {
         "site": "notify",
-        "id": "4LWp5FmiR"
+        "id": "2ry65Fmig"
+      },
+      {
+        "site": "notify",
+        "id": "FlC4pKimg"
+      },
+      {
+        "site": "notify",
+        "id": "HvBAcFiig"
+      },
+      {
+        "site": "notify",
+        "id": "ag87pFmig"
+      },
+      {
+        "site": "notify",
+        "id": "k7BAcFmig"
+      },
+      {
+        "site": "notify",
+        "id": "onK35FmiR"
+      },
+      {
+        "site": "notify",
+        "id": "rDNbcKimg"
+      },
+      {
+        "site": "notify",
+        "id": "vLt1cKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "xaf4pFmmR"
       }
     ],
     "animeSeason": {
       "season": "FALL",
-      "year": 2009,
+      "year": 2001,
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 3,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/28332.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/28332t.jpg",
+    "episodes": 178,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/21624.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/21624t.jpg",
     "synonyms": [
-      "Prince of Tennis: Mini Theater",
-      "Tennis no Ouji-sama Mini Theater",
-      "Tennis no Ouji-sama OVA: Zenkoku Taikai-hen Final Chibi Character Flash Animation",
-      "Tennis no Ouji-sama: Mini Theater",
-      "The Prince of Tennis Mini Theater",
-      "The Prince of Tennis: Mini Theater",
+      "Il principe del tennis",
+      "O Príncipe do Tênis",
+      "PoT",
+      "PoT TV",
+      "Prince of Tennis",
+      "Prinţul Tenisului",
+      "TeniPuri",
+      "Tenisin Prensi",
+      "Tennis no Ouji-sama",
+      "Tennis no Ōji-sama",
+      "The Prince of Tennis",
+      "TnO",
+      "Принц тенниса",
+      "נסיך הטניס",
+      "أمير التنس",
+      "เจ้าชายลูกสักหลาด",
+      "เดอะ ปริ้นซ์ ออฟ เทนนิส",
       "てにすのおうじさま",
       "テニスの王子様",
-      "テニスの王子様 OVA 全国大会篇 Final ちびキャラフラッシュアニメ"
+      "网球王子"
     ]
   },
   {
@@ -1183,12 +1599,36 @@
         "broadcast": "R/2015-01-27T11:23:00.000Z/P7D"
       },
       {
-        "site": "anilist",
-        "id": "682"
+        "site": "anidb",
+        "id": "4444"
       },
       {
-        "site": "anime-planet",
-        "id": "angel-tales"
+        "site": "anidb",
+        "id": "4902"
+      },
+      {
+        "site": "anidb",
+        "id": "579"
+      },
+      {
+        "site": "anidb",
+        "id": "680"
+      },
+      {
+        "site": "anilist",
+        "id": "1037"
+      },
+      {
+        "site": "anilist",
+        "id": "2485"
+      },
+      {
+        "site": "anilist",
+        "id": "683"
+      },
+      {
+        "site": "anilist",
+        "id": "684"
       },
       {
         "site": "anime-planet",
@@ -1199,16 +1639,36 @@
         "id": "angel-tales-omake"
       },
       {
+        "site": "anime-planet",
+        "id": "angel-tales-specials"
+      },
+      {
         "site": "anisearch",
-        "id": "1595"
+        "id": "10693"
+      },
+      {
+        "site": "anisearch",
+        "id": "15833"
+      },
+      {
+        "site": "anisearch",
+        "id": "1709"
+      },
+      {
+        "site": "anisearch",
+        "id": "2483"
       },
       {
         "site": "kitsu",
-        "id": "623"
+        "id": "2255"
       },
       {
-        "site": "livechart",
-        "id": "6058"
+        "site": "kitsu",
+        "id": "624"
+      },
+      {
+        "site": "kitsu",
+        "id": "625"
       },
       {
         "site": "livechart",
@@ -1216,35 +1676,65 @@
       },
       {
         "site": "livechart",
+        "id": "6737"
+      },
+      {
+        "site": "livechart",
         "id": "8094"
       },
       {
         "site": "myanimelist",
-        "id": "682"
+        "id": "1037"
+      },
+      {
+        "site": "myanimelist",
+        "id": "2485"
+      },
+      {
+        "site": "myanimelist",
+        "id": "683"
+      },
+      {
+        "site": "myanimelist",
+        "id": "684"
       },
       {
         "site": "notify",
-        "id": "ZV4A5KmiR"
+        "id": "2hVA5FimR"
+      },
+      {
+        "site": "notify",
+        "id": "KOV05Fmig"
+      },
+      {
+        "site": "notify",
+        "id": "QpjE5KimR"
       }
     ],
     "animeSeason": {
-      "season": "WINTER",
-      "year": 2002,
+      "season": "FALL",
+      "year": 2001,
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 2,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/4328.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/4328t.jpg",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/21092.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/21092t.jpg",
     "synonyms": [
-      "Angel Tail Special Episodes",
+      "Angel Tail",
+      "Angel Tails",
       "Angel Tales",
-      "Angel Tales (Specials)",
-      "Angel Tales Specials",
-      "Otogi Story Tenshi no Shippo Episodes 5.5 and 13",
-      "Tenshi no Shippo Specials",
+      "Angel's Tail",
+      "Angel`s Tail",
+      "Angel’s Tail",
+      "Fairy Tale Angel Tail",
+      "Otogi Story: Tenshi no Shippo",
+      "Tenshi no Shippo",
+      "TnS",
+      "at",
       "おとぎストーリー 天使のしっぽ",
-      "おとぎストーリー　天使のしっぽ"
+      "おとぎストーリー　天使のしっぽ",
+      "天使的尾巴"
     ]
   },
   {
@@ -1567,19 +2057,11 @@
       },
       {
         "site": "anidb",
-        "id": "32"
+        "id": "3296"
       },
       {
         "site": "anilist",
-        "id": "11077"
-      },
-      {
-        "site": "anilist",
-        "id": "270"
-      },
-      {
-        "site": "anime-planet",
-        "id": "hellsing"
+        "id": "777"
       },
       {
         "site": "anime-planet",
@@ -1591,39 +2073,31 @@
       },
       {
         "site": "anime-planet",
+        "id": "hellsing-ultimate"
+      },
+      {
+        "site": "anime-planet",
         "id": "hellsing-ultimate-digest-for-freaks"
       },
       {
         "site": "anisearch",
-        "id": "312"
+        "id": "3391"
       },
       {
         "site": "anisearch",
-        "id": "7259"
-      },
-      {
-        "site": "anisearch",
-        "id": "8302"
-      },
-      {
-        "site": "anisearch",
-        "id": "8405"
+        "id": "8413"
       },
       {
         "site": "kitsu",
-        "id": "245"
+        "id": "5099"
       },
       {
         "site": "kitsu",
-        "id": "4782"
-      },
-      {
-        "site": "kitsu",
-        "id": "6453"
+        "id": "695"
       },
       {
         "site": "livechart",
-        "id": "3639"
+        "id": "3598"
       },
       {
         "site": "livechart",
@@ -1639,57 +2113,46 @@
       },
       {
         "site": "myanimelist",
-        "id": "11077"
+        "id": "7728"
       },
       {
         "site": "myanimelist",
-        "id": "270"
-      },
-      {
-        "site": "myanimelist",
-        "id": "6904"
+        "id": "777"
       },
       {
         "site": "notify",
-        "id": "SlVItKmig"
+        "id": "KJTAcKmmR"
       },
       {
         "site": "notify",
-        "id": "cbFh5KimR"
-      },
-      {
-        "site": "notify",
-        "id": "vfWRtFmmR"
+        "id": "ufpzpKmig"
       }
     ],
     "animeSeason": {
-      "season": "WINTER",
-      "year": 2006,
+      "season": "FALL",
+      "year": 2001,
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 10,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/7333.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/7333t.jpg",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/19956.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/19956t.jpg",
     "synonyms": [
       "HELLSING",
-      "HELLSING OVA",
-      "HU",
-      "Hellsing (2006)",
-      "Hellsing OVA",
-      "Hellsing Ultimate OVA",
-      "Hellsing Ultimate Series",
-      "Helsingas OVA",
+      "Hellsing TV",
+      "Hellsing [ヘルシング]",
+      "Helsingas",
+      "hellsing tv",
+      "hellsingtv",
       "Хеллсинг",
-      "Хеллсинг OVA",
-      "Хелсинг (2006)",
-      "הלסינג אולטימטיבי",
-      "הלסינג אוליטמטיבי",
-      "ヘルシング (2006)",
-      "ヘルシング OVA",
-      "ヘルシング （2006）",
-      "皇家国教骑士团ova",
-      "헬싱 (2006)"
+      "Хеллсинг: Война с нечистью",
+      "Хелсинг",
+      "Хелсінг",
+      "هيلسنج",
+      "เฮลล์ซิ่ง",
+      "ヘルシング",
+      "王家国教骑士团",
+      "헬싱"
     ]
   },
   {

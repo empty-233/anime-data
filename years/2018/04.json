@@ -1861,12 +1861,20 @@
         "broadcast": "R/2020-11-19T07:00:00.000Z/P7D"
       },
       {
+        "site": "anidb",
+        "id": "14187"
+      },
+      {
         "site": "anilist",
-        "id": "100009"
+        "id": "102978"
+      },
+      {
+        "site": "anilist",
+        "id": "102979"
       },
       {
         "site": "anime-planet",
-        "id": "space-battleship-tiramisu"
+        "id": "space-battleship-tiramisu-specials"
       },
       {
         "site": "anime-planet",
@@ -1877,16 +1885,24 @@
         "id": "space-battleship-tiramisu-zwei-specials"
       },
       {
+        "site": "anime-planet",
+        "id": "uchuu-shoujo-oremisu"
+      },
+      {
         "site": "anisearch",
-        "id": "12784"
+        "id": "13618"
+      },
+      {
+        "site": "anisearch",
+        "id": "13716"
       },
       {
         "site": "kitsu",
-        "id": "40875"
+        "id": "41285"
       },
       {
-        "site": "livechart",
-        "id": "2849"
+        "site": "kitsu",
+        "id": "41926"
       },
       {
         "site": "livechart",
@@ -1894,15 +1910,27 @@
       },
       {
         "site": "livechart",
+        "id": "3444"
+      },
+      {
+        "site": "livechart",
         "id": "3540"
       },
       {
         "site": "myanimelist",
-        "id": "36267"
+        "id": "37866"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37988"
       },
       {
         "site": "notify",
-        "id": "pqtO2FimR"
+        "id": "R_oGCR4mR"
+      },
+      {
+        "site": "notify",
+        "id": "dGREyaoig"
       }
     ],
     "animeSeason": {
@@ -1911,18 +1939,17 @@
       "month": "04"
     },
     "status": "FINISHED",
-    "episodes": 3,
-    "picture": "https://cdn.myanimelist.net/images/anime/1770/92820.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1770/92820t.jpg",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/1864/93615.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1864/93615t.jpg",
     "synonyms": [
+      "Space BattleShip Tiramisu",
       "Space Battleship Tiramisu",
-      "Space Battleship Tiramisu EX",
-      "Space Battleship Tiramisu OVA",
-      "Space Battleship Tiramisu Specials",
-      "Uchuu Senkan Tiramisu Specials",
-      "Uchū Senkan Tiramisu Specials",
+      "Uchuu Senkan Tiramisu",
+      "Uchū Senkan Tiramisu",
+      "宇宙战舰提拉米斯",
       "宇宙戦艦ティラミス",
-      "宇宙戦艦ティラミス Specials"
+      "우주전함 티라미스"
     ]
   },
   {
@@ -2236,19 +2263,19 @@
       },
       {
         "site": "anime-planet",
-        "id": "alice-or-alice-siscon-nii-san-to-futago-no-imouto"
+        "id": "alice-or-alice-siscon-nii-san-to-futago-no-imouto-recap"
       },
       {
         "site": "kitsu",
-        "id": "13679"
+        "id": "41488"
       },
       {
         "site": "myanimelist",
-        "id": "36001"
+        "id": "41689"
       },
       {
         "site": "notify",
-        "id": "zE842Kiig"
+        "id": "Opxqjqdmg"
       }
     ],
     "animeSeason": {
@@ -2257,16 +2284,19 @@
       "month": "04"
     },
     "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1498/116745.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1498/116745t.jpg",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1033/116744.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1033/116744t.jpg",
     "synonyms": [
-      "ALICE or ALICE Recap",
-      "Alice or Alice Soushuu-hen",
-      "Alice or Alice: Compilation",
-      "Alice or Alice: Siscon Nii-san to Futago no Imouto Recap",
+      "ALICE or ALICE",
+      "Alice or Alice: A Siscon Brother and His Twin Sisters",
+      "Alice or Alice: Siscon Nii-san to Futago no Imouto",
+      "Alice or Alice: Siscon Niisan to Futago no Imouto",
+      "Alice or Alice: Siscon Nīsan to Futago no Imōto",
+      "Alice or Alice: The Brother with a Sister Complex and His Twin Sisters",
       "ありすorありす",
-      "ありす第13話総集編"
+      "ありすorありす ～シスコン兄さんと双子の妹～",
+      "앨리스 or 앨리스"
     ]
   },
   {
@@ -2463,24 +2493,60 @@
         "broadcast": ""
       },
       {
+        "site": "anidb",
+        "id": "7729"
+      },
+      {
         "site": "anilist",
-        "id": "21127"
+        "id": "104174"
+      },
+      {
+        "site": "anilist",
+        "id": "21624"
       },
       {
         "site": "anime-planet",
-        "id": "steins-gate-0"
+        "id": "steins-gate"
+      },
+      {
+        "site": "anime-planet",
+        "id": "steins-gate-0-valentines-of-crystal-polymorphism-bittersweet-intermedio"
+      },
+      {
+        "site": "anime-planet",
+        "id": "steins-gate-egoistic-poriomania"
+      },
+      {
+        "site": "anime-planet",
+        "id": "steins-gate-movie-load-region-of-deja-vu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "steins-gate-soumei-eichi-no-cognitive-computing"
+      },
+      {
+        "site": "anime-planet",
+        "id": "steins-gate-the-missing-link-divide-by-zero"
       },
       {
         "site": "anisearch",
-        "id": "10345"
+        "id": "10967"
+      },
+      {
+        "site": "anisearch",
+        "id": "13974"
       },
       {
         "site": "kitsu",
-        "id": "10788"
+        "id": "11574"
       },
       {
-        "site": "livechart",
-        "id": "1489"
+        "site": "kitsu",
+        "id": "5646"
+      },
+      {
+        "site": "kitsu",
+        "id": "6999"
       },
       {
         "site": "livechart",
@@ -2500,48 +2566,60 @@
       },
       {
         "site": "livechart",
+        "id": "3668"
+      },
+      {
+        "site": "livechart",
         "id": "3673"
       },
       {
         "site": "myanimelist",
-        "id": "30484"
+        "id": "13599"
+      },
+      {
+        "site": "myanimelist",
+        "id": "32188"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37492"
+      },
+      {
+        "site": "notify",
+        "id": "0KUWpFmig"
+      },
+      {
+        "site": "notify",
+        "id": "BDPjtKimg"
+      },
+      {
+        "site": "notify",
+        "id": "xNfvtFmmR"
       }
     ],
     "animeSeason": {
-      "season": "FALL",
+      "season": "SPRING",
       "year": 2018,
       "month": "04"
     },
     "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1163/97351.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1163/97351t.jpg",
+    "episodes": 23,
+    "picture": "https://cdn.myanimelist.net/images/anime/1375/93521.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1375/93521t.jpg",
     "synonyms": [
-      "San Valentín de polimorfismo de cristal: Intermedio agridulce",
-      "Steins,Gate 0 Special",
-      "Steins,Gate 0: Valentine's of Crystal Polymorphism - Bittersweet Intermedio",
-      "Steins,Gate Zero",
-      "Steins;Gate 0 : Crystal Polymorphism’s Valentines - Bittersweet Intermedio",
-      "Steins;Gate 0 : Valentine Polymorphe",
-      "Steins;Gate 0 Episodio 24: Cristal polimorfo en San Valentín",
-      "Steins;Gate 0 OVA",
-      "Steins;Gate 0 Special",
-      "Steins;Gate 0: Cristal polimorfo en San Valentin",
-      "Steins;Gate 0: Crystal Polymorphism’s Valentines -Bittersweet Intermedio-",
-      "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Day",
-      "Steins;Gate 0: Kesshou Takei no Valentine’s - Bittersweet Intermedio",
-      "Steins;Gate 0: Kesshō Takei no Valentine’s - Bittersweet Intermedio",
-      "Steins;Gate 0: Polymorpher Valentin - Bittersweet Intermedio",
-      "Steins;Gate 0: San Valentín de Polimorfismo de Cristal - Intermedio Agridulce",
-      "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
-      "Steins;Gate 0: Valentine’s of Crystal Polymorphism - Bittersweet Intermedio",
-      "Steins;Gate 0: Valentino del polimorfismo cristallino",
-      "Steins;Gate Zero OVA",
-      "シュタインズ・ゲート 0 結晶多形のヴァレンティヌス Bittersweet Intermedio",
+      "Steins Gate 0",
+      "Steins;Gate Zero",
+      "s;g0",
+      "sg0",
+      "Врата Штейна 0",
+      "שטיינס;גייט 0",
+      "بوابة;شتاينز 0",
       "シュタインズ・ゲート ゼロ",
-      "シュタインズ・ゲート ゼロ 「結晶多形のヴァレンティヌス」",
-      "シュタインズ・ゲート ゼロ 結晶多形のバレンタイン",
-      "結晶多形のヴァレンティヌス Bittersweet Intermedio"
+      "シュタインズ・ゲート0",
+      "命运石之门 0",
+      "命运石之门0",
+      "命運石之門 0",
+      "슈타인즈;게이트 0"
     ]
   },
   {
@@ -3185,12 +3263,148 @@
         "begin": "2018-04-19T08:47:48.000Z"
       },
       {
-        "site": "livechart",
-        "id": "1836"
+        "site": "anidb",
+        "id": "11607"
+      },
+      {
+        "site": "anidb",
+        "id": "14421"
+      },
+      {
+        "site": "anidb",
+        "id": "9299"
+      },
+      {
+        "site": "anilist",
+        "id": "10588"
+      },
+      {
+        "site": "anilist",
+        "id": "106169"
+      },
+      {
+        "site": "anilist",
+        "id": "14407"
+      },
+      {
+        "site": "anilist",
+        "id": "21432"
+      },
+      {
+        "site": "anilist",
+        "id": "3366"
+      },
+      {
+        "site": "anime-planet",
+        "id": "persona-3-the-movie-1-spring-of-birth"
+      },
+      {
+        "site": "anime-planet",
+        "id": "persona-4-the-animation"
+      },
+      {
+        "site": "anime-planet",
+        "id": "persona-4-the-golden-animation"
+      },
+      {
+        "site": "anime-planet",
+        "id": "persona-5-dancing-in-starlight-op"
+      },
+      {
+        "site": "anime-planet",
+        "id": "persona-5-op"
+      },
+      {
+        "site": "anime-planet",
+        "id": "persona-5-royal-op"
+      },
+      {
+        "site": "anime-planet",
+        "id": "persona-5-strikers-op"
+      },
+      {
+        "site": "anime-planet",
+        "id": "persona-5-the-animation-a-magical-valentines-day"
+      },
+      {
+        "site": "anime-planet",
+        "id": "persona-5-the-animation-dark-sun"
+      },
+      {
+        "site": "anime-planet",
+        "id": "persona-5-the-animation-proof-of-justice"
+      },
+      {
+        "site": "anime-planet",
+        "id": "persona-5-the-animation-recap"
+      },
+      {
+        "site": "anime-planet",
+        "id": "persona-5-the-animation-stars-and-ours"
+      },
+      {
+        "site": "anime-planet",
+        "id": "persona-5-the-animation-the-day-breakers"
+      },
+      {
+        "site": "anime-planet",
+        "id": "persona-q2-new-cinema-labyrinth-op"
+      },
+      {
+        "site": "anime-planet",
+        "id": "persona-trinity-soul"
+      },
+      {
+        "site": "anisearch",
+        "id": "11527"
+      },
+      {
+        "site": "anisearch",
+        "id": "14058"
+      },
+      {
+        "site": "anisearch",
+        "id": "14072"
+      },
+      {
+        "site": "anisearch",
+        "id": "14637"
+      },
+      {
+        "site": "anisearch",
+        "id": "14638"
+      },
+      {
+        "site": "anisearch",
+        "id": "4577"
+      },
+      {
+        "site": "anisearch",
+        "id": "7012"
+      },
+      {
+        "site": "anisearch",
+        "id": "7939"
+      },
+      {
+        "site": "anisearch",
+        "id": "9640"
+      },
+      {
+        "site": "kitsu",
+        "id": "11602"
+      },
+      {
+        "site": "kitsu",
+        "id": "41972"
+      },
+      {
+        "site": "kitsu",
+        "id": "43338"
       },
       {
         "site": "livechart",
-        "id": "2815"
+        "id": "1836"
       },
       {
         "site": "livechart",
@@ -3201,24 +3415,63 @@
         "id": "8697"
       },
       {
+        "site": "livechart",
+        "id": "9360"
+      },
+      {
         "site": "myanimelist",
-        "id": "36023"
+        "id": "10588"
+      },
+      {
+        "site": "myanimelist",
+        "id": "14407"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31645"
+      },
+      {
+        "site": "myanimelist",
+        "id": "3366"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38431"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38937"
+      },
+      {
+        "site": "notify",
+        "id": "enujtKimg"
       }
     ],
     "animeSeason": {
       "season": "SPRING",
-      "year": 2019,
+      "year": 2018,
       "month": "04"
     },
     "status": "FINISHED",
-    "episodes": 2,
-    "picture": "https://cdn.myanimelist.net/images/anime/1344/101240.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1344/101240t.jpg",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/1829/92056.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1829/92056t.jpg",
     "synonyms": [
+      "P5A",
+      "PERSONA 5 the Animation",
+      "PERSONA5 the ANIMATION",
       "PERSONA5 the Animation",
-      "PERSONA5 the Animation Specials",
-      "Persona 5 the Animation: A Magical Valentine's Day",
-      "Persona 5 the Animation: Proof of Justice"
+      "Persona 5",
+      "Persona 5 The Animation",
+      "Persona 5 the Anime",
+      "Persona 5 tv",
+      "Persona5 The Animation",
+      "TVアニメ「ペルソナ５」",
+      "ペルソナ5",
+      "ペルソナ5 the Animation",
+      "ペルソナ5アニメーション",
+      "女神异闻录5",
+      "페르소나 5 the Animation"
     ]
   },
   {
@@ -4876,41 +5129,224 @@
         "broadcast": ""
       },
       {
+        "site": "anidb",
+        "id": "14537"
+      },
+      {
+        "site": "anidb",
+        "id": "15739"
+      },
+      {
+        "site": "anidb",
+        "id": "17212"
+      },
+      {
+        "site": "anidb",
+        "id": "17351"
+      },
+      {
+        "site": "anidb",
+        "id": "17352"
+      },
+      {
+        "site": "anilist",
+        "id": "103237"
+      },
+      {
+        "site": "anilist",
+        "id": "108941"
+      },
+      {
+        "site": "anilist",
+        "id": "124223"
+      },
+      {
+        "site": "anilist",
+        "id": "145433"
+      },
+      {
+        "site": "anilist",
+        "id": "172420"
+      },
+      {
         "site": "anime-planet",
-        "id": "uma-musume-pretty-derby"
+        "id": "follow-your-fantasy"
+      },
+      {
+        "site": "anime-planet",
+        "id": "uma-musume-pretty-derby-bnw-no-chikai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "uma-musume-pretty-derby-pv"
+      },
+      {
+        "site": "anime-planet",
+        "id": "uma-musume-pretty-derby-road-to-the-top"
+      },
+      {
+        "site": "anime-planet",
+        "id": "uma-musume-pretty-derby-season-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "umayon"
+      },
+      {
+        "site": "anime-planet",
+        "id": "umayuru"
       },
       {
         "site": "anisearch",
-        "id": "12470"
+        "id": "12525"
+      },
+      {
+        "site": "anisearch",
+        "id": "13678"
+      },
+      {
+        "site": "anisearch",
+        "id": "14103"
+      },
+      {
+        "site": "anisearch",
+        "id": "15564"
+      },
+      {
+        "site": "anisearch",
+        "id": "16932"
+      },
+      {
+        "site": "anisearch",
+        "id": "17716"
       },
       {
         "site": "kitsu",
-        "id": "13485"
+        "id": "12853"
+      },
+      {
+        "site": "kitsu",
+        "id": "41329"
+      },
+      {
+        "site": "kitsu",
+        "id": "42034"
+      },
+      {
+        "site": "kitsu",
+        "id": "43576"
+      },
+      {
+        "site": "kitsu",
+        "id": "45665"
+      },
+      {
+        "site": "kitsu",
+        "id": "46100"
+      },
+      {
+        "site": "kitsu",
+        "id": "46101"
+      },
+      {
+        "site": "livechart",
+        "id": "10163"
+      },
+      {
+        "site": "livechart",
+        "id": "11205"
+      },
+      {
+        "site": "livechart",
+        "id": "11206"
+      },
+      {
+        "site": "livechart",
+        "id": "11598"
+      },
+      {
+        "site": "livechart",
+        "id": "3272"
+      },
+      {
+        "site": "livechart",
+        "id": "8674"
       },
       {
         "site": "myanimelist",
-        "id": "35249"
+        "id": "34453"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37916"
+      },
+      {
+        "site": "myanimelist",
+        "id": "38835"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42941"
+      },
+      {
+        "site": "myanimelist",
+        "id": "51761"
+      },
+      {
+        "site": "myanimelist",
+        "id": "51772"
+      },
+      {
+        "site": "myanimelist",
+        "id": "52751"
       },
       {
         "site": "notify",
-        "id": "PKq72KmmR"
+        "id": "5hO9Okd4g"
+      },
+      {
+        "site": "notify",
+        "id": "8Rffpksmg"
+      },
+      {
+        "site": "notify",
+        "id": "FBS0BLX7g"
+      },
+      {
+        "site": "notify",
+        "id": "f91EBoDig"
+      },
+      {
+        "site": "notify",
+        "id": "g7X0WRKMg"
+      },
+      {
+        "site": "notify",
+        "id": "rUDW2KmiR"
       }
     ],
     "animeSeason": {
-      "season": "WINTER",
-      "year": 2016,
+      "season": "SPRING",
+      "year": 2018,
       "month": "04"
     },
     "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/83024.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/83024t.jpg",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/1683/91888.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1683/91888t.jpg",
     "synonyms": [
-      "Uma Musume: Pretty Derby (ONA)",
-      "Uma Musume: Pretty Derby Promotion Movie",
+      "Uma Musume",
+      "Uma Musume - Pretty Derby",
+      "Uma Musume Pretty Derby",
+      "Umabako",
       "Umamusume: Pretty Derby",
+      "umpd",
+      "Девушки-лошадки: Милое дерби",
+      "สาวม้าโมเอะ",
       "ウマ娘 プリティーダービー",
-      "ウマ娘 プリティーダービー プロモーションムービー"
+      "賽馬娘 Pretty Derby",
+      "赛马娘 Pretty Derby",
+      "우마 무스메: 프리티 더비"
     ]
   },
   {
@@ -6708,20 +7144,64 @@
         "broadcast": "R/2021-03-12T08:00:00.000Z/P7D"
       },
       {
+        "site": "anidb",
+        "id": "1457"
+      },
+      {
+        "site": "anidb",
+        "id": "15271"
+      },
+      {
         "site": "anilist",
-        "id": "100298"
+        "id": "102309"
+      },
+      {
+        "site": "anilist",
+        "id": "113359"
+      },
+      {
+        "site": "anilist",
+        "id": "2402"
       },
       {
         "site": "anime-planet",
-        "id": "megalo-box"
+        "id": "ashita-no-joe"
+      },
+      {
+        "site": "anime-planet",
+        "id": "megalo-box-2-nomad"
+      },
+      {
+        "site": "anime-planet",
+        "id": "megalo-box-specials"
       },
       {
         "site": "anisearch",
-        "id": "12910"
+        "id": "13679"
+      },
+      {
+        "site": "anisearch",
+        "id": "14059"
+      },
+      {
+        "site": "anisearch",
+        "id": "14789"
+      },
+      {
+        "site": "anisearch",
+        "id": "2580"
       },
       {
         "site": "kitsu",
-        "id": "13949"
+        "id": "2178"
+      },
+      {
+        "site": "kitsu",
+        "id": "41444"
+      },
+      {
+        "site": "kitsu",
+        "id": "42720"
       },
       {
         "site": "livechart",
@@ -6729,7 +7209,7 @@
       },
       {
         "site": "livechart",
-        "id": "2935"
+        "id": "4179"
       },
       {
         "site": "livechart",
@@ -6737,26 +7217,40 @@
       },
       {
         "site": "myanimelist",
-        "id": "36563"
+        "id": "2402"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37703"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40729"
+      },
+      {
+        "site": "notify",
+        "id": "K3YEcKmiR"
+      },
+      {
+        "site": "notify",
+        "id": "TLpN9CJZR"
       }
     ],
     "animeSeason": {
-      "season": "SUMMER",
+      "season": "SPRING",
       "year": 2018,
       "month": "04"
     },
     "status": "FINISHED",
-    "episodes": 3,
-    "picture": "https://cdn.myanimelist.net/images/anime/1726/92315.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1726/92315t.jpg",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/1958/93533.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1958/93533t.jpg",
     "synonyms": [
-      "MEGALOBOX Specials",
-      "Megalo Box Audio Drama",
-      "Megalo Box Picture Drama",
-      "Megalobox Shorts",
+      "Ashita no Joe 50th Anniversary Project",
+      "MEGALOBOX",
+      "Megalobox",
       "メガロボクス",
-      "メガロボクス ピクチャードラマ",
-      "メガロボクス特別編"
+      "메갈로 박스"
     ]
   },
   {

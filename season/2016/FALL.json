@@ -34,161 +34,6 @@
     ]
   },
   {
-    "title": "ブラッククローバー",
-    "titleTranslate": {
-      "en": [
-        "BLACK CLOVER"
-      ],
-      "zh-Hans": [
-        "黑色四叶草",
-        "黑色五叶草"
-      ],
-      "zh-Hant": [
-        "黑色五葉草"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://bclover.jp/",
-    "begin": "2017-10-03T09:25:00.000Z",
-    "end": "2018-09-25T09:50:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "202880"
-      },
-      {
-        "site": "bilibili",
-        "id": "6422",
-        "begin": "2017-10-03T10:25:00.000Z",
-        "broadcast": "R/2017-10-03T10:25:00.000Z/P7D"
-      },
-      {
-        "site": "youku",
-        "id": "cf863914efbfbdefbfbd",
-        "begin": "2017-10-03T10:25:00.000Z"
-      },
-      {
-        "site": "iqiyi",
-        "id": "a_19rrhek9x9",
-        "begin": "2017-10-03T10:25:00.000Z"
-      },
-      {
-        "site": "pptv",
-        "id": "maKODHTaSojradE",
-        "begin": ""
-      },
-      {
-        "site": "nicovideo",
-        "id": "bclover",
-        "begin": "2017-10-08T15:00:00.000Z",
-        "broadcast": "R/2017-10-08T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "viu",
-        "id": "85635",
-        "begin": "2017-10-01T16:00:00.000Z",
-        "broadcast": "R/2017-10-01T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "netflix",
-        "id": "80238012",
-        "begin": "2022-12-29T00:00:00.000Z",
-        "broadcast": "R/2022-12-29T00:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "84866",
-        "begin": "2020-05-09T03:00:00.000Z",
-        "broadcast": "R/2020-05-09T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "disneyplus",
-        "id": "tsu4sqNmcFJy",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "mytv",
-        "id": "blackcloverseason2_138544",
-        "begin": "2023-06-09T18:00:00.000Z",
-        "broadcast": "R/2023-06-09T18:00:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "12665"
-      },
-      {
-        "site": "anidb",
-        "id": "15343"
-      },
-      {
-        "site": "anilist",
-        "id": "97940"
-      },
-      {
-        "site": "anime-planet",
-        "id": "black-clover"
-      },
-      {
-        "site": "anime-planet",
-        "id": "black-clover-the-all-magic-knights-thanksgiving-festa"
-      },
-      {
-        "site": "anisearch",
-        "id": "12131"
-      },
-      {
-        "site": "kitsu",
-        "id": "13209"
-      },
-      {
-        "site": "livechart",
-        "id": "10495"
-      },
-      {
-        "site": "livechart",
-        "id": "2478"
-      },
-      {
-        "site": "livechart",
-        "id": "8700"
-      },
-      {
-        "site": "livechart",
-        "id": "9492"
-      },
-      {
-        "site": "myanimelist",
-        "id": "34572"
-      },
-      {
-        "site": "notify",
-        "id": "7pEG2KmiR"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2016,
-      "month": "10"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/84639.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/84639t.jpg",
-    "synonyms": [
-      "Black Clover",
-      "Black Clover (2016)",
-      "Black Clover Jump Special Anime Festa 2016",
-      "Black Clover OVA",
-      "Black Clover Pilot",
-      "bc ova",
-      "ぶらっくくろーばー",
-      "ブラッククローバー",
-      "ブラッククローバー OVA"
-    ]
-  },
-  {
     "title": "銀の墓守り",
     "titleTranslate": {
       "en": [
@@ -2674,8 +2519,40 @@
         "broadcast": ""
       },
       {
+        "site": "anidb",
+        "id": "10889"
+      },
+      {
+        "site": "anidb",
+        "id": "12962"
+      },
+      {
+        "site": "anidb",
+        "id": "13207"
+      },
+      {
         "site": "anilist",
-        "id": "21460"
+        "id": "100178"
+      },
+      {
+        "site": "anilist",
+        "id": "101992"
+      },
+      {
+        "site": "anilist",
+        "id": "132615"
+      },
+      {
+        "site": "anilist",
+        "id": "20912"
+      },
+      {
+        "site": "anilist",
+        "id": "98338"
+      },
+      {
+        "site": "anilist",
+        "id": "98876"
       },
       {
         "site": "anime-planet",
@@ -2687,11 +2564,19 @@
       },
       {
         "site": "anime-planet",
+        "id": "liz-and-the-blue-bird"
+      },
+      {
+        "site": "anime-planet",
         "id": "sound-euphonium"
       },
       {
         "site": "anime-planet",
-        "id": "sound-euphonium-2"
+        "id": "sound-euphonium-2-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "sound-euphonium-movie-3-our-promise-a-brand-new-day"
       },
       {
         "site": "anime-planet",
@@ -2703,11 +2588,47 @@
       },
       {
         "site": "anisearch",
-        "id": "10976"
+        "id": "10076"
+      },
+      {
+        "site": "anisearch",
+        "id": "12187"
+      },
+      {
+        "site": "anisearch",
+        "id": "12303"
+      },
+      {
+        "site": "anisearch",
+        "id": "12857"
       },
       {
         "site": "kitsu",
-        "id": "11474"
+        "id": "13212"
+      },
+      {
+        "site": "kitsu",
+        "id": "13233"
+      },
+      {
+        "site": "kitsu",
+        "id": "13618"
+      },
+      {
+        "site": "kitsu",
+        "id": "13619"
+      },
+      {
+        "site": "kitsu",
+        "id": "45029"
+      },
+      {
+        "site": "kitsu",
+        "id": "46158"
+      },
+      {
+        "site": "kitsu",
+        "id": "9980"
       },
       {
         "site": "livechart",
@@ -2727,11 +2648,11 @@
       },
       {
         "site": "livechart",
-        "id": "1902"
+        "id": "1903"
       },
       {
         "site": "livechart",
-        "id": "1903"
+        "id": "2358"
       },
       {
         "site": "livechart",
@@ -2751,11 +2672,47 @@
       },
       {
         "site": "myanimelist",
-        "id": "31988"
+        "id": "27989"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34204"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35082"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35677"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35678"
+      },
+      {
+        "site": "myanimelist",
+        "id": "52931"
       },
       {
         "site": "notify",
-        "id": "xDNCtFiiR"
+        "id": "59J4hKimg"
+      },
+      {
+        "site": "notify",
+        "id": "EE_G2Fiig"
+      },
+      {
+        "site": "notify",
+        "id": "Pa142Kmig"
+      },
+      {
+        "site": "notify",
+        "id": "jZsG2KmmR"
+      },
+      {
+        "site": "notify",
+        "id": "rj-PtKmiR"
       }
     ],
     "animeSeason": {
@@ -2764,16 +2721,22 @@
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 7,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/83486.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/83486t.jpg",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/81155.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/81155t.jpg",
     "synonyms": [
-      "Sound! Euphonium 2 Shorts",
-      "Sound! Euphonium 2 Specials",
+      "Hibike! Euphonium Second Season",
+      "Résonne ! Euphonium 2",
+      "Sound! Euphonium 2",
+      "Играй",
+      "эуфониум! 2",
       "ひびけゆーふぉにあむつー",
-      "響け！ ユーフォニアム 2 Specials",
+      "吹响！悠风号 第二季",
+      "響け! ユーフォニアム 2",
+      "響け！ ユーフォニアム 2",
       "響け！ユーフォニアム 2",
-      "響け！ユーフォニアム2"
+      "響け！ユーフォニアム2",
+      "울려라! 유포니엄 2"
     ]
   },
   {
@@ -4338,6 +4301,273 @@
     ]
   },
   {
+    "title": "夏目友人帳 伍",
+    "titleTranslate": {
+      "zh-Hans": [
+        "夏目友人帐 伍",
+        "夏目友人帐 第5季",
+        "夏目友人帐 五"
+      ],
+      "zh-Hant": [
+        "夏目友人帳 伍"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.natsume-anime.jp/",
+    "begin": "2016-10-04T16:35:00.000Z",
+    "end": "2016-12-20T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "5550",
+        "begin": "2016-10-04T19:00:00.000Z",
+        "broadcast": "R/2016-10-04T19:00:00.000Z/P7D",
+        "comment": "特别篇: 8512"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9toi9",
+        "begin": "2016-10-04T19:00:00.000Z"
+      },
+      {
+        "site": "pptv",
+        "id": "YtWicPaULe7kcmgI",
+        "begin": "2016-10-04T19:00:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "g/gyf3u5vx0m42531",
+        "begin": "2016-10-04T19:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "156d1c7a7b1611e69e06",
+        "begin": "2016-10-04T19:00:00.000Z"
+      },
+      {
+        "site": "letv",
+        "id": "10030038",
+        "begin": "2016-10-04T19:00:00.000Z"
+      },
+      {
+        "site": "mgtv",
+        "id": "301218",
+        "begin": "2016-10-04T19:00:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "174638"
+      },
+      {
+        "site": "nicovideo",
+        "id": "natsume5",
+        "begin": "2016-10-05T03:00:00.000Z",
+        "broadcast": "R/2016-10-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "82696",
+        "begin": "2016-10-04T19:00:00.000Z",
+        "broadcast": "R/2016-10-04T19:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "190-25",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "12675"
+      },
+      {
+        "site": "anidb",
+        "id": "8667"
+      },
+      {
+        "site": "anilist",
+        "id": "11665"
+      },
+      {
+        "site": "anilist",
+        "id": "18849"
+      },
+      {
+        "site": "anilist",
+        "id": "97983"
+      },
+      {
+        "site": "anilist",
+        "id": "99363"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsume-yuujinchou-itsuka-yuki-no-hi-ni"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-movie-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-movie-ephemeral-bond"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-nyanko-sensei-and-the-first-errand"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-season-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-season-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-season-4"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-season-5-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "natsumes-book-of-friends-season-6"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zoku-natsume-yuujinchou-3d-nyanko-sensei-gekijou"
+      },
+      {
+        "site": "anisearch",
+        "id": "12132"
+      },
+      {
+        "site": "anisearch",
+        "id": "12619"
+      },
+      {
+        "site": "anisearch",
+        "id": "7310"
+      },
+      {
+        "site": "kitsu",
+        "id": "13077"
+      },
+      {
+        "site": "kitsu",
+        "id": "13143"
+      },
+      {
+        "site": "kitsu",
+        "id": "6557"
+      },
+      {
+        "site": "livechart",
+        "id": "10155"
+      },
+      {
+        "site": "livechart",
+        "id": "1154"
+      },
+      {
+        "site": "livechart",
+        "id": "1220"
+      },
+      {
+        "site": "livechart",
+        "id": "12234"
+      },
+      {
+        "site": "livechart",
+        "id": "2481"
+      },
+      {
+        "site": "livechart",
+        "id": "2482"
+      },
+      {
+        "site": "livechart",
+        "id": "255"
+      },
+      {
+        "site": "livechart",
+        "id": "2612"
+      },
+      {
+        "site": "livechart",
+        "id": "2929"
+      },
+      {
+        "site": "livechart",
+        "id": "3400"
+      },
+      {
+        "site": "livechart",
+        "id": "3401"
+      },
+      {
+        "site": "myanimelist",
+        "id": "11665"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34534"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34591"
+      },
+      {
+        "site": "notify",
+        "id": "8jGG2FmmR"
+      },
+      {
+        "site": "notify",
+        "id": "dG2MhKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "mAEStFmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2016,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 11,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/81755.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/81755t.jpg",
+    "synonyms": [
+      "Natsume Yujin-cho 5",
+      "Natsume Yujin-cho Go",
+      "Natsume Yuujinchou 5th Season",
+      "Natsume Yuujinchou Season 5",
+      "Natsume Yūjinchō Go",
+      "Natsume's Book of Friends 5",
+      "Natsume's Book of Friends Five",
+      "Natsume's Book of Friends Season 5",
+      "Natsume`s Book of Friends (5)",
+      "Natsume’s Book of Friends 5",
+      "Pakt der Yokai 5",
+      "natsume5",
+      "nyc s5",
+      "นัตสึเมะกับบันทึกพิศวง ภาค 5",
+      "なつめゆうじんちょうご",
+      "夏目友人帐 伍",
+      "夏目友人帳 伍"
+    ]
+  },
+  {
     "title": "私がモテてどうすんだ",
     "titleTranslate": {
       "zh-Hans": [
@@ -5151,6 +5381,105 @@
       "バーナード嬢曰く.",
       "バーナード嬢曰く。",
       "伯纳德小姐说。"
+    ]
+  },
+  {
+    "title": "ステラのまほう",
+    "titleTranslate": {
+      "en": [
+        "MAGIC OF STELLA"
+      ],
+      "zh-Hans": [
+        "斯特拉的魔法"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://magicofstella.com/",
+    "begin": "2016-10-03T13:30:00.000Z",
+    "end": "2016-12-19T14:00:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "5540",
+        "begin": "2016-10-03T14:30:09.000Z",
+        "broadcast": "R/2016-10-03T14:30:00.000Z/P7D",
+        "comment": "OVA: 6049"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9tmut",
+        "begin": "2016-10-03T14:25:13.000Z"
+      },
+      {
+        "site": "pptv",
+        "id": "atfBP6cNfbsenAQ",
+        "begin": "2016-10-03T14:30:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "be9804ad7fab11e6b16e",
+        "begin": "2016-10-03T14:28:00.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "165972"
+      },
+      {
+        "site": "nicovideo",
+        "id": "magicofstella",
+        "begin": "2016-10-07T15:30:00.000Z",
+        "broadcast": "R/2016-10-07T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "98548"
+      },
+      {
+        "site": "anime-planet",
+        "id": "magic-of-stella-specials"
+      },
+      {
+        "site": "anisearch",
+        "id": "12581"
+      },
+      {
+        "site": "kitsu",
+        "id": "13509"
+      },
+      {
+        "site": "livechart",
+        "id": "4791"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35522"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36805"
+      },
+      {
+        "site": "notify",
+        "id": "vWi4hFiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2016,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/81471.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/81471t.jpg",
+    "synonyms": [
+      "Magic of Stella",
+      "Stella no Mahō",
+      "すてらのまほう",
+      "ステラのまほう",
+      "斯特拉的魔法",
+      "스텔라의 마법"
     ]
   },
   {
@@ -6137,6 +6466,123 @@
     ]
   },
   {
+    "title": "ナンバカ",
+    "titleTranslate": {
+      "en": [
+        "THE NUMBERS"
+      ],
+      "zh-Hans": [
+        "黑白来看守所"
+      ],
+      "zh-Hant": [
+        "黑白來看守所"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://nanbaka.tv/",
+    "begin": "2016-10-04T18:00:00.000Z",
+    "end": "2016-12-27T18:30:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "5548",
+        "begin": "2016-10-04T19:30:10.000Z",
+        "broadcast": "R/2016-10-04T19:30:10.000Z/P7D"
+      },
+      {
+        "site": "bangumi",
+        "id": "126177"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nanbaka",
+        "begin": "2016-10-08T03:00:00.000Z",
+        "broadcast": "R/2016-10-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "80520",
+        "begin": "2016-10-08T06:30:00.000Z",
+        "broadcast": "R/2016-10-08T06:30:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "12558"
+      },
+      {
+        "site": "anilist",
+        "id": "100227"
+      },
+      {
+        "site": "anilist",
+        "id": "97875"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nanbaka-2nd-season"
+      },
+      {
+        "site": "anime-planet",
+        "id": "nanbaka-idiots-with-student-numbers"
+      },
+      {
+        "site": "anisearch",
+        "id": "12037"
+      },
+      {
+        "site": "kitsu",
+        "id": "12768"
+      },
+      {
+        "site": "kitsu",
+        "id": "13208"
+      },
+      {
+        "site": "livechart",
+        "id": "2422"
+      },
+      {
+        "site": "livechart",
+        "id": "2459"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34414"
+      },
+      {
+        "site": "myanimelist",
+        "id": "34533"
+      },
+      {
+        "site": "notify",
+        "id": "XSPMhFmig"
+      },
+      {
+        "site": "notify",
+        "id": "_t3mhKmmg"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2016,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/81399.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/81399t.jpg",
+    "synonyms": [
+      "NANBAKA",
+      "Nambaka",
+      "Numbaka",
+      "The Numbers",
+      "ナンバカ",
+      "黑白来看守所",
+      "난바카"
+    ]
+  },
+  {
     "title": "競女!!!!!!!!",
     "titleTranslate": {
       "en": [
@@ -6179,31 +6625,31 @@
       },
       {
         "site": "anilist",
-        "id": "21639"
+        "id": "98833"
       },
       {
         "site": "anime-planet",
-        "id": "keijo"
+        "id": "keijo-specials"
       },
       {
         "site": "anisearch",
-        "id": "11160"
+        "id": "12260"
       },
       {
         "site": "kitsu",
-        "id": "11824"
+        "id": "13922"
       },
       {
         "site": "livechart",
-        "id": "2028"
+        "id": "2345"
       },
       {
         "site": "myanimelist",
-        "id": "32686"
+        "id": "34884"
       },
       {
         "site": "notify",
-        "id": "b1w3pFimR"
+        "id": "4nuI2Kmmg"
       }
     ],
     "animeSeason": {
@@ -6212,16 +6658,19 @@
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 6,
-    "picture": "https://cdn.myanimelist.net/images/anime/1146/115571.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1146/115571t.jpg",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/81906.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/81906t.jpg",
     "synonyms": [
-      "Keijo!!!!!!!! Bonusfolgen",
-      "Keijo!!!!!!!! OVAs",
+      "Hip Whip Girl",
+      "keijo",
+      "Кэйджо!!!!!!!!",
       "けいじょ",
+      "竞女",
+      "竞女!!!!!!!!",
       "競女!!!!!!!!",
-      "競女!!!!!!!! Specials",
-      "競女！！！！！！！！ Specials"
+      "競女!!!!!!!!: HiP WHiP GiRL",
+      "競女！！！！！！！！"
     ]
   },
   {
@@ -6552,8 +7001,16 @@
         "begin": ""
       },
       {
-        "site": "anime-planet",
-        "id": "gakuen-handsome"
+        "site": "anidb",
+        "id": "11174"
+      },
+      {
+        "site": "anilist",
+        "id": "118043"
+      },
+      {
+        "site": "anilist",
+        "id": "21392"
       },
       {
         "site": "anime-planet",
@@ -6573,19 +7030,71 @@
       },
       {
         "site": "anime-planet",
+        "id": "gakuen-handsome-special"
+      },
+      {
+        "site": "anime-planet",
         "id": "gakuen-handsome-the-animation"
       },
       {
+        "site": "anisearch",
+        "id": "10509"
+      },
+      {
         "site": "kitsu",
-        "id": "12482"
+        "id": "10889"
+      },
+      {
+        "site": "kitsu",
+        "id": "12675"
+      },
+      {
+        "site": "kitsu",
+        "id": "12736"
+      },
+      {
+        "site": "kitsu",
+        "id": "12751"
       },
       {
         "site": "myanimelist",
-        "id": "33392"
+        "id": "30531"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33457"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33911"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33912"
+      },
+      {
+        "site": "myanimelist",
+        "id": "52759"
+      },
+      {
+        "site": "myanimelist",
+        "id": "52760"
       },
       {
         "site": "notify",
-        "id": "a7Lz2Fimg"
+        "id": "3D0_pFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "PIXm2Fimg"
+      },
+      {
+        "site": "notify",
+        "id": "Qf1i2KmiR"
+      },
+      {
+        "site": "notify",
+        "id": "epwihFimg"
       }
     ],
     "animeSeason": {
@@ -6594,13 +7103,14 @@
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/80453.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/80453t.jpg",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/81425.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/81425t.jpg",
     "synonyms": [
-      "Gakuen Handsome 12.5",
       "がくえんはんさむ",
-      "学園ハンサム"
+      "学园帅哥",
+      "学園ハンサム",
+      "學園帥哥"
     ]
   },
   {
@@ -9556,111 +10066,6 @@
     ]
   },
   {
-    "title": "チア男子!!",
-    "titleTranslate": {
-      "zh-Hans": [
-        "男子啦啦队!!",
-        "男子拉拉队!!"
-      ],
-      "en": [
-        "Cheer Boys"
-      ],
-      "zh-Hant": [
-        "男子啦啦隊！！"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://www.cheer-boys.com/",
-    "begin": "2016-07-05T14:00:00.000Z",
-    "end": "2016-09-20T16:00:00.000Z",
-    "sites": [
-      {
-        "site": "youku",
-        "id": "c87eb8763d9b11e69b6d",
-        "begin": "2016-07-05T16:00:00.000Z"
-      },
-      {
-        "site": "bangumi",
-        "id": "175402"
-      },
-      {
-        "site": "nicovideo",
-        "id": "cheer-boys",
-        "begin": ""
-      },
-      {
-        "site": "bilibili",
-        "id": "18747402",
-        "begin": "2016-07-04T16:00:00.000Z",
-        "broadcast": "R/2019-02-28T07:15:00.000Z/P7D"
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcihVwmQwxWdRcN555bW3veO",
-        "begin": "2020-03-04T16:00:00.000Z",
-        "broadcast": "R/2020-03-04T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "82751",
-        "begin": "2016-07-05T19:10:00.000Z",
-        "broadcast": "R/2016-07-05T19:10:00.000Z/P7D"
-      },
-      {
-        "site": "anilist",
-        "id": "21713"
-      },
-      {
-        "site": "anime-planet",
-        "id": "cheer-boys"
-      },
-      {
-        "site": "anime-planet",
-        "id": "cheer-boys-the-view-we-seven-shared"
-      },
-      {
-        "site": "anisearch",
-        "id": "11257"
-      },
-      {
-        "site": "kitsu",
-        "id": "11770"
-      },
-      {
-        "site": "livechart",
-        "id": "2105"
-      },
-      {
-        "site": "myanimelist",
-        "id": "32483"
-      },
-      {
-        "site": "notify",
-        "id": "HH13tKimg"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2016,
-      "month": "07"
-    },
-    "status": "FINISHED",
-    "episodes": 2,
-    "picture": "https://cdn.myanimelist.net/images/anime/1938/112068.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1938/112068t.jpg",
-    "synonyms": [
-      "Cheer Boys!! OVA",
-      "Cheer Boys!! Specials",
-      "Cheer Danshi!! (2016)",
-      "Cheer Danshi!! OVA",
-      "ちあだんし",
-      "チア男子!!",
-      "チア男子!! OVA",
-      "チア男子！！ （2016）"
-    ]
-  },
-  {
     "title": "12歳。～ちっちゃなムネのトキメキ～",
     "titleTranslate": {
       "zh-Hans": [
@@ -9762,92 +10167,6 @@
       "Age 12: A Little Heart-Pounding 2",
       "Juuni-sai.",
       "じゅうにさいちっちゃなむねのときめき"
-    ]
-  },
-  {
-    "title": "Hi☆sCoool! セハガール",
-    "titleTranslate": {
-      "zh-Hans": [
-        "Hi★sCoool! 世嘉硬件女孩",
-        "世嘉硬件女孩"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://shg.sega.jp/anime.html",
-    "begin": "2014-10-08T13:00:00.000Z",
-    "end": "2014-12-24T14:20:00.000Z",
-    "sites": [
-      {
-        "site": "bilibili",
-        "id": "321",
-        "begin": "2014-10-08T14:00:00.000Z",
-        "broadcast": "R/2014-10-08T14:00:00.000Z/P7D"
-      },
-      {
-        "site": "bangumi",
-        "id": "101784"
-      },
-      {
-        "site": "nicovideo",
-        "id": "shg-sega",
-        "begin": "2014-10-11T14:45:00.000Z"
-      },
-      {
-        "site": "anilist",
-        "id": "20830"
-      },
-      {
-        "site": "anime-planet",
-        "id": "hi-scool-seha-girls"
-      },
-      {
-        "site": "anisearch",
-        "id": "9601"
-      },
-      {
-        "site": "kitsu",
-        "id": "8428"
-      },
-      {
-        "site": "livechart",
-        "id": "524"
-      },
-      {
-        "site": "myanimelist",
-        "id": "23787"
-      },
-      {
-        "site": "notify",
-        "id": "6WOAtKiig"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2016,
-      "month": "10"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/82645.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/82645t.jpg",
-    "synonyms": [
-      "Dai-54-Kai Hanpa Jano! Zenryoku de Guu! Yūshō Suru no wa Only You! Subete no Gakkou Gyouji o Kako ni Suru! SeHaGaga Gakuen Taiikusai",
-      "Hi Scool! Seha Girl: Dai-54-kai Hanpa ja nō! Zenryoku de Gū! Yūshō Suru no wa Only You! Subete no Gakkō Gyōji o Kako ni Suru! SeHaGaga Gakuen Taiikusai",
-      "Hi Scoool! Seha Girl: Dai-54-kai Hanpa ja noo! Zenryoku de Guu! Yuushou Suru no wa Only You! Subete no Gakkou Gyouji o Kako ni Suru! SeHaGaga Gakuen Taiikusai",
-      "Hi Scoool! Seha Girl: Dai-54-kai Hanpa ja noo! Zenryoku de Guu! Yuushou Suru no wa Only You! Subete no Gakkou Gyouji wo Kako ni Suru! SeHaGaga Gakuen Taiikusai",
-      "Hi-sCool! Seha Girls Special",
-      "Hi-sCool! Seha Girls: 54th \"Awesome! As Good As It Gets! Only You Can Achieve Victory! Leaves All Other School Events Behind!\" SeHaGaga Academy Sports Festival",
-      "Hi☆sCoool! SeHa Girl: Dai-54-Kai Hanpa Jano! Zenryoku de Guu! Youshou Suru no wa Only You! Subete no Gakkou Gyouji o Kako ni Suru! SeHaGaga Gakuen Taiikusai",
-      "Hi☆sCoool! SeHa Girl: Special",
-      "Hi☆sCoool! Sega Hard Girls Special",
-      "Hi☆sCoool! セハガール",
-      "Hi☆sCoool! セハガール 第54回 ハンパじゃノー! 全力でグー! 優勝するのはオンリーユー! すべての学校行事を過去にする! セハガガ学園体育祭",
-      "Hi☆sCoool! セハガール: 第54回 ハンパじゃノー！全力でグー！優勝するのはオンリーユー！すべての学校行事を過去にする！セハガガ学園体育祭",
-      "SeHa Girls Episode 14",
-      "Sega Hard Girls OVA",
-      "Sega Hard Girls Special",
-      "第54回 ハンパじゃノー！全力でグー！優勝するのはオンリーユー！すべての学校行事を過去にする！セハガガ学園体育祭"
     ]
   },
   {

@@ -248,6 +248,89 @@
     ]
   },
   {
+    "title": "蒼き流星SPTレイズナー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "苍之流星SPT雷兹纳"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-10-03T14:00:00.000Z",
+    "end": "1986-06-26T14:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "5430"
+      },
+      {
+        "site": "pptv",
+        "id": "Q4x49l7ENHLVU7s",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2421",
+        "begin": "1985-10-02T16:00:00.000Z"
+      },
+      {
+        "site": "anidb",
+        "id": "2155"
+      },
+      {
+        "site": "anilist",
+        "id": "5755"
+      },
+      {
+        "site": "anime-planet",
+        "id": "blue-comet-spt-layzner-ova"
+      },
+      {
+        "site": "anisearch",
+        "id": "3021"
+      },
+      {
+        "site": "kitsu",
+        "id": "2777"
+      },
+      {
+        "site": "livechart",
+        "id": "7268"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5755"
+      },
+      {
+        "site": "notify",
+        "id": "97r8cFmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1985,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 38,
+    "picture": "https://cdn.myanimelist.net/images/anime/1106/91083.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1106/91083t.jpg",
+    "synonyms": [
+      "Aoki Ryusei SPT Layzner",
+      "Aoki Ryūsei SPT Layzner",
+      "Blue Comet SPT Layzner",
+      "Blue Meteor SPT Layzner",
+      "Layzner",
+      "Layzner Super Powered Tracer",
+      "SPT Layzner",
+      "Голубой метеор СПТ Лейзнер",
+      "あおきりゅうせいえすぴーてぃーれいずなー",
+      "苍之流星SPT雷兹纳",
+      "蒼き流星SPTレイズナー"
+    ]
+  },
+  {
     "title": "ハイスクール！奇面組",
     "titleTranslate": {
       "en": [
@@ -323,91 +406,144 @@
     ]
   },
   {
-    "title": "ニルスのふしぎな旅",
+    "title": "ゲゲゲの鬼太郎",
     "titleTranslate": {
-      "en": [
-        "The Wonderful Adventures of Nils"
-      ],
       "zh-Hans": [
-        "骑鹅旅行记"
+        "鬼太郎"
       ]
     },
-    "type": "tv",
+    "type": "movie",
     "lang": "ja",
-    "officialSite": "http://www9.nhk.or.jp/anime/nils/",
-    "begin": "1980-01-08T12:00:00.000Z",
-    "end": "1981-03-17T13:00:00.000Z",
+    "officialSite": "",
+    "begin": "1968-07-21T16:00:00.000Z",
+    "end": "1968-07-21T17:00:00.000Z",
     "sites": [
       {
         "site": "bangumi",
-        "id": "205450"
-      },
-      {
-        "site": "bilibili",
-        "id": "2447",
-        "begin": "1980-01-07T16:00:00.000Z"
+        "id": "211091"
       },
       {
         "site": "anidb",
-        "id": "2654"
+        "id": "1453"
       },
       {
         "site": "anilist",
-        "id": "2151"
+        "id": "7307"
       },
       {
         "site": "anime-planet",
-        "id": "the-wonderful-adventures-of-nils-holgersson"
+        "id": "gegege-no-kitarou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-1968"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-1971"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-1985"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-1996"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-2007"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-2018"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-chisougan"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-daikaijuu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-gekitotsu-ijigen-youkai-no-daihanran"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-jigoku-hen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-kitarou-no-yuurei-densha"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-kitarou-tanjou-hen"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-nippon-bakuretsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-obake-nighter"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-saikyou-youkai-gundan-nihon-jouriku"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-youkai-daisensou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-youkai-japan-rally-3d"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gegege-no-kitarou-youkai-tokkyuu-maboroshi-no-kisha"
+      },
+      {
+        "site": "anime-planet",
+        "id": "hakaba-kitarou"
       },
       {
         "site": "anisearch",
-        "id": "2116"
+        "id": "3014"
       },
       {
         "site": "kitsu",
-        "id": "1947"
-      },
-      {
-        "site": "livechart",
-        "id": "7019"
+        "id": "4936"
       },
       {
         "site": "myanimelist",
-        "id": "2151"
+        "id": "7307"
       },
       {
         "site": "notify",
-        "id": "RMjL5Kmmg"
+        "id": "2esRtKmmR"
       }
     ],
     "animeSeason": {
       "season": "FALL",
       "year": 1985,
-      "month": "01"
+      "month": "07"
     },
     "status": "FINISHED",
     "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/69741.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/69741t.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/5/21017.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/21017t.jpg",
     "synonyms": [
-      "Die wunderbare Reise des kleinen Nils Holgersson mit den Wildgänsen: Der Spielfilm",
-      "El Maravilloso Viaje de Nils Holgersson. La película",
-      "Nils Holgersson csodálatos utazása a vadludakkal (mozi)",
-      "Nils Holgerssons forunderlige reise",
-      "Nils no Fushigi na Tabi",
-      "Nils no Fushigi na Tabi Gekijouban",
-      "Nils no Fushigi na Tabi Gekijōban",
-      "Nils no Fushigi na Tabi Movie",
-      "Nils no Fushigi na Tabi: Movie",
-      "Nirusu no Fushigi na Tabi",
-      "The Wonderful Adventures of Nils Holgersson Movie",
-      "The Wonderful Adventures of Nils Movie",
-      "The Wonderful Adventures of Nils: The Film",
-      "Wonderful Adventures of Nils (Movie)",
-      "Νίλς Χόλγκερσον",
-      "にるすのふしぎなたび",
-      "ニルスのふしぎな旅",
-      "ニルスのふしぎな旅 劇場版"
+      "GeGeGe no Kitarou Movie (1985)",
+      "Gegege no Kitaro Movie 3: Youkai Gundan",
+      "Gegege no Kitarou (1985, Movie)",
+      "Gegege no Kitarō (1985, Movie)",
+      "Spooky Kitaro",
+      "ゲゲゲの鬼太郎",
+      "ゲゲゲの鬼太郎 (1985, Movie)"
     ]
   }
 ]

@@ -1735,8 +1735,20 @@
         "broadcast": "R/2020-02-14T16:00:00.000Z/P7D"
       },
       {
+        "site": "anidb",
+        "id": "11008"
+      },
+      {
         "site": "anilist",
-        "id": "17729"
+        "id": "21005"
+      },
+      {
+        "site": "anilist",
+        "id": "21010"
+      },
+      {
+        "site": "anime-planet",
+        "id": "grisaia-phantom-trigger"
       },
       {
         "site": "anime-planet",
@@ -1748,7 +1760,7 @@
       },
       {
         "site": "anime-planet",
-        "id": "the-fruit-of-grisaia"
+        "id": "the-fruit-of-grisaia-specials"
       },
       {
         "site": "anime-planet",
@@ -1760,15 +1772,19 @@
       },
       {
         "site": "anisearch",
-        "id": "8460"
+        "id": "10069"
+      },
+      {
+        "site": "anisearch",
+        "id": "10140"
       },
       {
         "site": "kitsu",
-        "id": "11236"
+        "id": "10150"
       },
       {
         "site": "kitsu",
-        "id": "7982"
+        "id": "10154"
       },
       {
         "site": "livechart",
@@ -1784,15 +1800,15 @@
       },
       {
         "site": "livechart",
+        "id": "1353"
+      },
+      {
+        "site": "livechart",
         "id": "1739"
       },
       {
         "site": "livechart",
         "id": "1743"
-      },
-      {
-        "site": "livechart",
-        "id": "212"
       },
       {
         "site": "livechart",
@@ -1804,19 +1820,19 @@
       },
       {
         "site": "myanimelist",
-        "id": "17729"
+        "id": "29093"
       },
       {
         "site": "myanimelist",
-        "id": "31324"
+        "id": "29101"
       },
       {
         "site": "notify",
-        "id": "XogrpFmmR"
+        "id": "6FoypKmiR"
       },
       {
         "site": "notify",
-        "id": "pJO2tFmmR"
+        "id": "vY2stKiig"
       }
     ],
     "animeSeason": {
@@ -1825,22 +1841,21 @@
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 6,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/71683.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/71683t.jpg",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/1645/112632.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1645/112632t.jpg",
     "synonyms": [
-      "Grisaia no Kajitsu Eizou Tokuten",
-      "Grisaia no Kajitsu Eizō Tokuten",
-      "Grisaia no Kajitsu: Grisaia no Tokuten",
-      "Le Fruit De La Grisaia: Grisaia no Tokuten",
-      "Le Fruit de la Grisaia Specials",
-      "The Fruit of Grisaia Bonus footage",
-      "The Fruit of Grisaia Specials",
-      "The Fruit of Grisaia: Grisaia no Tokuten",
+      "GriKaji",
+      "Le Fruit De La Grisaia",
+      "Le Fruit de La Grisaia",
+      "Le Fruit de la Grisaia",
+      "The Fruit of Grisaia",
+      "grisaia",
       "ぐりざいあのかじつ",
       "グリザイアの果実",
-      "グリザイアの果実 グリザイアの特典",
-      "グリザイアの果実 映像特典"
+      "グリザイアの果実 -LE FRUIT DE LA GRISAIA-",
+      "灰色的果实",
+      "그리자이아의 과실"
     ]
   },
   {
@@ -2143,19 +2158,55 @@
       },
       {
         "site": "anidb",
-        "id": "10596"
+        "id": "11138"
+      },
+      {
+        "site": "anidb",
+        "id": "12047"
+      },
+      {
+        "site": "anidb",
+        "id": "17355"
       },
       {
         "site": "anilist",
-        "id": "20789"
+        "id": "141352"
+      },
+      {
+        "site": "anilist",
+        "id": "21104"
+      },
+      {
+        "site": "anilist",
+        "id": "21385"
       },
       {
         "site": "anime-planet",
-        "id": "the-seven-deadly-sins"
+        "id": "hawk-no-onayami-soudanshitsu"
+      },
+      {
+        "site": "anime-planet",
+        "id": "mameshiba-x-the-seven-deadly-sins"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-seven-deadly-sins-dragons-judgement"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-seven-deadly-sins-imperial-wrath-of-the-gods"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-seven-deadly-sins-movie-2-cursed-by-light"
       },
       {
         "site": "anime-planet",
         "id": "the-seven-deadly-sins-movie-prisoners-of-the-sky"
+      },
+      {
+        "site": "anime-planet",
+        "id": "the-seven-deadly-sins-ova"
       },
       {
         "site": "anime-planet",
@@ -2175,11 +2226,31 @@
       },
       {
         "site": "anisearch",
-        "id": "9597"
+        "id": "10417"
+      },
+      {
+        "site": "anisearch",
+        "id": "11296"
+      },
+      {
+        "site": "anisearch",
+        "id": "13191"
       },
       {
         "site": "kitsu",
-        "id": "8699"
+        "id": "10751"
+      },
+      {
+        "site": "kitsu",
+        "id": "11414"
+      },
+      {
+        "site": "kitsu",
+        "id": "13647"
+      },
+      {
+        "site": "kitsu",
+        "id": "14204"
       },
       {
         "site": "livechart",
@@ -2199,6 +2270,10 @@
       },
       {
         "site": "livechart",
+        "id": "1447"
+      },
+      {
+        "site": "livechart",
         "id": "1844"
       },
       {
@@ -2211,10 +2286,6 @@
       },
       {
         "site": "livechart",
-        "id": "527"
-      },
-      {
-        "site": "livechart",
         "id": "9410"
       },
       {
@@ -2223,40 +2294,51 @@
       },
       {
         "site": "myanimelist",
-        "id": "23755"
+        "id": "30347"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31722"
+      },
+      {
+        "site": "myanimelist",
+        "id": "36923"
       },
       {
         "site": "notify",
-        "id": "RvaJtFmig"
+        "id": "1l9wtFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "Y2rrpFimR"
       }
     ],
     "animeSeason": {
-      "season": "SPRING",
-      "year": 2015,
+      "season": "FALL",
+      "year": 2014,
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 2,
-    "picture": "https://cdn.myanimelist.net/images/anime/1973/97505.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1973/97505t.jpg",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/65409.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/65409t.jpg",
     "synonyms": [
-      "7DS OVA",
-      "Nanatsu no Taizai (2015)",
-      "Nanatsu no Taizai OAD",
-      "Nanatsu no Taizai: Ban no Bangai-hen",
-      "SDS OVA",
-      "The Seven Deadly Sins OAD",
-      "The Seven Deadly Sins OVA",
-      "The Seven Deadly Sins: Ban's Side Story",
-      "The Seven Deadly Sins: Ban's Side Story OVA",
-      "The Seven Deadly Sins: Bandit Ban OVA 1",
-      "ななつのたいざい",
+      "7DS",
+      "I Sette Peccati Capitali",
+      "SDS",
+      "Sedam smrtnih grijeha",
+      "Seven Deadly Sins",
+      "The Seven Deadly Sins",
+      "The Seven Deadly Sins: Siedem Grzechów Głównych",
+      "Yedi Ölümcül Günah",
+      "Седемте смъртни гряха",
+      "Семь Смертных Грехов",
+      "שבעת חטאי המוות",
+      "الخطايا السبع المميتة",
+      "ศึกตำนาน 7 อัศวิน",
       "七つの大罪",
-      "七つの大罪 (2015)",
-      "七つの大罪 OAD",
-      "七つの大罪 OVA",
-      "七つの大罪 （2015）",
-      "七大罪 OAD"
+      "七つの大罪 The Seven Deadly Sins",
+      "七大罪"
     ]
   },
   {
@@ -2676,31 +2758,31 @@
       },
       {
         "site": "anilist",
-        "id": "20656"
+        "id": "20904"
       },
       {
         "site": "anime-planet",
-        "id": "gugure-kokkuri-san"
+        "id": "gugure-kokkuri-san-specials"
       },
       {
         "site": "anisearch",
-        "id": "9531"
+        "id": "9972"
       },
       {
         "site": "kitsu",
-        "id": "8333"
+        "id": "9835"
       },
       {
         "site": "livechart",
-        "id": "473"
+        "id": "1256"
       },
       {
         "site": "myanimelist",
-        "id": "23251"
+        "id": "27945"
       },
       {
         "site": "notify",
-        "id": "KTropFmmR"
+        "id": "seREtFimR"
       }
     ],
     "animeSeason": {
@@ -2709,18 +2791,22 @@
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 11,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/67735.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/67735t.jpg",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/65665.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/65665t.jpg",
     "synonyms": [
-      "Gugure! Kokkuri-san Mini OVA",
-      "Gugure! Kokkuri-san Short Eps",
+      "GUGURE! KOKKURI-SAN",
+      "Google it! Kokkuri-san",
+      "GuguKoku",
+      "gugukoku",
+      "Загугли это",
+      "Коккури-сан!",
       "ぐぐれこっくりさん",
       "繰繰れ! コックリさん",
-      "繰繰れ！ コックリさんミニOVA",
+      "繰繰れ!コックリさん",
+      "繰繰れ！ コックリさん",
       "繰繰れ！コックリさん",
-      "繰繰れ！コックリさん Specials",
-      "繰繰れ！コックリさん 新作OVA"
+      "银仙"
     ]
   },
   {
@@ -3468,56 +3554,78 @@
       },
       {
         "site": "anidb",
-        "id": "10725"
+        "id": "11143"
       },
       {
         "site": "anilist",
-        "id": "20770"
+        "id": "21138"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yona-of-the-dawn-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "yona-of-the-dawn-zeno-arc"
+      },
+      {
+        "site": "anisearch",
+        "id": "10326"
+      },
+      {
+        "site": "anisearch",
+        "id": "11235"
       },
       {
         "site": "kitsu",
-        "id": "8648"
+        "id": "10759"
       },
       {
         "site": "livechart",
-        "id": "669"
+        "id": "1454"
       },
       {
         "site": "myanimelist",
-        "id": "25013"
+        "id": "30370"
       },
       {
         "site": "notify",
-        "id": "uRd1pKimg"
+        "id": "m_CQtFmmR"
       }
     ],
     "animeSeason": {
-      "season": "SUMMER",
-      "year": 2015,
+      "season": "FALL",
+      "year": 2014,
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 3,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/75974.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/75974t.jpg",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/64225.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/64225t.jpg",
     "synonyms": [
-      "AkaYona OVA",
-      "Akatsuki no Yona (2015)",
-      "Akatsuki no Yona: Sono Se ni wa",
-      "Akatsuki no Yona: Zeno-hen",
-      "Yona of the Dawn (2015)",
-      "Yona of the Dawn OVA",
+      "AkaYona",
+      "Akatsuka no Yona: Yona of the Dawn",
+      "Akatsuki No Yona: Prinzessin der Morgendämmerung",
+      "Akatsuki no Yona: Prinzessin der Morgendämmerung",
+      "Akatsuki no Yona: The Girl Standing in the Blush of Dawn",
+      "The Girl Standing in the Blush of Dawn",
+      "Yona of the Dawn",
+      "Yona, princesa del amanecer",
+      "Yona, princesse de l'aube",
+      "Yona, princesse de l`aube",
+      "Yona: Princesse de l'Aube",
       "Yona: The girl standing in the blush of dawn",
-      "yotd OVA",
+      "yotd",
       "Ёна на заре",
+      "Иона на заре",
+      "Йон А - момичето на утринната свежест",
       "Йона на заре",
+      "Рассвет Ёны",
       "Рассвет Йоны",
       "あかつきのよな",
-      "拂晓的尤娜 OAD",
-      "暁のヨナ",
-      "暁のヨナ (2015)",
-      "暁のヨナ OVA",
-      "暁のヨナ その背には"
+      "拂晓的尤娜",
+      "晨曦公主",
+      "暁のヨナ"
     ]
   },
   {
@@ -3573,31 +3681,31 @@
       },
       {
         "site": "anilist",
-        "id": "17827"
+        "id": "20902"
       },
       {
         "site": "anime-planet",
-        "id": "a-good-librarian-like-a-good-shepherd"
+        "id": "a-good-librarian-like-a-good-shepherd-picture-drama"
       },
       {
         "site": "anisearch",
-        "id": "8913"
+        "id": "9951"
       },
       {
         "site": "kitsu",
-        "id": "8002"
+        "id": "10247"
       },
       {
         "site": "livechart",
-        "id": "231"
+        "id": "1255"
       },
       {
         "site": "myanimelist",
-        "id": "17827"
+        "id": "29165"
       },
       {
         "site": "notify",
-        "id": "jNh2pKmmg"
+        "id": "wClypFmmR"
       }
     ],
     "animeSeason": {
@@ -3606,16 +3714,19 @@
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 6,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/70145.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/70145t.jpg",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/75230.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/75230t.jpg",
     "synonyms": [
-      "A Good Librarian Like a Good Shepherd Picture Drama",
-      "Daitoshokan no Hitsujikai Zenyasai",
+      "A Good Librarian Like a Good Shepherd",
+      "A Good Librarian like a Good Shepherd",
+      "A good librarian like a good shepherd",
+      "daitokai",
+      "daitoshokan",
+      "Прекрасный библиотекарь",
       "だいとしょかんのひつじかい",
       "大図書館の羊飼い",
-      "大図書館の羊飼い ピクチャードラマ",
-      "大図書館の羊飼い 前夜祭"
+      "大图书馆的牧羊人"
     ]
   },
   {
@@ -3787,59 +3898,46 @@
       },
       {
         "site": "anilist",
-        "id": "20830"
+        "id": "122758"
       },
       {
         "site": "anime-planet",
-        "id": "hi-scool-seha-girls"
+        "id": "hi-scool-seha-girls-special"
       },
       {
         "site": "anisearch",
-        "id": "9601"
-      },
-      {
-        "site": "kitsu",
-        "id": "8428"
+        "id": "11803"
       },
       {
         "site": "livechart",
-        "id": "524"
+        "id": "2344"
       },
       {
         "site": "myanimelist",
-        "id": "23787"
-      },
-      {
-        "site": "notify",
-        "id": "6WOAtKiig"
+        "id": "34323"
       }
     ],
     "animeSeason": {
       "season": "FALL",
-      "year": 2016,
+      "year": 2014,
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/82645.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/82645t.jpg",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/66173.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/66173t.jpg",
     "synonyms": [
-      "Dai-54-Kai Hanpa Jano! Zenryoku de Guu! Yūshō Suru no wa Only You! Subete no Gakkou Gyouji o Kako ni Suru! SeHaGaga Gakuen Taiikusai",
-      "Hi Scool! Seha Girl: Dai-54-kai Hanpa ja nō! Zenryoku de Gū! Yūshō Suru no wa Only You! Subete no Gakkō Gyōji o Kako ni Suru! SeHaGaga Gakuen Taiikusai",
-      "Hi Scoool! Seha Girl: Dai-54-kai Hanpa ja noo! Zenryoku de Guu! Yuushou Suru no wa Only You! Subete no Gakkou Gyouji o Kako ni Suru! SeHaGaga Gakuen Taiikusai",
-      "Hi Scoool! Seha Girl: Dai-54-kai Hanpa ja noo! Zenryoku de Guu! Yuushou Suru no wa Only You! Subete no Gakkou Gyouji wo Kako ni Suru! SeHaGaga Gakuen Taiikusai",
-      "Hi-sCool! Seha Girls Special",
-      "Hi-sCool! Seha Girls: 54th \"Awesome! As Good As It Gets! Only You Can Achieve Victory! Leaves All Other School Events Behind!\" SeHaGaga Academy Sports Festival",
-      "Hi☆sCoool! SeHa Girl: Dai-54-Kai Hanpa Jano! Zenryoku de Guu! Youshou Suru no wa Only You! Subete no Gakkou Gyouji o Kako ni Suru! SeHaGaga Gakuen Taiikusai",
-      "Hi☆sCoool! SeHa Girl: Special",
-      "Hi☆sCoool! Sega Hard Girls Special",
+      "Hi Scoool! Seha Girl",
+      "Hi-sCool! Seha Girls",
+      "Hi-sCoool! SeHa Girl",
+      "Hi☆sCoool! SeHa Girl",
+      "Hi☆sCoool! Sega Hard Girl",
+      "Hi☆sCoool! Sega Hard Girls",
+      "Hi☆sCoool! Seha Girls",
       "Hi☆sCoool! セハガール",
-      "Hi☆sCoool! セハガール 第54回 ハンパじゃノー! 全力でグー! 優勝するのはオンリーユー! すべての学校行事を過去にする! セハガガ学園体育祭",
-      "Hi☆sCoool! セハガール: 第54回 ハンパじゃノー！全力でグー！優勝するのはオンリーユー！すべての学校行事を過去にする！セハガガ学園体育祭",
-      "SeHa Girls Episode 14",
-      "Sega Hard Girls OVA",
-      "Sega Hard Girls Special",
-      "第54回 ハンパじゃノー！全力でグー！優勝するのはオンリーユー！すべての学校行事を過去にする！セハガガ学園体育祭"
+      "Sega Hard Girls",
+      "はいすくーるせはがーる",
+      "世嘉硬件女孩"
     ]
   },
   {
@@ -5342,22 +5440,73 @@
         "id": "120086"
       },
       {
+        "site": "anidb",
+        "id": "10621"
+      },
+      {
+        "site": "anidb",
+        "id": "10831"
+      },
+      {
+        "site": "anilist",
+        "id": "20885"
+      },
+      {
+        "site": "anime-planet",
+        "id": "narihero-www"
+      },
+      {
+        "site": "anisearch",
+        "id": "9639"
+      },
+      {
+        "site": "anisearch",
+        "id": "9868"
+      },
+      {
+        "site": "kitsu",
+        "id": "8941"
+      },
+      {
+        "site": "kitsu",
+        "id": "9144"
+      },
+      {
+        "site": "myanimelist",
+        "id": "24071"
+      },
+      {
         "site": "myanimelist",
         "id": "27519"
+      },
+      {
+        "site": "notify",
+        "id": "nJ-xpKimg"
+      },
+      {
+        "site": "notify",
+        "id": "qGcatFiiR"
       }
     ],
     "animeSeason": {
-      "season": "FALL",
+      "season": "SUMMER",
       "year": 2014,
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 3,
-    "picture": "https://cdn.myanimelist.net/images/anime/1389/115039.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1389/115039t.jpg",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/67205.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/67205t.jpg",
     "synonyms": [
-      "Narihero www Specials",
-      "こんな私たちがなりゆきでヒロインになった結果www"
+      "Konna Watashi-tachi ga Nariyuki de Heroine ni Natta Kekka www",
+      "Konna Watashi-tachi ga Nariyuki de Heroine ni Natta Kekka www 'Narihero www' Movie",
+      "Konna Watashitachi ga Nariyuki de Heroine ni Natta Kekka www Movie",
+      "Nari Hero www",
+      "Narihero www",
+      "Narihero www Movie",
+      "こんなわたしたちがなりゆきでひろいんになったけっか",
+      "こんな私たちがなりゆきでヒロインになった結果www",
+      "なりヒロwww"
     ]
   },
   {
@@ -6203,42 +6352,39 @@
       },
       {
         "site": "anime-planet",
-        "id": "alice-in-borderland"
+        "id": "alice-in-borderland-cm"
       },
       {
         "site": "anisearch",
-        "id": "9973"
+        "id": "8863"
       },
       {
         "site": "kitsu",
-        "id": "8643"
+        "id": "11766"
       },
       {
         "site": "myanimelist",
-        "id": "24781"
+        "id": "32548"
       },
       {
         "site": "notify",
-        "id": "dyNJtKmiR"
+        "id": "DL03pFmig"
       }
     ],
     "animeSeason": {
-      "season": "SUMMER",
-      "year": 2013,
+      "season": "FALL",
+      "year": 2014,
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/78142.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/78142t.jpg",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/1004/96669.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1004/96669t.jpg",
     "synonyms": [
       "Alice in Borderland",
-      "Alice in Borderland CM",
-      "CM Gekijou: Imawa no Kuni no Alice",
-      "CM Gekijō: Imawa no Kuni no Alice",
-      "CM劇場 今際の国のアリス",
-      "Imawa no Kuni no Alice",
-      "Imawa no Kuni no Alice CM",
+      "Alice in Borderland OVA",
+      "Imawa no Kuni no Alice (OVA)",
+      "imawa",
       "いまわのくにのありす",
       "今際の国のアリス"
     ]

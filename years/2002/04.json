@@ -380,8 +380,72 @@
         "broadcast": ""
       },
       {
+        "site": "anidb",
+        "id": "11198"
+      },
+      {
+        "site": "anidb",
+        "id": "3608"
+      },
+      {
+        "site": "anidb",
+        "id": "7906"
+      },
+      {
+        "site": "anilist",
+        "id": "21229"
+      },
+      {
+        "site": "anilist",
+        "id": "9795"
+      },
+      {
+        "site": "anilist",
+        "id": "9796"
+      },
+      {
+        "site": "anime-planet",
+        "id": "atashinchi-3d-movie-jounetsu-no-chou-chounouryoku-haha-daibousou"
+      },
+      {
+        "site": "anime-planet",
+        "id": "atashinchi-movie"
+      },
+      {
+        "site": "anime-planet",
+        "id": "atashinchi-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "shin-atashinchi"
+      },
+      {
+        "site": "anisearch",
+        "id": "10531"
+      },
+      {
+        "site": "anisearch",
+        "id": "1293"
+      },
+      {
+        "site": "anisearch",
+        "id": "6457"
+      },
+      {
+        "site": "kitsu",
+        "id": "10977"
+      },
+      {
+        "site": "kitsu",
+        "id": "5873"
+      },
+      {
+        "site": "kitsu",
+        "id": "5874"
+      },
+      {
         "site": "livechart",
-        "id": "12495"
+        "id": "12494"
       },
       {
         "site": "livechart",
@@ -398,19 +462,54 @@
       {
         "site": "livechart",
         "id": "1536"
+      },
+      {
+        "site": "myanimelist",
+        "id": "30649"
+      },
+      {
+        "site": "myanimelist",
+        "id": "42198"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9795"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9796"
+      },
+      {
+        "site": "notify",
+        "id": "QOLGpFimR"
+      },
+      {
+        "site": "notify",
+        "id": "ThLMpFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "VA9_pKmmg"
       }
     ],
     "animeSeason": {
-      "season": "UNDEFINED",
-      "year": null,
+      "season": "SPRING",
+      "year": 2002,
       "month": "04"
     },
-    "status": "UPCOMING",
-    "episodes": 0,
-    "picture": "https://raw.githubusercontent.com/manami-project/anime-offline-database/master/pics/no_pic.png",
-    "thumbnail": "https://raw.githubusercontent.com/manami-project/anime-offline-database/master/pics/no_pic_thumbnail.png",
+    "status": "FINISHED",
+    "episodes": 330,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/50895.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/50895t.jpg",
     "synonyms": [
-      "あたしンち"
+      "Atashinchi",
+      "Atta Mamma",
+      "My Family",
+      "あたしんち",
+      "あたしンち",
+      "我们这一家",
+      "我們這一家",
+      "아따맘마"
     ]
   },
   {
@@ -1353,51 +1452,111 @@
         "begin": "2019-01-25T03:14:50.000Z"
       },
       {
+        "site": "anidb",
+        "id": "170"
+      },
+      {
+        "site": "anidb",
+        "id": "2733"
+      },
+      {
+        "site": "anidb",
+        "id": "4046"
+      },
+      {
+        "site": "anidb",
+        "id": "4514"
+      },
+      {
+        "site": "anilist",
+        "id": "177"
+      },
+      {
+        "site": "anilist",
+        "id": "596"
+      },
+      {
+        "site": "anilist",
+        "id": "969"
+      },
+      {
         "site": "anime-planet",
         "id": "chibits"
       },
       {
         "site": "anime-planet",
-        "id": "chobits"
+        "id": "chobits-hibiya-and-kotoko-chat"
       },
       {
         "site": "anisearch",
-        "id": "1526"
+        "id": "1705"
+      },
+      {
+        "site": "anisearch",
+        "id": "38"
+      },
+      {
+        "site": "anisearch",
+        "id": "4529"
+      },
+      {
+        "site": "anisearch",
+        "id": "4803"
+      },
+      {
+        "site": "anisearch",
+        "id": "4916"
+      },
+      {
+        "site": "anisearch",
+        "id": "5183"
+      },
+      {
+        "site": "anisearch",
+        "id": "759"
       },
       {
         "site": "kitsu",
-        "id": "40"
+        "id": "1176"
+      },
+      {
+        "site": "kitsu",
+        "id": "551"
       },
       {
         "site": "myanimelist",
-        "id": "59"
+        "id": "1311"
+      },
+      {
+        "site": "myanimelist",
+        "id": "596"
       },
       {
         "site": "notify",
-        "id": "HRvt5FiiR"
+        "id": "XhybcKimR"
+      },
+      {
+        "site": "notify",
+        "id": "jjuT5FiiR"
       }
     ],
     "animeSeason": {
-      "season": "WINTER",
-      "year": 2003,
+      "season": "SPRING",
+      "year": 2002,
       "month": "04"
     },
     "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/22857.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/22857t.jpg",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/24648.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/24648t.jpg",
     "synonyms": [
-      "Chobits Chat Room",
-      "Chobits Episode 27",
-      "Chobits Episode 27: Hibiya and Kotoko Tell the Story",
-      "Chobits OVA",
-      "Chobits Special",
-      "Chobits: Hibiya & Kotoko Chat",
-      "Chobits: Hibiya and Kotoko Chat",
-      "Chobits: Hibiya, Kotoko Kataru",
+      "Чобитс",
+      "Чобиты",
+      "Чобіти",
       "ちょびっつ",
       "ちょびっツ",
-      "ちょびっツ 日比谷・琴子 語る"
+      "人形电脑天使心",
+      "쵸빗츠"
     ]
   },
   {

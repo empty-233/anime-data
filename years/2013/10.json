@@ -880,14 +880,17 @@
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/89350.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/89350t.jpg",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/52091.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/52091t.jpg",
     "synonyms": [
-      "Golden Time",
-      "Golden Time (2013)",
+      "GT",
+      "Золотая пора",
+      "ごーるでんたいむ",
       "ゴールデンタイム",
-      "ゴールデンタイム (2013)"
+      "金色时光",
+      "青春纪行",
+      "골든 타임"
     ]
   },
   {
@@ -1428,20 +1431,40 @@
         "begin": "2013-10-05T03:24:40.000Z"
       },
       {
+        "site": "anidb",
+        "id": "10113"
+      },
+      {
         "site": "anilist",
-        "id": "18677"
+        "id": "102033"
+      },
+      {
+        "site": "anilist",
+        "id": "20551"
       },
       {
         "site": "anime-planet",
-        "id": "i-couldnt-become-a-hero-so-i-reluctantly-decided-to-get-a-job"
+        "id": "i-couldnt-become-a-hero-so-i-reluctantly-decided-to-get-a-job-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "i-couldnt-become-a-hero-so-i-reluctantly-decided-to-get-a-job-specials"
+      },
+      {
+        "site": "anisearch",
+        "id": "8326"
       },
       {
         "site": "kitsu",
-        "id": "7725"
+        "id": "10141"
+      },
+      {
+        "site": "kitsu",
+        "id": "8029"
       },
       {
         "site": "livechart",
-        "id": "100"
+        "id": "1753"
       },
       {
         "site": "livechart",
@@ -1449,32 +1472,55 @@
       },
       {
         "site": "myanimelist",
-        "id": "18677"
+        "id": "20545"
+      },
+      {
+        "site": "myanimelist",
+        "id": "28593"
       },
       {
         "site": "notify",
-        "id": "wbGppFmmg"
+        "id": "bBpspFimR"
+      },
+      {
+        "site": "notify",
+        "id": "g_xhtFmmg"
       }
     ],
     "animeSeason": {
-      "season": "WINTER",
-      "year": 2014,
+      "season": "FALL",
+      "year": 2013,
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 5,
-    "picture": "https://cdn.myanimelist.net/images/anime/4/69041.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/69041t.jpg",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/54389.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/54389t.jpg",
     "synonyms": [
-      "I Couldn't Become a Hero, So I Reluctantly Decided to Get a Job. Specials",
-      "I Couldn’t Become a Hero, So I Reluctantly Decided to Get a Job. Specials",
-      "Shinki Seisaku Anime (Honpen-chuu de Nagareru Gekichuu TVCM no Kanzenhan)",
-      "Yu-sibu Extras",
-      "Yuusha ni Nare Nakatta Ore wa Shibushibu Shuushoku o Ketsui Shimashita. Specials",
-      "Yuushibu Extras",
-      "Yuushibu Specials",
+      "I Couldn't Become a Hero, So I Reluctantly Decided to Get a Job.",
+      "I Couldn't Become a Hero, so I Reluctantly Decided to Get a Job",
+      "I Couldn`t Become a Hero, So I Reluctantly Decided to Get a Job",
+      "I Couldn’t Become a Hero, So I Reluctantly Decided to Get a Job.",
+      "I, Who Didn't Become a Hero, Reluctantly Decided to Find a Job",
+      "Je n`ai pas pu devenir un héros, alors j`ai cherché un boulot à contrecœur",
+      "Yu-Sibu",
+      "Yu-sibu",
+      "Yusibu",
+      "Yusibu: I Couldn`t Become a Hero, So I Reluctantly Decided to Get a Job",
+      "Yusibu: I Couldn’t Become a Hero, So I Reluctantly Decided to Get a Job",
+      "Yusibu: I Couldn’t Become a Hero, So I Reluctantly Decided to Get a Job.",
+      "Yusibu: I couldn't become a hero, so I reluctantly decided to get a job.",
+      "Yuusha ni Nare Nakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.",
+      "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku o Ketsui Shimashita.",
+      "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita",
+      "Yuushibu",
+      "Yūsha ni Narenakatta Ore wa Shibushibu Shūshoku o Ketsui Shimashita.",
+      "Героем я не стал и нехотя решил найти работу.",
+      "ゆうしゃになれなかったおれはしぶしぶしゅうしょくをけついしました",
+      "勇しぶ.",
+      "勇者になれなかった俺はしぶしぶ就職を決意しました.",
       "勇者になれなかった俺はしぶしぶ就職を決意しました。",
-      "勇者になれなかった俺はしぶしぶ就職を決意しました。「新規製作アニメ（本編中で流れる劇中TVCMの完全版）」"
+      "没能成为勇者的我无可奈何决定去工作"
     ]
   },
   {
@@ -1505,20 +1551,40 @@
         "begin": "2013-10-10T17:00:00.000Z"
       },
       {
+        "site": "anidb",
+        "id": "7900"
+      },
+      {
         "site": "anilist",
-        "id": "18001"
+        "id": "20578"
+      },
+      {
+        "site": "anilist",
+        "id": "9367"
       },
       {
         "site": "anime-planet",
-        "id": "freezing-vibration"
+        "id": "freezing"
+      },
+      {
+        "site": "anime-planet",
+        "id": "freezing-vibration-specials"
       },
       {
         "site": "anisearch",
-        "id": "8456"
+        "id": "6465"
+      },
+      {
+        "site": "anisearch",
+        "id": "9316"
       },
       {
         "site": "kitsu",
-        "id": "7710"
+        "id": "5706"
+      },
+      {
+        "site": "kitsu",
+        "id": "8168"
       },
       {
         "site": "livechart",
@@ -1526,19 +1592,27 @@
       },
       {
         "site": "livechart",
-        "id": "4069"
+        "id": "335"
       },
       {
         "site": "livechart",
-        "id": "69"
+        "id": "4069"
       },
       {
         "site": "myanimelist",
-        "id": "18001"
+        "id": "21373"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9367"
       },
       {
         "site": "notify",
-        "id": "BegppFiiR"
+        "id": "cK4opKimg"
+      },
+      {
+        "site": "notify",
+        "id": "vq3WtFiiR"
       }
     ],
     "animeSeason": {
@@ -1547,14 +1621,18 @@
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 6,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/56413.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/56413t.jpg",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/68195.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/68195t.jpg",
     "synonyms": [
-      "Freezing Vibration OVAs",
-      "Furue Chau Freezing Vibration OVA",
+      "Freezing 2",
+      "Freezing Season 2",
+      "Freezing Second Season",
+      "Freezing s2",
+      "Заморозка Вибрация",
+      "ふりーじんぐ ヴぁいぶれーしょん",
       "フリージング ヴァイブレーション",
-      "震えちゃう❤フリージング ヴァイブレーションOVA"
+      "结界女王 震颤"
     ]
   },
   {
@@ -3076,31 +3154,31 @@
       },
       {
         "site": "anilist",
-        "id": "17247"
+        "id": "20451"
       },
       {
         "site": "anime-planet",
-        "id": "unbreakable-machine-doll"
+        "id": "unbreakable-machine-doll-specials"
       },
       {
         "site": "anisearch",
-        "id": "8330"
+        "id": "9324"
       },
       {
         "site": "kitsu",
-        "id": "7617"
+        "id": "8073"
       },
       {
         "site": "livechart",
-        "id": "61"
+        "id": "288"
       },
       {
         "site": "myanimelist",
-        "id": "17247"
+        "id": "21415"
       },
       {
         "site": "notify",
-        "id": "fb15pFmig"
+        "id": "g9y2tFmmg"
       }
     ],
     "animeSeason": {
@@ -3109,23 +3187,22 @@
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 6,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/56525.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/56525t.jpg",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/56141.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/56141t.jpg",
     "synonyms": [
-      "Kikou Shoujo wa Kizutsukanai OVA",
-      "Machine Girl wa Kizutsukanai Special",
-      "Machine Girl wa Kizutsukanai Specials",
-      "Machine-Doll wa Kizutsukanai OVA",
-      "Machine-Doll wa Kizutsukanai Special",
-      "Unbreakable Machine-Doll OVA",
-      "Unbreakable Machine-Doll OVAs",
-      "Unbreakable Machine-Doll Special",
-      "Unbreakable Machine-Doll Specials",
+      "Kikou Shoujo wa Kizutsukanai",
+      "Machine Girl wa Kizutsukanai",
+      "UMD",
+      "Unbreakable Machine Doll",
+      "Unbreakable Machine-Doll",
+      "machinedoll",
       "ましんどーるはきずつかない",
+      "机巧少女不会受伤",
+      "機巧少女[マシンドール]は傷つかない",
+      "機巧少女〈マシンドール〉は傷つかない",
       "機巧少女は傷つかない",
-      "機巧少女は傷つかない OVA",
-      "機巧少女は傷つかない Specials"
+      "기교소녀는 상처받지 않아"
     ]
   },
   {
@@ -3211,12 +3288,52 @@
         "broadcast": "R/2017-03-31T17:16:00.000Z/P7D"
       },
       {
+        "site": "anidb",
+        "id": "13162"
+      },
+      {
+        "site": "anidb",
+        "id": "13167"
+      },
+      {
+        "site": "anidb",
+        "id": "715"
+      },
+      {
+        "site": "anidb",
+        "id": "7670"
+      },
+      {
         "site": "anilist",
-        "id": "19319"
+        "id": "101036"
+      },
+      {
+        "site": "anilist",
+        "id": "163204"
+      },
+      {
+        "site": "anilist",
+        "id": "20739"
+      },
+      {
+        "site": "anilist",
+        "id": "20925"
+      },
+      {
+        "site": "anilist",
+        "id": "80"
+      },
+      {
+        "site": "anilist",
+        "id": "99731"
+      },
+      {
+        "site": "anilist",
+        "id": "99732"
       },
       {
         "site": "anime-planet",
-        "id": "gundam-build-fighters"
+        "id": "gundam-build-divers"
       },
       {
         "site": "anime-planet",
@@ -3228,6 +3345,10 @@
       },
       {
         "site": "anime-planet",
+        "id": "gundam-build-fighters-sd-kishi-fighters"
+      },
+      {
+        "site": "anime-planet",
         "id": "gundam-build-fighters-try"
       },
       {
@@ -3235,8 +3356,68 @@
         "id": "gundam-build-fighters-try-island-wars"
       },
       {
+        "site": "anime-planet",
+        "id": "gundam-build-metaverse"
+      },
+      {
+        "site": "anisearch",
+        "id": "12662"
+      },
+      {
+        "site": "anisearch",
+        "id": "12663"
+      },
+      {
+        "site": "anisearch",
+        "id": "13305"
+      },
+      {
+        "site": "anisearch",
+        "id": "18346"
+      },
+      {
+        "site": "anisearch",
+        "id": "3329"
+      },
+      {
+        "site": "anisearch",
+        "id": "6401"
+      },
+      {
+        "site": "anisearch",
+        "id": "9687"
+      },
+      {
         "site": "kitsu",
-        "id": "7852"
+        "id": "10871"
+      },
+      {
+        "site": "kitsu",
+        "id": "13756"
+      },
+      {
+        "site": "kitsu",
+        "id": "40565"
+      },
+      {
+        "site": "kitsu",
+        "id": "48065"
+      },
+      {
+        "site": "kitsu",
+        "id": "5582"
+      },
+      {
+        "site": "kitsu",
+        "id": "59"
+      },
+      {
+        "site": "kitsu",
+        "id": "8637"
+      },
+      {
+        "site": "kitsu",
+        "id": "9837"
       },
       {
         "site": "livechart",
@@ -3300,30 +3481,82 @@
       },
       {
         "site": "myanimelist",
-        "id": "19319"
+        "id": "24625"
+      },
+      {
+        "site": "myanimelist",
+        "id": "27907"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35567"
+      },
+      {
+        "site": "myanimelist",
+        "id": "35982"
+      },
+      {
+        "site": "myanimelist",
+        "id": "37245"
+      },
+      {
+        "site": "myanimelist",
+        "id": "54902"
+      },
+      {
+        "site": "myanimelist",
+        "id": "80"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9040"
       },
       {
         "site": "notify",
-        "id": "VrsttFmmg"
+        "id": "AtUpoaQVg"
+      },
+      {
+        "site": "notify",
+        "id": "EQ2ZpKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "GSS1tFiig"
+      },
+      {
+        "site": "notify",
+        "id": "QPMI2KmiR"
+      },
+      {
+        "site": "notify",
+        "id": "RltlpFmiR"
+      },
+      {
+        "site": "notify",
+        "id": "aucpcKimR"
+      },
+      {
+        "site": "notify",
+        "id": "qMkPtKiiR"
       }
     ],
     "animeSeason": {
-      "season": "WINTER",
-      "year": 2014,
+      "season": "FALL",
+      "year": 2013,
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 3,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/67643.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/67643t.jpg",
+    "episodes": 25,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/51815.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/51815t.jpg",
     "synonyms": [
-      "GUNDAM BUILD FIGHTERS: SD Kishi Fighters",
-      "Gundam Build Fighters: 6 Years Later",
-      "Gundam Build Fighters: SD Kishi Fighters",
-      "Gundam Build Fighters: SD Kishi Fighters, Gundam Build Fighters: 6 Years Later",
+      "Gundam BF",
+      "Gundam: Gundam Build Fighters",
+      "gbf",
       "がんだむびるどふぁいたーず",
       "ガンダムビルドファイターズ",
-      "ガンダムビルドファイターズ「SD騎士ファイターズ」"
+      "高达创战者",
+      "건담 빌드 파이터즈"
     ]
   },
   {

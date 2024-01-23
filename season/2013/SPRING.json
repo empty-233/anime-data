@@ -1,5 +1,66 @@
 [
   {
+    "title": "どーにゃつ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "甜甜圈猫"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://donyatsu.jp",
+    "begin": "2013-06-01T16:00:00.000Z",
+    "end": "2013-06-01T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "94548"
+      },
+      {
+        "site": "nicovideo",
+        "id": "donyatsu",
+        "begin": "2013-06-30T15:00:00.000Z",
+        "broadcast": "R/2013-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "126647"
+      },
+      {
+        "site": "anime-planet",
+        "id": "donyatsu-specials"
+      },
+      {
+        "site": "anisearch",
+        "id": "11577"
+      },
+      {
+        "site": "kitsu",
+        "id": "9249"
+      },
+      {
+        "site": "myanimelist",
+        "id": "26079"
+      },
+      {
+        "site": "notify",
+        "id": "R8Q-tKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2013,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/50109.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/50109t.jpg",
+    "synonyms": [
+      "どーにゃつ"
+    ]
+  },
+  {
     "title": "島耕作のアジア立志伝",
     "titleTranslate": {},
     "type": "tv",
@@ -11,18 +72,6 @@
       {
         "site": "bangumi",
         "id": "209663"
-      },
-      {
-        "site": "kitsu",
-        "id": "12840"
-      },
-      {
-        "site": "myanimelist",
-        "id": "33538"
-      },
-      {
-        "site": "notify",
-        "id": "OdHWhKmig"
       }
     ],
     "animeSeason": {
@@ -31,11 +80,11 @@
       "month": "05"
     },
     "status": "FINISHED",
-    "episodes": 4,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/80671.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/80671t.jpg",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/80670.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/80670t.jpg",
     "synonyms": [
-      "Shima Kosaku's Asian Entrepreneurs Specials",
+      "Shima Kosaku's Asian Entrepreneurs",
       "しまこうさくのあじありっしでん",
       "島耕作のアジア立志伝"
     ]
@@ -1141,6 +1190,100 @@
     ]
   },
   {
+    "title": "銀河機攻隊 マジェスティックプリンス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河机攻队 Majestic Prince",
+        "银河机攻队 庄严皇子",
+        "银河机攻战队"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://mjp-anime.jp/",
+    "begin": "2013-04-04T13:30:00.000Z",
+    "end": "2013-09-19T14:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "50535"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mjp",
+        "begin": "2013-04-08T14:30:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "5942",
+        "begin": "2017-03-14T10:00:00.000Z",
+        "broadcast": "R/2017-03-14T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "12033"
+      },
+      {
+        "site": "anilist",
+        "id": "21752"
+      },
+      {
+        "site": "anime-planet",
+        "id": "majestic-prince-movie-kakusei-no-idenshiko"
+      },
+      {
+        "site": "anime-planet",
+        "id": "majestic-prince-wings-to-the-future"
+      },
+      {
+        "site": "anisearch",
+        "id": "11394"
+      },
+      {
+        "site": "kitsu",
+        "id": "12002"
+      },
+      {
+        "site": "livechart",
+        "id": "2114"
+      },
+      {
+        "site": "livechart",
+        "id": "2115"
+      },
+      {
+        "site": "myanimelist",
+        "id": "33024"
+      },
+      {
+        "site": "notify",
+        "id": "IAJetFimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2013,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/44594.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/44594t.jpg",
+    "synonyms": [
+      "Galactic Armored Fleet Majestic Prince",
+      "Ginga Kikoutai: Majestic Prince",
+      "Ginga Kikōtai Majestic Prince",
+      "MJP",
+      "MajePri",
+      "Majestic Prince",
+      "ぎんがきこうたいまじぇすてぃっくぷりんす",
+      "マジェプリ",
+      "銀河機攻隊 マジェスティックプリンス",
+      "银河机攻队 Majestic Prince",
+      "은하기공대 마제스틱 프린스"
+    ]
+  },
+  {
     "title": "はたらく魔王さま！",
     "titleTranslate": {
       "zh-Hans": [
@@ -1594,24 +1737,60 @@
         "begin": "2013-04-11T16:00:00.000Z"
       },
       {
+        "site": "anidb",
+        "id": "10765"
+      },
+      {
+        "site": "anidb",
+        "id": "7440"
+      },
+      {
         "site": "anilist",
-        "id": "15377"
+        "id": "19255"
+      },
+      {
+        "site": "anilist",
+        "id": "20823"
+      },
+      {
+        "site": "anilist",
+        "id": "8277"
       },
       {
         "site": "anime-planet",
-        "id": "samurai-after-specials"
+        "id": "samurai-after"
       },
       {
         "site": "anime-planet",
-        "id": "samurai-bride"
+        "id": "samurai-bride-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "samurai-girls"
       },
       {
         "site": "anisearch",
-        "id": "8029"
+        "id": "6089"
+      },
+      {
+        "site": "anisearch",
+        "id": "8322"
+      },
+      {
+        "site": "anisearch",
+        "id": "9840"
       },
       {
         "site": "kitsu",
-        "id": "7244"
+        "id": "5274"
+      },
+      {
+        "site": "kitsu",
+        "id": "7917"
+      },
+      {
+        "site": "kitsu",
+        "id": "8795"
       },
       {
         "site": "livechart",
@@ -1627,19 +1806,35 @@
       },
       {
         "site": "livechart",
-        "id": "744"
+        "id": "5018"
       },
       {
         "site": "livechart",
-        "id": "819"
+        "id": "744"
       },
       {
         "site": "myanimelist",
-        "id": "15377"
+        "id": "19255"
+      },
+      {
+        "site": "myanimelist",
+        "id": "25689"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8277"
       },
       {
         "site": "notify",
-        "id": "5Q_dpFmmR"
+        "id": "KgWhpKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "Ym7itFimg"
+      },
+      {
+        "site": "notify",
+        "id": "wJgxpKiiR"
       }
     ],
     "animeSeason": {
@@ -1648,18 +1843,21 @@
       "month": "04"
     },
     "status": "FINISHED",
-    "episodes": 6,
-    "picture": "https://cdn.myanimelist.net/images/anime/13/52085.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/52085t.jpg",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/45248.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/45248t.jpg",
     "synonyms": [
-      "Hyakka Ryouran: Samurai Bride - Momoiro Mankai Original Animation",
-      "Hyakka Ryōran: Samurai Bride - Momoiro Mankai Original Animation",
-      "Samurai Bride Shorts",
-      "Samurai Bride Specials",
-      "Samurai Girls 2: Samurai Bride Specials",
+      "Hyakka Ryouran 2",
+      "Hyakka Ryouran: Samurai Girls 2nd Season",
+      "Hyakka Ryouran: Samurai Girls Dai 2-ki",
+      "Hyakka Ryōran: Samurai Bride",
+      "Samurai Bride",
+      "Samurai Girls 2",
+      "Samurai Girls 2: Samurai Bride",
       "ひゃっかりょうらんさむらいぶらいど",
       "百花繚乱 サムライブライド",
-      "百花繚乱 サムライブライド 桃色満開オリジナルアニメーション"
+      "百花缭乱 SAMURAI BRIDE",
+      "백화요란 사무라이 브라이드"
     ]
   },
   {
@@ -3300,6 +3498,178 @@
       "デビルサバイバー2",
       "デビルサバイバー２ THE ANIMATION",
       "恶魔幸存者2"
+    ]
+  },
+  {
+    "title": "翠星のガルガンティア",
+    "titleTranslate": {
+      "zh-Hans": [
+        "翠星之加尔刚蒂亚",
+        "翠星的伽鲁冈缇亚",
+        "翠星的Gargantia"
+      ],
+      "en": [
+        "Gargantia on the Verdurous Planet"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://gargantia.jp/",
+    "begin": "2013-04-07T13:00:00.000Z",
+    "end": "2013-10-25T13:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "PzMdmwNp2Rd6ibGA",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "56091"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gargantia",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "445",
+        "begin": "2013-04-06T16:00:00.000Z",
+        "broadcast": "R/2015-12-11T07:52:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "10549"
+      },
+      {
+        "site": "anilist",
+        "id": "18413"
+      },
+      {
+        "site": "anilist",
+        "id": "19211"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gargantia-on-the-verdurous-planet-far-beyond-the-voyage"
+      },
+      {
+        "site": "anime-planet",
+        "id": "gargantia-on-the-verdurous-planet-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "petit-gargantia"
+      },
+      {
+        "site": "anime-planet",
+        "id": "petit-gargantia-special-project"
+      },
+      {
+        "site": "anisearch",
+        "id": "14562"
+      },
+      {
+        "site": "anisearch",
+        "id": "8753"
+      },
+      {
+        "site": "anisearch",
+        "id": "8781"
+      },
+      {
+        "site": "anisearch",
+        "id": "9562"
+      },
+      {
+        "site": "kitsu",
+        "id": "11183"
+      },
+      {
+        "site": "kitsu",
+        "id": "7751"
+      },
+      {
+        "site": "kitsu",
+        "id": "7872"
+      },
+      {
+        "site": "kitsu",
+        "id": "8419"
+      },
+      {
+        "site": "livechart",
+        "id": "183"
+      },
+      {
+        "site": "livechart",
+        "id": "274"
+      },
+      {
+        "site": "livechart",
+        "id": "5202"
+      },
+      {
+        "site": "livechart",
+        "id": "6253"
+      },
+      {
+        "site": "myanimelist",
+        "id": "18413"
+      },
+      {
+        "site": "myanimelist",
+        "id": "19211"
+      },
+      {
+        "site": "myanimelist",
+        "id": "23319"
+      },
+      {
+        "site": "myanimelist",
+        "id": "31113"
+      },
+      {
+        "site": "notify",
+        "id": "CKNptFiig"
+      },
+      {
+        "site": "notify",
+        "id": "RdUXpKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "Svv0pKmmg"
+      },
+      {
+        "site": "notify",
+        "id": "x3ltpKimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2013,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/48817.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/48817t.jpg",
+    "synonyms": [
+      "Gargantia on The Verdurous Planet",
+      "Gargantia on the Verdurous Planet",
+      "Gargantia on the Verdurous Planet (Suisei no Gargantia)",
+      "Suisei no Galgantia",
+      "Sunoga",
+      "gargantia",
+      "Гаргантия на зелёной планете",
+      "گارگانتیا در سیاره سبز",
+      "すいせいのがるがんてぃあ",
+      "翠星のガルガンティア",
+      "翠星上的加爾岡緹亞",
+      "翠星之加尔刚蒂亚",
+      "취성의 가르간티아"
     ]
   },
   {
@@ -5654,89 +6024,6 @@
     ]
   },
   {
-    "title": "戦勇。",
-    "titleTranslate": {
-      "zh-Hans": [
-        "战勇。"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://senyu.tv/",
-    "begin": "2013-01-08T17:05:00.000Z",
-    "end": "2013-04-02T16:40:00.000Z",
-    "sites": [
-      {
-        "site": "pptv",
-        "id": "xq2HBW3TQ4HkYso",
-        "begin": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "48669"
-      },
-      {
-        "site": "nicovideo",
-        "id": "senyu",
-        "begin": "2013-01-08T17:10:00.000Z"
-      },
-      {
-        "site": "anilist",
-        "id": "15751"
-      },
-      {
-        "site": "anime-planet",
-        "id": "senyuu"
-      },
-      {
-        "site": "anime-planet",
-        "id": "senyuu-2"
-      },
-      {
-        "site": "anisearch",
-        "id": "8027"
-      },
-      {
-        "site": "kitsu",
-        "id": "7303"
-      },
-      {
-        "site": "livechart",
-        "id": "56"
-      },
-      {
-        "site": "livechart",
-        "id": "894"
-      },
-      {
-        "site": "myanimelist",
-        "id": "15751"
-      },
-      {
-        "site": "notify",
-        "id": "xKWFtFmiR"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2013,
-      "month": "01"
-    },
-    "status": "FINISHED",
-    "episodes": 4,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/51475.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/51475t.jpg",
-    "synonyms": [
-      "Senyu. Specials",
-      "Senyuu. Episode 1.1",
-      "Senyū. Specials",
-      "せんゆう",
-      "戦勇.",
-      "戦勇。",
-      "戦勇。 Specials"
-    ]
-  },
-  {
     "title": "ヘタリア The Beautiful World",
     "titleTranslate": {
       "zh-Hans": [
@@ -5897,200 +6184,6 @@
       "へたりあざびゅーてぃふるわーるど",
       "ヘタリア The Beautiful World",
       "ヘタリア The Beautiful World Specials"
-    ]
-  },
-  {
-    "title": "武装神姫",
-    "titleTranslate": {
-      "zh-Hans": [
-        "武装神姬"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://www.tbs.co.jp/anime/busou/",
-    "begin": "2012-10-04T16:55:00.000Z",
-    "end": "2012-12-20T17:52:00.000Z",
-    "sites": [
-      {
-        "site": "pptv",
-        "id": "7hXvbdU7qiblMyjI",
-        "begin": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "40756"
-      },
-      {
-        "site": "bilibili",
-        "id": "741",
-        "begin": "2012-10-03T16:00:00.000Z",
-        "broadcast": "R/2012-10-04T21:43:00.000Z/P7D"
-      },
-      {
-        "site": "anilist",
-        "id": "14237"
-      },
-      {
-        "site": "anime-planet",
-        "id": "busou-shinki-armored-war-goddess"
-      },
-      {
-        "site": "anime-planet",
-        "id": "busou-shinki-moon-angel"
-      },
-      {
-        "site": "anisearch",
-        "id": "7897"
-      },
-      {
-        "site": "kitsu",
-        "id": "7102"
-      },
-      {
-        "site": "livechart",
-        "id": "4756"
-      },
-      {
-        "site": "livechart",
-        "id": "930"
-      },
-      {
-        "site": "myanimelist",
-        "id": "14237"
-      },
-      {
-        "site": "notify",
-        "id": "DMWdpFmiR"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2013,
-      "month": "10"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/44772.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/44772t.jpg",
-    "synonyms": [
-      "Busou Shinki Epsiode 13",
-      "Busou Shinki OVA",
-      "Busou Shinki: Armored War Goddess OVA",
-      "Busou Shinki: InstallxDream",
-      "Busō Shinki: InstallxDream",
-      "ぶそうしんき",
-      "武装神姫",
-      "武装神姫 Install x Dream",
-      "武装神姫 InstallxDream",
-      "武装神姫 OVA"
-    ]
-  },
-  {
-    "title": "バクマン。",
-    "titleTranslate": {
-      "zh-Hans": [
-        "爆漫王。"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://www9.nhk.or.jp/anime/bakuman/",
-    "begin": "2010-10-02T09:00:00.000Z",
-    "end": "2011-04-02T09:25:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "3428"
-      },
-      {
-        "site": "nicovideo",
-        "id": "bakuman1",
-        "begin": "2012-10-20T15:00:00.000Z",
-        "broadcast": "R/2012-10-20T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "bilibili",
-        "id": "727",
-        "begin": "2010-10-02T09:00:00.000Z",
-        "broadcast": "R/2010-11-13T14:59:00.000Z/P7D"
-      },
-      {
-        "site": "anilist",
-        "id": "12365"
-      },
-      {
-        "site": "anime-planet",
-        "id": "bakuman"
-      },
-      {
-        "site": "anime-planet",
-        "id": "bakuman-2"
-      },
-      {
-        "site": "anime-planet",
-        "id": "bakuman-2-special"
-      },
-      {
-        "site": "anime-planet",
-        "id": "bakuman-3"
-      },
-      {
-        "site": "anime-planet",
-        "id": "bakuman-deraman"
-      },
-      {
-        "site": "anisearch",
-        "id": "7461"
-      },
-      {
-        "site": "kitsu",
-        "id": "6714"
-      },
-      {
-        "site": "livechart",
-        "id": "1165"
-      },
-      {
-        "site": "livechart",
-        "id": "3298"
-      },
-      {
-        "site": "livechart",
-        "id": "6162"
-      },
-      {
-        "site": "livechart",
-        "id": "6215"
-      },
-      {
-        "site": "livechart",
-        "id": "924"
-      },
-      {
-        "site": "myanimelist",
-        "id": "12365"
-      },
-      {
-        "site": "notify",
-        "id": "iTpHpFmiR"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2013,
-      "month": "10"
-    },
-    "status": "FINISHED",
-    "episodes": 2,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/62061.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/62061t.jpg",
-    "synonyms": [
-      "Bakuman. (2012) Specials",
-      "Bakuman. 3 Specials",
-      "ばくまん",
-      "バクマン。",
-      "バクマン。（2012） Specials"
     ]
   }
 ]

@@ -1769,12 +1769,24 @@
         "broadcast": "R/2020-12-02T08:00:00.000Z/P7D"
       },
       {
-        "site": "anilist",
-        "id": "4898"
+        "site": "anidb",
+        "id": "10402"
       },
       {
-        "site": "anime-planet",
-        "id": "black-butler"
+        "site": "anidb",
+        "id": "7369"
+      },
+      {
+        "site": "anilist",
+        "id": "20606"
+      },
+      {
+        "site": "anilist",
+        "id": "6707"
+      },
+      {
+        "site": "anilist",
+        "id": "6793"
       },
       {
         "site": "anime-planet",
@@ -1798,6 +1810,10 @@
       },
       {
         "site": "anime-planet",
+        "id": "black-butler-his-butler-performer"
+      },
+      {
+        "site": "anime-planet",
         "id": "black-butler-picture-drama"
       },
       {
@@ -1806,11 +1822,39 @@
       },
       {
         "site": "anisearch",
-        "id": "4979"
+        "id": "5697"
+      },
+      {
+        "site": "anisearch",
+        "id": "6831"
+      },
+      {
+        "site": "anisearch",
+        "id": "9638"
+      },
+      {
+        "site": "anisearch",
+        "id": "9670"
       },
       {
         "site": "kitsu",
-        "id": "3840"
+        "id": "4453"
+      },
+      {
+        "site": "kitsu",
+        "id": "4678"
+      },
+      {
+        "site": "kitsu",
+        "id": "4717"
+      },
+      {
+        "site": "kitsu",
+        "id": "5186"
+      },
+      {
+        "site": "kitsu",
+        "id": "8268"
       },
       {
         "site": "livechart",
@@ -1822,15 +1866,15 @@
       },
       {
         "site": "livechart",
-        "id": "3618"
-      },
-      {
-        "site": "livechart",
         "id": "3772"
       },
       {
         "site": "livechart",
         "id": "411"
+      },
+      {
+        "site": "livechart",
+        "id": "4145"
       },
       {
         "site": "livechart",
@@ -1846,38 +1890,83 @@
       },
       {
         "site": "myanimelist",
-        "id": "4898"
+        "id": "22145"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6163"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6707"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6793"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8068"
       },
       {
         "site": "notify",
-        "id": "VCtr5KimR"
+        "id": "0mLqcFmig"
+      },
+      {
+        "site": "notify",
+        "id": "avaopFiiR"
+      },
+      {
+        "site": "notify",
+        "id": "iy_6cKiiR"
+      },
+      {
+        "site": "notify",
+        "id": "x2f65Kmig"
+      },
+      {
+        "site": "notify",
+        "id": "xMQztFimR"
       }
     ],
     "animeSeason": {
-      "season": "SUMMER",
-      "year": 2009,
+      "season": "FALL",
+      "year": 2008,
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/21336.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/21336t.jpg",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/1467/137783.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1467/137783t.jpg",
     "synonyms": [
-      "Black Butler : Le majodorme se donne en spectacle",
-      "Black Butler OVA",
-      "Black Butler Special",
-      "Black Butler: His Butler, On Stage",
-      "Black Butler: His Butler, Performer",
-      "Black Butler: Sein Butler - Eine Aufführung",
-      "Black Butler: Su Mayordomo, el artista",
-      "His Butler, On Stage",
-      "Kuroshitsuji OVA",
-      "Kuroshitsuji Special",
-      "Kuroshitsuji: Sono Shitsuji, Kōgyō",
+      "Black Butler",
+      "Dark Butler",
+      "Diácono Negro temporada 1",
+      "El Mayordomo Negro",
+      "El Mayordomo Oscuro",
+      "Hắc Quản Gia",
+      "Il Maggiordomo Nero",
+      "Kara Uşak",
+      "Kuro Shitsuji",
+      "Kuroshitsuzi",
+      "Melnais Virssulainis",
+      "Mordomo Negro",
+      "Paslaptingasis liokajus",
+      "Su Matzurdomu Nieddu",
+      "kuroshitsuji s1",
+      "Μαύρος Μπάτλερ",
+      "Темний дворецький",
+      "Тёмный Дворецкий",
+      "Черният Иконом",
+      "الخادم الأسود",
+      "คนลึกไขปริศนาลับ",
       "くろしつじ",
+      "黑執事",
+      "黑執事 第1季",
+      "黑执事",
+      "黑执事 第1季",
       "黒執事",
-      "黒執事 その執事、 興行",
-      "黒執事 その執事、興行"
+      "흑집사 1기"
     ]
   },
   {
@@ -2107,54 +2196,65 @@
       },
       {
         "site": "anilist",
-        "id": "3653"
+        "id": "130211"
       },
       {
-        "site": "anime-planet",
-        "id": "linebarrels-of-iron"
+        "site": "anilist",
+        "id": "7540"
       },
       {
         "site": "anime-planet",
         "id": "linebarrels-of-iron-picture-drama"
       },
       {
+        "site": "anime-planet",
+        "id": "linebarrels-of-iron-specials"
+      },
+      {
         "site": "anisearch",
-        "id": "4654"
+        "id": "5319"
       },
       {
         "site": "kitsu",
-        "id": "7727"
+        "id": "3171"
       },
       {
         "site": "livechart",
-        "id": "4559"
+        "id": "9111"
       },
       {
         "site": "myanimelist",
-        "id": "3653"
+        "id": "33126"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7540"
       },
       {
         "site": "notify",
-        "id": "3knppKmmg"
+        "id": "5IV_5Fmmg"
       }
     ],
     "animeSeason": {
-      "season": "SUMMER",
-      "year": 2009,
+      "season": "FALL",
+      "year": 2008,
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 2,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/25929.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/25929t.jpg",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/50375.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/50375t.jpg",
     "synonyms": [
-      "Kurogane no Linebarrels OVA",
+      "Kurogane no Line Barrel",
+      "Kurogane no Rainbareru",
       "Linebarrels of Iron",
-      "Linebarrels of Iron OVA",
-      "Linebarrels of Iron Specials",
+      "knl",
+      "linebarrels",
+      "Стальной Лайнбарель",
       "くろがねのらいんばれる",
+      "武装机甲",
       "鉄のラインバレル",
-      "鉄のラインバレル OVA"
+      "강철의 라인배럴"
     ]
   },
   {
@@ -2454,53 +2554,48 @@
       },
       {
         "site": "anilist",
-        "id": "3958"
+        "id": "5978"
       },
       {
         "site": "anime-planet",
-        "id": "kannagi"
+        "id": "kannagi-if-you-are-a-shrine-maiden"
       },
       {
         "site": "anisearch",
-        "id": "4728"
+        "id": "8454"
       },
       {
         "site": "kitsu",
-        "id": "3378"
+        "id": "4369"
       },
       {
         "site": "livechart",
-        "id": "3797"
+        "id": "4635"
       },
       {
         "site": "myanimelist",
-        "id": "3958"
+        "id": "5978"
       },
       {
         "site": "notify",
-        "id": "BFj_cFiiR"
+        "id": "TZO35Fmmg"
       }
     ],
     "animeSeason": {
-      "season": "SPRING",
-      "year": 2009,
+      "season": "FALL",
+      "year": 2008,
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/3/19725.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/19725t.jpg",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/19724.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/19724t.jpg",
     "synonyms": [
-      "Kannagi - Crazy Shrine Maidens Special",
-      "Kannagi - Episode 14",
-      "Kannagi Special",
-      "Kannagi: Crazy Shrine Maidens - What If “Kannagi” Was Like This …",
-      "Kannagi: If You Are a Shrine Maiden",
-      "Kannagi: If You are a Shrine Maiden...",
-      "Kannagi: Moshimo “Kannagi” ga Attara …",
-      "Moshimo Kannagi ga Attara...",
+      "Crazy Shrine Maidens",
+      "Kannagi: Crazy Shrine Maidens",
       "かんなぎ",
-      "かんなぎ もしも『かんなぎ』があったら…"
+      "神薙",
+      "칸나기"
     ]
   },
   {
@@ -3176,8 +3271,16 @@
         "broadcast": "R/2011-07-03T01:30:00.000Z/P7D"
       },
       {
+        "site": "anidb",
+        "id": "6049"
+      },
+      {
         "site": "anilist",
         "id": "5005"
+      },
+      {
+        "site": "anilist",
+        "id": "8196"
       },
       {
         "site": "anime-planet",
@@ -3185,15 +3288,27 @@
       },
       {
         "site": "anime-planet",
-        "id": "tentai-senshi-sunred-2"
+        "id": "tentai-senshi-sunred-specials"
+      },
+      {
+        "site": "anisearch",
+        "id": "5015"
       },
       {
         "site": "kitsu",
         "id": "3878"
       },
       {
+        "site": "livechart",
+        "id": "6589"
+      },
+      {
         "site": "myanimelist",
         "id": "5005"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8196"
       },
       {
         "site": "notify",
@@ -3201,21 +3316,24 @@
       }
     ],
     "animeSeason": {
-      "season": "WINTER",
+      "season": "FALL",
       "year": 2009,
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 4,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/21807.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/21807t.jpg",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/15051.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/15051t.jpg",
     "synonyms": [
-      "Astro Fighter Sunred Specials",
-      "Astro Fighter Sunred: DVD Short Corners",
-      "Tentai Senshi Sunred Specials",
-      "Tentai Senshi Sunred: DVD Short Corners",
+      "Astro Fighter Sunred 2",
+      "Tentai Senshi Sunred 2",
+      "sunred2",
+      "てんたいせんしさんれっど",
+      "天体战士 第2期",
+      "天体战士2",
+      "天体战士桑雷德 2",
       "天体戦士サンレッド",
-      "天体戦士サンレッド ショートコーナー"
+      "天体戦士サンレッド 2"
     ]
   },
   {
@@ -3430,56 +3548,53 @@
       },
       {
         "site": "anilist",
-        "id": "4879"
+        "id": "6736"
       },
       {
         "site": "anime-planet",
-        "id": "mouryou-no-hako"
+        "id": "mouryou-no-hako-hako-no-yuurei-no-koto"
       },
       {
         "site": "anisearch",
-        "id": "4974"
+        "id": "6996"
       },
       {
         "site": "kitsu",
-        "id": "3835"
+        "id": "4693"
       },
       {
         "site": "livechart",
-        "id": "4150"
+        "id": "8026"
       },
       {
         "site": "myanimelist",
-        "id": "4879"
+        "id": "6736"
       },
       {
         "site": "notify",
-        "id": "DZp95Kiig"
+        "id": "3xP65Fiig"
       }
     ],
     "animeSeason": {
-      "season": "SPRING",
-      "year": 2009,
+      "season": "FALL",
+      "year": 2008,
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/23740.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/23740t.jpg",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/75492.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/75492t.jpg",
     "synonyms": [
-      "Chuzenji Atsuko no Jikenbo 'Hako no Yuurei no Koto'",
-      "Mouryou no Hako - Hako no Yuurei no Koto",
-      "Mouryou no Hako Episode 14",
-      "Mouryou no Hako Special",
-      "Mouryou no Hako: Hako no Yuurei no Koto",
-      "Mouryou no Hako: The Case Files of Chuuzenji Atsuko - A Ghost Box",
-      "Mōryō no Hako: Chūzenji Atsuko no Jikenbo - Hako no Yurei no Koto",
-      "The Case Files of Atsuko Chuzenji: 'The Case of the Spirits in the Boxes'",
+      "Box of Goblins",
+      "Box of the Mouryou",
+      "MnH",
+      "Moryo no Hako",
+      "Mōryō no Hako",
+      "Ларец нечисти",
+      "Ящик демонов",
       "もうりょうのはこ",
-      "魍魎の匣",
-      "魍魎の匣 中禅寺敦子の事件簿 箱の幽霊の事",
-      "魍魎の匣「中禅寺敦子の事件簿 箱の幽霊の事」",
-      "魍魎の匣～特別編　中禅寺敦子の事件簿「箱の幽霊の事」"
+      "魍魉之匣",
+      "魍魎の匣"
     ]
   },
   {

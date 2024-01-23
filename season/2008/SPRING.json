@@ -1315,12 +1315,20 @@
         "id": "2810"
       },
       {
+        "site": "anidb",
+        "id": "6787"
+      },
+      {
         "site": "anilist",
-        "id": "3503"
+        "id": "4760"
+      },
+      {
+        "site": "anilist",
+        "id": "6791"
       },
       {
         "site": "anime-planet",
-        "id": "kanokon"
+        "id": "kanokon-specials"
       },
       {
         "site": "anime-planet",
@@ -1332,15 +1340,19 @@
       },
       {
         "site": "anisearch",
-        "id": "4605"
+        "id": "5199"
+      },
+      {
+        "site": "anisearch",
+        "id": "5523"
       },
       {
         "site": "kitsu",
-        "id": "3056"
+        "id": "3774"
       },
       {
-        "site": "livechart",
-        "id": "3687"
+        "site": "kitsu",
+        "id": "4715"
       },
       {
         "site": "livechart",
@@ -1351,12 +1363,24 @@
         "id": "4768"
       },
       {
+        "site": "livechart",
+        "id": "4827"
+      },
+      {
         "site": "myanimelist",
-        "id": "3503"
+        "id": "4760"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6791"
       },
       {
         "site": "notify",
-        "id": "c59w5Fimg"
+        "id": "R2_65Kmmg"
+      },
+      {
+        "site": "notify",
+        "id": "ZpHrcKiiR"
       }
     ],
     "animeSeason": {
@@ -1366,13 +1390,264 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/8/9156.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/9156t.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/11/9490.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/9490t.jpg",
     "synonyms": [
-      "Kanokon: Girls Channel",
-      "Kanokon: The Girl Who Cried Fox Shorts",
+      "Kanokon: The Girl Who Cried Fox",
+      "Канокон",
+      "كانوكون",
+      "คาโนค่อน จิ้งจอกสาวสุดจี๊ด",
       "かのこん",
-      "かのこんガールズチャンネル"
+      "我的狐仙女友"
+    ]
+  },
+  {
+    "title": "我が家のお稲荷さま。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我家有个狐仙大人"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://anime.webnt.jp/oinarisama/",
+    "begin": "2008-04-06T15:00:00.000Z",
+    "end": "2008-09-14T15:30:00.000Z",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "8FMurBR66iaiaLCXE",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "d/d4v2t8ykhk43k82",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "317"
+      },
+      {
+        "site": "bilibili",
+        "id": "1247",
+        "begin": "2008-04-05T16:00:00.000Z",
+        "broadcast": "R/2010-07-31T03:34:00.000Z/P7D"
+      },
+      {
+        "site": "anilist",
+        "id": "5484"
+      },
+      {
+        "site": "anime-planet",
+        "id": "our-homes-fox-deity-specials"
+      },
+      {
+        "site": "anisearch",
+        "id": "15826"
+      },
+      {
+        "site": "kitsu",
+        "id": "4120"
+      },
+      {
+        "site": "livechart",
+        "id": "7167"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5484"
+      },
+      {
+        "site": "notify",
+        "id": "XjTjcKmmR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2008,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/21249.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/21249t.jpg",
+    "synonyms": [
+      "Coo : Our Guardian",
+      "Oinari",
+      "Oinari-sama",
+      "Oinarisama",
+      "Our Home's Fox Deity",
+      "Our Home`s Fox Deity",
+      "Our Home’s Fox Deity",
+      "Wagaya no Oinari-sama",
+      "Wagaya no Oinarisama",
+      "Інарі нашого дому",
+      "Инари в нашем доме",
+      "わがやのおいなりさま",
+      "我が家のお稲荷さま.",
+      "我が家のお稲荷さま。",
+      "我家有个狐仙大人"
+    ]
+  },
+  {
+    "title": "To LOVEる -とらぶる-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "出包王女"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/anime/to-love-ru/",
+    "begin": "2008-04-03T17:29:00.000Z",
+    "end": "2008-09-25T17:25:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "849"
+      },
+      {
+        "site": "nicovideo",
+        "id": "to-love-ru",
+        "begin": "2012-10-17T06:00:00.000Z",
+        "broadcast": "R/2012-10-17T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-179",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "6463"
+      },
+      {
+        "site": "anilist",
+        "id": "5667"
+      },
+      {
+        "site": "anime-planet",
+        "id": "motto-to-love-ru"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-love-ru-darkness"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-love-ru-darkness-2nd"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-love-ru-darkness-2nd-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-love-ru-darkness-2nd-specials"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-love-ru-darkness-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-love-ru-multiplication-mae-kara-ushiro-kara"
+      },
+      {
+        "site": "anime-planet",
+        "id": "to-love-ru-ova"
+      },
+      {
+        "site": "anisearch",
+        "id": "300"
+      },
+      {
+        "site": "anisearch",
+        "id": "5201"
+      },
+      {
+        "site": "kitsu",
+        "id": "4233"
+      },
+      {
+        "site": "livechart",
+        "id": "1094"
+      },
+      {
+        "site": "livechart",
+        "id": "1341"
+      },
+      {
+        "site": "livechart",
+        "id": "1846"
+      },
+      {
+        "site": "livechart",
+        "id": "2976"
+      },
+      {
+        "site": "livechart",
+        "id": "3661"
+      },
+      {
+        "site": "livechart",
+        "id": "3720"
+      },
+      {
+        "site": "livechart",
+        "id": "3846"
+      },
+      {
+        "site": "livechart",
+        "id": "962"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5667"
+      },
+      {
+        "site": "notify",
+        "id": "o1yjcKiig"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2008,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/22544.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/22544t.jpg",
+    "synonyms": [
+      "Love Trouble",
+      "Sho",
+      "To LOVE Ru",
+      "To LOVE Ru - Trouble",
+      "To LOVEる -とらぶる-",
+      "To LOVE루 -트러블-",
+      "To Love Ru",
+      "To Love You",
+      "To Love-Ru: Trouble",
+      "To Love-ru",
+      "To Loveru",
+      "To-LOVE-Ru",
+      "To-Love-Ru",
+      "To-Rabu-Ru",
+      "ToLoveRu",
+      "ToLoveRu Trouble",
+      "ToRaBuRu",
+      "Toraburu",
+      "Trouble",
+      "tlr",
+      "toloveru",
+      "Любовный переполох",
+      "Любовь и прочие неприятности",
+      "วุ่นรักยัยต่างดาว",
+      "とらぶる",
+      "出包王女"
     ]
   },
   {
@@ -2152,6 +2427,182 @@
     ]
   },
   {
+    "title": "絶対可憐チルドレン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "楚楚可怜超能少女组",
+        "绝对可怜CHILDREN",
+        "楚楚可怜超能少女組",
+        "絕對可愛CHILDREN",
+        "绝对可怜children",
+        "绝对可怜小孩"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.z-child.com/",
+    "begin": "2008-04-06T01:00:00.000Z",
+    "end": "2009-03-29T01:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "5475"
+      },
+      {
+        "site": "anidb",
+        "id": "7664"
+      },
+      {
+        "site": "anidb",
+        "id": "9421"
+      },
+      {
+        "site": "anilist",
+        "id": "16005"
+      },
+      {
+        "site": "anilist",
+        "id": "2026"
+      },
+      {
+        "site": "anilist",
+        "id": "7745"
+      },
+      {
+        "site": "anilist",
+        "id": "9127"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zettai-karen-children-chou-sakidori-special"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zettai-karen-children-generous-treatment-natsuko-and-hotarus-babel-report"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zettai-karen-children-ova-aitazousei-ubawareta-mirai"
+      },
+      {
+        "site": "anime-planet",
+        "id": "zettai-karen-children-the-unlimited-hyoubu-kyousuke"
+      },
+      {
+        "site": "anisearch",
+        "id": "11436"
+      },
+      {
+        "site": "anisearch",
+        "id": "11463"
+      },
+      {
+        "site": "anisearch",
+        "id": "4163"
+      },
+      {
+        "site": "anisearch",
+        "id": "6069"
+      },
+      {
+        "site": "anisearch",
+        "id": "8140"
+      },
+      {
+        "site": "kitsu",
+        "id": "4304"
+      },
+      {
+        "site": "kitsu",
+        "id": "46367"
+      },
+      {
+        "site": "kitsu",
+        "id": "5105"
+      },
+      {
+        "site": "kitsu",
+        "id": "5611"
+      },
+      {
+        "site": "kitsu",
+        "id": "7356"
+      },
+      {
+        "site": "livechart",
+        "id": "7192"
+      },
+      {
+        "site": "livechart",
+        "id": "8450"
+      },
+      {
+        "site": "livechart",
+        "id": "898"
+      },
+      {
+        "site": "myanimelist",
+        "id": "16005"
+      },
+      {
+        "site": "myanimelist",
+        "id": "52688"
+      },
+      {
+        "site": "myanimelist",
+        "id": "5849"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7745"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9127"
+      },
+      {
+        "site": "notify",
+        "id": "45k3cFiig"
+      },
+      {
+        "site": "notify",
+        "id": "C5aWtFmmR"
+      },
+      {
+        "site": "notify",
+        "id": "QOhztKmmR"
+      },
+      {
+        "site": "notify",
+        "id": "z7FFpKimR"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2008,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 51,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/75581.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/75581t.jpg",
+    "synonyms": [
+      "Absolut Bezaubernde Kinder",
+      "Absolutely Lovely Children",
+      "Psychic Squad",
+      "ZKC",
+      "zkc",
+      "Абсолютно Восхитительные Дети",
+      "Восхитительные дети",
+      "ぜったいかれんちるどれん",
+      "絶チル",
+      "絶対可憐チルドレン",
+      "绝对可怜Children",
+      "绝对可怜小孩",
+      "绝对可怜少女"
+    ]
+  },
+  {
     "title": "S・A ～スペシャル・エー～",
     "titleTranslate": {
       "en": [
@@ -2519,6 +2970,174 @@
       "ねっとごーすとぴぽぱ",
       "ネットゴーストPIPOPA",
       "光速大冒险PIPOPA"
+    ]
+  },
+  {
+    "title": "純情ロマンチカ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "纯情罗曼史"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://suzukisan.info/romantica/",
+    "begin": "2008-04-10T16:30:00.000Z",
+    "end": "2008-06-26T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "l/lxlxuxe65uevo4h",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1703"
+      },
+      {
+        "site": "anidb",
+        "id": "6073"
+      },
+      {
+        "site": "anidb",
+        "id": "8113"
+      },
+      {
+        "site": "anilist",
+        "id": "13767"
+      },
+      {
+        "site": "anilist",
+        "id": "4814"
+      },
+      {
+        "site": "anilist",
+        "id": "9926"
+      },
+      {
+        "site": "anime-planet",
+        "id": "junjou-romantica-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "junjou-romantica-3"
+      },
+      {
+        "site": "anime-planet",
+        "id": "junjou-romantica-ova"
+      },
+      {
+        "site": "anime-planet",
+        "id": "junjou-romantica-ova-2"
+      },
+      {
+        "site": "anime-planet",
+        "id": "junjou-romantica-special"
+      },
+      {
+        "site": "anisearch",
+        "id": "12353"
+      },
+      {
+        "site": "anisearch",
+        "id": "5010"
+      },
+      {
+        "site": "anisearch",
+        "id": "6732"
+      },
+      {
+        "site": "kitsu",
+        "id": "3802"
+      },
+      {
+        "site": "kitsu",
+        "id": "4606"
+      },
+      {
+        "site": "kitsu",
+        "id": "5944"
+      },
+      {
+        "site": "kitsu",
+        "id": "7024"
+      },
+      {
+        "site": "livechart",
+        "id": "1703"
+      },
+      {
+        "site": "livechart",
+        "id": "4295"
+      },
+      {
+        "site": "livechart",
+        "id": "6382"
+      },
+      {
+        "site": "livechart",
+        "id": "738"
+      },
+      {
+        "site": "myanimelist",
+        "id": "13767"
+      },
+      {
+        "site": "myanimelist",
+        "id": "40314"
+      },
+      {
+        "site": "myanimelist",
+        "id": "4814"
+      },
+      {
+        "site": "myanimelist",
+        "id": "6553"
+      },
+      {
+        "site": "myanimelist",
+        "id": "9926"
+      },
+      {
+        "site": "notify",
+        "id": "2-3GtKiig"
+      },
+      {
+        "site": "notify",
+        "id": "7pKr5KmiR"
+      },
+      {
+        "site": "notify",
+        "id": "N_de5FimR"
+      },
+      {
+        "site": "notify",
+        "id": "irUvtFimg"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2008,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/8811.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/8811t.jpg",
+    "synonyms": [
+      "Junjo Romantica",
+      "Junjou Romantica 1",
+      "Junjou Romantica: Pure Romance",
+      "Junjyou Romantica",
+      "Junjô Romantica",
+      "Junjō Romantica",
+      "Pure Hearted Romance",
+      "juro",
+      "Чиста Романтика",
+      "Чистая романтика",
+      "じゅんじょうろまんちか",
+      "純情ロマンチカ",
+      "纯情罗曼史"
     ]
   },
   {
@@ -4029,165 +4648,6 @@
       "Сладкая парочка",
       "Сладко момче - един обикновен разговор между близначки",
       "Солодка☆парочка"
-    ]
-  },
-  {
-    "title": "ひだまりスケッチ",
-    "titleTranslate": {
-      "en": [
-        "Hidamari Sketch"
-      ],
-      "zh-Hans": [
-        "向阳素描"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://www.tbs.co.jp/anime/hidamari/1st/",
-    "begin": "2007-01-11T16:35:00.000Z",
-    "end": "2008-07-11T15:30:00.000Z",
-    "sites": [
-      {
-        "site": "pptv",
-        "id": "N3lDwSmPicz2gHoY",
-        "begin": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "896"
-      },
-      {
-        "site": "nicovideo",
-        "id": "hidamari_01",
-        "begin": "2014-11-14T06:00:00.000Z"
-      },
-      {
-        "site": "bilibili",
-        "id": "731",
-        "begin": "2007-01-11T16:35:00.000Z",
-        "broadcast": "R/2013-08-15T14:12:00.000Z/P7D"
-      },
-      {
-        "site": "iqiyi",
-        "id": "a_19rrh2hh1h",
-        "begin": "2018-11-30T16:05:22.000Z"
-      },
-      {
-        "site": "kitsu",
-        "id": "1669"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1852"
-      },
-      {
-        "site": "notify",
-        "id": "N7UB5FimR"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2008,
-      "month": "01"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/71503.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/71503t.jpg",
-    "synonyms": [
-      "ひだまりすけっち",
-      "ひだまりスケッチ"
-    ]
-  },
-  {
-    "title": "舞-乙HiME Zwei",
-    "titleTranslate": {
-      "zh-Hans": [
-        "舞-乙HiME Zwei"
-      ]
-    },
-    "type": "ova",
-    "lang": "ja",
-    "officialSite": "http://www.my-zhime.net/ova/index.html",
-    "begin": "2006-11-24T16:00:00.000Z",
-    "end": "2007-08-24T16:30:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "3944"
-      },
-      {
-        "site": "qq",
-        "id": "1/1tzf4brkxs07agw",
-        "begin": ""
-      },
-      {
-        "site": "acfun",
-        "id": "6002266",
-        "begin": "2020-04-30T16:00:00.000Z"
-      },
-      {
-        "site": "bilibili",
-        "id": "3973",
-        "begin": "2016-05-09T06:36:00.000Z",
-        "broadcast": "R/2016-05-09T06:36:00.000Z/P7D"
-      },
-      {
-        "site": "kitsu",
-        "id": "1448"
-      },
-      {
-        "site": "livechart",
-        "id": "4010"
-      },
-      {
-        "site": "livechart",
-        "id": "4685"
-      },
-      {
-        "site": "livechart",
-        "id": "5066"
-      },
-      {
-        "site": "livechart",
-        "id": "6307"
-      },
-      {
-        "site": "livechart",
-        "id": "6636"
-      },
-      {
-        "site": "livechart",
-        "id": "7124"
-      },
-      {
-        "site": "livechart",
-        "id": "7546"
-      },
-      {
-        "site": "livechart",
-        "id": "7837"
-      },
-      {
-        "site": "notify",
-        "id": "sLu-cKimg"
-      }
-    ],
-    "animeSeason": {
-      "season": "SPRING",
-      "year": 2008,
-      "month": "11"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://media.kitsu.io/anime/poster_images/4470/small.jpg",
-    "thumbnail": "https://media.kitsu.io/anime/poster_images/4470/tiny.jpg",
-    "synonyms": [
-      "Mai-Otome Zwei Extended Ending",
-      "まいおとめつばい",
-      "舞-乙HiME ZWEI",
-      "舞-乙HiME Zwei"
     ]
   }
 ]

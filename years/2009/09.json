@@ -23,16 +23,28 @@
         "begin": "2012-04-11T06:00:00.000Z"
       },
       {
-        "site": "anilist",
-        "id": "6633"
+        "site": "anidb",
+        "id": "6080"
+      },
+      {
+        "site": "anidb",
+        "id": "7442"
       },
       {
         "site": "anilist",
-        "id": "6704"
+        "id": "4719"
+      },
+      {
+        "site": "anilist",
+        "id": "7740"
+      },
+      {
+        "site": "anilist",
+        "id": "8456"
       },
       {
         "site": "anime-planet",
-        "id": "queens-blade-2-the-evil-eye"
+        "id": "queens-blade-2-the-evil-eye-specials"
       },
       {
         "site": "anime-planet",
@@ -48,23 +60,11 @@
       },
       {
         "site": "anime-planet",
-        "id": "queens-blade-ova-specials"
-      },
-      {
-        "site": "anime-planet",
         "id": "queens-blade-rebellion"
       },
       {
         "site": "anime-planet",
-        "id": "queens-blade-rebellion-specials"
-      },
-      {
-        "site": "anime-planet",
         "id": "queens-blade-the-exiled-virgin"
-      },
-      {
-        "site": "anime-planet",
-        "id": "queens-blade-the-exiled-virgin-specials"
       },
       {
         "site": "anime-planet",
@@ -75,20 +75,32 @@
         "id": "queens-blade-vanquished-queens"
       },
       {
-        "site": "anime-planet",
-        "id": "queens-blade-vanquished-queens-specials"
+        "site": "anisearch",
+        "id": "4479"
       },
       {
         "site": "anisearch",
-        "id": "5461"
+        "id": "6193"
+      },
+      {
+        "site": "anisearch",
+        "id": "7327"
       },
       {
         "site": "kitsu",
-        "id": "3759"
+        "id": "10897"
       },
       {
         "site": "kitsu",
-        "id": "4642"
+        "id": "5103"
+      },
+      {
+        "site": "kitsu",
+        "id": "5342"
+      },
+      {
+        "site": "kitsu",
+        "id": "7762"
       },
       {
         "site": "livechart",
@@ -108,15 +120,15 @@
       },
       {
         "site": "livechart",
-        "id": "4269"
-      },
-      {
-        "site": "livechart",
         "id": "4947"
       },
       {
         "site": "livechart",
         "id": "5411"
+      },
+      {
+        "site": "livechart",
+        "id": "5821"
       },
       {
         "site": "livechart",
@@ -132,19 +144,35 @@
       },
       {
         "site": "myanimelist",
-        "id": "6633"
+        "id": "30679"
       },
       {
         "site": "myanimelist",
-        "id": "6704"
+        "id": "4719"
+      },
+      {
+        "site": "myanimelist",
+        "id": "7740"
+      },
+      {
+        "site": "myanimelist",
+        "id": "8456"
       },
       {
         "site": "notify",
-        "id": "-0V9cFiig"
+        "id": "MqvttFiig"
       },
       {
         "site": "notify",
-        "id": "HXTe5Kimg"
+        "id": "PihmtKimg"
+      },
+      {
+        "site": "notify",
+        "id": "ek2zpKmig"
+      },
+      {
+        "site": "notify",
+        "id": "oO1_pFiig"
       }
     ],
     "animeSeason": {
@@ -153,24 +181,40 @@
       "month": "09"
     },
     "status": "FINISHED",
-    "episodes": 6,
-    "picture": "https://cdn.myanimelist.net/images/anime/10/22749.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/22749t.jpg",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/75171.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/75171t.jpg",
     "synonyms": [
-      "Queen's Blade 2 Specials",
-      "Queen's Blade 2: Gyokuza wo Tsugumono Specials",
-      "Queen's Blade 2: The Evil Eye Specials",
-      "Queen's Blade and the Evil Eye Specials",
-      "Queen's Blade: Gyokuza wo Tsugumono Specials",
-      "Queen's Blade: Inheritor of the Throne Specials",
-      "Queen's Blade: The Successor of the Throne Specials",
-      "Queen’s Blade 2: The Evil Eye OVA",
-      "Queen’s Blade: Gyokuza o Tsugu Mono - Yappari Dechau yo! Gainos Gakuen Ooabare!",
-      "Queen’s Blade: Gyokuza o Tsugu Mono - Yappari Dechau yo! Gainos Gakuen Ōabare!",
-      "Queen’s Blade: Gyokuza wo Tsugu Mono - Yappari Dechau yo! Gainos Gakuen Ooabare!",
+      "QB: GoTM",
+      "Queen's Blade 2",
+      "Queen's Blade 2: Gyokuza wo Tsugumono",
+      "Queen's Blade 2: The Evil Eye",
+      "Queen's Blade and the Evil Eye",
+      "Queen's Blade: Die Thronfolgerin",
+      "Queen's Blade: Gyokuza wo Tsugumono",
+      "Queen's Blade: Inheritor of the Throne",
+      "Queen's Blade: Saison 2",
+      "Queen's Blade: The Successor of the Throne",
+      "Queen`s Blade (2)",
+      "Queen`s Blade 2: The Evil Eye",
+      "Queen`s Blade S2",
+      "Queen`s Blade: Gyokuza o Tsugu Mono",
+      "Queen`s Blade: The Successor to the Throne",
+      "Queen’s Blade 2: The Evil Eye",
+      "Queen’s Blade and the Evil Eye",
+      "Queen’s Blade: Die Thronfolgerin",
+      "Queen’s Blade: Gyokuza o Tsugu Mono",
+      "Queen’s Blade: Gyokuza wo Tsugu Mono",
+      "Queen’s Blade: The One to Inherit the Throne",
+      "Queen’s Blade: The Successor of the Throne",
+      "qb s2",
+      "qb2",
+      "queen`s blade 2",
       "くいーんずぶれいどぎょくざをつぐもの",
       "クイーンズブレイド 玉座を継ぐ者",
-      "クイーンズブレイド 玉座を継ぐ者 やっぱりでちゃうよ♥ガイノス学園大暴れ！"
+      "女王之刃 王位继承者",
+      "女王之刃 王座继承者",
+      "퀸즈블레이드 왕좌의 계승자"
     ]
   },
   {
