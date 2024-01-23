@@ -13,7 +13,7 @@ export const cloneRepository = (
     try {
         const repoExists = fs.existsSync(destinationPath);
         if (repoExists) {
-            execSync(`git -C ${destinationPath} pull --depth 1`);
+            execSync(`git -C ${destinationPath} pull --rebase --depth 1`);
         } else {
             execSync(`git clone --depth 1 ${repositoryUrl} ${destinationPath}`);
         }

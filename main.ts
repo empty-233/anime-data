@@ -39,14 +39,27 @@ const anime_offline_database: animeOfflineDatabaseList = readFile(
   `${anime_offline_database_path}/anime-offline-database.json`
 );
 
-//判断是否一致
+/**
+ * 判断是否一致
+ * @param objects 元数据
+ * @param value 匹配值
+ * @returns 匹配结果
+ */
 const findIfExists = (
   objects: Array<animeOfflineDatabaseData>,
-  value: string
+  value: string,
+  matchField: keyof animeOfflineDatabaseData
 ) => {
-  return objects.filter((obj) =>
-    obj.synonyms.some((element) => element == value)
-  );
+  return objects.filter((obj) => {
+    const fieldValue = obj[matchField];
+    if (Array.isArray(fieldValue)) {
+      // If fieldValue is an array, use the some() method to check if the array contains the value.
+      return fieldValue.some((element) => element == value);
+    } else {
+      // If fieldValue is not an array, check if it is equal to the value.
+      return fieldValue == value;
+    }
+  });
 };
 
 /**
@@ -83,11 +96,24 @@ let animeData: Root = {
 };
 bangumi_data_paths.map((path) => {
   const bangumi_data: Array<bangumiDataList> = readFile(path);
-  let datas:Array<Data>=[]
+  let datas: Array<Data> = [];
   bangumi_data.map((bangumiData) => {
-    const aods = findIfExists(anime_offline_database.data, bangumiData.title);
+    const aods = findIfExists(
+      anime_offline_database.data,
+      bangumiData.title,
+      "synonyms"
+    );
     if (aods.length !== 0) {
-      const aod = aods[aods.length - 1];
+      const typeMatching = findIfExists(
+        aods,
+        bangumiData.type.toUpperCase(),
+        "type"
+      );
+      // 如果type匹配成功就使用type匹配结果
+      const aod =
+        typeMatching.length !== 0
+          ? typeMatching[typeMatching.length - 1]
+          : aods[aods.length - 1];
       aod.relations.map((url) => {
         const result = splitUrl(url);
         bangumiData.sites.push({
@@ -107,7 +133,7 @@ bangumi_data_paths.map((path) => {
         thumbnail: aod.thumbnail,
         synonyms: aod.synonyms,
       };
-      datas.push(data)
+      datas.push(data);
       animeData.data.push(data);
     }
   });
