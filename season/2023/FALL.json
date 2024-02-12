@@ -600,7 +600,7 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1475/138948.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1475/138948t.jpg",
     "synonyms": [
-      "Umamusume : Pretty Derby (Saison 3)",
+      "Uma Musume : Pretty Derby (Saison 3)",
       "Umamusume: Pretty Derby Season 3",
       "umpd3",
       "สาวม้าโมเอะ ภาค 3",
@@ -2621,14 +2621,16 @@
     },
     "status": "ONGOING",
     "episodes": 24,
-    "picture": "https://cdn.myanimelist.net/images/anime/1475/138530.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1475/138530t.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/1229/141256.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1229/141256t.jpg",
     "synonyms": [
       "Four Knights of the Apocalypse",
       "Mokushiroku no Yonkishi",
       "Nanatsu no Taizai: Mokushiroku no Yon-kishi",
+      "The Seven Deadly Sins : Four Knights of the Apocalypse",
       "The Seven Deadly Sins: Four Knights of the Apocalypse",
       "The Seven Deadly Sins: Los cuatro jinetes del apocalipsis",
+      "Сім смертних гріхів: Чотири лицарі Апокаліпсису",
       "七つの大罪 黙示録の四騎士",
       "七大罪 启示录四骑士",
       "七大罪 啟示錄四騎士",
@@ -3599,7 +3601,7 @@
       "year": 2023,
       "month": "10"
     },
-    "status": "ONGOING",
+    "status": "FINISHED",
     "episodes": 12,
     "picture": "https://cdn.myanimelist.net/images/anime/1319/140965.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1319/140965t.jpg",
@@ -3969,6 +3971,7 @@
       "The Saint’s Magic Ability Is Omnipotent 2",
       "The Saint’s Magic Power Is Omnipotent (Saison 2)",
       "The Saint’s Magic Power Is Omnipotent: Season 2",
+      "The Saint’s Magic Power Is Omnipotent: Staffel 2",
       "The power of the saint is all around 2nd Season",
       "The power of the saint is all around Season 2",
       "seiban s2",
@@ -4572,6 +4575,14 @@
         "id": "42530"
       },
       {
+        "site": "kitsu",
+        "id": "48444"
+      },
+      {
+        "site": "livechart",
+        "id": "12509"
+      },
+      {
         "site": "livechart",
         "id": "2757"
       },
@@ -4582,6 +4593,10 @@
       {
         "site": "myanimelist",
         "id": "40356"
+      },
+      {
+        "site": "myanimelist",
+        "id": "57907"
       },
       {
         "site": "notify",
@@ -4830,7 +4845,7 @@
       "month": "10"
     },
     "status": "ONGOING",
-    "episodes": 16,
+    "episodes": 17,
     "picture": "https://cdn.myanimelist.net/images/anime/1312/138299.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1312/138299t.jpg",
     "synonyms": [
@@ -5295,10 +5310,10 @@
       "Arknights : Perish in Frost",
       "Arknights Season 2",
       "Arknights [Touin Kiro]",
-      "Arknights: Fuyu Komo Kiro",
       "Arknights: Fuyukomori Kaerimichi",
       "Arknights: PERISH IN FROST",
       "Arknights: Perish in Frost",
+      "Arknights: Tōin Kiro",
       "アークナイツ 冬隠帰路",
       "アークナイツ【冬隠帰路/PERISH IN FROST】",
       "明日方舟：冬隐归路",
@@ -6357,6 +6372,10 @@
       },
       {
         "site": "kitsu",
+        "id": "48509"
+      },
+      {
+        "site": "kitsu",
         "id": "6111"
       },
       {
@@ -6749,6 +6768,7 @@
       "Firefighter!: Daigo of Fire Company M",
       "Me-gumi no Daigo: Kyuukoku no Orange",
       "Me-gumi no Daigo: Kyūkoku no Orange",
+      "Megumi no Daigo - Kyuukoku no Orange",
       "め組の大吾 救国のオレンジ",
       "烈焰先鋒 救國的橘衣消防員",
       "烈焰先锋 救国的橘衣消防员"
@@ -7879,6 +7899,57 @@
       "レヱル・ロマネスク2",
       "鐵路浪漫譚 第二季",
       "铁路浪漫谭 第二季"
+    ]
+  },
+  {
+    "title": "機甲英雄 機鬥勇者",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机甲英雄 机斗勇者"
+      ],
+      "zh-Hant": [
+        "機甲英雄 機鬥勇者"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://ani.gamer.com.tw/animeVideo.php?sn=13135",
+    "begin": "2019-08-16T16:00:00.000Z",
+    "end": "2019-09-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "289215"
+      },
+      {
+        "site": "acfun",
+        "id": "6000035",
+        "begin": "2019-09-04T12:58:31.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "107158",
+        "begin": "2019-08-16T09:00:00.000Z",
+        "broadcast": "R/2019-08-16T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "myanimelist",
+        "id": "47838"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2023,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 8,
+    "picture": "https://cdn.myanimelist.net/images/anime/1109/141139.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1109/141139t.jpg",
+    "synonyms": [
+      "Hero of Robots 2nd Season",
+      "機甲英雄 機鬥勇者"
     ]
   },
   {
