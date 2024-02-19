@@ -801,8 +801,16 @@
         "broadcast": ""
       },
       {
+        "site": "anidb",
+        "id": "16935"
+      },
+      {
         "site": "anilist",
         "id": "140700"
+      },
+      {
+        "site": "livechart",
+        "id": "10854"
       },
       {
         "site": "myanimelist",
@@ -811,7 +819,6 @@
     ],
     "animeSeason": {
       "season": "UNDEFINED",
-      "year": null,
       "month": "12"
     },
     "status": "UPCOMING",
