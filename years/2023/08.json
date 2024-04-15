@@ -29,26 +29,6 @@
         "id": "81306306",
         "begin": "2023-08-07T16:00:00.000Z",
         "broadcast": "R/2023-08-07T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "anilist",
-        "id": "141352"
-      },
-      {
-        "site": "anime-planet",
-        "id": "the-seven-deadly-sins-grudge-of-edinburgh"
-      },
-      {
-        "site": "kitsu",
-        "id": "45472"
-      },
-      {
-        "site": "myanimelist",
-        "id": "50315"
-      },
-      {
-        "site": "notify",
-        "id": "6KQC_G57R"
       }
     ],
     "animeSeason": {
@@ -92,42 +72,6 @@
       {
         "site": "bangumi",
         "id": "437502"
-      },
-      {
-        "site": "anilist",
-        "id": "169442"
-      },
-      {
-        "site": "anilist",
-        "id": "173534"
-      },
-      {
-        "site": "anime-planet",
-        "id": "odekake-kozame-special-kuro-ajillo"
-      },
-      {
-        "site": "anime-planet",
-        "id": "odekake-kozame-x-gamera-rebirth-gamera-vs-kozamera"
-      },
-      {
-        "site": "anisearch",
-        "id": "18707"
-      },
-      {
-        "site": "kitsu",
-        "id": "47970"
-      },
-      {
-        "site": "kitsu",
-        "id": "48435"
-      },
-      {
-        "site": "myanimelist",
-        "id": "56702"
-      },
-      {
-        "site": "myanimelist",
-        "id": "57871"
       }
     ],
     "animeSeason": {
@@ -136,7 +80,7 @@
       "month": "08"
     },
     "status": "ONGOING",
-    "episodes": 35,
+    "episodes": 50,
     "picture": "https://cdn.myanimelist.net/images/anime/1464/136707.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1464/136707t.jpg",
     "synonyms": [
@@ -187,100 +131,22 @@
         "broadcast": ""
       },
       {
-        "site": "anidb",
-        "id": "13207"
+        "site": "unext",
+        "id": "SID0096735",
+        "begin": "2023-12-19T15:00:00.000Z",
+        "broadcast": "R/2023-12-19T15:00:00.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "14935"
+        "site": "abema",
+        "id": "106-4",
+        "begin": "",
+        "broadcast": ""
       },
       {
-        "site": "anilist",
-        "id": "100178"
-      },
-      {
-        "site": "anilist",
-        "id": "101992"
-      },
-      {
-        "site": "anilist",
-        "id": "109731"
-      },
-      {
-        "site": "anime-planet",
-        "id": "sound-euphonium-3"
-      },
-      {
-        "site": "anime-planet",
-        "id": "sound-euphonium-movie-3-our-promise-a-brand-new-day"
-      },
-      {
-        "site": "anisearch",
-        "id": "12543"
-      },
-      {
-        "site": "anisearch",
-        "id": "14429"
-      },
-      {
-        "site": "kitsu",
-        "id": "11475"
-      },
-      {
-        "site": "kitsu",
-        "id": "42372"
-      },
-      {
-        "site": "livechart",
-        "id": "1267"
-      },
-      {
-        "site": "livechart",
-        "id": "1745"
-      },
-      {
-        "site": "livechart",
-        "id": "1838"
-      },
-      {
-        "site": "livechart",
-        "id": "1902"
-      },
-      {
-        "site": "livechart",
-        "id": "1903"
-      },
-      {
-        "site": "livechart",
-        "id": "2358"
-      },
-      {
-        "site": "livechart",
-        "id": "2579"
-      },
-      {
-        "site": "livechart",
-        "id": "2715"
-      },
-      {
-        "site": "livechart",
-        "id": "2716"
-      },
-      {
-        "site": "livechart",
-        "id": "9457"
-      },
-      {
-        "site": "myanimelist",
-        "id": "35678"
-      },
-      {
-        "site": "myanimelist",
-        "id": "39894"
-      },
-      {
-        "site": "notify",
-        "id": "59J4hKimg"
+        "site": "nicovideo",
+        "id": "eupho-ensemble-contest",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -307,6 +173,121 @@
       "特別編 響け！ユーフォニアム～アンサンブルコンテスト～",
       "響け! ユーフォニアム アンサンブルコンテスト編",
       "響け！ ユーフォニアム アンサンブルコンテスト編"
+    ]
+  },
+  {
+    "title": "境界戦機 極鋼ノ装鬼",
+    "titleTranslate": {
+      "zh-Hans": [
+        "境界战机：极钢装鬼"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.kyoukai-senki.net/kyokko-no-souki/",
+    "begin": "2023-08-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-10-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "420047"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091402",
+        "begin": "2023-08-24T11:00:00.000Z",
+        "broadcast": "R/2023-08-24T11:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2023,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/1679/135836.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1679/135836t.jpg",
+    "synonyms": [
+      "AMAIM Warrior at the Borderline",
+      "AMAIM Warrior at the Borderline UltraSteel Ogre-Gear",
+      "AMAIM: Warrior at the Borderline - UltraSteel Ogre-Gear",
+      "AMAIM: Warrior at the Borderline UltraSteel Ogre-Gear",
+      "AMAIM: Warrior at the Borderline: UltraSteel Ogre-Gear",
+      "Amaim: Warrior at the Borderline UltraSteel Ogre-Gear",
+      "Kyoukai Senki: Kyokko no Souki",
+      "Kyōkai Senki: Kyokkō no Sōki",
+      "境界戦機 極鋼の装鬼",
+      "境界戦機 極鋼ノ装鬼",
+      "境界戦機　極鋼ノ装鬼"
+    ]
+  },
+  {
+    "title": "しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 ～とべとべ手巻き寿司～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新：新次元！超能力大决战",
+        "新次元！蜡笔小新 THE MOVIE 超能力大决战 ~飞翔飞翔手卷寿司~"
+      ],
+      "zh-Hant": [
+        "新次元！蠟筆小新電影超能力大決戰~飛吧！手卷壽司~"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.shinchan-movie.com/",
+    "begin": "2023-08-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-08-03T17:34:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "410418"
+      },
+      {
+        "site": "gamer",
+        "id": "129181",
+        "begin": "2024-03-07T04:00:00.000Z",
+        "broadcast": "R/2024-03-07T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0099902",
+        "begin": "2024-03-06T03:00:00.000Z",
+        "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "21102890",
+        "begin": "",
+        "broadcast": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2023,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1431/136322.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1431/136322t.jpg",
+    "synonyms": [
+      "Crayon Shin-chan Movie 31",
+      "Crayon Shin-chan: Chounouryoku Daikessen - Tobe Tobe Temakizushi",
+      "New Dimension! Crayon Shin-chan the Movie: Battle of Supernatural Powers - Flying Sushi",
+      "New Dimension! Crayon Shin-chan the Movie: Great Psychokinetic Battle - Leaping Handmade Sushi",
+      "New Dimension! Crayon Shinchan The Movie: Battle of Supernatural Powers ~Flying Sushi~",
+      "Shin Jigen! Crayon Shin-chan THE MOVIE: Chounouryoku Daikessen - Tobe Tobe Temakizushi",
+      "Shin Jigen! Crayon Shin-chan THE MOVIE: Chounouryoku Daikessen ~Tobe Tobe Temakizushi~",
+      "Shin Jigen! Crayon Shin-chan the Movie: Chounouryoku Daikessen - Tobe Tobe Temakizushi",
+      "Shin Jigen! Crayon Shin-chan the Movie: Chōnōryoku Daikessen - Tobe Tobe Temakizushi",
+      "しん次元! クレヨンしんちゃんTHE MOVIE 超能力大決戦 ~とべとべ手巻き寿司~",
+      "しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜",
+      "しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 ～とべとべ手巻き寿司～"
     ]
   }
 ]

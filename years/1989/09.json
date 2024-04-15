@@ -20,34 +20,6 @@
       {
         "site": "bangumi",
         "id": "37033"
-      },
-      {
-        "site": "anidb",
-        "id": "2891"
-      },
-      {
-        "site": "anidb",
-        "id": "3544"
-      },
-      {
-        "site": "anilist",
-        "id": "129595"
-      },
-      {
-        "site": "anime-planet",
-        "id": "megazone-23"
-      },
-      {
-        "site": "anime-planet",
-        "id": "megazone-23-part-2"
-      },
-      {
-        "site": "anime-planet",
-        "id": "megazone-23-xi"
-      },
-      {
-        "site": "anisearch",
-        "id": "1848"
       }
     ],
     "animeSeason": {
@@ -92,30 +64,6 @@
         "site": "nicovideo",
         "id": "midoriyama",
         "begin": "2016-08-01T06:00:00.000Z"
-      },
-      {
-        "site": "anidb",
-        "id": "7465"
-      },
-      {
-        "site": "anilist",
-        "id": "8522"
-      },
-      {
-        "site": "anime-planet",
-        "id": "midoriyama-koukou-koushien-hen-movie"
-      },
-      {
-        "site": "kitsu",
-        "id": "5371"
-      },
-      {
-        "site": "myanimelist",
-        "id": "8522"
-      },
-      {
-        "site": "notify",
-        "id": "u5xipFmiR"
       }
     ],
     "animeSeason": {
@@ -161,6 +109,12 @@
         "site": "bilibili",
         "id": "2059",
         "begin": "2002-10-07T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003412",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -176,6 +130,48 @@
       "エンジェルコップ",
       "エンゼルコップ",
       "エンゼル・コップ"
+    ]
+  },
+  {
+    "title": "ハローキティとミミィのハッピーバースデー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凯蒂和咪咪的快乐生日"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-09-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-09-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "314191"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093077",
+        "begin": "2023-10-01T03:00:00.000Z",
+        "broadcast": "R/2023-10-01T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1989,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/58717.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/58717t.jpg",
+    "synonyms": [
+      "Hello Kitty - Contos Originais - Festa de Anos Com a Kitty e a Mimmy",
+      "Hello Kitty to Mimmy no Happy Birthday",
+      "キティとミミィのハッピーバースデー",
+      "ハローキティとミミィのハッピーバースデー"
     ]
   }
 ]

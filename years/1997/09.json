@@ -15,6 +15,12 @@
       {
         "site": "bangumi",
         "id": "9266"
+      },
+      {
+        "site": "unext",
+        "id": "SID0070921",
+        "begin": "2022-07-29T03:00:00.000Z",
+        "broadcast": "R/2022-07-29T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -53,34 +59,6 @@
       {
         "site": "bangumi",
         "id": "22967"
-      },
-      {
-        "site": "anidb",
-        "id": "1295"
-      },
-      {
-        "site": "anilist",
-        "id": "1805"
-      },
-      {
-        "site": "anime-planet",
-        "id": "master-of-mosquiton-ova"
-      },
-      {
-        "site": "anisearch",
-        "id": "781"
-      },
-      {
-        "site": "kitsu",
-        "id": "1624"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1805"
-      },
-      {
-        "site": "notify",
-        "id": "TsJBcFmmR"
       }
     ],
     "animeSeason": {
@@ -104,6 +82,47 @@
       "マスターモスキートン`99",
       "マスターモスキートン’99",
       "マスターモスキートン’９９"
+    ]
+  },
+  {
+    "title": "新・湘南爆走族 荒くれナイト",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-09-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-09-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "161775"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011289",
+        "begin": "2019-11-19T03:00:00.000Z",
+        "broadcast": "R/2019-11-19T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1997,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/44652.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/44652t.jpg",
+    "synonyms": [
+      "Arakure Knight",
+      "Shin Shonan Bakusozoku Arakure Knight",
+      "Shin Shounan Bakusouzoku Arakure KNIGHT",
+      "Shin Shōnan Bakusōzoku Arakure Knight",
+      "新・湘南爆走族 荒くれ Knight",
+      "新・湘南爆走族 荒くれKNIGHT",
+      "新・湘南爆走族 荒くれナイト"
     ]
   }
 ]

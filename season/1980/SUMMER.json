@@ -21,174 +21,6 @@
         "id": "4019",
         "begin": "2016-05-20T03:02:00.000Z",
         "broadcast": "R/2016-05-20T03:02:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "17141"
-      },
-      {
-        "site": "anidb",
-        "id": "2661"
-      },
-      {
-        "site": "anidb",
-        "id": "2811"
-      },
-      {
-        "site": "anilist",
-        "id": "1652"
-      },
-      {
-        "site": "anilist",
-        "id": "3071"
-      },
-      {
-        "site": "anime-planet",
-        "id": "farewell-to-space-battleship-yamato-in-the-name-of-love"
-      },
-      {
-        "site": "anime-planet",
-        "id": "final-yamato"
-      },
-      {
-        "site": "anime-planet",
-        "id": "space-battleship-yamato-2199-odyssey-of-the-celestial-ark"
-      },
-      {
-        "site": "anime-planet",
-        "id": "space-battleship-yamato-2199-tsuikou-no-koukai"
-      },
-      {
-        "site": "anime-planet",
-        "id": "space-battleship-yamato-movie"
-      },
-      {
-        "site": "anime-planet",
-        "id": "space-battleship-yamato-resurrection"
-      },
-      {
-        "site": "anime-planet",
-        "id": "space-battleship-yamato-the-new-voyage"
-      },
-      {
-        "site": "anime-planet",
-        "id": "star-blazers-space-battleship-yamato-2199"
-      },
-      {
-        "site": "anime-planet",
-        "id": "star-blazers-space-battleship-yamato-2202"
-      },
-      {
-        "site": "anime-planet",
-        "id": "star-blazers-the-bolar-wars"
-      },
-      {
-        "site": "anime-planet",
-        "id": "star-blazers-the-comet-empire"
-      },
-      {
-        "site": "anime-planet",
-        "id": "star-blazers-the-quest-for-iscandar"
-      },
-      {
-        "site": "anime-planet",
-        "id": "yamato-2520"
-      },
-      {
-        "site": "anisearch",
-        "id": "1968"
-      },
-      {
-        "site": "anisearch",
-        "id": "2999"
-      },
-      {
-        "site": "kitsu",
-        "id": "1485"
-      },
-      {
-        "site": "kitsu",
-        "id": "2769"
-      },
-      {
-        "site": "livechart",
-        "id": "10540"
-      },
-      {
-        "site": "livechart",
-        "id": "1775"
-      },
-      {
-        "site": "livechart",
-        "id": "2965"
-      },
-      {
-        "site": "livechart",
-        "id": "431"
-      },
-      {
-        "site": "livechart",
-        "id": "4380"
-      },
-      {
-        "site": "livechart",
-        "id": "6082"
-      },
-      {
-        "site": "livechart",
-        "id": "6100"
-      },
-      {
-        "site": "livechart",
-        "id": "6765"
-      },
-      {
-        "site": "livechart",
-        "id": "7010"
-      },
-      {
-        "site": "livechart",
-        "id": "7319"
-      },
-      {
-        "site": "livechart",
-        "id": "7604"
-      },
-      {
-        "site": "livechart",
-        "id": "7752"
-      },
-      {
-        "site": "livechart",
-        "id": "7789"
-      },
-      {
-        "site": "livechart",
-        "id": "8016"
-      },
-      {
-        "site": "livechart",
-        "id": "8022"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1652"
-      },
-      {
-        "site": "myanimelist",
-        "id": "3071"
-      },
-      {
-        "site": "myanimelist",
-        "id": "50855"
-      },
-      {
-        "site": "notify",
-        "id": "8w6acKiiR"
-      },
-      {
-        "site": "notify",
-        "id": "i2u8cFimR"
       }
     ],
     "animeSeason": {
@@ -210,6 +42,50 @@
     ]
   },
   {
+    "title": "フウムーン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "月圆之夜"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.cartoon.co.jp/cn_programs/view/00385",
+    "begin": "1980-08-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1980-08-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "112656"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003097",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1980,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/63339.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/63339t.jpg",
+    "synonyms": [
+      "24 Hour TV Specials",
+      "FUMOON",
+      "Fumōn",
+      "Nuclea 3000",
+      "Nucléa 3000",
+      "フウムーン"
+    ]
+  },
+  {
     "title": "ゲゲゲの鬼太郎 地相眼",
     "titleTranslate": {
       "zh-Hans": [
@@ -225,166 +101,6 @@
       {
         "site": "bangumi",
         "id": "211092"
-      },
-      {
-        "site": "anidb",
-        "id": "1452"
-      },
-      {
-        "site": "anilist",
-        "id": "6971"
-      },
-      {
-        "site": "anime-planet",
-        "id": "gegege-no-kitarou"
-      },
-      {
-        "site": "anime-planet",
-        "id": "gegege-no-kitarou-1968"
-      },
-      {
-        "site": "anime-planet",
-        "id": "gegege-no-kitarou-1971"
-      },
-      {
-        "site": "anime-planet",
-        "id": "gegege-no-kitarou-1985"
-      },
-      {
-        "site": "anime-planet",
-        "id": "gegege-no-kitarou-1996"
-      },
-      {
-        "site": "anime-planet",
-        "id": "gegege-no-kitarou-2007"
-      },
-      {
-        "site": "anime-planet",
-        "id": "gegege-no-kitarou-2018"
-      },
-      {
-        "site": "anime-planet",
-        "id": "gegege-no-kitarou-daikaijuu"
-      },
-      {
-        "site": "anime-planet",
-        "id": "gegege-no-kitarou-gekitotsu-ijigen-youkai-no-daihanran"
-      },
-      {
-        "site": "anime-planet",
-        "id": "gegege-no-kitarou-jigoku-hen"
-      },
-      {
-        "site": "anime-planet",
-        "id": "gegege-no-kitarou-kitarou-no-yuurei-densha"
-      },
-      {
-        "site": "anime-planet",
-        "id": "gegege-no-kitarou-kitarou-tanjou-hen"
-      },
-      {
-        "site": "anime-planet",
-        "id": "gegege-no-kitarou-movie-1985"
-      },
-      {
-        "site": "anime-planet",
-        "id": "gegege-no-kitarou-nippon-bakuretsu"
-      },
-      {
-        "site": "anime-planet",
-        "id": "gegege-no-kitarou-obake-nighter"
-      },
-      {
-        "site": "anime-planet",
-        "id": "gegege-no-kitarou-saikyou-youkai-gundan-nihon-jouriku"
-      },
-      {
-        "site": "anime-planet",
-        "id": "gegege-no-kitarou-youkai-daisensou"
-      },
-      {
-        "site": "anime-planet",
-        "id": "gegege-no-kitarou-youkai-japan-rally-3d"
-      },
-      {
-        "site": "anime-planet",
-        "id": "gegege-no-kitarou-youkai-tokkyuu-maboroshi-no-kisha"
-      },
-      {
-        "site": "anime-planet",
-        "id": "hakaba-kitarou"
-      },
-      {
-        "site": "anisearch",
-        "id": "3022"
-      },
-      {
-        "site": "kitsu",
-        "id": "4812"
-      },
-      {
-        "site": "livechart",
-        "id": "10454"
-      },
-      {
-        "site": "livechart",
-        "id": "10813"
-      },
-      {
-        "site": "livechart",
-        "id": "12421"
-      },
-      {
-        "site": "livechart",
-        "id": "3050"
-      },
-      {
-        "site": "livechart",
-        "id": "6548"
-      },
-      {
-        "site": "livechart",
-        "id": "7176"
-      },
-      {
-        "site": "livechart",
-        "id": "7326"
-      },
-      {
-        "site": "livechart",
-        "id": "7365"
-      },
-      {
-        "site": "livechart",
-        "id": "7979"
-      },
-      {
-        "site": "livechart",
-        "id": "7981"
-      },
-      {
-        "site": "livechart",
-        "id": "8082"
-      },
-      {
-        "site": "livechart",
-        "id": "8093"
-      },
-      {
-        "site": "livechart",
-        "id": "8817"
-      },
-      {
-        "site": "livechart",
-        "id": "9113"
-      },
-      {
-        "site": "myanimelist",
-        "id": "6971"
-      },
-      {
-        "site": "notify",
-        "id": "f4HRpFimg"
       }
     ],
     "animeSeason": {
@@ -406,6 +122,91 @@
       "Gegege no Kitarō: Chisōgan",
       "Spooky Kitaro: The All Seeing Eye",
       "ゲゲゲの鬼太郎 地相眼"
+    ]
+  },
+  {
+    "title": "まことちゃん",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1980-07-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1980-07-25T17:25:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220040"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038636",
+        "begin": "2018-12-27T03:00:00.000Z",
+        "broadcast": "R/2018-12-27T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1980,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1641/109775.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1641/109775t.jpg",
+    "synonyms": [
+      "まことちゃん"
+    ]
+  },
+  {
+    "title": "宇宙戦士バルディオス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战士巴鲁迪奥斯",
+        "高达王"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1980-06-29T16:00:00.000Z",
+    "broadcast": "R/1980-06-29T16:00:00.000Z/P7D",
+    "end": "1981-01-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37277"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004950",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1980,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 34,
+    "picture": "https://cdn.myanimelist.net/images/anime/1603/98295.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1603/98295t.jpg",
+    "synonyms": [
+      "Baldios",
+      "Baldios - Il guerriero dello spazio",
+      "Baldios: Il guerriero dello spazio",
+      "Space Warrior Baldios",
+      "Space Warrior Bladios",
+      "Uchū Senshi Baldios",
+      "Балдиос",
+      "بالديو",
+      "宇宙战士巴鲁迪奥斯",
+      "宇宙戦士 バルディオス",
+      "宇宙戦士バルディオス"
     ]
   }
 ]

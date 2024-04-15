@@ -76,46 +76,6 @@
         "id": "3150",
         "begin": "2015-12-06T14:22:00.000Z",
         "broadcast": "R/2015-12-06T14:22:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "40"
-      },
-      {
-        "site": "anilist",
-        "id": "1251"
-      },
-      {
-        "site": "anime-planet",
-        "id": "nadia-secret-of-blue-water"
-      },
-      {
-        "site": "anime-planet",
-        "id": "nadia-secret-of-the-blue-water-specials"
-      },
-      {
-        "site": "anisearch",
-        "id": "355"
-      },
-      {
-        "site": "kitsu",
-        "id": "1126"
-      },
-      {
-        "site": "livechart",
-        "id": "4995"
-      },
-      {
-        "site": "livechart",
-        "id": "7062"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1251"
-      },
-      {
-        "site": "notify",
-        "id": "d_0bcKmmR"
       }
     ],
     "animeSeason": {
@@ -156,6 +116,46 @@
     ]
   },
   {
+    "title": "スローステップ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "含羞草"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-05-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-10-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "25415"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042436",
+        "begin": "2019-08-09T03:00:00.000Z",
+        "broadcast": "R/2019-08-09T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1991,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 5,
+    "picture": "https://cdn.myanimelist.net/images/anime/1/2341.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1/2341t.jpg",
+    "synonyms": [
+      "Ступеньки",
+      "スローステップ"
+    ]
+  },
+  {
     "title": "機動戦士ガンダム0083 STARDUST MEMORY",
     "titleTranslate": {
       "zh-Hans": [
@@ -189,288 +189,10 @@
         "broadcast": "R/2023-12-04T09:00:00.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "2009"
-      },
-      {
-        "site": "anidb",
-        "id": "715"
-      },
-      {
-        "site": "anidb",
-        "id": "718"
-      },
-      {
-        "site": "anilist",
-        "id": "10581"
-      },
-      {
-        "site": "anilist",
-        "id": "1092"
-      },
-      {
-        "site": "anilist",
-        "id": "110332"
-      },
-      {
-        "site": "anilist",
-        "id": "1967"
-      },
-      {
-        "site": "anilist",
-        "id": "2695"
-      },
-      {
-        "site": "anilist",
-        "id": "7113"
-      },
-      {
-        "site": "anilist",
-        "id": "80"
-      },
-      {
-        "site": "anilist",
-        "id": "85"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-gundam"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-gundam-0080-war-in-the-pocket"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-gundam-0083-stardust-memory-picture-drama"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-gundam-0083-stardust-memory-the-mayfly-of-space"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-gundam-0083-the-afterglow-of-zeon"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-gundam-chars-counterattack"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-gundam-evolve"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-gundam-f91"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-gundam-hathaways-flash-i"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-gundam-hathaways-flash-ii"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-gundam-hathaways-flash-iii"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-gundam-more-information-on-the-universal-century"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-gundam-ms-igloo-2-juuryoku-sensen"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-gundam-ms-igloo-apocalypse-0079"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-gundam-ms-igloo-the-hidden-one-year-war"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-gundam-narrative"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-gundam-the-08th-ms-team"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-gundam-the-origin"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-gundam-thunderbolt"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-gundam-thunderbolt-2nd-season"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-gundam-twilight-axis"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-gundam-unicorn"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-gundam-zz"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-victory-gundam"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-zeta-gundam"
-      },
-      {
-        "site": "anisearch",
-        "id": "1424"
-      },
-      {
-        "site": "anisearch",
-        "id": "1959"
-      },
-      {
-        "site": "anisearch",
-        "id": "3329"
-      },
-      {
-        "site": "anisearch",
-        "id": "8522"
-      },
-      {
-        "site": "kitsu",
-        "id": "11909"
-      },
-      {
-        "site": "kitsu",
-        "id": "2457"
-      },
-      {
-        "site": "kitsu",
-        "id": "61"
-      },
-      {
-        "site": "kitsu",
-        "id": "6250"
-      },
-      {
-        "site": "kitsu",
-        "id": "64"
-      },
-      {
-        "site": "livechart",
-        "id": "3938"
-      },
-      {
-        "site": "livechart",
-        "id": "4607"
-      },
-      {
-        "site": "livechart",
-        "id": "4659"
-      },
-      {
-        "site": "livechart",
-        "id": "4683"
-      },
-      {
-        "site": "livechart",
-        "id": "4695"
-      },
-      {
-        "site": "livechart",
-        "id": "4944"
-      },
-      {
-        "site": "livechart",
-        "id": "5926"
-      },
-      {
-        "site": "livechart",
-        "id": "5947"
-      },
-      {
-        "site": "livechart",
-        "id": "6906"
-      },
-      {
-        "site": "livechart",
-        "id": "6987"
-      },
-      {
-        "site": "livechart",
-        "id": "7514"
-      },
-      {
-        "site": "livechart",
-        "id": "7582"
-      },
-      {
-        "site": "livechart",
-        "id": "7717"
-      },
-      {
-        "site": "livechart",
-        "id": "7848"
-      },
-      {
-        "site": "livechart",
-        "id": "8121"
-      },
-      {
-        "site": "myanimelist",
-        "id": "10581"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2695"
-      },
-      {
-        "site": "myanimelist",
-        "id": "32898"
-      },
-      {
-        "site": "myanimelist",
-        "id": "40464"
-      },
-      {
-        "site": "myanimelist",
-        "id": "82"
-      },
-      {
-        "site": "myanimelist",
-        "id": "85"
-      },
-      {
-        "site": "notify",
-        "id": "-att5Fmmg"
-      },
-      {
-        "site": "notify",
-        "id": "Gfd4tFimg"
-      },
-      {
-        "site": "notify",
-        "id": "NVtp5KmmR"
-      },
-      {
-        "site": "notify",
-        "id": "OF76tKmmg"
-      },
-      {
-        "site": "notify",
-        "id": "qOss5Fiig"
+        "site": "unext",
+        "id": "SID0012897",
+        "begin": "2008-10-31T15:00:00.000Z",
+        "broadcast": "R/2008-10-31T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -495,6 +217,56 @@
       "機動戦士ガンダム 0083 スターダストメモリー",
       "機動戦士ガンダム0083 STARDUST MEMORY",
       "기동전사 건담 0083: 스타더스트 메모리"
+    ]
+  },
+  {
+    "title": "とべ! くじらのピーク",
+    "titleTranslate": {
+      "zh-Hans": [
+        "飞吧！鲸鱼皮克",
+        "飞吧！鲸鱼的高峰"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-05-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-05-21T17:20:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "56301"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047514",
+        "begin": "2020-05-14T03:00:00.000Z",
+        "broadcast": "R/2020-05-14T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1991,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1761/103241.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1761/103241t.jpg",
+    "synonyms": [
+      "Fly Peek!",
+      "Fly Peek: Peek the Baby Whale",
+      "Fly! Peek the Whale",
+      "Free Whale Peek",
+      "La Ballena Blanca",
+      "Peek la Petite Baleine Blanche",
+      "Peek the Baby Whale",
+      "Poika ja valkoinen valas",
+      "The Boy and the White Whale Calf",
+      "とべ! くじらのピーク",
+      "とべ！ くじらのピーク"
     ]
   },
   {
@@ -528,70 +300,6 @@
         "id": "20478",
         "begin": "2021-12-03T06:00:00.000Z",
         "broadcast": "R/2021-12-03T06:00:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "3961"
-      },
-      {
-        "site": "anidb",
-        "id": "4487"
-      },
-      {
-        "site": "anidb",
-        "id": "5816"
-      },
-      {
-        "site": "anidb",
-        "id": "6317"
-      },
-      {
-        "site": "anilist",
-        "id": "2028"
-      },
-      {
-        "site": "anilist",
-        "id": "2916"
-      },
-      {
-        "site": "anime-planet",
-        "id": "genki-bakuhatsu-ganbaruger"
-      },
-      {
-        "site": "anime-planet",
-        "id": "kanzen-shouri-daiteioh"
-      },
-      {
-        "site": "anime-planet",
-        "id": "nekketsu-saikyou-gozaurer"
-      },
-      {
-        "site": "anime-planet",
-        "id": "zettai-muteki-raijin-oh-1992"
-      },
-      {
-        "site": "anisearch",
-        "id": "3701"
-      },
-      {
-        "site": "kitsu",
-        "id": "1827"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2028"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2916"
-      },
-      {
-        "site": "myanimelist",
-        "id": "5395"
-      },
-      {
-        "site": "notify",
-        "id": "MWhYcKmig"
       }
     ],
     "animeSeason": {
@@ -653,156 +361,10 @@
         "broadcast": "R/2020-04-12T13:13:17.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "1564"
-      },
-      {
-        "site": "anidb",
-        "id": "1569"
-      },
-      {
-        "site": "anidb",
-        "id": "2926"
-      },
-      {
-        "site": "anilist",
-        "id": "1472"
-      },
-      {
-        "site": "anilist",
-        "id": "1477"
-      },
-      {
-        "site": "anime-planet",
-        "id": "city-hunter"
-      },
-      {
-        "site": "anime-planet",
-        "id": "city-hunter-2"
-      },
-      {
-        "site": "anime-planet",
-        "id": "city-hunter-3"
-      },
-      {
-        "site": "anime-planet",
-        "id": "city-hunter-357-magnum"
-      },
-      {
-        "site": "anime-planet",
-        "id": "city-hunter-bay-city-wars"
-      },
-      {
-        "site": "anime-planet",
-        "id": "city-hunter-death-of-the-vicious-criminal-ryo-saeba"
-      },
-      {
-        "site": "anime-planet",
-        "id": "city-hunter-goodbye-my-sweetheart"
-      },
-      {
-        "site": "anime-planet",
-        "id": "city-hunter-million-dollar-conspiracy"
-      },
-      {
-        "site": "anime-planet",
-        "id": "city-hunter-ryou-no-propose"
-      },
-      {
-        "site": "anime-planet",
-        "id": "city-hunter-the-secret-service"
-      },
-      {
-        "site": "anisearch",
-        "id": "1298"
-      },
-      {
-        "site": "anisearch",
-        "id": "13487"
-      },
-      {
-        "site": "anisearch",
-        "id": "231"
-      },
-      {
-        "site": "anisearch",
-        "id": "448"
-      },
-      {
-        "site": "anisearch",
-        "id": "700"
-      },
-      {
-        "site": "kitsu",
-        "id": "1318"
-      },
-      {
-        "site": "kitsu",
-        "id": "1323"
-      },
-      {
-        "site": "livechart",
-        "id": "11179"
-      },
-      {
-        "site": "livechart",
-        "id": "1609"
-      },
-      {
-        "site": "livechart",
-        "id": "3166"
-      },
-      {
-        "site": "livechart",
-        "id": "4648"
-      },
-      {
-        "site": "livechart",
-        "id": "8407"
-      },
-      {
-        "site": "livechart",
-        "id": "8409"
-      },
-      {
-        "site": "livechart",
-        "id": "8410"
-      },
-      {
-        "site": "livechart",
-        "id": "8412"
-      },
-      {
-        "site": "livechart",
-        "id": "8413"
-      },
-      {
-        "site": "livechart",
-        "id": "8414"
-      },
-      {
-        "site": "livechart",
-        "id": "8415"
-      },
-      {
-        "site": "livechart",
-        "id": "8416"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1472"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1477"
-      },
-      {
-        "site": "notify",
-        "id": "cxva5Kimg"
-      },
-      {
-        "site": "notify",
-        "id": "uqH-cKmig"
+        "site": "unext",
+        "id": "SID0013055",
+        "begin": "2008-12-19T06:00:00.000Z",
+        "broadcast": "R/2008-12-19T06:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -828,6 +390,88 @@
       "シティーハンター'91",
       "シティーハンター`91",
       "城市獵人`91"
+    ]
+  },
+  {
+    "title": "ジャンケンマン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "正气大侠",
+        "包剪槌小飞侠"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-04-03T16:00:00.000Z",
+    "broadcast": "R/1991-04-03T16:00:00.000Z/P7D",
+    "end": "1992-03-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "18618"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004943",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1991,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 51,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/17801.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/17801t.jpg",
+    "synonyms": [
+      "أمل البطل",
+      "جانكي الصغير",
+      "ジャンケンマン"
+    ]
+  },
+  {
+    "title": "どろろんぱっ!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "飘飘小灵仙"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-04-07T16:00:00.000Z",
+    "broadcast": "R/1991-04-07T16:00:00.000Z/P7D",
+    "end": "1991-09-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "189019"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012677",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1991,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 115,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/63501.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/63501t.jpg",
+    "synonyms": [
+      "どろろんぱっ!",
+      "どろろんぱっ！"
     ]
   },
   {
@@ -883,88 +527,10 @@
         "broadcast": "R/2022-02-18T03:00:00.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "2461"
-      },
-      {
-        "site": "anidb",
-        "id": "2463"
-      },
-      {
-        "site": "anidb",
-        "id": "2464"
-      },
-      {
-        "site": "anilist",
-        "id": "1392"
-      },
-      {
-        "site": "anilist",
-        "id": "1396"
-      },
-      {
-        "site": "anilist",
-        "id": "9759"
-      },
-      {
-        "site": "anime-planet",
-        "id": "cyber-formula-double-one"
-      },
-      {
-        "site": "anime-planet",
-        "id": "cyber-formula-early-days-renewal"
-      },
-      {
-        "site": "anime-planet",
-        "id": "cyber-formula-graffiti"
-      },
-      {
-        "site": "anime-planet",
-        "id": "cyber-formula-saga"
-      },
-      {
-        "site": "anime-planet",
-        "id": "cyber-formula-sin"
-      },
-      {
-        "site": "anime-planet",
-        "id": "cyber-formula-zero"
-      },
-      {
-        "site": "anisearch",
-        "id": "1165"
-      },
-      {
-        "site": "anisearch",
-        "id": "1950"
-      },
-      {
-        "site": "anisearch",
-        "id": "550"
-      },
-      {
-        "site": "kitsu",
-        "id": "1245"
-      },
-      {
-        "site": "kitsu",
-        "id": "5854"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1392"
-      },
-      {
-        "site": "myanimelist",
-        "id": "9759"
-      },
-      {
-        "site": "notify",
-        "id": "D1eb5Kmig"
-      },
-      {
-        "site": "notify",
-        "id": "FabGpFimg"
+        "site": "unext",
+        "id": "SID0016635",
+        "begin": "2023-02-14T03:00:00.000Z",
+        "broadcast": "R/2023-02-14T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {

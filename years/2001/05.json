@@ -103,24 +103,10 @@
         "begin": "2013-12-27T03:00:00.000Z"
       },
       {
-        "site": "anime-planet",
-        "id": "shingu-secret-of-the-stellar-wars-recap"
-      },
-      {
-        "site": "kitsu",
-        "id": "13337"
-      },
-      {
-        "site": "kitsu",
-        "id": "43462"
-      },
-      {
-        "site": "myanimelist",
-        "id": "34892"
-      },
-      {
-        "site": "myanimelist",
-        "id": "38174"
+        "site": "unext",
+        "id": "SID0002518",
+        "begin": "2019-10-25T03:00:00.000Z",
+        "broadcast": "R/2019-10-25T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -182,36 +168,10 @@
         "broadcast": "R/2011-02-12T09:13:00.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "894"
-      },
-      {
-        "site": "anilist",
-        "id": "209"
-      },
-      {
-        "site": "anime-planet",
-        "id": "read-or-die-tv"
-      },
-      {
-        "site": "anisearch",
-        "id": "618"
-      },
-      {
-        "site": "kitsu",
-        "id": "185"
-      },
-      {
-        "site": "livechart",
-        "id": "3940"
-      },
-      {
-        "site": "myanimelist",
-        "id": "209"
-      },
-      {
-        "site": "notify",
-        "id": "ipz2cKimg"
+        "site": "unext",
+        "id": "SID0013631",
+        "begin": "2021-01-29T03:00:00.000Z",
+        "broadcast": "R/2021-01-29T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -266,6 +226,12 @@
         "id": "5311",
         "begin": "2016-07-22T07:35:00.000Z",
         "broadcast": "R/2016-07-22T07:35:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003378",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -294,6 +260,54 @@
       "メトロポリス",
       "大都会",
       "大都會"
+    ]
+  },
+  {
+    "title": "オフサイド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少年足球",
+        "铜墙铁壁"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.asahi-net.or.jp/~va3d-isbs/offside_top.html",
+    "begin": "2001-05-09T16:00:00.000Z",
+    "broadcast": "R/2001-05-09T16:00:00.000Z/P7D",
+    "end": "2002-01-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "56999"
+      },
+      {
+        "site": "unext",
+        "id": "SID0066832",
+        "begin": "2022-03-01T03:00:00.000Z",
+        "broadcast": "R/2022-03-01T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2001,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 39,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/10383.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/10383t.jpg",
+    "synonyms": [
+      "OFFSIDE",
+      "OFFSIDE (TV)",
+      "Offside",
+      "Offside (2001)",
+      "أوف سايد",
+      "オフサイド",
+      "オフサイド (2001)",
+      "オフサイド (TV)",
+      "オフサイド （2001）"
     ]
   }
 ]

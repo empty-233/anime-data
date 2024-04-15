@@ -21,38 +21,6 @@
         "id": "5475",
         "begin": "2016-08-29T02:19:00.000Z",
         "broadcast": "R/2016-08-29T02:19:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "509"
-      },
-      {
-        "site": "anilist",
-        "id": "2288"
-      },
-      {
-        "site": "anime-planet",
-        "id": "cyberteam-in-akihabara"
-      },
-      {
-        "site": "anisearch",
-        "id": "2546"
-      },
-      {
-        "site": "kitsu",
-        "id": "2073"
-      },
-      {
-        "site": "livechart",
-        "id": "11970"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2288"
-      },
-      {
-        "site": "notify",
-        "id": "3XcPcFmmR"
       }
     ],
     "animeSeason": {
@@ -68,7 +36,7 @@
       "Akihabara Cyber Team 2011",
       "Akihabara Denno Gumi 2011 Nen no Natsu Yasumi",
       "Akihabara Denno Gumi 2011 Nen no Natsuyasumi",
-      "Akihabara Dennou Gumi: 2011 Nen no Natsuyasumi",
+      "Akihabara Dennou Gumi: 2011-nen no Natsuyasumi",
       "Akihabara Dennō-gumi: 2011-nen no Natsuyasumi",
       "Cyber Team in Akihabara: 2011 Summer Vacations",
       "Cyber Team in Akihabara: The Movie",
@@ -111,36 +79,10 @@
         "broadcast": "R/2019-05-13T01:49:41.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "287"
-      },
-      {
-        "site": "anilist",
-        "id": "440"
-      },
-      {
-        "site": "anime-planet",
-        "id": "revolutionary-girl-utena"
-      },
-      {
-        "site": "anisearch",
-        "id": "3237"
-      },
-      {
-        "site": "kitsu",
-        "id": "403"
-      },
-      {
-        "site": "livechart",
-        "id": "3779"
-      },
-      {
-        "site": "myanimelist",
-        "id": "440"
-      },
-      {
-        "site": "notify",
-        "id": "2jZo5Kimg"
+        "site": "unext",
+        "id": "SID0002638",
+        "begin": "2019-10-08T03:00:00.000Z",
+        "broadcast": "R/2019-10-08T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -180,6 +122,51 @@
       "Юная революционерка Утэна: Конец Света юности",
       "少女革命ウテナ アドゥレセンス黙示録",
       "少女革命ウテナ　アドゥレセンス黙示録"
+    ]
+  },
+  {
+    "title": "同級生2 Special 卒業生",
+    "titleTranslate": {
+      "zh-Hans": [
+        "同级生2 Special 卒业生"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-08-26T16:00:00.000Z",
+    "end": "2000-02-24T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "102188"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015849",
+        "begin": "2022-10-31T03:00:00.000Z",
+        "broadcast": "R/2022-10-31T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1999,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/11674.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/11674t.jpg",
+    "synonyms": [
+      "Classmates 2 Special: Graduation",
+      "Dokyusei 2 Special",
+      "Doukyuusei 2 Special: Sotsugyousei",
+      "Dōkyūsei 2 Special: Sotsugyōsei",
+      "Graduate",
+      "同級生 2 Special 卒業生",
+      "同級生2 Special 卒業生",
+      "同級生２ Special　卒業生",
+      "동급생2 스페셜 - 졸업생"
     ]
   }
 ]

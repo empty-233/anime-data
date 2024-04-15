@@ -27,6 +27,12 @@
         "id": "2821",
         "begin": "2001-03-31T16:00:00.000Z",
         "broadcast": "R/2015-10-11T10:48:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0055982",
+        "begin": "2021-03-31T03:00:00.000Z",
+        "broadcast": "R/2021-03-31T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -87,54 +93,6 @@
         "id": "2125",
         "begin": "2001-03-31T16:00:00.000Z",
         "broadcast": "R/2012-12-04T22:16:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "12"
-      },
-      {
-        "site": "anidb",
-        "id": "2733"
-      },
-      {
-        "site": "anidb",
-        "id": "4046"
-      },
-      {
-        "site": "anidb",
-        "id": "4514"
-      },
-      {
-        "site": "anidb",
-        "id": "6258"
-      },
-      {
-        "site": "anilist",
-        "id": "2768"
-      },
-      {
-        "site": "anime-planet",
-        "id": "angelic-layer-be-my-angel"
-      },
-      {
-        "site": "anisearch",
-        "id": "1526"
-      },
-      {
-        "site": "anisearch",
-        "id": "1913"
-      },
-      {
-        "site": "anisearch",
-        "id": "4529"
-      },
-      {
-        "site": "kitsu",
-        "id": "12975"
-      },
-      {
-        "site": "notify",
-        "id": "G7sZhKimg"
       }
     ],
     "animeSeason": {
@@ -176,6 +134,12 @@
       {
         "site": "bangumi",
         "id": "37495"
+      },
+      {
+        "site": "unext",
+        "id": "SID0067616",
+        "begin": "2022-04-11T03:00:00.000Z",
+        "broadcast": "R/2022-04-11T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -269,212 +233,10 @@
         "begin": "2016-12-01T06:00:00.000Z"
       },
       {
-        "site": "anidb",
-        "id": "1227"
-      },
-      {
-        "site": "anidb",
-        "id": "234"
-      },
-      {
-        "site": "anilist",
-        "id": "11385"
-      },
-      {
-        "site": "anilist",
-        "id": "3032"
-      },
-      {
-        "site": "anilist",
-        "id": "3033"
-      },
-      {
-        "site": "anilist",
-        "id": "552"
-      },
-      {
-        "site": "anime-planet",
-        "id": "digimon-adventure"
-      },
-      {
-        "site": "anime-planet",
-        "id": "digimon-adventure-02"
-      },
-      {
-        "site": "anime-planet",
-        "id": "digimon-frontier"
-      },
-      {
-        "site": "anime-planet",
-        "id": "digimon-savers"
-      },
-      {
-        "site": "anime-planet",
-        "id": "digimon-tamers-movie-runaway-locomon"
-      },
-      {
-        "site": "anime-planet",
-        "id": "digimon-tamers-movie-the-adventurers-battle"
-      },
-      {
-        "site": "anime-planet",
-        "id": "digimon-xros-wars"
-      },
-      {
-        "site": "anisearch",
-        "id": "2262"
-      },
-      {
-        "site": "anisearch",
-        "id": "247"
-      },
-      {
-        "site": "anisearch",
-        "id": "2710"
-      },
-      {
-        "site": "kitsu",
-        "id": "1014"
-      },
-      {
-        "site": "kitsu",
-        "id": "1178"
-      },
-      {
-        "site": "kitsu",
-        "id": "2738"
-      },
-      {
-        "site": "kitsu",
-        "id": "2739"
-      },
-      {
-        "site": "kitsu",
-        "id": "509"
-      },
-      {
-        "site": "kitsu",
-        "id": "5404"
-      },
-      {
-        "site": "kitsu",
-        "id": "761"
-      },
-      {
-        "site": "livechart",
-        "id": "3730"
-      },
-      {
-        "site": "livechart",
-        "id": "3917"
-      },
-      {
-        "site": "livechart",
-        "id": "3990"
-      },
-      {
-        "site": "livechart",
-        "id": "4234"
-      },
-      {
-        "site": "livechart",
-        "id": "4251"
-      },
-      {
-        "site": "livechart",
-        "id": "4604"
-      },
-      {
-        "site": "livechart",
-        "id": "4643"
-      },
-      {
-        "site": "livechart",
-        "id": "4864"
-      },
-      {
-        "site": "livechart",
-        "id": "5139"
-      },
-      {
-        "site": "livechart",
-        "id": "5520"
-      },
-      {
-        "site": "livechart",
-        "id": "5638"
-      },
-      {
-        "site": "livechart",
-        "id": "5655"
-      },
-      {
-        "site": "livechart",
-        "id": "5704"
-      },
-      {
-        "site": "livechart",
-        "id": "5834"
-      },
-      {
-        "site": "livechart",
-        "id": "5846"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1132"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1313"
-      },
-      {
-        "site": "myanimelist",
-        "id": "3032"
-      },
-      {
-        "site": "myanimelist",
-        "id": "3033"
-      },
-      {
-        "site": "myanimelist",
-        "id": "552"
-      },
-      {
-        "site": "myanimelist",
-        "id": "859"
-      },
-      {
-        "site": "myanimelist",
-        "id": "8624"
-      },
-      {
-        "site": "notify",
-        "id": "CCBT5FmmR"
-      },
-      {
-        "site": "notify",
-        "id": "U9EmtKmmg"
-      },
-      {
-        "site": "notify",
-        "id": "Z8sxcKiiR"
-      },
-      {
-        "site": "notify",
-        "id": "o38UcFimg"
-      },
-      {
-        "site": "notify",
-        "id": "pARb5Kiig"
-      },
-      {
-        "site": "notify",
-        "id": "vZQ85Fmmg"
-      },
-      {
-        "site": "notify",
-        "id": "wklA5Kimg"
+        "site": "unext",
+        "id": "SID0011451",
+        "begin": "2020-06-27T03:00:00.000Z",
+        "broadcast": "R/2020-06-27T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -526,40 +288,10 @@
         "id": "3690"
       },
       {
-        "site": "anidb",
-        "id": "474"
-      },
-      {
-        "site": "anilist",
-        "id": "835"
-      },
-      {
-        "site": "anime-planet",
-        "id": "sister-princess-re-pure"
-      },
-      {
-        "site": "anisearch",
-        "id": "1264"
-      },
-      {
-        "site": "kitsu",
-        "id": "740"
-      },
-      {
-        "site": "livechart",
-        "id": "7172"
-      },
-      {
-        "site": "livechart",
-        "id": "7667"
-      },
-      {
-        "site": "myanimelist",
-        "id": "835"
-      },
-      {
-        "site": "notify",
-        "id": "QOE05Kiig"
+        "site": "unext",
+        "id": "SID0025573",
+        "begin": "2019-01-12T03:00:00.000Z",
+        "broadcast": "R/2019-01-12T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -607,106 +339,6 @@
         "id": "2132",
         "begin": "2001-04-01T16:00:00.000Z",
         "broadcast": ""
-      },
-      {
-        "site": "anidb",
-        "id": "1225"
-      },
-      {
-        "site": "anilist",
-        "id": "472"
-      },
-      {
-        "site": "anilist",
-        "id": "5147"
-      },
-      {
-        "site": "anilist",
-        "id": "706"
-      },
-      {
-        "site": "anilist",
-        "id": "707"
-      },
-      {
-        "site": "anime-planet",
-        "id": "comic-party-revolution"
-      },
-      {
-        "site": "anime-planet",
-        "id": "comic-party-revolution-ova"
-      },
-      {
-        "site": "anime-planet",
-        "id": "comic-party-specials"
-      },
-      {
-        "site": "anisearch",
-        "id": "10109"
-      },
-      {
-        "site": "anisearch",
-        "id": "535"
-      },
-      {
-        "site": "anisearch",
-        "id": "666"
-      },
-      {
-        "site": "kitsu",
-        "id": "3948"
-      },
-      {
-        "site": "kitsu",
-        "id": "434"
-      },
-      {
-        "site": "kitsu",
-        "id": "640"
-      },
-      {
-        "site": "kitsu",
-        "id": "641"
-      },
-      {
-        "site": "livechart",
-        "id": "8865"
-      },
-      {
-        "site": "livechart",
-        "id": "9103"
-      },
-      {
-        "site": "myanimelist",
-        "id": "472"
-      },
-      {
-        "site": "myanimelist",
-        "id": "5147"
-      },
-      {
-        "site": "myanimelist",
-        "id": "706"
-      },
-      {
-        "site": "myanimelist",
-        "id": "707"
-      },
-      {
-        "site": "notify",
-        "id": "N2H05Kmig"
-      },
-      {
-        "site": "notify",
-        "id": "OdHA5FmmR"
-      },
-      {
-        "site": "notify",
-        "id": "p4C9cKiig"
-      },
-      {
-        "site": "notify",
-        "id": "s6Ho5FmiR"
       }
     ],
     "animeSeason": {
@@ -753,70 +385,6 @@
         "id": "5213",
         "begin": "2001-04-03T16:00:01.000Z",
         "broadcast": "R/2016-07-17T08:12:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "258"
-      },
-      {
-        "site": "anilist",
-        "id": "3849"
-      },
-      {
-        "site": "anilist",
-        "id": "615"
-      },
-      {
-        "site": "anime-planet",
-        "id": "nurse-witch-komugi"
-      },
-      {
-        "site": "anime-planet",
-        "id": "nurse-witch-komugi-r"
-      },
-      {
-        "site": "anime-planet",
-        "id": "nurse-witch-komugi-z"
-      },
-      {
-        "site": "anime-planet",
-        "id": "soultaker-tamashii-gari-komugi-daisakusen"
-      },
-      {
-        "site": "anisearch",
-        "id": "3362"
-      },
-      {
-        "site": "anisearch",
-        "id": "8765"
-      },
-      {
-        "site": "kitsu",
-        "id": "3301"
-      },
-      {
-        "site": "kitsu",
-        "id": "570"
-      },
-      {
-        "site": "livechart",
-        "id": "11279"
-      },
-      {
-        "site": "myanimelist",
-        "id": "3849"
-      },
-      {
-        "site": "myanimelist",
-        "id": "615"
-      },
-      {
-        "site": "notify",
-        "id": "nB3T5FimR"
-      },
-      {
-        "site": "notify",
-        "id": "qbEl5KiiR"
       }
     ],
     "animeSeason": {
@@ -895,60 +463,10 @@
         "begin": "2012-07-03T07:22:46.000Z"
       },
       {
-        "site": "anidb",
-        "id": "317"
-      },
-      {
-        "site": "anilist",
-        "id": "17785"
-      },
-      {
-        "site": "anilist",
-        "id": "254"
-      },
-      {
-        "site": "anime-planet",
-        "id": "hare-guu-deluxe"
-      },
-      {
-        "site": "anime-planet",
-        "id": "hare-guu-eizou-tokuten-maboroshi-no-pilot-film"
-      },
-      {
-        "site": "anime-planet",
-        "id": "hare-guu-final"
-      },
-      {
-        "site": "anisearch",
-        "id": "1129"
-      },
-      {
-        "site": "anisearch",
-        "id": "3208"
-      },
-      {
-        "site": "kitsu",
-        "id": "229"
-      },
-      {
-        "site": "kitsu",
-        "id": "9115"
-      },
-      {
-        "site": "myanimelist",
-        "id": "17785"
-      },
-      {
-        "site": "myanimelist",
-        "id": "254"
-      },
-      {
-        "site": "notify",
-        "id": "LESatFmiR"
-      },
-      {
-        "site": "notify",
-        "id": "clN2cKmiR"
+        "site": "unext",
+        "id": "SID0003151",
+        "begin": "2019-11-27T03:00:00.000Z",
+        "broadcast": "R/2019-11-27T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1007,38 +525,6 @@
       {
         "site": "bangumi",
         "id": "36882"
-      },
-      {
-        "site": "anidb",
-        "id": "408"
-      },
-      {
-        "site": "anilist",
-        "id": "1248"
-      },
-      {
-        "site": "anime-planet",
-        "id": "zone-of-the-enders-idolo"
-      },
-      {
-        "site": "anisearch",
-        "id": "3433"
-      },
-      {
-        "site": "kitsu",
-        "id": "1123"
-      },
-      {
-        "site": "livechart",
-        "id": "6723"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1248"
-      },
-      {
-        "site": "notify",
-        "id": "zc0bcKmig"
       }
     ],
     "animeSeason": {
@@ -1089,42 +575,6 @@
       {
         "site": "bangumi",
         "id": "14052"
-      },
-      {
-        "site": "anidb",
-        "id": "2576"
-      },
-      {
-        "site": "anilist",
-        "id": "1493"
-      },
-      {
-        "site": "anime-planet",
-        "id": "project-arms-the-2nd-chapter"
-      },
-      {
-        "site": "anisearch",
-        "id": "278"
-      },
-      {
-        "site": "kitsu",
-        "id": "1339"
-      },
-      {
-        "site": "kitsu",
-        "id": "42590"
-      },
-      {
-        "site": "livechart",
-        "id": "7602"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1493"
-      },
-      {
-        "site": "notify",
-        "id": "lrF-5KmmR"
       }
     ],
     "animeSeason": {
@@ -1174,8 +624,10 @@
         "begin": "2014-01-30T06:00:00.000Z"
       },
       {
-        "site": "anisearch",
-        "id": "9508"
+        "site": "unext",
+        "id": "SID0002769",
+        "begin": "2019-07-16T03:00:00.000Z",
+        "broadcast": "R/2019-07-16T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1249,66 +701,6 @@
       {
         "site": "bangumi",
         "id": "19538"
-      },
-      {
-        "site": "anidb",
-        "id": "1555"
-      },
-      {
-        "site": "anidb",
-        "id": "2046"
-      },
-      {
-        "site": "anilist",
-        "id": "649"
-      },
-      {
-        "site": "anilist",
-        "id": "797"
-      },
-      {
-        "site": "anime-planet",
-        "id": "hanaukyo-maid-team-la-verite"
-      },
-      {
-        "site": "anime-planet",
-        "id": "hanaukyo-maid-team-ova"
-      },
-      {
-        "site": "anisearch",
-        "id": "2796"
-      },
-      {
-        "site": "anisearch",
-        "id": "3474"
-      },
-      {
-        "site": "kitsu",
-        "id": "597"
-      },
-      {
-        "site": "kitsu",
-        "id": "711"
-      },
-      {
-        "site": "livechart",
-        "id": "4933"
-      },
-      {
-        "site": "myanimelist",
-        "id": "649"
-      },
-      {
-        "site": "myanimelist",
-        "id": "797"
-      },
-      {
-        "site": "notify",
-        "id": "F2xAcKmiR"
-      },
-      {
-        "site": "notify",
-        "id": "e2i05Fimg"
       }
     ],
     "animeSeason": {
@@ -1360,6 +752,12 @@
         "id": "2112",
         "begin": "2001-04-03T16:00:00.000Z",
         "broadcast": "R/2011-04-07T09:09:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003153",
+        "begin": "2015-02-17T06:00:00.000Z",
+        "broadcast": "R/2015-02-17T06:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1412,182 +810,6 @@
         "id": "1942",
         "begin": "2001-04-06T16:00:00.000Z",
         "broadcast": "R/2010-12-29T05:24:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "259"
-      },
-      {
-        "site": "anidb",
-        "id": "4335"
-      },
-      {
-        "site": "anilist",
-        "id": "13287"
-      },
-      {
-        "site": "anilist",
-        "id": "1600"
-      },
-      {
-        "site": "anilist",
-        "id": "652"
-      },
-      {
-        "site": "anime-planet",
-        "id": "galaxy-angel-a"
-      },
-      {
-        "site": "anime-planet",
-        "id": "galaxy-angel-a-specials"
-      },
-      {
-        "site": "anime-planet",
-        "id": "galaxy-angel-rune"
-      },
-      {
-        "site": "anime-planet",
-        "id": "galaxy-angel-s"
-      },
-      {
-        "site": "anime-planet",
-        "id": "galaxy-angel-x"
-      },
-      {
-        "site": "anime-planet",
-        "id": "galaxy-angel-z"
-      },
-      {
-        "site": "anime-planet",
-        "id": "galaxy-angel-z-special"
-      },
-      {
-        "site": "anisearch",
-        "id": "16608"
-      },
-      {
-        "site": "anisearch",
-        "id": "2467"
-      },
-      {
-        "site": "anisearch",
-        "id": "3903"
-      },
-      {
-        "site": "kitsu",
-        "id": "1440"
-      },
-      {
-        "site": "kitsu",
-        "id": "1997"
-      },
-      {
-        "site": "kitsu",
-        "id": "600"
-      },
-      {
-        "site": "kitsu",
-        "id": "601"
-      },
-      {
-        "site": "kitsu",
-        "id": "602"
-      },
-      {
-        "site": "kitsu",
-        "id": "603"
-      },
-      {
-        "site": "kitsu",
-        "id": "6933"
-      },
-      {
-        "site": "livechart",
-        "id": "5680"
-      },
-      {
-        "site": "livechart",
-        "id": "5992"
-      },
-      {
-        "site": "livechart",
-        "id": "6134"
-      },
-      {
-        "site": "livechart",
-        "id": "6312"
-      },
-      {
-        "site": "livechart",
-        "id": "6680"
-      },
-      {
-        "site": "livechart",
-        "id": "7005"
-      },
-      {
-        "site": "livechart",
-        "id": "7651"
-      },
-      {
-        "site": "livechart",
-        "id": "7895"
-      },
-      {
-        "site": "myanimelist",
-        "id": "13287"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1600"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2206"
-      },
-      {
-        "site": "myanimelist",
-        "id": "652"
-      },
-      {
-        "site": "myanimelist",
-        "id": "653"
-      },
-      {
-        "site": "myanimelist",
-        "id": "654"
-      },
-      {
-        "site": "myanimelist",
-        "id": "655"
-      },
-      {
-        "site": "notify",
-        "id": "4ZW05Fiig"
-      },
-      {
-        "site": "notify",
-        "id": "68mA5Kiig"
-      },
-      {
-        "site": "notify",
-        "id": "BCmAcFiig"
-      },
-      {
-        "site": "notify",
-        "id": "KHZ0cFmmR"
-      },
-      {
-        "site": "notify",
-        "id": "VnWEcFmig"
-      },
-      {
-        "site": "notify",
-        "id": "tF_-5Kmig"
-      },
-      {
-        "site": "notify",
-        "id": "y7FvpKimR"
       }
     ],
     "animeSeason": {
@@ -1643,180 +865,10 @@
         "broadcast": "R/2011-02-11T15:30:00.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "438"
-      },
-      {
-        "site": "anidb",
-        "id": "5234"
-      },
-      {
-        "site": "anilist",
-        "id": "2010"
-      },
-      {
-        "site": "anilist",
-        "id": "2013"
-      },
-      {
-        "site": "anilist",
-        "id": "3000"
-      },
-      {
-        "site": "anime-planet",
-        "id": "youre-under-arrest"
-      },
-      {
-        "site": "anime-planet",
-        "id": "youre-under-arrest-diverting-traffic-at-the-beach"
-      },
-      {
-        "site": "anime-planet",
-        "id": "youre-under-arrest-full-throttle"
-      },
-      {
-        "site": "anime-planet",
-        "id": "youre-under-arrest-full-throttle-special"
-      },
-      {
-        "site": "anime-planet",
-        "id": "youre-under-arrest-mini-specials"
-      },
-      {
-        "site": "anime-planet",
-        "id": "youre-under-arrest-no-mercy"
-      },
-      {
-        "site": "anime-planet",
-        "id": "youre-under-arrest-ova"
-      },
-      {
-        "site": "anime-planet",
-        "id": "youre-under-arrest-the-movie"
-      },
-      {
-        "site": "anisearch",
-        "id": "2377"
-      },
-      {
-        "site": "anisearch",
-        "id": "2971"
-      },
-      {
-        "site": "anisearch",
-        "id": "4308"
-      },
-      {
-        "site": "kitsu",
-        "id": "1226"
-      },
-      {
-        "site": "kitsu",
-        "id": "1417"
-      },
-      {
-        "site": "kitsu",
-        "id": "1809"
-      },
-      {
-        "site": "kitsu",
-        "id": "1810"
-      },
-      {
-        "site": "kitsu",
-        "id": "1812"
-      },
-      {
-        "site": "kitsu",
-        "id": "2711"
-      },
-      {
-        "site": "kitsu",
-        "id": "3497"
-      },
-      {
-        "site": "livechart",
-        "id": "5191"
-      },
-      {
-        "site": "livechart",
-        "id": "5694"
-      },
-      {
-        "site": "livechart",
-        "id": "6743"
-      },
-      {
-        "site": "livechart",
-        "id": "7057"
-      },
-      {
-        "site": "livechart",
-        "id": "7570"
-      },
-      {
-        "site": "livechart",
-        "id": "7580"
-      },
-      {
-        "site": "livechart",
-        "id": "7610"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1372"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1577"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2010"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2011"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2013"
-      },
-      {
-        "site": "myanimelist",
-        "id": "3000"
-      },
-      {
-        "site": "myanimelist",
-        "id": "4162"
-      },
-      {
-        "site": "notify",
-        "id": "0FsacFmiR"
-      },
-      {
-        "site": "notify",
-        "id": "13FLcFmmg"
-      },
-      {
-        "site": "notify",
-        "id": "HwCb5Fmmg"
-      },
-      {
-        "site": "notify",
-        "id": "UYFY5KmiR"
-      },
-      {
-        "site": "notify",
-        "id": "XJKLcKiig"
-      },
-      {
-        "site": "notify",
-        "id": "cKKXcFmig"
-      },
-      {
-        "site": "notify",
-        "id": "vHL85Kmmg"
+        "site": "unext",
+        "id": "SID0010717",
+        "begin": "2022-05-30T03:00:00.000Z",
+        "broadcast": "R/2022-05-30T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1876,30 +928,6 @@
       {
         "site": "bangumi",
         "id": "211290"
-      },
-      {
-        "site": "anidb",
-        "id": "2297"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ai-shoujo-pollyanna-monogatari"
-      },
-      {
-        "site": "anisearch",
-        "id": "983"
-      },
-      {
-        "site": "kitsu",
-        "id": "2319"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2554"
-      },
-      {
-        "site": "notify",
-        "id": "pfMs5KiiR"
       }
     ],
     "animeSeason": {
@@ -1909,8 +937,8 @@
     },
     "status": "FINISHED",
     "episodes": 2,
-    "picture": "https://cdn.myanimelist.net/images/anime/5/63433.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/63433t.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/1963/140232.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1963/140232t.jpg",
     "synonyms": [
       "Ai Shoujo Pollyanna Monogatari Recaps",
       "Pollyanna special",
@@ -1981,236 +1009,10 @@
         "broadcast": "R/2023-12-07T04:55:00.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "708"
-      },
-      {
-        "site": "anilist",
-        "id": "3744"
-      },
-      {
-        "site": "anilist",
-        "id": "8362"
-      },
-      {
-        "site": "anilist",
-        "id": "966"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-arashi-o-yobu-ora-to-uchuu-no-princess"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-arashi-o-yobu-utau-ketsu-dake-bakudan"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-chou-jikuu-arashi-wo-yobu-ora-no-hanayome"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-1-action-kamen-vs-daigure-maou"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-10-arashi-wo-yobu-appare-sengoku-daikassen"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-11-arashi-wo-yobu-eikou-no-yakiniku-road"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-12-arashi-wo-yobu-yuuhi-no-kasukabe-boys"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-13-densetsu-wo-yobu-buriburi-3-pun-dai-shingeki"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-14-densetsu-wo-yobu-odore-amigo"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-16-chou-arashi-wo-yobu-kinpoko-no-yuusha"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-17-otakebe-kasukabe-yasei-oukoku"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-19-arashi-wo-yobu-ougon-no-spy-daisakusen"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-2-buriburi-oukoku-no-hihou"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-21-bakauma-b-kyuu-gourmet-survival-battle"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-22-gachinko-gyakushuu-no-robo-to-chan"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-23-ora-no-hikkoshi-monogatari-saboten-dai-shuugeki"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-24-bakusui-yumemi-world-dai-totsugeki"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-25-shurai-uchujin-shiriri"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-26-bakumori-kung-fu-boys-ramen-tairan"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-27-shinkon-ryokou-hurricane-ushinawareta-hiroshi"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-28-gekitotsu-rakuga-kingdom-to-hobo-yonin-no-yuusha"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-29-nazo-meki-hana-no-tenkasu-gakuen"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-3-unkokusai-no-yabou"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-4-henderland-no-daibouken"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-5-ankoku-tamatama-daitsuiseki"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-6-dengeki-buta-no-hizume-daisakusen"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-7-bakuhatsu-onsen-wakuwaku-daikessen"
-      },
-      {
-        "site": "anime-planet",
-        "id": "crayon-shin-chan-movie-8-arashi-wo-yobu-jungle"
-      },
-      {
-        "site": "anisearch",
-        "id": "178"
-      },
-      {
-        "site": "kitsu",
-        "id": "3225"
-      },
-      {
-        "site": "kitsu",
-        "id": "5311"
-      },
-      {
-        "site": "kitsu",
-        "id": "856"
-      },
-      {
-        "site": "livechart",
-        "id": "1608"
-      },
-      {
-        "site": "livechart",
-        "id": "7625"
-      },
-      {
-        "site": "livechart",
-        "id": "8457"
-      },
-      {
-        "site": "livechart",
-        "id": "8546"
-      },
-      {
-        "site": "livechart",
-        "id": "8547"
-      },
-      {
-        "site": "livechart",
-        "id": "8591"
-      },
-      {
-        "site": "livechart",
-        "id": "8622"
-      },
-      {
-        "site": "livechart",
-        "id": "8624"
-      },
-      {
-        "site": "livechart",
-        "id": "8625"
-      },
-      {
-        "site": "livechart",
-        "id": "8626"
-      },
-      {
-        "site": "livechart",
-        "id": "8627"
-      },
-      {
-        "site": "livechart",
-        "id": "8628"
-      },
-      {
-        "site": "livechart",
-        "id": "8629"
-      },
-      {
-        "site": "livechart",
-        "id": "8630"
-      },
-      {
-        "site": "livechart",
-        "id": "8631"
-      },
-      {
-        "site": "myanimelist",
-        "id": "3744"
-      },
-      {
-        "site": "myanimelist",
-        "id": "8362"
-      },
-      {
-        "site": "myanimelist",
-        "id": "966"
-      },
-      {
-        "site": "notify",
-        "id": "H-vJ5Fimg"
-      },
-      {
-        "site": "notify",
-        "id": "OKvmpFmmR"
-      },
-      {
-        "site": "notify",
-        "id": "uRplcFimg"
+        "site": "unext",
+        "id": "SID0010789",
+        "begin": "2024-03-06T03:00:00.000Z",
+        "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2291,190 +1093,6 @@
         "id": "28228945",
         "begin": "2020-05-21T16:00:00.000Z",
         "broadcast": ""
-      },
-      {
-        "site": "anidb",
-        "id": "266"
-      },
-      {
-        "site": "anidb",
-        "id": "867"
-      },
-      {
-        "site": "anilist",
-        "id": "235"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan-crossroad-in-the-ancient-capital"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan-full-score-of-fear"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan-jolly-roger-in-the-deep-azure"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan-magician-of-the-silver-sky"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan-movie-14-the-lost-ship-in-the-sky"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan-movie-15-quarter-of-silence"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan-movie-18-the-sniper-from-another-dimension"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan-movie-19-the-hellfire-sunflowers"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan-movie-20-the-darkest-nightmare"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan-movie-21-the-crimson-love-letter"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan-movie-22-zero-the-enforcer"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan-movie-23-the-fist-of-blue-sapphire"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan-movie-24-the-scarlet-bullet"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan-movie-3-the-last-magician-of-the-century"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan-movie-4-captured-in-her-eyes"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan-movie-6-the-phantom-of-baker-street"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan-movie-9-strategy-above-the-depths"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan-the-eleventh-striker"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan-the-fourteenth-target"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan-the-private-eyes-requiem"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan-the-raven-chaser"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan-the-time-bombed-skyscraper"
-      },
-      {
-        "site": "anime-planet",
-        "id": "detective-conan-zekkai-no-private-eye"
-      },
-      {
-        "site": "anisearch",
-        "id": "1721"
-      },
-      {
-        "site": "kitsu",
-        "id": "210"
-      },
-      {
-        "site": "livechart",
-        "id": "319"
-      },
-      {
-        "site": "livechart",
-        "id": "4579"
-      },
-      {
-        "site": "livechart",
-        "id": "4615"
-      },
-      {
-        "site": "livechart",
-        "id": "4634"
-      },
-      {
-        "site": "livechart",
-        "id": "4688"
-      },
-      {
-        "site": "livechart",
-        "id": "4710"
-      },
-      {
-        "site": "livechart",
-        "id": "4732"
-      },
-      {
-        "site": "livechart",
-        "id": "4783"
-      },
-      {
-        "site": "livechart",
-        "id": "4860"
-      },
-      {
-        "site": "livechart",
-        "id": "6391"
-      },
-      {
-        "site": "livechart",
-        "id": "6392"
-      },
-      {
-        "site": "livechart",
-        "id": "6400"
-      },
-      {
-        "site": "livechart",
-        "id": "6411"
-      },
-      {
-        "site": "livechart",
-        "id": "6441"
-      },
-      {
-        "site": "livechart",
-        "id": "8185"
-      },
-      {
-        "site": "myanimelist",
-        "id": "235"
-      },
-      {
-        "site": "notify",
-        "id": "lWnhcKiig"
       }
     ],
     "animeSeason": {
@@ -2545,10 +1163,6 @@
       {
         "site": "bangumi",
         "id": "8378"
-      },
-      {
-        "site": "myanimelist",
-        "id": "34486"
       }
     ],
     "animeSeason": {
@@ -2593,30 +1207,6 @@
         "id": "5323",
         "begin": "2001-04-02T16:00:01.000Z",
         "broadcast": "R/2016-07-25T02:50:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "169"
-      },
-      {
-        "site": "anime-planet",
-        "id": "legend-of-crystania-the-chaos-ring"
-      },
-      {
-        "site": "anime-planet",
-        "id": "legend-of-crystania-the-motion-picture"
-      },
-      {
-        "site": "anime-planet",
-        "id": "record-of-lodoss-war"
-      },
-      {
-        "site": "anime-planet",
-        "id": "record-of-lodoss-war-chronicles-of-the-heroic-knight"
-      },
-      {
-        "site": "anisearch",
-        "id": "1694"
       }
     ],
     "animeSeason": {
@@ -2672,126 +1262,6 @@
         "begin": "2018-09-07T08:46:47.000Z",
         "broadcast": "R/2018-09-07T08:46:47.000Z/P7D",
         "comment": "新年特别篇: 132072"
-      },
-      {
-        "site": "anilist",
-        "id": "1756"
-      },
-      {
-        "site": "anilist",
-        "id": "1757"
-      },
-      {
-        "site": "anime-planet",
-        "id": "di-gi-charat"
-      },
-      {
-        "site": "anime-planet",
-        "id": "di-gi-charat-christmas-special"
-      },
-      {
-        "site": "anime-planet",
-        "id": "di-gi-charat-movie-a-trip-to-the-planet"
-      },
-      {
-        "site": "anime-planet",
-        "id": "di-gi-charat-natsuyasumi-special"
-      },
-      {
-        "site": "anime-planet",
-        "id": "di-gi-charat-nyo"
-      },
-      {
-        "site": "anime-planet",
-        "id": "di-gi-charat-rocket-from-a-mouth"
-      },
-      {
-        "site": "anime-planet",
-        "id": "di-gi-charat-summer-special-2000"
-      },
-      {
-        "site": "anime-planet",
-        "id": "di-gi-charat-tsuyu-specials"
-      },
-      {
-        "site": "anime-planet",
-        "id": "di-gi-charat-winter-garden"
-      },
-      {
-        "site": "anime-planet",
-        "id": "leave-it-to-piyoko"
-      },
-      {
-        "site": "anime-planet",
-        "id": "panyo-panyo-di-gi-charat"
-      },
-      {
-        "site": "anisearch",
-        "id": "3272"
-      },
-      {
-        "site": "kitsu",
-        "id": "1577"
-      },
-      {
-        "site": "livechart",
-        "id": "10641"
-      },
-      {
-        "site": "livechart",
-        "id": "6074"
-      },
-      {
-        "site": "livechart",
-        "id": "6920"
-      },
-      {
-        "site": "livechart",
-        "id": "7390"
-      },
-      {
-        "site": "livechart",
-        "id": "7460"
-      },
-      {
-        "site": "livechart",
-        "id": "7523"
-      },
-      {
-        "site": "livechart",
-        "id": "7596"
-      },
-      {
-        "site": "livechart",
-        "id": "7776"
-      },
-      {
-        "site": "livechart",
-        "id": "8162"
-      },
-      {
-        "site": "livechart",
-        "id": "8420"
-      },
-      {
-        "site": "livechart",
-        "id": "8778"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1756"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1757"
-      },
-      {
-        "site": "myanimelist",
-        "id": "293"
-      },
-      {
-        "site": "notify",
-        "id": "ZWtB5Kmmg"
       }
     ],
     "animeSeason": {
@@ -2810,6 +1280,47 @@
       "DiGi Charat Ohanami Special",
       "デ・ジ・キャラット お花見すぺしゃる",
       "デ・ジ・キャラット お花見スペシャル"
+    ]
+  },
+  {
+    "title": "それいけ! アンパンマン 怪傑ナガネギマンとやきそばパンマン",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-04-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-04-16T16:20:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "316891"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018541",
+        "begin": "2015-06-01T06:00:00.000Z",
+        "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2001,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1062/139624.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1062/139624t.jpg",
+    "synonyms": [
+      "Anpanman Movie 13B",
+      "Go! Anpanman: The Amazing Naganegiman and Yakisobapanman",
+      "Let’s Go! Anpanman – The Amazing Naganegiman and Yakisobapanman",
+      "Sore Ike! Anpanman: Kaiketsu Naganegiman to Yakisoba Panman",
+      "それいけ! アンパンマン 怪傑ナガネギマンとやきそばパンマン",
+      "それいけ！アンパンマン 怪傑ナガネギマンとやきそばパンマン",
+      "映画 それいけ! アンパンマン 怪傑ナガネギマンとやきそばパンマン"
     ]
   }
 ]

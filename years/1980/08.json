@@ -21,174 +21,6 @@
         "id": "4019",
         "begin": "2016-05-20T03:02:00.000Z",
         "broadcast": "R/2016-05-20T03:02:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "17141"
-      },
-      {
-        "site": "anidb",
-        "id": "2661"
-      },
-      {
-        "site": "anidb",
-        "id": "2811"
-      },
-      {
-        "site": "anilist",
-        "id": "1652"
-      },
-      {
-        "site": "anilist",
-        "id": "3071"
-      },
-      {
-        "site": "anime-planet",
-        "id": "farewell-to-space-battleship-yamato-in-the-name-of-love"
-      },
-      {
-        "site": "anime-planet",
-        "id": "final-yamato"
-      },
-      {
-        "site": "anime-planet",
-        "id": "space-battleship-yamato-2199-odyssey-of-the-celestial-ark"
-      },
-      {
-        "site": "anime-planet",
-        "id": "space-battleship-yamato-2199-tsuikou-no-koukai"
-      },
-      {
-        "site": "anime-planet",
-        "id": "space-battleship-yamato-movie"
-      },
-      {
-        "site": "anime-planet",
-        "id": "space-battleship-yamato-resurrection"
-      },
-      {
-        "site": "anime-planet",
-        "id": "space-battleship-yamato-the-new-voyage"
-      },
-      {
-        "site": "anime-planet",
-        "id": "star-blazers-space-battleship-yamato-2199"
-      },
-      {
-        "site": "anime-planet",
-        "id": "star-blazers-space-battleship-yamato-2202"
-      },
-      {
-        "site": "anime-planet",
-        "id": "star-blazers-the-bolar-wars"
-      },
-      {
-        "site": "anime-planet",
-        "id": "star-blazers-the-comet-empire"
-      },
-      {
-        "site": "anime-planet",
-        "id": "star-blazers-the-quest-for-iscandar"
-      },
-      {
-        "site": "anime-planet",
-        "id": "yamato-2520"
-      },
-      {
-        "site": "anisearch",
-        "id": "1968"
-      },
-      {
-        "site": "anisearch",
-        "id": "2999"
-      },
-      {
-        "site": "kitsu",
-        "id": "1485"
-      },
-      {
-        "site": "kitsu",
-        "id": "2769"
-      },
-      {
-        "site": "livechart",
-        "id": "10540"
-      },
-      {
-        "site": "livechart",
-        "id": "1775"
-      },
-      {
-        "site": "livechart",
-        "id": "2965"
-      },
-      {
-        "site": "livechart",
-        "id": "431"
-      },
-      {
-        "site": "livechart",
-        "id": "4380"
-      },
-      {
-        "site": "livechart",
-        "id": "6082"
-      },
-      {
-        "site": "livechart",
-        "id": "6100"
-      },
-      {
-        "site": "livechart",
-        "id": "6765"
-      },
-      {
-        "site": "livechart",
-        "id": "7010"
-      },
-      {
-        "site": "livechart",
-        "id": "7319"
-      },
-      {
-        "site": "livechart",
-        "id": "7604"
-      },
-      {
-        "site": "livechart",
-        "id": "7752"
-      },
-      {
-        "site": "livechart",
-        "id": "7789"
-      },
-      {
-        "site": "livechart",
-        "id": "8016"
-      },
-      {
-        "site": "livechart",
-        "id": "8022"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1652"
-      },
-      {
-        "site": "myanimelist",
-        "id": "3071"
-      },
-      {
-        "site": "myanimelist",
-        "id": "50855"
-      },
-      {
-        "site": "notify",
-        "id": "8w6acKiiR"
-      },
-      {
-        "site": "notify",
-        "id": "i2u8cFimR"
       }
     ],
     "animeSeason": {
@@ -207,6 +39,50 @@
       "Yamato yo Eien ni",
       "ヤマトよ永遠[とわ]に",
       "ヤマトよ永遠に"
+    ]
+  },
+  {
+    "title": "フウムーン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "月圆之夜"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.cartoon.co.jp/cn_programs/view/00385",
+    "begin": "1980-08-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1980-08-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "112656"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003097",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1980,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/63339.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/63339t.jpg",
+    "synonyms": [
+      "24 Hour TV Specials",
+      "FUMOON",
+      "Fumōn",
+      "Nuclea 3000",
+      "Nucléa 3000",
+      "フウムーン"
     ]
   }
 ]

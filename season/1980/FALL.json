@@ -15,66 +15,6 @@
       {
         "site": "bangumi",
         "id": "67755"
-      },
-      {
-        "site": "anidb",
-        "id": "1457"
-      },
-      {
-        "site": "anidb",
-        "id": "4862"
-      },
-      {
-        "site": "anilist",
-        "id": "151627"
-      },
-      {
-        "site": "anilist",
-        "id": "2402"
-      },
-      {
-        "site": "anilist",
-        "id": "2922"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ashita-no-joe"
-      },
-      {
-        "site": "anime-planet",
-        "id": "tomorrows-joe-2-the-movie"
-      },
-      {
-        "site": "anisearch",
-        "id": "2580"
-      },
-      {
-        "site": "anisearch",
-        "id": "3990"
-      },
-      {
-        "site": "kitsu",
-        "id": "2178"
-      },
-      {
-        "site": "kitsu",
-        "id": "2647"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2402"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2922"
-      },
-      {
-        "site": "notify",
-        "id": "K3YEcKmiR"
-      },
-      {
-        "site": "notify",
-        "id": "fqpUcKmmR"
       }
     ],
     "animeSeason": {
@@ -101,6 +41,60 @@
       "あしたのジョー2",
       "あしたのジョー２",
       "明日之丈2"
+    ]
+  },
+  {
+    "title": "サイボーグ009 超銀河伝説",
+    "titleTranslate": {
+      "zh-Hans": [
+        "人造人009 超银河传说"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1980-12-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1980-12-19T18:10:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "143040"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002606",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1980,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/17466.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/17466t.jpg",
+    "synonyms": [
+      "Cyborg",
+      "Cyborg 009",
+      "Cyborg 009 La leggenda della supergalassia",
+      "Cyborg 009: A Lenda da Super-Galáxia",
+      "Cyborg 009: Chō Ginga Densetsu",
+      "Cyborg 009: La Leyenda de la Supergalaxia",
+      "Cyborg 009: La leggenda della Super Galassia",
+      "Cyborg 009: La leyenda de la Supergalaxia",
+      "Cyborg 009: Legend of the Super Galaxy",
+      "Defenders of The Vortex",
+      "Defenders of the Vortex",
+      "Gefährlicher Countdown für Cyborg 009",
+      "Raumstation Cyborg 009",
+      "Raumstation Cyborg 009 & Gefährlicher Countdown für Cyborg 009",
+      "サイボーグ009 超銀河伝説",
+      "サイボーグ００９・超銀河伝説"
     ]
   },
   {
@@ -167,200 +161,10 @@
         "broadcast": ""
       },
       {
-        "site": "anidb",
-        "id": "11156"
-      },
-      {
-        "site": "anidb",
-        "id": "12082"
-      },
-      {
-        "site": "anidb",
-        "id": "1440"
-      },
-      {
-        "site": "anidb",
-        "id": "1490"
-      },
-      {
-        "site": "anidb",
-        "id": "1513"
-      },
-      {
-        "site": "anidb",
-        "id": "6396"
-      },
-      {
-        "site": "anidb",
-        "id": "756"
-      },
-      {
-        "site": "anidb",
-        "id": "9449"
-      },
-      {
-        "site": "anilist",
-        "id": "17959"
-      },
-      {
-        "site": "anilist",
-        "id": "17965"
-      },
-      {
-        "site": "anilist",
-        "id": "21830"
-      },
-      {
-        "site": "anilist",
-        "id": "2747"
-      },
-      {
-        "site": "anilist",
-        "id": "971"
-      },
-      {
-        "site": "anime-planet",
-        "id": "astro-boy-1963"
-      },
-      {
-        "site": "anime-planet",
-        "id": "astro-boy-2003"
-      },
-      {
-        "site": "anime-planet",
-        "id": "astro-boy-chikyuu-saigo-no-nichi"
-      },
-      {
-        "site": "anime-planet",
-        "id": "astro-boy-shinsengumi"
-      },
-      {
-        "site": "anime-planet",
-        "id": "astro-boy-the-brave-in-space"
-      },
-      {
-        "site": "anime-planet",
-        "id": "astro-boy-volume-of-the-blue-knight"
-      },
-      {
-        "site": "anime-planet",
-        "id": "atom-the-beginning"
-      },
-      {
-        "site": "anime-planet",
-        "id": "kyuutai-panic-adventure"
-      },
-      {
-        "site": "anisearch",
-        "id": "11518"
-      },
-      {
-        "site": "anisearch",
-        "id": "1624"
-      },
-      {
-        "site": "anisearch",
-        "id": "171"
-      },
-      {
-        "site": "kitsu",
-        "id": "12235"
-      },
-      {
-        "site": "kitsu",
-        "id": "2507"
-      },
-      {
-        "site": "kitsu",
-        "id": "861"
-      },
-      {
-        "site": "kitsu",
-        "id": "8938"
-      },
-      {
-        "site": "kitsu",
-        "id": "8939"
-      },
-      {
-        "site": "livechart",
-        "id": "11652"
-      },
-      {
-        "site": "livechart",
-        "id": "2892"
-      },
-      {
-        "site": "livechart",
-        "id": "6420"
-      },
-      {
-        "site": "livechart",
-        "id": "6574"
-      },
-      {
-        "site": "livechart",
-        "id": "8655"
-      },
-      {
-        "site": "livechart",
-        "id": "9588"
-      },
-      {
-        "site": "myanimelist",
-        "id": "17959"
-      },
-      {
-        "site": "myanimelist",
-        "id": "17965"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2747"
-      },
-      {
-        "site": "myanimelist",
-        "id": "33371"
-      },
-      {
-        "site": "myanimelist",
-        "id": "35737"
-      },
-      {
-        "site": "myanimelist",
-        "id": "40367"
-      },
-      {
-        "site": "myanimelist",
-        "id": "40377"
-      },
-      {
-        "site": "myanimelist",
-        "id": "54081"
-      },
-      {
-        "site": "myanimelist",
-        "id": "971"
-      },
-      {
-        "site": "notify",
-        "id": "FH-xpKmig"
-      },
-      {
-        "site": "notify",
-        "id": "TMaxtKmmg"
-      },
-      {
-        "site": "notify",
-        "id": "ahOJ5KiiR"
-      },
-      {
-        "site": "notify",
-        "id": "mjjy5FmmR"
-      },
-      {
-        "site": "notify",
-        "id": "qobR2Fiig"
+        "site": "unext",
+        "id": "SID0002251",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -411,76 +215,10 @@
         "broadcast": "R/2014-04-26T14:19:00.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "1670"
-      },
-      {
-        "site": "anidb",
-        "id": "1673"
-      },
-      {
-        "site": "anilist",
-        "id": "145563"
-      },
-      {
-        "site": "anime-planet",
-        "id": "tetsujin-28-gou"
-      },
-      {
-        "site": "anime-planet",
-        "id": "tetsujin-28-gou-2004"
-      },
-      {
-        "site": "anime-planet",
-        "id": "tetsujin-28-gou-fx"
-      },
-      {
-        "site": "anime-planet",
-        "id": "tetsujin-28-gou-gao"
-      },
-      {
-        "site": "anime-planet",
-        "id": "tetsujin-28-morning-moon-of-midday"
-      },
-      {
-        "site": "anisearch",
-        "id": "2799"
-      },
-      {
-        "site": "anisearch",
-        "id": "3397"
-      },
-      {
-        "site": "kitsu",
-        "id": "2448"
-      },
-      {
-        "site": "livechart",
-        "id": "11071"
-      },
-      {
-        "site": "livechart",
-        "id": "11073"
-      },
-      {
-        "site": "livechart",
-        "id": "7054"
-      },
-      {
-        "site": "livechart",
-        "id": "7272"
-      },
-      {
-        "site": "livechart",
-        "id": "7297"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2686"
-      },
-      {
-        "site": "notify",
-        "id": "LMPy5FmiR"
+        "site": "unext",
+        "id": "SID0039467",
+        "begin": "2019-03-21T03:00:00.000Z",
+        "broadcast": "R/2019-03-21T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -551,64 +289,10 @@
         "broadcast": "R/2021-03-24T06:43:04.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "1457"
-      },
-      {
-        "site": "anidb",
-        "id": "4862"
-      },
-      {
-        "site": "anilist",
-        "id": "151627"
-      },
-      {
-        "site": "anilist",
-        "id": "2402"
-      },
-      {
-        "site": "anilist",
-        "id": "2922"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ashita-no-joe"
-      },
-      {
-        "site": "anime-planet",
-        "id": "tomorrows-joe-2-the-movie"
-      },
-      {
-        "site": "anisearch",
-        "id": "2580"
-      },
-      {
-        "site": "anisearch",
-        "id": "3990"
-      },
-      {
-        "site": "kitsu",
-        "id": "2178"
-      },
-      {
-        "site": "kitsu",
-        "id": "2647"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2402"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2922"
-      },
-      {
-        "site": "notify",
-        "id": "K3YEcKmiR"
-      },
-      {
-        "site": "notify",
-        "id": "fqpUcKmmR"
+        "site": "unext",
+        "id": "SID0013722",
+        "begin": "2018-02-08T03:00:00.000Z",
+        "broadcast": "R/2018-02-08T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -638,6 +322,55 @@
     ]
   },
   {
+    "title": "銀河鉄道999 君は母のように愛せるか!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河铁道999：你能像母亲一样爱着吗"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1980-10-01T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1980-10-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "416986"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011076",
+        "begin": "2019-12-07T03:00:00.000Z",
+        "broadcast": "R/2019-12-07T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1980,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1529/133416.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1529/133416t.jpg",
+    "synonyms": [
+      "Galaxy Express 999: Can You Love Like a Mother?",
+      "Galaxy Express 999: Can You Love Like a Mother?!!",
+      "Galaxy Express: Can You Love Like a Mother?",
+      "Galaxy Railway 999: Can You Love Like a Mother!!",
+      "Galaxy Railway 999: Can You Love Like a Mother?!!",
+      "Ginga Tetsudo 999: Kimi wa Haha no You ni Aiseru ka!!",
+      "Ginga Tetsudou 999: Kimi wa Haha no You ni Aiseruka!!",
+      "Ginga Tetsudō 999: Kimi wa Haha no Yō ni Aiseru ka!!",
+      "銀河鉄道999 君は母のように愛せるか!!",
+      "銀河鉄道999 君は母のように愛せるか！！",
+      "銀河鉄道９９９　君は母のように愛せるか！！"
+    ]
+  },
+  {
     "title": "怪物くん",
     "titleTranslate": {
       "zh-Hans": [
@@ -661,104 +394,10 @@
         "broadcast": ""
       },
       {
-        "site": "anidb",
-        "id": "5164"
-      },
-      {
-        "site": "anidb",
-        "id": "7539"
-      },
-      {
-        "site": "anidb",
-        "id": "7540"
-      },
-      {
-        "site": "anilist",
-        "id": "132655"
-      },
-      {
-        "site": "anilist",
-        "id": "3129"
-      },
-      {
-        "site": "anime-planet",
-        "id": "kaibutsu-kun"
-      },
-      {
-        "site": "anime-planet",
-        "id": "kaibutsu-kun-1980-specials"
-      },
-      {
-        "site": "anime-planet",
-        "id": "kaibutsu-kun-demon-no-ken"
-      },
-      {
-        "site": "anime-planet",
-        "id": "kaibutsu-kun-kaibutsu-land-e-no-shoutai"
-      },
-      {
-        "site": "anisearch",
-        "id": "4094"
-      },
-      {
-        "site": "anisearch",
-        "id": "6250"
-      },
-      {
-        "site": "anisearch",
-        "id": "6251"
-      },
-      {
-        "site": "kitsu",
-        "id": "2813"
-      },
-      {
-        "site": "kitsu",
-        "id": "9116"
-      },
-      {
-        "site": "kitsu",
-        "id": "9117"
-      },
-      {
-        "site": "livechart",
-        "id": "12164"
-      },
-      {
-        "site": "livechart",
-        "id": "12165"
-      },
-      {
-        "site": "livechart",
-        "id": "12166"
-      },
-      {
-        "site": "myanimelist",
-        "id": "22975"
-      },
-      {
-        "site": "myanimelist",
-        "id": "22977"
-      },
-      {
-        "site": "myanimelist",
-        "id": "3129"
-      },
-      {
-        "site": "myanimelist",
-        "id": "41504"
-      },
-      {
-        "site": "notify",
-        "id": "Z3IatKmiR"
-      },
-      {
-        "site": "notify",
-        "id": "dlSapFmiR"
-      },
-      {
-        "site": "notify",
-        "id": "rWRQ5KmmR"
+        "site": "unext",
+        "id": "SID0002514",
+        "begin": "2016-02-18T15:00:00.000Z",
+        "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -777,6 +416,106 @@
       "怪物くん",
       "怪物くん (1980)",
       "怪物太郎（1980）"
+    ]
+  },
+  {
+    "title": "とんでも戦士ムテキング",
+    "titleTranslate": {
+      "zh-Hans": [
+        "万能战士无比敌"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1980-09-06T16:00:00.000Z",
+    "broadcast": "R/1980-09-06T16:00:00.000Z/P7D",
+    "end": "1981-09-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "283633"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017877",
+        "begin": "2022-04-14T03:00:00.000Z",
+        "broadcast": "R/2022-04-14T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1980,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 56,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/88117.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/88117t.jpg",
+    "synonyms": [
+      "Dashing Warrior Muteking",
+      "Muteking",
+      "Rolling Star",
+      "Rolling Star le Justicier",
+      "muteking",
+      "المقاتل المضحك",
+      "とんでも戦士ムテキング"
+    ]
+  },
+  {
+    "title": "鉄腕アトム",
+    "titleTranslate": {
+      "zh-Hans": [
+        "铁臂阿童木",
+        "原子小金刚",
+        "小飛俠阿童木",
+        "无敌小飞侠",
+        "小飞侠",
+        "小战士"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1962-12-31T16:00:00.000Z",
+    "broadcast": "R/1962-12-31T16:00:00.000Z/P7D",
+    "end": "1966-12-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "806"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002413",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1980,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 52,
+    "picture": "https://cdn.myanimelist.net/images/anime/1967/129099.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1967/129099t.jpg",
+    "synonyms": [
+      "Astro Boy",
+      "Astro Boy (1980)",
+      "Astro Le Petit Robot",
+      "Astro le Petit Robot",
+      "Astro le petit robot",
+      "Astroboy",
+      "Atom (1980)",
+      "Robotukas Marsas",
+      "Tetsuwan Atom",
+      "鉄腕アトム",
+      "鉄腕アトム (1980)",
+      "鉄腕アトム （1980）"
     ]
   }
 ]

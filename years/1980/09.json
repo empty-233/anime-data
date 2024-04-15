@@ -23,104 +23,10 @@
         "broadcast": ""
       },
       {
-        "site": "anidb",
-        "id": "5164"
-      },
-      {
-        "site": "anidb",
-        "id": "7539"
-      },
-      {
-        "site": "anidb",
-        "id": "7540"
-      },
-      {
-        "site": "anilist",
-        "id": "132655"
-      },
-      {
-        "site": "anilist",
-        "id": "3129"
-      },
-      {
-        "site": "anime-planet",
-        "id": "kaibutsu-kun"
-      },
-      {
-        "site": "anime-planet",
-        "id": "kaibutsu-kun-1980-specials"
-      },
-      {
-        "site": "anime-planet",
-        "id": "kaibutsu-kun-demon-no-ken"
-      },
-      {
-        "site": "anime-planet",
-        "id": "kaibutsu-kun-kaibutsu-land-e-no-shoutai"
-      },
-      {
-        "site": "anisearch",
-        "id": "4094"
-      },
-      {
-        "site": "anisearch",
-        "id": "6250"
-      },
-      {
-        "site": "anisearch",
-        "id": "6251"
-      },
-      {
-        "site": "kitsu",
-        "id": "2813"
-      },
-      {
-        "site": "kitsu",
-        "id": "9116"
-      },
-      {
-        "site": "kitsu",
-        "id": "9117"
-      },
-      {
-        "site": "livechart",
-        "id": "12164"
-      },
-      {
-        "site": "livechart",
-        "id": "12165"
-      },
-      {
-        "site": "livechart",
-        "id": "12166"
-      },
-      {
-        "site": "myanimelist",
-        "id": "22975"
-      },
-      {
-        "site": "myanimelist",
-        "id": "22977"
-      },
-      {
-        "site": "myanimelist",
-        "id": "3129"
-      },
-      {
-        "site": "myanimelist",
-        "id": "41504"
-      },
-      {
-        "site": "notify",
-        "id": "Z3IatKmiR"
-      },
-      {
-        "site": "notify",
-        "id": "dlSapFmiR"
-      },
-      {
-        "site": "notify",
-        "id": "rWRQ5KmmR"
+        "site": "unext",
+        "id": "SID0002514",
+        "begin": "2016-02-18T15:00:00.000Z",
+        "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -139,6 +45,51 @@
       "怪物くん",
       "怪物くん (1980)",
       "怪物太郎（1980）"
+    ]
+  },
+  {
+    "title": "とんでも戦士ムテキング",
+    "titleTranslate": {
+      "zh-Hans": [
+        "万能战士无比敌"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1980-09-06T16:00:00.000Z",
+    "broadcast": "R/1980-09-06T16:00:00.000Z/P7D",
+    "end": "1981-09-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "283633"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017877",
+        "begin": "2022-04-14T03:00:00.000Z",
+        "broadcast": "R/2022-04-14T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1980,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 56,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/88117.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/88117t.jpg",
+    "synonyms": [
+      "Dashing Warrior Muteking",
+      "Muteking",
+      "Rolling Star",
+      "Rolling Star le Justicier",
+      "muteking",
+      "المقاتل المضحك",
+      "とんでも戦士ムテキング"
     ]
   }
 ]

@@ -33,146 +33,6 @@
         "id": "55058",
         "begin": "2021-08-06T07:00:00.000Z",
         "broadcast": "R/2021-08-06T07:00:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "239"
-      },
-      {
-        "site": "anilist",
-        "id": "20"
-      },
-      {
-        "site": "anilist",
-        "id": "2248"
-      },
-      {
-        "site": "anime-planet",
-        "id": "naruto"
-      },
-      {
-        "site": "anime-planet",
-        "id": "naruto-hidden-leaf-village-grand-sports-festival"
-      },
-      {
-        "site": "anime-planet",
-        "id": "naruto-movie-2-legend-of-the-stone-of-gelel"
-      },
-      {
-        "site": "anime-planet",
-        "id": "naruto-movie-3-guardians-of-the-crescent-moon-kingdom"
-      },
-      {
-        "site": "anime-planet",
-        "id": "naruto-narutimate-hero-3-ova"
-      },
-      {
-        "site": "anime-planet",
-        "id": "naruto-naruto-to-mashin-to-mitsu-no-onegai-dattebayo"
-      },
-      {
-        "site": "anime-planet",
-        "id": "naruto-special-1-find-the-crimson-four-leaf-clover"
-      },
-      {
-        "site": "anime-planet",
-        "id": "naruto-special-2-battle-at-hidden-falls-i-am-the-hero"
-      },
-      {
-        "site": "anime-planet",
-        "id": "naruto-the-cross-roads"
-      },
-      {
-        "site": "anisearch",
-        "id": "2788"
-      },
-      {
-        "site": "anisearch",
-        "id": "4096"
-      },
-      {
-        "site": "kitsu",
-        "id": "11"
-      },
-      {
-        "site": "kitsu",
-        "id": "2036"
-      },
-      {
-        "site": "livechart",
-        "id": "316"
-      },
-      {
-        "site": "livechart",
-        "id": "3585"
-      },
-      {
-        "site": "livechart",
-        "id": "3790"
-      },
-      {
-        "site": "livechart",
-        "id": "3791"
-      },
-      {
-        "site": "livechart",
-        "id": "3854"
-      },
-      {
-        "site": "livechart",
-        "id": "3859"
-      },
-      {
-        "site": "livechart",
-        "id": "3881"
-      },
-      {
-        "site": "livechart",
-        "id": "3883"
-      },
-      {
-        "site": "livechart",
-        "id": "4063"
-      },
-      {
-        "site": "livechart",
-        "id": "4126"
-      },
-      {
-        "site": "livechart",
-        "id": "4182"
-      },
-      {
-        "site": "livechart",
-        "id": "4253"
-      },
-      {
-        "site": "livechart",
-        "id": "4370"
-      },
-      {
-        "site": "livechart",
-        "id": "4378"
-      },
-      {
-        "site": "livechart",
-        "id": "4847"
-      },
-      {
-        "site": "myanimelist",
-        "id": "20"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2248"
-      },
-      {
-        "site": "notify",
-        "id": "Pjip5Kmmg"
-      },
-      {
-        "site": "notify",
-        "id": "ySNPcKmiR"
       }
     ],
     "animeSeason": {
@@ -218,6 +78,145 @@
       "劇場版 NARUTO 大活劇! 雪姫忍法帖だってばよ!!",
       "劇場版 Naruto 大活劇！ 雪姫忍法帖だってばよ！！",
       "劇場版　NARUTO　大活劇！雪姫忍法帖だってばよ!!"
+    ]
+  },
+  {
+    "title": "あじさいの唄",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小武士"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2004-08-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2004-10-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "187884"
+      },
+      {
+        "site": "unext",
+        "id": "SID0060666",
+        "begin": "2021-08-23T03:00:00.000Z",
+        "broadcast": "R/2021-08-23T03:00:00.000Z/P7D",
+        "comment": "2: SID0060667, 3:SID0060668, 4: SID0060669"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2004,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/66759.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/66759t.jpg",
+    "synonyms": [
+      "Song of Hydrangea",
+      "あじさいの唄"
+    ]
+  },
+  {
+    "title": "マインド・ゲーム",
+    "titleTranslate": {
+      "zh-Hans": [
+        "心灵游戏",
+        "心理游戏"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://mindgame.studio4c.co.jp/index.html",
+    "begin": "2004-08-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2004-08-06T17:43:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3324"
+      },
+      {
+        "site": "unext",
+        "id": "SID0063862",
+        "begin": "2021-12-24T03:00:00.000Z",
+        "broadcast": "R/2021-12-24T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2004,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1861/112656.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1861/112656t.jpg",
+    "synonyms": [
+      "Akıl Oyunu",
+      "Mindgame",
+      "Proto žaidimas",
+      "Игры разума",
+      "Розумова гра",
+      "מיינד גיים",
+      "لعبة العقل",
+      "まいんどげーむ",
+      "マインドゲーム",
+      "マインド・ゲーム",
+      "心理游戏"
+    ]
+  },
+  {
+    "title": "小さい潜水艦に恋をしたでかすぎるクジラの話",
+    "titleTranslate": {
+      "zh-Hans": [
+        "战争童话集 小潜水艇和大鲸鱼的恋爱物语"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2004-08-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2004-08-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "304047"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004909",
+        "begin": "2016-02-18T15:00:00.000Z",
+        "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2004,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/64753.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/64753t.jpg",
+    "synonyms": [
+      "Chiisai Sensuikan ni Koi o Shita Dekasugiru Kujira no Hanashi",
+      "Nosaka Akiyuki Sensou Douwa-shuu (野坂昭如 戦争童話集)",
+      "Sensou Douwa 3",
+      "Sensou Douwa-shuu 3 (戦争童話集)",
+      "Sensou Douwa: Chiisai Sensuikan ni Koi wo Shita Dekasugiru Kujira no Hanashi",
+      "The Story of a Whale That is Too Big to Fall in Love With a Small Submarine",
+      "The Tale of the Ginormous Whale That Fell in Love with a Little Submarine",
+      "小さい潜水艦に恋したでかすぎるクジラの話",
+      "小さい潜水艦に恋をしたでかすぎるクジラの話",
+      "战争童话集 小潜水艇和大鲸鱼的恋爱物语"
     ]
   }
 ]

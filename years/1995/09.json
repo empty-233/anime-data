@@ -30,60 +30,10 @@
         "begin": "1995-09-09T16:00:00.000Z"
       },
       {
-        "site": "anidb",
-        "id": "1790"
-      },
-      {
-        "site": "anidb",
-        "id": "3145"
-      },
-      {
-        "site": "anilist",
-        "id": "322"
-      },
-      {
-        "site": "anilist",
-        "id": "7578"
-      },
-      {
-        "site": "anime-planet",
-        "id": "gokinjo-monogatari-movie"
-      },
-      {
-        "site": "anime-planet",
-        "id": "paradise-kiss"
-      },
-      {
-        "site": "anisearch",
-        "id": "1416"
-      },
-      {
-        "site": "anisearch",
-        "id": "909"
-      },
-      {
-        "site": "kitsu",
-        "id": "289"
-      },
-      {
-        "site": "kitsu",
-        "id": "5035"
-      },
-      {
-        "site": "myanimelist",
-        "id": "322"
-      },
-      {
-        "site": "myanimelist",
-        "id": "7578"
-      },
-      {
-        "site": "notify",
-        "id": "W-J25Fmig"
-      },
-      {
-        "site": "notify",
-        "id": "XTGkpFmig"
+        "site": "unext",
+        "id": "SID0014812",
+        "begin": "2022-10-11T03:00:00.000Z",
+        "broadcast": "R/2022-10-11T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -105,6 +55,57 @@
       "Повесть о соседях",
       "ごきんじょものがたり",
       "ご近所物語"
+    ]
+  },
+  {
+    "title": "ママはぽよぽよザウルスがお好き",
+    "titleTranslate": {
+      "zh-Hans": [
+        "BB保你大",
+        "酷妈宝贝蛋"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-09-01T16:00:00.000Z",
+    "broadcast": "R/1995-09-01T16:00:00.000Z/P7D",
+    "end": "1996-08-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "147058"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028280",
+        "begin": "2017-03-02T03:00:00.000Z",
+        "broadcast": "R/2017-03-02T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1995,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 52,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/29958.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/29958t.jpg",
+    "synonyms": [
+      "BB保你大",
+      "Mama Loves the Poyopoyo-Saurus",
+      "Mama Loves the Poyopoyo-saurus",
+      "Mama ha Poyopoyosaurus ga Osuki",
+      "Mama wa Poyopoyo-saurus ga Osuki",
+      "Mama wa Poyopoyosaurus ga Osuki",
+      "Mama wa Poyopoyosaurus ga o Suki",
+      "Mama wa Poyopoyosaurus ga wo Suki",
+      "MamaPoyo",
+      "Mom Loves Poyopoyosaurs",
+      "ママはぽよぽよザウルスがお好き",
+      "ママぽよ"
     ]
   }
 ]

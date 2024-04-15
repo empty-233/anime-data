@@ -84,38 +84,6 @@
         "id": "5471",
         "begin": "2016-08-24T03:45:00.000Z",
         "broadcast": "R/2016-08-24T03:45:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "285"
-      },
-      {
-        "site": "anilist",
-        "id": "1486"
-      },
-      {
-        "site": "anime-planet",
-        "id": "kodocha"
-      },
-      {
-        "site": "anisearch",
-        "id": "888"
-      },
-      {
-        "site": "kitsu",
-        "id": "1332"
-      },
-      {
-        "site": "livechart",
-        "id": "5653"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1486"
-      },
-      {
-        "site": "notify",
-        "id": "53OacFmmR"
       }
     ],
     "animeSeason": {
@@ -137,6 +105,49 @@
       "こどものおもちゃ",
       "こどものおもちゃ (OVA)",
       "こどものおもちゃ OVA"
+    ]
+  },
+  {
+    "title": "沈黙の艦隊",
+    "titleTranslate": {
+      "zh-Hans": [
+        "沉默的舰队"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-12-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-01-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "48679"
+      },
+      {
+        "site": "unext",
+        "id": "SID0020056",
+        "begin": "2019-04-04T03:00:00.000Z",
+        "broadcast": "R/2019-04-04T03:00:00.000Z/P7D",
+        "comment": "VOYAGE２: SID0020057, VOYAGE３: SID0020058"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1995,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/1624/101493.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1624/101493t.jpg",
+    "synonyms": [
+      "Silent Service",
+      "The Silent Service",
+      "沈黙の艦隊",
+      "沉默的舰队"
     ]
   },
   {
@@ -186,224 +197,10 @@
         "broadcast": ""
       },
       {
-        "site": "anidb",
-        "id": "11023"
-      },
-      {
-        "site": "anidb",
-        "id": "247"
-      },
-      {
-        "site": "anidb",
-        "id": "6122"
-      },
-      {
-        "site": "anidb",
-        "id": "890"
-      },
-      {
-        "site": "anilist",
-        "id": "17187"
-      },
-      {
-        "site": "anilist",
-        "id": "467"
-      },
-      {
-        "site": "anilist",
-        "id": "4672"
-      },
-      {
-        "site": "anilist",
-        "id": "468"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ghost-in-the-shell-2-0"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ghost-in-the-shell-2-innocence"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ghost-in-the-shell-arise"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ghost-in-the-shell-arise-alternate-architecture"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ghost-in-the-shell-arise-border-less-project-working-high"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ghost-in-the-shell-ghost-chaser"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ghost-in-the-shell-individual-eleven"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ghost-in-the-shell-nyuumon-arise"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ghost-in-the-shell-sac-2045"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ghost-in-the-shell-sac-2045-season-2"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ghost-in-the-shell-stand-alone-complex"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ghost-in-the-shell-stand-alone-complex-solid-state-society"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ghost-in-the-shell-standalone-complex-the-laughing-man"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ghost-in-the-shell-the-new-movie"
-      },
-      {
-        "site": "anisearch",
-        "id": "1740"
-      },
-      {
-        "site": "anisearch",
-        "id": "2753"
-      },
-      {
-        "site": "anisearch",
-        "id": "4942"
-      },
-      {
-        "site": "anisearch",
-        "id": "8303"
-      },
-      {
-        "site": "anisearch",
-        "id": "9848"
-      },
-      {
-        "site": "kitsu",
-        "id": "3732"
-      },
-      {
-        "site": "kitsu",
-        "id": "429"
-      },
-      {
-        "site": "kitsu",
-        "id": "430"
-      },
-      {
-        "site": "kitsu",
-        "id": "9721"
-      },
-      {
-        "site": "livechart",
-        "id": "3662"
-      },
-      {
-        "site": "livechart",
-        "id": "3767"
-      },
-      {
-        "site": "livechart",
-        "id": "3782"
-      },
-      {
-        "site": "livechart",
-        "id": "3984"
-      },
-      {
-        "site": "livechart",
-        "id": "4054"
-      },
-      {
-        "site": "livechart",
-        "id": "4823"
-      },
-      {
-        "site": "livechart",
-        "id": "5530"
-      },
-      {
-        "site": "livechart",
-        "id": "5793"
-      },
-      {
-        "site": "livechart",
-        "id": "6022"
-      },
-      {
-        "site": "livechart",
-        "id": "6221"
-      },
-      {
-        "site": "livechart",
-        "id": "6604"
-      },
-      {
-        "site": "livechart",
-        "id": "7133"
-      },
-      {
-        "site": "livechart",
-        "id": "7156"
-      },
-      {
-        "site": "livechart",
-        "id": "7289"
-      },
-      {
-        "site": "livechart",
-        "id": "7353"
-      },
-      {
-        "site": "myanimelist",
-        "id": "27411"
-      },
-      {
-        "site": "myanimelist",
-        "id": "38799"
-      },
-      {
-        "site": "myanimelist",
-        "id": "467"
-      },
-      {
-        "site": "myanimelist",
-        "id": "4672"
-      },
-      {
-        "site": "myanimelist",
-        "id": "468"
-      },
-      {
-        "site": "notify",
-        "id": "3zNTcKiiR"
-      },
-      {
-        "site": "notify",
-        "id": "5NNT5KmmR"
-      },
-      {
-        "site": "notify",
-        "id": "dEaYtKmiR"
-      },
-      {
-        "site": "notify",
-        "id": "wVM95KiiR"
+        "site": "unext",
+        "id": "SID0012986",
+        "begin": "2020-05-21T03:00:00.000Z",
+        "broadcast": "R/2020-05-21T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -483,6 +280,12 @@
         "id": "2321",
         "begin": "1995-10-11T16:00:00.000Z",
         "broadcast": "R/2021-03-23T10:56:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011934",
+        "begin": "2016-02-18T03:00:00.000Z",
+        "broadcast": "R/2016-02-18T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -576,328 +379,10 @@
         "broadcast": "R/2019-06-20T16:00:00.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "10279"
-      },
-      {
-        "site": "anidb",
-        "id": "202"
-      },
-      {
-        "site": "anidb",
-        "id": "326"
-      },
-      {
-        "site": "anidb",
-        "id": "4847"
-      },
-      {
-        "site": "anidb",
-        "id": "6184"
-      },
-      {
-        "site": "anilist",
-        "id": "100620"
-      },
-      {
-        "site": "anilist",
-        "id": "102096"
-      },
-      {
-        "site": "anilist",
-        "id": "110131"
-      },
-      {
-        "site": "anilist",
-        "id": "125785"
-      },
-      {
-        "site": "anilist",
-        "id": "125796"
-      },
-      {
-        "site": "anilist",
-        "id": "128737"
-      },
-      {
-        "site": "anilist",
-        "id": "31"
-      },
-      {
-        "site": "anilist",
-        "id": "32"
-      },
-      {
-        "site": "anilist",
-        "id": "4130"
-      },
-      {
-        "site": "anime-planet",
-        "id": "attack-zero-x-evangelion"
-      },
-      {
-        "site": "anime-planet",
-        "id": "evangelion-1-0-you-are-not-alone"
-      },
-      {
-        "site": "anime-planet",
-        "id": "evangelion-2-0-you-can-not-advance"
-      },
-      {
-        "site": "anime-planet",
-        "id": "evangelion-3-0-plus-1-0-thrice-upon-a-time"
-      },
-      {
-        "site": "anime-planet",
-        "id": "evangelion-3-0-you-can-not-redo"
-      },
-      {
-        "site": "anime-planet",
-        "id": "evangelion-another-impact"
-      },
-      {
-        "site": "anime-planet",
-        "id": "evangelion-shito-hakata-shuurai"
-      },
-      {
-        "site": "anime-planet",
-        "id": "evangelion-x-nyanko-daisensou"
-      },
-      {
-        "site": "anime-planet",
-        "id": "hikaru-utada-sakura-nagashi"
-      },
-      {
-        "site": "anime-planet",
-        "id": "kate-ayanami-rei-hajimete-no-kuchibeni"
-      },
-      {
-        "site": "anime-planet",
-        "id": "making-of-evangelion-another-impact"
-      },
-      {
-        "site": "anime-planet",
-        "id": "neon-genesis-evangelion-death-and-rebirth"
-      },
-      {
-        "site": "anime-planet",
-        "id": "neon-genesis-evangelion-the-end-of-evangelion"
-      },
-      {
-        "site": "anime-planet",
-        "id": "neon-genesis-impacts"
-      },
-      {
-        "site": "anime-planet",
-        "id": "oppo-ace2-x-evangelion"
-      },
-      {
-        "site": "anime-planet",
-        "id": "petit-eva-evangelion-at-school"
-      },
-      {
-        "site": "anime-planet",
-        "id": "schick-x-evangelion"
-      },
-      {
-        "site": "anime-planet",
-        "id": "until-you-come-to-me"
-      },
-      {
-        "site": "anime-planet",
-        "id": "youko-takahashi-the-cruel-angels-thesis"
-      },
-      {
-        "site": "anisearch",
-        "id": "1301"
-      },
-      {
-        "site": "anisearch",
-        "id": "13722"
-      },
-      {
-        "site": "anisearch",
-        "id": "18161"
-      },
-      {
-        "site": "anisearch",
-        "id": "2877"
-      },
-      {
-        "site": "anisearch",
-        "id": "3879"
-      },
-      {
-        "site": "anisearch",
-        "id": "4436"
-      },
-      {
-        "site": "anisearch",
-        "id": "9460"
-      },
-      {
-        "site": "kitsu",
-        "id": "22"
-      },
-      {
-        "site": "kitsu",
-        "id": "23"
-      },
-      {
-        "site": "kitsu",
-        "id": "2519"
-      },
-      {
-        "site": "kitsu",
-        "id": "3250"
-      },
-      {
-        "site": "kitsu",
-        "id": "3251"
-      },
-      {
-        "site": "kitsu",
-        "id": "3252"
-      },
-      {
-        "site": "kitsu",
-        "id": "3481"
-      },
-      {
-        "site": "kitsu",
-        "id": "43723"
-      },
-      {
-        "site": "kitsu",
-        "id": "43724"
-      },
-      {
-        "site": "livechart",
-        "id": "115"
-      },
-      {
-        "site": "livechart",
-        "id": "11784"
-      },
-      {
-        "site": "livechart",
-        "id": "3243"
-      },
-      {
-        "site": "livechart",
-        "id": "3244"
-      },
-      {
-        "site": "livechart",
-        "id": "3633"
-      },
-      {
-        "site": "livechart",
-        "id": "4039"
-      },
-      {
-        "site": "livechart",
-        "id": "5032"
-      },
-      {
-        "site": "livechart",
-        "id": "6217"
-      },
-      {
-        "site": "livechart",
-        "id": "968"
-      },
-      {
-        "site": "myanimelist",
-        "id": "23023"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2759"
-      },
-      {
-        "site": "myanimelist",
-        "id": "28149"
-      },
-      {
-        "site": "myanimelist",
-        "id": "31"
-      },
-      {
-        "site": "myanimelist",
-        "id": "31115"
-      },
-      {
-        "site": "myanimelist",
-        "id": "32"
-      },
-      {
-        "site": "myanimelist",
-        "id": "3784"
-      },
-      {
-        "site": "myanimelist",
-        "id": "3785"
-      },
-      {
-        "site": "myanimelist",
-        "id": "3786"
-      },
-      {
-        "site": "myanimelist",
-        "id": "41030"
-      },
-      {
-        "site": "myanimelist",
-        "id": "4130"
-      },
-      {
-        "site": "myanimelist",
-        "id": "43745"
-      },
-      {
-        "site": "myanimelist",
-        "id": "43751"
-      },
-      {
-        "site": "myanimelist",
-        "id": "47307"
-      },
-      {
-        "site": "notify",
-        "id": "6LAl5Kmmg"
-      },
-      {
-        "site": "notify",
-        "id": "Fc0_cKmig"
-      },
-      {
-        "site": "notify",
-        "id": "FnMJpFmmR"
-      },
-      {
-        "site": "notify",
-        "id": "ZC0lcFmig"
-      },
-      {
-        "site": "notify",
-        "id": "fvUPtKiiR"
-      },
-      {
-        "site": "notify",
-        "id": "kU7p5Fmig"
-      },
-      {
-        "site": "notify",
-        "id": "lb7tcKimR"
-      },
-      {
-        "site": "notify",
-        "id": "s5eycFmig"
-      },
-      {
-        "site": "notify",
-        "id": "sdDX5FmiR"
+        "site": "unext",
+        "id": "SID0002228",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -970,66 +455,6 @@
         "id": "2314",
         "begin": "1995-10-02T16:00:00.000Z",
         "broadcast": "R/2013-02-09T13:45:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "213"
-      },
-      {
-        "site": "anidb",
-        "id": "939"
-      },
-      {
-        "site": "anilist",
-        "id": "808"
-      },
-      {
-        "site": "anime-planet",
-        "id": "sorcerer-hunters-ova"
-      },
-      {
-        "site": "anime-planet",
-        "id": "sorcerer-on-the-rocks"
-      },
-      {
-        "site": "anisearch",
-        "id": "10613"
-      },
-      {
-        "site": "anisearch",
-        "id": "1309"
-      },
-      {
-        "site": "anisearch",
-        "id": "152"
-      },
-      {
-        "site": "kitsu",
-        "id": "1105"
-      },
-      {
-        "site": "kitsu",
-        "id": "455"
-      },
-      {
-        "site": "livechart",
-        "id": "9117"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1228"
-      },
-      {
-        "site": "myanimelist",
-        "id": "808"
-      },
-      {
-        "site": "notify",
-        "id": "9H5TcKmmg"
-      },
-      {
-        "site": "notify",
-        "id": "nltxcKimg"
       }
     ],
     "animeSeason": {
@@ -1082,56 +507,10 @@
         "broadcast": "R/2011-07-08T11:23:00.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "208"
-      },
-      {
-        "site": "anidb",
-        "id": "305"
-      },
-      {
-        "site": "anilist",
-        "id": "117"
-      },
-      {
-        "site": "anime-planet",
-        "id": "el-hazard-the-alternative-world"
-      },
-      {
-        "site": "anime-planet",
-        "id": "el-hazard-the-magnificent-world"
-      },
-      {
-        "site": "anime-planet",
-        "id": "el-hazard-the-magnificent-world-2"
-      },
-      {
-        "site": "anisearch",
-        "id": "301"
-      },
-      {
-        "site": "kitsu",
-        "id": "96"
-      },
-      {
-        "site": "livechart",
-        "id": "7549"
-      },
-      {
-        "site": "livechart",
-        "id": "8214"
-      },
-      {
-        "site": "livechart",
-        "id": "8220"
-      },
-      {
-        "site": "myanimelist",
-        "id": "117"
-      },
-      {
-        "site": "notify",
-        "id": "t0xp5FmmR"
+        "site": "unext",
+        "id": "SID0015252",
+        "begin": "2020-05-02T03:00:00.000Z",
+        "broadcast": "R/2020-05-02T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1191,92 +570,10 @@
         "broadcast": "R/2016-04-11T06:33:00.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "67"
-      },
-      {
-        "site": "anilist",
-        "id": "474"
-      },
-      {
-        "site": "anime-planet",
-        "id": "macross-plus"
-      },
-      {
-        "site": "anisearch",
-        "id": "255"
-      },
-      {
-        "site": "kitsu",
-        "id": "436"
-      },
-      {
-        "site": "livechart",
-        "id": "3982"
-      },
-      {
-        "site": "livechart",
-        "id": "4000"
-      },
-      {
-        "site": "livechart",
-        "id": "4354"
-      },
-      {
-        "site": "livechart",
-        "id": "4741"
-      },
-      {
-        "site": "livechart",
-        "id": "4917"
-      },
-      {
-        "site": "livechart",
-        "id": "5073"
-      },
-      {
-        "site": "livechart",
-        "id": "5091"
-      },
-      {
-        "site": "livechart",
-        "id": "5665"
-      },
-      {
-        "site": "livechart",
-        "id": "6046"
-      },
-      {
-        "site": "livechart",
-        "id": "6505"
-      },
-      {
-        "site": "livechart",
-        "id": "6546"
-      },
-      {
-        "site": "livechart",
-        "id": "6555"
-      },
-      {
-        "site": "livechart",
-        "id": "6773"
-      },
-      {
-        "site": "livechart",
-        "id": "7343"
-      },
-      {
-        "site": "livechart",
-        "id": "7445"
-      },
-      {
-        "site": "myanimelist",
-        "id": "474"
-      },
-      {
-        "site": "notify",
-        "id": "kNDocFiig"
+        "site": "unext",
+        "id": "SID0016943",
+        "begin": "2019-12-02T03:00:00.000Z",
+        "broadcast": "R/2019-12-02T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1297,6 +594,108 @@
       "マクロスプラス Movie Edition",
       "マクロスプラス　ＭＯＶＩＥ　ＥＤＩＴＩＯＮ",
       "마크로스 Plus Movie Edition"
+    ]
+  },
+  {
+    "title": "妖精姫レーン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妖精姬莲",
+        "妖精公主莲",
+        "夺宝精灵使"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-10-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-01-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "81374"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010799",
+        "begin": "2022-10-31T03:00:00.000Z",
+        "broadcast": "R/2022-10-31T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1995,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/61775.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/61775t.jpg",
+    "synonyms": [
+      "Elf Princess Rane",
+      "FPRen",
+      "Fairy Princess Ren",
+      "Yosei Hime Ren",
+      "Yousei-hime Ren",
+      "Yōsei-hime Ren",
+      "妖精姫レーン"
+    ]
+  },
+  {
+    "title": "GOLDEN BOY さすらいのお勉強野郎",
+    "titleTranslate": {
+      "zh-Hans": [
+        "黄金宝贝",
+        "黄金男孩",
+        "黄金小子",
+        "黄金流浪汉",
+        "好学流浪汉"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-10-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-06-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "7206"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003209",
+        "begin": "2022-10-27T03:00:00.000Z",
+        "broadcast": "R/2022-10-27T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1995,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/62867.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/62867t.jpg",
+    "synonyms": [
+      "Altın Çocuk",
+      "Auksinis Vaikis",
+      "GOLDEN BOY",
+      "GOLDEN BOY さすらいのお勉強野郎",
+      "GOLDEN BOY: Sasurai no Obenkyou Yarou",
+      "GoBo",
+      "Златното момче",
+      "Золотий жевжик",
+      "Золотой парень",
+      "الفتى الذهبي",
+      "ゴールデンボーイ",
+      "黃金男孩",
+      "골든보이"
     ]
   },
   {
@@ -1330,60 +729,10 @@
         "begin": "1995-09-09T16:00:00.000Z"
       },
       {
-        "site": "anidb",
-        "id": "1790"
-      },
-      {
-        "site": "anidb",
-        "id": "3145"
-      },
-      {
-        "site": "anilist",
-        "id": "322"
-      },
-      {
-        "site": "anilist",
-        "id": "7578"
-      },
-      {
-        "site": "anime-planet",
-        "id": "gokinjo-monogatari-movie"
-      },
-      {
-        "site": "anime-planet",
-        "id": "paradise-kiss"
-      },
-      {
-        "site": "anisearch",
-        "id": "1416"
-      },
-      {
-        "site": "anisearch",
-        "id": "909"
-      },
-      {
-        "site": "kitsu",
-        "id": "289"
-      },
-      {
-        "site": "kitsu",
-        "id": "5035"
-      },
-      {
-        "site": "myanimelist",
-        "id": "322"
-      },
-      {
-        "site": "myanimelist",
-        "id": "7578"
-      },
-      {
-        "site": "notify",
-        "id": "W-J25Fmig"
-      },
-      {
-        "site": "notify",
-        "id": "XTGkpFmig"
+        "site": "unext",
+        "id": "SID0014812",
+        "begin": "2022-10-11T03:00:00.000Z",
+        "broadcast": "R/2022-10-11T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1405,6 +754,57 @@
       "Повесть о соседях",
       "ごきんじょものがたり",
       "ご近所物語"
+    ]
+  },
+  {
+    "title": "ママはぽよぽよザウルスがお好き",
+    "titleTranslate": {
+      "zh-Hans": [
+        "BB保你大",
+        "酷妈宝贝蛋"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-09-01T16:00:00.000Z",
+    "broadcast": "R/1995-09-01T16:00:00.000Z/P7D",
+    "end": "1996-08-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "147058"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028280",
+        "begin": "2017-03-02T03:00:00.000Z",
+        "broadcast": "R/2017-03-02T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1995,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 52,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/29958.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/29958t.jpg",
+    "synonyms": [
+      "BB保你大",
+      "Mama Loves the Poyopoyo-Saurus",
+      "Mama Loves the Poyopoyo-saurus",
+      "Mama ha Poyopoyosaurus ga Osuki",
+      "Mama wa Poyopoyo-saurus ga Osuki",
+      "Mama wa Poyopoyosaurus ga Osuki",
+      "Mama wa Poyopoyosaurus ga o Suki",
+      "Mama wa Poyopoyosaurus ga wo Suki",
+      "MamaPoyo",
+      "Mom Loves Poyopoyosaurs",
+      "ママはぽよぽよザウルスがお好き",
+      "ママぽよ"
     ]
   }
 ]

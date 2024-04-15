@@ -47,156 +47,10 @@
         "broadcast": "R/2019-01-28T10:00:00.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "155"
-      },
-      {
-        "site": "anidb",
-        "id": "350"
-      },
-      {
-        "site": "anilist",
-        "id": "1170"
-      },
-      {
-        "site": "anilist",
-        "id": "534"
-      },
-      {
-        "site": "anilist",
-        "id": "869"
-      },
-      {
-        "site": "anime-planet",
-        "id": "slayers"
-      },
-      {
-        "site": "anime-planet",
-        "id": "slayers-evolution-r"
-      },
-      {
-        "site": "anime-planet",
-        "id": "slayers-excellent"
-      },
-      {
-        "site": "anime-planet",
-        "id": "slayers-gorgeous"
-      },
-      {
-        "site": "anime-planet",
-        "id": "slayers-great"
-      },
-      {
-        "site": "anime-planet",
-        "id": "slayers-next"
-      },
-      {
-        "site": "anime-planet",
-        "id": "slayers-premium"
-      },
-      {
-        "site": "anime-planet",
-        "id": "slayers-return"
-      },
-      {
-        "site": "anime-planet",
-        "id": "slayers-revolution"
-      },
-      {
-        "site": "anime-planet",
-        "id": "slayers-the-book-of-spells"
-      },
-      {
-        "site": "anime-planet",
-        "id": "slayers-try"
-      },
-      {
-        "site": "anisearch",
-        "id": "1236"
-      },
-      {
-        "site": "anisearch",
-        "id": "2089"
-      },
-      {
-        "site": "kitsu",
-        "id": "1051"
-      },
-      {
-        "site": "kitsu",
-        "id": "493"
-      },
-      {
-        "site": "kitsu",
-        "id": "770"
-      },
-      {
-        "site": "livechart",
-        "id": "4050"
-      },
-      {
-        "site": "livechart",
-        "id": "4461"
-      },
-      {
-        "site": "livechart",
-        "id": "4578"
-      },
-      {
-        "site": "livechart",
-        "id": "5007"
-      },
-      {
-        "site": "livechart",
-        "id": "5275"
-      },
-      {
-        "site": "livechart",
-        "id": "5569"
-      },
-      {
-        "site": "livechart",
-        "id": "5582"
-      },
-      {
-        "site": "livechart",
-        "id": "5717"
-      },
-      {
-        "site": "livechart",
-        "id": "5860"
-      },
-      {
-        "site": "livechart",
-        "id": "5991"
-      },
-      {
-        "site": "livechart",
-        "id": "6886"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1170"
-      },
-      {
-        "site": "myanimelist",
-        "id": "534"
-      },
-      {
-        "site": "myanimelist",
-        "id": "869"
-      },
-      {
-        "site": "notify",
-        "id": "6YnbcKiiR"
-      },
-      {
-        "site": "notify",
-        "id": "OtX0cFmig"
-      },
-      {
-        "site": "notify",
-        "id": "pPbo5Fmmg"
+        "site": "unext",
+        "id": "SID0013119",
+        "begin": "2019-10-02T03:00:00.000Z",
+        "broadcast": "R/2019-10-02T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -228,6 +82,58 @@
       "劇場版スレイヤーズ",
       "秀逗魔导士 剧场版1",
       "슬레이어즈 완전무결"
+    ]
+  },
+  {
+    "title": "魔法少女プリティサミー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法少女砂沙美"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.anime-int.com/works/prettysamy/ova/",
+    "begin": "1995-08-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-08-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "96088"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002495",
+        "begin": "2020-05-02T03:00:00.000Z",
+        "broadcast": "R/2020-05-02T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1995,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/58561.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/58561t.jpg",
+    "synonyms": [
+      "Magical Girl Pretty Sammy",
+      "Magical Girl Pretty Samy",
+      "Mahō Shōjo Pretty Sammy",
+      "Pretty Sammy",
+      "Tenchi Muyo! Pretty Sammy",
+      "Tenchi Muyo: Magical Girl Pretty Sammy",
+      "Tenchi Muyo: Magical Girl Pretty Samy",
+      "mgps",
+      "msps",
+      "pretty sammy",
+      "sammy",
+      "tenchi (1995)",
+      "まほうしょうじょぷりてぃさみー",
+      "魔法少女プリティサミー"
     ]
   }
 ]

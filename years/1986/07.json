@@ -26,66 +26,6 @@
         "id": "5569",
         "begin": "1985-12-31T16:00:01.000Z",
         "broadcast": "R/2016-09-26T02:13:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "5551"
-      },
-      {
-        "site": "anilist",
-        "id": "145276"
-      },
-      {
-        "site": "anilist",
-        "id": "4389"
-      },
-      {
-        "site": "anime-planet",
-        "id": "amada-anime-series-super-mario-brothers"
-      },
-      {
-        "site": "anime-planet",
-        "id": "super-mario-world-mario-to-yoshi-no-bouken-land"
-      },
-      {
-        "site": "anisearch",
-        "id": "18401"
-      },
-      {
-        "site": "anisearch",
-        "id": "18670"
-      },
-      {
-        "site": "anisearch",
-        "id": "4628"
-      },
-      {
-        "site": "kitsu",
-        "id": "3585"
-      },
-      {
-        "site": "kitsu",
-        "id": "44112"
-      },
-      {
-        "site": "kitsu",
-        "id": "46634"
-      },
-      {
-        "site": "myanimelist",
-        "id": "28717"
-      },
-      {
-        "site": "myanimelist",
-        "id": "42451"
-      },
-      {
-        "site": "myanimelist",
-        "id": "4389"
-      },
-      {
-        "site": "notify",
-        "id": "fyYucKimR"
       }
     ],
     "animeSeason": {
@@ -127,74 +67,6 @@
       {
         "site": "bangumi",
         "id": "41732"
-      },
-      {
-        "site": "anidb",
-        "id": "1698"
-      },
-      {
-        "site": "anilist",
-        "id": "2582"
-      },
-      {
-        "site": "anime-planet",
-        "id": "armor-hunter-mellowlink"
-      },
-      {
-        "site": "anime-planet",
-        "id": "armored-trooper-votoms"
-      },
-      {
-        "site": "anime-planet",
-        "id": "armored-trooper-votoms-alone-again"
-      },
-      {
-        "site": "anime-planet",
-        "id": "armored-trooper-votoms-case-irvine"
-      },
-      {
-        "site": "anime-planet",
-        "id": "armored-trooper-votoms-finder"
-      },
-      {
-        "site": "anime-planet",
-        "id": "armored-trooper-votoms-pailsen-files"
-      },
-      {
-        "site": "anime-planet",
-        "id": "armored-trooper-votoms-pailsen-files-movie"
-      },
-      {
-        "site": "anime-planet",
-        "id": "armored-trooper-votoms-red-shoulder-document-roots-of-treachery"
-      },
-      {
-        "site": "anime-planet",
-        "id": "armored-trooper-votoms-the-brilliant-heretic"
-      },
-      {
-        "site": "anime-planet",
-        "id": "armored-trooper-votoms-the-last-red-shoulder"
-      },
-      {
-        "site": "anime-planet",
-        "id": "armored-tropper-votoms-phantom-arc"
-      },
-      {
-        "site": "anisearch",
-        "id": "2498"
-      },
-      {
-        "site": "kitsu",
-        "id": "2347"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2582"
-      },
-      {
-        "site": "notify",
-        "id": "V1Ny5KmiR"
       }
     ],
     "animeSeason": {
@@ -214,6 +86,56 @@
       "Zırhlı Piyade Votoms: Büyük Savaş",
       "装甲騎兵ボトムズ ビッグバトル",
       "装甲騎兵ボトムズ　ビッグバトル"
+    ]
+  },
+  {
+    "title": "マシンロボ クロノスの大逆襲",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天威勇士 克罗诺斯的大逆袭",
+        "克罗诺斯的大逆袭",
+        "机器勇士"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-07-02T16:00:00.000Z",
+    "broadcast": "R/1986-07-02T16:00:00.000Z/P7D",
+    "end": "1987-05-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37240"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004940",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D",
+        "comment": "ミュージッククリップ・戦場の記憶: SID0012708"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1986,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 47,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/6399.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/6399t.jpg",
+    "synonyms": [
+      "La Revanche des Gobots",
+      "La revanche des Gobots",
+      "Machine Robo: Chronos no Dai Gyakushuu",
+      "Machine Robo: Chronos no Dai Gyakushū",
+      "Machine Robo: Chronos no Gyakushuu",
+      "Machine Robo: Revenge of Chronos",
+      "Machine Robo: Revenge of Cronos",
+      "mrc",
+      "マシンロボ クロノスの大逆襲"
     ]
   }
 ]

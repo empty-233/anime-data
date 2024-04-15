@@ -17,28 +17,10 @@
         "id": "211287"
       },
       {
-        "site": "anidb",
-        "id": "7149"
-      },
-      {
-        "site": "anime-planet",
-        "id": "sekai-meisaku-gekijou-kanketsu-ban-ai-shoujo-pollyanna-story"
-      },
-      {
-        "site": "anisearch",
-        "id": "6128"
-      },
-      {
-        "site": "kitsu",
-        "id": "8954"
-      },
-      {
-        "site": "myanimelist",
-        "id": "24645"
-      },
-      {
-        "site": "notify",
-        "id": "BVLbtFiiR"
+        "site": "unext",
+        "id": "SID0002134",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -89,20 +71,10 @@
         "id": "142507"
       },
       {
-        "site": "anime-planet",
-        "id": "uchuusen-sagittarius-pilot"
-      },
-      {
-        "site": "kitsu",
-        "id": "9103"
-      },
-      {
-        "site": "myanimelist",
-        "id": "26447"
-      },
-      {
-        "site": "notify",
-        "id": "ROV-tKimR"
+        "site": "unext",
+        "id": "SID0003060",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -153,38 +125,6 @@
         "id": "3982",
         "begin": "2016-05-12T06:25:00.000Z",
         "broadcast": "R/2016-05-12T06:25:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "1459"
-      },
-      {
-        "site": "anilist",
-        "id": "5153"
-      },
-      {
-        "site": "anime-planet",
-        "id": "panzer-world-galient"
-      },
-      {
-        "site": "anisearch",
-        "id": "2946"
-      },
-      {
-        "site": "kitsu",
-        "id": "3952"
-      },
-      {
-        "site": "livechart",
-        "id": "6756"
-      },
-      {
-        "site": "myanimelist",
-        "id": "5153"
-      },
-      {
-        "site": "notify",
-        "id": "4Xj9cFiiR"
       }
     ],
     "animeSeason": {
@@ -208,6 +148,65 @@
       "機甲界ガリアン (1986)",
       "機甲界ガリアン OVA",
       "機甲界ガリアン （1986）"
+    ]
+  },
+  {
+    "title": "メイプルタウン物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "枫城物语",
+        "动物城",
+        "动物村",
+        "枫叶镇物语",
+        "动物小英雄"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-01-18T16:00:00.000Z",
+    "broadcast": "R/1986-01-18T16:00:00.000Z/P7D",
+    "end": "1987-01-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "134960"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091513",
+        "begin": "2023-09-10T03:00:00.000Z",
+        "broadcast": "R/2023-09-10T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1986,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 52,
+    "picture": "https://cdn.myanimelist.net/images/anime/1141/92862.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1141/92862t.jpg",
+    "synonyms": [
+      "Erdei állatok országa",
+      "Gabby et les petits malins - Les aventures de Malinville",
+      "Juharfalva lakói",
+      "La Aldea del Arce",
+      "La aldea del Arce",
+      "Les Petits Malins : Les aventures de Malinville",
+      "Les petits malins",
+      "Les petits malins - Les aventures de Malinville",
+      "Maple Town",
+      "Maple Town Stories",
+      "Maple Town, un nido di simpatia",
+      "Opowieści z Klonowego Miasteczka",
+      "Seikkailumetsä",
+      "Λαγουδένια Πολιτεία",
+      "הדובשונים",
+      "أرنوبة ودبدوب",
+      "メイプルタウン物語"
     ]
   }
 ]

@@ -20,74 +20,6 @@
       {
         "site": "bangumi",
         "id": "37172"
-      },
-      {
-        "site": "anidb",
-        "id": "10001"
-      },
-      {
-        "site": "anidb",
-        "id": "3704"
-      },
-      {
-        "site": "anidb",
-        "id": "8532"
-      },
-      {
-        "site": "anilist",
-        "id": "168580"
-      },
-      {
-        "site": "anilist",
-        "id": "1845"
-      },
-      {
-        "site": "anime-planet",
-        "id": "gaiking-legend-of-daiku-maryu"
-      },
-      {
-        "site": "anisearch",
-        "id": "3411"
-      },
-      {
-        "site": "kitsu",
-        "id": "1662"
-      },
-      {
-        "site": "kitsu",
-        "id": "6425"
-      },
-      {
-        "site": "kitsu",
-        "id": "7875"
-      },
-      {
-        "site": "livechart",
-        "id": "7114"
-      },
-      {
-        "site": "myanimelist",
-        "id": "10954"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1845"
-      },
-      {
-        "site": "myanimelist",
-        "id": "19799"
-      },
-      {
-        "site": "notify",
-        "id": "KTuptKimR"
-      },
-      {
-        "site": "notify",
-        "id": "dzWItKmmg"
-      },
-      {
-        "site": "notify",
-        "id": "tSyf5Kimg"
       }
     ],
     "animeSeason": {
@@ -129,32 +61,10 @@
         "id": "37221"
       },
       {
-        "site": "anidb",
-        "id": "5079"
-      },
-      {
-        "site": "anilist",
-        "id": "10815"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ufo-senshi-dai-apolon-ii"
-      },
-      {
-        "site": "anisearch",
-        "id": "4176"
-      },
-      {
-        "site": "kitsu",
-        "id": "6365"
-      },
-      {
-        "site": "myanimelist",
-        "id": "10815"
-      },
-      {
-        "site": "notify",
-        "id": "nq_4tFmig"
+        "site": "unext",
+        "id": "SID0044949",
+        "begin": "2019-12-08T03:00:00.000Z",
+        "broadcast": "R/2019-12-08T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -238,22 +148,6 @@
       {
         "site": "bangumi",
         "id": "37177"
-      },
-      {
-        "site": "anidb",
-        "id": "1734"
-      },
-      {
-        "site": "anisearch",
-        "id": "2097"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1069"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2816"
       }
     ],
     "animeSeason": {
@@ -280,6 +174,65 @@
       "البطل خماسي",
       "超電磁ロボ コンバトラーＶ",
       "超電磁ロボ コン・バトラーV"
+    ]
+  },
+  {
+    "title": "ピノキオより ピコリーノの冒険",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1976-04-26T15:00:00.000Z",
+    "broadcast": "R/1976-04-26T15:00:00.000Z/P7D",
+    "end": "1977-05-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220525"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002392",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1976,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 52,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/60891.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/60891t.jpg",
+    "synonyms": [
+      "Bambino Pinocchio",
+      "Die Avonture van Pinocchio",
+      "Gosi",
+      "Las Aventuras de Pinocho",
+      "Las aventuras de Pinocho",
+      "Pinnokio",
+      "Pinocchio",
+      "Pinocchio (1976)",
+      "Pinocchio (Nippon Animation)",
+      "Pinocchio yori Piccolino no Bōken",
+      "Pinochio",
+      "Pinokio",
+      "Pinokkio",
+      "Pinokyo`nun Maceraları",
+      "Pinóquio",
+      "Pinóquio (1976)",
+      "The Adventures of Piccolino",
+      "The Adventures of Pinocchio",
+      "Οι Περιπέτειες του Πινόκιο",
+      "Πινόκιο",
+      "פינוקיו",
+      "ماجد لعبة خشبية",
+      "پینوکیو",
+      "ピノキオより ピコリーノの冒険",
+      "피노키오의 모험"
     ]
   }
 ]

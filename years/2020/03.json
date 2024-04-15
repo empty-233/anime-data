@@ -38,40 +38,10 @@
         "broadcast": "R/2020-02-21T09:30:00.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "12136"
-      },
-      {
-        "site": "anilist",
-        "id": "21823"
-      },
-      {
-        "site": "anime-planet",
-        "id": "acca-13-territory-inspection-dept"
-      },
-      {
-        "site": "anisearch",
-        "id": "11482"
-      },
-      {
-        "site": "kitsu",
-        "id": "12202"
-      },
-      {
-        "site": "livechart",
-        "id": "2195"
-      },
-      {
-        "site": "livechart",
-        "id": "5646"
-      },
-      {
-        "site": "myanimelist",
-        "id": "33337"
-      },
-      {
-        "site": "notify",
-        "id": "3Ttg2Kmmg"
+        "site": "unext",
+        "id": "SID0047510",
+        "begin": "2024-02-01T03:00:00.000Z",
+        "broadcast": "R/2024-02-01T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -149,6 +119,105 @@
       "פחמן משודרג: שרוול חדש",
       "オルタード・カーボン: リスリーブド",
       "オルタード・カーボン：リスリーブド"
+    ]
+  },
+  {
+    "title": "PSYCHO-PASS サイコパス 3 FIRST INSPECTOR",
+    "titleTranslate": {
+      "zh-Hans": [
+        "心理测量者3 FIRST INSPECTOR",
+        "心理测量者 第三季 FIRST INSPECTOR",
+        "PSYCHO-PASS 第三季 FIRST INSPECTOR"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://psycho-pass.com/",
+    "begin": "2020-03-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-03-26T18:15:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "296308"
+      },
+      {
+        "site": "unext",
+        "id": "SID0051545",
+        "begin": "2023-10-14T15:00:00.000Z",
+        "broadcast": "R/2023-10-14T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2020,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/1085/110722.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1085/110722t.jpg",
+    "synonyms": [
+      "PSYCHO-PASS 3 FIRST INSPECTOR",
+      "PSYCHO-PASS 3 PREMIER INSPECTEUR",
+      "PSYCHO-PASS 3 PRIMEIRO INSPETOR",
+      "PSYCHO-PASS 3 PRIMO ISPETTORE",
+      "PSYCHO-PASS 3 心靈判官3　FIRST INSPECTOR",
+      "PSYCHO-PASS 3 사이코 패스3　FIRST INSPECTOR",
+      "PSYCHO-PASS 3: FIRST INSPECTOR",
+      "PSYCHO-PASS 3: First Inspector",
+      "PSYCHO-PASS 3: PRIMEIRO INSPETOR",
+      "PSYCHO-PASS サイコパス 3 FIRST INSPECTOR",
+      "PSYCHO-PASS サイコパス ３ FIRST INSPECTOR",
+      "Psycho Pass: First Inspector",
+      "Psycho-Pass 3 : Premier Inspecteur",
+      "Psycho-Pass 3: First Inspector Saison 4",
+      "Psycho-Pass 3: First Inspector Staffel 4",
+      "Psycho-Pass 3: First Inspector Temporada 4",
+      "Psycho-Pass 3: Primo Ispettore",
+      "pp movie 3",
+      "Психо-паспорт 3 (2020)",
+      "ไซโคพาส ถอดรหัสล่า 3 (2020)",
+      "サイコパス 3 FIRST INSPECTOR",
+      "心理测量者3：FIRST INSPECTOR"
+    ]
+  },
+  {
+    "title": "大家さんと僕",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www6.nhk.or.jp/nhkpr/post/original.html?i=22382",
+    "begin": "2020-03-01T16:00:00.000Z",
+    "broadcast": "R/2020-03-01T16:00:00.000Z/P7D",
+    "end": "2021-03-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "303679"
+      },
+      {
+        "site": "unext",
+        "id": "SID0065474",
+        "begin": "2022-02-11T03:00:00.000Z",
+        "broadcast": "R/2022-02-11T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2021,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 5,
+    "picture": "https://cdn.myanimelist.net/images/anime/1356/131374.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1356/131374t.jpg",
+    "synonyms": [
+      "Ooya-san to Boku 3",
+      "大家さんと僕",
+      "大家さんと僕3"
     ]
   }
 ]

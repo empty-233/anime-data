@@ -21,6 +21,12 @@
         "id": "1847",
         "begin": "2005-11-02T16:00:00.000Z",
         "broadcast": "R/2011-04-11T07:21:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012876",
+        "begin": "2019-11-30T03:00:00.000Z",
+        "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -70,54 +76,6 @@
       {
         "site": "bangumi",
         "id": "10145"
-      },
-      {
-        "site": "anidb",
-        "id": "1682"
-      },
-      {
-        "site": "anilist",
-        "id": "168580"
-      },
-      {
-        "site": "anilist",
-        "id": "956"
-      },
-      {
-        "site": "anime-planet",
-        "id": "daikuu-maryuu-gaiking"
-      },
-      {
-        "site": "anisearch",
-        "id": "3127"
-      },
-      {
-        "site": "kitsu",
-        "id": "6425"
-      },
-      {
-        "site": "kitsu",
-        "id": "846"
-      },
-      {
-        "site": "livechart",
-        "id": "6101"
-      },
-      {
-        "site": "myanimelist",
-        "id": "10954"
-      },
-      {
-        "site": "myanimelist",
-        "id": "956"
-      },
-      {
-        "site": "notify",
-        "id": "_WH15Fiig"
-      },
-      {
-        "site": "notify",
-        "id": "dzWItKmmg"
       }
     ],
     "animeSeason": {
@@ -157,32 +115,10 @@
         "id": "53729"
       },
       {
-        "site": "anidb",
-        "id": "1243"
-      },
-      {
-        "site": "anilist",
-        "id": "589"
-      },
-      {
-        "site": "anime-planet",
-        "id": "silver-fang"
-      },
-      {
-        "site": "anisearch",
-        "id": "2633"
-      },
-      {
-        "site": "kitsu",
-        "id": "544"
-      },
-      {
-        "site": "myanimelist",
-        "id": "589"
-      },
-      {
-        "site": "notify",
-        "id": "2Q_ocKmiR"
+        "site": "unext",
+        "id": "SID0003350",
+        "begin": "2015-02-25T06:00:00.000Z",
+        "broadcast": "R/2015-02-25T06:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -236,58 +172,6 @@
       {
         "site": "bangumi",
         "id": "3393"
-      },
-      {
-        "site": "anidb",
-        "id": "404"
-      },
-      {
-        "site": "anilist",
-        "id": "1084"
-      },
-      {
-        "site": "anilist",
-        "id": "1235"
-      },
-      {
-        "site": "anime-planet",
-        "id": "is-ova"
-      },
-      {
-        "site": "anime-planet",
-        "id": "is-pure-bonus"
-      },
-      {
-        "site": "anisearch",
-        "id": "1553"
-      },
-      {
-        "site": "anisearch",
-        "id": "8552"
-      },
-      {
-        "site": "kitsu",
-        "id": "1111"
-      },
-      {
-        "site": "kitsu",
-        "id": "969"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1084"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1235"
-      },
-      {
-        "site": "notify",
-        "id": "3PwJcFimR"
-      },
-      {
-        "site": "notify",
-        "id": "l-hb5Fimg"
       }
     ],
     "animeSeason": {
@@ -311,6 +195,53 @@
       "I``s Pure",
       "I´s Pure",
       "アイズピュア"
+    ]
+  },
+  {
+    "title": "惑星大怪獣ネガドン",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.cwfilms.jp/negadon/",
+    "begin": "2005-11-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2005-11-04T16:25:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "421916"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013628",
+        "begin": "2015-06-04T06:00:00.000Z",
+        "broadcast": "R/2015-06-04T06:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2005,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1581/112986.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1581/112986t.jpg",
+    "synonyms": [
+      "NEGADON - the Monster from Mars",
+      "Negadon",
+      "Negadon - Das Monster vom Mars",
+      "Negadon: Das Monster vom Mars",
+      "Negadon: Il mostro venuto da Marte",
+      "Negadon: Stvůra z Marsu",
+      "Negadon: The Monster from Mars",
+      "Wakusei Dai Kaiju Negadon",
+      "Wakusei Daikaijuu Negadon",
+      "わくせいだいかいじゅうねがどん",
+      "惑星大怪獣 ネガドン",
+      "惑星大怪獣　ネガドン",
+      "惑星大怪獣ネガドン"
     ]
   }
 ]

@@ -29,26 +29,6 @@
         "id": "81153116",
         "begin": "2023-11-01T16:00:00.000Z",
         "broadcast": "R/2023-11-01T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "4748"
-      },
-      {
-        "site": "anime-planet",
-        "id": "onimusha-dawn-of-dreams"
-      },
-      {
-        "site": "anisearch",
-        "id": "3871"
-      },
-      {
-        "site": "myanimelist",
-        "id": "3498"
-      },
-      {
-        "site": "notify",
-        "id": "t9XwcFmiR"
       }
     ],
     "animeSeason": {
@@ -96,54 +76,6 @@
         "id": "81400498",
         "begin": "2023-11-08T16:00:00.000Z",
         "broadcast": "R/2023-11-08T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "1854"
-      },
-      {
-        "site": "anilist",
-        "id": "8194"
-      },
-      {
-        "site": "anime-planet",
-        "id": "akuma-kun"
-      },
-      {
-        "site": "anisearch",
-        "id": "3307"
-      },
-      {
-        "site": "kitsu",
-        "id": "5239"
-      },
-      {
-        "site": "kitsu",
-        "id": "8501"
-      },
-      {
-        "site": "livechart",
-        "id": "10909"
-      },
-      {
-        "site": "livechart",
-        "id": "10910"
-      },
-      {
-        "site": "livechart",
-        "id": "9121"
-      },
-      {
-        "site": "myanimelist",
-        "id": "8194"
-      },
-      {
-        "site": "notify",
-        "id": "fn-0pFiig"
-      },
-      {
-        "site": "notify",
-        "id": "v2gitFmmg"
       }
     ],
     "animeSeason": {
@@ -288,14 +220,6 @@
         "begin": "2023-11-30T11:00:00.000Z",
         "broadcast": "R/2023-11-30T11:00:00.000Z/P7D",
         "comment": "中配: 21128787"
-      },
-      {
-        "site": "kitsu",
-        "id": "48241"
-      },
-      {
-        "site": "myanimelist",
-        "id": "55072"
       }
     ],
     "animeSeason": {
@@ -313,6 +237,53 @@
       "Kay's Daily Doodles: The Metal Crab and the Spiral Conch",
       "Xiaoke de Huatu Xie Hua: Pan Xie Yu Luo",
       "小刻的画图写话"
+    ]
+  },
+  {
+    "title": "銀魂オンシアター2D バラガキ篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银魂ON THEATER 2D 荆棘流氓篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://bn-pictures.co.jp/gintama/on_theater_2d/",
+    "begin": "2023-11-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-11-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "453179"
+      },
+      {
+        "site": "unext",
+        "id": "SID0099821",
+        "begin": "2024-03-26T15:00:00.000Z",
+        "broadcast": "R/2024-03-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gintama-2d",
+        "begin": "",
+        "broadcast": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2023,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1071/138255.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1071/138255t.jpg",
+    "synonyms": [
+      "Gintama on Theater 2D: Baragaki Hen",
+      "Gintama on Theater 2D: Thorny Arc",
+      "銀魂オンシアター2D バラガキ篇"
     ]
   }
 ]

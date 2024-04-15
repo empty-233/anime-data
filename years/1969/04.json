@@ -17,8 +17,10 @@
         "id": "10933"
       },
       {
-        "site": "anisearch",
-        "id": "2567"
+        "site": "unext",
+        "id": "SID0017879",
+        "begin": "2022-04-10T03:00:00.000Z",
+        "broadcast": "R/2022-04-10T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -55,42 +57,6 @@
       {
         "site": "bangumi",
         "id": "103132"
-      },
-      {
-        "site": "anidb",
-        "id": "7111"
-      },
-      {
-        "site": "anilist",
-        "id": "138804"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ninpuu-kamui-gaiden-tsukihigai-no-maki"
-      },
-      {
-        "site": "anisearch",
-        "id": "5827"
-      },
-      {
-        "site": "kitsu",
-        "id": "11057"
-      },
-      {
-        "site": "kitsu",
-        "id": "46322"
-      },
-      {
-        "site": "myanimelist",
-        "id": "30965"
-      },
-      {
-        "site": "myanimelist",
-        "id": "40302"
-      },
-      {
-        "site": "notify",
-        "id": "ZvIutKmiR"
       }
     ],
     "animeSeason": {
@@ -111,6 +77,57 @@
       "Ninpū Kamui Gaiden",
       "にんぷうかむいがいでん",
       "忍風カムイ外伝"
+    ]
+  },
+  {
+    "title": "どろろ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "多罗罗"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1969-04-05T16:00:00.000Z",
+    "broadcast": "R/1969-04-05T16:00:00.000Z/P7D",
+    "end": "1969-09-27T15:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "107454"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002386",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2019,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/1879/100467.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1879/100467t.jpg",
+    "synonyms": [
+      "Dororo (2019)",
+      "Dororo and Hyakkimaru",
+      "Dororo to Hyakkimaru",
+      "Дороро",
+      "דורורו",
+      "دورورو",
+      "ดาบล่าพญามาร โดโรโระ",
+      "どろろ",
+      "どろろ (2019)",
+      "どろろ （2019）",
+      "多罗罗",
+      "多羅羅",
+      "도로로(2019)"
     ]
   }
 ]

@@ -15,42 +15,6 @@
       {
         "site": "bangumi",
         "id": "47673"
-      },
-      {
-        "site": "anidb",
-        "id": "2352"
-      },
-      {
-        "site": "anilist",
-        "id": "2257"
-      },
-      {
-        "site": "anime-planet",
-        "id": "choro-q-dougram"
-      },
-      {
-        "site": "anime-planet",
-        "id": "fang-of-the-sun-dougram"
-      },
-      {
-        "site": "anisearch",
-        "id": "971"
-      },
-      {
-        "site": "kitsu",
-        "id": "2045"
-      },
-      {
-        "site": "livechart",
-        "id": "8465"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2257"
-      },
-      {
-        "site": "notify",
-        "id": "BYvP5Kmmg"
       }
     ],
     "animeSeason": {
@@ -101,16 +65,11 @@
         "begin": "1983-07-10T16:00:00.000Z"
       },
       {
-        "site": "anidb",
-        "id": "14582"
-      },
-      {
-        "site": "anidb",
-        "id": "17634"
-      },
-      {
-        "site": "anidb",
-        "id": "942"
+        "site": "unext",
+        "id": "SID0038637",
+        "begin": "2018-12-29T03:00:00.000Z",
+        "broadcast": "R/2018-12-29T03:00:00.000Z/P7D",
+        "comment": "二期 #37-73: SID0038638"
       }
     ],
     "animeSeason": {
@@ -131,6 +90,111 @@
       "Signé Cat`s Eye",
       "عين القط",
       "キャッツ・アイ"
+    ]
+  },
+  {
+    "title": "パタリロ! スターダスト計画",
+    "titleTranslate": {
+      "zh-Hans": [
+        "巴塔利洛 星尘计划",
+        "帕塔利洛！星尘计划"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1983-07-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1983-07-09T16:48:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "449224"
+      },
+      {
+        "site": "unext",
+        "id": "SID0043693",
+        "begin": "2019-12-05T03:00:00.000Z",
+        "broadcast": "R/2019-12-05T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1983,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/35537.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/35537t.jpg",
+    "synonyms": [
+      "Pataliro! Stardust Keikaku",
+      "Pataliro! Stardust Program",
+      "Pataliro! Stardust Project",
+      "パタリロ! スターダスト計画",
+      "パタリロ！ スターダスト計画",
+      "パタリロ！スターダスト計画"
+    ]
+  },
+  {
+    "title": "はだしのゲン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "赤足小子",
+        "赤脚阿元"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.madhouse.co.jp/works/1986-1983/works_movie_hadashi.html",
+    "begin": "1983-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1983-07-20T17:25:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "54297"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002788",
+        "begin": "2019-08-29T03:00:00.000Z",
+        "broadcast": "R/2019-08-29T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1983,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1873/98756.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1873/98756t.jpg",
+    "synonyms": [
+      "Barefoot Gen",
+      "Barfuss durch Hiroshima",
+      "Barfuss durch Hiroshima (Teil 1)",
+      "Barfuß durch Hiroshima",
+      "Barfuß durch Hiroshima (Teil 1)",
+      "Barfuß durch Hiroshima: Der Film",
+      "Basakojis Genas",
+      "Boso przez Hiroszimę",
+      "Gen Pés Descalços",
+      "Gen d'Hiroshima",
+      "Gen d'Hiroshima: Le Film",
+      "Gen d`Hiroshima",
+      "Gen of Hiroshima",
+      "Hiroshiman poika",
+      "Paljasjalgne Gen",
+      "Yalınayak Gen",
+      "gen",
+      "Босоногий Гэн",
+      "حافي القدمين جن",
+      "はだしのゲン",
+      "맨발의 겐"
     ]
   }
 ]

@@ -17,58 +17,6 @@
       {
         "site": "bangumi",
         "id": "310687"
-      },
-      {
-        "site": "anidb",
-        "id": "15005"
-      },
-      {
-        "site": "anilist",
-        "id": "110287"
-      },
-      {
-        "site": "anilist",
-        "id": "130188"
-      },
-      {
-        "site": "anime-planet",
-        "id": "cooking-with-valkyries"
-      },
-      {
-        "site": "anime-planet",
-        "id": "cooking-with-valkyries-spring-festival-special"
-      },
-      {
-        "site": "anisearch",
-        "id": "14586"
-      },
-      {
-        "site": "anisearch",
-        "id": "16327"
-      },
-      {
-        "site": "kitsu",
-        "id": "42478"
-      },
-      {
-        "site": "kitsu",
-        "id": "44110"
-      },
-      {
-        "site": "livechart",
-        "id": "9556"
-      },
-      {
-        "site": "myanimelist",
-        "id": "40100"
-      },
-      {
-        "site": "myanimelist",
-        "id": "47614"
-      },
-      {
-        "site": "notify",
-        "id": "nfEWUC2ZR"
       }
     ],
     "animeSeason": {
@@ -168,6 +116,12 @@
         "id": "okamisan",
         "begin": "2020-09-06T16:00:00.000Z",
         "broadcast": "R/2020-09-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0051190",
+        "begin": "2020-09-06T16:00:00.000Z",
+        "broadcast": "R/2020-09-06T16:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -180,6 +134,7 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1020/108606.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1020/108606t.jpg",
     "synonyms": [
+      "El señor lobo quiere ser comido",
       "I Want to Be Eaten by a Wolf",
       "I Want to Be His Prey",
       "I Want to be His Prey",
@@ -221,42 +176,6 @@
         "id": "119977",
         "begin": "2021-10-08T07:00:00.000Z",
         "broadcast": "R/2021-10-08T07:00:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "14392"
-      },
-      {
-        "site": "anilist",
-        "id": "104253"
-      },
-      {
-        "site": "anime-planet",
-        "id": "the-magnificent-kotobuki"
-      },
-      {
-        "site": "anisearch",
-        "id": "13883"
-      },
-      {
-        "site": "kitsu",
-        "id": "41959"
-      },
-      {
-        "site": "livechart",
-        "id": "3506"
-      },
-      {
-        "site": "livechart",
-        "id": "9385"
-      },
-      {
-        "site": "myanimelist",
-        "id": "38301"
-      },
-      {
-        "site": "notify",
-        "id": "ohbEmDAiR"
       }
     ],
     "animeSeason": {
@@ -368,58 +287,6 @@
         "id": "28235728",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "anidb",
-        "id": "12138"
-      },
-      {
-        "site": "anilist",
-        "id": "109190"
-      },
-      {
-        "site": "anime-planet",
-        "id": "violet-evergarden"
-      },
-      {
-        "site": "anime-planet",
-        "id": "violet-evergarden-eternity-and-the-auto-memory-doll"
-      },
-      {
-        "site": "anime-planet",
-        "id": "violet-evergarden-special"
-      },
-      {
-        "site": "anisearch",
-        "id": "11480"
-      },
-      {
-        "site": "kitsu",
-        "id": "12230"
-      },
-      {
-        "site": "livechart",
-        "id": "11685"
-      },
-      {
-        "site": "livechart",
-        "id": "2197"
-      },
-      {
-        "site": "livechart",
-        "id": "3199"
-      },
-      {
-        "site": "livechart",
-        "id": "9419"
-      },
-      {
-        "site": "myanimelist",
-        "id": "33352"
-      },
-      {
-        "site": "notify",
-        "id": "yF1RhKiiR"
       }
     ],
     "animeSeason": {
@@ -483,8 +350,10 @@
         "broadcast": "R/2022-04-08T04:00:00.000Z/P7D"
       },
       {
-        "site": "anime-planet",
-        "id": "bump-of-chicken-gravity"
+        "site": "unext",
+        "id": "SID0055890",
+        "begin": "2023-04-07T03:00:00.000Z",
+        "broadcast": "R/2023-04-07T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -539,6 +408,12 @@
         "id": "108353",
         "begin": "2023-10-18T04:00:00.000Z",
         "broadcast": "R/2023-10-18T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0055138",
+        "begin": "2021-02-24T03:00:00.000Z",
+        "broadcast": "R/2021-02-24T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -573,11 +448,120 @@
     ]
   },
   {
+    "title": "映画 ギヴン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 GIVEN"
+      ],
+      "zh-Hant": [
+        "GIVEN 被贈與的未來 劇場版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://given-anime.com/",
+    "begin": "2022-08-21T16:00:00.000Z",
+    "end": "2022-08-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "290993"
+      },
+      {
+        "site": "gamer",
+        "id": "109956",
+        "begin": "2021-05-06T09:00:00.000Z",
+        "broadcast": "R/2021-05-06T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0073861",
+        "begin": "2022-10-04T03:00:00.000Z",
+        "broadcast": "R/2022-10-04T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2020,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1648/111422.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1648/111422t.jpg",
+    "synonyms": [
+      "Eiga Given",
+      "GIVEN 被贈與的未來 劇場版",
+      "Given Ohne Titel",
+      "Given The Movie",
+      "Given le Film",
+      "Given le film",
+      "Given the Movie",
+      "Given: The Movie",
+      "given The Movie",
+      "映画 ギヴン"
+    ]
+  },
+  {
+    "title": "少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少女☆歌剧 Revue Starlight RONDO·RONDO·RONDO",
+        "少女☆歌剧 Revue Starlight 再生产总集篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://cinema.revuestarlight.com/",
+    "begin": "2020-08-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-08-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "294134"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054938",
+        "begin": "2021-02-24T03:00:00.000Z",
+        "broadcast": "R/2021-02-24T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2020,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1542/108494.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1542/108494t.jpg",
+    "synonyms": [
+      "Revue Starlight RONDO RONDO RONDO",
+      "Revue Starlight: Rondo Rondo Rondo",
+      "Saiseisan Soushuuhen Shoujo☆Kageki Revue Starlight",
+      "Shoujo Kageki Revue Starlight Compilation Film",
+      "Shoujo Kageki Revue Starlight: Rondo Rondo Rondo",
+      "Shoujo ☆ Kageki Revue Starlight: Rondo Rondo Rondo",
+      "Shoujo☆Kageki Revue Starlight Recap",
+      "Shōjo Kageki Revue Starlight: Rondo Rondo Rondo",
+      "再生産総集編 少女☆歌劇 レヴュースタァライト",
+      "劇場版 少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド",
+      "少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド"
+    ]
+  },
+  {
     "title": "映画ドラえもん のび太の新恐竜",
     "titleTranslate": {
       "zh-Hans": [
         "哆啦A梦：大雄的新恐龙",
         "电影哆啦A梦：大雄的新恐龙"
+      ],
+      "zh-Hant": [
+        "電影哆啦A夢: 大雄的新恐龍"
       ]
     },
     "type": "movie",
@@ -599,124 +583,16 @@
         "broadcast": ""
       },
       {
-        "site": "anidb",
-        "id": "4635"
+        "site": "unext",
+        "id": "SID0099893",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "4757"
-      },
-      {
-        "site": "anilist",
-        "id": "8687"
-      },
-      {
-        "site": "anime-planet",
-        "id": "doraemon-1973"
-      },
-      {
-        "site": "anime-planet",
-        "id": "doraemon-1979"
-      },
-      {
-        "site": "anime-planet",
-        "id": "doraemon-2005"
-      },
-      {
-        "site": "anime-planet",
-        "id": "doraemon-doraemon-comes-back"
-      },
-      {
-        "site": "anime-planet",
-        "id": "doraemon-doraemon-comes-back-1998"
-      },
-      {
-        "site": "anime-planet",
-        "id": "doraemon-movie-2-nobita-no-uchuu-kaitakushi"
-      },
-      {
-        "site": "anime-planet",
-        "id": "doraemon-movie-27-nobita-no-shin-makai-daibouken-shichinin-no-mahou-tsukai"
-      },
-      {
-        "site": "anime-planet",
-        "id": "doraemon-movie-29-shin-nobita-no-uchuu-kaitakushi"
-      },
-      {
-        "site": "anime-planet",
-        "id": "the-doraemons-strange-sweets-strange"
-      },
-      {
-        "site": "anisearch",
-        "id": "1659"
-      },
-      {
-        "site": "anisearch",
-        "id": "3898"
-      },
-      {
-        "site": "livechart",
-        "id": "12164"
-      },
-      {
-        "site": "livechart",
-        "id": "5614"
-      },
-      {
-        "site": "livechart",
-        "id": "6575"
-      },
-      {
-        "site": "livechart",
-        "id": "6880"
-      },
-      {
-        "site": "livechart",
-        "id": "8740"
-      },
-      {
-        "site": "livechart",
-        "id": "8868"
-      },
-      {
-        "site": "livechart",
-        "id": "8871"
-      },
-      {
-        "site": "livechart",
-        "id": "8877"
-      },
-      {
-        "site": "livechart",
-        "id": "8878"
-      },
-      {
-        "site": "livechart",
-        "id": "8884"
-      },
-      {
-        "site": "livechart",
-        "id": "8897"
-      },
-      {
-        "site": "livechart",
-        "id": "8900"
-      },
-      {
-        "site": "livechart",
-        "id": "8901"
-      },
-      {
-        "site": "livechart",
-        "id": "8902"
-      },
-      {
-        "site": "livechart",
-        "id": "8998"
-      },
-      {
-        "site": "myanimelist",
-        "id": "8687"
+        "site": "netflix",
+        "id": "81403503",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -747,6 +623,50 @@
       "哆啦A梦：大雄的新恐龙",
       "映画 ドラえもん のび太の新恐竜",
       "映画ドラえもん のび太の新恐竜"
+    ]
+  },
+  {
+    "title": "バトルスピリッツ 赫盟のガレット",
+    "titleTranslate": {
+      "zh-Hans": [
+        "战斗之魂 赫盟的加雷特"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.bn-pictures.co.jp/battlespirits/BS2020/",
+    "begin": "2020-08-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-04-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "299139"
+      },
+      {
+        "site": "unext",
+        "id": "SID0068481",
+        "begin": "2022-05-05T03:00:00.000Z",
+        "broadcast": "R/2022-05-05T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2020,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 5,
+    "picture": "https://cdn.myanimelist.net/images/anime/1999/111804.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1999/111804t.jpg",
+    "synonyms": [
+      "Batorusupirittsu: Kakumei no Garetto",
+      "Battle Spirits 赫盟的加雷特",
+      "Battle Spirits: Galette's Revolution",
+      "Battle Spirits: Kakumei no Gallet",
+      "バトルスピリッツ 赫盟のガレッ",
+      "バトルスピリッツ 赫盟のガレット"
     ]
   },
   {
@@ -828,92 +748,10 @@
         "broadcast": ""
       },
       {
-        "site": "anidb",
-        "id": "10601"
-      },
-      {
-        "site": "anidb",
-        "id": "15990"
-      },
-      {
-        "site": "anilist",
-        "id": "128643"
-      },
-      {
-        "site": "anilist",
-        "id": "20698"
-      },
-      {
-        "site": "anime-planet",
-        "id": "my-teen-romantic-comedy-snafu"
-      },
-      {
-        "site": "anime-planet",
-        "id": "my-teen-romantic-comedy-snafu-climax-ova"
-      },
-      {
-        "site": "anime-planet",
-        "id": "my-teen-romantic-comedy-snafu-ova"
-      },
-      {
-        "site": "anime-planet",
-        "id": "my-teen-romantic-comedy-snafu-too"
-      },
-      {
-        "site": "anime-planet",
-        "id": "my-teen-romantic-comedy-snafu-too-ova"
-      },
-      {
-        "site": "anisearch",
-        "id": "15934"
-      },
-      {
-        "site": "anisearch",
-        "id": "9606"
-      },
-      {
-        "site": "kitsu",
-        "id": "43910"
-      },
-      {
-        "site": "kitsu",
-        "id": "8478"
-      },
-      {
-        "site": "livechart",
-        "id": "10352"
-      },
-      {
-        "site": "livechart",
-        "id": "2151"
-      },
-      {
-        "site": "livechart",
-        "id": "530"
-      },
-      {
-        "site": "livechart",
-        "id": "844"
-      },
-      {
-        "site": "livechart",
-        "id": "95"
-      },
-      {
-        "site": "myanimelist",
-        "id": "23847"
-      },
-      {
-        "site": "myanimelist",
-        "id": "46431"
-      },
-      {
-        "site": "notify",
-        "id": "Pk0AtFmmg"
-      },
-      {
-        "site": "notify",
-        "id": "WCKUoxfMg"
+        "site": "unext",
+        "id": "SID0047120",
+        "begin": "2020-07-24T03:00:00.000Z",
+        "broadcast": "R/2020-07-24T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1006,48 +844,10 @@
         "broadcast": ""
       },
       {
-        "site": "anidb",
-        "id": "15742"
-      },
-      {
-        "site": "anilist",
-        "id": "124395"
-      },
-      {
-        "site": "anime-planet",
-        "id": "kano-nadamesukashi-negotiation"
-      },
-      {
-        "site": "anime-planet",
-        "id": "uzaki-chan-wants-to-hang-out-w"
-      },
-      {
-        "site": "anisearch",
-        "id": "15579"
-      },
-      {
-        "site": "kitsu",
-        "id": "43581"
-      },
-      {
-        "site": "kitsu",
-        "id": "47104"
-      },
-      {
-        "site": "livechart",
-        "id": "10167"
-      },
-      {
-        "site": "myanimelist",
-        "id": "42962"
-      },
-      {
-        "site": "myanimelist",
-        "id": "50316"
-      },
-      {
-        "site": "notify",
-        "id": "6v9zS4FGR"
+        "site": "unext",
+        "id": "SID0047128",
+        "begin": "2020-07-15T13:00:00.000Z",
+        "broadcast": "R/2020-07-15T13:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1167,164 +967,10 @@
         "broadcast": ""
       },
       {
-        "site": "anidb",
-        "id": "11370"
-      },
-      {
-        "site": "anidb",
-        "id": "15593"
-      },
-      {
-        "site": "anilist",
-        "id": "119661"
-      },
-      {
-        "site": "anilist",
-        "id": "120700"
-      },
-      {
-        "site": "anilist",
-        "id": "21355"
-      },
-      {
-        "site": "anime-planet",
-        "id": "re-zero-starting-break-time-from-zero-2nd-season"
-      },
-      {
-        "site": "anime-planet",
-        "id": "re-zero-starting-life-in-another-world"
-      },
-      {
-        "site": "anime-planet",
-        "id": "re-zero-starting-life-in-another-world-memory-snow"
-      },
-      {
-        "site": "anime-planet",
-        "id": "re-zero-starting-life-in-another-world-season-2-part-ii"
-      },
-      {
-        "site": "anime-planet",
-        "id": "re-zero-starting-life-in-another-world-the-frozen-bond"
-      },
-      {
-        "site": "anisearch",
-        "id": "10572"
-      },
-      {
-        "site": "anisearch",
-        "id": "12797"
-      },
-      {
-        "site": "anisearch",
-        "id": "14867"
-      },
-      {
-        "site": "anisearch",
-        "id": "15319"
-      },
-      {
-        "site": "kitsu",
-        "id": "11209"
-      },
-      {
-        "site": "kitsu",
-        "id": "42903"
-      },
-      {
-        "site": "kitsu",
-        "id": "43247"
-      },
-      {
-        "site": "kitsu",
-        "id": "43300"
-      },
-      {
-        "site": "livechart",
-        "id": "10009"
-      },
-      {
-        "site": "livechart",
-        "id": "10055"
-      },
-      {
-        "site": "livechart",
-        "id": "10091"
-      },
-      {
-        "site": "livechart",
-        "id": "10262"
-      },
-      {
-        "site": "livechart",
-        "id": "10998"
-      },
-      {
-        "site": "livechart",
-        "id": "11908"
-      },
-      {
-        "site": "livechart",
-        "id": "1723"
-      },
-      {
-        "site": "livechart",
-        "id": "2856"
-      },
-      {
-        "site": "livechart",
-        "id": "3550"
-      },
-      {
-        "site": "livechart",
-        "id": "3967"
-      },
-      {
-        "site": "livechart",
-        "id": "4047"
-      },
-      {
-        "site": "livechart",
-        "id": "8701"
-      },
-      {
-        "site": "livechart",
-        "id": "9481"
-      },
-      {
-        "site": "livechart",
-        "id": "9710"
-      },
-      {
-        "site": "livechart",
-        "id": "9870"
-      },
-      {
-        "site": "myanimelist",
-        "id": "31240"
-      },
-      {
-        "site": "myanimelist",
-        "id": "42203"
-      },
-      {
-        "site": "myanimelist",
-        "id": "42364"
-      },
-      {
-        "site": "notify",
-        "id": "-2I3PEYWR"
-      },
-      {
-        "site": "notify",
-        "id": "K-5o3qmGR"
-      },
-      {
-        "site": "notify",
-        "id": "Un9XpFimg"
-      },
-      {
-        "site": "notify",
-        "id": "nzQJ-c4GR"
+        "site": "unext",
+        "id": "SID0047153",
+        "begin": "2020-07-13T14:00:00.000Z",
+        "broadcast": "R/2020-07-13T14:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1355,6 +1001,7 @@
       "Re:Zero kara Hajimeru Isekai Seikatsu 2",
       "Re:Zero kara Hajimeru Isekai Seikatsu Season 2",
       "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก ภาค 2",
+      "Re:Zero –Starting Life in Another World– (Saison 2 Partie 1)",
       "Re:Zero — жизнь с нуля в другом мире. Второй сезон",
       "Re:ゼロから始める異世界生活 (2020)",
       "Re:ゼロから始める異世界生活 2nd Season",
@@ -1483,52 +1130,10 @@
         "broadcast": "R/2020-07-03T16:30:01.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "15712"
-      },
-      {
-        "site": "anilist",
-        "id": "123769"
-      },
-      {
-        "site": "anime-planet",
-        "id": "super-hxeros-hxeros-report"
-      },
-      {
-        "site": "anime-planet",
-        "id": "super-hxeros-ova"
-      },
-      {
-        "site": "anisearch",
-        "id": "15492"
-      },
-      {
-        "site": "anisearch",
-        "id": "15525"
-      },
-      {
-        "site": "kitsu",
-        "id": "43525"
-      },
-      {
-        "site": "kitsu",
-        "id": "43544"
-      },
-      {
-        "site": "livechart",
-        "id": "10053"
-      },
-      {
-        "site": "myanimelist",
-        "id": "42685"
-      },
-      {
-        "site": "myanimelist",
-        "id": "42803"
-      },
-      {
-        "site": "notify",
-        "id": "zB7wwxDMg"
+        "site": "unext",
+        "id": "SID0049161",
+        "begin": "2020-07-03T03:00:00.000Z",
+        "broadcast": "R/2020-07-03T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1624,24 +1229,10 @@
         "broadcast": "R/2021-08-11T16:00:00.000Z/P7D"
       },
       {
-        "site": "anime-planet",
-        "id": "deca-dence-install"
-      },
-      {
-        "site": "anisearch",
-        "id": "15540"
-      },
-      {
-        "site": "kitsu",
-        "id": "43524"
-      },
-      {
-        "site": "myanimelist",
-        "id": "42723"
-      },
-      {
-        "site": "notify",
-        "id": "td1DF4FMg"
+        "site": "unext",
+        "id": "SID0047131",
+        "begin": "2020-07-13T15:00:00.000Z",
+        "broadcast": "R/2020-07-13T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1685,6 +1276,18 @@
         "id": "koipro-anime",
         "begin": "2020-07-18T03:00:00.000Z",
         "broadcast": "R/2020-07-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0049165",
+        "begin": "2020-07-15T15:00:00.000Z",
+        "broadcast": "R/2020-07-15T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "481-4",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -1756,36 +1359,11 @@
         "broadcast": "R/2020-07-10T18:05:01.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "16973"
-      },
-      {
-        "site": "anilist",
-        "id": "141400"
-      },
-      {
-        "site": "anime-planet",
-        "id": "peter-grill-and-the-philosophers-time-super-extra"
-      },
-      {
-        "site": "anisearch",
-        "id": "16791"
-      },
-      {
-        "site": "kitsu",
-        "id": "45490"
-      },
-      {
-        "site": "livechart",
-        "id": "10884"
-      },
-      {
-        "site": "myanimelist",
-        "id": "50348"
-      },
-      {
-        "site": "notify",
-        "id": "IEewvK5ng"
+        "site": "unext",
+        "id": "SID0047148",
+        "begin": "2020-07-15T15:00:00.000Z",
+        "broadcast": "R/2020-07-15T15:00:00.000Z/P7D",
+        "comment": "大賢者ver.: SID0049188, 超賢者ver.: SID0074369"
       }
     ],
     "animeSeason": {
@@ -1857,24 +1435,10 @@
         "broadcast": "R/2020-07-06T16:00:01.000Z/P7D"
       },
       {
-        "site": "anime-planet",
-        "id": "the-god-of-high-school-pv"
-      },
-      {
-        "site": "anisearch",
-        "id": "16971"
-      },
-      {
-        "site": "anisearch",
-        "id": "17692"
-      },
-      {
-        "site": "myanimelist",
-        "id": "42893"
-      },
-      {
-        "site": "notify",
-        "id": "TLGVEw2Gg"
+        "site": "unext",
+        "id": "SID0049166",
+        "begin": "2020-07-07T03:00:00.000Z",
+        "broadcast": "R/2020-07-07T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1951,76 +1515,10 @@
         "broadcast": "R/2020-07-07T13:00:01.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "13034"
-      },
-      {
-        "site": "anilist",
-        "id": "154386"
-      },
-      {
-        "site": "anilist",
-        "id": "98514"
-      },
-      {
-        "site": "anime-planet",
-        "id": "uma-musume-pretty-derby"
-      },
-      {
-        "site": "anime-planet",
-        "id": "umayon-shinsaku-short-anime"
-      },
-      {
-        "site": "anisearch",
-        "id": "12470"
-      },
-      {
-        "site": "anisearch",
-        "id": "16948"
-      },
-      {
-        "site": "anisearch",
-        "id": "17388"
-      },
-      {
-        "site": "kitsu",
-        "id": "13485"
-      },
-      {
-        "site": "livechart",
-        "id": "10163"
-      },
-      {
-        "site": "livechart",
-        "id": "11205"
-      },
-      {
-        "site": "livechart",
-        "id": "11206"
-      },
-      {
-        "site": "livechart",
-        "id": "11598"
-      },
-      {
-        "site": "livechart",
-        "id": "2630"
-      },
-      {
-        "site": "livechart",
-        "id": "3272"
-      },
-      {
-        "site": "myanimelist",
-        "id": "35249"
-      },
-      {
-        "site": "myanimelist",
-        "id": "52751"
-      },
-      {
-        "site": "notify",
-        "id": "PKq72KmmR"
+        "site": "unext",
+        "id": "SID0049158",
+        "begin": "2020-07-07T12:54:00.000Z",
+        "broadcast": "R/2020-07-07T12:54:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2085,80 +1583,10 @@
         "broadcast": "R/2020-07-12T19:10:00.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "9964"
-      },
-      {
-        "site": "anilist",
-        "id": "19383"
-      },
-      {
-        "site": "anime-planet",
-        "id": "yamishibai-japanese-ghost-stories"
-      },
-      {
-        "site": "anisearch",
-        "id": "8789"
-      },
-      {
-        "site": "kitsu",
-        "id": "7840"
-      },
-      {
-        "site": "livechart",
-        "id": "10240"
-      },
-      {
-        "site": "livechart",
-        "id": "10620"
-      },
-      {
-        "site": "livechart",
-        "id": "10953"
-      },
-      {
-        "site": "livechart",
-        "id": "11992"
-      },
-      {
-        "site": "livechart",
-        "id": "122"
-      },
-      {
-        "site": "livechart",
-        "id": "12415"
-      },
-      {
-        "site": "livechart",
-        "id": "1905"
-      },
-      {
-        "site": "livechart",
-        "id": "2438"
-      },
-      {
-        "site": "livechart",
-        "id": "2723"
-      },
-      {
-        "site": "livechart",
-        "id": "3264"
-      },
-      {
-        "site": "livechart",
-        "id": "429"
-      },
-      {
-        "site": "livechart",
-        "id": "9448"
-      },
-      {
-        "site": "myanimelist",
-        "id": "19383"
-      },
-      {
-        "site": "notify",
-        "id": "4JYptFimR"
+        "site": "unext",
+        "id": "SID0049157",
+        "begin": "2020-07-13T03:00:00.000Z",
+        "broadcast": "R/2020-07-13T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2239,6 +1667,12 @@
         "id": "PLxSscENEp7JipHQ11BNQDHfVq4pLEUQCv",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0047352",
+        "begin": "2024-04-01T03:00:00.000Z",
+        "broadcast": "R/2024-04-01T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2290,6 +1724,12 @@
         "id": "111487",
         "begin": "2020-07-05T17:05:00.000Z",
         "broadcast": "R/2020-07-05T17:05:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0049169",
+        "begin": "2020-07-05T16:00:00.000Z",
+        "broadcast": "R/2020-07-05T16:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2337,26 +1777,6 @@
         "id": "112206",
         "begin": "2020-07-10T17:52:00.000Z",
         "broadcast": "R/2020-07-10T17:52:00.000Z/P7D"
-      },
-      {
-        "site": "anime-planet",
-        "id": "get-up-get-live-episode-0"
-      },
-      {
-        "site": "kitsu",
-        "id": "43280"
-      },
-      {
-        "site": "livechart",
-        "id": "10050"
-      },
-      {
-        "site": "myanimelist",
-        "id": "42345"
-      },
-      {
-        "site": "notify",
-        "id": "bgX3-5GGg"
       }
     ],
     "animeSeason": {
@@ -2454,80 +1874,10 @@
         "broadcast": ""
       },
       {
-        "site": "anidb",
-        "id": "14488"
-      },
-      {
-        "site": "anidb",
-        "id": "17420"
-      },
-      {
-        "site": "anilist",
-        "id": "105310"
-      },
-      {
-        "site": "anilist",
-        "id": "128390"
-      },
-      {
-        "site": "anilist",
-        "id": "149118"
-      },
-      {
-        "site": "anime-planet",
-        "id": "fire-force"
-      },
-      {
-        "site": "anime-planet",
-        "id": "fire-force-3rd-season"
-      },
-      {
-        "site": "anime-planet",
-        "id": "fire-force-mini-anime"
-      },
-      {
-        "site": "anisearch",
-        "id": "13987"
-      },
-      {
-        "site": "anisearch",
-        "id": "17386"
-      },
-      {
-        "site": "kitsu",
-        "id": "42068"
-      },
-      {
-        "site": "kitsu",
-        "id": "46119"
-      },
-      {
-        "site": "livechart",
-        "id": "10323"
-      },
-      {
-        "site": "livechart",
-        "id": "11222"
-      },
-      {
-        "site": "livechart",
-        "id": "8355"
-      },
-      {
-        "site": "myanimelist",
-        "id": "38671"
-      },
-      {
-        "site": "myanimelist",
-        "id": "51818"
-      },
-      {
-        "site": "notify",
-        "id": "g1DshxUmR"
-      },
-      {
-        "site": "notify",
-        "id": "zrTXULXnR"
+        "site": "unext",
+        "id": "SID0049156",
+        "begin": "2020-07-03T17:30:00.000Z",
+        "broadcast": "R/2020-07-03T17:30:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2609,36 +1959,10 @@
         "begin": ""
       },
       {
-        "site": "anidb",
-        "id": "18280"
-      },
-      {
-        "site": "anilist",
-        "id": "170935"
-      },
-      {
-        "site": "anime-planet",
-        "id": "great-pretender-razbliuto"
-      },
-      {
-        "site": "anisearch",
-        "id": "18869"
-      },
-      {
-        "site": "kitsu",
-        "id": "48236"
-      },
-      {
-        "site": "livechart",
-        "id": "12416"
-      },
-      {
-        "site": "myanimelist",
-        "id": "57184"
-      },
-      {
-        "site": "notify",
-        "id": "9rkTydHIg"
+        "site": "unext",
+        "id": "SID0049159",
+        "begin": "2024-03-09T03:00:00.000Z",
+        "broadcast": "R/2024-03-09T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2726,38 +2050,6 @@
         "id": "28229294",
         "begin": "2020-07-07T11:42:10.000Z",
         "broadcast": "R/2020-07-07T11:42:10.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "13916"
-      },
-      {
-        "site": "anilist",
-        "id": "101340"
-      },
-      {
-        "site": "anime-planet",
-        "id": "muhyo-and-rojis-bureau-of-supernatural-investigation"
-      },
-      {
-        "site": "anisearch",
-        "id": "13477"
-      },
-      {
-        "site": "kitsu",
-        "id": "41076"
-      },
-      {
-        "site": "livechart",
-        "id": "3155"
-      },
-      {
-        "site": "myanimelist",
-        "id": "37487"
-      },
-      {
-        "site": "notify",
-        "id": "0CVK2Kmig"
       }
     ],
     "animeSeason": {
@@ -2833,30 +2125,6 @@
         "id": "japansinks2020",
         "begin": "2022-10-27T15:00:00.000Z",
         "broadcast": "R/2022-10-27T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "16547"
-      },
-      {
-        "site": "anilist",
-        "id": "130249"
-      },
-      {
-        "site": "anisearch",
-        "id": "15638"
-      },
-      {
-        "site": "kitsu",
-        "id": "44306"
-      },
-      {
-        "site": "livechart",
-        "id": "10122"
-      },
-      {
-        "site": "myanimelist",
-        "id": "44585"
       }
     ],
     "animeSeason": {
@@ -2915,34 +2183,6 @@
         "id": "112205",
         "begin": "2020-06-30T23:30:00.000Z",
         "broadcast": "R/2020-06-30T23:30:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "17499"
-      },
-      {
-        "site": "anilist",
-        "id": "158570"
-      },
-      {
-        "site": "anime-planet",
-        "id": "obake-zukan-2"
-      },
-      {
-        "site": "anisearch",
-        "id": "17503"
-      },
-      {
-        "site": "kitsu",
-        "id": "46331"
-      },
-      {
-        "site": "livechart",
-        "id": "11462"
-      },
-      {
-        "site": "myanimelist",
-        "id": "52319"
       }
     ],
     "animeSeason": {
@@ -2977,34 +2217,6 @@
       {
         "site": "bangumi",
         "id": "270139"
-      },
-      {
-        "site": "anidb",
-        "id": "14560"
-      },
-      {
-        "site": "anidb",
-        "id": "6226"
-      },
-      {
-        "site": "anilist",
-        "id": "99884"
-      },
-      {
-        "site": "anime-planet",
-        "id": "the-fate-of-arad"
-      },
-      {
-        "site": "anisearch",
-        "id": "13005"
-      },
-      {
-        "site": "myanimelist",
-        "id": "38413"
-      },
-      {
-        "site": "notify",
-        "id": "ttqO2FmmR"
       }
     ],
     "animeSeason": {
@@ -3060,32 +2272,10 @@
         "broadcast": "R/2020-01-20T14:00:00.000Z/P7D"
       },
       {
-        "site": "anilist",
-        "id": "110615"
-      },
-      {
-        "site": "anime-planet",
-        "id": "arp-backstage-pass"
-      },
-      {
-        "site": "anisearch",
-        "id": "14467"
-      },
-      {
-        "site": "kitsu",
-        "id": "42879"
-      },
-      {
-        "site": "livechart",
-        "id": "3467"
-      },
-      {
-        "site": "myanimelist",
-        "id": "40137"
-      },
-      {
-        "site": "notify",
-        "id": "dLrLHrAZR"
+        "site": "unext",
+        "id": "SID0045404",
+        "begin": "2020-01-21T03:00:00.000Z",
+        "broadcast": "R/2020-01-21T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3172,116 +2362,10 @@
         "broadcast": ""
       },
       {
-        "site": "anidb",
-        "id": "14796"
-      },
-      {
-        "site": "anilist",
-        "id": "108759"
-      },
-      {
-        "site": "anime-planet",
-        "id": "sword-art-online"
-      },
-      {
-        "site": "anime-planet",
-        "id": "sword-art-online-alicization"
-      },
-      {
-        "site": "anime-planet",
-        "id": "sword-art-online-alicization-war-of-underworld"
-      },
-      {
-        "site": "anime-planet",
-        "id": "sword-art-online-ii"
-      },
-      {
-        "site": "anime-planet",
-        "id": "sword-art-online-movie-ordinal-scale"
-      },
-      {
-        "site": "anisearch",
-        "id": "14323"
-      },
-      {
-        "site": "kitsu",
-        "id": "42213"
-      },
-      {
-        "site": "livechart",
-        "id": "10159"
-      },
-      {
-        "site": "livechart",
-        "id": "1017"
-      },
-      {
-        "site": "livechart",
-        "id": "1038"
-      },
-      {
-        "site": "livechart",
-        "id": "10864"
-      },
-      {
-        "site": "livechart",
-        "id": "11599"
-      },
-      {
-        "site": "livechart",
-        "id": "12265"
-      },
-      {
-        "site": "livechart",
-        "id": "1750"
-      },
-      {
-        "site": "livechart",
-        "id": "1859"
-      },
-      {
-        "site": "livechart",
-        "id": "186"
-      },
-      {
-        "site": "livechart",
-        "id": "2908"
-      },
-      {
-        "site": "livechart",
-        "id": "2909"
-      },
-      {
-        "site": "livechart",
-        "id": "3148"
-      },
-      {
-        "site": "livechart",
-        "id": "391"
-      },
-      {
-        "site": "livechart",
-        "id": "392"
-      },
-      {
-        "site": "livechart",
-        "id": "9404"
-      },
-      {
-        "site": "myanimelist",
-        "id": "39597"
-      },
-      {
-        "site": "myanimelist",
-        "id": "41341"
-      },
-      {
-        "site": "notify",
-        "id": "FcJ6ud6iR"
-      },
-      {
-        "site": "notify",
-        "id": "wHEHlE_ZR"
+        "site": "unext",
+        "id": "SID0043557",
+        "begin": "2019-10-19T15:00:00.000Z",
+        "broadcast": "R/2019-10-19T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3384,48 +2468,10 @@
         "broadcast": "R/2019-10-10T18:00:00.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "14759"
-      },
-      {
-        "site": "anilist",
-        "id": "108478"
-      },
-      {
-        "site": "anilist",
-        "id": "124014"
-      },
-      {
-        "site": "anilist",
-        "id": "124027"
-      },
-      {
-        "site": "anime-planet",
-        "id": "no-guns-life"
-      },
-      {
-        "site": "anisearch",
-        "id": "14255"
-      },
-      {
-        "site": "kitsu",
-        "id": "42197"
-      },
-      {
-        "site": "livechart",
-        "id": "9361"
-      },
-      {
-        "site": "myanimelist",
-        "id": "39539"
-      },
-      {
-        "site": "myanimelist",
-        "id": "55043"
-      },
-      {
-        "site": "notify",
-        "id": "podyg46mR"
+        "site": "unext",
+        "id": "SID0045433",
+        "begin": "2020-01-02T03:00:00.000Z",
+        "broadcast": "R/2020-01-02T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3473,32 +2519,10 @@
         "id": "291842"
       },
       {
-        "site": "anidb",
-        "id": "15101"
-      },
-      {
-        "site": "anime-planet",
-        "id": "taeko-no-nichijou"
-      },
-      {
-        "site": "anisearch",
-        "id": "14646"
-      },
-      {
-        "site": "kitsu",
-        "id": "42564"
-      },
-      {
-        "site": "livechart",
-        "id": "9602"
-      },
-      {
-        "site": "myanimelist",
-        "id": "40423"
-      },
-      {
-        "site": "notify",
-        "id": "U29trq2Zg"
+        "site": "unext",
+        "id": "SID0047525",
+        "begin": "2020-05-14T03:00:00.000Z",
+        "broadcast": "R/2020-05-14T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {

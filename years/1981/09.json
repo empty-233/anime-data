@@ -29,124 +29,10 @@
         "broadcast": ""
       },
       {
-        "site": "anidb",
-        "id": "2608"
-      },
-      {
-        "site": "anidb",
-        "id": "4742"
-      },
-      {
-        "site": "anidb",
-        "id": "7564"
-      },
-      {
-        "site": "anidb",
-        "id": "9025"
-      },
-      {
-        "site": "anidb",
-        "id": "9899"
-      },
-      {
-        "site": "anilist",
-        "id": "18845"
-      },
-      {
-        "site": "anime-planet",
-        "id": "doraemon-1979-special-17-doraemon-meets-hattori-the-ninja"
-      },
-      {
-        "site": "anime-planet",
-        "id": "koutsuu-anzen-de-gozaru-ninja-hattori-kun"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ninja-hattori-kun-nin-nin-furusato-daisakusen-no-maki"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ninja-hattori-kun-nin-nin-ninpo-enikki-no-maki"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ninja-hattori-kun-plus-perman-chounouryoku-wars"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ninja-hattori-kun-plus-perman-ninja-kaijuu-jippou-tai-miracle-tamago"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ninja-hattori-returns"
-      },
-      {
-        "site": "anime-planet",
-        "id": "ninja-hattori-returns-special"
-      },
-      {
-        "site": "anisearch",
-        "id": "3488"
-      },
-      {
-        "site": "anisearch",
-        "id": "3869"
-      },
-      {
-        "site": "anisearch",
-        "id": "6253"
-      },
-      {
-        "site": "anisearch",
-        "id": "7664"
-      },
-      {
-        "site": "anisearch",
-        "id": "8777"
-      },
-      {
-        "site": "kitsu",
-        "id": "9064"
-      },
-      {
-        "site": "kitsu",
-        "id": "9491"
-      },
-      {
-        "site": "kitsu",
-        "id": "9492"
-      },
-      {
-        "site": "myanimelist",
-        "id": "18845"
-      },
-      {
-        "site": "myanimelist",
-        "id": "21493"
-      },
-      {
-        "site": "myanimelist",
-        "id": "23647"
-      },
-      {
-        "site": "myanimelist",
-        "id": "29233"
-      },
-      {
-        "site": "myanimelist",
-        "id": "29235"
-      },
-      {
-        "site": "notify",
-        "id": "CSsfpKmig"
-      },
-      {
-        "site": "notify",
-        "id": "bKsfpKiiR"
-      },
-      {
-        "site": "notify",
-        "id": "pCmapFmiR"
+        "site": "unext",
+        "id": "SID0002764",
+        "begin": "2016-02-18T15:00:00.000Z",
+        "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -172,6 +58,47 @@
       "นินจาฮัทโตริ",
       "忍者ハットリくん",
       "忍者哈特利"
+    ]
+  },
+  {
+    "title": "新・ど根性ガエル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新根性青蛙"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1487",
+    "begin": "1981-09-06T16:00:00.000Z",
+    "broadcast": "R/1981-09-06T16:00:00.000Z/P7D",
+    "end": "1982-03-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "132767"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038641",
+        "begin": "2019-01-10T03:00:00.000Z",
+        "broadcast": "R/2019-01-10T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1981,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 30,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/56689.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/56689t.jpg",
+    "synonyms": [
+      "Shin Dokonjō Gaeru",
+      "新・ど根性ガエル",
+      "新根性青蛙"
     ]
   }
 ]

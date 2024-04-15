@@ -23,56 +23,10 @@
         "broadcast": "R/2015-12-17T02:42:00.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "7059"
-      },
-      {
-        "site": "anidb",
-        "id": "7141"
-      },
-      {
-        "site": "anilist",
-        "id": "16458"
-      },
-      {
-        "site": "anilist",
-        "id": "16460"
-      },
-      {
-        "site": "anime-planet",
-        "id": "perrine-monogatari-specials"
-      },
-      {
-        "site": "anisearch",
-        "id": "5906"
-      },
-      {
-        "site": "anisearch",
-        "id": "6136"
-      },
-      {
-        "site": "kitsu",
-        "id": "7432"
-      },
-      {
-        "site": "kitsu",
-        "id": "7433"
-      },
-      {
-        "site": "myanimelist",
-        "id": "16458"
-      },
-      {
-        "site": "myanimelist",
-        "id": "16460"
-      },
-      {
-        "site": "notify",
-        "id": "BnyKtKimR"
-      },
-      {
-        "site": "notify",
-        "id": "QDyKtKmmg"
+        "site": "unext",
+        "id": "SID0002322",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -98,6 +52,64 @@
       "بيرين",
       "ペリーヌ物語",
       "佩琳物語"
+    ]
+  },
+  {
+    "title": "女王陛下のプティアンジェ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "莎朗小侦探",
+        "女王陛下小安琪"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1977-12-12T16:00:00.000Z",
+    "broadcast": "R/1977-12-12T16:00:00.000Z/P7D",
+    "end": "1978-06-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "72357"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002394",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1978,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/5634.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/5634t.jpg",
+    "synonyms": [
+      "Angie Girl",
+      "Angie, Détective en Herbe",
+      "Angie, détective en herbe",
+      "Annemarie",
+      "Charlotte Holmes",
+      "Her Majesty's Petite Angie",
+      "Her Majesty`s Petite Angie",
+      "Her Royal Highness the Queen",
+      "Joou-heika no Petit Angie",
+      "Joou-heika no Petite Angie",
+      "Joō Heika no Petite Angie",
+      "Petite Angie",
+      "Przgody Charlotte Holmes",
+      "Sherlock and Me",
+      "The Casebook of Charlotte Holmes",
+      "angie",
+      "المتحرية إنجي",
+      "المتحريه أنجي",
+      "女王陛下のプティアンジェ"
     ]
   }
 ]

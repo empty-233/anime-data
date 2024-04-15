@@ -84,38 +84,6 @@
         "id": "5471",
         "begin": "2016-08-24T03:45:00.000Z",
         "broadcast": "R/2016-08-24T03:45:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "285"
-      },
-      {
-        "site": "anilist",
-        "id": "1486"
-      },
-      {
-        "site": "anime-planet",
-        "id": "kodocha"
-      },
-      {
-        "site": "anisearch",
-        "id": "888"
-      },
-      {
-        "site": "kitsu",
-        "id": "1332"
-      },
-      {
-        "site": "livechart",
-        "id": "5653"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1486"
-      },
-      {
-        "site": "notify",
-        "id": "53OacFmmR"
       }
     ],
     "animeSeason": {
@@ -137,6 +105,49 @@
       "こどものおもちゃ",
       "こどものおもちゃ (OVA)",
       "こどものおもちゃ OVA"
+    ]
+  },
+  {
+    "title": "沈黙の艦隊",
+    "titleTranslate": {
+      "zh-Hans": [
+        "沉默的舰队"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-12-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-01-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "48679"
+      },
+      {
+        "site": "unext",
+        "id": "SID0020056",
+        "begin": "2019-04-04T03:00:00.000Z",
+        "broadcast": "R/2019-04-04T03:00:00.000Z/P7D",
+        "comment": "VOYAGE２: SID0020057, VOYAGE３: SID0020058"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1995,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/1624/101493.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1624/101493t.jpg",
+    "synonyms": [
+      "Silent Service",
+      "The Silent Service",
+      "沈黙の艦隊",
+      "沉默的舰队"
     ]
   }
 ]

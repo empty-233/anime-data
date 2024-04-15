@@ -32,14 +32,6 @@
         "id": "60027393",
         "begin": "2020-01-30T16:00:00.000Z",
         "broadcast": "R/2020-01-30T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "anisearch",
-        "id": "5923"
-      },
-      {
-        "site": "anisearch",
-        "id": "6100"
       }
     ],
     "animeSeason": {
@@ -65,7 +57,6 @@
       "Laputa - Himmelslottet",
       "Laputa - Il castello nel cielo",
       "Laputa - Slottet i himlen",
-      "Laputa - podniebny zamek",
       "Laputa : Le château dans le ciel",
       "Laputa – podniebny zamek",
       "Laputa – slottet i himlen",
@@ -100,6 +91,53 @@
       "天空の城ラピュタ",
       "天空之城",
       "천공의 성 라퓨타"
+    ]
+  },
+  {
+    "title": "銀河探査2100年 ボーダープラネット",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河探查2100年 Border Planet",
+        "死亡之谜"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-08-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1986-08-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "112592"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003297",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1986,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1022/135052.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1022/135052t.jpg",
+    "synonyms": [
+      "24 Hour TV Specials",
+      "Galaxy Investigation 2100: Border Planet",
+      "Ginga Tansa 2100 Toshi: Border Planet",
+      "Ginga Tansa 2100-nen Border Planet",
+      "Ginga Tansa Nisenhyaku-nen: Border Planet",
+      "Ginga Tansa Nisenhyakunen: Border Planet",
+      "銀河探査2100年 ボーダープラネット",
+      "銀河探査２１００年 ボーダープラネット"
     ]
   }
 ]

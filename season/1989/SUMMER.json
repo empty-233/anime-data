@@ -20,34 +20,6 @@
       {
         "site": "bangumi",
         "id": "37033"
-      },
-      {
-        "site": "anidb",
-        "id": "2891"
-      },
-      {
-        "site": "anidb",
-        "id": "3544"
-      },
-      {
-        "site": "anilist",
-        "id": "129595"
-      },
-      {
-        "site": "anime-planet",
-        "id": "megazone-23"
-      },
-      {
-        "site": "anime-planet",
-        "id": "megazone-23-part-2"
-      },
-      {
-        "site": "anime-planet",
-        "id": "megazone-23-xi"
-      },
-      {
-        "site": "anisearch",
-        "id": "1848"
       }
     ],
     "animeSeason": {
@@ -92,30 +64,6 @@
         "site": "nicovideo",
         "id": "midoriyama",
         "begin": "2016-08-01T06:00:00.000Z"
-      },
-      {
-        "site": "anidb",
-        "id": "7465"
-      },
-      {
-        "site": "anilist",
-        "id": "8522"
-      },
-      {
-        "site": "anime-planet",
-        "id": "midoriyama-koukou-koushien-hen-movie"
-      },
-      {
-        "site": "kitsu",
-        "id": "5371"
-      },
-      {
-        "site": "myanimelist",
-        "id": "8522"
-      },
-      {
-        "site": "notify",
-        "id": "u5xipFmiR"
       }
     ],
     "animeSeason": {
@@ -161,6 +109,12 @@
         "site": "bilibili",
         "id": "2059",
         "begin": "2002-10-07T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003412",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -176,6 +130,48 @@
       "エンジェルコップ",
       "エンゼルコップ",
       "エンゼル・コップ"
+    ]
+  },
+  {
+    "title": "ハローキティとミミィのハッピーバースデー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凯蒂和咪咪的快乐生日"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-09-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-09-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "314191"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093077",
+        "begin": "2023-10-01T03:00:00.000Z",
+        "broadcast": "R/2023-10-01T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1989,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/58717.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/58717t.jpg",
+    "synonyms": [
+      "Hello Kitty - Contos Originais - Festa de Anos Com a Kitty e a Mimmy",
+      "Hello Kitty to Mimmy no Happy Birthday",
+      "キティとミミィのハッピーバースデー",
+      "ハローキティとミミィのハッピーバースデー"
     ]
   },
   {
@@ -219,86 +215,6 @@
         "id": "110993",
         "begin": "2020-04-21T04:00:00.000Z",
         "broadcast": "R/2020-04-21T04:00:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "3636"
-      },
-      {
-        "site": "anidb",
-        "id": "3637"
-      },
-      {
-        "site": "anilist",
-        "id": "3837"
-      },
-      {
-        "site": "anilist",
-        "id": "4807"
-      },
-      {
-        "site": "anime-planet",
-        "id": "chou-mashin-eiyuuden-wataru"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mashin-eiyuuden-wataru"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mashin-eiyuuden-wataru-2"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mashin-eiyuuden-wataru-owarinaki-toki-no-monogatari"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mashin-eiyuuden-wataru-soukaizen-eiyuu-densetsu"
-      },
-      {
-        "site": "anisearch",
-        "id": "2288"
-      },
-      {
-        "site": "anisearch",
-        "id": "4978"
-      },
-      {
-        "site": "kitsu",
-        "id": "3289"
-      },
-      {
-        "site": "kitsu",
-        "id": "3797"
-      },
-      {
-        "site": "livechart",
-        "id": "10727"
-      },
-      {
-        "site": "livechart",
-        "id": "9691"
-      },
-      {
-        "site": "livechart",
-        "id": "9805"
-      },
-      {
-        "site": "livechart",
-        "id": "9806"
-      },
-      {
-        "site": "myanimelist",
-        "id": "3837"
-      },
-      {
-        "site": "notify",
-        "id": "BgY_cFimg"
-      },
-      {
-        "site": "notify",
-        "id": "x9drcFimR"
       }
     ],
     "animeSeason": {
@@ -347,192 +263,10 @@
         "begin": ""
       },
       {
-        "site": "anidb",
-        "id": "1530"
-      },
-      {
-        "site": "anilist",
-        "id": "138864"
-      },
-      {
-        "site": "anilist",
-        "id": "813"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-episode-of-bardock"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-plan-to-destroy-the-saiyajin"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-yo-the-return-of-son-goku-and-friends"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-z"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-z-atsumare-goku-world"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-z-battle-of-gods"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-z-kai"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-z-kai-bring-peace-to-the-future-gokus-spirit-is-eternal"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-z-kai-the-final-chapters"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-z-movie-10-broly-second-coming"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-z-movie-11-bio-broly"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-z-movie-12-fusion-reborn"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-z-movie-13-wrath-of-the-dragon"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-z-movie-15-resurrection-f"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-z-movie-2-the-world-s-strongest"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-z-movie-3-the-tree-of-might"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-z-movie-4-lord-slug"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-z-movie-5-cooler-s-revenge"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-z-movie-6-return-of-cooler"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-z-movie-7-super-android-13"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-z-movie-8-broly-the-legendary-super-saiyan"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-z-movie-9-bojack-unbound"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-z-plan-to-destroy-the-saiyajin"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-z-special-1-bardock-the-father-of-goku"
-      },
-      {
-        "site": "anime-planet",
-        "id": "dragon-ball-z-special-2-the-history-of-trunks"
-      },
-      {
-        "site": "anisearch",
-        "id": "2938"
-      },
-      {
-        "site": "kitsu",
-        "id": "720"
-      },
-      {
-        "site": "livechart",
-        "id": "3632"
-      },
-      {
-        "site": "livechart",
-        "id": "4152"
-      },
-      {
-        "site": "livechart",
-        "id": "4177"
-      },
-      {
-        "site": "livechart",
-        "id": "4206"
-      },
-      {
-        "site": "livechart",
-        "id": "4264"
-      },
-      {
-        "site": "livechart",
-        "id": "4268"
-      },
-      {
-        "site": "livechart",
-        "id": "4287"
-      },
-      {
-        "site": "livechart",
-        "id": "4294"
-      },
-      {
-        "site": "livechart",
-        "id": "4304"
-      },
-      {
-        "site": "livechart",
-        "id": "4312"
-      },
-      {
-        "site": "livechart",
-        "id": "4367"
-      },
-      {
-        "site": "livechart",
-        "id": "5074"
-      },
-      {
-        "site": "livechart",
-        "id": "5540"
-      },
-      {
-        "site": "livechart",
-        "id": "5906"
-      },
-      {
-        "site": "livechart",
-        "id": "6390"
-      },
-      {
-        "site": "myanimelist",
-        "id": "813"
-      },
-      {
-        "site": "notify",
-        "id": "ir-05Fmmg"
+        "site": "unext",
+        "id": "SID0010762",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -561,6 +295,7 @@
       "Dragon Ball Z Película 1: Devolvedme a mi Gohan",
       "Dragon Ball Z der Film: Die Todeszone des Garlic Jr.",
       "Dragon Ball Z le Film: À la Poursuite de Garlic",
+      "Dragon Ball Z: A Zona Morta",
       "Dragon Ball Z: Dead Zone",
       "Dragon Ball Z: Devolva-me Gohan",
       "Dragon Ball Z: Die Todeszone des Garlic Jr.",
@@ -622,30 +357,6 @@
         "id": "60027106",
         "begin": "2020-01-30T16:00:00.000Z",
         "broadcast": "R/2020-01-30T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "anilist",
-        "id": "101099"
-      },
-      {
-        "site": "anime-planet",
-        "id": "hungry-days-aoharu-ka-yo"
-      },
-      {
-        "site": "anisearch",
-        "id": "12554"
-      },
-      {
-        "site": "kitsu",
-        "id": "13579"
-      },
-      {
-        "site": "myanimelist",
-        "id": "35770"
-      },
-      {
-        "site": "notify",
-        "id": "EoF42FiiR"
       }
     ],
     "animeSeason": {
@@ -746,132 +457,10 @@
         "broadcast": "R/2020-08-06T06:35:00.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "1518"
-      },
-      {
-        "site": "anidb",
-        "id": "395"
-      },
-      {
-        "site": "anidb",
-        "id": "537"
-      },
-      {
-        "site": "anilist",
-        "id": "1288"
-      },
-      {
-        "site": "anilist",
-        "id": "1290"
-      },
-      {
-        "site": "anilist",
-        "id": "2733"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-police-patlabor-minimum-minipato"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-police-patlabor-reboot"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mobile-suit-sd-gundam-no-gyakushuu-sd-sengokuden-abaowakuujou-no-shou"
-      },
-      {
-        "site": "anime-planet",
-        "id": "patlabor-2-the-movie"
-      },
-      {
-        "site": "anime-planet",
-        "id": "patlabor-the-mobile-police"
-      },
-      {
-        "site": "anime-planet",
-        "id": "patlabor-the-mobile-police-new-files"
-      },
-      {
-        "site": "anime-planet",
-        "id": "patlabor-the-mobile-police-tv"
-      },
-      {
-        "site": "anime-planet",
-        "id": "patlabor-wxiii"
-      },
-      {
-        "site": "anisearch",
-        "id": "2835"
-      },
-      {
-        "site": "anisearch",
-        "id": "3128"
-      },
-      {
-        "site": "kitsu",
-        "id": "1162"
-      },
-      {
-        "site": "kitsu",
-        "id": "12470"
-      },
-      {
-        "site": "kitsu",
-        "id": "981"
-      },
-      {
-        "site": "livechart",
-        "id": "2266"
-      },
-      {
-        "site": "livechart",
-        "id": "2730"
-      },
-      {
-        "site": "livechart",
-        "id": "4349"
-      },
-      {
-        "site": "livechart",
-        "id": "4863"
-      },
-      {
-        "site": "livechart",
-        "id": "4942"
-      },
-      {
-        "site": "livechart",
-        "id": "5148"
-      },
-      {
-        "site": "livechart",
-        "id": "5473"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1096"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1288"
-      },
-      {
-        "site": "myanimelist",
-        "id": "33741"
-      },
-      {
-        "site": "notify",
-        "id": "GdYxcFmiR"
-      },
-      {
-        "site": "notify",
-        "id": "q1azhKmmR"
-      },
-      {
-        "site": "notify",
-        "id": "ubXJ5Fmmg"
+        "site": "unext",
+        "id": "SID0014487",
+        "begin": "2018-06-04T03:00:00.000Z",
+        "broadcast": "R/2018-06-04T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -913,6 +502,101 @@
     ]
   },
   {
+    "title": "悪魔くん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恶魔小子"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://lineup.toei-anim.co.jp/ja/movie/movie_akumakun/",
+    "begin": "1989-07-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-07-14T16:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "418082"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003188",
+        "begin": "2020-01-11T03:00:00.000Z",
+        "broadcast": "R/2020-01-11T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1989,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/21276.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/21276t.jpg",
+    "synonyms": [
+      "Akuma-kun (1989)",
+      "Akuma-kun Movie",
+      "Devil Boy",
+      "Devil Boy (1989)",
+      "akuma movie",
+      "あくまくん",
+      "恶魔小子（1989）",
+      "悪魔くん",
+      "悪魔くん (1989)",
+      "悪魔くん (Movie)",
+      "悪魔くん （1989）"
+    ]
+  },
+  {
+    "title": "ハローキティのシンデレラ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凯蒂猫的灰姑娘"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-07-21T16:00:00.000Z",
+    "end": "1989-07-21T16:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "285396"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093067",
+        "begin": "2023-10-01T03:00:00.000Z",
+        "broadcast": "R/2023-10-01T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1989,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/72447.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/72447t.jpg",
+    "synonyms": [
+      "Hello Kitty and Friends: Cinderella",
+      "Hello Kitty e os Seus Amigos - Hello Kitty: Cinderela",
+      "Hello Kitty in Cinderella",
+      "Hello Kitty y sus Amigos: Cenicienta",
+      "Hello Kitty`s Animation Theater 9",
+      "Hello Kitty’s Animation Theater 9a",
+      "Sanrio Animation World Masterpiece Theater 9a",
+      "サンリオアニメ世界名作劇場 9a",
+      "ハローキティのシンデレラ"
+    ]
+  },
+  {
     "title": "昆虫物語みなしごハッチ",
     "titleTranslate": {
       "zh-Hans": [
@@ -936,76 +620,10 @@
         "id": "11191"
       },
       {
-        "site": "anidb",
-        "id": "3366"
-      },
-      {
-        "site": "anilist",
-        "id": "3858"
-      },
-      {
-        "site": "anilist",
-        "id": "8141"
-      },
-      {
-        "site": "anime-planet",
-        "id": "konchuu-monogatari-minashigo-hutch"
-      },
-      {
-        "site": "anime-planet",
-        "id": "konchuu-monogatari-mitsubachi-hutch-yuuki-no-melody"
-      },
-      {
-        "site": "anime-planet",
-        "id": "shin-minashigo-hutch"
-      },
-      {
-        "site": "anisearch",
-        "id": "3210"
-      },
-      {
-        "site": "kitsu",
-        "id": "3304"
-      },
-      {
-        "site": "kitsu",
-        "id": "5211"
-      },
-      {
-        "site": "livechart",
-        "id": "11705"
-      },
-      {
-        "site": "livechart",
-        "id": "11706"
-      },
-      {
-        "site": "livechart",
-        "id": "11708"
-      },
-      {
-        "site": "livechart",
-        "id": "11709"
-      },
-      {
-        "site": "livechart",
-        "id": "11710"
-      },
-      {
-        "site": "myanimelist",
-        "id": "3858"
-      },
-      {
-        "site": "myanimelist",
-        "id": "8141"
-      },
-      {
-        "site": "notify",
-        "id": "ByrzpFiig"
-      },
-      {
-        "site": "notify",
-        "id": "teE_cKimR"
+        "site": "unext",
+        "id": "SID0017887",
+        "begin": "2022-04-16T03:00:00.000Z",
+        "broadcast": "R/2022-04-16T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {

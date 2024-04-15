@@ -22,46 +22,6 @@
         "id": "3150",
         "begin": "2015-12-06T14:22:00.000Z",
         "broadcast": "R/2015-12-06T14:22:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "40"
-      },
-      {
-        "site": "anilist",
-        "id": "1251"
-      },
-      {
-        "site": "anime-planet",
-        "id": "nadia-secret-of-blue-water"
-      },
-      {
-        "site": "anime-planet",
-        "id": "nadia-secret-of-the-blue-water-specials"
-      },
-      {
-        "site": "anisearch",
-        "id": "355"
-      },
-      {
-        "site": "kitsu",
-        "id": "1126"
-      },
-      {
-        "site": "livechart",
-        "id": "4995"
-      },
-      {
-        "site": "livechart",
-        "id": "7062"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1251"
-      },
-      {
-        "site": "notify",
-        "id": "d_0bcKmmR"
       }
     ],
     "animeSeason": {
@@ -99,6 +59,46 @@
       "סוד המים הכחולים",
       "ふしぎの海のナディア 劇場用オリジナル版",
       "蓝宝石之谜 剧场版"
+    ]
+  },
+  {
+    "title": "スローステップ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "含羞草"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-05-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-10-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "25415"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042436",
+        "begin": "2019-08-09T03:00:00.000Z",
+        "broadcast": "R/2019-08-09T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1991,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 5,
+    "picture": "https://cdn.myanimelist.net/images/anime/1/2341.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1/2341t.jpg",
+    "synonyms": [
+      "Ступеньки",
+      "スローステップ"
     ]
   }
 ]

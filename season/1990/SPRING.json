@@ -37,104 +37,10 @@
         "begin": ""
       },
       {
-        "site": "anidb",
-        "id": "137"
-      },
-      {
-        "site": "anidb",
-        "id": "1478"
-      },
-      {
-        "site": "anidb",
-        "id": "607"
-      },
-      {
-        "site": "anilist",
-        "id": "1150"
-      },
-      {
-        "site": "anilist",
-        "id": "206"
-      },
-      {
-        "site": "anilist",
-        "id": "20795"
-      },
-      {
-        "site": "anilist",
-        "id": "515"
-      },
-      {
-        "site": "anime-planet",
-        "id": "legend-of-crystania-the-chaos-ring"
-      },
-      {
-        "site": "anime-planet",
-        "id": "legend-of-crystania-the-motion-picture"
-      },
-      {
-        "site": "anime-planet",
-        "id": "meshimase-lodoss-tou-senki-sorette-oishii-no"
-      },
-      {
-        "site": "anime-planet",
-        "id": "record-of-lodoss-war-chronicles-of-the-heroic-knight"
-      },
-      {
-        "site": "anime-planet",
-        "id": "rune-soldier"
-      },
-      {
-        "site": "anisearch",
-        "id": "1347"
-      },
-      {
-        "site": "anisearch",
-        "id": "2174"
-      },
-      {
-        "site": "anisearch",
-        "id": "2691"
-      },
-      {
-        "site": "kitsu",
-        "id": "182"
-      },
-      {
-        "site": "kitsu",
-        "id": "8394"
-      },
-      {
-        "site": "livechart",
-        "id": "465"
-      },
-      {
-        "site": "livechart",
-        "id": "5778"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1150"
-      },
-      {
-        "site": "myanimelist",
-        "id": "206"
-      },
-      {
-        "site": "myanimelist",
-        "id": "23229"
-      },
-      {
-        "site": "myanimelist",
-        "id": "515"
-      },
-      {
-        "site": "notify",
-        "id": "JRk25KmmR"
-      },
-      {
-        "site": "notify",
-        "id": "vXM0pFmmg"
+        "site": "unext",
+        "id": "SID0013505",
+        "begin": "2018-05-10T03:00:00.000Z",
+        "broadcast": "R/2018-05-10T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -217,6 +123,50 @@
     ]
   },
   {
+    "title": "魔法のエンジェルスイートミント",
+    "titleTranslate": {
+      "zh-Hans": [
+        "欢欢仙子"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-05-01T16:00:00.000Z",
+    "broadcast": "R/1990-05-01T16:00:00.000Z/P7D",
+    "end": "1991-03-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "11731"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004945",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1990,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 47,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/26109.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/26109t.jpg",
+    "synonyms": [
+      "Dolceluna",
+      "Magical Angel Sweet Mint",
+      "Mahō no Angel Sweet Mint",
+      "Sweet Mint",
+      "魔法のエンジェル スイートミント",
+      "魔法のエンジェルスイートミント"
+    ]
+  },
+  {
     "title": "楽しいムーミン一家",
     "titleTranslate": {
       "zh-Hans": [
@@ -237,118 +187,6 @@
         "site": "letv",
         "id": "10005863",
         "begin": ""
-      },
-      {
-        "site": "anidb",
-        "id": "1008"
-      },
-      {
-        "site": "anidb",
-        "id": "1010"
-      },
-      {
-        "site": "anidb",
-        "id": "3570"
-      },
-      {
-        "site": "anilist",
-        "id": "2313"
-      },
-      {
-        "site": "anilist",
-        "id": "5712"
-      },
-      {
-        "site": "anilist",
-        "id": "8234"
-      },
-      {
-        "site": "anilist",
-        "id": "8235"
-      },
-      {
-        "site": "anime-planet",
-        "id": "comet-in-moominland"
-      },
-      {
-        "site": "anime-planet",
-        "id": "moomin"
-      },
-      {
-        "site": "anime-planet",
-        "id": "moomin-1972"
-      },
-      {
-        "site": "anime-planet",
-        "id": "tanoshii-moomin-ikka-bouken-nikki"
-      },
-      {
-        "site": "anisearch",
-        "id": "16"
-      },
-      {
-        "site": "anisearch",
-        "id": "2029"
-      },
-      {
-        "site": "kitsu",
-        "id": "2095"
-      },
-      {
-        "site": "kitsu",
-        "id": "4253"
-      },
-      {
-        "site": "kitsu",
-        "id": "5258"
-      },
-      {
-        "site": "kitsu",
-        "id": "5259"
-      },
-      {
-        "site": "livechart",
-        "id": "11264"
-      },
-      {
-        "site": "livechart",
-        "id": "6955"
-      },
-      {
-        "site": "livechart",
-        "id": "9122"
-      },
-      {
-        "site": "myanimelist",
-        "id": "2313"
-      },
-      {
-        "site": "myanimelist",
-        "id": "5712"
-      },
-      {
-        "site": "myanimelist",
-        "id": "8234"
-      },
-      {
-        "site": "myanimelist",
-        "id": "8235"
-      },
-      {
-        "site": "notify",
-        "id": "ewTEcFmmg"
-      },
-      {
-        "site": "notify",
-        "id": "gj_jcFmiR"
-      },
-      {
-        "site": "notify",
-        "id": "uZWitKiig"
-      },
-      {
-        "site": "notify",
-        "id": "wemmpFmmR"
       }
     ],
     "animeSeason": {
@@ -445,72 +283,10 @@
         "broadcast": "R/2021-10-22T06:00:00.000Z/P7D"
       },
       {
-        "site": "anidb",
-        "id": "603"
-      },
-      {
-        "site": "anilist",
-        "id": "104067"
-      },
-      {
-        "site": "anilist",
-        "id": "1252"
-      },
-      {
-        "site": "anilist",
-        "id": "3381"
-      },
-      {
-        "site": "anime-planet",
-        "id": "nadia-secret-of-the-blue-water-specials"
-      },
-      {
-        "site": "anime-planet",
-        "id": "nadia-the-motion-picture"
-      },
-      {
-        "site": "anisearch",
-        "id": "3170"
-      },
-      {
-        "site": "anisearch",
-        "id": "8597"
-      },
-      {
-        "site": "kitsu",
-        "id": "1127"
-      },
-      {
-        "site": "kitsu",
-        "id": "2970"
-      },
-      {
-        "site": "kitsu",
-        "id": "46963"
-      },
-      {
-        "site": "livechart",
-        "id": "7030"
-      },
-      {
-        "site": "livechart",
-        "id": "7062"
-      },
-      {
-        "site": "myanimelist",
-        "id": "1252"
-      },
-      {
-        "site": "myanimelist",
-        "id": "3381"
-      },
-      {
-        "site": "notify",
-        "id": "RybQcKimR"
-      },
-      {
-        "site": "notify",
-        "id": "aqAb5KiiR"
+        "site": "unext",
+        "id": "SID0003261",
+        "begin": "2018-12-18T03:00:00.000Z",
+        "broadcast": "R/2018-12-18T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -537,6 +313,7 @@
       "Nadia - Tajemnica Błękitnego Kamienia [pl]",
       "Nadia - Tajemnica niebieskiego kamienia",
       "Nadia - Tajemnica niebieskiego kamienia [pl]",
+      "Nadia e il Mistero della Pietra Azzurra",
       "Nadia of the Mysterious Seas",
       "Nadia of the Mysterious Seas [en]",
       "Nadia und die Macht des Zaubersteins",
@@ -564,6 +341,7 @@
       "Nadia: el Secreto del Agua Azul [es]",
       "Nadja z tajemných moří",
       "Nadja z tajemných moří [cz]",
+      "Tajemnica Błękitnego Kamienia",
       "The Secret of Blue Water",
       "The Secret of Blue Water [en]",
       "nadia tv",
@@ -579,6 +357,139 @@
       "冒險少女娜汀亞 [zh]",
       "蓝宝石之谜",
       "신비한 바다의 나디아"
+    ]
+  },
+  {
+    "title": "アイドル天使ようこそようこ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像天使阳子",
+        "小俏妞"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-04-01T16:00:00.000Z",
+    "broadcast": "R/1990-04-01T16:00:00.000Z/P7D",
+    "end": "1991-02-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "11730"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004951",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1990,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 43,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/46103.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/46103t.jpg",
+    "synonyms": [
+      "Diventeremo famose",
+      "Idol Angel Hello Yoko",
+      "Idol Angel Welcome Yoko",
+      "Idol Tenshi Youkoso Yoko",
+      "Idol Tenshi Yōkoso Yōko",
+      "Las aventuras de Yoko y Saki",
+      "Привет! Звездният ангел Йоко",
+      "アイドル天使 ようこそようこ",
+      "アイドル天使ようこそようこ",
+      "偶像天使阳子"
+    ]
+  },
+  {
+    "title": "SDガンダム外伝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "SD高达外传",
+        "机动战士SD高达外传",
+        "骑士高达"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-04-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-04-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "131171"
+      },
+      {
+        "site": "unext",
+        "id": "SID0077806",
+        "begin": "2023-01-26T15:00:00.000Z",
+        "broadcast": "R/2023-01-26T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1990,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 4,
+    "picture": "https://cdn.myanimelist.net/images/anime/1047/138664.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1047/138664t.jpg",
+    "synonyms": [
+      "Gundam: Kidou Senshi SD Gundam Gaiden",
+      "Kidou Senshi SD Gundam Gaiden",
+      "Kidō Senshi SD Gundam Gaiden",
+      "Mobile Suit SD Gundam Sidestory",
+      "SD Gundam Sidestory",
+      "SDガンダム外伝",
+      "機動戦士SDガンダム外伝"
+    ]
+  },
+  {
+    "title": "ガタピシ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-04-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-03-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "309551"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012681",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1990,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 199,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/53871.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/53871t.jpg",
+    "synonyms": [
+      "Gatapin",
+      "Pesuke Gatapishi Monogatari",
+      "ガタピシ"
     ]
   },
   {
@@ -621,78 +532,6 @@
         "id": "31779",
         "begin": "2020-10-26T05:00:00.000Z",
         "broadcast": "R/2020-10-26T05:00:00.000Z/P7D"
-      },
-      {
-        "site": "anidb",
-        "id": "5755"
-      },
-      {
-        "site": "anidb",
-        "id": "5795"
-      },
-      {
-        "site": "anilist",
-        "id": "3432"
-      },
-      {
-        "site": "anilist",
-        "id": "3837"
-      },
-      {
-        "site": "anilist",
-        "id": "9403"
-      },
-      {
-        "site": "anime-planet",
-        "id": "chou-mashin-eiyuuden-wataru"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mashin-eiyuuden-wataru"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mashin-eiyuuden-wataru-owarinaki-toki-no-monogatari"
-      },
-      {
-        "site": "anime-planet",
-        "id": "mashin-eiyuuden-wataru-soukaizen-eiyuu-densetsu"
-      },
-      {
-        "site": "anime-planet",
-        "id": "shin-mashin-eiyuuden-wataru-majinzan"
-      },
-      {
-        "site": "anisearch",
-        "id": "2288"
-      },
-      {
-        "site": "kitsu",
-        "id": "5049"
-      },
-      {
-        "site": "kitsu",
-        "id": "5722"
-      },
-      {
-        "site": "myanimelist",
-        "id": "3432"
-      },
-      {
-        "site": "myanimelist",
-        "id": "3837"
-      },
-      {
-        "site": "myanimelist",
-        "id": "7601"
-      },
-      {
-        "site": "notify",
-        "id": "-7kGtFmmR"
-      },
-      {
-        "site": "notify",
-        "id": "H-4ktKimR"
       }
     ],
     "animeSeason": {

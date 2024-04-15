@@ -35,144 +35,10 @@
         "begin": "2011-06-23T15:00:00.000Z"
       },
       {
-        "site": "anidb",
-        "id": "1312"
-      },
-      {
-        "site": "anidb",
-        "id": "8311"
-      },
-      {
-        "site": "anilist",
-        "id": "10689"
-      },
-      {
-        "site": "anilist",
-        "id": "10693"
-      },
-      {
-        "site": "anilist",
-        "id": "54"
-      },
-      {
-        "site": "anilist",
-        "id": "937"
-      },
-      {
-        "site": "anime-planet",
-        "id": "appleseed"
-      },
-      {
-        "site": "anime-planet",
-        "id": "appleseed-alpha"
-      },
-      {
-        "site": "anime-planet",
-        "id": "appleseed-ex-machina"
-      },
-      {
-        "site": "anime-planet",
-        "id": "appleseed-movie"
-      },
-      {
-        "site": "anime-planet",
-        "id": "appleseed-xiii-remix-movie-1-tartaros"
-      },
-      {
-        "site": "anime-planet",
-        "id": "appleseed-xiii-remix-movie-2-ouranos"
-      },
-      {
-        "site": "anisearch",
-        "id": "1921"
-      },
-      {
-        "site": "anisearch",
-        "id": "6976"
-      },
-      {
-        "site": "kitsu",
-        "id": "35"
-      },
-      {
-        "site": "kitsu",
-        "id": "6295"
-      },
-      {
-        "site": "kitsu",
-        "id": "6298"
-      },
-      {
-        "site": "kitsu",
-        "id": "834"
-      },
-      {
-        "site": "kitsu",
-        "id": "8505"
-      },
-      {
-        "site": "livechart",
-        "id": "5158"
-      },
-      {
-        "site": "livechart",
-        "id": "5835"
-      },
-      {
-        "site": "livechart",
-        "id": "5949"
-      },
-      {
-        "site": "livechart",
-        "id": "6982"
-      },
-      {
-        "site": "livechart",
-        "id": "7109"
-      },
-      {
-        "site": "livechart",
-        "id": "7200"
-      },
-      {
-        "site": "myanimelist",
-        "id": "10689"
-      },
-      {
-        "site": "myanimelist",
-        "id": "10693"
-      },
-      {
-        "site": "myanimelist",
-        "id": "22677"
-      },
-      {
-        "site": "myanimelist",
-        "id": "54"
-      },
-      {
-        "site": "myanimelist",
-        "id": "937"
-      },
-      {
-        "site": "notify",
-        "id": "1ZJVpFiiR"
-      },
-      {
-        "site": "notify",
-        "id": "5SHpcFimg"
-      },
-      {
-        "site": "notify",
-        "id": "9O4JcKmig"
-      },
-      {
-        "site": "notify",
-        "id": "KA1VtKmmR"
-      },
-      {
-        "site": "notify",
-        "id": "yP-AtKmig"
+        "site": "unext",
+        "id": "SID0010845",
+        "begin": "2021-01-18T03:00:00.000Z",
+        "broadcast": "R/2021-01-18T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -211,50 +77,6 @@
       {
         "site": "bangumi",
         "id": "10650"
-      },
-      {
-        "site": "anidb",
-        "id": "6244"
-      },
-      {
-        "site": "anilist",
-        "id": "5507"
-      },
-      {
-        "site": "anime-planet",
-        "id": "valkyria-chronicles"
-      },
-      {
-        "site": "anime-planet",
-        "id": "valkyria-chronicles-gallian-chronicles-theater"
-      },
-      {
-        "site": "anisearch",
-        "id": "5159"
-      },
-      {
-        "site": "kitsu",
-        "id": "4130"
-      },
-      {
-        "site": "livechart",
-        "id": "3887"
-      },
-      {
-        "site": "livechart",
-        "id": "5287"
-      },
-      {
-        "site": "livechart",
-        "id": "8048"
-      },
-      {
-        "site": "myanimelist",
-        "id": "5507"
-      },
-      {
-        "site": "notify",
-        "id": "wcJCcFmmg"
       }
     ],
     "animeSeason": {
@@ -363,6 +185,65 @@
       "JJ萌艺社",
       "Yuruani",
       "だぶるじぇい"
+    ]
+  },
+  {
+    "title": "劇場版 そらのおとしもの 時計じかけの哀女神",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天降之物 计时的悲伤女神",
+        "天降之物剧场版 发条装置之哀女神"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kadokawa-anime.jp/soraoto/",
+    "begin": "2011-06-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2011-06-24T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "12576"
+      },
+      {
+        "site": "unext",
+        "id": "SID0035237",
+        "begin": "2018-06-21T03:00:00.000Z",
+        "broadcast": "R/2018-06-21T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2011,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1551/112732.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1551/112732t.jpg",
+    "synonyms": [
+      "Gekijouban Sora no Otoshimono: Tokeijikake no Angeloid",
+      "Gekijōban Sora no Otoshimono: Tokeijikake no Angeloid",
+      "Heaven's Lost Property Movie",
+      "Heaven's Lost Property Movie 1: The Angeloid of Clockwork",
+      "Heaven's Lost Property the Movie: The Angeloid of Clockwork",
+      "Heaven's Lost Property: Angeloid of Clockwork",
+      "Heaven`s Lost Property: The Angeloid of Clockwork",
+      "Heaven’s Lost Property the Movie: The Angeloid of Clockwork",
+      "Lost Property of the Sky Movie",
+      "Misplaced by Heaven",
+      "Misplaced by Heaven Movie",
+      "Sora no Otoshimono Movie 1: Tokeijikake no Angeloid",
+      "Sora no Otoshimono the Movie: The Angeloid of Clockwork",
+      "Sora no Otoshimono: The Movie",
+      "soraoto movie",
+      "そらのおとしもの 時計じかけの哀女神[エンジェロイド]",
+      "劇場版 そらのおとしもの 時計じかけの哀女神",
+      "劇場版 そらのおとしもの 時計じかけの哀女神[エンジェロイド]",
+      "劇場版 そらのおとしもの 時計じかけの哀女神（エンジェロイド）",
+      "天降之物 计时的悲伤女神"
     ]
   }
 ]
