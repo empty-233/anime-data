@@ -114,13 +114,14 @@ bangumi_data_paths.map((path) => {
         typeMatching.length !== 0
           ? typeMatching[typeMatching.length - 1]
           : aods[aods.length - 1];
-      aod.relations.map((url) => {
-        const result = splitUrl(url);
-        bangumiData.sites.push({
-          site: result.domain,
-          id: result.path,
+      if (aod.relations)
+        aod.relations.map((url) => {
+          const result = splitUrl(url);
+          bangumiData.sites.push({
+            site: result.domain,
+            id: result.path,
+          });
         });
-      });
       const data = {
         ...bangumiData,
         animeSeason: {
