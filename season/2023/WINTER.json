@@ -988,6 +988,7 @@
       "In/Spectre 2nd Season",
       "In/Spectre Season 2",
       "In/Spectre: Season 2",
+      "In/Spectre: Staffel 2",
       "Kyokou Suiri 2",
       "Kyokou Suiri 2nd Season",
       "Kyokō Suiri 2",
@@ -1305,6 +1306,12 @@
         "id": "SID0076913",
         "begin": "2023-01-07T03:00:00.000Z",
         "broadcast": "R/2023-01-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81680192",
+        "begin": "2024-04-13T16:00:00.000Z",
+        "broadcast": "R/2024-04-13T16:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1701,6 +1708,12 @@
         "id": "SID0076905",
         "begin": "2023-01-06T17:44:00.000Z",
         "broadcast": "R/2023-01-06T17:44:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "3vSk2Lakbd0J",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -4356,6 +4369,68 @@
     ]
   },
   {
+    "title": "ルパン三世 VS キャッツ・アイ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世 VS 猫眼三姐妹",
+        "鲁邦三世VS猫眼三姐妹"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.lupin-vs-catseye.com/",
+    "begin": "2023-01-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "402370"
+      },
+      {
+        "site": "unext",
+        "id": "SID0101870",
+        "begin": "2024-04-23T15:00:00.000Z",
+        "broadcast": "R/2024-04-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "20165782",
+        "begin": "",
+        "broadcast": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2023,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1326/131658.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1326/131658t.jpg",
+    "synonyms": [
+      "LUPIN THE 3rd VS CAT'S EYE",
+      "LUPIN THE 3rd vs. CAT’S EYE",
+      "Lupin II vs. Ojos de Gato",
+      "Lupin III VS Cat's Eye",
+      "Lupin III vs Occhi di Gatto",
+      "Lupin III vs. Cat’s Eye",
+      "Lupin III vs. Occhi di Gatto",
+      "Lupin III. vs. Ein Supertrio - Cat`s Eye",
+      "Lupin III. vs. Ein Supertrio: Cat’s Eye",
+      "Lupin Sansei vs Cat`s Eye",
+      "Lupin Sansei vs Cat’s Eye",
+      "Lupin the 3rd vs Cat's Eye",
+      "Lupin the 3rd vs. Cat’s Eye",
+      "Lupin the Third vs Cat’s Eye",
+      "ルパン三世 VS キャッツ・アイ",
+      "ルパン三世 VS. キャッツ♥アイ",
+      "ルパン三世VSキャッツ・アイ"
+    ]
+  },
+  {
     "title": "僕とロボコ",
     "titleTranslate": {
       "zh-Hans": [
@@ -4910,6 +4985,7 @@
       "In/Spectre 2nd Season",
       "In/Spectre Season 2",
       "In/Spectre: Season 2",
+      "In/Spectre: Staffel 2",
       "Kyokou Suiri 2",
       "Kyokou Suiri 2nd Season",
       "Kyokō Suiri 2",
