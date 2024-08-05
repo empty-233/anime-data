@@ -3,7 +3,8 @@
     "title": "まぁるい彼女と残念な彼氏",
     "titleTranslate": {
       "zh-Hans": [
-        "棉花糖女孩遇上闷骚男孩"
+        "棉花糖女孩遇上闷骚男孩",
+        "圆满女友和遗憾男友"
       ]
     },
     "type": "tv",
@@ -11,12 +12,24 @@
     "officialSite": "https://animetionid.com/marukano/",
     "begin": "2024-06-07T16:56:00.000Z",
     "broadcast": "R/2024-06-07T16:56:00.000Z/P7D",
-    "end": "",
+    "end": "2024-07-12T17:11:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "491923"
+      },
+      {
+        "site": "unext",
+        "id": "SID0103568",
+        "begin": "2024-06-08T03:00:00.000Z",
+        "broadcast": "R/2024-06-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "54-91",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -32,6 +45,162 @@
       "Chubby girlfriend and pity boyfriend",
       "Mārui Kanojo to Zannen na Kareshi",
       "まぁるい彼女と残念な彼氏"
+    ]
+  },
+  {
+    "title": "範馬刃牙VSケンガンアシュラ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "范马刃牙VS拳愿阿修罗"
+      ],
+      "zh-Hant": [
+        "範馬刃牙 VS 拳願阿修羅"
+      ],
+      "en": [
+        "Baki Hanma VS Kengan Ashura"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.netflix.com/jp-en/title/81648184",
+    "begin": "2024-06-05T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-06-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "486096"
+      },
+      {
+        "site": "netflix",
+        "id": "81648184",
+        "begin": "2024-06-05T16:00:00.000Z",
+        "broadcast": "R/2024-06-05T16:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2024,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1477/142881.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1477/142881t.jpg",
+    "synonyms": [
+      "Baki Hanma VS Kengan Ashura",
+      "Baki Hanma kontra Kegan Ashura",
+      "Baki Hanma kontra Kengan Ashura",
+      "Baki Hanma x Kengan Ashura",
+      "Hanma Baki VS Kengan Ashura",
+      "باكي هانما ضد كينغان آشورا",
+      "ฮันมะ บากิปะทะกำปั้นอสูร โทคิตะ",
+      "範馬刃牙VSケンガンアシュラ",
+      "한마 바키 VS 켄간 아슈라"
+    ]
+  },
+  {
+    "title": "コードギアス 奪還のロゼ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Code Geass 夺还的罗赛"
+      ],
+      "zh-Hant": [
+        "CODE GEASS 奪回的Rozé"
+      ],
+      "en": [
+        "Code Geass: Rozé of the Recapture"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://geass.jp/roze/",
+    "begin": "2024-06-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "500557"
+      },
+      {
+        "site": "disneyplus",
+        "id": "4XHzb6tQBRtd",
+        "begin": "",
+        "broadcast": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2024,
+      "month": "06"
+    },
+    "status": "ONGOING",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1342/142228.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1342/142228t.jpg",
+    "synonyms": [
+      "Code Geass : Rozé of the Recapture",
+      "Code Geass 夺还的罗赛",
+      "Code Geass: Dakkan no Roze",
+      "Code Geass: Dakkan no Z",
+      "Code Geass: Roze of the Recapture",
+      "Code Geass: Rozé of the Recapture",
+      "Code Geass: Rozé y la reconquista",
+      "Code Geass: Z of the Recapture",
+      "コードギアス 奪還のロゼ"
+    ]
+  },
+  {
+    "title": "あたしンちNEXT",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我们这一家NEXT"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://atashinchi30th-anime.shin-ei-animation.jp/",
+    "begin": "2024-06-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "474905"
+      },
+      {
+        "site": "abema",
+        "id": "35-57",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0104458",
+        "begin": "2024-07-05T09:30:00.000Z",
+        "broadcast": "R/2024-07-05T09:30:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2024,
+      "month": "06"
+    },
+    "status": "ONGOING",
+    "episodes": 5,
+    "picture": "https://cdn.myanimelist.net/images/anime/1642/144180.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1642/144180t.jpg",
+    "synonyms": [
+      "Atashin'chi NEXT",
+      "Atashin`chi NEXT",
+      "Atashinchi NEXT",
+      "Atashinchi Next",
+      "Atashin’chi Next",
+      "あたしンちNEXT"
     ]
   }
 ]
