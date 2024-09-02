@@ -1192,11 +1192,6 @@
         "id": "83079"
       },
       {
-        "site": "nicovideo",
-        "id": "captain-earth",
-        "begin": "2014-05-16T12:30:00.000Z"
-      },
-      {
         "site": "bilibili_hk_mo_tw",
         "id": "28228930",
         "begin": "2020-05-18T07:43:00.000Z",
@@ -1263,11 +1258,6 @@
       {
         "site": "bangumi",
         "id": "84171"
-      },
-      {
-        "site": "nicovideo",
-        "id": "haikyu",
-        "begin": "2019-11-30T15:00:00.000Z"
       },
       {
         "site": "bilibili",
@@ -1588,11 +1578,6 @@
       {
         "site": "bangumi",
         "id": "88493"
-      },
-      {
-        "site": "nicovideo",
-        "id": "oneweekfriends",
-        "begin": "2014-04-10T15:00:00.000Z"
       },
       {
         "site": "iqiyi",
@@ -2770,7 +2755,8 @@
         "Is the order a rabbit ?"
       ],
       "zh-Hant": [
-        "請問您今天要來點兔子嗎?"
+        "請問您今天要來點兔子嗎?",
+        "請問您今天要來點兔子嗎？"
       ]
     },
     "type": "tv",
@@ -2824,6 +2810,18 @@
       {
         "site": "mikan",
         "id": "312"
+      },
+      {
+        "site": "gamer",
+        "id": "65516",
+        "begin": "2024-08-09T04:00:00.000Z",
+        "broadcast": "R/2024-08-09T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "65516",
+        "begin": "2024-08-09T04:00:00.000Z",
+        "broadcast": "R/2024-08-09T04:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {

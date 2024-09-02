@@ -30,6 +30,16 @@
         "id": "54-91",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3356"
+      },
+      {
+        "site": "nicovideo",
+        "id": "marukano",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -142,6 +152,8 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1342/142228.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1342/142228t.jpg",
     "synonyms": [
+      "CODE GEASS 奪回的Rozé",
+      "CODE GEASS: Rozé y la reconquista",
       "Code Geass : Rozé of the Recapture",
       "Code Geass 夺还的罗赛",
       "Code Geass: Dakkan no Roze",
@@ -150,7 +162,8 @@
       "Code Geass: Rozé of the Recapture",
       "Code Geass: Rozé y la reconquista",
       "Code Geass: Z of the Recapture",
-      "コードギアス 奪還のロゼ"
+      "コードギアス 奪還のロゼ",
+      "코드 기아스 탈환의 로제"
     ]
   },
   {
@@ -201,6 +214,57 @@
       "Atashinchi Next",
       "Atashin’chi Next",
       "あたしンちNEXT"
+    ]
+  },
+  {
+    "title": "大室家 dear friends",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大室家 亲爱的朋友们"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://ohmuroke.com/",
+    "begin": "2024-06-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-06-20T16:44:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "448657"
+      },
+      {
+        "site": "unext",
+        "id": "SID0148357",
+        "begin": "2024-08-22T15:00:00.000Z",
+        "broadcast": "R/2024-08-22T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2024,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1401/140053.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1401/140053t.jpg",
+    "synonyms": [
+      "OMRK",
+      "Ohmuro Family",
+      "Ohmuro Family, Oomuroke, OMRK",
+      "Ohmuro family",
+      "Ohmuroke",
+      "Oomuro Family",
+      "Oomuro-ke",
+      "Oomuro-ke: dear sisters",
+      "Oomuroke",
+      "Ōmuro-ke",
+      "大室家",
+      "大室家 dear friends",
+      "大室家 dear sisters"
     ]
   }
 ]

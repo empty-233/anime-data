@@ -454,12 +454,6 @@
         "id": "242483"
       },
       {
-        "site": "nicovideo",
-        "id": "waka-okami-movie",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0039863",
         "begin": "2020-06-29T03:00:00.000Z",
@@ -588,7 +582,8 @@
       {
         "site": "nicovideo",
         "id": "mahouritsu-anime",
-        "begin": "2020-03-31T15:00:00.000Z"
+        "begin": "2020-03-31T15:00:00.000Z",
+        "broadcast": "R/2020-03-31T15:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -707,7 +702,8 @@
       {
         "site": "nicovideo",
         "id": "nonnontv-movie",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "unext",
@@ -771,7 +767,8 @@
       {
         "site": "nicovideo",
         "id": "7-taizai-movie",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "netflix",
@@ -861,6 +858,12 @@
         "begin": "2021-10-10T13:00:00.000Z",
         "broadcast": "R/2021-10-10T13:00:00.000Z/P7D",
         "comment": "乾・海堂 vs 宍戸・鳳／大石・菊丸 vs 仁王・柳生: SID0062779, 不二 vs 切原: SID0062780"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tenipri-best-games",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -1296,6 +1299,7 @@
     "synonyms": [
       "ISLAND",
       "ISLAND(アイランド)",
+      "Ilha",
       "Never Island",
       "Остров",
       "アイランド"
@@ -1341,12 +1345,6 @@
         "site": "iqiyi",
         "id": "a_19rrgyth2t",
         "begin": "2018-07-01T15:55:08.000Z"
-      },
-      {
-        "site": "nicovideo",
-        "id": "hanebad",
-        "begin": "2018-07-03T15:00:00.000Z",
-        "broadcast": "R/2018-07-03T15:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -1586,12 +1584,6 @@
         "site": "iqiyi",
         "id": "a_19rrgytgwd",
         "begin": "2018-07-05T13:55:11.000Z"
-      },
-      {
-        "site": "nicovideo",
-        "id": "isekaimaou-anime",
-        "begin": "2018-07-06T03:00:00.000Z",
-        "broadcast": "R/2018-07-06T03:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -2077,12 +2069,6 @@
         "site": "iqiyi",
         "id": "a_19rrgytgjp",
         "begin": "2018-07-08T14:00:00.000Z"
-      },
-      {
-        "site": "nicovideo",
-        "id": "planet-with",
-        "begin": "2018-07-13T03:00:00.000Z",
-        "broadcast": "R/2018-07-13T03:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -2730,12 +2716,6 @@
         "broadcast": "R/2018-07-05T13:30:00.000Z/P7D"
       },
       {
-        "site": "nicovideo",
-        "id": "yume-100",
-        "begin": "2018-07-09T03:00:00.000Z",
-        "broadcast": "R/2018-07-09T03:00:00.000Z/P7D"
-      },
-      {
         "site": "ani_one",
         "id": "PLC18xlbCdwtQXqfEDyDnMwIGzUZvdfJnV",
         "begin": "2022-08-08T16:00:00.000Z",
@@ -2996,6 +2976,18 @@
       {
         "site": "mikan",
         "id": "1689"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "92547",
+        "begin": "2024-08-23T04:00:00.000Z",
+        "broadcast": "R/2024-08-23T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "92547",
+        "begin": "2024-08-23T04:00:00.000Z",
+        "broadcast": "R/2024-08-23T04:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3582,6 +3574,18 @@
       {
         "site": "mikan",
         "id": "1696"
+      },
+      {
+        "site": "gamer",
+        "id": "94801",
+        "begin": "2024-08-14T04:00:00.000Z",
+        "broadcast": "R/2024-08-14T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "94801",
+        "begin": "2024-08-14T04:00:00.000Z",
+        "broadcast": "R/2024-08-14T04:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {

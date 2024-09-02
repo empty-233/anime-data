@@ -1759,12 +1759,6 @@
         "broadcast": "R/2023-07-25T03:30:00.000Z/P7D"
       },
       {
-        "site": "nicovideo",
-        "id": "eiyukyoushitsu-anime",
-        "begin": "2023-07-16T14:00:00.000Z",
-        "broadcast": "R/2023-07-16T14:00:00.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "420-59",
         "begin": "",
@@ -2525,12 +2519,6 @@
         "id": "PLC18xlbCdwtT7h-F5gazkHva6OkKyA_5_",
         "begin": "2023-07-22T10:20:00.000Z",
         "broadcast": "R/2023-07-22T10:20:00.000Z/P7D"
-      },
-      {
-        "site": "nicovideo",
-        "id": "jitsuhaoresaikyo-anime",
-        "begin": "2023-07-07T15:00:00.000Z",
-        "broadcast": "R/2023-07-07T15:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -3643,12 +3631,6 @@
         "broadcast": "R/2023-06-25T14:30:00.000Z/P7D"
       },
       {
-        "site": "nicovideo",
-        "id": "yohane",
-        "begin": "2023-07-02T14:00:00.000Z",
-        "broadcast": "R/2023-07-02T14:00:00.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "13-168",
         "begin": "",
@@ -4476,10 +4458,12 @@
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1696/136634t.jpg",
     "synonyms": [
       "KanoKari 3",
+      "Kanojo",
       "Kanojo, Okarishimasu (2023)",
       "Kanojo, Okarishimasu Dai 3 Ki",
       "Kanojo, Okarishimasu Season 3",
       "Kanokari",
+      "Okarishimasu Season 3",
       "Rent-a-Girlfriend (2023)",
       "Rent-a-Girlfriend (Saison 3)",
       "Rent-a-Girlfriend (Season 3)",
@@ -4547,6 +4531,7 @@
       "Kengan Ashura 2",
       "Kengan Ashura 2nd Season",
       "Kengan Ashura : Saison 2",
+      "Kengan Ashura Season 2 Part 1",
       "Kengan Ashura: Season 2",
       "Kengan Ashura: Staffel 2",
       "Kengan Ashura: Stagione 2",
@@ -4690,8 +4675,9 @@
       },
       {
         "site": "nicovideo",
-        "id": "rurouni-kenshin-tokyo",
-        "begin": "2014-09-13T06:00:00.000Z"
+        "id": "rurouni-kenshin-tvorignal",
+        "begin": "2014-09-13T06:00:00.000Z",
+        "comment": "東京編: rurouni-kenshin-tokyo, 京都編: rurouni-kenshin-kyouto"
       },
       {
         "site": "bilibili",

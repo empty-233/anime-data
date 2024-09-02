@@ -194,7 +194,8 @@
       {
         "site": "nicovideo",
         "id": "kaiju-gk",
-        "begin": "2016-10-04T03:00:00.000Z"
+        "begin": "2016-10-04T03:00:00.000Z",
+        "broadcast": "R/2016-10-04T03:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -324,7 +325,8 @@
       {
         "site": "nicovideo",
         "id": "PERSONA5",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -385,7 +387,8 @@
       {
         "site": "nicovideo",
         "id": "digimon-adventure-tri",
-        "begin": "2016-11-01T15:00:00.000Z"
+        "begin": "2016-11-01T15:00:00.000Z",
+        "broadcast": "R/2016-11-01T15:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -541,7 +544,8 @@
       {
         "site": "nicovideo",
         "id": "koenokatachi",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -642,8 +646,9 @@
       },
       {
         "site": "nicovideo",
-        "id": "magus-bride-movie",
-        "begin": "2020-02-21T01:00:00.000Z"
+        "id": "mahoyome-ova",
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "youku",
@@ -1138,12 +1143,6 @@
         "id": "161710"
       },
       {
-        "site": "nicovideo",
-        "id": "gintama-aizenkouhen1",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0053410",
         "begin": "2023-10-31T15:00:00.000Z",
@@ -1230,6 +1229,7 @@
       "Sinu nimi on...",
       "Teu nome",
       "Tu nombre",
+      "Twoje imię",
       "Twoje imię.",
       "Tên cậu là gì?",
       "Your Name",
@@ -1475,11 +1475,6 @@
         "id": "138440"
       },
       {
-        "site": "nicovideo",
-        "id": "anime-hatsukoimonster",
-        "begin": "2020-09-01T15:00:00.000Z"
-      },
-      {
         "site": "qq",
         "id": "u/u3kwskxncklutmx",
         "begin": ""
@@ -1702,11 +1697,6 @@
         "id": "165553"
       },
       {
-        "site": "nicovideo",
-        "id": "lovelive-sunshine",
-        "begin": ""
-      },
-      {
         "site": "muse_hk",
         "id": "PLuxqoToY7Ucgz1fty5NBlM1wJsLIwev9X",
         "begin": "2022-06-22T16:00:00.000Z",
@@ -1863,11 +1853,6 @@
       {
         "site": "bangumi",
         "id": "136371"
-      },
-      {
-        "site": "nicovideo",
-        "id": "toz-thex-anime",
-        "begin": ""
       },
       {
         "site": "mgtv",
@@ -2610,11 +2595,6 @@
         "id": "123178"
       },
       {
-        "site": "nicovideo",
-        "id": "tabootattoo-anime",
-        "begin": "2016-07-08T03:00:00.000Z"
-      },
-      {
         "site": "unext",
         "id": "SID0025653",
         "begin": "2018-05-31T03:00:00.000Z",
@@ -3087,11 +3067,6 @@
       {
         "site": "bangumi",
         "id": "175402"
-      },
-      {
-        "site": "nicovideo",
-        "id": "cheer-boys",
-        "begin": ""
       },
       {
         "site": "bilibili",
@@ -4161,11 +4136,6 @@
         "id": "168395"
       },
       {
-        "site": "nicovideo",
-        "id": "thunderboltfantasy",
-        "begin": ""
-      },
-      {
         "site": "unext",
         "id": "SID0025743",
         "begin": "2021-05-26T03:00:00.000Z",
@@ -4292,6 +4262,12 @@
       {
         "site": "mikan",
         "id": "788"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "79938",
+        "begin": "2016-07-08T17:40:00.000Z",
+        "broadcast": "R/2016-07-08T17:40:00.000Z/P7D"
       }
     ],
     "animeSeason": {

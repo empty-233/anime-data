@@ -329,12 +329,6 @@
         "id": "38766"
       },
       {
-        "site": "nicovideo",
-        "id": "tenten-anime-uf",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bilibili",
         "id": "3919",
         "begin": "2016-05-03T07:14:00.000Z",
@@ -608,6 +602,12 @@
         "id": "SID0016626",
         "begin": "2019-10-22T03:00:00.000Z",
         "broadcast": "R/2019-10-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "5-66",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -756,7 +756,6 @@
       "gyagu",
       "gyagumanga",
       "ますだこうすけげきじょうぎゃぐまんがびより",
-      "ギャグマンガ日和",
       "増田こうすけ劇場 ギャグマンガ日和",
       "增田幸助剧场 搞笑漫画日和"
     ]
@@ -984,7 +983,8 @@
       {
         "site": "nicovideo",
         "id": "air_anime",
-        "begin": "2018-12-27T15:00:00.000Z"
+        "begin": "2018-12-27T15:00:00.000Z",
+        "broadcast": "R/2018-12-27T15:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -1673,6 +1673,12 @@
         "id": "29784",
         "begin": "2023-06-16T03:10:00.000Z",
         "broadcast": "R/2023-06-16T03:10:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tenipuri-hutarinosamurai",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
