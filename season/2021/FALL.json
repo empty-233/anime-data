@@ -1,5 +1,51 @@
 [
   {
+    "title": "鲤氏侦探事务所",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲤氏侦探事务所"
+      ],
+      "zh-Hant": [
+        "鯉氏偵探事務所"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://ak.hypergryph.com/lee",
+    "begin": "2022-12-23T11:00:00.000Z",
+    "broadcast": "R/2022-12-23T11:00:00.000Z/P7D",
+    "end": "2023-02-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "383649"
+      },
+      {
+        "site": "bilibili",
+        "id": "28351529",
+        "begin": "2022-12-23T11:00:01.000Z",
+        "broadcast": "R/2022-12-23T11:00:01.000Z/P7D",
+        "comment": "中配: 28351530"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2021,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://media.kitsu.app/anime/46063/poster_image/small-98bb9ee1fb4f0d6bb808843eccd1a8df.jpeg",
+    "thumbnail": "https://media.kitsu.app/anime/46063/poster_image/tiny-a574bd5f620f9974dc67ce6f1a3f2ec2.jpeg",
+    "synonyms": [
+      "Lee's Detective Agency: A Day in Lungmen - Home Service",
+      "Lee's Detective Agency: A Day in Lungmen Pilot",
+      "《鲤氏侦探事务所》迷你剧先行短片 - Home Service",
+      "鲤氏侦探事务所"
+    ]
+  },
+  {
     "title": "其れ、則ちスケッチ。",
     "titleTranslate": {
       "zh-Hans": [
@@ -24,10 +70,10 @@
       "year": 2021,
       "month": "04"
     },
-    "status": "ONGOING",
+    "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.anime-planet.com/anime/primary/sore-sunawachi-sketch-1.webp",
-    "thumbnail": "https://cdn.anime-planet.com/anime/primary/sore-sunawachi-sketch-1-285x399.webp",
+    "picture": "https://u.livechart.me/anime/11117/poster_image/3f3e2e5331373e4ab93cede6aca87259.jpg/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/11117/poster_image/3f3e2e5331373e4ab93cede6aca87259.jpg/small.jpg",
     "synonyms": [
       "In Other Words, Sketch",
       "In Other Words, Sketch.",
@@ -39,262 +85,64 @@
     ]
   },
   {
-    "title": "かなしきデブ猫ちゃん",
-    "titleTranslate": {},
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://www.nhk.or.jp/matsuyama/debunekochan/",
-    "begin": "2021-12-19T15:53:00.000Z",
-    "broadcast": "R/2021-12-19T15:53:00.000Z/P7D",
-    "end": "2022-02-28T16:30:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "366528"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2021,
-      "month": "12"
-    },
-    "status": "FINISHED",
-    "episodes": 10,
-    "picture": "https://cdn.myanimelist.net/images/anime/1626/116549.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1626/116549t.jpg",
-    "synonyms": [
-      "The Sad and Fat Cat",
-      "かなしきデブ猫ちゃん"
-    ]
-  },
-  {
-    "title": "魔法科高校の劣等生 追憶編",
+    "title": "平家物語",
     "titleTranslate": {
       "zh-Hans": [
-        "魔法科高校的劣等生 追忆篇"
-      ],
-      "zh-Hant": [
-        "魔法科高中的劣等生: 追憶篇",
-        "魔法科高中的劣等生 追憶篇"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://mahouka.jp/",
-    "begin": "2021-12-31T14:57:00.000Z",
-    "end": "2021-12-31T14:57:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "329436"
-      },
-      {
-        "site": "viu",
-        "id": "416948",
-        "begin": "2021-12-31T16:00:00.000Z",
-        "broadcast": "R/2021-12-31T16:00:00.000Z/P0D"
-      },
-      {
-        "site": "gamer",
-        "id": "120950",
-        "begin": "2021-12-31T16:30:00.000Z",
-        "broadcast": "R/2021-12-31T16:30:00.000Z/P7D"
-      },
-      {
-        "site": "nicovideo",
-        "id": "mahouka-tsuiokuhen",
-        "begin": "2022-01-05T15:00:00.000Z",
-        "broadcast": "R/2022-01-05T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0063372",
-        "begin": "2022-01-05T15:00:00.000Z",
-        "broadcast": "R/2022-01-05T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "120950",
-        "begin": "2021-12-31T16:30:00.000Z",
-        "broadcast": "R/2021-12-31T16:30:00.000Z/P7D"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2021,
-      "month": "12"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1847/120234.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1847/120234t.jpg",
-    "synonyms": [
-      "Mahouka Koukou no Rettousei: Tsuioku Hen",
-      "Mahōka Kōkō no Rettōsei: Tsuioku-hen",
-      "The Irregular at Magic High School : Reminiscence Arc",
-      "The Irregular at Magic High School: Reminiscence Arc",
-      "mahouka special",
-      "พี่น้องปริศนาโรงเรียนมหาเวท ภาคย้อนความหลัง",
-      "魔法科高校の劣等生 追憶編",
-      "魔法科高校的劣等生 追忆篇"
-    ]
-  },
-  {
-    "title": "劇場版 呪術廻戦 0",
-    "titleTranslate": {
-      "zh-Hans": [
-        "咒术回战 0：剧场版"
-      ],
-      "zh-Hant": [
-        "咒術迴戰 0 劇場版",
-        "劇場版咒術迴戰 0",
-        "劇場版 咒術迴戰 0"
+        "平家物语"
       ],
       "en": [
-        "Jujutsu Kaisen 0: The Movie"
+        "The Heike Story",
+        "Heike Monogatari"
       ]
     },
-    "type": "movie",
+    "type": "tv",
     "lang": "ja",
-    "officialSite": "https://jujutsukaisen-movie.jp/",
-    "begin": "2021-12-23T16:00:00.000Z",
-    "end": "2021-12-23T16:00:00.000Z",
+    "officialSite": "https://heike-anime.asmik-ace.co.jp/",
+    "begin": "2022-01-12T16:05:00.000Z",
+    "end": "2022-03-23T16:55:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
-        "id": "331559"
+        "id": "348335"
       },
       {
-        "site": "netflix",
-        "id": "81602834",
-        "begin": "2022-09-20T16:00:00.000Z",
-        "broadcast": "R/2022-09-20T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "bilibili_hk_mo_tw",
-        "id": "28339655",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "nicovideo",
-        "id": "jujutsukaisen-movie",
-        "begin": "2023-02-23T15:00:00.000Z",
-        "broadcast": "R/2023-02-23T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "536-4",
-        "begin": "",
-        "broadcast": ""
+        "site": "bilibili",
+        "id": "28235039",
+        "begin": "2021-09-15T15:00:01.000Z",
+        "broadcast": "R/2021-09-15T15:00:01.000Z/P7D"
       },
       {
         "site": "unext",
-        "id": "SID0078792",
-        "begin": "2023-02-23T15:00:00.000Z",
-        "broadcast": "R/2023-02-23T15:00:00.000Z/P7D"
+        "id": "SID0063381",
+        "begin": "2022-01-13T03:00:00.000Z",
+        "broadcast": "R/2022-01-13T03:00:00.000Z/P7D"
       },
       {
-        "site": "disneyplus",
-        "id": "4JOgJLmNQnNr",
-        "url": "https://www.disneyplus.com/movies/jujutsu-kaisen-0/4JOgJLmNQnNr",
-        "begin": "",
-        "broadcast": ""
+        "site": "bangumi_moe",
+        "id": "61605cf72525b0000763a9a0"
+      },
+      {
+        "site": "mikan",
+        "id": "2543"
       }
     ],
     "animeSeason": {
       "season": "FALL",
       "year": 2021,
-      "month": "12"
+      "month": "01"
     },
     "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1121/119044.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1121/119044t.jpg",
+    "episodes": 11,
+    "picture": "https://u.livechart.me/anime/10774/poster_image/510ab8bdaec9aef6406e822d8bfaa924.webp/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10774/poster_image/510ab8bdaec9aef6406e822d8bfaa924.webp/small.jpg",
     "synonyms": [
-      "Gekijouban Jujutsu Kaisen 0",
-      "Gekijōban Jujutsu Kaisen 0",
-      "JJK 0",
-      "JJK0",
-      "JUJUTSU KAISEN 0",
-      "Jujutsu Kaisen 0",
-      "Jujutsu Kaisen 0: O Filme",
-      "Jujutsu Kaisen 0: Städtische Fachoberschule für Magie Tokyo",
-      "Jujutsu Kaisen 0: The Movie",
-      "Tokyo Metropolitan Magic Technical School",
-      "jjk0",
-      "มหาเวทย์ผนึกมาร : ซีโร่",
-      "‎جوجوتسو كايسن 0",
-      "剧场版 咒术回战 0",
-      "劇場版 呪術廻戦 0",
-      "呪術廻戦 0",
-      "咒术回战0"
-    ]
-  },
-  {
-    "title": "ARIA The BENEDIZIONE",
-    "titleTranslate": {
-      "zh-Hans": [
-        "水星领航员 The BENEDIZIONE"
-      ],
-      "zh-Hant": [
-        "水星領航員 ARIA The BENEDIZIONE"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "https://ariacompany.net",
-    "begin": "2021-12-02T16:00:00.000Z",
-    "end": "2021-12-02T16:00:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "329948"
-      },
-      {
-        "site": "gamer",
-        "id": "116200",
-        "begin": "2022-07-27T04:00:00.000Z",
-        "broadcast": "R/2022-07-27T04:00:00.000Z/P7D"
-      },
-      {
-        "site": "nicovideo",
-        "id": "aria-benedizione",
-        "begin": "2022-07-27T03:00:00.000Z",
-        "broadcast": "R/2022-07-27T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0068989",
-        "begin": "2022-07-27T03:00:00.000Z",
-        "broadcast": "R/2022-07-27T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "116200",
-        "begin": "2022-07-27T04:00:00.000Z",
-        "broadcast": "R/2022-07-27T04:00:00.000Z/P7D"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2021,
-      "month": "12"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1707/117069.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1707/117069t.jpg",
-    "synonyms": [
-      "ARIA The BENEDIZIONE",
-      "Aria7",
-      "Aria: The Final Chapter",
-      "アリア ザ ベネディジオーネ",
-      "水星領航員 The BENEDIZIONE",
-      "水星领航员 The BENEDIZIONE"
+      "The Heike Story",
+      "The Tale of the Heike",
+      "heike",
+      "เรื่องของเฮเกะ",
+      "平家物語",
+      "平家物语"
     ]
   },
   {
@@ -337,8 +185,8 @@
     },
     "status": "FINISHED",
     "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1031/115154.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1031/115154t.jpg",
+    "picture": "https://u.livechart.me/anime/10607/poster_image/bb3f8a01d2115a1ec8a4d5890f97e229.webp/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10607/poster_image/bb3f8a01d2115a1ec8a4d5890f97e229.webp/small.jpg",
     "synonyms": [
       "Given : Celui de l’autre côté",
       "Given OAD",
@@ -346,54 +194,12 @@
       "Given: Can't Say Goodbye, I'm Still Drifting With Your Echoes.",
       "Given: L’esistenza dall’altra parte",
       "Given: On the Other Hand",
+      "Given: Uragawa no Sonzai",
       "Given: on the other hand",
       "[given] Can't Say Goodbye, I'm Still Drifting With Your Echoes.",
       "given - on the other hand",
-      "given: Uragawa no Sonzai",
       "given: on the other hand",
       "ギヴン うらがわの存在"
-    ]
-  },
-  {
-    "title": "フラ・フラダンス",
-    "titleTranslate": {
-      "zh-Hans": [
-        "扶桑花之舞"
-      ],
-      "zh-Hant": [
-        "扶桑花女孩之舞"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "https://hula-fulladance.com",
-    "begin": "2021-12-02T16:00:00.000Z",
-    "end": "2021-12-02T16:00:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "318543"
-      },
-      {
-        "site": "gamer",
-        "id": "114473",
-        "begin": "2023-08-03T16:00:00.000Z",
-        "broadcast": "R/2023-08-03T16:00:00.000Z/P7D"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2021,
-      "month": "12"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1874/117582.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1874/117582t.jpg",
-    "synonyms": [
-      "フラ・フラダンス",
-      "扶桑花之舞"
     ]
   },
   {
@@ -429,15 +235,15 @@
     },
     "status": "FINISHED",
     "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1948/127051.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1948/127051t.jpg",
+    "picture": "https://cdn.anidb.net/images/main/264924.jpg",
+    "thumbnail": "https://cdn.anidb.net/images/main/264924.jpg-thumb.jpg",
     "synonyms": [
       "I Am What I Am",
       "I am What I am",
       "Lion Boy",
       "Xiong Shi Shao Nian",
+      "Xiong Shi Shaonian",
       "Xiong shi shao nian",
-      "Xiongshi Shaonian",
       "雄狮少年"
     ]
   },
@@ -480,8 +286,8 @@
     },
     "status": "FINISHED",
     "episodes": 13,
-    "picture": "https://cdn.myanimelist.net/images/anime/1579/118015.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1579/118015t.jpg",
+    "picture": "https://u.livechart.me/anime/9271/poster_image/90b95df34eac09182f2839a2a17f31ca.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/9271/poster_image/90b95df34eac09182f2839a2a17f31ca.png/small.jpg",
     "synonyms": [
       "Super Ladri",
       "Super ladri",
@@ -541,8 +347,8 @@
     },
     "status": "FINISHED",
     "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1319/117579.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1319/117579t.jpg",
+    "picture": "https://u.livechart.me/anime/10692/poster_image/bcd4d2240fc61a540eddcba2bfbc3049.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10692/poster_image/bcd4d2240fc61a540eddcba2bfbc3049.png/small.jpg",
     "synonyms": [
       "Ghost in the Shell : SAC_2045 - Sustainable War",
       "Ghost in the Shell: SAC_2045",
@@ -620,14 +426,14 @@
     },
     "status": "FINISHED",
     "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1929/117643.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1929/117643t.jpg",
+    "picture": "https://u.livechart.me/anime/10215/poster_image/fc1002df752085e1ab59a60fbbbe97cd.jpg/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10215/poster_image/fc1002df752085e1ab59a60fbbbe97cd.jpg/small.jpg",
     "synonyms": [
       "Eiga Sumikko Gurashi 2",
       "Eiga Sumikko Gurashi: Aoi Tsukiyo no Mahou no Ko",
       "Eiga Sumikko Gurashi: Aoi Tsukiyo no Mahō no Ko",
       "Sumikko Gurashi Movie 2",
-      "Sumikko Gurashi Movie 2: Aoi Tsukiyo no Maho no Ko",
+      "Sumikko Gurashi Movie 2: Aoi Tsukiyo no Mahou no Ko",
       "Sumikko Gurashi Movie: Aoi Tsukiyo no Mahou no Ko",
       "Sumikkogurashi: The Little Wizard in the Blue Moonlight",
       "映画 すみっコぐらし 青い月夜のまほうのコ",
@@ -684,8 +490,8 @@
     },
     "status": "FINISHED",
     "episodes": 3,
-    "picture": "https://cdn.myanimelist.net/images/anime/1763/117761.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1763/117761t.jpg",
+    "picture": "https://u.livechart.me/anime/10672/poster_image/73ff9da51f7ea2f44220a44bfd834638.jpg/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10672/poster_image/73ff9da51f7ea2f44220a44bfd834638.jpg/small.jpg",
     "synonyms": [
       "Hakuoki : Demon of the Fleeting Blossom",
       "Hakuoki ~Demon of the Fleeting Blossom~",
@@ -747,11 +553,11 @@
     },
     "status": "FINISHED",
     "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1651/117943.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1651/117943t.jpg",
+    "picture": "https://u.livechart.me/anime/10426/poster_image/b9dca400374faa979e73a1e058781339.jpg/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10426/poster_image/b9dca400374faa979e73a1e058781339.jpg/small.jpg",
     "synonyms": [
       "Project Common",
-      "SUMMER GHOST",
+      "Summer Ghost",
       "サマーゴースト"
     ]
   },
@@ -839,8 +645,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1541/118798.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1541/118798t.jpg",
+    "picture": "https://u.livechart.me/anime/10654/poster_image/59e83cf07c757bb4fc0e6eb0c2b2769b.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10654/poster_image/59e83cf07c757bb4fc0e6eb0c2b2769b.png/small.jpg",
     "synonyms": [
       "Let's Make a Mug Too 2",
       "Let's Make a Mug Too 2nd Season",
@@ -853,9 +659,9 @@
       "Let’s Make a Mug Too Season 2",
       "Let’s Make a Mug Too Staffel 2",
       "Yaku nara Mug Cup mo Niban Kama",
+      "Yaku nara Mug Cup mo: Niban Gama",
       "Yakunara Mug Cup Mo 2nd Season",
       "Yakunara Mug Cup Mo: Niban Gama",
-      "Yakunara Mug Cup Mo: Niban Kama",
       "Yakunara Mug Cup mo 2nd Season",
       "Yakunara Mug Cup mo Niban Kama",
       "Yakunara Mug Cup mo Nibangama",
@@ -916,8 +722,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1869/118766.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1869/118766t.jpg",
+    "picture": "https://u.livechart.me/anime/10252/poster_image/c428e3508fcc5bcc7a8668c90480ded3.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10252/poster_image/c428e3508fcc5bcc7a8668c90480ded3.png/small.jpg",
     "synonyms": [
       "The Night Beyond the Tricorner Window",
       "The Night Beyond the Tricornered Window",
@@ -1006,8 +812,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1662/118849.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1662/118849t.jpg",
+    "picture": "https://u.livechart.me/anime/10284/poster_image/88ffc510b78ab64c2c444897016fb7f4.jpg/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10284/poster_image/88ffc510b78ab64c2c444897016fb7f4.jpg/small.jpg",
     "synonyms": [
       "Kisah Gadis Zaman Taisho",
       "Taisho Maiden Fairytale",
@@ -1114,8 +920,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1055/118890.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1055/118890t.jpg",
+    "picture": "https://u.livechart.me/anime/10054/poster_image/2b9f185fee515fb420b385895bdd4f17.webp/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10054/poster_image/2b9f185fee515fb420b385895bdd4f17.webp/small.jpg",
     "synonyms": [
       "My Senpai Is Annoying",
       "My Senpai is Annoying",
@@ -1229,13 +1035,13 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1028/117777.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1028/117777t.jpg",
+    "picture": "https://u.livechart.me/anime/10297/poster_image/85ba7e3a92fd25d640904248daf4e514.jpg/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10297/poster_image/85ba7e3a92fd25d640904248daf4e514.jpg/small.jpg",
     "synonyms": [
       "Mushoku Tensei : Jobless Reincarnation Cour 2",
       "Mushoku Tensei: Isekai Ittara Honki Dasu (2021)",
       "Mushoku Tensei: Isekai Ittara Honki Dasu - Part II",
-      "Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Cour",
+      "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
       "Mushoku Tensei: Jobless Reincarnation (2021)",
       "Mushoku Tensei: Jobless Reincarnation (Part 2)",
       "Mushoku Tensei: Jobless Reincarnation (Parte 2)",
@@ -1253,114 +1059,6 @@
       "無職転生～異世界行ったら本気だす～(第2クール)",
       "無職轉生～到了異世界就拿出真本事～ (2021)",
       "무직전생 ~이세계에 갔으면 최선을 다한다~ 2기"
-    ]
-  },
-  {
-    "title": "異世界食堂2",
-    "titleTranslate": {
-      "en": [
-        "Restaurant to Another World 2"
-      ],
-      "zh-Hans": [
-        "异世界食堂2",
-        "异世界食堂 第二季"
-      ],
-      "zh-Hant": [
-        "異世界食堂 2"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://isekai-shokudo2.com/",
-    "begin": "2021-10-01T16:38:00.000Z",
-    "broadcast": "R/2021-10-01T16:38:00.000Z/P7D",
-    "end": "2021-12-17T17:33:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "333853"
-      },
-      {
-        "site": "nicovideo",
-        "id": "isekai-shokudo2",
-        "begin": "2021-10-08T17:00:00.000Z",
-        "broadcast": "R/2021-10-08T17:00:00.000Z/P7D"
-      },
-      {
-        "site": "viu",
-        "id": "396385",
-        "begin": "2021-10-01T16:00:00.000Z",
-        "broadcast": "R/2021-10-01T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "117142",
-        "begin": "2021-10-01T17:38:00.000Z",
-        "broadcast": "R/2021-10-01T17:38:00.000Z/P7D"
-      },
-      {
-        "site": "bilibili",
-        "id": "28235138",
-        "begin": "2022-01-15T03:00:02.000Z",
-        "broadcast": "R/2022-01-15T03:00:02.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "194-25",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0061681",
-        "begin": "2021-10-08T17:00:00.000Z",
-        "broadcast": "R/2021-10-08T17:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "117142",
-        "begin": "2021-10-01T17:38:00.000Z",
-        "broadcast": "R/2021-10-01T17:38:00.000Z/P7D"
-      },
-      {
-        "site": "dmhy",
-        "id": "異世界食堂 2季|二季|2期|二期|S02|S2|2nd"
-      },
-      {
-        "site": "bangumi_moe",
-        "id": "615bb928d7f73dd4ed5c443a"
-      },
-      {
-        "site": "mikan",
-        "id": "2576"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2021,
-      "month": "10"
-    },
-    "status": "FINISHED",
-    "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1777/117885.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1777/117885t.jpg",
-    "synonyms": [
-      "#異世界食堂2",
-      "Isekai Shokudō 2",
-      "Restaurant to Another World (Saison 2)",
-      "Restaurant to Another World 2",
-      "Restaurant to Another World Season 2",
-      "isesho s2",
-      "isesho2",
-      "Ресторан из другого мира 2",
-      "ร้านอาหารต่างโลก ภาค 2",
-      "异世界食堂 2",
-      "异世界食堂2",
-      "异世界食堂第二季",
-      "異世界食堂 2",
-      "異世界食堂2",
-      "異世界食堂２"
     ]
   },
   {
@@ -1421,8 +1119,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1899/117237.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1899/117237t.jpg",
+    "picture": "https://u.livechart.me/anime/10570/poster_image/5ba229cbc067cb27de29bb84beee1ce6.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10570/poster_image/5ba229cbc067cb27de29bb84beee1ce6.png/small.jpg",
     "synonyms": [
       "Comi san ha Comyusho desu",
       "Comyushou Desu.",
@@ -1544,8 +1242,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1277/117155.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1277/117155t.jpg",
+    "picture": "https://u.livechart.me/anime/10455/poster_image/8b6d58e698275c9287e4279658b83e98.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10455/poster_image/8b6d58e698275c9287e4279658b83e98.png/small.jpg",
     "synonyms": [
       "Can-See-Ghosts-chan",
       "Child That Can See It",
@@ -1626,8 +1324,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1393/118374.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1393/118374t.jpg",
+    "picture": "https://u.livechart.me/anime/10469/poster_image/e736bd2fd2ba2be0dcf229a1a08685d6.jpg/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10469/poster_image/e736bd2fd2ba2be0dcf229a1a08685d6.jpg/small.jpg",
     "synonyms": [
       "Irina : The Vampire Cosmonaut",
       "Irina: The Vampire Cosmonaut",
@@ -1733,8 +1431,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1892/117151.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1892/117151t.jpg",
+    "picture": "https://u.livechart.me/anime/9903/poster_image/75e31e2b92a9101ff7a591fbe4cceee7.jpg/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/9903/poster_image/75e31e2b92a9101ff7a591fbe4cceee7.jpg/small.jpg",
     "synonyms": [
       "KyuuShi",
       "Kyūketsuki Sugu Shinu",
@@ -1813,8 +1511,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1657/118480.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1657/118480t.jpg",
+    "picture": "https://u.livechart.me/anime/10097/poster_image/41ff2c49d749e3d1a5f48c84ca7a0d77.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10097/poster_image/41ff2c49d749e3d1a5f48c84ca7a0d77.png/small.jpg",
     "synonyms": [
       "Yuki Yuna Is a Hero: Great Mankai Chapter",
       "Yuki Yuna Is a Hero: The Great Full Blossom Arc",
@@ -1832,6 +1530,89 @@
       "結城友奈是勇者 大滿開之章",
       "结城友奈是勇者 大满开之章",
       "유우키 유우나는 용사다: 대만개의 장"
+    ]
+  },
+  {
+    "title": "終末のハーレム",
+    "titleTranslate": {
+      "en": [
+        "world's end harem"
+      ],
+      "zh-Hans": [
+        "终末的后宫"
+      ],
+      "zh-Hant": [
+        "終末的後宮"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://end-harem-anime.com/",
+    "begin": "2021-10-08T12:30:00.000Z",
+    "broadcast": "R/2021-10-08T12:30:00.000Z/P7D",
+    "end": "2022-03-18T13:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "306559"
+      },
+      {
+        "site": "gamer",
+        "id": "111339",
+        "begin": "2022-01-07T17:30:00.000Z",
+        "broadcast": "R/2022-01-07T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "end-harem-anime",
+        "begin": "2022-01-14T16:30:00.000Z",
+        "broadcast": "R/2022-01-14T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "終末的後宮"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "615bb927d7f73dd4ed5c442f"
+      },
+      {
+        "site": "mikan",
+        "id": "2559"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "111339",
+        "begin": "2022-01-07T17:30:00.000Z",
+        "broadcast": "R/2022-01-07T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0061670",
+        "begin": "2021-09-27T03:00:00.000Z",
+        "broadcast": "R/2021-09-27T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2021,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 11,
+    "picture": "https://u.livechart.me/anime/9957/poster_image/42e3e7505fda76b3ceb42490b823657b.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/9957/poster_image/42e3e7505fda76b3ceb42490b823657b.png/small.jpg",
+    "synonyms": [
+      "Shūmatsu no Harem",
+      "World's End Harem",
+      "World`s End Harem",
+      "World’s End Harem",
+      "Гарем конца света",
+      "終末のハーレム",
+      "終末的後宮",
+      "终末的后宫",
+      "종말의 하렘"
     ]
   },
   {
@@ -1927,8 +1708,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1176/118382.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1176/118382t.jpg",
+    "picture": "https://u.livechart.me/anime/10534/poster_image/6c75784e3053fa057be829c50c0cc831.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10534/poster_image/6c75784e3053fa057be829c50c0cc831.png/small.jpg",
     "synonyms": [
       "Paladin of the End",
       "The Faraway Paladin",
@@ -2005,8 +1786,8 @@
     },
     "status": "FINISHED",
     "episodes": 24,
-    "picture": "https://cdn.myanimelist.net/images/anime/1992/116576.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1992/116576t.jpg",
+    "picture": "https://u.livechart.me/anime/10283/poster_image/46179ec548dc5903c7fd38194e403d08.webp/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10283/poster_image/46179ec548dc5903c7fd38194e403d08.webp/small.jpg",
     "synonyms": [
       "Plaend",
       "Платиновый исход",
@@ -2096,15 +1877,15 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1420/118569.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1420/118569t.jpg",
+    "picture": "https://u.livechart.me/anime/10249/poster_image/dcadc44c3a671c891cce625a28564d41.jpg/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10249/poster_image/dcadc44c3a671c891cce625a28564d41.jpg/small.jpg",
     "synonyms": [
       "Pride of Orange",
       "PuraOra! PRIDE OF ORANGE",
       "PuraOra! Pride of Orange",
       "PuraOre! Pride of Orange",
-      "PuraOre! ~PRIDE OF ORANGE~",
       "PuraOre! ~Pride of Orange~",
+      "Puraore! Pride of Orange",
       "Puraore!: PRIDE OF ORANGE",
       "プラオレ!~PRIDE OF ORANGE~",
       "プラオレ！～PRIDE OF ORANGE～",
@@ -2182,8 +1963,8 @@
     },
     "status": "FINISHED",
     "episodes": 13,
-    "picture": "https://cdn.myanimelist.net/images/anime/1723/117854.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1723/117854t.jpg",
+    "picture": "https://u.livechart.me/anime/10222/poster_image/224b366e44da8f73077431a540e98477.jpg/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10222/poster_image/224b366e44da8f73077431a540e98477.jpg/small.jpg",
     "synonyms": [
       "Banido da Festa do Herói",
       "Banished From The Hero's Party, I Decided To Live A Quiet Life In The Countryside",
@@ -2215,88 +1996,6 @@
       "真の仲間",
       "真の仲間じゃないと勇者のパーティーを追い出されたので, 辺境でスローライフすることにしました",
       "真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました"
-    ]
-  },
-  {
-    "title": "MUTEKING THE Dancing HERO",
-    "titleTranslate": {
-      "zh-Hans": [
-        "无敌侠：舞动的英雄"
-      ],
-      "zh-Hant": [
-        "萬能戰士無比敵"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://muteking.jp/",
-    "begin": "2021-10-02T16:26:00.000Z",
-    "broadcast": "R/2021-10-02T16:26:00.000Z/P7D",
-    "end": "2021-12-18T16:56:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "283636"
-      },
-      {
-        "site": "nicovideo",
-        "id": "muteking_TDH",
-        "begin": "2021-10-03T15:00:00.000Z",
-        "broadcast": "R/2021-10-03T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "bilibili",
-        "id": "28235143",
-        "begin": "2021-10-02T17:26:01.000Z",
-        "broadcast": "R/2021-10-02T17:26:01.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "119520",
-        "begin": "2021-10-05T03:00:00.000Z",
-        "broadcast": "R/2021-10-05T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0061702",
-        "begin": "2021-10-03T15:00:00.000Z",
-        "broadcast": "R/2021-10-03T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "119520",
-        "begin": "2021-10-05T03:00:00.000Z",
-        "broadcast": "R/2021-10-05T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "dmhy",
-        "id": "萬能戰士無比敵"
-      },
-      {
-        "site": "bangumi_moe",
-        "id": "615bb92cd7f73dd4ed5c4452"
-      },
-      {
-        "site": "mikan",
-        "id": "2554"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2021,
-      "month": "10"
-    },
-    "status": "FINISHED",
-    "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1402/118465.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1402/118465t.jpg",
-    "synonyms": [
-      "MUTEKING THE DANCING HERO",
-      "MUTEKING THE Dancing HERO",
-      "Muteking (2021)",
-      "ムテキング・ザ・ダンシング・ヒーロー",
-      "无敌侠：舞动的英雄"
     ]
   },
   {
@@ -2365,10 +2064,10 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1143/117924.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1143/117924t.jpg",
+    "picture": "https://u.livechart.me/anime/10423/poster_image/63b4e2909b737dc7414ecfe6cd049a02.webp/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10423/poster_image/63b4e2909b737dc7414ecfe6cd049a02.webp/small.jpg",
     "synonyms": [
-      "VISUAL PRISON",
+      "Visual Prison",
       "ヴィジュアルプリズン"
     ]
   },
@@ -2418,208 +2117,12 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1411/116829.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1411/116829t.jpg",
+    "picture": "https://u.livechart.me/anime/10724/poster_image/b99118d53b9154ff551c7131b37b59db.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10724/poster_image/b99118d53b9154ff551c7131b37b59db.png/small.jpg",
     "synonyms": [
       "\"Deji\" Meets Girl",
       "Deiji Meets Girl",
       "でーじミーツガール"
-    ]
-  },
-  {
-    "title": "takt op.Destiny",
-    "titleTranslate": {
-      "zh-Hans": [
-        "宿命回响：命运节拍",
-        "宿命回响",
-        "宿命回响: 命运节拍"
-      ],
-      "zh-Hant": [
-        "宿命迴響：命運節拍"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://anime.takt-op.jp/",
-    "begin": "2021-10-05T15:00:00.000Z",
-    "broadcast": "R/2021-10-05T15:00:00.000Z/P7D",
-    "end": "2021-12-21T15:30:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "331535"
-      },
-      {
-        "site": "nicovideo",
-        "id": "takt-op",
-        "begin": "2021-10-08T10:00:00.000Z",
-        "broadcast": "R/2021-10-08T10:00:00.000Z/P7D"
-      },
-      {
-        "site": "ani_one_asia",
-        "id": "PLxSscENEp7Jgp5-czzbc2NrWBg5g2qz7n",
-        "begin": "2021-10-04T16:00:00.000Z",
-        "broadcast": "R/2021-10-04T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "viu",
-        "id": "396997",
-        "begin": "2021-10-05T16:00:00.000Z",
-        "broadcast": "R/2021-10-05T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "bilibili",
-        "id": "28235155",
-        "begin": "2021-11-03T11:00:01.000Z",
-        "broadcast": "R/2021-11-03T11:00:01.000Z/P7D"
-      },
-      {
-        "site": "ani_one",
-        "id": "PLC18xlbCdwtSNZy7MvRHRKKNO5oYLDFJE",
-        "begin": "2023-01-21T16:00:00.000Z",
-        "broadcast": "R/2023-01-21T16:00:00.000Z/P0D"
-      },
-      {
-        "site": "gamer",
-        "id": "118410",
-        "begin": "2021-10-05T16:00:00.000Z",
-        "broadcast": "R/2021-10-05T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "netflix",
-        "id": "81510802",
-        "begin": "2023-07-30T16:00:00.000Z",
-        "broadcast": "R/2023-07-30T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0061697",
-        "begin": "2021-10-08T10:00:00.000Z",
-        "broadcast": "R/2021-10-08T10:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "118410",
-        "begin": "2021-10-05T16:00:00.000Z",
-        "broadcast": "R/2021-10-05T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "dmhy",
-        "id": "takt"
-      },
-      {
-        "site": "bangumi_moe",
-        "id": "615bb922d7f73dd4ed5c4417"
-      },
-      {
-        "site": "mikan",
-        "id": "2550"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2021,
-      "month": "10"
-    },
-    "status": "FINISHED",
-    "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1449/117797.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1449/117797t.jpg",
-    "synonyms": [
-      "Takt op. Destiny",
-      "Takt op. Unmei wa Shin Akaki Senritsu no Machi wo",
-      "takt op.Destiny",
-      "tákt op.Destiny",
-      "{takt: op. Destiny}",
-      "Такт. Опус Дестини",
-      "แท็กต์ โอปัส. เดสตินี ~ลิขิตเสียง บรรเลงชะตา~",
-      "タクトオーパス",
-      "タクトオーパス Destiny",
-      "宿命回响：命运节拍"
-    ]
-  },
-  {
-    "title": "SELECTION PROJECT",
-    "titleTranslate": {
-      "zh-Hans": [
-        "遴选",
-        "偶像选拔"
-      ],
-      "zh-Hant": [
-        "SELECTION PROJECT"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://pjselection.com/",
-    "begin": "2021-10-01T13:00:00.000Z",
-    "broadcast": "R/2021-10-01T13:00:00.000Z/P7D",
-    "end": "2021-12-24T13:30:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "321190"
-      },
-      {
-        "site": "nicovideo",
-        "id": "pjselection",
-        "begin": "2021-10-08T13:30:00.000Z",
-        "broadcast": "R/2021-10-08T13:30:00.000Z/P7D"
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UchBBA373LpxqyHoLFedO9yf",
-        "begin": "2021-09-26T16:00:00.000Z",
-        "broadcast": "R/2021-09-26T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "114872",
-        "begin": "2021-10-01T14:00:00.000Z",
-        "broadcast": "R/2021-10-01T14:00:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0061687",
-        "begin": "2021-10-08T13:30:00.000Z",
-        "broadcast": "R/2021-10-08T13:30:00.000Z/P7D"
-      },
-      {
-        "site": "dmhy",
-        "id": "SELECTION PROJECT"
-      },
-      {
-        "site": "bangumi_moe",
-        "id": "615778062525b000075fd491"
-      },
-      {
-        "site": "mikan",
-        "id": "2565"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "114872",
-        "begin": "2021-10-01T14:00:00.000Z",
-        "broadcast": "R/2021-10-01T14:00:00.000Z/P7D"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2021,
-      "month": "10"
-    },
-    "status": "FINISHED",
-    "episodes": 13,
-    "picture": "https://cdn.myanimelist.net/images/anime/1174/113554.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1174/113554t.jpg",
-    "synonyms": [
-      "SELECTION PROJECT",
-      "Selepro",
-      "selepro",
-      "Отборочный проект",
-      "セレクション・プロジェクト"
     ]
   },
   {
@@ -2680,8 +2183,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1757/116931.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1757/116931t.jpg",
+    "picture": "https://u.livechart.me/anime/10353/poster_image/8b8c500061f7a763294c4a06bec7dccb.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10353/poster_image/8b8c500061f7a763294c4a06bec7dccb.png/small.jpg",
     "synonyms": [
       "Blue Period.",
       "Kék korszak",
@@ -2698,156 +2201,6 @@
       "蓝色时期",
       "藍色時期",
       "블루 피리어드"
-    ]
-  },
-  {
-    "title": "サクガン",
-    "titleTranslate": {
-      "zh-Hans": [
-        "迷宫标记者",
-        "削岩SAKUGAN"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://sakugan-anime.com/",
-    "begin": "2021-10-07T14:30:00.000Z",
-    "broadcast": "R/2021-10-07T14:30:00.000Z/P7D",
-    "end": "2021-12-23T15:00:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "257991"
-      },
-      {
-        "site": "nicovideo",
-        "id": "sakugan-anime",
-        "begin": "2021-10-10T14:30:00.000Z",
-        "broadcast": "R/2021-10-10T14:30:00.000Z/P7D"
-      },
-      {
-        "site": "bilibili",
-        "id": "28235174",
-        "begin": "2021-10-07T14:30:01.000Z",
-        "broadcast": "R/2021-10-07T14:30:01.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0061709",
-        "begin": "2021-10-10T14:30:00.000Z",
-        "broadcast": "R/2021-10-10T14:30:00.000Z/P7D"
-      },
-      {
-        "site": "dmhy",
-        "id": "SAKUGAN"
-      },
-      {
-        "site": "bangumi_moe",
-        "id": "615bb925d7f73dd4ed5c4427"
-      },
-      {
-        "site": "mikan",
-        "id": "2566"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2021,
-      "month": "10"
-    },
-    "status": "FINISHED",
-    "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1431/118413.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1431/118413t.jpg",
-    "synonyms": [
-      "Drilling Labyrinth Marker",
-      "Project ANIMA",
-      "Project Anima",
-      "Project Anima: Sakugan Labyrinth Marker",
-      "SAKUGAN",
-      "Sacks&Guns!!",
-      "Sakugan Labyrinth Marker",
-      "Sakugan Labyrinth Marker (削岩ラビリンスマーカー)",
-      "Sakugan!!",
-      "サクガン",
-      "サクガン!!",
-      "削岩ラビリンスマーカー",
-      "迷宫标记者"
-    ]
-  },
-  {
-    "title": "シキザクラ",
-    "titleTranslate": {
-      "zh-Hans": [
-        "四季樱"
-      ],
-      "zh-Hant": [
-        "四季櫻"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://shikizakura-anime.com/",
-    "begin": "2021-10-09T16:55:00.000Z",
-    "broadcast": "R/2021-10-09T16:55:00.000Z/P7D",
-    "end": "2021-12-25T17:25:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "262547"
-      },
-      {
-        "site": "nicovideo",
-        "id": "shikizakura-anime",
-        "begin": "2021-10-14T15:00:00.000Z",
-        "broadcast": "R/2021-10-14T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "108624",
-        "begin": "2021-10-10T03:00:00.000Z",
-        "broadcast": "R/2021-10-10T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "bilibili",
-        "id": "28235131",
-        "begin": "2023-04-03T10:00:01.000Z",
-        "broadcast": "R/2023-04-03T10:00:01.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0061674",
-        "begin": "2021-10-14T15:00:00.000Z",
-        "broadcast": "R/2021-10-14T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "dmhy",
-        "id": "四季櫻"
-      },
-      {
-        "site": "bangumi_moe",
-        "id": "615bb92dd7f73dd4ed5c4456"
-      },
-      {
-        "site": "mikan",
-        "id": "2567"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2021,
-      "month": "10"
-    },
-    "status": "FINISHED",
-    "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1175/116578.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1175/116578t.jpg",
-    "synonyms": [
-      "SHIKIZAKURA",
-      "シキザクラ",
-      "四季樱"
     ]
   },
   {
@@ -2958,8 +2311,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1928/117620.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1928/117620t.jpg",
+    "picture": "https://u.livechart.me/anime/10383/poster_image/528d6ee085953bcc4c5c0a45c4f63425.jpg/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10383/poster_image/528d6ee085953bcc4c5c0a45c4f63425.jpg/small.jpg",
     "synonyms": [
       "Ansatsu Kizoku",
       "Isekai Kizoku ni Tensei suru",
@@ -3040,14 +2393,14 @@
     },
     "status": "FINISHED",
     "episodes": 9,
-    "picture": "https://cdn.myanimelist.net/images/anime/1078/116972.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1078/116972t.jpg",
+    "picture": "https://u.livechart.me/anime/10421/poster_image/d0f3184d7cad061e6c6519770306076e.jpg/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10421/poster_image/d0f3184d7cad061e6c6519770306076e.jpg/small.jpg",
     "synonyms": [
       "Everything for Demon King Evelogia",
       "Everything for the Demon King Evelogia",
-      "Mao Iburogia ni mi wo Sasageyo",
       "Maou Evelogia ni Mi o Sasage yo",
       "Maou Evelogia ni Mi o Sasageyo",
+      "Maou Evelogia ni Mi wo Sasage yo",
       "Maou Evelogia ni Mi wo Sasageyo",
       "Maou Ibrogia ni Mi o Sasageyo",
       "Maō Evelogia ni Mi o Sasageyo",
@@ -3117,10 +2470,9 @@
     },
     "status": "FINISHED",
     "episodes": 13,
-    "picture": "https://cdn.myanimelist.net/images/anime/1263/117945.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1263/117945t.jpg",
+    "picture": "https://u.livechart.me/anime/10356/poster_image/260285938197e0256068bda0d35c4e8b.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10356/poster_image/260285938197e0256068bda0d35c4e8b.png/small.jpg",
     "synonyms": [
-      "CARDFIGHT!! VANGUARD overDress Season 2",
       "Cardfight!! Vanguard : OverDress (Saison 2)",
       "Cardfight!! Vanguard overDress Season 2",
       "Cardfight!! Vanguard: Over Dress",
@@ -3130,6 +2482,7 @@
       "Cardfight!! Vanguard: OverDress (Staffel 2)",
       "Cardfight!! Vanguard: OverDress (Temporada 2)",
       "Cardfight!! Vanguard: overDress 2nd Season",
+      "Cardfight!! Vanguard: overDress Season 2",
       "การ์ดไฟท์!! แวนการ์ด โอเวอร์เดรส ภาค 2",
       "カードファイト!! ヴァンガード OverDress (2021)",
       "カードファイト!! ヴァンガード overDress",
@@ -3221,8 +2574,8 @@
     },
     "status": "FINISHED",
     "episodes": 24,
-    "picture": "https://cdn.myanimelist.net/images/anime/1976/118542.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1976/118542t.jpg",
+    "picture": "https://u.livechart.me/anime/10605/poster_image/e7bedfa74d9c6ec5b091c29c5dd1b26c.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10605/poster_image/e7bedfa74d9c6ec5b091c29c5dd1b26c.png/small.jpg",
     "synonyms": [
       "LUPIN THE 3rd PART 6",
       "LUPIN THE 3rd PART VI",
@@ -3298,8 +2651,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1904/118821.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1904/118821t.jpg",
+    "picture": "https://u.livechart.me/anime/10564/poster_image/f0f73f4bb99d834fe923b06fa59fd0c3.jpg/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10564/poster_image/f0f73f4bb99d834fe923b06fa59fd0c3.jpg/small.jpg",
     "synonyms": [
       "180 Byou de Kimi no Mimi o Shiawase ni Dekiru ka?",
       "180 Byou de Kimi no Mimi o Shiawase ni Dekiruka?",
@@ -3395,8 +2748,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1537/117590.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1537/117590t.jpg",
+    "picture": "https://u.livechart.me/anime/10377/poster_image/dc66c60403e986f47d8e38ce05698209.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10377/poster_image/dc66c60403e986f47d8e38ce05698209.png/small.jpg",
     "synonyms": [
       "I Had It Made",
       "The Evolution Fruit: Conquering Life Unknowingly",
@@ -3450,10 +2803,10 @@
     },
     "status": "FINISHED",
     "episodes": 13,
-    "picture": "https://cdn.myanimelist.net/images/anime/1511/116890.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1511/116890t.jpg",
+    "picture": "https://u.livechart.me/anime/10516/poster_image/e3fa45942b4743596f273f9a383da193.webp/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10516/poster_image/e3fa45942b4743596f273f9a383da193.webp/small.jpg",
     "synonyms": [
-      "TESLA NOTE",
+      "Tesla Note",
       "テスラノート",
       "特斯拉笔记"
     ]
@@ -3539,8 +2892,8 @@
     },
     "status": "FINISHED",
     "episodes": 23,
-    "picture": "https://cdn.myanimelist.net/images/anime/1347/117616.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1347/117616t.jpg",
+    "picture": "https://u.livechart.me/anime/9706/poster_image/063b464bf38df115755c7b02c3bf09f4.webp/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/9706/poster_image/063b464bf38df115755c7b02c3bf09f4.webp/small.jpg",
     "synonyms": [
       "King Ranking",
       "Ou-sama Ranking",
@@ -3629,8 +2982,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1836/117774.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1836/117774t.jpg",
+    "picture": "https://u.livechart.me/anime/10506/poster_image/fa53351e544915f25dd245347cb0b6b1.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10506/poster_image/fa53351e544915f25dd245347cb0b6b1.png/small.jpg",
     "synonyms": [
       "Gyakuten Sekai no Denchi Shōjo",
       "RUMBLE GARANNDOLL",
@@ -3643,95 +2996,6 @@
       "逆転世界ノ電池少女",
       "逆轉世界的電池少女",
       "逆转世界的电池少女"
-    ]
-  },
-  {
-    "title": "Deep Insanity THE LOST CHILD",
-    "titleTranslate": {
-      "zh-Hans": [
-        "狂热深渊-迷失的孩子",
-        "狂熱深淵 迷失的孩子"
-      ],
-      "zh-Hant": [
-        "狂熱深淵-迷失的孩子"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://www.jp.square-enix.com/deepinsanity/anime/",
-    "begin": "2021-10-12T15:30:00.000Z",
-    "broadcast": "R/2021-10-12T15:30:00.000Z/P7D",
-    "end": "2021-12-28T16:00:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "339969"
-      },
-      {
-        "site": "ani_one_asia",
-        "id": "PLxSscENEp7JjmsVmFRjMFgquw0gsde2pR",
-        "begin": "2021-10-11T16:00:00.000Z",
-        "broadcast": "R/2021-10-11T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "bilibili",
-        "id": "28235140",
-        "begin": "2022-03-18T12:00:00.000Z",
-        "broadcast": "R/2022-03-18T12:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "118371",
-        "begin": "2021-10-12T16:30:00.000Z",
-        "broadcast": "R/2021-10-12T16:30:00.000Z/P7D"
-      },
-      {
-        "site": "nicovideo",
-        "id": "deepinsanity-anime",
-        "begin": "2021-10-19T15:30:00.000Z",
-        "broadcast": "R/2021-10-19T15:30:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0061686",
-        "begin": "2021-10-19T15:30:00.000Z",
-        "broadcast": "R/2021-10-19T15:30:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "118371",
-        "begin": "2021-10-12T16:30:00.000Z",
-        "broadcast": "R/2021-10-12T16:30:00.000Z/P7D"
-      },
-      {
-        "site": "dmhy",
-        "id": "狂熱深淵"
-      },
-      {
-        "site": "bangumi_moe",
-        "id": "615bb922d7f73dd4ed5c4419"
-      },
-      {
-        "site": "mikan",
-        "id": "2577"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2021,
-      "month": "10"
-    },
-    "status": "FINISHED",
-    "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1652/118466.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1652/118466t.jpg",
-    "synonyms": [
-      "Deep Insanity : The Lost Child",
-      "Deep Insanity THE LOST CHILD",
-      "Deep Insanity: THE LOST CHILD",
-      "ディープインサニティ ザ・ロストチャイルド",
-      "狂热深渊-迷失的孩子"
     ]
   },
   {
@@ -3782,8 +3046,8 @@
     },
     "status": "FINISHED",
     "episodes": 14,
-    "picture": "https://cdn.myanimelist.net/images/anime/1617/117474.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1617/117474t.jpg",
+    "picture": "https://u.livechart.me/anime/10282/poster_image/16b98b1c133949efdbfa6c6cdcfceab9.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10282/poster_image/16b98b1c133949efdbfa6c6cdcfceab9.png/small.jpg",
     "synonyms": [
       "Word Trigger Temporada 3",
       "World Trigger 3",
@@ -3849,8 +3113,8 @@
     },
     "status": "FINISHED",
     "episodes": 51,
-    "picture": "https://cdn.myanimelist.net/images/anime/1522/117595.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1522/117595t.jpg",
+    "picture": "https://u.livechart.me/anime/10649/poster_image/c2bf8b078a71c6606ea0b999ab143425.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10649/poster_image/c2bf8b078a71c6606ea0b999ab143425.png/small.jpg",
     "synonyms": [
       "Waccha Primagi!",
       "ワッチャプリマジ!",
@@ -3941,14 +3205,14 @@
     },
     "status": "FINISHED",
     "episodes": 24,
-    "picture": "https://cdn.myanimelist.net/images/anime/1415/118635.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1415/118635t.jpg",
+    "picture": "https://u.livechart.me/anime/10475/poster_image/8090e484496888361885fcba920626a5.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10475/poster_image/8090e484496888361885fcba920626a5.png/small.jpg",
     "synonyms": [
       "Han`you no Yashahime: Sengoku Otogizoushi (2021)",
       "Han`you no Yashahime: Sengoku Otogizoushi Ni no Shou",
-      "Hanyo no Yashahime: Ni no Shou",
       "Hanyou no Yashahime: Ni no Shou",
       "Hanyou no Yashahime: Sengoku Otogizoushi (2021)",
+      "Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou",
       "Hanyou no Yashahime: Sengoku Otogizoushi - The Second Act",
       "Hanyou no Yashahime: Sengoku Otogizoushi 2",
       "Hanyou no Yashahime: Sengoku Otogizoushi 2nd Season",
@@ -4013,82 +3277,14 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1422/118482.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1422/118482t.jpg",
+    "picture": "https://u.livechart.me/anime/10761/poster_image/f6ca33d3f9b475cbb5e87fdf39b0e717.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10761/poster_image/f6ca33d3f9b475cbb5e87fdf39b0e717.png/small.jpg",
     "synonyms": [
       "Fit Boxing",
       "Fit Boxing Animation",
       "Fitness Boxing",
       "e: キミとフィットボクシング",
       "キミとフィットボクシング"
-    ]
-  },
-  {
-    "title": "デジモンゴーストゲーム",
-    "titleTranslate": {
-      "en": [
-        "DIGIMON GHOST GAME"
-      ],
-      "zh-Hans": [
-        "数码兽 幽灵游戏",
-        "数码宝贝幽灵游戏",
-        "数码兽幽灵游戏",
-        "数码暴龙幽灵游戏",
-        "数码宝贝 幽灵游戏"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://www.toei-anim.co.jp/tv/digimon_ghost_game/",
-    "begin": "2021-10-03T00:00:00.000Z",
-    "broadcast": "R/2021-10-03T00:00:00.000Z/P7D",
-    "end": "2023-03-26T00:30:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "340822"
-      },
-      {
-        "site": "bilibili",
-        "id": "20332101",
-        "begin": "2023-09-01T02:00:01.000Z",
-        "broadcast": "R/2023-09-01T02:00:01.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0061682",
-        "begin": "2021-10-10T00:30:00.000Z",
-        "broadcast": "R/2021-10-10T00:30:00.000Z/P7D"
-      },
-      {
-        "site": "dmhy",
-        "id": "幽靈遊戲"
-      },
-      {
-        "site": "bangumi_moe",
-        "id": "615bb91ed7f73dd4ed5c43f9"
-      },
-      {
-        "site": "mikan",
-        "id": "2570"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2021,
-      "month": "10"
-    },
-    "status": "FINISHED",
-    "episodes": 67,
-    "picture": "https://cdn.myanimelist.net/images/anime/1907/118797.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1907/118797t.jpg",
-    "synonyms": [
-      "DIGIMON Ghost Game",
-      "Digimon: Digimon Ghost Game",
-      "Дигимоны: Игра призраков",
-      "デジモンゴーストゲーム",
-      "数码宝贝幽灵游戏"
     ]
   },
   {
@@ -4134,12 +3330,12 @@
     },
     "status": "FINISHED",
     "episodes": 26,
-    "picture": "https://cdn.myanimelist.net/images/anime/1724/117808.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1724/117808t.jpg",
+    "picture": "https://u.livechart.me/anime/10631/poster_image/140524a158e069d5cf8c719aa71df64d.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10631/poster_image/140524a158e069d5cf8c719aa71df64d.png/small.jpg",
     "synonyms": [
       "BanG Dream! Garupa Pico Fever!",
       "BanG Dream! Garupa Pico: Fever!",
-      "BanG Dream! Garupa☆Pico: Fever!",
+      "BanG Dream! Garupa☆Pico Fever!",
       "BanG Dream! Girls Band Party! Pico Fever!",
       "BanG Dream! Girls Band Party! Pico: Fever",
       "BanG Dream! Girls Band Party!☆PICO FEVER!",
@@ -4147,71 +3343,6 @@
       "BanG Dream! ガルパ☆ピコ ふぃーばー!",
       "BanG Dream! ガルパ☆ピコ ふぃーばー！",
       "Bang Dream! Garupa Pico: Fever!"
-    ]
-  },
-  {
-    "title": "海賊王女",
-    "titleTranslate": {
-      "zh-Hans": [
-        "海贼王女"
-      ],
-      "en": [
-        "Fena: Pirate Princess"
-      ],
-      "zh-Hant": [
-        "海賊王女"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://fena-pirate-princess.com/",
-    "begin": "2021-10-02T17:08:00.000Z",
-    "broadcast": "R/2021-10-02T17:08:00.000Z/P7D",
-    "end": "2021-12-18T18:08:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "311310"
-      },
-      {
-        "site": "nicovideo",
-        "id": "fena-pirate-princess",
-        "begin": "2022-01-06T15:00:00.000Z",
-        "broadcast": "R/2022-01-06T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0061693",
-        "begin": "2022-01-21T03:00:00.000Z",
-        "broadcast": "R/2022-01-21T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "dmhy",
-        "id": "Fena"
-      },
-      {
-        "site": "mikan",
-        "id": "2544"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2021,
-      "month": "10"
-    },
-    "status": "FINISHED",
-    "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1607/117951.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1607/117951t.jpg",
-    "synonyms": [
-      "Fena : Pirate Princess",
-      "Fena: Pirate Princess",
-      "Kaizoku Ōjo",
-      "Фена: Принцесса пиратов",
-      "海賊王女",
-      "海贼王女",
-      "해적왕녀"
     ]
   },
   {
@@ -4257,8 +3388,8 @@
     },
     "status": "FINISHED",
     "episodes": 13,
-    "picture": "https://cdn.myanimelist.net/images/anime/1641/118985.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1641/118985t.jpg",
+    "picture": "https://u.livechart.me/anime/10464/poster_image/b9727c4d8f79d2a607953370a0a42b3b.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10464/poster_image/b9727c4d8f79d2a607953370a0a42b3b.png/small.jpg",
     "synonyms": [
       "GUNMACHAN",
       "Gunma Chan",
@@ -4372,8 +3503,8 @@
     },
     "status": "FINISHED",
     "episodes": 7,
-    "picture": "https://cdn.myanimelist.net/images/anime/1065/118763.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1065/118763t.jpg",
+    "picture": "https://u.livechart.me/anime/10816/poster_image/9467d9d2ab9eaf490b47973f8f5e542a.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10816/poster_image/9467d9d2ab9eaf490b47973f8f5e542a.png/small.jpg",
     "synonyms": [
       "Demon Slayer : Kimetsu no Yaiba - Mugen Train Arc",
       "Demon Slayer : Le train de l’infini (TV)",
@@ -4446,8 +3577,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1186/118588.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1186/118588t.jpg",
+    "picture": "https://u.livechart.me/anime/10829/poster_image/c6c638691791511b28ea5d075cb5b065.webp/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10829/poster_image/c6c638691791511b28ea5d075cb5b065.webp/small.jpg",
     "synonyms": [
       "Ancient G`s Frame",
       "Ancient Girl's Frame",
@@ -4509,8 +3640,8 @@
     },
     "status": "FINISHED",
     "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1395/117591.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1395/117591t.jpg",
+    "picture": "https://u.livechart.me/anime/9916/poster_image/833e71fecff36b76b308336c257666ba.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/9916/poster_image/833e71fecff36b76b308336c257666ba.png/small.jpg",
     "synonyms": [
       "Child of Kamiari Month",
       "Dijete mjeseca Kamiari",
@@ -4620,8 +3751,8 @@
     },
     "status": "FINISHED",
     "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1590/116274.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1590/116274t.jpg",
+    "picture": "https://u.livechart.me/anime/10159/poster_image/39ff5a6f5b4b0564c03b40efe3a77d5f.webp/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10159/poster_image/39ff5a6f5b4b0564c03b40efe3a77d5f.webp/small.jpg",
     "synonyms": [
       "Aria in the Starless Night",
       "Gekijouban Sword Art Online: Progressive - Hoshinaki Yoru no Aria",
@@ -4630,7 +3761,6 @@
       "SAO Progressive",
       "SAO Progressive Movie",
       "SAOP",
-      "Sword Art Online -Progressive- Hoshinaki Yoru no Aria",
       "Sword Art Online Progressive: The Movie - Aria of a Starless Night",
       "Sword Art Online Progressive: Ária de Uma Noite Sem Estrelas",
       "Sword Art Online the Movie -Progressive- Aria of a Starless Night",
@@ -4641,6 +3771,7 @@
       "Sword Art Online: Progressive - Aria de una noche sin estrellas",
       "Sword Art Online: Progressive - Hoshinaki Yoru no Aria",
       "Sword Art Online: Progressive - อาเรียแห่งคืนที่ไร้ดาว",
+      "Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria",
       "Sword Art Online: Progressive Movie - Hoshinaki Yoru no Aria",
       "Sword Art Online: Progressive Movie 1 - Aria of a Starless Night",
       "Sword Art Online: The Movie - Progressive: Aria of a Starless Night",
@@ -4698,8 +3829,8 @@
     },
     "status": "FINISHED",
     "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1062/116821.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1062/116821t.jpg",
+    "picture": "https://u.livechart.me/anime/10542/poster_image/713ae0d1b4ba9cab00575127ee48364a.jpg/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10542/poster_image/713ae0d1b4ba9cab00575127ee48364a.jpg/small.jpg",
     "synonyms": [
       "DAKAICHI -I'm being harassed by the sexiest man of the year- Movie",
       "DAKAICHI -I'm being harassed by the sexiest man of the year- Movie, Dakaretai Otoko Ichii ni Odosarete Imasu. Movie",
@@ -4773,8 +3904,8 @@
     },
     "status": "FINISHED",
     "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1535/116583.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1535/116583t.jpg",
+    "picture": "https://u.livechart.me/anime/10144/poster_image/b6c173fd8c50d58a49b738ecc17aafaa.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10144/poster_image/b6c173fd8c50d58a49b738ecc17aafaa.png/small.jpg",
     "synonyms": [
       "Ai no Utagoe o Kikasete",
       "Ainouta",
@@ -4822,11 +3953,11 @@
     },
     "status": "FINISHED",
     "episodes": 6,
-    "picture": "https://cdn.myanimelist.net/images/anime/1712/117280.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1712/117280t.jpg",
+    "picture": "https://u.livechart.me/anime/10646/poster_image/ec34d730834ec45227080da8958d6fe6.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10646/poster_image/ec34d730834ec45227080da8958d6fe6.png/small.jpg",
     "synonyms": [
       "GBB",
-      "Gundam Breaker Battlogue",
+      "Gundam Breaker: Battlogue",
       "Gundam: Gundam Breaker Battlogue",
       "ガンダムブレイカー バトルローグ",
       "ガンダムブレイカー バトローグ",
@@ -4875,13 +4006,13 @@
     },
     "status": "FINISHED",
     "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1775/116575.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1775/116575t.jpg",
+    "picture": "https://u.livechart.me/anime/10287/poster_image/7553c6d19f03334312e70f9bcf84d097.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10287/poster_image/7553c6d19f03334312e70f9bcf84d097.png/small.jpg",
     "synonyms": [
       "Eiga Tropical-Rouge! Precure",
       "Eiga Tropical-Rouge! Precure: Yuki no Princess to Kiseki no Yubiwa!",
       "Tropical Rouge! Precure Snow Princess and The Miracle Ring!",
-      "Tropical-Rogue! Precure: Yuki no Princess to Kiseki no Yubiwa!",
+      "Tropical-Rouge! Precure Movie: Yuki no Princess to Kiseki no Yubiwa!",
       "Tropical-Rouge! Precure the Movie: The Snow Princess and the Miraculous Ring",
       "Tropical-Rouge! Precure: Yuki no Princess to Kiseki no Yubiwa!",
       "Tropical-Rouge! Pretty Cure: The Snow Princess and the Miraculous Ring!",
@@ -4940,10 +4071,10 @@
     },
     "status": "FINISHED",
     "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1419/111593.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1419/111593t.jpg",
+    "picture": "https://u.livechart.me/anime/10402/poster_image/55c130137817cd1f0b50fe5984f3a645.webp/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10402/poster_image/55c130137817cd1f0b50fe5984f3a645.webp/small.jpg",
     "synonyms": [
-      "Gekijou Tanpen Macross F: Toki no Meikyuu",
+      "Gekijou Tanpen Macross Frontier: Toki no Meikyuu",
       "Gekijouu Tanpen Macross F: Toki no Meikyuu",
       "Gekijō Tanpen Macross Frontier: Toki no Meikyū",
       "Macross F",
@@ -5003,17 +4134,17 @@
     },
     "status": "FINISHED",
     "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1687/117888.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1687/117888t.jpg",
+    "picture": "https://u.livechart.me/anime/3527/poster_image/9db7990e77a6059bd4f051258f66b557.webp/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/3527/poster_image/9db7990e77a6059bd4f051258f66b557.webp/small.jpg",
     "synonyms": [
       "Gekijouban Macross Delta: Zettai Live!!!!!!",
       "Gekijōban Macross Delta: Zettai Live!!!!!!",
       "Macross Delta Movie 2",
       "Macross Delta Movie 2: Zettai Live!!!!!!",
       "Macross Delta Movie: Absolute LIVE!!!!!!",
-      "Macross Delta Movie: Zettai LIVE!!!!!!",
       "Macross Delta the Movie: Absolute Live!!!!!!",
       "Macross Δ Movie 2",
+      "Macross Δ Movie 2: Zettai Live!!!",
       "Macross Δ Movie: Absolute LIVE!!!!!!",
       "Macross Δ: Zettai LIVE!!!!!!",
       "Macross: Gekijouban Macross Delta: Zettai Live!!!!!!",
@@ -5056,12 +4187,12 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://cdn.myanimelist.net/images/anime/1042/119432.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1042/119432t.jpg",
+    "picture": "https://u.livechart.me/anime/10812/poster_image/38d2d612019a4b19f3666fd81c9531b1.webp/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10812/poster_image/38d2d612019a4b19f3666fd81c9531b1.webp/small.jpg",
     "synonyms": [
       "Drowning Sorrows in Raging Fire",
       "LHJC",
-      "Lie Huo Jiao Chou",
+      "Liehuo Jiao Chou",
       "Rekka Gyoushuu",
       "烈火浇愁",
       "烈火澆愁"
@@ -5095,8 +4226,8 @@
     },
     "status": "FINISHED",
     "episodes": 4,
-    "picture": "https://cdn.myanimelist.net/images/anime/1314/120786.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1314/120786t.jpg",
+    "picture": "https://u.livechart.me/anime/10554/poster_image/f8e33ce390dc567263c20ea1adbb8959.webp/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10554/poster_image/f8e33ce390dc567263c20ea1adbb8959.webp/small.jpg",
     "synonyms": [
       "Battle Spirits Mirage",
       "バトルスピリッツミラージュ"
@@ -5134,9 +4265,9 @@
       "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 8,
-    "picture": "https://cdn.myanimelist.net/images/anime/1888/117889.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1888/117889t.jpg",
+    "episodes": 1,
+    "picture": "https://u.livechart.me/anime/9397/poster_image/6a49d211062eec964c40a0f56ac6a69a.jpg/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/9397/poster_image/6a49d211062eec964c40a0f56ac6a69a.jpg/small.jpg",
     "synonyms": [
       "Aratanaru Tabidachi - Zenshou -TAKE OFF-",
       "Space Battleship Yamato 2205: A New Journey",
@@ -5146,79 +4277,73 @@
       "Space Battleship Yamato 2205: Aratanaru Tabidachi - Zenshou: TAKE OFF",
       "Space Battleship Yamato 2205: The New Voyage",
       "Star Blazers",
+      "Uchuu Senkan Yamato 2205: Aratanaru Tabidachi",
       "Uchuu Senkan Yamato 2205: Aratanaru Tabidachi - Koushou - Stasha",
       "Uchuu Senkan Yamato 2205: Aratanaru Tabidachi - Zenshou - Take Off",
       "Uchuu Senkan Yamato 2205: Aratanaru Tabidachi - Zenshou -TAKE OFF-",
       "Uchuu Senkan Yamato 2205: Aratanaru Tabidachi - Zenshou: TAKE OFF",
-      "Uchuu Senkan Yamato 2205: Aratanaru Tabidachi - Zenshou: Take Off",
       "宇宙戦艦ヤマト2205 新たなる旅立ち",
       "宇宙戦艦ヤマト2205 新たなる旅立ち 前章 -TAKE OFF-",
       "宇宙戦艦ヤマト2205　新たなる旅立ち 前章 -TAKE OFF-"
     ]
   },
   {
-    "title": "がんばれ同期ちゃん",
+    "title": "月曜日のたわわ2",
     "titleTranslate": {
+      "en": [
+        "Tawawa on Monday two"
+      ],
       "zh-Hans": [
-        "加油！同期酱"
+        "星期一的丰满 第二季"
       ],
       "zh-Hant": [
-        "加油吧同期醬"
+        "星期一的豐滿2",
+        "星期一的豐滿 第二季"
       ]
     },
     "type": "web",
     "lang": "ja",
-    "officialSite": "https://doukichan-anime.com/",
-    "begin": "2021-09-19T22:00:00.000Z",
-    "broadcast": "R/2021-09-19T22:00:00.000Z/P7D",
-    "end": "2021-12-05T22:07:00.000Z",
+    "officialSite": "https://tawawa2-anime.com/",
+    "begin": "2021-09-19T22:07:00.000Z",
+    "broadcast": "R/2021-09-19T22:07:00.000Z/P7D",
+    "end": "2021-12-05T22:14:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
-        "id": "346242"
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7Uch1pVm3ukGPX1wy-efZqS8t",
-        "begin": "2021-09-19T22:15:00.000Z",
-        "broadcast": "R/2021-09-19T22:15:00.000Z/P7D"
+        "id": "349616"
       },
       {
         "site": "gamer",
-        "id": "119183",
-        "begin": "2021-09-19T22:15:00.000Z",
-        "broadcast": "R/2021-09-19T22:15:00.000Z/P7D"
+        "id": "119691",
+        "begin": "2021-09-19T22:20:00.000Z",
+        "broadcast": "R/2021-09-19T22:20:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
-        "id": "doukichan-anime",
+        "id": "tawawa-anime",
         "begin": "2022-05-31T15:00:00.000Z",
         "broadcast": "R/2022-05-31T15:00:00.000Z/P7D"
       },
       {
         "site": "unext",
-        "id": "SID0067618",
+        "id": "SID0067617",
         "begin": "2022-04-11T03:00:00.000Z",
         "broadcast": "R/2022-04-11T03:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
-        "id": "同期醬"
-      },
-      {
-        "site": "bangumi_moe",
-        "id": "615db8782525b00007628381"
+        "id": "tawawa 2季|二季|2期|二期|S02|S2|2nd"
       },
       {
         "site": "mikan",
-        "id": "2546"
+        "id": "2545"
       },
       {
         "site": "gamer_hk",
-        "id": "119183",
-        "begin": "2021-09-19T22:15:00.000Z",
-        "broadcast": "R/2021-09-19T22:15:00.000Z/P7D"
+        "id": "119691",
+        "begin": "2021-09-19T22:20:00.000Z",
+        "broadcast": "R/2021-09-19T22:20:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -5227,51 +4352,58 @@
       "month": "09"
     },
     "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1244/117818.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1244/117818t.jpg",
+    "episodes": 12,
+    "picture": "https://u.livechart.me/anime/10801/poster_image/40d9e2decac3ba16517d62dd27549c88.webp/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10801/poster_image/40d9e2decac3ba16517d62dd27549c88.webp/small.jpg",
     "synonyms": [
-      "GANBARE DOUKICHAN Special",
-      "Ganbare Douki-chan (2021)",
-      "Ganbare Douki-chan Episode 13",
-      "Ganbare Douki-chan Special",
-      "Ganbare Douki-chan: The Coworker is Suffering from Social Inequality",
-      "Ganbare Dōki-chan (2021)",
-      "Ganbare, Douki-chan Episode 13",
-      "Ganbare, Douki-chan Special",
-      "がんばれ同期ちゃん",
-      "がんばれ同期ちゃん Special",
-      "がんばれ同期ちゃん 格差社会に悩む会社の同期",
-      "がんばれ同期ちゃん （2021）",
-      "がんばれ同期ちゃんSpecial"
+      "Getsuyōbi no Tawawa 2",
+      "Tawawa on Monday 2",
+      "Tawawa on Monday Two",
+      "Tawawa on Monday: Season 2",
+      "Tawawa on Monday: Staffel 2",
+      "Towewew di Hari Senin Kedua",
+      "tawawa s2",
+      "tawawa2",
+      "วันจันทร์คือวันดึ๋งดึ๋ง ภาค 2",
+      "周一的丰满 2",
+      "月曜日のたわわ 2",
+      "月曜日のたわわ2",
+      "月曜日のたわわ２",
+      "월요일의 타와와"
     ]
   },
   {
-    "title": "鬼滅の刃 浅草編",
+    "title": "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… OAD",
     "titleTranslate": {
       "zh-Hans": [
-        "鬼灭之刃 浅草篇"
+        "转生成为了只有乙女游戏破灭Flag的邪恶大小姐… OAD"
       ],
       "zh-Hant": [
-        "鬼滅之刃 淺草篇"
+        "轉生成女性向遊戲只有毀滅END的壞人大小姐X OAD"
       ]
     },
-    "type": "tv",
+    "type": "ova",
     "lang": "ja",
-    "officialSite": "https://kimetsu.com/anime/",
-    "begin": "2020-09-12T12:00:00.000Z",
-    "end": "2020-09-12T12:00:00.000Z",
+    "officialSite": "https://hamehura-anime.com/",
+    "begin": "2021-09-30T16:00:00.000Z",
+    "end": "2021-09-30T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
-        "id": "349032"
+        "id": "342674"
       },
       {
-        "site": "viu",
-        "id": "415241",
-        "begin": "2021-11-30T16:00:00.000Z",
-        "broadcast": "R/2021-11-30T16:00:00.000Z/P7D"
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UciceC14F8-9VyfN1xuSJt_d",
+        "begin": "2021-12-29T16:00:00.000Z",
+        "broadcast": "R/2021-12-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0066035",
+        "begin": "2022-03-30T03:00:00.000Z",
+        "broadcast": "R/2022-03-30T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -5281,41 +4413,148 @@
     },
     "status": "FINISHED",
     "episodes": 1,
-    "picture": "https://media.kitsu.app/anime/45253/poster_image/small-5f4873362dee28641949c66b738d3824.jpeg",
-    "thumbnail": "https://media.kitsu.app/anime/45253/poster_image/tiny-4c49e0bd1de5a2fba2720085184a0058.jpeg",
+    "picture": "https://u.livechart.me/anime/10707/poster_image/aca05fd6b6ca306eb45478bbb123cb0e.webp/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10707/poster_image/aca05fd6b6ca306eb45478bbb123cb0e.webp/small.jpg",
     "synonyms": [
-      "Demon Slayer: Kimetsu no Yaiba - Asakusa Arc",
-      "Kimetsu no Yaiba: Asakusa-hen",
-      "鬼滅の刃 浅あさ草くさ編へん",
-      "鬼滅の刃 浅草編"
+      "Bakarina OVA",
+      "Destruction Flag Otome",
+      "Hamefura 2 OVA",
+      "Hamefura OVA",
+      "Hamefura X OVA",
+      "Hamehura 2 OVA",
+      "Hamehura X OVA",
+      "I Reincarnated into an Otome Game as a Villainess With Only Destruction Flags…",
+      "I Reincarnated into an Otome Game as a Villainess with Only Destruction Flags... OVA",
+      "My Next Life as a Villainess : All Routes Lead to Doom! J’ai fait des rencontres fatidiques…",
+      "My Next Life as a Villainess: All Routes Lead to Doom! Episodio Especial",
+      "My Next Life as a Villainess: All Routes Lead to Doom! Ho incontrato la mia anima gemella...",
+      "My Next Life as a Villainess: All Routes Lead to Doom! I Met My Destined One...",
+      "My Next Life as a Villainess: All Routes Lead to Doom! Ich habe die mir vorbestimmte Person getroffen",
+      "My Next Life as a Villainess: All Routes Lead to Doom! OVA",
+      "My Next Life as a Villainess: All Routes Lead to Doom! X - I Met My Destined One...",
+      "My Next Life as a Villainess: All Routes Lead to Doom! X OVA",
+      "My Next Life as a Villainess: All Routes Lead to Doom! X: I Met My Destined One...",
+      "Otome Game no Hametsu Flag Shika Nai Akuyaku Reijou ni Tensei Shiteshimatta... OVA",
+      "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shite Shimatta … X: Unmei no Hito ni Deatte Shimatta …",
+      "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta... X: Unmei no Hito ni Deatte Shimatta...",
+      "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta… OVA",
+      "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… OVA",
+      "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… X: Unmei no Hito ni Deatte Shimatta...",
+      "Otome Game no Hametsu Flag shika Nai Akuyaku Reijō ni Tensei Shite Shimatta … X: Unmei no Hito ni Deatte Shimatta ...",
+      "bakarina ova",
+      "hamefura ova",
+      "hamefurax ova",
+      "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった...X 運命の人に出会ってしまった...",
+      "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… OAD",
+      "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… OVA",
+      "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…Ｘ 運命の人に出会ってしまった...",
+      "转生成为了只有乙女游戏破灭Flag的邪恶大小姐… OAD",
+      "여성향 게임의 파멸 플래그밖에 없는 악역 영애로 환생해버렸다...X:운명의 사람를 만나버렸다..."
     ]
   },
   {
-    "title": "鬼滅の刃 鼓屋敷編",
+    "title": "範馬刃牙",
     "titleTranslate": {
       "zh-Hans": [
-        "鬼灭之刃 鼓屋敷篇"
+        "范马刃牙"
       ],
       "zh-Hant": [
-        "鬼滅之刃 鼓之宅院篇"
+        "範馬刃牙"
+      ],
+      "en": [
+        "Baki Hanma"
       ]
     },
-    "type": "tv",
+    "type": "web",
     "lang": "ja",
-    "officialSite": "https://kimetsu.com/anime/",
-    "begin": "2020-09-18T12:00:00.000Z",
-    "end": "2020-09-18T12:00:00.000Z",
+    "officialSite": "https://baki-anime.jp/",
+    "begin": "2021-09-30T16:00:00.000Z",
+    "end": "2021-09-30T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
-        "id": "349033"
+        "id": "317852"
       },
       {
-        "site": "viu",
-        "id": "415448",
-        "begin": "2021-11-30T16:00:00.000Z",
-        "broadcast": "R/2021-11-30T16:00:00.000Z/P7D"
+        "site": "netflix",
+        "id": "81236338",
+        "begin": "2021-09-29T16:00:00.000Z",
+        "broadcast": "R/2021-09-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0088178",
+        "begin": "2023-07-01T03:00:00.000Z",
+        "broadcast": "R/2023-07-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2605"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2021,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://u.livechart.me/anime/10158/poster_image/b0e0d6e5053739f5349d3db8e2e6bfb8.webp/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10158/poster_image/b0e0d6e5053739f5349d3db8e2e6bfb8.webp/small.jpg",
+    "synonyms": [
+      "Baki 3",
+      "Baki Hanma",
+      "Baki Hanma: Son of Ogre",
+      "Baki Saison 3",
+      "Baki Staffel 3",
+      "Baki Temporada 3",
+      "Baki: Son of Ogre",
+      "Hanma Baki: SON OF OGRE",
+      "Hanma Baki: Son of Ogre",
+      "The Boy Fascinating the Fighting God",
+      "baki ova",
+      "Μπάκι Χάνμα",
+      "Баки Ханма",
+      "Бакі Ханма",
+      "ฮันมะ บากิ",
+      "範馬刃牙",
+      "範馬刃牙 SON OF OGRE",
+      "范马刃牙"
+    ]
+  },
+  {
+    "title": "リョーマ！The Prince of Tennis 新生劇場版テニスの王子様",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙马！新生网球王子",
+        "新网球王子 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://gaga.ne.jp/RYOMA_MOVIE",
+    "begin": "2021-09-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-09-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "195333"
+      },
+      {
+        "site": "unext",
+        "id": "SID0064799",
+        "begin": "2023-07-05T15:00:00.000Z",
+        "broadcast": "R/2023-07-05T15:00:00.000Z/P7D",
+        "comment": "Glory, Decide: SID0064798"
+      },
+      {
+        "site": "bilibili",
+        "id": "28412314",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -5325,12 +4564,75 @@
     },
     "status": "FINISHED",
     "episodes": 1,
-    "picture": "https://media.kitsu.app/anime/45254/poster_image/small-08e147c73ad1712f12c47e507f62df21.jpeg",
-    "thumbnail": "https://media.kitsu.app/anime/45254/poster_image/tiny-ab376c28bf40c0452c0097a52ad49b84.jpeg",
+    "picture": "https://u.livechart.me/anime/8681/poster_image/f2659b9846a65ae0b1eaccd354dd029b.jpg/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/8681/poster_image/f2659b9846a65ae0b1eaccd354dd029b.jpg/small.jpg",
     "synonyms": [
-      "Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc",
-      "Kimetsu no Yaiba: Tsuzumi Yashiki-hen",
-      "鬼滅の刃 鼓屋敷編"
+      "Ryoma! The Prince of Tennis",
+      "Ryoma! The Prince of Tennis (Decide)",
+      "Ryouma! Rebirth The Prince of Tennis",
+      "Ryouma! Shinsei Gekijouban Tennis no Ouji-sama",
+      "Ryouma! Shinsei Tennis no Ouji-sama",
+      "Ryouma! The Prince of Tennis Shinsei Gekijouban Tennis no Ouji-sama",
+      "Ryouma! The Prince of Tennis Shinsei Movie: Tennis no Oujisama",
+      "Ryouma! The Prince of Tennis Shinsei Tennis no Ouji-sama",
+      "Ryōma! The Prince of Tennis Shinsei Gekijōban Tennis no Ōji-sama",
+      "リョーマ! The Prince of Tennis 新生劇場版テニスの王子様",
+      "リョーマ! 新生 劇場版テニスの王子様",
+      "リョーマ! 新生劇場版テニスの王子様",
+      "リョーマ！ The Prince of Tennis 新生劇場版テニスの王子様",
+      "リョーマ！The Prince of Tennis 新生劇場版テニスの王子様",
+      "新网球王子 剧场版"
+    ]
+  },
+  {
+    "title": "プリンセス・プリンシパル Crown Handler 第2章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Princess Principal Crown Handler 第2章",
+        "公主代理人 Crown Handler 第2章",
+        "公主委托人 Crown Handler 第2章",
+        "公主准则 Crown Handler 第2章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.pripri-anime.jp",
+    "begin": "2021-09-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-09-22T16:55:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "244929"
+      },
+      {
+        "site": "unext",
+        "id": "SID0064927",
+        "begin": "2021-12-12T15:00:00.000Z",
+        "broadcast": "R/2021-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2613"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2021,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://u.livechart.me/anime/10406/poster_image/9ab410b00369b0cfd1367651618833dd.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10406/poster_image/9ab410b00369b0cfd1367651618833dd.png/small.jpg",
+    "synonyms": [
+      "Princess Principal Movie 2",
+      "Princess Principal: Crown Handler 2",
+      "Princess Principal: Crown Handler Movie 2",
+      "Princess Principal: ~Crown Handler~ 2",
+      "プリンセス・プリンシパル Crown Handler 第2章",
+      "プリンセス・プリンシパル Crown Handler 第2話"
     ]
   },
   {
@@ -5351,8 +4653,8 @@
     },
     "status": "FINISHED",
     "episodes": 4,
-    "picture": "https://cdn.myanimelist.net/images/anime/1316/118632.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1316/118632t.jpg",
+    "picture": "https://u.livechart.me/anime/10821/poster_image/9112b6edc4b847d055e50d970d8c56f3.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10821/poster_image/9112b6edc4b847d055e50d970d8c56f3.png/small.jpg",
     "synonyms": [
       "Neko Jockey Season 2",
       "猫ジョッキー",
@@ -5426,10 +4728,9 @@
     },
     "status": "FINISHED",
     "episodes": 13,
-    "picture": "https://cdn.myanimelist.net/images/anime/1263/117945.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1263/117945t.jpg",
+    "picture": "https://u.livechart.me/anime/10356/poster_image/260285938197e0256068bda0d35c4e8b.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10356/poster_image/260285938197e0256068bda0d35c4e8b.png/small.jpg",
     "synonyms": [
-      "CARDFIGHT!! VANGUARD overDress Season 2",
       "Cardfight!! Vanguard : OverDress (Saison 2)",
       "Cardfight!! Vanguard overDress Season 2",
       "Cardfight!! Vanguard: Over Dress",
@@ -5439,6 +4740,7 @@
       "Cardfight!! Vanguard: OverDress (Staffel 2)",
       "Cardfight!! Vanguard: OverDress (Temporada 2)",
       "Cardfight!! Vanguard: overDress 2nd Season",
+      "Cardfight!! Vanguard: overDress Season 2",
       "การ์ดไฟท์!! แวนการ์ด โอเวอร์เดรส ภาค 2",
       "カードファイト!! ヴァンガード OverDress (2021)",
       "カードファイト!! ヴァンガード overDress",
@@ -5514,8 +4816,8 @@
     },
     "status": "FINISHED",
     "episodes": 14,
-    "picture": "https://cdn.myanimelist.net/images/anime/1617/117474.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1617/117474t.jpg",
+    "picture": "https://u.livechart.me/anime/10282/poster_image/16b98b1c133949efdbfa6c6cdcfceab9.png/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/10282/poster_image/16b98b1c133949efdbfa6c6cdcfceab9.png/small.jpg",
     "synonyms": [
       "Word Trigger Temporada 3",
       "World Trigger 3",
@@ -5528,6 +4830,96 @@
       "ワールドトリガー 3rdシーズン",
       "ワールドトリガー3",
       "境界触发者 第三季"
+    ]
+  },
+  {
+    "title": "Free!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Free!"
+      ],
+      "zh-Hant": [
+        "FREE! 男子游泳部"
+      ],
+      "en": [
+        "Free!"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://1st.iwatobi-sc.com/",
+    "begin": "2013-07-03T15:30:00.000Z",
+    "end": "2013-09-25T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "72109"
+      },
+      {
+        "site": "nicovideo",
+        "id": "iwatobi-sc",
+        "begin": "2013-07-08T13:30:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "120712",
+        "begin": "2013-07-02T16:00:01.000Z",
+        "broadcast": "R/2018-07-31T06:10:00.000Z/P7D"
+      },
+      {
+        "site": "acfun",
+        "id": "6003411",
+        "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "61469",
+        "begin": "2018-07-18T03:00:00.000Z",
+        "broadcast": "R/2018-07-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016679",
+        "begin": "2017-07-01T03:00:00.000Z",
+        "broadcast": "R/2017-07-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "61469",
+        "begin": "2018-07-18T03:00:00.000Z",
+        "broadcast": "R/2018-07-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "子遊"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2021,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://u.livechart.me/anime/3536/poster_image/3cfa368f2e82312fb276e911c28b3f26.webp/large.jpg",
+    "thumbnail": "https://u.livechart.me/anime/3536/poster_image/3cfa368f2e82312fb276e911c28b3f26.webp/small.jpg",
+    "synonyms": [
+      "Free!",
+      "Free! (Movie)",
+      "Free! -the Final Stroke- the First Volume",
+      "Free! FS",
+      "Free! Movie 4: The Final Stroke",
+      "Free! Movie 4: The Final Stroke - Zenpen",
+      "Free! Movie: The Final Stroke - Zenpen",
+      "Free! the Final Stroke: The First Volume",
+      "Free!: Dive to the Future 2",
+      "Free!: the Final Stroke - Zenpen",
+      "Free!–the Final Stroke– - Zenpen",
+      "Free!–the Final Stroke– Part 1",
+      "Gekijouban Free! The Final Stroke Zenpen",
+      "劇場版 Free!-the Final Stroke-",
+      "劇場版 Free!–the Final Stroke– 前編"
     ]
   }
 ]
