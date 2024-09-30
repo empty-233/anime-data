@@ -46,8 +46,8 @@
     },
     "status": "FINISHED",
     "episodes": 50,
-    "picture": "https://u.livechart.me/anime/11687/poster_image/27e3873f008deec37d5769610fcd0326.webp/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/11687/poster_image/27e3873f008deec37d5769610fcd0326.webp/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/1762/135268.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1762/135268t.jpg",
     "synonyms": [
       "Hirogaru Sky! Pretty Cure",
       "Pretty Cure Season 20",
@@ -59,6 +59,49 @@
       "ひろがるスカイ！ プリキュア",
       "ひろがるスカイ！プリキュア",
       "开阔天空！光之美少女"
+    ]
+  },
+  {
+    "title": "MAKE MY DAY",
+    "titleTranslate": {
+      "zh-Hans": [
+        "冰雪极境"
+      ],
+      "zh-Hant": [
+        "冰雪極境"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.asahi.co.jp/precure/delicious/",
+    "begin": "2023-02-01T16:00:00.000Z",
+    "broadcast": "R/2023-02-01T16:00:00.000Z/P0D",
+    "end": "2023-02-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "338655"
+      },
+      {
+        "site": "netflix",
+        "id": "81176967",
+        "begin": "2023-02-01T16:00:00.000Z",
+        "broadcast": "R/2023-02-01T16:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2023,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 8,
+    "picture": "https://cdn.myanimelist.net/images/anime/1105/137747.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1105/137747t.jpg",
+    "synonyms": [
+      "MAKE MY DAY",
+      "冰雪极境"
     ]
   },
   {
@@ -105,6 +148,57 @@
     "synonyms": [
       "RWBY Season 9",
       "RWBY Volume 9"
+    ]
+  },
+  {
+    "title": "BLUE GIANT",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蓝色巨星"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://bluegiant-movie.jp/",
+    "begin": "2023-02-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-02-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "353792"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093993",
+        "begin": "2023-10-18T03:00:00.000Z",
+        "broadcast": "R/2023-10-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3190"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2023,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1958/132159.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1958/132159t.jpg",
+    "synonyms": [
+      "BLUE GIANT",
+      "BLUE GIANT 特別編",
+      "Blue Giant Tokubetsu-hen",
+      "ブルージャイアント",
+      "ブルージャイント",
+      "映画 BLUE GIANT",
+      "蓝巨人",
+      "蓝色巨星",
+      "블루 자이언트"
     ]
   }
 ]

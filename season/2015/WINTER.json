@@ -29,8 +29,8 @@
     },
     "status": "FINISHED",
     "episodes": 2,
-    "picture": "https://media.notify.moe/images/anime/large/_XAPpFiiR.jpg",
-    "thumbnail": "https://media.notify.moe/images/anime/small/_XAPpFiiR.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/6/72234.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/72234t.jpg",
     "synonyms": [
       "Daisan Hikou Shoujo-Tai",
       "Exodus!",
@@ -90,17 +90,17 @@
     },
     "status": "FINISHED",
     "episodes": 1,
-    "picture": "https://u.livechart.me/anime/218/poster_image/494685a1a01a03b4443a9a9ffc731aff.webp/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/218/poster_image/494685a1a01a03b4443a9a9ffc731aff.webp/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/8/71793.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/71793t.jpg",
     "synonyms": [
       "Gekijouban Psycho-Pass",
       "Gekijōban Psycho-Pass",
       "PSYCHO-PASS Movie",
+      "PSYCHO-PASS The Movie",
       "PSYCHO-PASS: La Película",
       "PSYCHO-PASS: The Movie",
       "PSYCHO-PASS心靈判官劇場版",
       "Psycho Pass: Der Film",
-      "Psycho-Pass Movie",
       "Psycho-Pass: Der Film",
       "Psycho-Pass: La Película",
       "Psycho-Pass: Le Film",
@@ -115,39 +115,390 @@
     ]
   },
   {
-    "title": "ハッピージョージ",
+    "title": "勇者大冒险",
     "titleTranslate": {},
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "",
-    "begin": "2015-04-01T16:00:00.000Z",
-    "broadcast": "R/2015-04-01T16:00:00.000Z/P7D",
-    "end": "2016-03-30T16:00:00.000Z",
-    "comment": "",
+    "type": "web",
+    "lang": "zh-Hans",
+    "officialSite": "http://ac.qq.com/event/yzdmx201510/index.html",
+    "begin": "2015-03-31T12:00:00.000Z",
+    "end": "2015-10-30T12:15:00.000Z",
     "sites": [
       {
-        "site": "bangumi",
-        "id": "208346"
+        "site": "bilibili",
+        "id": "2542",
+        "begin": "2015-02-28T16:00:00.000Z",
+        "broadcast": "R/2015-03-31T03:24:00.000Z/P7D"
       },
       {
-        "site": "unext",
-        "id": "SID0019746",
-        "begin": "2020-12-28T03:00:00.000Z",
-        "broadcast": "R/2020-12-28T03:00:00.000Z/P7D"
+        "site": "qq",
+        "id": "t/tjcnpm8ju18qojf",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhayff9",
+        "begin": "2015-03-31T04:21:33.000Z"
+      },
+      {
+        "site": "mgtv",
+        "id": "157132",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "130364"
+      },
+      {
+        "site": "acfun",
+        "id": "5020018",
+        "begin": "2017-11-13T09:27:44.000Z"
       }
     ],
     "animeSeason": {
       "season": "WINTER",
       "year": 2015,
-      "month": "04"
+      "month": "03"
     },
     "status": "FINISHED",
-    "episodes": 52,
-    "picture": "https://u.livechart.me/anime/1463/poster_image/248424c0795b589adfd4debfe90d4483.png/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/1463/poster_image/248424c0795b589adfd4debfe90d4483.png/small.jpg",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/81277.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/81277t.jpg",
     "synonyms": [
-      "Happy George",
-      "ハッピージョージ"
+      "Brave Adventure",
+      "Yong Zhe Da Mao Xian",
+      "勇者大冒险"
+    ]
+  },
+  {
+    "title": "ドラえもん のび太の宇宙英雄記",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦 大雄的宇宙英雄记"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄之宇宙英雄記"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://doraeiga.com/2015/",
+    "begin": "2015-03-07T16:00:00.000Z",
+    "end": "2015-03-07T17:40:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "108093"
+      },
+      {
+        "site": "youku",
+        "id": "243f33e40fb711e4b8b7",
+        "begin": "2016-06-23T04:07:10.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "71562",
+        "begin": "2023-03-16T02:00:00.000Z",
+        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "35-46",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099888",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2015,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/72404.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/72404t.jpg",
+    "synonyms": [
+      "Doraemon Movie 35",
+      "Doraemon Movie 35: Nobita's Space Hero Heroes",
+      "Doraemon Movie 35: Nobita’s Space Hero Record of Space Heroes",
+      "Doraemon The Super Star 2015",
+      "Doraemon il Film: Nobita e gli eroi dello spazio",
+      "Doraemon the Super Star 2015",
+      "Doraemon: Nobita and the Space Heroes",
+      "Doraemon: Nobita no Space Heroes",
+      "Doraemon: Nobita no Uchuu Eiyuuki",
+      "Doraemon: Nobita y los héroes del espacio",
+      "Doraemon: Nobita's Space Hero Record of Space Heroes",
+      "Doraemon: Nobita's Space Heroes",
+      "Doraemon: Nobita`s Space Heroes",
+      "Eiga Doraemon 35",
+      "Eiga Doraemon: Nobita no Space Heroes",
+      "ドラえもん のび太の宇宙英雄記",
+      "映画 ドラえもん のび太の宇宙英雄記",
+      "映画 ドラえもん のび太の宇宙英雄記[スペースヒーローズ]",
+      "映画ドラえもん のび太の宇宙英雄記[スペースヒーローズ]",
+      "电影哆啦A梦 大雄的宇宙英雄记"
+    ]
+  },
+  {
+    "title": "音楽少女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "音乐少女"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://animemirai.jp/ongakushoujo.html",
+    "begin": "2015-03-22T16:00:00.000Z",
+    "end": "2015-03-22T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "108010"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2015,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/72484.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/72484t.jpg",
+    "synonyms": [
+      "2015 Young Animator Training Project",
+      "Anime Mirai 2015",
+      "Anime Mirai Project 2015",
+      "Music Girl",
+      "Music Girls",
+      "Music Girls (2015)",
+      "Ongaku Shoujo (2015)",
+      "Ongaku Shoujo Movie",
+      "Ongaku Shōjo",
+      "Wakate Animator Ikusei Project",
+      "Wakate Animator Ikusei Project 2015",
+      "Young Animator Training Project 2015",
+      "音楽少女"
+    ]
+  },
+  {
+    "title": "アキの奏で",
+    "titleTranslate": {
+      "zh-Hans": [
+        "秋之鼓点"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://animemirai.jp/akino.html",
+    "begin": "2015-03-22T16:00:00.000Z",
+    "end": "2015-03-22T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "108012"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2015,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1839/123300.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1839/123300t.jpg",
+    "synonyms": [
+      "2015 Young Animator Training Project",
+      "Aki's Music-Playing",
+      "Anime Mirai 2015",
+      "Anime Mirai Project 2015",
+      "Wakate Animator Ikusei Project",
+      "Wakate Animator Ikusei Project 2015",
+      "Young Animator Training Project 2015",
+      "アキの奏で",
+      "秋之鼓点"
+    ]
+  },
+  {
+    "title": "ハッピーカムカム",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机器人妈妈"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://animemirai.jp/happy.html",
+    "begin": "2015-03-22T16:00:00.000Z",
+    "end": "2015-03-22T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "108011"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2015,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/72482.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/72482t.jpg",
+    "synonyms": [
+      "2015 Young Animator Training Project",
+      "Anime Mirai 2015",
+      "Anime Mirai Project 2015",
+      "Happy Come Come",
+      "Happy★ComeCome",
+      "Wakate Animator Ikusei Project",
+      "Wakate Animator Ikusei Project 2015",
+      "Young Animator Training Project 2015",
+      "ハッピーカムカム"
+    ]
+  },
+  {
+    "title": "クミとチューリップ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "红美与郁金香"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://animemirai.jp/kumi.html",
+    "begin": "2015-03-22T16:00:00.000Z",
+    "end": "2015-03-22T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "108009"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2015,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/72483.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/72483t.jpg",
+    "synonyms": [
+      "2015 Young Animator Training Project",
+      "Anime Mirai 2015",
+      "Anime Mirai Project 2015",
+      "Kumi and Tulip",
+      "Wakate Animator Ikusei Project",
+      "Wakate Animator Ikusei Project 2015",
+      "Young Animator Training Project 2015",
+      "クミとチューリップ",
+      "红美与郁金香"
+    ]
+  },
+  {
+    "title": "劇場版 シドニアの騎士",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 希德尼娅的骑士"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.knightsofsidonia.com/",
+    "begin": "2015-03-06T16:00:00.000Z",
+    "end": "2015-03-06T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "118098"
+      },
+      {
+        "site": "nicovideo",
+        "id": "movie-sidonia",
+        "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0042917",
+        "begin": "2019-09-10T03:00:00.000Z",
+        "broadcast": "R/2019-09-10T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2015,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/69369.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/69369t.jpg",
+    "synonyms": [
+      "Gekijouban Sidonia no Kishi",
+      "Gekijōban Sidonia no Kishi",
+      "Knights of Sidonia (Movie)",
+      "Knights of Sidonia Movie",
+      "Knights of Sidonia: The Movie",
+      "gsidki movie",
+      "劇場版 シドニアの騎士",
+      "劇場版「シドニアの騎士」",
+      "극장판 시도니아의 기사"
+    ]
+  },
+  {
+    "title": "劇場版しまじろうのわお! しまじろうとおおきなき",
+    "titleTranslate": {
+      "zh-Hans": [
+        "巧虎与大大的树",
+        "巧虎抢救天空树"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kodomo.benesse.ne.jp/ap/movie/2015-ookinaki/",
+    "begin": "2015-03-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2015-03-12T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "120237"
+      },
+      {
+        "site": "unext",
+        "id": "SID0019217",
+        "begin": "2020-08-14T03:00:00.000Z",
+        "broadcast": "R/2020-08-14T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2015,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/72464.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/72464t.jpg",
+    "synonyms": [
+      "Shimajiro and the Mother Tree",
+      "Shimajirou to Ookina Ki",
+      "Shimajirou to Ookinaki",
+      "Shimajirō to Ōkina Ki",
+      "しまじろうと おおきなき",
+      "しまじろうとおおきなき",
+      "劇場版しまじろうのわお! しまじろうとおおきなき"
     ]
   },
   {
@@ -201,8 +552,8 @@
     },
     "status": "FINISHED",
     "episodes": 20,
-    "picture": "https://u.livechart.me/anime/1251/poster_image/0dad325f620a706376db20d56d353f29.jpg/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/1251/poster_image/0dad325f620a706376db20d56d353f29.jpg/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/4/69621.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/69621t.jpg",
     "synonyms": [
       "Anime de Wakaru Shinryou Naika",
       "Anime de Wakaru Shinryônaika",
@@ -276,8 +627,8 @@
     },
     "status": "FINISHED",
     "episodes": 6,
-    "picture": "https://u.livechart.me/anime/477/poster_image/503bdef9f5872e2ba3af58649f0c0eed.png/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/477/poster_image/503bdef9f5872e2ba3af58649f0c0eed.png/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/4/72702.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/72702t.jpg",
     "synonyms": [
       "Akatsuki no Houki",
       "Aoi Hitomi no Casval",
@@ -285,6 +636,7 @@
       "Kanashimi no Artesia",
       "Kidou Senshi Gundam: THE ORIGIN",
       "Kidō Senshi Gundam: The Origin",
+      "MOBILE SUIT GUNDAM THE ORIGIN",
       "Mobile Suit Gundam: The Origin",
       "机动战士高达 起源",
       "機動戦士ガンダム THE ORIGIN",
@@ -323,8 +675,8 @@
     },
     "status": "FINISHED",
     "episodes": 1,
-    "picture": "https://u.livechart.me/anime/1264/poster_image/dcaa34e3f1ab959bcb09fc70dad8ccc1.png/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/1264/poster_image/dcaa34e3f1ab959bcb09fc70dad8ccc1.png/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/12/71197.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/71197t.jpg",
     "synonyms": [
       "El Caso de Hana y Alice",
       "El caso de Hana y Alice",
@@ -337,6 +689,61 @@
       "The Case of Hana and Alice",
       "花とアリス 殺人事件",
       "花とアリス殺人事件"
+    ]
+  },
+  {
+    "title": "ゆるゆり なちゅやちゅみ!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "摇曳百合 夏日时光！"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://yuruyuri.com/",
+    "begin": "2015-02-18T16:00:00.000Z",
+    "end": "2015-02-18T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "99796"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nachuyachumi",
+        "begin": "2015-03-08T15:00:00.000Z",
+        "broadcast": "R/2015-03-08T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012727",
+        "begin": "2015-04-16T05:00:00.000Z",
+        "broadcast": "R/2015-04-16T05:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2015,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/73281.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/73281t.jpg",
+    "synonyms": [
+      "YRYR OVA",
+      "Yuru Yuri Nachu Yachumi!",
+      "Yuru Yuri OVA",
+      "Yuru Yuri OVA (2015)",
+      "Yuru Yuri Summer Vacation!",
+      "YuruYuri Nachuyachumi!",
+      "Yuruyuri OVA",
+      "yuri ova",
+      "yuruyuri ova",
+      "yy ova",
+      "ゆるゆり なちゅやちゅみ!",
+      "ゆるゆり なちゅやちゅみ！",
+      "ゆるゆり　なちゅやちゅみ！"
     ]
   },
   {
@@ -374,8 +781,8 @@
     },
     "status": "FINISHED",
     "episodes": 2,
-    "picture": "https://media.notify.moe/images/anime/large/_XAPpFiiR.jpg",
-    "thumbnail": "https://media.notify.moe/images/anime/small/_XAPpFiiR.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/6/72234.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/72234t.jpg",
     "synonyms": [
       "Daisan Hikou Shoujo-Tai",
       "Exodus!",
@@ -438,14 +845,14 @@
       "month": "02"
     },
     "status": "FINISHED",
-    "episodes": 4,
-    "picture": "https://u.livechart.me/anime/602/poster_image/e7b32fa48b2732e75c8f51fb48812d76.jpg/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/602/poster_image/e7b32fa48b2732e75c8f51fb48812d76.jpg/small.jpg",
+    "episodes": 3,
+    "picture": "https://cdn.anime-planet.com/anime/primary/hozukis-coolheadedness-ova-1.jpg",
+    "thumbnail": "https://cdn.anime-planet.com/anime/primary/hozukis-coolheadedness-ova-1-190x271.jpg",
     "synonyms": [
       "Cool-headed Hoozuki OVA",
+      "Hoozuki no Reitetsu OVA",
       "Hozuki no Reitetsu OVA",
-      "鬼灯の冷徹 OAD",
-      "鬼灯の冷徹 OVA"
+      "鬼灯の冷徹 OAD"
     ]
   },
   {
@@ -478,14 +885,14 @@
     },
     "status": "FINISHED",
     "episodes": 1,
-    "picture": "https://u.livechart.me/anime/796/poster_image/a6a3f47125a564fc3076d6bbae388693.jpg/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/796/poster_image/a6a3f47125a564fc3076d6bbae388693.jpg/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/12/74238.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/74238t.jpg",
     "synonyms": [
       "DIABOLIK LOVERS (2015)",
       "DIABOLIK LOVERS OAD",
+      "DIABOLIK LOVERS OVA",
       "Diabolik Lovers (2015)",
       "Diabolik Lovers DARK FATE OVA",
-      "Diabolik Lovers OVA",
       "dialover ova",
       "魔鬼恋人 OAD"
     ]
@@ -537,8 +944,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://u.livechart.me/anime/1049/poster_image/6bae69390946fd4df6029c7558e80b44.jpg/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/1049/poster_image/6bae69390946fd4df6029c7558e80b44.jpg/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/5/66891.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/66891t.jpg",
     "synonyms": [
       "Tantei Opera Milky Holmes S4",
       "Tantei Opera Milky Holmes TD",
@@ -609,8 +1016,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://u.livechart.me/anime/708/poster_image/ff73f884f1400a19705a97a7ad9c242c.jpg/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/708/poster_image/ff73f884f1400a19705a97a7ad9c242c.jpg/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/4/68839.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/68839t.jpg",
     "synonyms": [
       "AbsoDuo",
       "Абсолютный дуэт",
@@ -682,8 +1089,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://u.livechart.me/anime/775/poster_image/1289c11c23c472ce17438af5cdb20f55.jpg/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/775/poster_image/1289c11c23c472ce17438af5cdb20f55.jpg/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/11/73956.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/73956t.jpg",
     "synonyms": [
       "Everyone Gather! Falcom Academy 2",
       "Everyone Gather! Falcom Academy SC",
@@ -730,8 +1137,8 @@
     },
     "status": "FINISHED",
     "episodes": 24,
-    "picture": "https://u.livechart.me/anime/1355/poster_image/58fa6f2453381807a117c67e6f761f4c.png/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/1355/poster_image/58fa6f2453381807a117c67e6f761f4c.png/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/5/70011.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/70011t.jpg",
     "synonyms": [
       "Washimo 2",
       "Washimo Season 2",
@@ -819,8 +1226,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://u.livechart.me/anime/781/poster_image/7dd3b5bc8834af9cddb7c223fcdbb96c.webp/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/781/poster_image/7dd3b5bc8834af9cddb7c223fcdbb96c.webp/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/3/69203.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/69203t.jpg",
     "synonyms": [
       "Burza Liliowego Niedźwiedzia",
       "Difficulty with the Yuri Bear",
@@ -883,8 +1290,8 @@
     },
     "status": "FINISHED",
     "episodes": 13,
-    "picture": "https://u.livechart.me/anime/1179/poster_image/24fd3ed7e37b90533eabc83e18e2af6a.jpg/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/1179/poster_image/24fd3ed7e37b90533eabc83e18e2af6a.jpg/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/4/70995.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/70995t.jpg",
     "synonyms": [
       "Doamaigaa D",
       "Doamayger D",
@@ -985,8 +1392,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://u.livechart.me/anime/741/poster_image/67054eb50e881f44ccf58eee13ddb726.jpg/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/741/poster_image/67054eb50e881f44ccf58eee13ddb726.jpg/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/8/69187.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/69187t.jpg",
     "synonyms": [
       "Kami-sama Hajimemashita 2nd Season",
       "Kamihaji 2",
@@ -1070,8 +1477,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://u.livechart.me/anime/731/poster_image/16fec1c8c477b27f31b2a93de6945b03.png/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/731/poster_image/16fec1c8c477b27f31b2a93de6945b03.png/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/4/68837.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/68837t.jpg",
     "synonyms": [
       "Militari!",
       "Miritari!",
@@ -1150,11 +1557,11 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://u.livechart.me/anime/1111/poster_image/d7cc7c023ddc4bb09e3c7cfa27446f82.jpg/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/1111/poster_image/d7cc7c023ddc4bb09e3c7cfa27446f82.jpg/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/10/68451.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/68451t.jpg",
     "synonyms": [
       "Binan Koukou Chikyuu Bouei Bu Love!",
-      "Binan Koukou Chikyuu Bouei-bu LOVE!",
+      "Binan Koukou Chikyuu Bouei-bu Love!",
       "Binan Koukou Chikyuu Boueibu LOVE!",
       "Binan Koukou Chikyuu Boueibu Love!",
       "Binan Kôkô Chikyû Bôei-bu Love!",
@@ -1225,8 +1632,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://u.livechart.me/anime/252/poster_image/0fb1fe07f0c3613d54271fbeec57581e.jpg/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/252/poster_image/0fb1fe07f0c3613d54271fbeec57581e.jpg/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/4/73954.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/73954t.jpg",
     "synonyms": [
       "Fleet Girls Collection",
       "Kan Colle",
@@ -1314,8 +1721,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://u.livechart.me/anime/470/poster_image/e29e8dd49e856a4d9860351956425f6b.webp/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/470/poster_image/e29e8dd49e856a4d9860351956425f6b.webp/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/1654/112033.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1654/112033t.jpg",
     "synonyms": [
       "Shinmai Maou no Keiyakusha",
       "Shinmai Maô no Testament",
@@ -1417,9 +1824,9 @@
       "month": "01"
     },
     "status": "FINISHED",
-    "episodes": 13,
-    "picture": "https://u.livechart.me/anime/476/poster_image/d430b628dcc73bcff9fda77f4becb477.jpg/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/476/poster_image/d430b628dcc73bcff9fda77f4becb477.jpg/small.jpg",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1329/142757.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1329/142757t.jpg",
     "synonyms": [
       "How to Train the Ordinary Girl to Be a Heroine",
       "How to Train the Ordinary Girl to be a Heroine",
@@ -1489,10 +1896,10 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://u.livechart.me/anime/1276/poster_image/af6bd5198ad287b87b48ee45c7773c06.jpg/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/1276/poster_image/af6bd5198ad287b87b48ee45c7773c06.jpg/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/11/70069.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/70069t.jpg",
     "synonyms": [
-      "Ketsuekigata-kun! 2",
+      "Ketsuekigata-kun! 2nd Season",
       "Ketsuekigata-kun! Second Season",
       "けつえきがたくんつー",
       "血型君2",
@@ -1557,8 +1964,8 @@
     },
     "status": "FINISHED",
     "episodes": 13,
-    "picture": "https://u.livechart.me/anime/200/poster_image/38079b705853cb2b6896828d5a33bc1d.png/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/200/poster_image/38079b705853cb2b6896828d5a33bc1d.png/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/5/68565.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/68565t.jpg",
     "synonyms": [
       "Dead Aggressor: Exodus",
       "Fafner Exodus",
@@ -1659,15 +2066,15 @@
     },
     "status": "FINISHED",
     "episodes": 13,
-    "picture": "https://u.livechart.me/anime/517/poster_image/b1743a8f4dc90b142f307c8fe5350e1e.jpg/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/517/poster_image/b1743a8f4dc90b142f307c8fe5350e1e.jpg/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/10/70733.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/70733t.jpg",
     "synonyms": [
       "THE IDOLM@STER CINDERELLA GIRLS",
       "THE IDOLM@STER Cinderella Girls",
       "THE IDOLM@STER シンデレラガールズ",
+      "The IDOLM@STER Cinderella Girls",
       "The Idolmaster Cinderella Girls",
       "The Idolmaster: Cinderella Girls",
-      "The iDOLM@STER Cinderella Girls",
       "The iDOLM@STER: Cinderella Girls",
       "imascg",
       "あいどるますたーしんでれらがーるず",
@@ -1764,8 +2171,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://u.livechart.me/anime/616/poster_image/40c3f0592fc057d908ae3840ba47f383.jpg/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/616/poster_image/40c3f0592fc057d908ae3840ba47f383.jpg/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/4/71963.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/71963t.jpg",
     "synonyms": [
       "Gourmet Girl Graffiti",
       "Happy Cooking Graffiti",
@@ -1853,8 +2260,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://u.livechart.me/anime/641/poster_image/c7c686913fc8c634b6d9975d204f776c.png/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/641/poster_image/c7c686913fc8c634b6d9975d204f776c.png/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/11/69085.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/69085t.jpg",
     "synonyms": [
       "Jūō Mujin no Fafnir",
       "Mujin Fafnir",
@@ -1944,8 +2351,8 @@
     },
     "status": "FINISHED",
     "episodes": 24,
-    "picture": "https://u.livechart.me/anime/739/poster_image/da92d5767aa12346a176d48b7e715279.png/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/739/poster_image/da92d5767aa12346a176d48b7e715279.png/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/11/75045.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/75045t.jpg",
     "synonyms": [
       "Aventurile Bizare ale lui JoJo Partea 3: Vitejii Stelelor - Lupta din Egipt",
       "Dai San Bu Kujo Jotaro: Mirai e no Isan",
@@ -1954,9 +2361,9 @@
       "JoJo 2015",
       "JoJo Part III: Stardust Crusaders (2015)",
       "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen",
-      "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season",
       "JoJo no Kimyou na Bouken: Stardust Crusaders (2015)",
       "JoJo no Kimyou na Bouken: Stardust Crusaders - Egypt Hen",
+      "JoJo no Kimyou na Bouken: Stardust Crusaders - Egypt-hen",
       "JoJo no Kimyou na Bouken: Stardust Crusaders 2",
       "JoJo no Kimyou na Bouken: Stardust Crusaders 2nd Season",
       "JoJo no Kimyō na Bōken: Stardust Crusaders - Egypt-hen",
@@ -2080,8 +2487,8 @@
     },
     "status": "FINISHED",
     "episodes": 22,
-    "picture": "https://u.livechart.me/anime/638/poster_image/08cbe16c9398e5f9e1c3974f3cc53f73.jpg/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/638/poster_image/08cbe16c9398e5f9e1c3974f3cc53f73.jpg/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/5/75639.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/75639t.jpg",
     "synonyms": [
       "Ansatsu Kyoushitsu (2015)",
       "Ansatsu Kyoushitsu (TV)",
@@ -2177,8 +2584,8 @@
     },
     "status": "FINISHED",
     "episodes": 13,
-    "picture": "https://u.livechart.me/anime/1139/poster_image/cb28bd6ef66c0f7438deb7b69bd029fa.png/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/1139/poster_image/cb28bd6ef66c0f7438deb7b69bd029fa.png/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/12/70705.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/70705t.jpg",
     "synonyms": [
       "SHONEN HOLLYWOOD -HOLLY STAGE FOR 50-",
       "ShoHari 2",
@@ -2250,8 +2657,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://u.livechart.me/anime/1280/poster_image/bb07c0d2da5dbdfb506791c0af45fd92.png/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/1280/poster_image/bb07c0d2da5dbdfb506791c0af45fd92.png/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/5/71553.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/71553t.jpg",
     "synonyms": [
       "Парад на смъртта",
       "Парад смерти",
@@ -2321,8 +2728,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://u.livechart.me/anime/273/poster_image/bb5435a603e534d494a13ff87c7811d7.png/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/273/poster_image/bb5435a603e534d494a13ff87c7811d7.png/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/1940/98844.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1940/98844t.jpg",
     "synonyms": [
       "Junketsu no Maria: Sorcière de gré",
       "Junketsu no Maria: Sorcière de gré, pucelle de force",
@@ -2404,8 +2811,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://u.livechart.me/anime/770/poster_image/8fabce841ba0b22b74f92a93ac74d5de.jpg/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/770/poster_image/8fabce841ba0b22b74f92a93ac74d5de.jpg/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/12/71527.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/71527t.jpg",
     "synonyms": [
       "THE ROLLING GIRLS",
       "The Rolling Girls",
@@ -2485,8 +2892,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://u.livechart.me/anime/1270/poster_image/10c03768132078ff67e8d5ff1365e57f.webp/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/1270/poster_image/10c03768132078ff67e8d5ff1365e57f.webp/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/11/71773.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/71773t.jpg",
     "synonyms": [
       "Time Bokan Series 9",
       "Time Bokan: Yoru no Yatterman",
@@ -2560,8 +2967,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://u.livechart.me/anime/435/poster_image/3e7a93e873e727554c202b69f63b8a4b.png/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/435/poster_image/3e7a93e873e727554c202b69f63b8a4b.png/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/7/71769.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/71769t.jpg",
     "synonyms": [
       "Seiken Tsukai no Kinju Eishou",
       "Seiken Tsukai no Kinshuu Eishou",
@@ -2647,8 +3054,8 @@
     },
     "status": "FINISHED",
     "episodes": 12,
-    "picture": "https://u.livechart.me/anime/1286/poster_image/4393b1daf3bbb2f16542c17340d19bbb.jpg/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/1286/poster_image/4393b1daf3bbb2f16542c17340d19bbb.jpg/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/3/71770.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/71770t.jpg",
     "synonyms": [
       "Samurai Warriors",
       "Samurai Warriors: Sengoku Musou",
@@ -2710,8 +3117,8 @@
     },
     "status": "FINISHED",
     "episodes": 10,
-    "picture": "https://u.livechart.me/anime/623/poster_image/c3b2de22cc17e5d1843cc1e53fc184f8.webp/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/623/poster_image/c3b2de22cc17e5d1843cc1e53fc184f8.webp/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/1769/134794.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1769/134794t.jpg",
     "synonyms": [
       "ISUCA",
       "ISUCA [イスカ]",
@@ -2777,8 +3184,8 @@
     },
     "status": "FINISHED",
     "episodes": 50,
-    "picture": "https://u.livechart.me/anime/1292/poster_image/631c6c2529d1be9ec7dd8d19005e5722.jpg/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/1292/poster_image/631c6c2529d1be9ec7dd8d19005e5722.jpg/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/10/88625.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/88625t.jpg",
     "synonyms": [
       "Go! Princess Pretty Cure",
       "Go! Princess 光之美少女",
@@ -2788,46 +3195,6 @@
       "gopri",
       "precure12",
       "ごーぷりんせすぷりきゅあ"
-    ]
-  },
-  {
-    "title": "快盗天使ツインエンジェル キュンキュン☆ときめきパラダイス!! OVA",
-    "titleTranslate": {
-      "zh-Hans": [
-        "快盗天使双胞胎 OVA"
-      ]
-    },
-    "type": "ova",
-    "lang": "ja",
-    "officialSite": "http://twin-angel.com/media.html",
-    "begin": "2015-01-30T16:00:00.000Z",
-    "end": "2015-01-30T17:00:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "84705"
-      }
-    ],
-    "animeSeason": {
-      "season": "WINTER",
-      "year": 2015,
-      "month": "01"
-    },
-    "status": "FINISHED",
-    "episodes": 2,
-    "picture": "https://u.livechart.me/anime/257/poster_image/b7cff3b9bb07dcfea6babc11c21de552.jpg/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/257/poster_image/b7cff3b9bb07dcfea6babc11c21de552.jpg/small.jpg",
-    "synonyms": [
-      "Kaitou Tenshi Twin Angel: Kyun Kyun Tokimeki Paradise!! OVA",
-      "Kaitou Tenshi Twin Angel: Kyunkyun☆Tokimeki Paradise!! OVA",
-      "Kaitō Tenshi Twin Angel: Kyun Kyun Tokimeki Paradise!! OVA",
-      "OVA Kaitou Tenshi Twin Angel: Kyun Kyun☆Tokimeki Paradise!!",
-      "OVA Twin Angel: Twinkle Paradise",
-      "OVA快盗天使ツインエンジェル ～キュンキュン☆ときめきパラダイス！！～",
-      "Twin Angel: Twinkle Paradise",
-      "快盗天使ツインエンジェル キュンキュン☆ときめきパラダイス!! OVA",
-      "快盗天使ツインエンジェル キュンキュン☆ときめきパラダイス！！ OVA",
-      "쾌도천사 트윈엔젤: 큥큥 도키메키 파라다이스 OVA"
     ]
   },
   {
@@ -2865,12 +3232,12 @@
     },
     "status": "FINISHED",
     "episodes": 1,
-    "picture": "https://u.livechart.me/anime/644/poster_image/58404b233a2a16d8399d7e4c07137376.png/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/644/poster_image/58404b233a2a16d8399d7e4c07137376.png/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/6/73611.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/73611t.jpg",
     "synonyms": [
       "Aoki Hagane no Arpeggio: Ars Nova - DC",
+      "Aoki Hagane no Arpeggio: Ars Nova DC",
       "Aoki Hagane no Arpeggio: Ars Nova Movie 1",
-      "Aoki Hagane no Arpeggio: Ars Nova Movie 1 - DC",
       "Arpeggio of Blue Steel - DC",
       "Arpeggio of Blue Steel Movie 1: Ars Nova - DC",
       "Arpeggio of Blue Steel: Ars Nova Movie 1",
@@ -2878,526 +3245,6 @@
       "げきじょうばんあおきはがねのあるぺじおあるすのばでぃーしー",
       "劇場版 蒼き鋼のアルペジオ -アルス・ノヴァ- DC",
       "劇場版 蒼き鋼のアルペジオ -アルス・ノヴァ-　DC"
-    ]
-  },
-  {
-    "title": "憑物語",
-    "titleTranslate": {
-      "zh-Hans": [
-        "凭物语"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://www.monogatari-series.com/tsukimonogatari/",
-    "begin": "2014-12-31T13:00:00.000Z",
-    "end": "2014-12-31T15:00:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "115932"
-      },
-      {
-        "site": "nicovideo",
-        "id": "tukimonogatari",
-        "begin": "2015-09-01T06:00:00.000Z",
-        "broadcast": "R/2015-09-01T06:00:00.000Z/P7D"
-      },
-      {
-        "site": "acfun",
-        "id": "6003168",
-        "begin": ""
-      },
-      {
-        "site": "abema",
-        "id": "26-2mzbynr-cph",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0037809",
-        "begin": "2018-11-08T03:00:00.000Z",
-        "broadcast": "R/2018-11-08T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "bangumi_moe",
-        "id": "54997fedc8b118cf40b274cb"
-      },
-      {
-        "site": "mikan",
-        "id": "428"
-      }
-    ],
-    "animeSeason": {
-      "season": "WINTER",
-      "year": 2015,
-      "month": "12"
-    },
-    "status": "FINISHED",
-    "episodes": 4,
-    "picture": "https://u.livechart.me/anime/1269/poster_image/ab8ed2094ab71bee911a4922f933182f.png/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/1269/poster_image/ab8ed2094ab71bee911a4922f933182f.png/small.jpg",
-    "synonyms": [
-      "Monogatari Final Season",
-      "Possession Tale",
-      "Tsukimonogatari: La muñeca Yotsugi",
-      "Tsukimonogatari: Yotsugi Doll",
-      "mng s6",
-      "tmgyd",
-      "つきものがたり",
-      "凭物语",
-      "憑物語",
-      "憑物語 よつぎドール"
-    ]
-  },
-  {
-    "title": "妖怪名单",
-    "titleTranslate": {},
-    "type": "web",
-    "lang": "zh-Hans",
-    "officialSite": "http://ac.qq.com/event/ayakashi.html",
-    "begin": "2014-12-12T12:00:00.000Z",
-    "end": "2015-09-11T12:15:00.000Z",
-    "sites": [
-      {
-        "site": "qq",
-        "id": "o/o9b10rhvd7y5i9h",
-        "begin": ""
-      },
-      {
-        "site": "iqiyi",
-        "id": "a_19rrhc233h",
-        "begin": "2014-12-12T03:55:18.000Z"
-      },
-      {
-        "site": "mgtv",
-        "id": "100159",
-        "begin": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "116045"
-      }
-    ],
-    "animeSeason": {
-      "season": "WINTER",
-      "year": 2015,
-      "month": "12"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://u.livechart.me/anime/1356/poster_image/5c63c07c86710092ad792596804056af.jpg/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/1356/poster_image/5c63c07c86710092ad792596804056af.jpg/small.jpg",
-    "synonyms": [
-      "Monster List",
-      "Yao Guai Ming Dan",
-      "Yāoguài Míngdān",
-      "妖怪名单",
-      "妖怪名單"
-    ]
-  },
-  {
-    "title": "テイルズ オブ ゼスティリア ～導師の夜明け～",
-    "titleTranslate": {
-      "en": [
-        "Tales of Zestiria"
-      ],
-      "zh-Hans": [
-        "情热传说～导师的黎明～",
-        "热诚传说 导师的黎明"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://toz.tales-ch.jp/",
-    "begin": "2014-12-30T16:00:00.000Z",
-    "end": "2014-12-30T17:00:00.000Z",
-    "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rrhau9sd",
-        "begin": "2016-07-31T16:00:26.000Z"
-      },
-      {
-        "site": "mgtv",
-        "id": "303219",
-        "begin": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "105155"
-      },
-      {
-        "site": "bilibili",
-        "id": "5939",
-        "begin": "2014-12-29T16:00:01.000Z",
-        "broadcast": "R/2017-03-15T09:21:00.000Z/P7D"
-      },
-      {
-        "site": "qq",
-        "id": "y/ypiak398o6ayk8m",
-        "begin": ""
-      },
-      {
-        "site": "bangumi_moe",
-        "id": "54997c93c8b118cf40b274c3"
-      }
-    ],
-    "animeSeason": {
-      "season": "WINTER",
-      "year": 2015,
-      "month": "12"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://u.livechart.me/anime/601/poster_image/2bd3b6e699da39f649bd64aa64d4facb.png/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/601/poster_image/2bd3b6e699da39f649bd64aa64d4facb.png/small.jpg",
-    "synonyms": [
-      "Tales of Zestiria: Dawn of the Fon Master",
-      "Tales of Zestiria: Dawn of the Shepherd",
-      "Tales of Zestiria: Dōshi no Yoake",
-      "Tales of Zestiria: The Shepherd`s Advent",
-      "ToZ",
-      "ToZ: Doushi no Yoake",
-      "ているずおぶぜすてぃりあどうしのよあけ",
-      "テイルズ オブ ゼスティリア ~導師の夜明け~",
-      "テイルズ オブ ゼスティリア ～導師の夜明け～",
-      "테일즈 오브 제스티리아: 도사의 새벽"
-    ]
-  },
-  {
-    "title": "宇宙戦艦ヤマト2199 星巡る方舟",
-    "titleTranslate": {
-      "zh-Hans": [
-        "宇宙战舰大和号2199 星巡的方舟"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "",
-    "begin": "2014-12-06T16:00:00.000Z",
-    "end": "2014-12-06T18:00:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "84701"
-      },
-      {
-        "site": "unext",
-        "id": "SID0017786",
-        "begin": "2021-04-18T15:00:00.000Z",
-        "broadcast": "R/2021-04-18T15:00:00.000Z/P7D"
-      }
-    ],
-    "animeSeason": {
-      "season": "WINTER",
-      "year": 2015,
-      "month": "12"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://u.livechart.me/anime/431/poster_image/45866eff34408d9530430a18476b8c50.png/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/431/poster_image/45866eff34408d9530430a18476b8c50.png/small.jpg",
-    "synonyms": [
-      "Space Battleship Yamato 2199 Movie",
-      "Space Battleship Yamato 2199 Odyssey of the Celestial Ark",
-      "Space Battleship Yamato 2199: Ark of the Stars",
-      "Space Battleship Yamato 2199: Odyssey of the Celestial Ark",
-      "Space Battleship Yamato 2199: Star-Voyaging Ark",
-      "Star Blazers 2199 The Movie - Odyssey of the Celestial Ark",
-      "Star Blazers 2199: Odyssey of the Celestial Ark",
-      "Star Blazers 2199: Space Battle Ship Yamato, Odyssey of the Celestial Arc",
-      "Star Blazers 2199: Space Battleship Yamato - Odyssey of the Celestial Arc",
-      "Star Blazers : Space Battleship Yamato - L’Odyssée de l’Arche Célèste",
-      "Uchuu Senkan Yamato 2199 Hoshi-Meguru Hakobune",
-      "Uchuu Senkan Yamato 2199 Movie",
-      "Uchuu Senkan Yamato 2199: Hoshi-Meguru Hakobune",
-      "Uchū Senkan Yamato 2199: Hoshi-Meguru Hakobune",
-      "うちゅうせんかんやまとにーいちきゅうきゅうほしめぐるはこぶね",
-      "宇宙戦艦ヤマト2199 星巡る方舟",
-      "우주전함 야마토 2199: 별을 도는 방주"
-    ]
-  },
-  {
-    "title": "山田くんと7人の魔女 OAD",
-    "titleTranslate": {
-      "zh-Hans": [
-        "山田君与7位魔女 OAD"
-      ]
-    },
-    "type": "ova",
-    "lang": "ja",
-    "officialSite": "http://www.yamajo-anime.com/",
-    "begin": "2014-12-17T16:00:00.000Z",
-    "end": "2015-05-15T16:30:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "105951"
-      },
-      {
-        "site": "bilibili",
-        "id": "10432",
-        "begin": "2014-12-16T16:00:01.000Z",
-        "broadcast": "R/2016-04-13T08:57:00.000Z/P7D"
-      }
-    ],
-    "animeSeason": {
-      "season": "WINTER",
-      "year": 2015,
-      "month": "12"
-    },
-    "status": "FINISHED",
-    "episodes": 2,
-    "picture": "https://u.livechart.me/anime/1312/poster_image/54e3ae262b1202f470fac72574444ca3.jpg/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/1312/poster_image/54e3ae262b1202f470fac72574444ca3.jpg/small.jpg",
-    "synonyms": [
-      "Yamada OVA",
-      "Yamada and the Seven Witches (OVA)",
-      "Yamada and the Seven Witches OAD",
-      "Yamada kun OVA",
-      "Yamada-kun OVA",
-      "Yamada-kun and the 7 Witches OVA",
-      "Yamada-kun and the Seven Witches OVA",
-      "Yamada-kun to 7-nin no Majo",
-      "Yamada-kun to 7-nin no Majo (OVA)",
-      "Yamada-kun to 7-nin no Majo OAD",
-      "Yamada-kun to 7-nin no Majo: Mou Hitotsu no Suzaku-sai",
-      "Yamada-kun to Nananin no Majo",
-      "Yamada-kun to Nananin no Majo OVA",
-      "Yamadakun to Nananin no Majo OAD",
-      "Yamajo",
-      "Yamajo OAD",
-      "Yamajo OVA",
-      "やまじょ",
-      "山田くんと7人の魔女",
-      "山田くんと7人の魔女 OAD"
-    ]
-  },
-  {
-    "title": "THE LAST -NARUTO THE MOVIE-",
-    "titleTranslate": {
-      "zh-Hans": [
-        "火影忍者 剧场版 终章",
-        "火影忍者 最后的物语",
-        "最后的火影忍者"
-      ],
-      "zh-Hant": [
-        "火影忍者劇場版10：最終章"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "http://www.naruto-movie.com/",
-    "begin": "2014-12-05T16:00:00.000Z",
-    "end": "2014-12-05T16:00:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "109053"
-      },
-      {
-        "site": "gamer",
-        "id": "71736",
-        "begin": "2021-08-27T09:00:00.000Z",
-        "broadcast": "R/2021-08-27T09:00:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0017780",
-        "begin": "2020-12-08T03:00:00.000Z",
-        "broadcast": "R/2020-12-08T03:00:00.000Z/P7D"
-      }
-    ],
-    "animeSeason": {
-      "season": "WINTER",
-      "year": 2015,
-      "month": "12"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://u.livechart.me/anime/118/poster_image/a3787b8d286bccc9d40febffc16ac7e8.webp/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/118/poster_image/a3787b8d286bccc9d40febffc16ac7e8.webp/small.jpg",
-    "synonyms": [
-      "Naruto Film 7: The Last",
-      "Naruto Movie 10",
-      "Naruto Movie 10: Naruto the Movie: The Last",
-      "Naruto Movie 10: Naruto the Movie: The Last,Naruto: Shippuuden Movie 7 - The Last",
-      "Naruto Movie 10: Naruto the Movie: The LastNaruto: Shippuuden Movie 7 - The Last",
-      "Naruto Película 7: The Last",
-      "Naruto Shippuden Movie 07: The Last",
-      "Naruto Shippuden Movie 7",
-      "Naruto Shippuden the Movie 7: The Last",
-      "Naruto the Movie: The Last",
-      "Naruto: Shippuuden Movie 7 - The Last",
-      "THE LAST -NARUTO THE MOVIE-",
-      "THE LAST NARUTO THE MOVIE",
-      "THE LAST: NARUTO THE MOVIE",
-      "The Last : Naruto le Film",
-      "The Last : Naruto le film",
-      "The Last: Naruto - La Película",
-      "The Last: Naruto The Movie",
-      "Наруто: Последний фильм",
-      "ザ・ラスト ナルト・ザ・ムービー",
-      "火影忍者 剧场版 终章"
-    ]
-  },
-  {
-    "title": "一騎当千 Extravaganza Epoch",
-    "titleTranslate": {
-      "zh-Hans": [
-        "一骑当千 Extravaganza Epoch"
-      ]
-    },
-    "type": "ova",
-    "lang": "ja",
-    "officialSite": "http://www.ikkitousen.com/",
-    "begin": "2014-12-20T16:00:00.000Z",
-    "broadcast": "",
-    "end": "2014-12-27T16:00:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "100568"
-      },
-      {
-        "site": "nicovideo",
-        "id": "ikkitousen-ova2",
-        "begin": "2022-06-23T15:00:00.000Z",
-        "broadcast": "R/2022-06-23T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0069652",
-        "begin": "2022-06-23T15:00:00.000Z",
-        "broadcast": "R/2022-06-23T15:00:00.000Z/P7D"
-      }
-    ],
-    "animeSeason": {
-      "season": "WINTER",
-      "year": 2015,
-      "month": "12"
-    },
-    "status": "FINISHED",
-    "episodes": 2,
-    "picture": "https://u.livechart.me/anime/491/poster_image/d08f5056cead297c2ab669d2ef687d01.webp/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/491/poster_image/d08f5056cead297c2ab669d2ef687d01.webp/small.jpg",
-    "synonyms": [
-      "Ikki Tousen: Extravaganza Epoch",
-      "Ikkitōsen: Extravaganza Epoch",
-      "ikki ova 2",
-      "Школьные войны Эпоха феерии",
-      "いっきとうせんえくすとらヴぁがんざえぽっく",
-      "一騎当千 Extravaganza Epoch",
-      "一骑当千 Extravaganza Epoch"
-    ]
-  },
-  {
-    "title": "映画 妖怪ウォッチ 誕生の秘密だニャン！",
-    "titleTranslate": {
-      "zh-Hans": [
-        "电影 妖怪手表 诞生的秘密喵！"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "http://www.eiga-yokai.jp/",
-    "begin": "2014-12-19T16:00:00.000Z",
-    "broadcast": "",
-    "end": "2014-12-19T17:37:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "107446"
-      },
-      {
-        "site": "unext",
-        "id": "SID0017623",
-        "begin": "2020-06-06T03:00:00.000Z",
-        "broadcast": "R/2020-06-06T03:00:00.000Z/P7D"
-      }
-    ],
-    "animeSeason": {
-      "season": "WINTER",
-      "year": 2015,
-      "month": "12"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://u.livechart.me/anime/618/poster_image/7da65eb30d5318bbf1b92b19994b42f3.png/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/618/poster_image/7da65eb30d5318bbf1b92b19994b42f3.png/small.jpg",
-    "synonyms": [
-      "Eiga Youkai Watch",
-      "Eiga Youkai Watch: Tanjou no Himitsu Da Nyan!",
-      "Eiga Yōkai Watch: Tanjō no Himitsu Da Nyan!",
-      "Nyan!",
-      "Yo-Kai Watch: La Película",
-      "Yo-Kai Watch: The Movie",
-      "Yo-kai Watch Le Film",
-      "Yo-kai Watch the Movie: It's the Secret of Birth, Meow!",
-      "Yo-kai Watch: Film",
-      "Yo-kai Watch: Le Film",
-      "Yo-kai Watch: The Movie",
-      "Yokai Watch Movie",
-      "Yokai Watch: The Movie",
-      "Youkai Watch Movie",
-      "Youkai Watch Movie: Tanjou no Himitsu da Nyan!",
-      "Youkai Watch the Movie: The Secret is Created, Nyan!",
-      "Youkai Watch the Movie: The Secret of Birth",
-      "Youkai Watch the Movie: The Secret of Birth, Nyan!",
-      "Youkai Watch: The Movie",
-      "映画 妖怪ウォッチ 誕生の秘密だニャン!",
-      "映画 妖怪ウォッチ 誕生の秘密だニャン！",
-      "映画 妖怪ウォッチ　誕生の秘密だニャン！"
-    ]
-  },
-  {
-    "title": "この男子、石化に悩んでます。",
-    "titleTranslate": {
-      "zh-Hans": [
-        "这个男子、为石化困窘",
-        "这个男子 为石化而烦恼"
-      ]
-    },
-    "type": "ova",
-    "lang": "ja",
-    "officialSite": "",
-    "begin": "2014-11-29T16:00:00.000Z",
-    "end": "2014-11-29T16:30:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "119364"
-      },
-      {
-        "site": "unext",
-        "id": "SID0013614",
-        "begin": "2015-06-04T06:00:00.000Z",
-        "broadcast": "R/2015-06-04T06:00:00.000Z/P7D"
-      }
-    ],
-    "animeSeason": {
-      "season": "WINTER",
-      "year": 2015,
-      "month": "11"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://u.livechart.me/anime/680/poster_image/b68107bc3b785640862aa23c98fab827.png/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/680/poster_image/b68107bc3b785640862aa23c98fab827.png/small.jpg",
-    "synonyms": [
-      "Kono Danshi",
-      "Kono Danshi, Sekka ni Nayandemasu.",
-      "Sekka ni Nayandemasu.",
-      "This Boy Suffers From Crystallization",
-      "This Boy Suffers from Crystallization",
-      "konodan s3",
-      "このだんしせきかになやんでます",
-      "この男子, 石化に悩んでます.",
-      "この男子、石化に悩んでます。"
     ]
   },
   {
@@ -3451,14 +3298,50 @@
     },
     "status": "FINISHED",
     "episodes": 2,
-    "picture": "https://u.livechart.me/anime/487/poster_image/c230b5985e21057e85f89524d1967b6a.png/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/487/poster_image/c230b5985e21057e85f89524d1967b6a.png/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/12/74392.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/74392t.jpg",
     "synonyms": [
       "Black Butler: Book of Murder",
       "Phantomhive Manor Murder Case",
       "خادم سیاه: کتاب قتل",
       "คนลึกไขปริศนาลับ: Book of Murder",
       "黒執事 Book of Murder"
+    ]
+  },
+  {
+    "title": "ベイウォーリアーズ サイボーグ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.allcinema.net/prog/show_c.php?num_c=352047",
+    "begin": "2014-10-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2015-04-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "129731"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003367",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2015,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/1754/137124.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1754/137124t.jpg",
+    "synonyms": [
+      "Beyblade Cyborg",
+      "ベイウォーリアーズ サイボーグ"
     ]
   },
   {
@@ -3545,8 +3428,8 @@
     },
     "status": "FINISHED",
     "episodes": 24,
-    "picture": "https://u.livechart.me/anime/739/poster_image/da92d5767aa12346a176d48b7e715279.png/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/739/poster_image/da92d5767aa12346a176d48b7e715279.png/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/11/75045.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/75045t.jpg",
     "synonyms": [
       "Aventurile Bizare ale lui JoJo Partea 3: Vitejii Stelelor - Lupta din Egipt",
       "Dai San Bu Kujo Jotaro: Mirai e no Isan",
@@ -3555,9 +3438,9 @@
       "JoJo 2015",
       "JoJo Part III: Stardust Crusaders (2015)",
       "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen",
-      "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season",
       "JoJo no Kimyou na Bouken: Stardust Crusaders (2015)",
       "JoJo no Kimyou na Bouken: Stardust Crusaders - Egypt Hen",
+      "JoJo no Kimyou na Bouken: Stardust Crusaders - Egypt-hen",
       "JoJo no Kimyou na Bouken: Stardust Crusaders 2",
       "JoJo no Kimyou na Bouken: Stardust Crusaders 2nd Season",
       "JoJo no Kimyō na Bōken: Stardust Crusaders - Egypt-hen",
@@ -3683,8 +3566,8 @@
     },
     "status": "FINISHED",
     "episodes": 25,
-    "picture": "https://u.livechart.me/anime/597/poster_image/00174911c3950c333d068fd5d603e1c6.png/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/597/poster_image/00174911c3950c333d068fd5d603e1c6.png/small.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/4/68299.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/68299t.jpg",
     "synonyms": [
       "KNB3",
       "Kuroko no Baske (2015)",
