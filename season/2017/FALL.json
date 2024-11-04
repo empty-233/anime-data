@@ -521,7 +521,8 @@
       {
         "site": "nicovideo",
         "id": "itsudatte",
-        "begin": "2018-07-31T15:00:00.000Z"
+        "begin": "2018-07-31T15:00:00.000Z",
+        "broadcast": "R/2018-07-31T15:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -722,6 +723,12 @@
       {
         "site": "mikan",
         "id": "1480"
+      },
+      {
+        "site": "nicovideo",
+        "id": "escha-chron",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -1524,12 +1531,6 @@
         "id": "211059"
       },
       {
-        "site": "ani_one",
-        "id": "PLC18xlbCdwtTNtd65zcspmumNOcGLBUPa",
-        "begin": "2022-09-11T16:00:00.000Z",
-        "broadcast": "R/2022-09-11T16:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0031307",
         "begin": "2017-10-09T03:00:00.000Z",
@@ -1546,6 +1547,12 @@
       {
         "site": "mikan",
         "id": "1413"
+      },
+      {
+        "site": "nicovideo",
+        "id": "12taisen",
+        "begin": "2023-10-09T15:00:00.000Z",
+        "broadcast": "R/2023-10-09T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1947,6 +1954,12 @@
         "id": "88978",
         "begin": "2024-07-15T03:00:00.000Z",
         "broadcast": "R/2024-07-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "land-of-the-lustrous",
+        "begin": "2017-10-10T15:00:00.000Z",
+        "broadcast": "R/2017-10-10T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2671,8 +2684,10 @@
     "picture": "https://cdn.myanimelist.net/images/anime/5/87194.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/5/87194t.jpg",
     "synonyms": [
+      "Glitzy Dolls Go Dating",
       "aiseki MOGOL GIRL",
-      "あいせきもーるがーる"
+      "あいせきもーるがーる",
+      "モールガール"
     ]
   },
   {
@@ -3767,6 +3782,12 @@
       {
         "site": "mikan",
         "id": "1459"
+      },
+      {
+        "site": "abema",
+        "id": "19-112",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -4065,6 +4086,9 @@
     "titleTranslate": {
       "en": [
         "ONYANKOPON"
+      ],
+      "zh-Hant": [
+        "Onyankopon～有請喵喵神～"
       ]
     },
     "type": "web",
@@ -4092,6 +4116,18 @@
       {
         "site": "bangumi_moe",
         "id": "59d0cb67fb34aac154710b9d"
+      },
+      {
+        "site": "gamer",
+        "id": "92329",
+        "begin": "2024-09-20T04:00:00.000Z",
+        "broadcast": "R/2024-09-20T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "92329",
+        "begin": "2024-09-20T04:00:00.000Z",
+        "broadcast": "R/2024-09-20T04:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4349,12 +4385,6 @@
         "broadcast": "R/2022-04-16T09:00:01.000Z/P7D"
       },
       {
-        "site": "unext",
-        "id": "SID0060065",
-        "begin": "2021-08-25T03:00:00.000Z",
-        "broadcast": "R/2021-08-25T03:00:00.000Z/P7D"
-      },
-      {
         "site": "mikan",
         "id": "1474"
       }
@@ -4496,7 +4526,8 @@
       {
         "site": "nicovideo",
         "id": "love-kome-anime",
-        "begin": "2017-04-07T15:00:00.000Z"
+        "begin": "2017-04-07T15:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "bilibili",

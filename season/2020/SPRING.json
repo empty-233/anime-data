@@ -88,12 +88,6 @@
         "id": "26-176",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0073147",
-        "begin": "2022-11-11T15:30:00.000Z",
-        "broadcast": "R/2022-11-11T15:30:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -455,12 +449,6 @@
         "site": "acfun",
         "id": "6002672",
         "begin": ""
-      },
-      {
-        "site": "gamer",
-        "id": "111789",
-        "begin": "2020-06-16T02:30:00.000Z",
-        "broadcast": "R/2020-06-16T02:30:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -851,19 +839,6 @@
         "begin": "2020-04-04T18:08:05.000Z"
       },
       {
-        "site": "mytv",
-        "id": "ascendanceofabookwormseason20002_135936",
-        "begin": "2022-08-04T16:00:00.000Z",
-        "broadcast": "R/2022-08-04T16:00:00.000Z/P7D",
-        "comment": "粵日雙語"
-      },
-      {
-        "site": "gamer",
-        "id": "109037",
-        "begin": "2020-04-04T18:40:00.000Z",
-        "broadcast": "R/2020-04-04T18:40:00.000Z/P7D"
-      },
-      {
         "site": "bilibili_tw",
         "id": "28228507",
         "begin": "2020-04-04T18:40:00.000Z",
@@ -874,12 +849,6 @@
         "id": "SID0067772",
         "begin": "2022-03-31T15:00:00.000Z",
         "broadcast": "R/2022-03-31T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "109037",
-        "begin": "2020-04-04T18:40:00.000Z",
-        "broadcast": "R/2020-04-04T18:40:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -1202,12 +1171,6 @@
         "id": "253042"
       },
       {
-        "site": "mytv",
-        "id": "idolish7secondbeat_133403",
-        "begin": "2021-10-16T07:30:00.000Z",
-        "broadcast": "R/2021-10-16T07:30:00.000Z/P7D"
-      },
-      {
         "site": "gamer",
         "id": "106515",
         "begin": "2020-04-05T14:30:00.000Z",
@@ -1242,6 +1205,12 @@
       {
         "site": "mikan",
         "id": "2195"
+      },
+      {
+        "site": "nicovideo",
+        "id": "idolish7-aninana2",
+        "begin": "2020-04-07T13:30:00.000Z",
+        "broadcast": "R/2020-04-07T13:30:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1425,12 +1394,6 @@
         "site": "youku",
         "id": "fafe56cd23b04fcda3e8",
         "begin": "2020-04-06T17:28:05.000Z"
-      },
-      {
-        "site": "viu",
-        "id": "397210",
-        "begin": "2021-10-12T16:00:00.000Z",
-        "broadcast": "R/2021-10-12T16:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -2731,6 +2694,12 @@
         "id": "SID0047117",
         "begin": "2020-04-03T03:00:00.000Z",
         "broadcast": "R/2020-04-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zorori1_anime",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -3647,6 +3616,12 @@
       {
         "site": "mikan",
         "id": "2222"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tamayomi",
+        "begin": "2020-04-13T13:00:00.000Z",
+        "broadcast": "R/2020-04-13T13:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3998,6 +3973,12 @@
       {
         "site": "mikan",
         "id": "2230"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tatamichan",
+        "begin": "2020-04-10T11:00:00.000Z",
+        "broadcast": "R/2020-04-10T11:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4308,6 +4289,12 @@
       {
         "site": "mikan",
         "id": "2237"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ghostintheshell-sac2045",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -4469,14 +4456,14 @@
         "id": "302136"
       },
       {
-        "site": "netflix",
-        "id": "81567663",
-        "begin": "2022-08-30T16:00:00.000Z",
-        "broadcast": "R/2022-08-30T16:00:00.000Z/P7D"
-      },
-      {
         "site": "bangumi_moe",
         "id": "5e8232f6306f1a0007d2d4d5"
+      },
+      {
+        "site": "netflix",
+        "id": "81567663",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -4546,9 +4533,9 @@
       },
       {
         "site": "mytv",
-        "id": "strikethebloodfouth_141118",
-        "begin": "2024-07-02T16:00:00.000Z",
-        "broadcast": "R/2024-07-02T16:00:00.000Z/P7D"
+        "id": "strikethebloodfourth_141949",
+        "begin": "2024-10-15T16:00:00.000Z",
+        "broadcast": "R/2024-10-15T16:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {

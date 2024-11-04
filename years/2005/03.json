@@ -192,6 +192,12 @@
         "id": "SID0058300",
         "begin": "2021-06-14T03:00:00.000Z",
         "broadcast": "R/2021-06-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tenten-anime-uf",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -371,6 +377,59 @@
       "Jeux d`amour",
       "Jeux d’Amour",
       "春を抱いていた"
+    ]
+  },
+  {
+    "title": "劇場版ロックマンエグゼ 光と闇の遺産",
+    "titleTranslate": {
+      "zh-Hans": [
+        "洛克人EXE剧场版 光与暗的遗产",
+        "网络英雄洛克人剧场版 光与暗之遗产"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.rockman-duel.com/",
+    "begin": "2005-03-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2005-03-11T16:48:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "5229"
+      },
+      {
+        "site": "unext",
+        "id": "SID0158516",
+        "begin": "2024-10-26T03:00:00.000Z",
+        "broadcast": "R/2024-10-26T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2005,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1426/135199.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1426/135199t.jpg",
+    "synonyms": [
+      "Gekijouban Rockman.EXE - Hikari to Yami no Program",
+      "Gekijouban Rockman.EXE: Hikari to Yami no Program",
+      "Gekijōban Rockman.EXE - Hikari to Yami no Program",
+      "MegaMan the Movie: Program of Light and Dark",
+      "Rockman EXE MOVIE",
+      "Rockman EXE the Movie: Program of Light and Dark",
+      "Rockman EXE ~ Hikari to Yami no Program ~",
+      "Rockman. EXE Movie: Programs of Light and Darkness",
+      "Rockman.EXE: Hikari to Yami no Program",
+      "Theater Edition Rockman EXE: Program of Light and Dark",
+      "劇場版 ロックマン エグゼ: 光と闇の遺産",
+      "劇場版ロックマンエグゼ 光と闇の遺産",
+      "劇場版ロックマンエグゼ 光と闇の遺産[プログラム]",
+      "洛克人EXE剧场版 光与暗的遗产"
     ]
   }
 ]

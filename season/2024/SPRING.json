@@ -71,8 +71,8 @@
     "lang": "ja",
     "officialSite": "https://geass.jp/roze/",
     "begin": "2024-06-20T16:00:00.000Z",
-    "broadcast": "",
-    "end": "",
+    "broadcast": "R/2024-06-20T16:00:00.000Z/P7D",
+    "end": "2024-09-05T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -392,8 +392,8 @@
     "lang": "ja",
     "officialSite": "https://dededede.jp/",
     "begin": "2024-05-23T16:00:00.000Z",
-    "broadcast": "",
-    "end": "",
+    "broadcast": "R/2024-05-23T16:00:00.000Z/P7D",
+    "end": "2024-09-19T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -818,6 +818,18 @@
       {
         "site": "mikan",
         "id": "3292"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kanteiskill",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81769856",
+        "begin": "2024-10-24T00:00:00.000Z",
+        "broadcast": "R/2024-10-24T00:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -979,7 +991,7 @@
       "month": "04"
     },
     "status": "ONGOING",
-    "episodes": 29,
+    "episodes": 30,
     "picture": "https://cdn.myanimelist.net/images/anime/1816/141521.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1816/141521t.jpg",
     "synonyms": [
@@ -1272,6 +1284,12 @@
       {
         "site": "mikan",
         "id": "3297"
+      },
+      {
+        "site": "nicovideo",
+        "id": "niji4anime2",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -1603,7 +1621,8 @@
         "怪獸 8 號"
       ],
       "en": [
-        "Kaiju No.8"
+        "Kaiju No.8",
+        "Kaiju No.8 (Season 1)"
       ]
     },
     "type": "tv",
@@ -1691,6 +1710,18 @@
       {
         "site": "mikan",
         "id": "3301"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kaiju-no8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mytv",
+        "id": "kaijuno8season1_141571",
+        "begin": "2024-09-24T16:00:00.000Z",
+        "broadcast": "R/2024-09-24T16:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1839,7 +1870,7 @@
     "officialSite": "https://mission-yozakura-family.com/",
     "begin": "2024-04-07T08:00:00.000Z",
     "broadcast": "R/2024-04-07T08:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-10-06T08:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1879,8 +1910,8 @@
       {
         "site": "netflix",
         "id": "81766575",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-04-06T16:00:00.000Z",
+        "broadcast": "R/2024-04-06T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
@@ -2642,6 +2673,12 @@
       {
         "site": "mikan",
         "id": "3313"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dainanaoji",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -3345,6 +3382,12 @@
       {
         "site": "mikan",
         "id": "3321"
+      },
+      {
+        "site": "nicovideo",
+        "id": "touken-honnouji",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -3448,6 +3491,12 @@
       {
         "site": "mikan",
         "id": "3322"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bartender-anime",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -4455,6 +4504,12 @@
       {
         "site": "mikan",
         "id": "3336"
+      },
+      {
+        "site": "netflix",
+        "id": "81768229",
+        "begin": "2024-10-24T00:00:00.000Z",
+        "broadcast": "R/2024-10-24T00:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4807,6 +4862,12 @@
       {
         "site": "mikan",
         "id": "3341"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ten-sura_03",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -5051,7 +5112,7 @@
     "officialSite": "https://mahjongsoul-kang.jp/",
     "begin": "2024-04-25T13:00:00.000Z",
     "broadcast": "R/2024-04-25T13:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-07-18T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5183,6 +5244,89 @@
     ]
   },
   {
+    "title": "劇場版ブルーロック -EPISODE 凪-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版蓝色监狱 -EPISODE 凪-",
+        "蓝色禁区：凪"
+      ],
+      "en": [
+        "Blue Lock The Movie -Episode Nagi-"
+      ],
+      "zh-Hant": [
+        "劇場版藍色監獄：EPISODE 凪"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://movie.bluelock-pr.com/",
+    "begin": "2024-04-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-04-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "426124"
+      },
+      {
+        "site": "disneyplus",
+        "id": "65pPeJ1orwsg",
+        "url": "https://www.disneyplus.com/movies/blue-lock-the-movie-episode-nagi/65pPeJ1orwsg",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0157267",
+        "begin": "2024-10-05T15:00:00.000Z",
+        "broadcast": "R/2024-10-05T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "420-70",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3479"
+      },
+      {
+        "site": "netflix",
+        "id": "81940376",
+        "begin": "2024-10-19T00:00:00.000Z",
+        "broadcast": "R/2024-10-19T00:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2024,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1239/139928.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1239/139928t.jpg",
+    "synonyms": [
+      "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+      "BLUELOCK: EPISODE Nagi",
+      "Blue Lock : Épisode Nagi",
+      "Blue Lock Movie",
+      "Blue Lock Movie: EPISODE Nagi",
+      "Blue Lock the Movie -Episode Nagi-",
+      "Blue Lock: EPISODE Nagi",
+      "Bluelock Movie: Episode Nagi",
+      "Gekijouban Blue Lock: Episode Nagi",
+      "Gekijōban Blue Lock: Episode Nagi",
+      "ブルーロック -EPISODE 凪-",
+      "ブルーロック-EPISODE 凪-",
+      "劇場版 ブルーロック",
+      "劇場版ブルーロック -EPISODE 凪-",
+      "劇場版ブルーロック　-EPISODE 凪-"
+    ]
+  },
+  {
     "title": "ちびゴジラの逆襲",
     "titleTranslate": {
       "zh-Hans": [
@@ -5220,6 +5364,12 @@
       {
         "site": "mikan",
         "id": "3042"
+      },
+      {
+        "site": "nicovideo",
+        "id": "chibigodzilla",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -5228,7 +5378,7 @@
       "month": "04"
     },
     "status": "ONGOING",
-    "episodes": 29,
+    "episodes": 30,
     "picture": "https://cdn.myanimelist.net/images/anime/1102/142428.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1102/142428t.jpg",
     "synonyms": [
@@ -5360,6 +5510,12 @@
       {
         "site": "mikan",
         "id": "1763"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ten-sura",
+        "begin": "2018-10-03T03:00:00.000Z",
+        "broadcast": "R/2018-10-03T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -5423,7 +5579,8 @@
       {
         "site": "nicovideo",
         "id": "oshiri-tantei",
-        "begin": "2018-05-11T03:00:00.000Z"
+        "begin": "2018-05-11T03:00:00.000Z",
+        "broadcast": "R/2018-05-11T03:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -5548,6 +5705,12 @@
       {
         "site": "mikan",
         "id": "696"
+      },
+      {
+        "site": "nicovideo",
+        "id": "heroaca",
+        "begin": "2016-04-10T07:00:00.000Z",
+        "broadcast": "R/2016-04-10T07:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {

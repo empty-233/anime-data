@@ -293,12 +293,6 @@
         "broadcast": "R/2023-04-01T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "172-55",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0079836",
         "begin": "2023-03-31T08:00:00.000Z",
@@ -355,6 +349,12 @@
       {
         "site": "mikan",
         "id": "3104"
+      },
+      {
+        "site": "unext",
+        "id": "SID0157932",
+        "begin": "2024-09-27T15:00:00.000Z",
+        "broadcast": "R/2024-09-27T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -379,6 +379,50 @@
       "โดราเอมอน เดอะ มูฟวี่ ฟากฟ้าแห่งยูโทเปียของโนบิตะ",
       "哆啦A梦：大雄与天空的理想乡",
       "映画ドラえもん のび太と空の理想郷"
+    ]
+  },
+  {
+    "title": "SSSS.DYNAZENON 劇場総集編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "SSSS.电光机王 剧场总集篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://ssss-movie.net/",
+    "begin": "2023-03-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-03-09T18:01:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "410938"
+      },
+      {
+        "site": "unext",
+        "id": "SID0156132",
+        "begin": "2024-09-07T15:00:00.000Z",
+        "broadcast": "R/2024-09-07T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2023,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1515/131848.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1515/131848t.jpg",
+    "synonyms": [
+      "SSSS.DYNAZENON Movie",
+      "SSSS.DYNAZENON 劇場総集編",
+      "SSSS.Dynazenon Compilation Film",
+      "SSSS.Dynazenon Gekijou Soushuuhen",
+      "SSSS.Dynazenon Gekijō Sōshūhen",
+      "SSSS.Dynazenon Recap"
     ]
   },
   {
@@ -510,12 +554,6 @@
         "id": "21090783",
         "begin": "2023-10-05T10:00:01.000Z",
         "broadcast": "R/2023-10-05T10:00:01.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0090952",
-        "begin": "2023-10-03T15:00:00.000Z",
-        "broadcast": "R/2023-10-03T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -837,12 +875,6 @@
         "id": "tsunlise",
         "begin": "2023-01-12T03:00:00.000Z",
         "broadcast": "R/2023-01-12T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "593-2",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -2500,6 +2532,12 @@
       {
         "site": "bangumi_moe",
         "id": "63b58c4b441dff2ff8927e85"
+      },
+      {
+        "site": "nicovideo",
+        "id": "onimai",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -2605,12 +2643,6 @@
         "id": "81663961",
         "begin": "2023-07-13T16:00:00.000Z",
         "broadcast": "R/2023-07-13T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "248-12",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -2890,6 +2922,12 @@
       {
         "site": "mikan",
         "id": "2905"
+      },
+      {
+        "site": "abema",
+        "id": "189-47",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -3292,12 +3330,6 @@
         "id": "349389"
       },
       {
-        "site": "gamer",
-        "id": "129424",
-        "begin": "2023-01-13T23:00:00.000Z",
-        "broadcast": "R/2023-01-13T23:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0076906",
         "begin": "2023-01-13T23:30:00.000Z",
@@ -3436,7 +3468,8 @@
         "英雄传说 闪之轨迹：北方战役"
       ],
       "zh-Hant": [
-        "英雄傳說 閃之軌跡: 北方戰役"
+        "英雄傳說 閃之軌跡: 北方戰役",
+        "英雄傳說 閃之軌跡：北方戰役"
       ],
       "en": [
         "The Legend of Heroes: Trails of Cold Steel Northern War"
@@ -3495,6 +3528,12 @@
       {
         "site": "mikan",
         "id": "2923"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "123617",
+        "begin": "2023-01-06T14:00:00.000Z",
+        "broadcast": "R/2023-01-06T14:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3763,8 +3802,8 @@
       {
         "site": "gamer_hk",
         "id": "125096",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-01-07T15:30:00.000Z",
+        "broadcast": "R/2023-01-07T15:30:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -3777,6 +3816,12 @@
       {
         "site": "mikan",
         "id": "2918"
+      },
+      {
+        "site": "nicovideo",
+        "id": "trigun-anime",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -3861,8 +3906,8 @@
       {
         "site": "gamer_hk",
         "id": "124171",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-01-08T17:35:00.000Z",
+        "broadcast": "R/2023-01-08T17:35:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3947,8 +3992,8 @@
       {
         "site": "gamer_hk",
         "id": "120420",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-01-04T16:00:00.000Z",
+        "broadcast": "R/2023-01-04T16:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -4030,8 +4075,8 @@
       {
         "site": "gamer_hk",
         "id": "127393",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-01-06T13:05:00.000Z",
+        "broadcast": "R/2023-01-06T13:05:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -4044,6 +4089,12 @@
       {
         "site": "mikan",
         "id": "2914"
+      },
+      {
+        "site": "nicovideo",
+        "id": "niji4anime",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -4135,8 +4186,8 @@
       {
         "site": "gamer_hk",
         "id": "117873",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-01-08T13:30:00.000Z",
+        "broadcast": "R/2023-01-08T13:30:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -4479,6 +4530,9 @@
       "zh-Hans": [
         "埃及神明们的日常 第二季",
         "突如其来埃及神 第二季"
+      ],
+      "zh-Hant": [
+        "突然降臨的埃及神 第二季"
       ]
     },
     "type": "web",
@@ -4512,6 +4566,18 @@
       {
         "site": "mikan",
         "id": "2946"
+      },
+      {
+        "site": "gamer",
+        "id": "118945",
+        "begin": "2024-09-06T04:00:00.000Z",
+        "broadcast": "R/2024-09-06T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "118945",
+        "begin": "2024-09-06T04:00:00.000Z",
+        "broadcast": "R/2024-09-06T04:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4579,8 +4645,8 @@
       {
         "site": "gamer_hk",
         "id": "114480",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-01-14T13:30:00.000Z",
+        "broadcast": "R/2023-01-14T13:30:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -4642,8 +4708,8 @@
       {
         "site": "gamer_hk",
         "id": "129025",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-10-06T04:10:00.000Z",
+        "broadcast": "R/2023-10-06T04:10:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4694,6 +4760,12 @@
         "id": "SID0088439",
         "begin": "2023-06-30T15:00:00.000Z",
         "broadcast": "R/2023-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "aikatsu_10th_story",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -4786,12 +4858,6 @@
       {
         "site": "bangumi",
         "id": "389202"
-      },
-      {
-        "site": "unext",
-        "id": "SID0088517",
-        "begin": "2023-07-12T03:00:00.000Z",
-        "broadcast": "R/2023-07-12T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4876,6 +4942,52 @@
       "ルパン三世 VS キャッツ・アイ",
       "ルパン三世 VS. キャッツ♥アイ",
       "ルパン三世VSキャッツ・アイ"
+    ]
+  },
+  {
+    "title": "SSSS.GRIDMAN 劇場総集編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "SSSS.古立特 剧场总集篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://ssss-movie.net/",
+    "begin": "2023-01-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-01-19T17:59:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "410936"
+      },
+      {
+        "site": "unext",
+        "id": "SID0156131",
+        "begin": "2024-09-07T15:00:00.000Z",
+        "broadcast": "R/2024-09-07T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2023,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1884/133240.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1884/133240t.jpg",
+    "synonyms": [
+      "SSSS.GRIDMAN Movie",
+      "SSSS.GRIDMAN 劇場総集編",
+      "SSSS.Gridman Compilation Film",
+      "SSSS.Gridman Gekijou Soushuuhen",
+      "SSSS.Gridman Gekijō Sōshūhen",
+      "SSSS.Gridman Recap",
+      "SSSS.グリッドマン 劇場総集編",
+      "Superhuman Samurai Syber Squad Gridman Compilation Film"
     ]
   },
   {

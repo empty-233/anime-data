@@ -22,7 +22,8 @@
       {
         "site": "nicovideo",
         "id": "free-tm-movie",
-        "begin": "2018-07-01T06:00:00.000Z"
+        "begin": "2018-07-01T06:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "unext",
@@ -592,6 +593,52 @@
     ]
   },
   {
+    "title": "流星のロックマン トライブ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "流星之洛克人 Tribe",
+        "流星洛克人 Tribe"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.xebec-inc.co.jp/anime/ryusei2/",
+    "begin": "2007-11-02T16:00:00.000Z",
+    "broadcast": "R/2007-11-02T16:00:00.000Z/P7D",
+    "end": "2008-03-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "5235"
+      },
+      {
+        "site": "abema",
+        "id": "168-68",
+        "begin": "",
+        "broadcast": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2007,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 21,
+    "picture": "https://cdn.myanimelist.net/images/anime/1256/94652.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1256/94652t.jpg",
+    "synonyms": [
+      "Mega Man Shooting Star Tribe",
+      "Mega Man Star Force Tribe",
+      "Megaman Star Force Tribe",
+      "Ryusei no Rockman Tribe",
+      "Ryūsei no Rockman Tribe",
+      "Shooting Star Rockman Tribe",
+      "流星のロックマン トライブ"
+    ]
+  },
+  {
     "title": "もやしもん",
     "titleTranslate": {
       "zh-Hans": [
@@ -621,6 +668,12 @@
         "id": "SID0017174",
         "begin": "2020-11-30T03:00:00.000Z",
         "broadcast": "R/2020-11-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-122",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {

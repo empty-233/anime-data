@@ -313,12 +313,6 @@
         "broadcast": "R/2019-04-12T16:30:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "101716",
-        "begin": "2019-04-07T17:20:00.000Z",
-        "broadcast": "R/2019-04-07T17:20:00.000Z/P7D"
-      },
-      {
         "site": "bangumi_moe",
         "id": "5ca206b9d8405d2d2e62b96d"
       },
@@ -546,12 +540,6 @@
         "broadcast": "R/2019-04-07T03:00:00.000Z/P7D"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcgTgDr4XV13p4Gn89zpGlGu",
-        "begin": "2019-12-31T16:00:00.000Z",
-        "broadcast": "R/2019-12-31T16:00:00.000Z/P7D"
-      },
-      {
         "site": "gamer",
         "id": "102841",
         "begin": "2019-04-05T18:10:00.000Z",
@@ -626,18 +614,6 @@
         "id": "aochan-anime",
         "begin": "2019-04-07T03:00:00.000Z",
         "broadcast": "R/2019-04-07T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7Ucgp8oxXX_I7-5u_CoPD-j58",
-        "begin": "2019-12-06T16:00:00.000Z",
-        "broadcast": "R/2019-12-06T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "102799",
-        "begin": "2019-04-05T18:25:00.000Z",
-        "broadcast": "R/2019-04-05T18:25:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -727,12 +703,6 @@
         "site": "youku",
         "id": "bdfeb430c54f4fdb8e4d",
         "begin": "2019-04-05T17:21:16.000Z"
-      },
-      {
-        "site": "viu",
-        "id": "396713",
-        "begin": "2021-10-12T16:00:00.000Z",
-        "broadcast": "R/2021-10-12T16:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -1222,6 +1192,12 @@
       {
         "site": "bangumi_moe",
         "id": "5ca206a0d8405d2d2e62b931"
+      },
+      {
+        "site": "nicovideo",
+        "id": "cingeki-anime-cs",
+        "begin": "2019-04-10T03:00:00.000Z",
+        "broadcast": "R/2019-04-10T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1503,6 +1479,12 @@
       {
         "site": "mikan",
         "id": "1924"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fairygone",
+        "begin": "2019-04-10T15:00:00.000Z",
+        "broadcast": "R/2019-04-10T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1531,6 +1513,9 @@
       ],
       "zh-Hans": [
         "叛逆性百万亚瑟王 第二季"
+      ],
+      "zh-Hant": [
+        "叛逆性百萬亞瑟王 第二季"
       ]
     },
     "type": "tv",
@@ -1556,6 +1541,18 @@
       {
         "site": "mikan",
         "id": "1938"
+      },
+      {
+        "site": "gamer",
+        "id": "104350",
+        "begin": "2024-09-20T04:00:00.000Z",
+        "broadcast": "R/2024-09-20T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "104350",
+        "begin": "2024-09-20T04:00:00.000Z",
+        "broadcast": "R/2024-09-20T04:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2207,18 +2204,6 @@
       {
         "site": "bilibili_tw",
         "id": "25380076",
-        "begin": "2019-04-09T16:30:00.000Z",
-        "broadcast": "R/2019-04-09T16:30:00.000Z/P7D"
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UciwB7rKGTk3u_AkJt6SwZ4i",
-        "begin": "2019-07-30T16:00:00.000Z",
-        "broadcast": "R/2019-07-30T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "99491",
         "begin": "2019-04-09T16:30:00.000Z",
         "broadcast": "R/2019-04-09T16:30:00.000Z/P7D"
       },
@@ -3135,12 +3120,6 @@
         "begin": "2019-04-11T12:47:37.000Z"
       },
       {
-        "site": "unext",
-        "id": "SID0047379",
-        "begin": "2020-05-29T03:00:00.000Z",
-        "broadcast": "R/2020-05-29T03:00:00.000Z/P7D"
-      },
-      {
         "site": "bangumi_moe",
         "id": "5ca206a9d8405d2d2e62b947"
       }
@@ -4014,12 +3993,6 @@
       {
         "site": "bangumi",
         "id": "268067"
-      },
-      {
-        "site": "unext",
-        "id": "SID0056973",
-        "begin": "2024-04-12T15:00:00.000Z",
-        "broadcast": "R/2024-04-12T15:00:00.000Z/P7D"
       },
       {
         "site": "mikan",

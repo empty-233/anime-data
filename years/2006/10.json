@@ -234,7 +234,8 @@
       {
         "site": "nicovideo",
         "id": "kanon_anime",
-        "begin": "2018-12-27T15:00:00.000Z"
+        "begin": "2018-12-27T15:00:00.000Z",
+        "broadcast": "R/2018-12-27T15:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -343,7 +344,8 @@
       {
         "site": "nicovideo",
         "id": "cordapp",
-        "begin": "2014-05-30T06:00:00.000Z"
+        "begin": "2014-05-30T06:00:00.000Z",
+        "broadcast": "R/2014-05-30T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -429,7 +431,8 @@
       {
         "site": "nicovideo",
         "id": "pumpkin_scissors",
-        "begin": "2019-05-12T15:00:00.000Z"
+        "begin": "2019-05-12T15:00:00.000Z",
+        "broadcast": "R/2019-05-12T15:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -480,7 +483,8 @@
       {
         "site": "nicovideo",
         "id": "deathnote",
-        "begin": "2014-11-11T06:00:00.000Z"
+        "begin": "2014-11-11T06:00:00.000Z",
+        "broadcast": "R/2014-11-11T06:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -573,7 +577,8 @@
       {
         "site": "nicovideo",
         "id": "kujian",
-        "begin": "2013-08-22T15:00:00.000Z"
+        "begin": "2013-08-22T15:00:00.000Z",
+        "broadcast": "R/2013-08-22T15:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -679,7 +684,8 @@
       {
         "site": "nicovideo",
         "id": "redgarden",
-        "begin": "2020-03-18T03:00:00.000Z"
+        "begin": "2020-03-18T03:00:00.000Z",
+        "broadcast": "R/2020-03-18T03:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -812,6 +818,12 @@
         "id": "430",
         "begin": "2024-06-03T01:40:00.000Z",
         "broadcast": "R/2024-06-03T01:40:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "geass-anime",
+        "begin": "2020-03-06T15:00:00.000Z",
+        "broadcast": "R/2020-03-06T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -890,7 +902,8 @@
       {
         "site": "nicovideo",
         "id": "mamorukun",
-        "begin": "2020-06-15T06:00:00.000Z"
+        "begin": "2020-06-15T06:00:00.000Z",
+        "broadcast": "R/2020-06-15T06:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -1057,7 +1070,8 @@
       {
         "site": "nicovideo",
         "id": "ghosthunt",
-        "begin": "2020-06-19T15:00:00.000Z"
+        "begin": "2020-06-19T15:00:00.000Z",
+        "broadcast": "R/2020-06-19T15:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -1112,7 +1126,8 @@
       {
         "site": "nicovideo",
         "id": "negima02",
-        "begin": "2014-12-25T06:00:00.000Z"
+        "begin": "2014-12-25T06:00:00.000Z",
+        "broadcast": "R/2014-12-25T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1452,7 +1467,8 @@
       {
         "site": "nicovideo",
         "id": "happiness",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -1508,7 +1524,8 @@
       {
         "site": "nicovideo",
         "id": "jigokushoujo02",
-        "begin": "2017-08-28T15:00:00.000Z"
+        "begin": "2017-08-28T15:00:00.000Z",
+        "broadcast": "R/2017-08-28T15:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -2249,6 +2266,53 @@
       "Magiczny kot",
       "Волшебный лес",
       "アタゴオルは猫の森"
+    ]
+  },
+  {
+    "title": "流星のロックマン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "流星之洛克人",
+        "流星洛克人"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.xebec-inc.co.jp/anime/ryusei/",
+    "begin": "2006-10-06T16:00:00.000Z",
+    "broadcast": "R/2006-10-06T16:00:00.000Z/P7D",
+    "end": "2007-10-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "5234"
+      },
+      {
+        "site": "abema",
+        "id": "168-68",
+        "begin": "",
+        "broadcast": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2006,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 55,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/26600.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/26600t.jpg",
+    "synonyms": [
+      "Mega Man Star Force",
+      "Megaman Star Force",
+      "Rockman of the Meteor",
+      "Rockman of the Shooting Star",
+      "Ryusei no Rockman",
+      "Ryūsei no Rockman",
+      "Shooting Star Rockman",
+      "流星のロックマン"
     ]
   }
 ]

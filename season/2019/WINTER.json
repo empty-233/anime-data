@@ -23,7 +23,8 @@
       {
         "site": "nicovideo",
         "id": "osomatsusan-movie",
-        "begin": ""
+        "begin": "2020-01-01T03:00:00.000Z",
+        "broadcast": "R/2020-01-01T03:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -455,7 +456,8 @@
       {
         "site": "nicovideo",
         "id": "tsunoanime",
-        "begin": "2019-02-21T13:00:00.000Z"
+        "begin": "2019-02-21T13:00:00.000Z",
+        "broadcast": "R/2019-02-21T13:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -587,7 +589,8 @@
       {
         "site": "nicovideo",
         "id": "horamimi2",
-        "begin": "2019-04-12T13:30:00.000Z"
+        "begin": "2019-04-12T13:30:00.000Z",
+        "broadcast": "R/2019-04-12T13:30:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -676,6 +679,12 @@
       {
         "site": "mikan",
         "id": "2026"
+      },
+      {
+        "site": "nicovideo",
+        "id": "r-geass",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -2019,6 +2028,12 @@
       {
         "site": "mikan",
         "id": "1840"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kakeguruixx",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -2151,12 +2166,6 @@
         "broadcast": "R/2019-01-09T16:00:00.000Z/P7D"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcgXjxwXV7Ero7lqV8xrbkq5",
-        "begin": "2021-04-06T16:00:00.000Z",
-        "broadcast": "R/2021-04-06T16:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0038837",
         "begin": "2019-01-14T03:00:00.000Z",
@@ -2243,6 +2252,12 @@
       {
         "site": "mikan",
         "id": "1844"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kotobuki-anime",
+        "begin": "2019-01-19T13:00:00.000Z",
+        "broadcast": "R/2019-01-19T13:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3766,12 +3781,6 @@
         "id": "103345",
         "begin": "2020-07-03T03:30:00.000Z",
         "broadcast": "R/2020-07-03T03:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "172-58",
-        "begin": "",
-        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -4050,7 +4059,8 @@
       {
         "site": "nicovideo",
         "id": "bpro-anime",
-        "begin": "2016-06-25T12:30:00.000Z"
+        "begin": "2016-06-25T12:30:00.000Z",
+        "broadcast": "R/2016-06-25T12:30:00.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo_tw",

@@ -699,7 +699,8 @@
       {
         "site": "nicovideo",
         "id": "shinkoihime",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "unext",
@@ -754,7 +755,8 @@
       {
         "site": "nicovideo",
         "id": "nyankoi",
-        "begin": "2014-02-06T06:00:00.000Z"
+        "begin": "2014-02-06T06:00:00.000Z",
+        "broadcast": "R/2014-02-06T06:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -818,7 +820,8 @@
       {
         "site": "nicovideo",
         "id": "soranootoshimono",
-        "begin": "2019-10-14T06:00:00.000Z"
+        "begin": "2019-10-14T06:00:00.000Z",
+        "broadcast": "R/2019-10-14T06:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -926,7 +929,8 @@
       {
         "site": "nicovideo",
         "id": "blasmi",
-        "begin": "2013-03-17T07:00:00.000Z"
+        "begin": "2013-03-17T07:00:00.000Z",
+        "broadcast": "R/2013-03-17T07:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -1058,7 +1062,8 @@
       {
         "site": "nicovideo",
         "id": "kiminitodoke01",
-        "begin": "2014-04-15T06:00:00.000Z"
+        "begin": "2014-04-15T06:00:00.000Z",
+        "broadcast": "R/2014-04-15T06:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -1150,7 +1155,8 @@
       {
         "site": "nicovideo",
         "id": "kobato-anime",
-        "begin": "2019-11-15T06:00:00.000Z"
+        "begin": "2019-11-15T06:00:00.000Z",
+        "broadcast": "R/2019-11-15T06:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -1372,7 +1378,8 @@
       {
         "site": "nicovideo",
         "id": "ch642",
-        "begin": "2010-09-17T03:00:01.000Z"
+        "begin": "2010-09-17T03:00:01.000Z",
+        "broadcast": "R/2010-09-17T03:00:01.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1640,7 +1647,8 @@
       {
         "site": "nicovideo",
         "id": "nogizaka-haruka-pure",
-        "begin": "2011-10-26T06:00:00.000Z"
+        "begin": "2011-10-26T06:00:00.000Z",
+        "broadcast": "R/2011-10-26T06:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -1701,7 +1709,8 @@
       {
         "site": "nicovideo",
         "id": "seitokai",
-        "begin": "2012-10-13T15:00:00.000Z"
+        "begin": "2012-10-13T15:00:00.000Z",
+        "broadcast": "R/2012-10-13T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1825,12 +1834,6 @@
         "id": "1065",
         "begin": "2009-10-07T16:00:00.000Z",
         "broadcast": "R/2010-10-02T07:52:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "30106",
-        "begin": "2022-04-01T03:00:00.000Z",
-        "broadcast": "R/2022-04-01T03:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -2034,6 +2037,12 @@
       {
         "site": "bangumi_moe",
         "id": "548f0f2df892774b140ac674"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fairytail01",
+        "begin": "2014-07-01T06:00:00.000Z",
+        "broadcast": "R/2014-07-01T06:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2094,7 +2103,8 @@
       {
         "site": "nicovideo",
         "id": "kiddy-girl-and",
-        "begin": ""
+        "begin": "2020-03-13T06:00:00.000Z",
+        "broadcast": "R/2020-03-13T06:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -2173,12 +2183,6 @@
       {
         "site": "bangumi",
         "id": "67805"
-      },
-      {
-        "site": "abema",
-        "id": "35-8itsckukpnj",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",

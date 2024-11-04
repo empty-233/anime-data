@@ -383,22 +383,10 @@
         "broadcast": ""
       },
       {
-        "site": "gamer",
-        "id": "106512",
-        "begin": "2020-05-19T06:30:00.000Z",
-        "broadcast": "R/2020-05-19T06:30:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0060951",
         "begin": "2021-08-24T15:00:00.000Z",
         "broadcast": "R/2021-08-24T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "106512",
-        "begin": "2020-05-19T06:30:00.000Z",
-        "broadcast": "R/2020-05-19T06:30:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -463,6 +451,12 @@
       {
         "site": "abema",
         "id": "30-13",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "gineiden-seiran",
         "begin": "",
         "broadcast": ""
       }
@@ -1466,12 +1460,6 @@
         "broadcast": "R/2019-07-12T16:30:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "102116",
-        "begin": "2019-07-12T16:30:00.000Z",
-        "broadcast": "R/2019-07-12T16:30:00.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "25-120",
         "begin": "",
@@ -1744,18 +1732,6 @@
       {
         "site": "bilibili_tw",
         "id": "28221414",
-        "begin": "2019-07-08T12:30:00.000Z",
-        "broadcast": "R/2019-07-08T12:30:00.000Z/P7D"
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcjB7z6V6C9BQuc6SQ_pdxLr",
-        "begin": "2019-07-17T16:00:00.000Z",
-        "broadcast": "R/2019-07-17T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "104072",
         "begin": "2019-07-08T12:30:00.000Z",
         "broadcast": "R/2019-07-08T12:30:00.000Z/P7D"
       },
@@ -2559,18 +2535,6 @@
         "broadcast": "R/2019-07-05T18:55:00.000Z/P7D"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UchCJDs65R8KI8MOAYDCvPlR",
-        "begin": "2019-07-17T16:00:00.000Z",
-        "broadcast": "R/2019-07-17T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "102741",
-        "begin": "2019-07-05T18:55:00.000Z",
-        "broadcast": "R/2019-07-05T18:55:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0041951",
         "begin": "2019-07-09T03:00:00.000Z",
@@ -2664,6 +2628,12 @@
       },
       {
         "site": "gamer",
+        "id": "102477",
+        "begin": "2022-07-15T03:00:00.000Z",
+        "broadcast": "R/2022-07-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
         "id": "102477",
         "begin": "2022-07-15T03:00:00.000Z",
         "broadcast": "R/2022-07-15T03:00:00.000Z/P7D"
@@ -2849,13 +2819,6 @@
         "begin": "2019-07-18T07:38:20.000Z"
       },
       {
-        "site": "viu",
-        "id": "426435",
-        "begin": "2022-02-28T16:00:00.000Z",
-        "broadcast": "R/2022-02-28T16:00:00.000Z/P7D",
-        "comment": "粵語版: 426442"
-      },
-      {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JiMf-7_IKknXJngJrCesKj2",
         "begin": "2022-11-05T16:00:00.000Z",
@@ -2918,6 +2881,12 @@
       {
         "site": "mikan",
         "id": "1991"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dr-stone",
+        "begin": "2019-07-14T15:00:00.000Z",
+        "broadcast": "R/2019-07-14T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2986,18 +2955,6 @@
         "id": "28228703",
         "begin": "2019-07-06T16:00:00.000Z",
         "broadcast": "R/2020-04-20T12:09:00.000Z/P7D"
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UchhxGH_Zl_9GGOb1XRUQVgL",
-        "begin": "2019-08-24T16:00:00.000Z",
-        "broadcast": "R/2019-08-24T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "99334",
-        "begin": "2019-07-07T14:30:00.000Z",
-        "broadcast": "R/2019-07-07T14:30:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -3091,6 +3048,12 @@
       {
         "site": "mikan",
         "id": "1993"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ensemblestars-anime",
+        "begin": "2019-07-11T03:00:00.000Z",
+        "broadcast": "R/2019-07-11T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3371,18 +3334,6 @@
         "broadcast": "R/2019-07-11T19:25:00.000Z/P7D"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcgRqbPOD2SQLAy6262FeozL",
-        "begin": "2019-07-17T16:00:00.000Z",
-        "broadcast": "R/2019-07-17T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "104451",
-        "begin": "2019-07-11T19:25:00.000Z",
-        "broadcast": "R/2019-07-11T19:25:00.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "19-145",
         "begin": "",
@@ -3476,12 +3427,6 @@
         "broadcast": "R/2019-08-14T16:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "103847",
-        "begin": "2019-07-14T18:05:00.000Z",
-        "broadcast": "R/2019-07-14T18:05:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0042124",
         "begin": "2019-07-16T15:00:00.000Z",
@@ -3541,18 +3486,6 @@
         "id": "wakanobu",
         "begin": "2019-07-14T15:00:00.000Z",
         "broadcast": "R/2019-07-14T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcgpHuqXzVppXTA6Nc7LXkiV",
-        "begin": "2019-10-31T16:00:00.000Z",
-        "broadcast": "R/2019-10-31T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "103193",
-        "begin": "2019-07-08T15:00:00.000Z",
-        "broadcast": "R/2019-07-08T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -4060,12 +3993,6 @@
         "begin": ""
       },
       {
-        "site": "gamer",
-        "id": "104436",
-        "begin": "2019-07-30T18:35:00.000Z",
-        "broadcast": "R/2019-07-30T18:35:00.000Z/P7D"
-      },
-      {
         "site": "bilibili_tw",
         "id": "28221413",
         "begin": "2019-07-30T18:05:00.000Z",
@@ -4124,6 +4051,12 @@
       {
         "site": "bangumi_moe",
         "id": "5d1b8399e0dc4c3cbb5c9310"
+      },
+      {
+        "site": "nicovideo",
+        "id": "businessfish",
+        "begin": "2019-08-18T16:00:00.000Z",
+        "broadcast": "R/2019-08-18T16:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4156,6 +4089,12 @@
       {
         "site": "bangumi",
         "id": "261493"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anime-rurumo-kanketsuhen",
+        "begin": "2020-01-08T15:00:00.000Z",
+        "broadcast": "R/2020-01-08T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4425,6 +4364,12 @@
       {
         "site": "mikan",
         "id": "2009"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ten-sura-oad",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {

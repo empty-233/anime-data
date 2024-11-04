@@ -60,12 +60,6 @@
         "broadcast": "R/2019-08-16T05:55:50.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "199-56",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0023540",
         "begin": "2016-04-04T03:00:00.000Z",
@@ -159,7 +153,8 @@
       {
         "site": "nicovideo",
         "id": "luluco",
-        "begin": "2016-04-01T14:30:00.000Z"
+        "begin": "2016-04-01T14:30:00.000Z",
+        "broadcast": "R/2016-04-01T14:30:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -228,7 +223,8 @@
       {
         "site": "nicovideo",
         "id": "kagewani02",
-        "begin": "2016-04-01T14:30:00.000Z"
+        "begin": "2016-04-01T14:30:00.000Z",
+        "broadcast": "R/2016-04-01T14:30:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -514,7 +510,8 @@
       {
         "site": "nicovideo",
         "id": "endride",
-        "begin": "2016-04-03T03:00:00.000Z"
+        "begin": "2016-04-03T03:00:00.000Z",
+        "broadcast": "R/2016-04-03T03:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -663,7 +660,8 @@
       {
         "site": "nicovideo",
         "id": "pandepeace",
-        "begin": "2016-04-05T13:00:00.000Z"
+        "begin": "2016-04-05T13:00:00.000Z",
+        "broadcast": "R/2016-04-05T13:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -734,7 +732,8 @@
       {
         "site": "nicovideo",
         "id": "kmmk",
-        "begin": "2016-04-10T15:00:00.000Z"
+        "begin": "2016-04-10T15:00:00.000Z",
+        "broadcast": "R/2016-04-10T15:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -904,6 +903,12 @@
       {
         "site": "mikan",
         "id": "696"
+      },
+      {
+        "site": "nicovideo",
+        "id": "heroaca",
+        "begin": "2016-04-10T07:00:00.000Z",
+        "broadcast": "R/2016-04-10T07:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -975,7 +980,8 @@
       {
         "site": "nicovideo",
         "id": "concreterevolutio",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "dmhy",
@@ -1077,6 +1083,12 @@
       {
         "site": "mikan",
         "id": "694"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gundam-unicorn-re0096",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -1131,7 +1143,8 @@
       {
         "site": "nicovideo",
         "id": "duelmastersvsrf",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -1192,7 +1205,8 @@
       {
         "site": "nicovideo",
         "id": "bakuon-anime",
-        "begin": "2016-04-04T15:30:00.000Z"
+        "begin": "2016-04-04T15:30:00.000Z",
+        "broadcast": "R/2016-04-04T15:30:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -1329,13 +1343,8 @@
       {
         "site": "nicovideo",
         "id": "re-zero-anime",
-        "begin": "2016-04-09T14:00:00.000Z"
-      },
-      {
-        "site": "netflix",
-        "id": "80131659",
-        "begin": "2018-12-31T16:00:00.000Z",
-        "broadcast": "R/2020-12-31T00:00:00.000Z/P7D"
+        "begin": "2016-04-09T14:00:00.000Z",
+        "broadcast": "R/2020-01-06T14:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -1391,6 +1400,7 @@
       "Re:Zero - Starting Life in Another World: Staffel 3",
       "Re:Zero - Starting Life in Another World: Stagione 3",
       "Re:Zero - Starting Life in Another World: Temporada 3",
+      "Re:Zero Season 3",
       "Re:Zero kara Hajimeru Isekai Seikatsu (2024)",
       "Re:Zero kara Hajimeru Isekai Seikatsu 3",
       "Re:Zero kara Hajimeru Isekai Seikatsu 3rd season",
@@ -1587,7 +1597,8 @@
       {
         "site": "nicovideo",
         "id": "hundred-anime",
-        "begin": "2016-04-05T15:30:00.000Z"
+        "begin": "2016-04-05T15:30:00.000Z",
+        "broadcast": "R/2016-04-05T15:30:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -1655,7 +1666,8 @@
       {
         "site": "nicovideo",
         "id": "jokergame",
-        "begin": "2016-04-21T14:00:00.000Z"
+        "begin": "2016-04-21T14:00:00.000Z",
+        "broadcast": "R/2016-04-21T14:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1728,7 +1740,8 @@
       {
         "site": "nicovideo",
         "id": "hakuoki-otogi",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "unext",
@@ -1808,7 +1821,8 @@
       {
         "site": "nicovideo",
         "id": "pripara03",
-        "begin": "2016-04-15T12:30:00.000Z"
+        "begin": "2016-04-15T12:30:00.000Z",
+        "broadcast": "R/2016-04-15T12:30:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -1873,7 +1887,8 @@
       {
         "site": "nicovideo",
         "id": "cerberus",
-        "begin": "2016-04-06T03:00:00.000Z"
+        "begin": "2016-04-06T03:00:00.000Z",
+        "broadcast": "R/2016-04-06T03:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -1955,7 +1970,8 @@
       {
         "site": "nicovideo",
         "id": "superlovers",
-        "begin": "2017-01-09T06:00:00.000Z"
+        "begin": "2017-01-09T06:00:00.000Z",
+        "broadcast": "R/2017-01-09T06:00:00.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
@@ -2040,7 +2056,8 @@
       {
         "site": "nicovideo",
         "id": "sousei",
-        "begin": "2016-04-12T16:00:00.000Z"
+        "begin": "2016-04-12T16:00:00.000Z",
+        "broadcast": "R/2016-04-12T16:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -2168,7 +2185,8 @@
       {
         "site": "nicovideo",
         "id": "takanotsume_gt",
-        "begin": "2016-04-08T10:00:00.000Z"
+        "begin": "2016-04-08T10:00:00.000Z",
+        "broadcast": "R/2016-04-08T10:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -2330,7 +2348,8 @@
       {
         "site": "nicovideo",
         "id": "anne-happy",
-        "begin": "2016-04-10T03:00:00.000Z"
+        "begin": "2016-04-10T03:00:00.000Z",
+        "broadcast": "R/2016-04-10T03:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -2430,7 +2449,8 @@
       {
         "site": "nicovideo",
         "id": "netogenoyome",
-        "begin": "2016-04-16T16:30:00.000Z"
+        "begin": "2016-04-16T16:30:00.000Z",
+        "broadcast": "R/2016-04-16T16:30:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -2530,7 +2550,8 @@
       {
         "site": "nicovideo",
         "id": "bungo-stray-dogs",
-        "begin": "2016-04-15T14:30:00.000Z"
+        "begin": "2016-04-15T14:30:00.000Z",
+        "broadcast": "R/2016-04-15T14:30:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -2632,7 +2653,8 @@
       {
         "site": "nicovideo",
         "id": "kuromukuro",
-        "begin": "2017-01-18T06:00:00.000Z"
+        "begin": "2017-01-18T06:00:00.000Z",
+        "broadcast": "R/2017-01-18T06:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -2704,7 +2726,8 @@
       {
         "site": "nicovideo",
         "id": "onigiri-anime",
-        "begin": "2016-04-07T03:00:00.000Z"
+        "begin": "2016-04-07T03:00:00.000Z",
+        "broadcast": "R/2016-04-07T03:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -2836,7 +2859,8 @@
       {
         "site": "nicovideo",
         "id": "anime_meido",
-        "begin": "2016-04-21T15:30:00.000Z"
+        "begin": "2016-04-21T15:30:00.000Z",
+        "broadcast": "R/2016-04-21T15:30:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -2909,7 +2933,8 @@
       {
         "site": "nicovideo",
         "id": "sakamoto-anime",
-        "begin": "2016-04-14T15:00:00.000Z"
+        "begin": "2016-04-14T15:00:00.000Z",
+        "broadcast": "R/2016-04-14T15:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -3031,7 +3056,8 @@
       {
         "site": "nicovideo",
         "id": "hai-furi",
-        "begin": "2016-04-16T15:00:00.000Z"
+        "begin": "2016-04-16T15:00:00.000Z",
+        "broadcast": "R/2016-04-16T15:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -3110,7 +3136,8 @@
       {
         "site": "nicovideo",
         "id": "kiznaiver",
-        "begin": "2016-04-10T14:00:00.000Z"
+        "begin": "2016-04-10T14:00:00.000Z",
+        "broadcast": "R/2016-04-10T14:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -3249,7 +3276,8 @@
       {
         "site": "nicovideo",
         "id": "flyingwitch",
-        "begin": "2016-04-10T14:30:00.000Z"
+        "begin": "2016-04-10T14:30:00.000Z",
+        "broadcast": "R/2016-04-10T14:30:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -3333,7 +3361,8 @@
       {
         "site": "nicovideo",
         "id": "tonkatsudj",
-        "begin": "2016-04-20T03:00:00.000Z"
+        "begin": "2016-04-20T03:00:00.000Z",
+        "broadcast": "R/2016-04-20T03:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -3459,7 +3488,8 @@
       {
         "site": "nicovideo",
         "id": "sekainotomodachi",
-        "begin": "2017-02-14T03:00:00.000Z"
+        "begin": "2017-02-14T03:00:00.000Z",
+        "broadcast": "R/2017-02-14T03:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -3521,7 +3551,8 @@
       {
         "site": "nicovideo",
         "id": "whanime",
-        "begin": "2016-04-12T03:00:00.000Z"
+        "begin": "2016-04-12T03:00:00.000Z",
+        "broadcast": "R/2016-04-12T03:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -3592,7 +3623,8 @@
       {
         "site": "nicovideo",
         "id": "nemumi",
-        "begin": "2016-04-03T04:00:00.000Z"
+        "begin": "2016-04-03T04:00:00.000Z",
+        "broadcast": "R/2016-04-03T04:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -3740,7 +3772,8 @@
       {
         "site": "nicovideo",
         "id": "asread-net",
-        "begin": "2016-04-16T15:30:00.000Z"
+        "begin": "2016-04-16T15:30:00.000Z",
+        "broadcast": "R/2016-04-16T15:30:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -3847,7 +3880,8 @@
       {
         "site": "nicovideo",
         "id": "cf-vanguard-g2",
-        "begin": "2015-10-13T12:00:00.000Z"
+        "begin": "2015-10-13T12:00:00.000Z",
+        "broadcast": "R/2015-10-13T12:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -3965,7 +3999,8 @@
       {
         "site": "nicovideo",
         "id": "ch2620539",
-        "begin": "2016-04-02T15:56:00.000Z"
+        "begin": "2016-04-02T15:56:00.000Z",
+        "broadcast": "R/2016-04-02T15:56:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -4177,12 +4212,6 @@
         "broadcast": ""
       },
       {
-        "site": "unext",
-        "id": "SID0033992",
-        "begin": "2024-04-18T15:00:00.000Z",
-        "broadcast": "R/2024-04-18T15:00:00.000Z/P7D"
-      },
-      {
         "site": "mikan",
         "id": "1140"
       }
@@ -4254,7 +4283,8 @@
       {
         "site": "nicovideo",
         "id": "panpaka02",
-        "begin": "2017-05-31T15:00:00.000Z"
+        "begin": "2017-05-31T15:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "unext",
@@ -4305,7 +4335,8 @@
       {
         "site": "nicovideo",
         "id": "datenikuru",
-        "begin": ""
+        "begin": "2016-05-02T09:00:00.000Z",
+        "broadcast": "R/2016-05-02T09:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4345,7 +4376,8 @@
       {
         "site": "nicovideo",
         "id": "yugioh_movie",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "bilibili_hk_mo_tw",
@@ -4389,6 +4421,7 @@
       "Yu-Gi-Oh! El lado oscuro de las dimensiones",
       "Yu-Gi-Oh! Film: The Darkside of Dimensions",
       "Yu-Gi-Oh! Movie 4: The Dark Side of Dimensions",
+      "Yu-Gi-Oh! O Lado Negro das Dimensões",
       "Yu-Gi-Oh! The Dark Side of Dimensions",
       "Yu-Gi-Oh!: The Dark Side of Dimensions",
       "Yu-Gi-Oh!: The Darkside of Dimensions",
@@ -4555,7 +4588,8 @@
       {
         "site": "nicovideo",
         "id": "zuttomaekarasukideshita",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "bilibili",

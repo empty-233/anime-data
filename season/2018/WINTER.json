@@ -557,6 +557,9 @@
         "哆啦A梦：大雄的金银岛",
         "哆啦A梦 大雄的宝岛",
         "电影多啦A梦：大雄之金银岛"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄的金銀島"
       ]
     },
     "type": "movie",
@@ -586,6 +589,12 @@
       {
         "site": "mikan",
         "id": "1658"
+      },
+      {
+        "site": "gamer",
+        "id": "89510",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -763,7 +772,8 @@
       {
         "site": "nicovideo",
         "id": "spiritpact2",
-        "begin": "2018-02-24T13:00:00.000Z"
+        "begin": "2018-02-24T13:00:00.000Z",
+        "broadcast": "R/2018-02-24T13:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -2484,12 +2494,6 @@
         "comment": "TV未放送: SID0047615"
       },
       {
-        "site": "disneyplus",
-        "id": "XDjT5adXYDsi",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "89804",
         "begin": "2024-06-03T01:40:00.000Z",
@@ -2541,6 +2545,9 @@
       ],
       "en": [
         "Record of Grancrest War"
+      ],
+      "zh-Hant": [
+        "皇帝聖印戰記"
       ]
     },
     "type": "tv",
@@ -2587,6 +2594,18 @@
       {
         "site": "mikan",
         "id": "1506"
+      },
+      {
+        "site": "gamer",
+        "id": "85733",
+        "begin": "2024-08-30T04:00:00.000Z",
+        "broadcast": "R/2024-08-30T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "85733",
+        "begin": "2024-08-30T04:00:00.000Z",
+        "broadcast": "R/2024-08-30T04:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3929,12 +3948,6 @@
         "broadcast": "R/2018-01-06T03:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "85205",
-        "begin": "2019-11-01T09:00:00.000Z",
-        "broadcast": "R/2019-11-01T09:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0032694",
         "begin": "2018-01-13T03:00:00.000Z",
@@ -4519,12 +4532,6 @@
         "id": "PLuxqoToY7UchkFx6Rl70VbQeT10lIKoL7",
         "begin": "2023-06-11T13:55:55.059Z",
         "broadcast": "R/2023-06-11T13:55:55.059Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "30-11",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",

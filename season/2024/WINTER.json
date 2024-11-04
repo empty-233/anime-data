@@ -81,6 +81,10 @@
         "id": "SID0148357",
         "begin": "2024-08-22T15:00:00.000Z",
         "broadcast": "R/2024-08-22T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3481"
       }
     ],
     "animeSeason": {
@@ -341,6 +345,12 @@
         "id": "21246716",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0157264",
+        "begin": "2024-09-27T15:00:00.000Z",
+        "broadcast": "R/2024-09-27T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -415,7 +425,7 @@
       "month": "02"
     },
     "status": "ONGOING",
-    "episodes": 38,
+    "episodes": 39,
     "picture": "https://cdn.myanimelist.net/images/anime/1852/140786.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1852/140786t.jpg",
     "synonyms": [
@@ -489,6 +499,12 @@
       {
         "site": "mikan",
         "id": "3285"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ohmuroke-ds",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -718,6 +734,12 @@
       {
         "site": "mikan",
         "id": "3267"
+      },
+      {
+        "site": "nicovideo",
+        "id": "himesama-goumon",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -1590,6 +1612,12 @@
       {
         "site": "mikan",
         "id": "3233"
+      },
+      {
+        "site": "mytv",
+        "id": "tsukimichimoonlitfantasyseason2_141750",
+        "begin": "2024-09-30T16:00:00.000Z",
+        "broadcast": "R/2024-09-30T16:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1934,7 +1962,8 @@
         "青之驱魔师 第三季"
       ],
       "zh-Hant": [
-        "青之驅魔師 島根啟明結社篇"
+        "青之驅魔師 島根啟明結社篇",
+        "青之驅魔師 島根啓明結社篇"
       ]
     },
     "type": "tv",
@@ -1997,6 +2026,12 @@
       {
         "site": "mikan",
         "id": "3234"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucgu4puxaBne9KpCiEfc50V1",
+        "begin": "2024-09-23T13:30:21.000Z",
+        "broadcast": "R/2024-09-23T13:30:21.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3274,6 +3309,12 @@
       {
         "site": "mikan",
         "id": "3252"
+      },
+      {
+        "site": "bilibili",
+        "id": "21194726",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -3430,12 +3471,6 @@
         "id": "283-24",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "gamer",
-        "id": "136407",
-        "begin": "2024-01-13T10:00:00.000Z",
-        "broadcast": "R/2024-01-13T10:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -4080,6 +4115,12 @@
       {
         "site": "mikan",
         "id": "3261"
+      },
+      {
+        "site": "unext",
+        "id": "SID0148747",
+        "begin": "2024-09-30T15:00:00.000Z",
+        "broadcast": "R/2024-09-30T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4350,6 +4391,56 @@
       "Mobile Suit Gundam SEED FREEDOM",
       "Mobile Suit Gundam SEED Project Ignited",
       "機動戦士ガンダムSEED FREEDOM"
+    ]
+  },
+  {
+    "title": "映画 ギヴン 柊mix",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 GIVEN 柊mix"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://given-anime.com/",
+    "begin": "2024-01-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-01-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "425605"
+      },
+      {
+        "site": "unext",
+        "id": "SID0147572",
+        "begin": "2024-08-27T15:00:00.000Z",
+        "broadcast": "R/2024-08-27T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2024,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1095/140582.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1095/140582t.jpg",
+    "synonyms": [
+      "Eiga Given (2024)",
+      "Eiga Given: Hiiragi Mix",
+      "Eiga Given: Hīragi Mix",
+      "Given (Sequel)",
+      "Given Movie 02",
+      "Given Movie 2",
+      "Given Movie: Hiiragi Mix",
+      "Given: Hiiragi mix",
+      "given The Movie - Hiiragi Mix",
+      "ギヴン 柊mix",
+      "映画 ギヴン (2024)",
+      "映画 ギヴン 柊mix"
     ]
   },
   {

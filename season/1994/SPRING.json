@@ -235,7 +235,8 @@
       {
         "site": "nicovideo",
         "id": "redbaron",
-        "begin": "2011-11-23T06:00:00.000Z"
+        "begin": "2011-11-23T06:00:00.000Z",
+        "broadcast": "R/2011-11-23T06:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -290,6 +291,12 @@
         "id": "SID0012904",
         "begin": "2008-11-07T06:00:00.000Z",
         "broadcast": "R/2008-11-07T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "g-gundam",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -428,11 +435,6 @@
         "broadcast": "R/2018-02-08T04:16:00.000Z/P7D"
       },
       {
-        "site": "ani_one_asia",
-        "id": "PLxSscENEp7Jgv63BpD8ovpSFlCSOu8DvO",
-        "begin": ""
-      },
-      {
         "site": "unext",
         "id": "SID0016638",
         "begin": "2023-02-14T03:00:00.000Z",
@@ -477,6 +479,12 @@
       {
         "site": "bangumi",
         "id": "114807"
+      },
+      {
+        "site": "unext",
+        "id": "SID0157652",
+        "begin": "2024-10-26T15:00:00.000Z",
+        "broadcast": "R/2024-10-26T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
