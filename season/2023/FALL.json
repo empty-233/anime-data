@@ -11,7 +11,7 @@
     "officialSite": "https://www.oshiri-tantei.com/",
     "begin": "2024-04-06T00:00:00.000Z",
     "broadcast": "R/2024-04-06T00:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-11-16T00:20:00.000Z",
     "comment": "",
     "sites": [],
     "animeSeason": {
@@ -71,6 +71,12 @@
       {
         "site": "mikan",
         "id": "3217"
+      },
+      {
+        "site": "unext",
+        "id": "SID0097523",
+        "begin": "2023-12-26T03:00:00.000Z",
+        "broadcast": "R/2023-12-26T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -754,6 +760,12 @@
       {
         "site": "nicovideo",
         "id": "gintama-2d",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "13-191",
         "begin": "",
         "broadcast": ""
       }
@@ -1769,7 +1781,8 @@
         "site": "viu",
         "id": "2247795",
         "begin": "2023-09-30T16:00:00.000Z",
-        "broadcast": "R/2023-09-30T16:00:00.000Z/P7D"
+        "broadcast": "R/2023-09-30T16:00:00.000Z/P7D",
+        "comment": "粵語版: 2516774"
       },
       {
         "site": "gamer",
@@ -2919,7 +2932,6 @@
       "Tearmoon Empire Story",
       "Tearmoon Teikoku Monogatari",
       "Tearmoon Teikoku Monogatari: Dantōdai kara Hajimaru, Hime no Tensei Gyakuten Story",
-      "tearmoon",
       "บันทึกเรื่องราวจักรวรรดิเทียร์มูน -จุดพลิกผันชะตากรรมของเจ้าหญิงเริ่มจากบนกิโยติน-",
       "บันทึกเรื่องราวจักรวรรดิเทียร์มูน: จุดพลิกผันชะตากรรมของเจ้าหญิงเริ่มจากบนกิโยติน",
       "ティアムーン帝国物語~断頭台から始まる, 姫の転生逆転ストーリー~",
@@ -3148,6 +3160,10 @@
         "id": "135088",
         "begin": "2024-09-25T09:10:00.000Z",
         "broadcast": "R/2024-09-25T09:10:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "放學 花子君"
       }
     ],
     "animeSeason": {
@@ -4071,6 +4087,12 @@
       {
         "site": "mikan",
         "id": "3138"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093568",
+        "begin": "2024-11-12T03:00:00.000Z",
+        "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -5035,6 +5057,12 @@
       {
         "site": "mikan",
         "id": "3171"
+      },
+      {
+        "site": "netflix",
+        "id": "81924739",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -5043,7 +5071,7 @@
       "month": "10"
     },
     "status": "ONGOING",
-    "episodes": 56,
+    "episodes": 57,
     "picture": "https://cdn.myanimelist.net/images/anime/1394/145458.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1394/145458t.jpg",
     "synonyms": [
@@ -5132,10 +5160,13 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1848/140019.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1848/140019t.jpg",
     "synonyms": [
+      "Keiken Zero na Ore ga",
       "Keiken Zumi na Kimi to, Keiken Zero na Ore ga, Otsukiai Suru Hanashi.",
       "Keiken Zumi na Kimi to, Keiken Zero na Ore ga, Otsukiaisuru Hanashi",
+      "Keikenzumi na Kimi to",
       "Kimizero",
       "Kisah Asmara Kita: Kamu yang Berpengalaman dan Aku yang Polos",
+      "Otsukiai suru Hanashi.",
       "Our Dating Story : The Experienced You and the Inexperienced Me",
       "Our Dating Story: Meine erfahrene Freundin und Ich",
       "Our Dating Story: The Experienced You and The Inexperienced Me",
@@ -6527,6 +6558,10 @@
         "数码宝贝02 THE BEGINNING",
         "数码暴龙02 THE BEGINNING",
         "数码兽大冒险02 THE BEGINNING"
+      ],
+      "zh-Hant": [
+        "數碼暴龍 02 THE BEGINNING",
+        "數碼寶貝 02 THE BEGINNING"
       ]
     },
     "type": "movie",
@@ -6550,6 +6585,12 @@
       {
         "site": "bilibili",
         "id": "21225247",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81946494",
         "begin": "",
         "broadcast": ""
       }
