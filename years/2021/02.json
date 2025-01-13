@@ -75,6 +75,12 @@
         "id": "5-62",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "25872",
+        "begin": "2022-12-01T01:00:00.000Z",
+        "broadcast": "R/2022-12-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -138,6 +144,12 @@
       {
         "site": "mikan",
         "id": "2340"
+      },
+      {
+        "site": "danime",
+        "id": "24482",
+        "begin": "2021-02-13T15:00:00.000Z",
+        "broadcast": "R/2021-02-13T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -270,6 +282,12 @@
         "id": "120583",
         "begin": "2021-11-19T08:00:00.000Z",
         "broadcast": "R/2021-11-19T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25858",
+        "begin": "2022-10-08T01:00:00.000Z",
+        "broadcast": "R/2022-10-08T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -380,6 +398,12 @@
       {
         "site": "mikan",
         "id": "2519"
+      },
+      {
+        "site": "danime",
+        "id": "25933",
+        "begin": "2022-12-22T15:00:00.000Z",
+        "broadcast": "R/2022-12-22T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -398,6 +422,98 @@
       "Princess Principal: ~Crown Handler~ 1",
       "プリンセス・プリンシパル Crown Handler",
       "プリンセス・プリンシパル Crown Handler 第1章"
+    ]
+  },
+  {
+    "title": "異能のアイシス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "异能的艾希斯"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.projectaicis.com/nonocis/",
+    "begin": "2021-02-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-06-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "328582"
+      },
+      {
+        "site": "mikan",
+        "id": "2415"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2021,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 15,
+    "picture": "https://cdn.myanimelist.net/images/anime/1199/112305.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1199/112305t.jpg",
+    "synonyms": [
+      "AICis the Supernatural",
+      "ESP & High School Detective",
+      "Inou no AICis",
+      "Inou no AICis - ESP & HIGH SCHOOL DETECTIVE",
+      "Inou no Aicis: ESP & High School Detective",
+      "Inō no Aicis: ESP & High School Detective",
+      "異能のアイシス",
+      "異能のアイシス ESP & HIGH SCHOOL DETECTIVE"
+    ]
+  },
+  {
+    "title": "Tokyo 7th シスターズ -僕らは青空になる-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "东京七姐妹 我们化作青空"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://project-t7s-a.jp/",
+    "begin": "2021-02-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-02-25T16:01:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "305411"
+      },
+      {
+        "site": "mikan",
+        "id": "2468"
+      },
+      {
+        "site": "danime",
+        "id": "25009",
+        "begin": "2021-09-24T01:00:00.000Z",
+        "broadcast": "R/2021-09-24T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2021,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1757/114727.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1757/114727t.jpg",
+    "synonyms": [
+      "T7S",
+      "Tokyo 7th Sisters",
+      "Tokyo 7th Sisters Movie: Bokura wa Aozora ni Naru",
+      "Tokyo 7th シスターズ",
+      "Tokyo 7th シスターズ -僕らは青空になる-",
+      "东京七姐妹 我们化作青空"
     ]
   }
 ]

@@ -60,6 +60,13 @@
         "site": "nicovideo",
         "id": "midoriyama",
         "begin": "2016-08-01T06:00:00.000Z"
+      },
+      {
+        "site": "danime",
+        "id": "21042",
+        "begin": "2020-07-31T01:00:00.000Z",
+        "broadcast": "R/2020-07-31T01:00:00.000Z/P7D",
+        "comment": "衛星アニメ劇場版: 24472"
       }
     ],
     "animeSeason": {
@@ -112,6 +119,12 @@
         "id": "SID0003412",
         "begin": "2016-03-24T03:00:00.000Z",
         "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10242",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -169,6 +182,63 @@
       "Hello Kitty to Mimmy no Happy Birthday",
       "キティとミミィのハッピーバースデー",
       "ハローキティとミミィのハッピーバースデー"
+    ]
+  },
+  {
+    "title": "ザ・ボーグマン ラストバトル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超音战士Borgman 最后一战"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-09-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-09-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53934"
+      },
+      {
+        "site": "danime",
+        "id": "10637",
+        "begin": "2012-09-28T01:00:00.000Z",
+        "broadcast": "R/2012-09-28T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1989,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1322/106024.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1322/106024t.jpg",
+    "synonyms": [
+      "Borgman : Last Battle",
+      "Borgman OVA 2",
+      "Borgman: Last Battle",
+      "Borgman: Le Film (Partie 1)",
+      "Chouon Senshi Borgman: Last Battle",
+      "Chouon Senshi Borgman: Last Battle (超音戦士ボーグマン ラストバトル)",
+      "Chōon Senshi Borgman: Last Battle",
+      "Sonic Soldier Borgman OVA",
+      "Sonic Soldier Borgman: Last Battle",
+      "Sonic Soldier Borgman: The Final Battle",
+      "THE·BORGMAN LAST BATTLE",
+      "THE·BORGMAN LAST BATTLE (ザ・ボーグマン ラストバトル)",
+      "The Borgman Last Battle",
+      "borgman ova 2",
+      "ssb ova 2",
+      "ザ·ボーグマン·ラストバトル",
+      "ザ・ボーグマン ラストバトル",
+      "ザ・ボーグマン・ラストバトル",
+      "超音戦士ボーグマン ラストバトル"
     ]
   }
 ]

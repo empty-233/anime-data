@@ -29,6 +29,12 @@
         "id": "SID0010845",
         "begin": "2021-01-18T03:00:00.000Z",
         "broadcast": "R/2021-01-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10985",
+        "begin": "2013-09-06T01:00:00.000Z",
+        "broadcast": "R/2013-09-06T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -62,6 +68,12 @@
       {
         "site": "bangumi",
         "id": "10650"
+      },
+      {
+        "site": "danime",
+        "id": "11104",
+        "begin": "2014-02-07T01:00:00.000Z",
+        "broadcast": "R/2014-02-07T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -191,6 +203,12 @@
         "id": "SID0035237",
         "begin": "2018-06-21T03:00:00.000Z",
         "broadcast": "R/2018-06-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10750",
+        "begin": "2013-02-01T01:00:00.000Z",
+        "broadcast": "R/2013-02-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -223,6 +241,50 @@
       "劇場版 そらのおとしもの 時計じかけの哀女神[エンジェロイド]",
       "劇場版 そらのおとしもの 時計じかけの哀女神（エンジェロイド）",
       "天降之物 计时的悲伤女神"
+    ]
+  },
+  {
+    "title": "ゆるめいつ は?",
+    "titleTranslate": {
+      "zh-Hans": [
+        "希望宅邸？",
+        "希望宅邸2"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.takeshobo.co.jp/sp/yuru2/",
+    "begin": "2011-06-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2011-06-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "14763"
+      },
+      {
+        "site": "danime",
+        "id": "20079",
+        "begin": "2015-04-03T01:00:00.000Z",
+        "broadcast": "R/2015-04-03T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2011,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/32647.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/32647t.jpg",
+    "synonyms": [
+      "Yurumates ha?",
+      "Yurumeitsu ha?",
+      "Yurumeitsu wa?",
+      "ゆるめいつ は?",
+      "ゆるめいつ は？"
     ]
   }
 ]

@@ -92,6 +92,12 @@
         "id": "gundam-cca",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "13-73",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -402,6 +408,53 @@
       "Mobile Suit SD Gundam Mk. I",
       "Super Deformed Gundam MkI",
       "機動戦士SDガンダム"
+    ]
+  },
+  {
+    "title": "ビックリマン 第一次聖魔大戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "仙魔大战 第一次圣魔大战"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-03-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1988-03-11T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "487091"
+      },
+      {
+        "site": "danime",
+        "id": "24699",
+        "begin": "2022-06-15T01:00:00.000Z",
+        "broadcast": "R/2022-06-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002821",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1988,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1436/97580.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1436/97580t.jpg",
+    "synonyms": [
+      "Amazing-man: The First Holy Demon War",
+      "Bikkuriman: Daīchiji Seima Taisen",
+      "ビックリマン 第一次聖魔大戦"
     ]
   }
 ]

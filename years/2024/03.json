@@ -15,6 +15,18 @@
         "id": "SID0100179",
         "begin": "2024-03-22T17:00:00.000Z",
         "broadcast": "R/2024-03-22T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "593-6",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26976",
+        "begin": "2024-03-08T17:00:00.000Z",
+        "broadcast": "R/2024-03-08T17:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -55,6 +67,18 @@
         "id": "SID0100180",
         "begin": "2024-03-22T17:00:00.000Z",
         "broadcast": "R/2024-03-22T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "593-5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26977",
+        "begin": "2024-03-08T17:00:00.000Z",
+        "broadcast": "R/2024-03-08T17:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -93,6 +117,18 @@
       {
         "site": "unext",
         "id": "SID0100181",
+        "begin": "2024-03-22T17:00:00.000Z",
+        "broadcast": "R/2024-03-22T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "593-7",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26978",
         "begin": "2024-03-22T17:00:00.000Z",
         "broadcast": "R/2024-03-22T17:00:00.000Z/P7D"
       }
@@ -291,6 +327,12 @@
         "id": "watakon-ova-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0159243",
+        "begin": "2024-11-21T15:00:00.000Z",
+        "broadcast": "R/2024-11-21T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -330,6 +372,50 @@
       "わたしの幸せな結婚 OAD",
       "わたしの幸せな結婚 わたしの 幸せのかたち",
       "わたしの幸せな結婚 わたしの幸せのかたち"
+    ]
+  },
+  {
+    "title": "あんさんぶるスターズ！！追憶セレクション『チェックメイト』",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像梦幻祭 追忆Selection『Checkmate』"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://ensemble-stars.jp/anime/checkmate/",
+    "begin": "2024-03-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-03-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "456251"
+      },
+      {
+        "site": "danime",
+        "id": "26685",
+        "begin": "2024-04-09T15:00:00.000Z",
+        "broadcast": "R/2024-04-09T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2024,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/1499/141979.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1499/141979t.jpg",
+    "synonyms": [
+      "Ensemble Stars!! Tsuioku Selection \"Checkmate\"",
+      "Ensemble Stars!! Tsuioku Selection: Checkmate",
+      "Ensemble Stars!!: Tsuioku Selection - Checkmate",
+      "あんさんぶるスターズ！！追憶セレクション「チェックメイト",
+      "あんさんぶるスターズ！！追憶セレクション「チェックメイト」",
+      "あんさんぶるスターズ！！追憶セレクション『チェックメイト』"
     ]
   }
 ]

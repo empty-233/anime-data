@@ -28,12 +28,6 @@
         "id": "81281579",
         "begin": "2021-06-16T16:00:00.000Z",
         "broadcast": "R/2021-06-16T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0063350",
-        "begin": "2021-12-22T03:00:00.000Z",
-        "broadcast": "R/2021-12-22T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -176,6 +170,12 @@
       {
         "site": "mikan",
         "id": "2542"
+      },
+      {
+        "site": "danime",
+        "id": "25155",
+        "begin": "2022-02-11T01:00:00.000Z",
+        "broadcast": "R/2022-02-11T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -255,6 +255,12 @@
       {
         "site": "mikan",
         "id": "2592"
+      },
+      {
+        "site": "danime",
+        "id": "25958",
+        "begin": "2024-02-29T15:00:00.000Z",
+        "broadcast": "R/2024-02-29T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -338,6 +344,16 @@
         "id": "sidonia-aitsumuguhoshi",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2657"
+      },
+      {
+        "site": "danime",
+        "id": "25781",
+        "begin": "2022-10-02T15:00:00.000Z",
+        "broadcast": "R/2022-10-02T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -452,6 +468,12 @@
         "id": "SID0058494",
         "begin": "2021-06-14T08:00:00.000Z",
         "broadcast": "R/2021-06-14T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24802",
+        "begin": "2021-06-07T08:00:00.000Z",
+        "broadcast": "R/2021-06-07T08:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -497,6 +519,12 @@
       {
         "site": "mikan",
         "id": "2612"
+      },
+      {
+        "site": "danime",
+        "id": "25743",
+        "begin": "2022-08-01T01:00:00.000Z",
+        "broadcast": "R/2022-08-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -599,6 +627,12 @@
         "id": "SID0061058",
         "begin": "2021-08-27T03:00:00.000Z",
         "broadcast": "R/2021-08-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26873",
+        "begin": "2024-03-07T15:00:00.000Z",
+        "broadcast": "R/2024-03-07T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -621,6 +655,116 @@
       "Uchuu Senkan Yamato 2202: Ai no Senshi-tachi Summary",
       "「宇宙戦艦ヤマト」という時代 西暦2202年の選択",
       "『宇宙戦艦ヤマト』という時代 西暦2202年の選択"
+    ]
+  },
+  {
+    "title": "ワンダーエッグ・プライオリティ 特別編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "奇蛋物语 特别篇",
+        "WONDER EGG PRIORITY 特别篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://wonder-egg-priority.com",
+    "begin": "2021-06-28T16:00:00.000Z",
+    "broadcast": "R/2021-06-28T16:00:00.000Z/P7D",
+    "end": "2021-06-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "331935"
+      },
+      {
+        "site": "mikan",
+        "id": "2529"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2021,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1527/113849.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1527/113849t.jpg",
+    "synonyms": [
+      "WEP Special Edition",
+      "WONDER EGG PRIORITY Special Edition",
+      "WONDER EGG PRIORITY: My Priority",
+      "Wonder Egg Priority : My Priority",
+      "Wonder Egg Priority Episode 13",
+      "Wonder Egg Priority Special",
+      "Wonder Egg Priority Special Edition",
+      "Wonder Egg Priority Spezialfolge",
+      "Wonder Egg Priority Tokubetsu-hen",
+      "Wonder Egg Priority Tokubetsu-hen (ワンダーエッグ・プライオリティ 特別編)",
+      "Wonder Egg Priority Tokubetsu-hen., Wonder Egg Priority episode 13, Wonder Egg Priority Special",
+      "Wonder Egg Priority: La mia Priority",
+      "Wonder Egg Priority: Meine Priorität",
+      "Wonder Egg Priority: Mi prioridad",
+      "Wonder Egg Priority: My Priority",
+      "Wonder Egg Priority: Tokubetsu-hen",
+      "ワンダーエッグ・プライオリティ 特別編",
+      "ワンダーエッグ・プライオリティ 私のプライオリティ",
+      "ワンダーエッグ・プライオリティ　特別編"
+    ]
+  },
+  {
+    "title": "漁港の肉子ちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "渔港的肉子酱"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://29kochanmovie.com",
+    "begin": "2021-06-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-06-10T17:37:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "324285"
+      },
+      {
+        "site": "mikan",
+        "id": "2717"
+      },
+      {
+        "site": "unext",
+        "id": "SID0068123",
+        "begin": "2024-12-20T03:00:00.000Z",
+        "broadcast": "R/2024-12-20T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2021,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1747/116922.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1747/116922t.jpg",
+    "synonyms": [
+      "Fortuna sprzyja pani Nikuko",
+      "Fortune Favors Lady Nikuko",
+      "Gyokō no Nikuko-chan",
+      "La Chance Sourit à Madame Nikuko",
+      "La Fortuna Di Nikuko",
+      "La chance sourit à madame Nikuko",
+      "La fortuna di Nikuko",
+      "La fortuna sonríe a Lady Nikuko",
+      "Nikuko of the Fishing Harbor",
+      "Nikuko z přístavního města",
+      "渔港的肉子酱",
+      "漁港の肉子ちゃん"
     ]
   }
 ]

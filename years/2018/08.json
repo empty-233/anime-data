@@ -94,6 +94,12 @@
       {
         "site": "mikan",
         "id": "1715"
+      },
+      {
+        "site": "danime",
+        "id": "22355",
+        "begin": "2022-03-04T01:00:00.000Z",
+        "broadcast": "R/2022-03-04T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -217,6 +223,12 @@
       {
         "site": "mikan",
         "id": "1893"
+      },
+      {
+        "site": "danime",
+        "id": "22980",
+        "begin": "2019-09-01T01:00:00.000Z",
+        "broadcast": "R/2019-09-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -367,6 +379,13 @@
         "id": "tenipri-best-games",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "25124",
+        "begin": "2021-11-10T01:00:00.000Z",
+        "broadcast": "R/2021-11-10T01:00:00.000Z/P7D",
+        "comment": "乾・海堂 vs 宍戸・鳳／大石・菊丸 vs 仁王・柳生: 25159, 不二 vs 切原: 25160"
       }
     ],
     "animeSeason": {
@@ -506,18 +525,6 @@
         "id": "SID0039141",
         "begin": "2020-07-08T03:00:00.000Z",
         "broadcast": "R/2020-07-08T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "92944",
-        "begin": "2024-04-19T04:00:00.000Z",
-        "broadcast": "R/2024-04-19T04:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "92944",
-        "begin": "2024-04-19T04:00:00.000Z",
-        "broadcast": "R/2024-04-19T04:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -674,6 +681,12 @@
         "id": "94236",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "23092",
+        "begin": "2019-12-01T01:00:00.000Z",
+        "broadcast": "R/2019-12-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -724,6 +737,12 @@
         "id": "SID0036449",
         "begin": "2019-08-23T03:00:00.000Z",
         "broadcast": "R/2019-08-23T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22354",
+        "begin": "2018-08-14T01:00:00.000Z",
+        "broadcast": "R/2018-08-14T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -742,6 +761,48 @@
       "Zannen na Ikimono no Jiten",
       "ざんねんないきもの事典",
       "안타까운 생물사전"
+    ]
+  },
+  {
+    "title": "アラーニェの虫籠",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿拉涅的虫笼",
+        "阿拉尼耶的蟲籠",
+        "阿拉克涅的虫笼"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.ara-mushi.com/",
+    "begin": "2018-08-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-08-17T17:13:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "226807"
+      },
+      {
+        "site": "mikan",
+        "id": "1889"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2018,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1477/96023.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1477/96023t.jpg",
+    "synonyms": [
+      "ARAGNE: Sign of Vermillion",
+      "Aragne: Sign of Vermilion",
+      "Aragne: Sign of Vermillion",
+      "アラーニェの虫籠"
     ]
   }
 ]

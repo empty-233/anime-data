@@ -7,6 +7,9 @@
       ],
       "zh-Hant": [
         "鬼滅之刃 柱訓練篇"
+      ],
+      "en": [
+        "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc"
       ]
     },
     "type": "tv",
@@ -24,8 +27,8 @@
       {
         "site": "unext",
         "id": "SID0100064",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-05-12T16:00:00.000Z",
+        "broadcast": "R/2024-05-12T16:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -71,6 +74,24 @@
         "id": "133416",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "24g5VOAYb4vi",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GY5P48XEY",
+        "begin": "2024-05-12T14:15:00.000Z",
+        "broadcast": "R/2024-05-12T14:15:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27090",
+        "begin": "2024-05-12T16:00:00.000Z",
+        "broadcast": "R/2024-05-12T16:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -260,6 +281,18 @@
       {
         "site": "mikan",
         "id": "3352"
+      },
+      {
+        "site": "unext",
+        "id": "SID0162699",
+        "begin": "2024-12-18T03:00:00.000Z",
+        "broadcast": "R/2024-12-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "204-12",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -284,6 +317,57 @@
       "Dead Dead Demons Dededededestruction (2024) Episode 0",
       "デッドデッドデーモンズデデデデデストラクション",
       "デッドデッドデーモンズデデデデデストラクション （2024） Episode 0"
+    ]
+  },
+  {
+    "title": "ウマ娘 プリティーダービー 新時代の扉",
+    "titleTranslate": {
+      "zh-Hans": [
+        "赛马娘 Pretty Derby 新时代之门"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://movie-umamusume.jp/",
+    "begin": "2024-05-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-05-23T17:48:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "472620"
+      },
+      {
+        "site": "unext",
+        "id": "SID0160058",
+        "begin": "2024-11-23T15:00:00.000Z",
+        "broadcast": "R/2024-11-23T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2024,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1427/142210.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1427/142210t.jpg",
+    "synonyms": [
+      "Uma Musume Movie",
+      "Uma Musume: Pretty Derby - BEGINNING OF A NEW ERA",
+      "Uma Musume: Pretty Derby - Beginning of a New Era",
+      "Uma Musume: Pretty Derby - Shinjidai no Tobira",
+      "Uma Musume: Pretty Derby Movie",
+      "Umamusume: Pretty Derby - Beginning Of A New Era",
+      "Umamusume: Pretty Derby - Beginning of a New Era",
+      "Umamusume: Pretty Derby BEGINNING OF A NEW ERA",
+      "Umamusume: Pretty Derby Shin Jidai no Tobira",
+      "ウマ娘 プリティーダービー BEGINNING OF A NEW ERA",
+      "ウマ娘 プリティーダービー 新時代の扉",
+      "劇場版 ウマ娘 プリティーダービー",
+      "劇場版『ウマ娘 プリティーダービー 新時代の扉』"
     ]
   }
 ]

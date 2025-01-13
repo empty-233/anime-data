@@ -25,6 +25,12 @@
         "id": "SID0002354",
         "begin": "2015-02-16T15:00:00.000Z",
         "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10917",
+        "begin": "2013-08-02T01:00:00.000Z",
+        "broadcast": "R/2013-08-02T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -88,6 +94,12 @@
         "id": "SID0002874",
         "begin": "2019-09-09T03:00:00.000Z",
         "broadcast": "R/2019-09-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21272",
+        "begin": "2016-12-09T01:00:00.000Z",
+        "broadcast": "R/2016-12-09T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -111,6 +123,58 @@
       "マッハGoGoGo",
       "マッハGoGoGo (1997)",
       "マッハGoGoGo （1997）"
+    ]
+  },
+  {
+    "title": "黄金バット",
+    "titleTranslate": {
+      "zh-Hans": [
+        "黄金蝙蝠"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1967-03-31T16:00:00.000Z",
+    "broadcast": "R/1967-03-31T16:00:00.000Z/P7D",
+    "end": "1968-03-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "147869"
+      },
+      {
+        "site": "danime",
+        "id": "24030",
+        "begin": "2020-06-19T01:00:00.000Z",
+        "broadcast": "R/2020-06-19T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1967,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 52,
+    "picture": "https://cdn.myanimelist.net/images/anime/1601/145691.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1601/145691t.jpg",
+    "synonyms": [
+      "Fantaman",
+      "Fantasmagórico",
+      "Fantoma",
+      "Fantomas",
+      "Fantomas: O Guerreiro da Justiça",
+      "Fantômas",
+      "Golden Bat",
+      "Ogon Bat",
+      "Phantaman",
+      "Phantoma",
+      "o guerreiro da justiça",
+      "Ōgon Bat",
+      "黄金バット",
+      "황금박쥐"
     ]
   }
 ]

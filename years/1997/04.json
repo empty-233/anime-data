@@ -154,6 +154,12 @@
         "id": "SID0003236",
         "begin": "2018-04-13T03:00:00.000Z",
         "broadcast": "R/2018-04-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23280",
+        "begin": "2021-12-10T01:00:00.000Z",
+        "broadcast": "R/2021-12-10T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -206,6 +212,12 @@
         "id": "SID0002637",
         "begin": "2019-10-08T03:00:00.000Z",
         "broadcast": "R/2019-10-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22035",
+        "begin": "2018-04-13T01:00:00.000Z",
+        "broadcast": "R/2018-04-13T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -265,6 +277,12 @@
         "id": "SID0003377",
         "begin": "2015-02-16T15:00:00.000Z",
         "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10921",
+        "begin": "2013-08-02T01:00:00.000Z",
+        "broadcast": "R/2013-08-02T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -405,16 +423,16 @@
         "id": "9588"
       },
       {
-        "site": "abema",
-        "id": "5-11",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0011081",
         "begin": "2019-12-13T03:00:00.000Z",
         "broadcast": "R/2019-12-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24821",
+        "begin": "2021-08-27T01:00:00.000Z",
+        "broadcast": "R/2021-08-27T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -647,6 +665,12 @@
         "id": "2280",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "11040",
+        "begin": "2013-11-01T01:00:00.000Z",
+        "broadcast": "R/2013-11-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -759,6 +783,50 @@
       "الصياد الجرئ",
       "มุซาชิ เซียนเบ็ดยอดอัจฉริยะ",
       "スーパーフィッシング グランダー武蔵"
+    ]
+  },
+  {
+    "title": "永久家族",
+    "titleTranslate": {
+      "zh-Hans": [
+        "永久家族"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.studio4c.co.jp/works/eternal_family/",
+    "begin": "1997-03-31T16:00:00.000Z",
+    "broadcast": "R/1997-03-31T16:00:00.000Z/P7D",
+    "end": "1998-02-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9002"
+      },
+      {
+        "site": "danime",
+        "id": "23928",
+        "begin": "2020-05-01T01:00:00.000Z",
+        "broadcast": "R/2020-05-01T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1997,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/10210.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/10210t.jpg",
+    "synonyms": [
+      "Amžina Šeimynėlė",
+      "Eikyū Kazoku",
+      "Eternal Family",
+      "Ölümsüz Aile",
+      "Вечная семейка",
+      "永久家族"
     ]
   }
 ]

@@ -49,12 +49,6 @@
         "broadcast": ""
       },
       {
-        "site": "viu",
-        "id": "317442",
-        "begin": "2020-11-30T16:00:00.000Z",
-        "broadcast": "R/2020-11-30T16:00:00.000Z/P7D"
-      },
-      {
         "site": "gamer",
         "id": "106374",
         "begin": "2020-12-07T00:00:00.000Z",
@@ -103,6 +97,12 @@
       {
         "site": "mikan",
         "id": "2335"
+      },
+      {
+        "site": "danime",
+        "id": "24242",
+        "begin": "2020-12-07T03:00:00.000Z",
+        "broadcast": "R/2020-12-07T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -206,6 +206,12 @@
         "id": "110921",
         "begin": "2024-08-23T04:00:00.000Z",
         "broadcast": "R/2024-08-23T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24274",
+        "begin": "2020-12-07T03:00:00.000Z",
+        "broadcast": "R/2020-12-07T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -249,12 +255,6 @@
       {
         "site": "bangumi",
         "id": "319918"
-      },
-      {
-        "site": "nicovideo",
-        "id": "kigushun",
-        "begin": "",
-        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -391,14 +391,14 @@
         "broadcast": "R/2021-08-25T03:00:00.000Z/P7D"
       },
       {
-        "site": "netflix",
-        "id": "81508630",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "2517"
+      },
+      {
+        "site": "danime",
+        "id": "25281",
+        "begin": "2022-06-24T15:00:00.000Z",
+        "broadcast": "R/2022-06-24T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -706,6 +706,66 @@
       "Yes, No, or Maybe Half?",
       "Yes, No, or Maybe?",
       "イエスかノーか半分か"
+    ]
+  },
+  {
+    "title": "えんとつ町のプペル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "烟囱小镇的普佩尔",
+        "烟囱城的普贝尔",
+        "烟囱之城"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://poupelle.com",
+    "begin": "2020-12-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-12-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "296309"
+      },
+      {
+        "site": "unext",
+        "id": "SID0061588",
+        "begin": "2024-12-20T03:00:00.000Z",
+        "broadcast": "R/2024-12-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2593"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2020,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1206/117114.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1206/117114t.jpg",
+    "synonyms": [
+      "De l'autre côté du ciel",
+      "De l`autre côté du ciel",
+      "De l’autre Côte du Ciel",
+      "Eiga Entotsu Machi no Poupelle",
+      "Eiga Entotsu-chou no Poupelle",
+      "Entotsu-chou no Poupelle",
+      "Entotsu-machi no Poupelle",
+      "Poupelle Của Thị trấn Ống khói",
+      "Poupelle de Ciudad Chimenea",
+      "Poupelle della Città dei Camini",
+      "Poupelle della città dei camini",
+      "Poupelle of Chimney Town",
+      "Poupelle und die andere Seite des Himmels",
+      "えんとつ町のプぺル",
+      "えんとつ町のプペル",
+      "映画 えんとつ町のプペル"
     ]
   }
 ]

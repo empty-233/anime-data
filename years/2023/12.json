@@ -107,6 +107,12 @@
         "id": "SID0097623",
         "begin": "2024-01-27T15:00:00.000Z",
         "broadcast": "R/2024-01-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27392",
+        "begin": "2024-09-30T15:00:00.000Z",
+        "broadcast": "R/2024-09-30T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -235,8 +241,8 @@
       {
         "site": "netflix",
         "id": "81906766",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-07-24T16:00:00.000Z",
+        "broadcast": "R/2024-07-24T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -249,6 +255,12 @@
         "id": "133271",
         "begin": "2024-07-26T16:00:00.000Z",
         "broadcast": "R/2024-07-26T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ao-buta-knapsack",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -398,6 +410,9 @@
       ],
       "zh-Hant": [
         "SPY×FAMILY 間諜家家酒 CODE: White"
+      ],
+      "en": [
+        "SPY x FAMILY CODE: White"
       ]
     },
     "type": "movie",
@@ -439,6 +454,31 @@
         "id": "21219259",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "19-207",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "1TZ98y184xnK",
+        "url": "https://www.disneyplus.com/movies/spy-x-family-code-white/1TZ98y184xnK",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81924850",
+        "begin": "2024-12-21T00:00:00.000Z",
+        "broadcast": "R/2024-12-21T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27461",
+        "begin": "2024-12-21T15:00:00.000Z",
+        "broadcast": "R/2024-12-21T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -470,6 +510,54 @@
       "劇場版 スパイ×ファミリー CODE: White",
       "劇場版 スパイファミリー",
       "间谍过家家 代号：白"
+    ]
+  },
+  {
+    "title": "BURN THE WITCH #0.8",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙与魔女 #0.8"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://burn-the-witch-anime.com/story-zeropointeight/",
+    "begin": "2023-12-28T16:00:00.000Z",
+    "broadcast": "R/2023-12-28T16:00:00.000Z/P7D",
+    "end": "2023-12-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "454887"
+      },
+      {
+        "site": "mikan",
+        "id": "3272"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2023,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1522/139282.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1522/139282t.jpg",
+    "synonyms": [
+      "BTW #0.8",
+      "BURN THE WITCH #0.8",
+      "BURN THE WITCH #0.8: Don`t Judge A Book By Its Cover",
+      "BURN THE WITCH ZERO POINT EIGHT",
+      "BURN THE WITCH: Don't Judge A Book By Its Cover",
+      "Burn the Witch #0.8 : Don’t Judge A Book By Its Cover",
+      "Burn the Witch #0.8: Don`t Judge a Book by Its Cover",
+      "Burn the Witch #0.8: Don’t Judge A Book By Its Cover",
+      "Burn the Witch #Zero Point Eight",
+      "ปฐมบทแม่มดกับมังกร 0.8",
+      "バーンザウィッチゼロポイントエイト",
+      "龙与魔女 #0.8"
     ]
   }
 ]

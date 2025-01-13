@@ -191,6 +191,12 @@
         "id": "SID0010711",
         "begin": "2016-03-24T03:00:00.000Z",
         "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10426",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -223,6 +229,54 @@
       "せんごくまじんごーしょーぐん",
       "战国魔神豪将军",
       "戦国魔神ゴーショーグン"
+    ]
+  },
+  {
+    "title": "シリウスの伝説",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天狼星的传说"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1981-07-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1981-07-17T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "106359"
+      },
+      {
+        "site": "danime",
+        "id": "25555",
+        "begin": "2023-05-01T01:00:00.000Z",
+        "broadcast": "R/2023-05-01T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1981,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1239/100525.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1239/100525t.jpg",
+    "synonyms": [
+      "La Leyenda de Sirius",
+      "Legend of Sirius",
+      "Legend of Syrius",
+      "Sea Prince and the Fire Child",
+      "Syrius no Densetsu",
+      "The Legend of Sirius",
+      "The Sea Prince and the Fire Child",
+      "Легенда о Сириусе",
+      "シリウスの伝説",
+      "天狼星的传说"
     ]
   }
 ]

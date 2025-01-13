@@ -26,6 +26,12 @@
         "id": "SID0003300",
         "begin": "2015-02-16T15:00:00.000Z",
         "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24690",
+        "begin": "2022-06-15T01:00:00.000Z",
+        "broadcast": "R/2022-06-15T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -218,6 +224,12 @@
         "id": "SID0042776",
         "begin": "2019-12-08T03:00:00.000Z",
         "broadcast": "R/2019-12-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10061",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -257,6 +269,12 @@
         "id": "SID0012549",
         "begin": "2016-02-18T15:00:00.000Z",
         "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23317",
+        "begin": "2020-03-06T01:00:00.000Z",
+        "broadcast": "R/2020-03-06T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -297,6 +315,12 @@
         "id": "SID0003118",
         "begin": "2015-02-16T15:00:00.000Z",
         "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20320",
+        "begin": "2020-02-01T01:00:00.000Z",
+        "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -409,6 +433,12 @@
         "id": "SID0011320",
         "begin": "2017-04-20T03:00:00.000Z",
         "broadcast": "R/2017-04-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11318",
+        "begin": "2020-02-20T01:00:00.000Z",
+        "broadcast": "R/2020-02-20T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -473,6 +503,12 @@
         "id": "SID0054158",
         "begin": "2020-12-30T03:00:00.000Z",
         "broadcast": "R/2020-12-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23371",
+        "begin": "2020-04-01T01:00:00.000Z",
+        "broadcast": "R/2020-04-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -517,6 +553,12 @@
         "id": "SID0017876",
         "begin": "2022-04-14T03:00:00.000Z",
         "broadcast": "R/2022-04-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11361",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -531,6 +573,62 @@
     "synonyms": [
       "ドテラマン",
       "精灵小鬼头"
+    ]
+  },
+  {
+    "title": "ボスコアドベンチャー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "梦幻世界"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-10-05T16:00:00.000Z",
+    "broadcast": "R/1986-10-05T16:00:00.000Z/P7D",
+    "end": "1987-03-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "77247"
+      },
+      {
+        "site": "danime",
+        "id": "23526",
+        "begin": "2020-04-24T01:00:00.000Z",
+        "broadcast": "R/2020-04-24T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1986,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/28561.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/28561t.jpg",
+    "synonyms": [
+      "A Bosco léghajó kalandjai",
+      "Blue Princess",
+      "Bosco",
+      "Bosco Daiboken",
+      "Bosco Daibouken",
+      "Bosco Daibōken",
+      "La forêt magique",
+      "Las aventuras de Bosco",
+      "Les Aventures du Bosco",
+      "Les aventures du Bosco",
+      "Plava princeza",
+      "Principessa dai capelli blu",
+      "Przygody Bosco",
+      "Приключения Боско",
+      "Приключенията на Боско",
+      "חבורת הצב המעופף",
+      "سفينة الأصدقاء",
+      "ボスコアドベンチャー"
     ]
   }
 ]

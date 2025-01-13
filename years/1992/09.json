@@ -22,6 +22,12 @@
         "id": "SID0002731",
         "begin": "2018-04-13T03:00:00.000Z",
         "broadcast": "R/2018-04-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23276",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -103,6 +109,47 @@
       "Hello Kitty no Mahō no Ringo",
       "Hello Kitty: The Magic Apple",
       "ハローキティのまほうのリンゴ"
+    ]
+  },
+  {
+    "title": "ハローキティのロンドンにおりた宇宙人",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凯蒂猫 在伦敦的外星人"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-09-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-09-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "315445"
+      },
+      {
+        "site": "danime",
+        "id": "25490",
+        "begin": "2022-12-23T01:00:00.000Z",
+        "broadcast": "R/2022-12-23T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1992,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/11/47811.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/47811t.jpg",
+    "synonyms": [
+      "Hello Kitty - Contos Originais - Extraterrestres em Londres",
+      "Hello Kitty no London ni Orita Uchūjin",
+      "ハローキティのロンドンにおりた宇宙人"
     ]
   }
 ]

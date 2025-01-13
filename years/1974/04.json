@@ -107,6 +107,12 @@
         "id": "2352",
         "begin": "2014-06-02T16:49:00.000Z",
         "broadcast": "R/2014-06-02T16:49:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24817",
+        "begin": "2023-02-28T01:00:00.000Z",
+        "broadcast": "R/2023-02-28T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -124,6 +130,49 @@
       "Getta: Το Σούπερ Ρομπότ",
       "Space Robot",
       "ゲッターロボ"
+    ]
+  },
+  {
+    "title": "柔道讃歌",
+    "titleTranslate": {
+      "zh-Hans": [
+        "柔道赞歌"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1974-03-31T15:00:00.000Z",
+    "broadcast": "R/1974-03-31T15:00:00.000Z/P7D",
+    "end": "1974-09-29T15:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "188999"
+      },
+      {
+        "site": "danime",
+        "id": "23394",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1974,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 27,
+    "picture": "https://cdn.myanimelist.net/images/anime/1554/121965.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1554/121965t.jpg",
+    "synonyms": [
+      "Hymn to Judo",
+      "Juudou Sanka",
+      "Jūdō Sanka",
+      "Ode to Judo",
+      "柔道讃歌"
     ]
   }
 ]

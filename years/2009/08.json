@@ -87,12 +87,6 @@
         "id": "4668"
       },
       {
-        "site": "gamer",
-        "id": "26112",
-        "begin": "2021-08-13T06:00:00.000Z",
-        "broadcast": "R/2021-08-13T06:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0019107",
         "begin": "2020-12-08T03:00:00.000Z",
@@ -103,6 +97,12 @@
         "id": "26112",
         "begin": "2021-08-13T06:00:00.000Z",
         "broadcast": "R/2021-08-13T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20266",
+        "begin": "2020-12-01T01:00:00.000Z",
+        "broadcast": "R/2020-12-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -152,6 +152,45 @@
       "劇場版 NARUTO -ナルト- 疾風伝 火の意志を継ぐ者",
       "劇場版 NARUTO 疾風伝 火の意志を継ぐ者",
       "劇場版 Naruto -ナルト- 疾風伝 火の意志を継ぐ者"
+    ]
+  },
+  {
+    "title": "青い瞳の女の子のお話",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2009-08-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2009-08-12T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "danime",
+        "id": "23315",
+        "begin": "2020-03-06T01:00:00.000Z",
+        "broadcast": "R/2020-03-06T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2009,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/30086.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/30086t.jpg",
+    "synonyms": [
+      "Aoi Hitomi no Onna no Ko no Ohanashi",
+      "Sensou Douwa (戦争童話)",
+      "Sensou Douwa 7",
+      "Sensou Douwa: Aoi Hitomi no Onnanoko no Ohanashi",
+      "Sensou Dowa-shuu 8 (戦争童話集8)",
+      "The Story of the Blue-Eyed Girl",
+      "قصة الفتاة زرقاء العينين",
+      "青い目の女の子のお話",
+      "青い瞳の女の子のお話"
     ]
   }
 ]

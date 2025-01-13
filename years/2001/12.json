@@ -84,12 +84,6 @@
         "id": "SID0052754",
         "begin": "2020-11-06T15:00:00.000Z",
         "broadcast": "R/2020-11-06T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "21915",
-        "begin": "2024-04-26T04:00:00.000Z",
-        "broadcast": "R/2024-04-26T04:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -172,12 +166,6 @@
         "begin": "2014-09-13T06:00:00.000Z"
       },
       {
-        "site": "gamer",
-        "id": "24344",
-        "begin": "2021-06-17T08:00:00.000Z",
-        "broadcast": "R/2021-06-17T08:00:00.000Z/P7D"
-      },
-      {
         "site": "bilibili",
         "id": "28229023",
         "begin": "2020-06-05T08:33:00.000Z",
@@ -256,6 +244,12 @@
         "id": "SID0013021",
         "begin": "2018-08-19T03:00:00.000Z",
         "broadcast": "R/2018-08-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10022",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -388,6 +382,103 @@
       "Kanzen Shōri Daiteiō",
       "Perfect Victory Daiteiou",
       "完全勝利ダイテイオー"
+    ]
+  },
+  {
+    "title": "ハローキティの長靴をはいた猫",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凯蒂猫 穿长靴的猫"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-12-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-12-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "316818"
+      },
+      {
+        "site": "danime",
+        "id": "25552",
+        "begin": "2023-01-20T01:00:00.000Z",
+        "broadcast": "R/2023-01-20T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2001,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/58667.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/58667t.jpg",
+    "synonyms": [
+      "Hello Kitty In Puss in Boots",
+      "Hello Kitty e os Seus Amigos - Hello Kitty: O Gato das Botas",
+      "Hello Kitty in Puss in Boots",
+      "Hello Kitty no Nagagutsu o Naita Neko",
+      "Hello Kitty y sus Amigos El Gato con Botas",
+      "Hello Kitty's Animation Theater 11a",
+      "Hello Kitty: Le Chat Botté",
+      "Hello Kitty`s Animation Theater 11",
+      "Hello Kitty’s Animation Theater 11a",
+      "Sanrio Animation World Masterpiece Theater 11a",
+      "サンリオアニメ世界名作劇場 11a",
+      "ハローキティの長靴をはいた猫"
+    ]
+  },
+  {
+    "title": "魔法遊戯 3D",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法游戏 3D",
+        "魔法遊戯（3D version）"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.starchild.co.jp/special/mahou/",
+    "begin": "2001-12-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-12-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "112451"
+      },
+      {
+        "site": "danime",
+        "id": "10386",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2001,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1824/98807.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1824/98807t.jpg",
+    "synonyms": [
+      "3D Magical Play",
+      "Magical Play 3D",
+      "Magical Witchland",
+      "Mahou Yuugi",
+      "Mahō Yūgi",
+      "魔法遊戯",
+      "魔法遊戯 3D",
+      "魔法遊戯(3D版)"
     ]
   }
 ]

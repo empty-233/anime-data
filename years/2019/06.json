@@ -152,6 +152,12 @@
       {
         "site": "mikan",
         "id": "2028"
+      },
+      {
+        "site": "danime",
+        "id": "26044",
+        "begin": "2022-12-24T03:00:00.000Z",
+        "broadcast": "R/2022-12-24T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -227,6 +233,12 @@
       {
         "site": "mikan",
         "id": "2025"
+      },
+      {
+        "site": "danime",
+        "id": "26418",
+        "begin": "2023-05-31T15:00:00.000Z",
+        "broadcast": "R/2023-05-31T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -378,6 +390,12 @@
       {
         "site": "mikan",
         "id": "2156"
+      },
+      {
+        "site": "danime",
+        "id": "24160",
+        "begin": "2020-08-13T15:00:00.000Z",
+        "broadcast": "R/2020-08-13T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -430,26 +448,20 @@
         "broadcast": ""
       },
       {
-        "site": "gamer",
-        "id": "86700",
-        "begin": "2021-06-11T04:00:00.000Z",
-        "broadcast": "R/2021-06-11T04:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0044111",
         "begin": "2020-04-01T03:00:00.000Z",
         "broadcast": "R/2020-04-01T03:00:00.000Z/P7D"
       },
       {
-        "site": "gamer_hk",
-        "id": "86700",
-        "begin": "2021-06-11T04:00:00.000Z",
-        "broadcast": "R/2021-06-11T04:00:00.000Z/P7D"
-      },
-      {
         "site": "mikan",
         "id": "2098"
+      },
+      {
+        "site": "danime",
+        "id": "24751",
+        "begin": "2021-06-25T01:00:00.000Z",
+        "broadcast": "R/2021-06-25T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -620,6 +632,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "薄暮"
+      ],
+      "en": [
+        "Hakubo"
       ]
     },
     "type": "movie",
@@ -643,6 +658,12 @@
       {
         "site": "mikan",
         "id": "2167"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYNV4Z7JR",
+        "begin": "2020-08-04T14:00:00.000Z",
+        "broadcast": "R/2020-08-04T14:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -744,6 +765,50 @@
     "synonyms": [
       "Battle Spirits (2019)",
       "バトルスピリッツ サーガブレイヴ"
+    ]
+  },
+  {
+    "title": "センコロール コネクト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "CENCOROLL CONNECT"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.cencoroll.com/",
+    "begin": "2019-06-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-06-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "29413"
+      },
+      {
+        "site": "mikan",
+        "id": "2019"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2019,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1454/99902.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1454/99902t.jpg",
+    "synonyms": [
+      "Cencoroll 2",
+      "Cencoroll 2 (センコロール2)",
+      "Cencoroll s2",
+      "Cencoroll: Connect",
+      "センコロール",
+      "センコロール コネクト",
+      "センコロール2",
+      "센코롤 커넥트"
     ]
   }
 ]

@@ -60,6 +60,13 @@
         "site": "nicovideo",
         "id": "midoriyama",
         "begin": "2016-08-01T06:00:00.000Z"
+      },
+      {
+        "site": "danime",
+        "id": "21042",
+        "begin": "2020-07-31T01:00:00.000Z",
+        "broadcast": "R/2020-07-31T01:00:00.000Z/P7D",
+        "comment": "衛星アニメ劇場版: 24472"
       }
     ],
     "animeSeason": {
@@ -112,6 +119,12 @@
         "id": "SID0003412",
         "begin": "2016-03-24T03:00:00.000Z",
         "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10242",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -172,6 +185,63 @@
     ]
   },
   {
+    "title": "ザ・ボーグマン ラストバトル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超音战士Borgman 最后一战"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-09-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-09-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53934"
+      },
+      {
+        "site": "danime",
+        "id": "10637",
+        "begin": "2012-09-28T01:00:00.000Z",
+        "broadcast": "R/2012-09-28T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1989,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1322/106024.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1322/106024t.jpg",
+    "synonyms": [
+      "Borgman : Last Battle",
+      "Borgman OVA 2",
+      "Borgman: Last Battle",
+      "Borgman: Le Film (Partie 1)",
+      "Chouon Senshi Borgman: Last Battle",
+      "Chouon Senshi Borgman: Last Battle (超音戦士ボーグマン ラストバトル)",
+      "Chōon Senshi Borgman: Last Battle",
+      "Sonic Soldier Borgman OVA",
+      "Sonic Soldier Borgman: Last Battle",
+      "Sonic Soldier Borgman: The Final Battle",
+      "THE·BORGMAN LAST BATTLE",
+      "THE·BORGMAN LAST BATTLE (ザ・ボーグマン ラストバトル)",
+      "The Borgman Last Battle",
+      "borgman ova 2",
+      "ssb ova 2",
+      "ザ·ボーグマン·ラストバトル",
+      "ザ・ボーグマン ラストバトル",
+      "ザ・ボーグマン・ラストバトル",
+      "超音戦士ボーグマン ラストバトル"
+    ]
+  },
+  {
     "title": "真魔神英雄伝ワタル 魔神山編",
     "titleTranslate": {
       "zh-Hans": [
@@ -203,16 +273,22 @@
         "begin": ""
       },
       {
-        "site": "gamer",
+        "site": "gamer_hk",
         "id": "110993",
         "begin": "2020-04-21T04:00:00.000Z",
         "broadcast": "R/2020-04-21T04:00:00.000Z/P7D"
       },
       {
-        "site": "gamer_hk",
-        "id": "110993",
-        "begin": "2020-04-21T04:00:00.000Z",
-        "broadcast": "R/2020-04-21T04:00:00.000Z/P7D"
+        "site": "unext",
+        "id": "SID0017590",
+        "begin": "2024-12-20T03:00:00.000Z",
+        "broadcast": "R/2024-12-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26854",
+        "begin": "2024-12-25T15:00:00.000Z",
+        "broadcast": "R/2024-12-25T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -231,6 +307,59 @@
       "Shin Mashin Eiyūden Wataru Majinzan",
       "True Spirit Hero Wataru",
       "真魔神英雄伝ワタル 魔神山編"
+    ]
+  },
+  {
+    "title": "手塚治虫物語 ぼくは孫悟空",
+    "titleTranslate": {
+      "zh-Hans": [
+        "手冢治虫物语 我的孙悟空"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-08-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-08-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "100651"
+      },
+      {
+        "site": "danime",
+        "id": "24084",
+        "begin": "2020-08-28T01:00:00.000Z",
+        "broadcast": "R/2020-08-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003298",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1989,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/26398.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/26398t.jpg",
+    "synonyms": [
+      "Tezuka Osamu Monogatari: Boku wa Son-Goku",
+      "Tezuka Osamu Monogatari: Boku wa Songokuu",
+      "Tezuka Osamu Monogatari: Boku wa Songokū",
+      "Tezuka Osamu Story: I Am Son-Goku",
+      "Tezuka Osamu Story: I am Son-Goku",
+      "The Tale of Osamu Tezuka: I'm Son Goku",
+      "The Tale of Osamu Tezuka: I'm Son-Goku",
+      "The Tale of Osamu Tezuka: I'm Songoku",
+      "手塚治虫物語 ぼくは孫悟空"
     ]
   },
   {
@@ -455,16 +584,16 @@
         "begin": ""
       },
       {
-        "site": "gamer",
-        "id": "38221",
-        "begin": "2020-08-06T06:35:00.000Z",
-        "broadcast": "R/2020-08-06T06:35:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0014487",
         "begin": "2018-06-04T03:00:00.000Z",
         "broadcast": "R/2018-06-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10247",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -529,6 +658,12 @@
         "id": "SID0003188",
         "begin": "2020-01-11T03:00:00.000Z",
         "broadcast": "R/2020-01-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24916",
+        "begin": "2021-07-30T01:00:00.000Z",
+        "broadcast": "R/2021-07-30T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -577,6 +712,12 @@
         "id": "SID0093067",
         "begin": "2023-10-01T03:00:00.000Z",
         "broadcast": "R/2023-10-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25522",
+        "begin": "2023-01-20T01:00:00.000Z",
+        "broadcast": "R/2023-01-20T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -598,6 +739,46 @@
       "Sanrio Animation World Masterpiece Theater 9a",
       "サンリオアニメ世界名作劇場 9a",
       "ハローキティのシンデレラ"
+    ]
+  },
+  {
+    "title": "緑の猫",
+    "titleTranslate": {
+      "zh-Hans": [
+        "绿猫"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-06-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-06-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "112593"
+      },
+      {
+        "site": "danime",
+        "id": "24062",
+        "begin": "2020-07-10T01:00:00.000Z",
+        "broadcast": "R/2020-07-10T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1989,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1619/112107.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1619/112107t.jpg",
+    "synonyms": [
+      "The Green Cat",
+      "緑の猫"
     ]
   },
   {
@@ -628,6 +809,12 @@
         "id": "SID0017887",
         "begin": "2022-04-16T03:00:00.000Z",
         "broadcast": "R/2022-04-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23290",
+        "begin": "2020-02-07T01:00:00.000Z",
+        "broadcast": "R/2020-02-07T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {

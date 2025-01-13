@@ -24,6 +24,12 @@
         "id": "SID0020275",
         "begin": "2016-02-18T03:00:00.000Z",
         "broadcast": "R/2016-02-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20590",
+        "begin": "2016-02-05T01:00:00.000Z",
+        "broadcast": "R/2016-02-05T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -53,6 +59,59 @@
       "Makyō Densetsu Acrobunch",
       "la leggenda del paese magico",
       "魔境伝説アクロバンチ"
+    ]
+  },
+  {
+    "title": "おちゃめ神物語コロコロポロン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿波罗之女",
+        "天界小神仙"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1982-05-07T16:00:00.000Z",
+    "broadcast": "R/1982-05-07T16:00:00.000Z/P7D",
+    "end": "1983-03-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "73930"
+      },
+      {
+        "site": "danime",
+        "id": "22627",
+        "begin": "2019-04-26T01:00:00.000Z",
+        "broadcast": "R/2019-04-26T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1982,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 46,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/60529.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/60529t.jpg",
+    "synonyms": [
+      "C'era una volta... Pollon",
+      "C`era una volta Pollon",
+      "C’era una volta Pollon",
+      "La Petite Olympe et les Dieux",
+      "La petite Olympe et les dieux",
+      "Little Pollen",
+      "Little Pollon",
+      "Ochamegami Monogatari - Colocolo Polon",
+      "Ochamegami Monogatari Kolokolo Polon",
+      "Ochamegami Monogatari: Korokoro Poron",
+      "Pollon",
+      "The Story of Little Goddess Roly-Poly Pollon",
+      "おちゃめ神物語 コロコロポロン",
+      "おちゃめ神物語コロコロポロン"
     ]
   }
 ]

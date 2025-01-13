@@ -68,6 +68,12 @@
         "id": "SID0093066",
         "begin": "2023-10-01T03:00:00.000Z",
         "broadcast": "R/2023-10-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25524",
+        "begin": "2023-01-20T01:00:00.000Z",
+        "broadcast": "R/2023-01-20T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -134,6 +140,12 @@
         "id": "SID0003357",
         "begin": "2019-08-27T03:00:00.000Z",
         "broadcast": "R/2019-08-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23495",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -236,6 +248,18 @@
         "id": "SID0013495",
         "begin": "2019-01-31T03:00:00.000Z",
         "broadcast": "R/2019-01-31T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "172-14",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "21754",
+        "begin": "2017-09-08T01:00:00.000Z",
+        "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -455,12 +479,6 @@
         "broadcast": ""
       },
       {
-        "site": "gamer",
-        "id": "197",
-        "begin": "2024-02-01T04:00:00.000Z",
-        "broadcast": "R/2024-02-01T04:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0010781",
         "begin": "2024-03-06T03:00:00.000Z",
@@ -565,19 +583,25 @@
         "site": "ani_one_asia",
         "id": "PLxSscENEp7Jj8sua9J47dAFfc_s24jT7X",
         "begin": "2022-11-26T16:00:00.000Z",
-        "broadcast": ""
+        "broadcast": "R/2022-11-28T02:25:50.000Z/P7D"
       },
       {
         "site": "ani_one",
         "id": "PLC18xlbCdwtSAEbBd8mgeEwaQgJtzbem6",
         "begin": "2022-11-15T16:00:00.000Z",
-        "broadcast": ""
+        "broadcast": "R/2022-11-17T02:52:42.000Z/P7D"
       },
       {
         "site": "unext",
         "id": "SID0014719",
         "begin": "2021-07-12T03:00:00.000Z",
         "broadcast": "R/2021-07-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24825",
+        "begin": "2021-07-12T01:00:00.000Z",
+        "broadcast": "R/2021-07-12T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -658,6 +682,106 @@
       "ろくでなしBLUES 1993",
       "ろくでなしブルース",
       "ろくでなしブルース1993"
+    ]
+  },
+  {
+    "title": "ハローキティのしらゆきひめ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凯蒂猫 白雪公主"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "315561"
+      },
+      {
+        "site": "danime",
+        "id": "25520",
+        "begin": "2023-01-20T01:00:00.000Z",
+        "broadcast": "R/2023-01-20T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1993,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 11,
+    "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b130530-lgWmdiasc9q1.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b130530-lgWmdiasc9q1.jpg",
+    "synonyms": [
+      "Ahiru no Pekkle no Aladdin to Mahou no Lamp",
+      "Ahiru no Pekkle no Sinbad no Bouken",
+      "Hello Kitty no Alps no Shoujo Heidi",
+      "Hello Kitty no Alps no Shoujo Heidi Ⅱ - Clara to no deai",
+      "Hello Kitty no Fushigi no Kuni no Alice",
+      "Hello Kitty no Kaguya-hime",
+      "Hello Kitty no Shirayuki-hime",
+      "Hello Kitty no Shoukoujo",
+      "Kero Kero Keroppi no Gulliver no Bouken",
+      "Kero Kero Keroppi no Robin Hood",
+      "Kiki to Lara no Hanzel to Gretel",
+      "けろけろけろっぴのガリバーの冒険",
+      "けろけろけろっぴのロビンフッド",
+      "アヒルのペックルのアラジンと魔法のランプ",
+      "アヒルのペックルのシンドバッドの冒険",
+      "キキとララのヘンゼルとグレーテル",
+      "サンリオ世界名作映画館",
+      "ハローキティのかぐや姫",
+      "ハローキティのしらゆきひめ",
+      "ハローキティのアルプスの少女ハイジ",
+      "ハローキティのアルプスの少女ハイジⅡ -クララとの出会い-",
+      "ハローキティの不思議の国のアリス",
+      "ハローキティの小公女"
+    ]
+  },
+  {
+    "title": "悪右衛門",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恶右卫门"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://tezukaosamu.net/jp/anime/89.html",
+    "begin": "1993-07-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-07-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "306574"
+      },
+      {
+        "site": "danime",
+        "id": "24067",
+        "begin": "2020-07-10T01:00:00.000Z",
+        "broadcast": "R/2020-07-10T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1993,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/87863.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/87863t.jpg",
+    "synonyms": [
+      "悪右衛門"
     ]
   }
 ]

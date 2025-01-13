@@ -24,6 +24,13 @@
         "begin": "2024-10-10T15:00:00.000Z",
         "broadcast": "R/2024-10-10T15:00:00.000Z/P7D",
         "comment": "PART I 筑波篇, PART II 鈴鹿篇: SID0158137"
+      },
+      {
+        "site": "danime",
+        "id": "27383",
+        "begin": "2024-10-10T15:00:00.000Z",
+        "broadcast": "R/2024-10-10T15:00:00.000Z/P7D",
+        "comment": "PART I 筑波篇, PART II 鈴鹿篇: 27384"
       }
     ],
     "animeSeason": {
@@ -74,6 +81,12 @@
         "id": "SID0003401",
         "begin": "2016-03-24T03:00:00.000Z",
         "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10164",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -124,6 +137,12 @@
         "id": "SID0010702",
         "begin": "2015-06-01T06:00:00.000Z",
         "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10820",
+        "begin": "2014-08-01T02:00:00.000Z",
+        "broadcast": "R/2014-08-01T02:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -170,6 +189,12 @@
         "id": "SID0004289",
         "begin": "2016-03-24T03:00:00.000Z",
         "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10141",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -252,6 +277,59 @@
     ]
   },
   {
+    "title": "銀牙 -流れ星 銀-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银牙",
+        "虎纹猎犬物语",
+        "银牙─流星银"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-04-06T16:00:00.000Z",
+    "broadcast": "R/1986-04-06T16:00:00.000Z/P7D",
+    "end": "1986-09-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53728"
+      },
+      {
+        "site": "danime",
+        "id": "26188",
+        "begin": "2023-03-31T01:00:00.000Z",
+        "broadcast": "R/2023-03-31T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1986,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 21,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/47461.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/47461t.jpg",
+    "synonyms": [
+      "EzüstNyíl",
+      "Ging: The Falling Star",
+      "Ginga: Nagareboshi Gin",
+      "Hopeanuoli",
+      "Silver Fang",
+      "Silver Fang: Shooting Star Gin",
+      "Silverfang",
+      "The small hero. Birth of Gin",
+      "gng",
+      "المخلب الفضي",
+      "銀牙 -流れ星 銀-",
+      "銀牙 流れ星銀",
+      "銀牙　流れ星銀"
+    ]
+  },
+  {
     "title": "機動戦士ガンダムZZ",
     "titleTranslate": {
       "zh-Hans": [
@@ -278,6 +356,12 @@
         "id": "SID0012899",
         "begin": "2008-10-31T15:00:00.000Z",
         "broadcast": "R/2008-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-115",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {

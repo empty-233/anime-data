@@ -1,31 +1,5 @@
 [
   {
-    "title": "ROLY POLY PEOPLES",
-    "titleTranslate": {},
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://rolypi.com/",
-    "begin": "2024-04-03T14:30:00.000Z",
-    "broadcast": "R/2024-04-03T14:30:00.000Z/P7D",
-    "end": "2024-06-26T14:40:00.000Z",
-    "comment": "",
-    "sites": [],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2022,
-      "month": "04"
-    },
-    "status": "FINISHED",
-    "episodes": 30,
-    "picture": "https://cdn.myanimelist.net/images/anime/1292/125505.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1292/125505t.jpg",
-    "synonyms": [
-      "ROLY POLY PEOPLES",
-      "Rolypi",
-      "ローリーポーリーピーポーズ"
-    ]
-  },
-  {
     "title": "ポールプリンセス!!",
     "titleTranslate": {
       "zh-Hans": [
@@ -48,6 +22,12 @@
       {
         "site": "unext",
         "id": "SID0090494",
+        "begin": "2023-07-25T15:00:00.000Z",
+        "broadcast": "R/2023-07-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26531",
         "begin": "2023-07-25T15:00:00.000Z",
         "broadcast": "R/2023-07-25T15:00:00.000Z/P7D"
       }
@@ -99,6 +79,10 @@
         "id": "81302750",
         "begin": "2022-12-20T00:00:00.000Z",
         "broadcast": "R/2022-12-20T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2881"
       }
     ],
     "animeSeason": {
@@ -146,6 +130,12 @@
       {
         "site": "unext",
         "id": "SID0091705",
+        "begin": "2023-08-28T03:00:00.000Z",
+        "broadcast": "R/2023-08-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26573",
         "begin": "2023-08-28T03:00:00.000Z",
         "broadcast": "R/2023-08-28T03:00:00.000Z/P7D"
       }
@@ -259,6 +249,12 @@
         "id": "SID0103147",
         "begin": "2024-06-01T03:00:00.000Z",
         "broadcast": "R/2024-06-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26353",
+        "begin": "2023-04-20T15:00:00.000Z",
+        "broadcast": "R/2023-04-20T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -287,6 +283,90 @@
       "Pokémon: The Distant Blue Sky",
       "Pokémon: ¡Un lejano cielo azul!",
       "ポケットモンスター 遥かなる青い空"
+    ]
+  },
+  {
+    "title": "THE FIRST SLAM DUNK",
+    "titleTranslate": {
+      "zh-Hans": [
+        "灌篮高手",
+        "灌篮高手 电影版",
+        "灌篮高手：THE FIRST"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://slamdunk-movie.jp/",
+    "begin": "2022-12-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-12-02T18:04:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "324720"
+      },
+      {
+        "site": "mikan",
+        "id": "3256"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2022,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1745/129284.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1745/129284t.jpg",
+    "synonyms": [
+      "Slam Dunk Movie",
+      "Slam Dunk Movie 5",
+      "THE FIRST SLAM DUNK",
+      "סלאם דאנק",
+      "ザ・ファーストスラムダンク",
+      "映画 スラムダンク"
+    ]
+  },
+  {
+    "title": "LUPIN ZERO",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦 零"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.lupin-zero.com",
+    "begin": "2022-12-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-01-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "405990"
+      },
+      {
+        "site": "mikan",
+        "id": "2880"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2022,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/1794/131565.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1794/131565t.jpg",
+    "synonyms": [
+      "LUPIN ZERO",
+      "Lupin ZERO",
+      "ルパンゼロ",
+      "鲁邦 零"
     ]
   },
   {
@@ -344,6 +424,16 @@
       {
         "site": "bangumi_moe",
         "id": "6365f0e36b7b6500076397d6"
+      },
+      {
+        "site": "mikan",
+        "id": "2874"
+      },
+      {
+        "site": "danime",
+        "id": "25861",
+        "begin": "2024-05-31T15:00:00.000Z",
+        "broadcast": "R/2024-05-31T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -453,6 +543,12 @@
         "id": "ten-sura-movie",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26917",
+        "begin": "2024-02-24T15:00:00.000Z",
+        "broadcast": "R/2024-02-24T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -529,6 +625,16 @@
         "id": "SID0075841",
         "begin": "2022-11-22T03:00:00.000Z",
         "broadcast": "R/2022-11-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2877"
+      },
+      {
+        "site": "danime",
+        "id": "25780",
+        "begin": "2022-11-22T03:00:00.000Z",
+        "broadcast": "R/2022-11-22T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -596,6 +702,10 @@
         "id": "28370944",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2876"
       }
     ],
     "animeSeason": {
@@ -687,6 +797,10 @@
         "id": "yowapeda_LIMIT_BREAK",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2864"
       }
     ],
     "animeSeason": {
@@ -762,6 +876,16 @@
       {
         "site": "bangumi_moe",
         "id": "632762c82eaf6e578875f7d4"
+      },
+      {
+        "site": "mikan",
+        "id": "2852"
+      },
+      {
+        "site": "danime",
+        "id": "25823",
+        "begin": "2022-10-07T15:00:00.000Z",
+        "broadcast": "R/2022-10-07T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -840,6 +964,10 @@
       {
         "site": "bangumi_moe",
         "id": "632762da2eaf6e578875f80c"
+      },
+      {
+        "site": "mikan",
+        "id": "2857"
       }
     ],
     "animeSeason": {
@@ -920,6 +1048,16 @@
       {
         "site": "bangumi_moe",
         "id": "632762d52eaf6e578875f7fe"
+      },
+      {
+        "site": "mikan",
+        "id": "2814"
+      },
+      {
+        "site": "danime",
+        "id": "25798",
+        "begin": "2024-11-30T15:00:00.000Z",
+        "broadcast": "R/2024-11-30T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1042,10 +1180,14 @@
         "broadcast": "R/2022-10-02T14:00:00.000Z/P7D"
       },
       {
-        "site": "mytv",
-        "id": "beasttamer0003_141604",
-        "begin": "2024-09-05T16:00:00.000Z",
-        "broadcast": "R/2024-09-05T16:00:00.000Z/P7D"
+        "site": "mikan",
+        "id": "2828"
+      },
+      {
+        "site": "danime",
+        "id": "25773",
+        "begin": "2022-10-05T13:00:00.000Z",
+        "broadcast": "R/2022-10-05T13:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1161,6 +1303,16 @@
       {
         "site": "bangumi_moe",
         "id": "632762c12eaf6e578875f7b6"
+      },
+      {
+        "site": "mikan",
+        "id": "2827"
+      },
+      {
+        "site": "danime",
+        "id": "25819",
+        "begin": "2022-10-16T14:00:00.000Z",
+        "broadcast": "R/2022-10-16T14:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1272,6 +1424,16 @@
         "id": "119782",
         "begin": "2022-10-03T13:00:00.000Z",
         "broadcast": "R/2022-10-03T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2826"
+      },
+      {
+        "site": "danime",
+        "id": "25799",
+        "begin": "2022-10-03T13:00:00.000Z",
+        "broadcast": "R/2022-10-03T13:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1331,12 +1493,6 @@
         "broadcast": "R/2022-10-12T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "512-7",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0073133",
         "begin": "2022-10-12T15:00:00.000Z",
@@ -1349,6 +1505,16 @@
       {
         "site": "bangumi_moe",
         "id": "632762d22eaf6e578875f7ee"
+      },
+      {
+        "site": "mikan",
+        "id": "2825"
+      },
+      {
+        "site": "danime",
+        "id": "25772",
+        "begin": "2022-10-09T15:00:00.000Z",
+        "broadcast": "R/2022-10-09T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1459,6 +1625,16 @@
       {
         "site": "bangumi_moe",
         "id": "632762cc2eaf6e578875f7de"
+      },
+      {
+        "site": "mikan",
+        "id": "2822"
+      },
+      {
+        "site": "danime",
+        "id": "25786",
+        "begin": "2022-10-05T14:00:00.000Z",
+        "broadcast": "R/2022-10-05T14:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1579,12 +1755,6 @@
         "broadcast": "R/2022-10-12T16:00:00.000Z/P7D"
       },
       {
-        "site": "disneyplus",
-        "id": "2gMK1kC3JIEh",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "110764",
         "begin": "2022-10-18T16:00:00.000Z",
@@ -1597,6 +1767,22 @@
       {
         "site": "bangumi_moe",
         "id": "632762c72eaf6e578875f7d2"
+      },
+      {
+        "site": "mikan",
+        "id": "2821"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GVDHX8QNW",
+        "begin": "2022-10-11T15:00:00.000Z",
+        "broadcast": "R/2022-10-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25784",
+        "begin": "2022-10-12T16:00:00.000Z",
+        "broadcast": "R/2022-10-12T16:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1651,12 +1837,6 @@
         "broadcast": "R/2022-11-02T12:00:01.000Z/P7D"
       },
       {
-        "site": "nicovideo",
-        "id": "DIY_anime",
-        "begin": "2022-10-05T16:00:00.000Z",
-        "broadcast": "R/2022-10-05T16:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0073164",
         "begin": "2022-10-05T16:00:00.000Z",
@@ -1669,6 +1849,10 @@
       {
         "site": "bangumi_moe",
         "id": "632762cf2eaf6e578875f7ea"
+      },
+      {
+        "site": "mikan",
+        "id": "2820"
       }
     ],
     "animeSeason": {
@@ -1728,12 +1912,6 @@
         "broadcast": "R/2022-10-17T17:30:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "248-11",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0073125",
         "begin": "2022-10-17T17:30:00.000Z",
@@ -1742,6 +1920,10 @@
       {
         "site": "bangumi_moe",
         "id": "632762db2eaf6e578875f810"
+      },
+      {
+        "site": "mikan",
+        "id": "2819"
       }
     ],
     "animeSeason": {
@@ -1844,6 +2026,16 @@
         "id": "124639",
         "begin": "2022-10-01T14:00:00.000Z",
         "broadcast": "R/2022-10-01T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2818"
+      },
+      {
+        "site": "danime",
+        "id": "25793",
+        "begin": "2022-10-01T13:00:00.000Z",
+        "broadcast": "R/2022-10-01T13:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1915,6 +2107,16 @@
       {
         "site": "bangumi_moe",
         "id": "632762cb2eaf6e578875f7da"
+      },
+      {
+        "site": "mikan",
+        "id": "2817"
+      },
+      {
+        "site": "danime",
+        "id": "25820",
+        "begin": "2022-10-19T16:05:00.000Z",
+        "broadcast": "R/2022-10-19T16:05:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2009,6 +2211,16 @@
       {
         "site": "bangumi_moe",
         "id": "632762d02eaf6e578875f7ec"
+      },
+      {
+        "site": "mikan",
+        "id": "2816"
+      },
+      {
+        "site": "danime",
+        "id": "25788",
+        "begin": "2024-11-30T15:00:00.000Z",
+        "broadcast": "R/2024-11-30T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2080,6 +2292,16 @@
       {
         "site": "bangumi_moe",
         "id": "632762c72eaf6e578875f7d0"
+      },
+      {
+        "site": "mikan",
+        "id": "2815"
+      },
+      {
+        "site": "danime",
+        "id": "26786",
+        "begin": "2024-01-05T01:00:00.000Z",
+        "broadcast": "R/2024-01-05T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2160,6 +2382,17 @@
       {
         "site": "bangumi_moe",
         "id": "632762cd2eaf6e578875f7e4"
+      },
+      {
+        "site": "mikan",
+        "id": "2830"
+      },
+      {
+        "site": "danime",
+        "id": "25800",
+        "begin": "2022-10-05T15:00:00.000Z",
+        "broadcast": "R/2022-10-05T15:00:00.000Z/P7D",
+        "comment": "ちょっと不徳な 配信ver.: 25822"
       }
     ],
     "animeSeason": {
@@ -2252,6 +2485,16 @@
       {
         "site": "bangumi_moe",
         "id": "632762d72eaf6e578875f806"
+      },
+      {
+        "site": "mikan",
+        "id": "2812"
+      },
+      {
+        "site": "danime",
+        "id": "25792",
+        "begin": "2022-10-04T03:00:00.000Z",
+        "broadcast": "R/2022-10-04T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2286,6 +2529,9 @@
       ],
       "zh-Hant": [
         "呆萌酷男孩"
+      ],
+      "en": [
+        "Play It Cool, Guys"
       ]
     },
     "type": "tv",
@@ -2339,6 +2585,22 @@
         "id": "cooldoji",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2832"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G9VHN912P",
+        "begin": "2022-10-10T16:30:00.000Z",
+        "broadcast": "R/2022-10-10T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25844",
+        "begin": "2022-10-13T16:45:00.000Z",
+        "broadcast": "R/2022-10-13T16:45:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2406,6 +2668,10 @@
         "id": "482-63",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2869"
       }
     ],
     "animeSeason": {
@@ -2506,6 +2772,16 @@
       {
         "site": "bangumi_moe",
         "id": "632762d92eaf6e578875f80a"
+      },
+      {
+        "site": "mikan",
+        "id": "2833"
+      },
+      {
+        "site": "danime",
+        "id": "25806",
+        "begin": "2022-10-11T03:00:00.000Z",
+        "broadcast": "R/2022-10-11T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2559,12 +2835,6 @@
         "broadcast": "R/2022-10-12T13:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "564-3",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0073160",
         "begin": "2022-10-12T13:00:00.000Z",
@@ -2573,6 +2843,12 @@
       {
         "site": "bangumi_moe",
         "id": "632762cc2eaf6e578875f7e0"
+      },
+      {
+        "site": "danime",
+        "id": "25802",
+        "begin": "2022-10-09T03:00:00.000Z",
+        "broadcast": "R/2022-10-09T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2681,6 +2957,16 @@
         "id": "6SsOy9HQ2imE",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2847"
+      },
+      {
+        "site": "danime",
+        "id": "25778",
+        "begin": "2022-10-08T17:00:00.000Z",
+        "broadcast": "R/2022-10-08T17:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2713,6 +2999,9 @@
       ],
       "zh-Hant": [
         "聖劍傳說Legend of Mana -The Teardrop Crystal-"
+      ],
+      "en": [
+        "Legend of Mana -The Teardrop Crystal-"
       ]
     },
     "type": "tv",
@@ -2746,12 +3035,6 @@
         "broadcast": "R/2022-10-11T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "199-53",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "632762d32eaf6e578875f7f6"
       },
@@ -2760,6 +3043,16 @@
         "id": "118416",
         "begin": "2022-10-07T17:25:00.000Z",
         "broadcast": "R/2022-10-07T17:25:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2846"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G9VHN91ZP",
+        "begin": "2022-10-07T16:25:00.000Z",
+        "broadcast": "R/2022-10-07T16:25:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2817,6 +3110,16 @@
       {
         "site": "bangumi_moe",
         "id": "632762cb2eaf6e578875f7d8"
+      },
+      {
+        "site": "mikan",
+        "id": "2845"
+      },
+      {
+        "site": "danime",
+        "id": "25813",
+        "begin": "2022-10-12T16:10:00.000Z",
+        "broadcast": "R/2022-10-12T16:10:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2889,6 +3192,10 @@
       {
         "site": "bangumi_moe",
         "id": "632762c62eaf6e578875f7cc"
+      },
+      {
+        "site": "mikan",
+        "id": "2843"
       }
     ],
     "animeSeason": {
@@ -2950,6 +3257,12 @@
         "id": "SID0073128",
         "begin": "2024-11-12T03:00:00.000Z",
         "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25840",
+        "begin": "2022-10-02T16:00:00.000Z",
+        "broadcast": "R/2022-10-02T16:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2998,6 +3311,12 @@
         "id": "SID0087233",
         "begin": "2023-07-12T10:30:00.000Z",
         "broadcast": "R/2023-07-12T10:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25782",
+        "begin": "2022-10-06T10:35:00.000Z",
+        "broadcast": "R/2022-10-06T10:35:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3076,6 +3395,16 @@
       {
         "site": "bangumi_moe",
         "id": "632762c02eaf6e578875f7b4"
+      },
+      {
+        "site": "mikan",
+        "id": "2842"
+      },
+      {
+        "site": "danime",
+        "id": "25795",
+        "begin": "2022-10-24T03:00:00.000Z",
+        "broadcast": "R/2022-10-24T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3198,6 +3527,16 @@
       {
         "site": "bangumi_moe",
         "id": "632762c52eaf6e578875f7c6"
+      },
+      {
+        "site": "mikan",
+        "id": "2841"
+      },
+      {
+        "site": "danime",
+        "id": "25851",
+        "begin": "2022-10-11T03:00:00.000Z",
+        "broadcast": "R/2022-10-11T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3283,6 +3622,16 @@
         "begin": "2024-11-12T03:00:00.000Z",
         "broadcast": "R/2024-11-12T03:00:00.000Z/P7D",
         "comment": "無修正オリジナルver"
+      },
+      {
+        "site": "mikan",
+        "id": "2840"
+      },
+      {
+        "site": "danime",
+        "id": "25787",
+        "begin": "2024-12-03T09:00:00.000Z",
+        "broadcast": "R/2024-12-03T09:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3344,12 +3693,6 @@
         "broadcast": "R/2022-10-05T17:25:00.000Z/P7D"
       },
       {
-        "site": "unext",
-        "id": "SID0073150",
-        "begin": "2023-02-20T03:00:00.000Z",
-        "broadcast": "R/2023-02-20T03:00:00.000Z/P7D"
-      },
-      {
         "site": "dmhy",
         "id": "Luv Alternative"
       },
@@ -3362,6 +3705,16 @@
         "id": "126658",
         "begin": "2022-10-05T17:25:00.000Z",
         "broadcast": "R/2022-10-05T17:25:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2838"
+      },
+      {
+        "site": "danime",
+        "id": "26799",
+        "begin": "2023-12-31T15:00:00.000Z",
+        "broadcast": "R/2023-12-31T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3440,6 +3793,10 @@
       {
         "site": "bangumi_moe",
         "id": "632762c62eaf6e578875f7c8"
+      },
+      {
+        "site": "mikan",
+        "id": "2837"
       }
     ],
     "animeSeason": {
@@ -3474,6 +3831,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "百万吨级武藏 第二季"
+      ],
+      "en": [
+        "MEGATON MUSASHI Season 2"
       ]
     },
     "type": "tv",
@@ -3503,6 +3863,18 @@
       {
         "site": "bangumi_moe",
         "id": "632762d22eaf6e578875f7f0"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GP5HJ840X",
+        "begin": "2024-04-25T06:00:00.000Z",
+        "broadcast": "R/2024-04-25T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25848",
+        "begin": "2022-10-07T13:30:00.000Z",
+        "broadcast": "R/2022-10-07T13:30:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3560,12 +3932,6 @@
         "broadcast": "R/2022-10-09T16:30:00.000Z/P7D"
       },
       {
-        "site": "nicovideo",
-        "id": "petergrill",
-        "begin": "2022-10-15T15:00:00.000Z",
-        "broadcast": "R/2022-10-15T15:00:00.000Z/P7D"
-      },
-      {
         "site": "gamer_hk",
         "id": "127445",
         "begin": "2022-10-09T16:30:00.000Z",
@@ -3584,6 +3950,17 @@
         "id": "SID0073165",
         "begin": "2022-10-15T15:00:00.000Z",
         "broadcast": "R/2022-10-15T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2835"
+      },
+      {
+        "site": "danime",
+        "id": "25807",
+        "begin": "2022-10-09T16:30:00.000Z",
+        "broadcast": "R/2022-10-09T16:30:00.000Z/P7D",
+        "comment": "大賢者ver.: 25808, 超賢者ver.: 25809"
       }
     ],
     "animeSeason": {
@@ -3646,6 +4023,18 @@
       {
         "site": "bangumi_moe",
         "id": "632762c02eaf6e578875f7b0"
+      },
+      {
+        "site": "abema",
+        "id": "19-130",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "25812",
+        "begin": "2022-10-02T01:00:00.000Z",
+        "broadcast": "R/2022-10-02T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3708,6 +4097,16 @@
       {
         "site": "dmhy",
         "id": "方舟 黎明"
+      },
+      {
+        "site": "mikan",
+        "id": "2834"
+      },
+      {
+        "site": "danime",
+        "id": "25837",
+        "begin": "2022-10-29T01:00:00.000Z",
+        "broadcast": "R/2022-10-29T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3769,6 +4168,16 @@
       {
         "site": "bangumi_moe",
         "id": "632762d32eaf6e578875f7f4"
+      },
+      {
+        "site": "mikan",
+        "id": "2870"
+      },
+      {
+        "site": "danime",
+        "id": "25846",
+        "begin": "2022-10-07T14:30:00.000Z",
+        "broadcast": "R/2022-10-07T14:30:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3855,6 +4264,16 @@
       {
         "site": "bangumi_moe",
         "id": "632762d42eaf6e578875f7f8"
+      },
+      {
+        "site": "mikan",
+        "id": "2871"
+      },
+      {
+        "site": "danime",
+        "id": "25805",
+        "begin": "2022-10-07T23:00:00.000Z",
+        "broadcast": "R/2022-10-07T23:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3978,6 +4397,12 @@
       {
         "site": "mikan",
         "id": "2932"
+      },
+      {
+        "site": "danime",
+        "id": "27195",
+        "begin": "2024-07-31T15:00:00.000Z",
+        "broadcast": "R/2024-07-31T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4077,6 +4502,12 @@
         "url": "https://www.disneyplus.com/movies/sword-art-online-the-movie-progressive-scherzo-of-deep-night/4zysvjugo59f",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27051",
+        "begin": "2024-05-31T15:00:00.000Z",
+        "broadcast": "R/2024-05-31T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4164,6 +4595,12 @@
         "id": "bokuranoyoake-movie",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26457",
+        "begin": "2023-07-20T15:00:00.000Z",
+        "broadcast": "R/2023-07-20T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4190,6 +4627,9 @@
       ],
       "zh-Hant": [
         "僕愛君愛：致深愛妳的那個我"
+      ],
+      "en": [
+        "To Me, The One Who Loved You"
       ]
     },
     "type": "movie",
@@ -4224,6 +4664,12 @@
       {
         "site": "mikan",
         "id": "2958"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GVDHX8QM4",
+        "begin": "2023-04-19T15:00:00.000Z",
+        "broadcast": "R/2023-04-19T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4259,6 +4705,9 @@
       ],
       "zh-Hant": [
         "僕愛君愛：致我深愛的每個妳"
+      ],
+      "en": [
+        "To Every You I've Loved Before"
       ]
     },
     "type": "movie",
@@ -4293,6 +4742,12 @@
       {
         "site": "mikan",
         "id": "2959"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GMEHME81V",
+        "begin": "2023-04-19T15:00:00.000Z",
+        "broadcast": "R/2023-04-19T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4351,6 +4806,16 @@
         "id": "SID0085239",
         "begin": "2023-05-04T03:00:00.000Z",
         "broadcast": "R/2023-05-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2872"
+      },
+      {
+        "site": "danime",
+        "id": "26308",
+        "begin": "2023-07-01T01:00:00.000Z",
+        "broadcast": "R/2023-07-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4490,6 +4955,18 @@
         "id": "SID0087675",
         "begin": "2023-06-15T09:00:00.000Z",
         "broadcast": "R/2023-06-15T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "115-110",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26259",
+        "begin": "2023-03-09T09:00:00.000Z",
+        "broadcast": "R/2023-03-09T09:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4505,6 +4982,103 @@
       "ROLY POLY PEOPLES",
       "Rolypi",
       "ローリーポーリーピーポーズ"
+    ]
+  },
+  {
+    "title": "おばけずかん！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妖怪图鉴！",
+        "小妖怪！"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.shopro.co.jp/tv/obakezukan/",
+    "begin": "2022-10-04T16:00:00.000Z",
+    "broadcast": "R/2022-10-04T16:00:00.000Z/P7D",
+    "end": "2022-12-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "395810"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "632762ca2eaf6e578875f7d6"
+      },
+      {
+        "site": "danime",
+        "id": "25850",
+        "begin": "2022-10-05T08:00:00.000Z",
+        "broadcast": "R/2022-10-05T08:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2022,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/1064/126825.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1064/126825t.jpg",
+    "synonyms": [
+      "Obake Zukan 2nd Season",
+      "おばけずかん!",
+      "おばけずかん！",
+      "妖怪图鉴！",
+      "小妖怪！"
+    ]
+  },
+  {
+    "title": "かげじつ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "影实！",
+        "想要成为影之实力者！迷你动画"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-10-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-02-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "406197"
+      },
+      {
+        "site": "danime",
+        "id": "25895",
+        "begin": "2022-10-26T15:00:00.000Z",
+        "broadcast": "R/2022-10-26T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2022,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 17,
+    "picture": "https://cdn.myanimelist.net/images/anime/1014/129578.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1014/129578t.jpg",
+    "synonyms": [
+      "Grigenza!",
+      "KAGE-JITSU!",
+      "Kage no Jitsuryokusha ni Naritakute! Mini Anime",
+      "Kage-Jitsu!",
+      "Kage-jitsu!",
+      "The Eminence in Shadow Mini Anime",
+      "The Eminence in Shadow: Em-Shade! Shorts",
+      "The Eminence in Shadow: Mini Episoden",
+      "かげじつ!",
+      "かげじつ！"
     ]
   },
   {
@@ -4538,6 +5112,12 @@
       {
         "site": "bangumi_moe",
         "id": "632762bf2eaf6e578875f7ae"
+      },
+      {
+        "site": "danime",
+        "id": "26938",
+        "begin": "2024-03-31T15:00:00.000Z",
+        "broadcast": "R/2024-03-31T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4642,6 +5222,16 @@
       {
         "site": "bangumi_moe",
         "id": "632762cc2eaf6e578875f7e2"
+      },
+      {
+        "site": "mikan",
+        "id": "2811"
+      },
+      {
+        "site": "danime",
+        "id": "26853",
+        "begin": "2024-01-09T15:00:00.000Z",
+        "broadcast": "R/2024-01-09T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4745,12 +5335,6 @@
         "broadcast": "R/2022-10-01T14:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "11-47",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0073130",
         "begin": "2022-10-01T14:00:00.000Z",
@@ -4769,6 +5353,16 @@
       {
         "site": "bangumi_moe",
         "id": "632762d62eaf6e578875f802"
+      },
+      {
+        "site": "mikan",
+        "id": "2808"
+      },
+      {
+        "site": "danime",
+        "id": "25804",
+        "begin": "2022-10-01T14:00:00.000Z",
+        "broadcast": "R/2022-10-01T14:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4896,6 +5490,16 @@
       {
         "site": "bangumi_moe",
         "id": "632762d32eaf6e578875f7f2"
+      },
+      {
+        "site": "mikan",
+        "id": "2850"
+      },
+      {
+        "site": "danime",
+        "id": "25849",
+        "begin": "2022-09-30T15:00:00.000Z",
+        "broadcast": "R/2022-09-30T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4968,7 +5572,8 @@
         "site": "muse_hk",
         "id": "PLuxqoToY7Uci5zu1j1yepRZKLSGN_4zQn",
         "begin": "2022-08-14T16:00:00.000Z",
-        "broadcast": "R/2022-08-14T16:00:00.000Z/P7D"
+        "broadcast": "R/2022-08-14T16:00:00.000Z/P7D",
+        "comment": "粵配: PLuxqoToY7UcifYuHTZ_a_7E_gQ7rJqE0J"
       },
       {
         "site": "viu",
@@ -5027,6 +5632,22 @@
         "id": "spy-family",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2709"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G4PH0WXVJ",
+        "begin": "2022-04-09T14:00:00.000Z",
+        "broadcast": "R/2022-04-09T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25335",
+        "begin": "2022-04-09T14:30:00.000Z",
+        "broadcast": "R/2022-04-09T14:30:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -5116,6 +5737,12 @@
       {
         "site": "mikan",
         "id": "2611"
+      },
+      {
+        "site": "danime",
+        "id": "26412",
+        "begin": "2023-06-01T03:00:00.000Z",
+        "broadcast": "R/2023-06-01T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -5191,6 +5818,12 @@
         "id": "SID0061667",
         "begin": "2021-09-16T03:00:00.000Z",
         "broadcast": "R/2021-09-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25074",
+        "begin": "2021-10-03T16:00:00.000Z",
+        "broadcast": "R/2021-10-03T16:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -5222,6 +5855,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "百万吨级武藏"
+      ],
+      "zh-Hant": [
+        "百萬噸級武藏"
+      ],
+      "en": [
+        "Megaton Musashi"
       ]
     },
     "type": "tv",
@@ -5247,6 +5886,18 @@
       {
         "site": "mikan",
         "id": "2582"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jjq1It2qijsPwyFuM1n1mZJ",
+        "begin": "2024-11-05T12:00:06.000Z",
+        "broadcast": "R/2024-11-05T12:00:06.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GP5HJ840X",
+        "begin": "2024-04-25T06:00:00.000Z",
+        "broadcast": "R/2024-04-25T06:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -5335,6 +5986,12 @@
         "id": "114346",
         "begin": "2021-10-06T17:25:00.000Z",
         "broadcast": "R/2021-10-06T17:25:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26485",
+        "begin": "2023-07-17T15:00:00.000Z",
+        "broadcast": "R/2023-07-17T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -5433,6 +6090,12 @@
       {
         "site": "mikan",
         "id": "2446"
+      },
+      {
+        "site": "danime",
+        "id": "24247",
+        "begin": "2021-04-13T03:00:00.000Z",
+        "broadcast": "R/2021-04-13T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -5525,6 +6188,19 @@
       {
         "site": "mikan",
         "id": "1507"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G69P1K90Y",
+        "begin": "2018-01-06T16:00:00.000Z",
+        "broadcast": "R/2018-01-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21929",
+        "begin": "2018-01-07T03:00:00.000Z",
+        "broadcast": "R/2018-01-07T03:00:00.000Z/P7D",
+        "comment": "再放送(リミックス版): 25093"
       }
     ],
     "animeSeason": {
@@ -5622,6 +6298,12 @@
       {
         "site": "mikan",
         "id": "1542"
+      },
+      {
+        "site": "danime",
+        "id": "21905",
+        "begin": "2020-01-17T03:00:00.000Z",
+        "broadcast": "R/2020-01-17T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {

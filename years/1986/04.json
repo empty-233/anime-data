@@ -21,6 +21,12 @@
         "id": "SID0004289",
         "begin": "2016-03-24T03:00:00.000Z",
         "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10141",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -100,6 +106,59 @@
       "touch movie 1",
       "タッチ 背番号のないエース",
       "棒球英豪 没有背号的王牌投手"
+    ]
+  },
+  {
+    "title": "銀牙 -流れ星 銀-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银牙",
+        "虎纹猎犬物语",
+        "银牙─流星银"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-04-06T16:00:00.000Z",
+    "broadcast": "R/1986-04-06T16:00:00.000Z/P7D",
+    "end": "1986-09-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53728"
+      },
+      {
+        "site": "danime",
+        "id": "26188",
+        "begin": "2023-03-31T01:00:00.000Z",
+        "broadcast": "R/2023-03-31T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1986,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 21,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/47461.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/47461t.jpg",
+    "synonyms": [
+      "EzüstNyíl",
+      "Ging: The Falling Star",
+      "Ginga: Nagareboshi Gin",
+      "Hopeanuoli",
+      "Silver Fang",
+      "Silver Fang: Shooting Star Gin",
+      "Silverfang",
+      "The small hero. Birth of Gin",
+      "gng",
+      "المخلب الفضي",
+      "銀牙 -流れ星 銀-",
+      "銀牙 流れ星銀",
+      "銀牙　流れ星銀"
     ]
   }
 ]

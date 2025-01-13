@@ -222,6 +222,12 @@
         "id": "2390",
         "begin": "2014-10-29T06:16:00.000Z",
         "broadcast": "R/2014-10-29T06:16:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10641",
+        "begin": "2012-10-12T01:00:00.000Z",
+        "broadcast": "R/2012-10-12T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -275,6 +281,12 @@
         "id": "SID0042194",
         "begin": "2019-07-26T03:00:00.000Z",
         "broadcast": "R/2019-07-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23983",
+        "begin": "2020-05-31T15:00:00.000Z",
+        "broadcast": "R/2020-05-31T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -339,6 +351,48 @@
       "それいけ!アンパンマン キラキラ星の涙",
       "それいけ！ アンパンマン キラキラ星の涙",
       "映画 それいけ!アンパンマン キラキラ星の涙"
+    ]
+  },
+  {
+    "title": "ヤンキー烈風隊",
+    "titleTranslate": {
+      "zh-Hans": [
+        "不良少年烈风队"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-03-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-03-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "103182"
+      },
+      {
+        "site": "danime",
+        "id": "26239",
+        "begin": "2023-04-28T01:00:00.000Z",
+        "broadcast": "R/2023-04-28T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1989,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/1468/98670.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1468/98670t.jpg",
+    "synonyms": [
+      "Yankee Gale Squad",
+      "Yankee Reppu Tai",
+      "Yankee Reppuu Tai",
+      "ヤンキー烈風隊"
     ]
   }
 ]

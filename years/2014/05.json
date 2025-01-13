@@ -80,6 +80,12 @@
         "id": "SID0067451",
         "begin": "2023-04-01T03:00:00.000Z",
         "broadcast": "R/2023-04-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26266",
+        "begin": "2023-04-01T01:00:00.000Z",
+        "broadcast": "R/2023-04-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -181,6 +187,12 @@
       {
         "site": "mikan",
         "id": "1211"
+      },
+      {
+        "site": "danime",
+        "id": "23582",
+        "begin": "2021-01-01T01:00:00.000Z",
+        "broadcast": "R/2021-01-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -234,6 +246,12 @@
         "id": "SID0003439",
         "begin": "2019-11-27T03:00:00.000Z",
         "broadcast": "R/2019-11-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20025",
+        "begin": "2015-03-06T01:00:00.000Z",
+        "broadcast": "R/2015-03-06T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -249,6 +267,45 @@
       "Nora Suko (TV)",
       "Norasco (2014)",
       "野良スコ"
+    ]
+  },
+  {
+    "title": "えいがパンパカパンツ バナナン王国の秘宝",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-05-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2014-05-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "208317"
+      },
+      {
+        "site": "danime",
+        "id": "21234",
+        "begin": "2016-11-04T01:00:00.000Z",
+        "broadcast": "R/2016-11-04T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2014,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/75651.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/75651t.jpg",
+    "synonyms": [
+      "Eiga Panpaka Pants: Bananan Oukoku no Hihou",
+      "Eiga Panpaka Pants: Bananan Ōkoku no Hihō",
+      "Eiga Panpaka Pantsu Bananan Okoku no Hiho",
+      "Panpaka Pantsu Movie: Bananan Oukoku no Hihou",
+      "えいがパンパカパンツ バナナン王国の秘宝"
     ]
   }
 ]

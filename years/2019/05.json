@@ -25,6 +25,12 @@
       {
         "site": "mikan",
         "id": "1952"
+      },
+      {
+        "site": "danime",
+        "id": "22715",
+        "begin": "2019-11-22T15:00:00.000Z",
+        "broadcast": "R/2019-11-22T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -63,6 +69,12 @@
         "id": "wakige-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "23001",
+        "begin": "2019-09-20T01:00:00.000Z",
+        "broadcast": "R/2019-09-20T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -125,6 +137,12 @@
         "id": "SID0047533",
         "begin": "2024-10-31T15:00:00.000Z",
         "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23962",
+        "begin": "2024-12-15T15:00:00.000Z",
+        "broadcast": "R/2024-12-15T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -294,6 +312,12 @@
         "id": "SID0044209",
         "begin": "2019-12-01T03:00:00.000Z",
         "broadcast": "R/2019-12-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24371",
+        "begin": "2020-11-20T03:00:00.000Z",
+        "broadcast": "R/2020-11-20T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -342,6 +366,12 @@
         "id": "SID0053699",
         "begin": "2020-12-11T03:00:00.000Z",
         "broadcast": "R/2020-12-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23123",
+        "begin": "2022-03-04T01:00:00.000Z",
+        "broadcast": "R/2022-03-04T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -359,6 +389,49 @@
       "Dayan to Tama to Tobi Neko to: Mittsu no Neko no Monogatari",
       "ダヤンとタマと飛び猫と ~3つの猫の物語~",
       "ダヤンとタマと飛び猫と ～3つの猫の物語～"
+    ]
+  },
+  {
+    "title": "ホロのぐらふぃてぃ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "holo的涂鸦",
+        "hololive动画"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-05-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-06-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "282233"
+      },
+      {
+        "site": "danime",
+        "id": "26143",
+        "begin": "2023-02-13T01:00:00.000Z",
+        "broadcast": "R/2023-02-13T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2019,
+      "month": "05"
+    },
+    "status": "ONGOING",
+    "episodes": 0,
+    "picture": "https://cdn.myanimelist.net/images/anime/1550/136355.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1550/136355t.jpg",
+    "synonyms": [
+      "Holo Graffiti Specials",
+      "HoloGra Specials",
+      "Horogura Specials",
+      "ホロのぐらふぃてぃ"
     ]
   }
 ]

@@ -208,16 +208,16 @@
         "id": "5118"
       },
       {
-        "site": "netflix",
-        "id": "60021103",
-        "begin": "2021-12-30T00:00:00.000Z",
-        "broadcast": "R/2021-12-30T00:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0013707",
         "begin": "2019-11-01T03:00:00.000Z",
         "broadcast": "R/2019-11-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11088",
+        "begin": "2020-03-27T03:00:00.000Z",
+        "broadcast": "R/2020-03-27T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -262,6 +262,12 @@
         "id": "SID0004903",
         "begin": "2016-02-18T15:00:00.000Z",
         "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23305",
+        "begin": "2020-03-06T01:00:00.000Z",
+        "broadcast": "R/2020-03-06T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -277,6 +283,53 @@
       "Billy Inu",
       "ビリ犬",
       "山田栄子"
+    ]
+  },
+  {
+    "title": "ビックリマン 無縁ゾーンの秘宝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "仙魔大战 无缘zone的秘宝"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-07-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1988-07-08T16:45:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "487095"
+      },
+      {
+        "site": "danime",
+        "id": "24700",
+        "begin": "2022-06-15T01:00:00.000Z",
+        "broadcast": "R/2022-06-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002822",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1988,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1721/97581.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1721/97581t.jpg",
+    "synonyms": [
+      "Bikkuriman: Moen Zone no Himitsu",
+      "Bikkuriman: Muen Zone no Hihō",
+      "ビックリマン 無縁ゾーンの秘宝"
     ]
   }
 ]

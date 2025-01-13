@@ -60,6 +60,12 @@
         "id": "91280",
         "begin": "2023-02-10T02:30:00.000Z",
         "broadcast": "R/2023-02-10T02:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22746",
+        "begin": "2019-04-26T01:00:00.000Z",
+        "broadcast": "R/2019-04-26T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -117,6 +123,12 @@
       {
         "site": "mikan",
         "id": "1568"
+      },
+      {
+        "site": "danime",
+        "id": "22332",
+        "begin": "2018-08-21T01:00:00.000Z",
+        "broadcast": "R/2018-08-21T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -351,6 +363,12 @@
       {
         "site": "mikan",
         "id": "1573"
+      },
+      {
+        "site": "danime",
+        "id": "22285",
+        "begin": "2018-06-20T01:00:00.000Z",
+        "broadcast": "R/2018-06-20T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -416,6 +434,62 @@
       "Mobile Suit Gundam: Thunderbolt - Bandit Flower",
       "機動戦士ガンダム サンダーボルト BANDIT FLOWER",
       "特別編 機動戦士ガンダムサンダーボルト BANDIT FLOWER"
+    ]
+  },
+  {
+    "title": "映画かいけつゾロリ ZZのひみつ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版怪杰佐罗力：ZZ的秘密"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.zorori-movie.jp/",
+    "begin": "2017-11-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-11-24T17:10:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "213785"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042056",
+        "begin": "2019-07-04T03:00:00.000Z",
+        "broadcast": "R/2019-07-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23241",
+        "begin": "2023-08-27T15:00:00.000Z",
+        "broadcast": "R/2023-08-27T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2017,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1241/105180.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1241/105180t.jpg",
+    "synonyms": [
+      "Eiga Kaiketsu Zorori ZZ no Himitsu",
+      "Eiga Kaiketsu Zorori: Double Z no Himitsu",
+      "Eiga Kaiketsu Zorori: ZZ no Himitsu",
+      "Kaiketsu Zorori Movie 4: ZZ no Himitsu",
+      "Kaiketsu Zorori the Movie: Secret of Double Z",
+      "Kaiketsu Zorori: ZZ no Himitsu",
+      "The Secret of Double Z",
+      "かいけつゾロリ ZZのひみつ",
+      "剧场版怪杰佐罗力：ZZ的秘密",
+      "映画かいけつゾロリ ZZ[ダブルゼット]のひみつ",
+      "映画かいけつゾロリ ZZのひみつ",
+      "映画かいけつゾロリ ZZ（ダブルゼット）のひみつ"
     ]
   }
 ]

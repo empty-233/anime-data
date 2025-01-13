@@ -89,6 +89,12 @@
         "id": "SID0011320",
         "begin": "2017-04-20T03:00:00.000Z",
         "broadcast": "R/2017-04-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11318",
+        "begin": "2020-02-20T01:00:00.000Z",
+        "broadcast": "R/2020-02-20T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -153,6 +159,12 @@
         "id": "SID0054158",
         "begin": "2020-12-30T03:00:00.000Z",
         "broadcast": "R/2020-12-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23371",
+        "begin": "2020-04-01T01:00:00.000Z",
+        "broadcast": "R/2020-04-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -197,6 +209,12 @@
         "id": "SID0017876",
         "begin": "2022-04-14T03:00:00.000Z",
         "broadcast": "R/2022-04-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11361",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -238,6 +256,13 @@
         "begin": "2024-10-10T15:00:00.000Z",
         "broadcast": "R/2024-10-10T15:00:00.000Z/P7D",
         "comment": "PART I 筑波篇, PART II 鈴鹿篇: SID0158137"
+      },
+      {
+        "site": "danime",
+        "id": "27383",
+        "begin": "2024-10-10T15:00:00.000Z",
+        "broadcast": "R/2024-10-10T15:00:00.000Z/P7D",
+        "comment": "PART I 筑波篇, PART II 鈴鹿篇: 27384"
       }
     ],
     "animeSeason": {
@@ -259,6 +284,62 @@
       "bariden",
       "バリバリ伝説",
       "バリ伝"
+    ]
+  },
+  {
+    "title": "ボスコアドベンチャー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "梦幻世界"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-10-05T16:00:00.000Z",
+    "broadcast": "R/1986-10-05T16:00:00.000Z/P7D",
+    "end": "1987-03-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "77247"
+      },
+      {
+        "site": "danime",
+        "id": "23526",
+        "begin": "2020-04-24T01:00:00.000Z",
+        "broadcast": "R/2020-04-24T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1986,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/28561.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/28561t.jpg",
+    "synonyms": [
+      "A Bosco léghajó kalandjai",
+      "Blue Princess",
+      "Bosco",
+      "Bosco Daiboken",
+      "Bosco Daibouken",
+      "Bosco Daibōken",
+      "La forêt magique",
+      "Las aventuras de Bosco",
+      "Les Aventures du Bosco",
+      "Les aventures du Bosco",
+      "Plava princeza",
+      "Principessa dai capelli blu",
+      "Przygody Bosco",
+      "Приключения Боско",
+      "Приключенията на Боско",
+      "חבורת הצב המעופף",
+      "سفينة الأصدقاء",
+      "ボスコアドベンチャー"
     ]
   }
 ]

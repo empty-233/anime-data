@@ -21,6 +21,12 @@
         "id": "SID0010708",
         "begin": "2016-03-24T03:00:00.000Z",
         "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10430",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -72,6 +78,12 @@
         "id": "SID0043692",
         "begin": "2019-12-05T03:00:00.000Z",
         "broadcast": "R/2019-12-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21239",
+        "begin": "2023-02-28T01:00:00.000Z",
+        "broadcast": "R/2023-02-28T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -168,6 +180,12 @@
         "id": "35-22hnwbphuwmw",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "11294",
+        "begin": "2014-06-06T01:00:00.000Z",
+        "broadcast": "R/2014-06-06T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -232,6 +250,48 @@
       "Летающий дом",
       "Приключения чудесного домика",
       "トンデラハウスの大冒険"
+    ]
+  },
+  {
+    "title": "手塚治虫のドン・ドラキュラ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "吸血鬼在日本"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1982-04-04T16:00:00.000Z",
+    "broadcast": "R/1982-04-04T16:00:00.000Z/P7D",
+    "end": "1982-04-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "116754"
+      },
+      {
+        "site": "danime",
+        "id": "24081",
+        "begin": "2020-08-28T01:00:00.000Z",
+        "broadcast": "R/2020-08-28T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1982,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 8,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/15129.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/15129t.jpg",
+    "synonyms": [
+      "Dom Drácula",
+      "Don Dracula",
+      "Don Drácula",
+      "手塚治虫のドン・ドラキュラ"
     ]
   }
 ]

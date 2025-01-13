@@ -86,6 +86,12 @@
         "id": "SID0038648",
         "begin": "2019-01-17T03:00:00.000Z",
         "broadcast": "R/2019-01-17T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23328",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -102,6 +108,45 @@
       "Attack No.1 Movie 4",
       "Attack No.1: Namida no Fushichō",
       "アタックNo.1 涙の不死鳥"
+    ]
+  },
+  {
+    "title": "珍豪ムチャ兵衛",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1971-02-14T16:00:00.000Z",
+    "broadcast": "R/1971-02-14T16:00:00.000Z/P7D",
+    "end": "1971-03-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "190747"
+      },
+      {
+        "site": "danime",
+        "id": "23354",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1971,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 51,
+    "picture": "https://cdn.myanimelist.net/images/anime/1263/120962.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1263/120962t.jpg",
+    "synonyms": [
+      "Chingo Muchabei",
+      "Chingō Muchabē",
+      "The Extravagant Muchabee",
+      "The Extravagant Muchabei",
+      "珍豪ムチャ兵衛"
     ]
   }
 ]

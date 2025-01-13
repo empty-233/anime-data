@@ -19,6 +19,12 @@
         "id": "SID0014748",
         "begin": "2022-10-29T03:00:00.000Z",
         "broadcast": "R/2022-10-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11348",
+        "begin": "2017-11-24T01:00:00.000Z",
+        "broadcast": "R/2017-11-24T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -38,6 +44,51 @@
       "現世守護神 ぴーひょろ一家",
       "現世守護神ぴーひょろ一家",
       "現世守護神ぴーひょろ一家 OVA"
+    ]
+  },
+  {
+    "title": "はれときどきぶた",
+    "titleTranslate": {
+      "zh-Hans": [
+        "晴天小猪"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-08-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1988-08-22T17:14:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "211445"
+      },
+      {
+        "site": "danime",
+        "id": "23724",
+        "begin": "2020-05-22T01:00:00.000Z",
+        "broadcast": "R/2020-05-22T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1988,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/13/63889.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/13/63889t.jpg",
+    "synonyms": [
+      "Fair, Then Partly, Piggy",
+      "Fair, then Partly Piggy",
+      "Hare Tokidoki Buta (1988)",
+      "Hare Tokidoki Buta Movie",
+      "はれときどきぶた",
+      "はれときどきぶた (1988)",
+      "はれときどきぶた （1988）"
     ]
   }
 ]

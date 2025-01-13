@@ -129,6 +129,12 @@
         "id": "SID0034132",
         "begin": "2018-04-16T03:00:00.000Z",
         "broadcast": "R/2018-04-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22117",
+        "begin": "2018-04-16T01:00:00.000Z",
+        "broadcast": "R/2018-04-16T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -219,6 +225,12 @@
         "id": "112277",
         "begin": "2020-07-18T12:00:00.000Z",
         "broadcast": "R/2020-07-18T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24148",
+        "begin": "2020-08-18T15:00:00.000Z",
+        "broadcast": "R/2020-08-18T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -315,6 +327,12 @@
       {
         "site": "mikan",
         "id": "1479"
+      },
+      {
+        "site": "danime",
+        "id": "23110",
+        "begin": "2019-11-29T01:00:00.000Z",
+        "broadcast": "R/2019-11-29T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -381,6 +399,12 @@
         "id": "SID0031111",
         "begin": "2017-09-22T03:00:00.000Z",
         "broadcast": "R/2017-09-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21735",
+        "begin": "2017-08-25T01:00:00.000Z",
+        "broadcast": "R/2017-08-25T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -431,6 +455,12 @@
         "id": "SID0031115",
         "begin": "2023-01-19T15:00:00.000Z",
         "broadcast": "R/2023-01-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21782",
+        "begin": "2017-10-06T03:00:00.000Z",
+        "broadcast": "R/2017-10-06T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -474,12 +504,6 @@
       {
         "site": "bangumi",
         "id": "200704"
-      },
-      {
-        "site": "netflix",
-        "id": "81000505",
-        "begin": "2021-12-30T00:00:00.000Z",
-        "broadcast": "R/2021-12-30T00:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -608,6 +632,12 @@
       {
         "site": "mikan",
         "id": "1572"
+      },
+      {
+        "site": "danime",
+        "id": "22820",
+        "begin": "2019-07-12T01:00:00.000Z",
+        "broadcast": "R/2019-07-12T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -623,6 +653,45 @@
       "Kimi no Koe wo Todoketai",
       "Your Voice -KIMIKOE-",
       "きみの声をとどけたい"
+    ]
+  },
+  {
+    "title": "映画くまのがっこう パティシエ・ジャッキーとおひさまのスイーツ",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.bn-pictures.co.jp/the-bears-school/",
+    "begin": "2017-08-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-08-24T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "484249"
+      },
+      {
+        "site": "danime",
+        "id": "22818",
+        "begin": "2021-12-24T01:00:00.000Z",
+        "broadcast": "R/2021-12-24T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2017,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/83800.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/83800t.jpg",
+    "synonyms": [
+      "Eiga Kuma no Gakkou: Patissier Jackie to Ohisama no Sweets",
+      "Eiga Kuma no Gakkō: Patissier Jackie to Ohisama no Sweets",
+      "Kuma no Gakkou Movie 2: Patissier Jackie to Ohisama no Sweets",
+      "The Bears' School The Movie: The Patissier Jackie and the Sun's Sweets",
+      "映画くまのがっこう パティシエ・ジャッキーとおひさまのスイーツ"
     ]
   }
 ]

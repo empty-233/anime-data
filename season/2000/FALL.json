@@ -173,6 +173,12 @@
         "id": "SID0020514",
         "begin": "2023-03-16T15:00:00.000Z",
         "broadcast": "R/2023-03-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23881",
+        "begin": "2020-04-27T01:00:00.000Z",
+        "broadcast": "R/2020-04-27T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -225,6 +231,12 @@
         "id": "SID0002843",
         "begin": "2019-12-08T03:00:00.000Z",
         "broadcast": "R/2019-12-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10290",
+        "begin": "2020-03-06T01:00:00.000Z",
+        "broadcast": "R/2020-03-06T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -289,6 +301,12 @@
         "id": "SID0016449",
         "begin": "2019-11-17T03:00:00.000Z",
         "broadcast": "R/2019-11-17T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10599",
+        "begin": "2012-09-07T01:00:00.000Z",
+        "broadcast": "R/2012-09-07T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -339,12 +357,6 @@
       {
         "site": "bangumi",
         "id": "2784"
-      },
-      {
-        "site": "gamer",
-        "id": "16603",
-        "begin": "2020-08-20T08:30:00.000Z",
-        "broadcast": "R/2020-08-20T08:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -419,24 +431,6 @@
       {
         "site": "bangumi",
         "id": "2912"
-      },
-      {
-        "site": "ani_one_asia",
-        "id": "PLxSscENEp7Jj4FzOt4wb-cP2-q7G8lcaz",
-        "begin": "2022-06-01T16:00:00.000Z",
-        "broadcast": "R/2022-06-01T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "19455",
-        "begin": "2024-09-20T04:00:00.000Z",
-        "broadcast": "R/2024-09-20T04:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "19455",
-        "begin": "2024-09-20T04:00:00.000Z",
-        "broadcast": "R/2024-09-20T04:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -633,6 +627,12 @@
         "id": "SID0046017",
         "begin": "2020-04-01T03:00:00.000Z",
         "broadcast": "R/2020-04-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23142",
+        "begin": "2019-12-13T01:00:00.000Z",
+        "broadcast": "R/2019-12-13T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -686,6 +686,12 @@
         "id": "SID0044987",
         "begin": "2022-04-27T03:00:00.000Z",
         "broadcast": "R/2022-04-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23642",
+        "begin": "2022-03-04T01:00:00.000Z",
+        "broadcast": "R/2022-03-04T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -711,6 +717,51 @@
       "TriZenon",
       "无敌王",
       "無敵王トライゼノン"
+    ]
+  },
+  {
+    "title": "ハムスター倶楽部",
+    "titleTranslate": {
+      "zh-Hans": [
+        "仓鼠俱乐部"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-10-01T16:00:00.000Z",
+    "broadcast": "R/2000-10-01T16:00:00.000Z/P7D",
+    "end": "2001-03-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317771"
+      },
+      {
+        "site": "unext",
+        "id": "SID0159111",
+        "begin": "2024-12-01T03:00:00.000Z",
+        "broadcast": "R/2024-12-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24377",
+        "begin": "2020-12-11T01:00:00.000Z",
+        "broadcast": "R/2020-12-11T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2000,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 130,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/27428.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/27428t.jpg",
+    "synonyms": [
+      "ハムスター倶楽部"
     ]
   }
 ]

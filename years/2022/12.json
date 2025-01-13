@@ -52,6 +52,16 @@
       {
         "site": "bangumi_moe",
         "id": "63b58c3c441dff2ff8927e53"
+      },
+      {
+        "site": "mikan",
+        "id": "2878"
+      },
+      {
+        "site": "danime",
+        "id": "25955",
+        "begin": "2022-12-05T03:00:00.000Z",
+        "broadcast": "R/2022-12-05T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -104,6 +114,10 @@
         "id": "81302750",
         "begin": "2022-12-20T00:00:00.000Z",
         "broadcast": "R/2022-12-20T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2881"
       }
     ],
     "animeSeason": {
@@ -210,6 +224,12 @@
       {
         "site": "unext",
         "id": "SID0091705",
+        "begin": "2023-08-28T03:00:00.000Z",
+        "broadcast": "R/2023-08-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26573",
         "begin": "2023-08-28T03:00:00.000Z",
         "broadcast": "R/2023-08-28T03:00:00.000Z/P7D"
       }
@@ -323,6 +343,12 @@
         "id": "SID0103147",
         "begin": "2024-06-01T03:00:00.000Z",
         "broadcast": "R/2024-06-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26353",
+        "begin": "2023-04-20T15:00:00.000Z",
+        "broadcast": "R/2023-04-20T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -351,6 +377,90 @@
       "Pokémon: The Distant Blue Sky",
       "Pokémon: ¡Un lejano cielo azul!",
       "ポケットモンスター 遥かなる青い空"
+    ]
+  },
+  {
+    "title": "THE FIRST SLAM DUNK",
+    "titleTranslate": {
+      "zh-Hans": [
+        "灌篮高手",
+        "灌篮高手 电影版",
+        "灌篮高手：THE FIRST"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://slamdunk-movie.jp/",
+    "begin": "2022-12-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-12-02T18:04:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "324720"
+      },
+      {
+        "site": "mikan",
+        "id": "3256"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2022,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1745/129284.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1745/129284t.jpg",
+    "synonyms": [
+      "Slam Dunk Movie",
+      "Slam Dunk Movie 5",
+      "THE FIRST SLAM DUNK",
+      "סלאם דאנק",
+      "ザ・ファーストスラムダンク",
+      "映画 スラムダンク"
+    ]
+  },
+  {
+    "title": "LUPIN ZERO",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦 零"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.lupin-zero.com",
+    "begin": "2022-12-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-01-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "405990"
+      },
+      {
+        "site": "mikan",
+        "id": "2880"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2022,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/1794/131565.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1794/131565t.jpg",
+    "synonyms": [
+      "LUPIN ZERO",
+      "Lupin ZERO",
+      "ルパンゼロ",
+      "鲁邦 零"
     ]
   }
 ]

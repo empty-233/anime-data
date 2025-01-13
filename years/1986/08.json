@@ -120,6 +120,12 @@
         "id": "SID0003297",
         "begin": "2015-02-16T15:00:00.000Z",
         "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10934",
+        "begin": "2013-08-02T01:00:00.000Z",
+        "broadcast": "R/2013-08-02T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -140,6 +146,49 @@
       "Ginga Tansa Nisenhyakunen: Border Planet",
       "銀河探査2100年 ボーダープラネット",
       "銀河探査２１００年 ボーダープラネット"
+    ]
+  },
+  {
+    "title": "山太郎かえる",
+    "titleTranslate": {
+      "zh-Hans": [
+        "山太郎回来了",
+        "山太郎要回家"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-08-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1986-08-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "112590"
+      },
+      {
+        "site": "danime",
+        "id": "24065",
+        "begin": "2020-07-10T01:00:00.000Z",
+        "broadcast": "R/2020-07-10T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1986,
+      "month": "08"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1716/134336.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1716/134336t.jpg",
+    "synonyms": [
+      "Lion Book Series 4",
+      "Yamataro Comes Back",
+      "Yamatarō Kaeru",
+      "山太郎かえる"
     ]
   }
 ]

@@ -21,6 +21,12 @@
         "id": "SID0063365",
         "begin": "2022-01-12T03:00:00.000Z",
         "broadcast": "R/2022-01-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25203",
+        "begin": "2022-01-12T03:00:00.000Z",
+        "broadcast": "R/2022-01-12T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -77,6 +83,12 @@
       {
         "site": "mikan",
         "id": "2542"
+      },
+      {
+        "site": "danime",
+        "id": "25155",
+        "begin": "2022-02-11T01:00:00.000Z",
+        "broadcast": "R/2022-02-11T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -156,6 +168,12 @@
       {
         "site": "mikan",
         "id": "2592"
+      },
+      {
+        "site": "danime",
+        "id": "25958",
+        "begin": "2024-02-29T15:00:00.000Z",
+        "broadcast": "R/2024-02-29T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -239,6 +257,16 @@
         "id": "sidonia-aitsumuguhoshi",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2657"
+      },
+      {
+        "site": "danime",
+        "id": "25781",
+        "begin": "2022-10-02T15:00:00.000Z",
+        "broadcast": "R/2022-10-02T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -352,6 +380,12 @@
       {
         "site": "mikan",
         "id": "2612"
+      },
+      {
+        "site": "danime",
+        "id": "25743",
+        "begin": "2022-08-01T01:00:00.000Z",
+        "broadcast": "R/2022-08-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -454,6 +488,12 @@
         "id": "SID0061058",
         "begin": "2021-08-27T03:00:00.000Z",
         "broadcast": "R/2021-08-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26873",
+        "begin": "2024-03-07T15:00:00.000Z",
+        "broadcast": "R/2024-03-07T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -476,6 +516,116 @@
       "Uchuu Senkan Yamato 2202: Ai no Senshi-tachi Summary",
       "「宇宙戦艦ヤマト」という時代 西暦2202年の選択",
       "『宇宙戦艦ヤマト』という時代 西暦2202年の選択"
+    ]
+  },
+  {
+    "title": "ワンダーエッグ・プライオリティ 特別編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "奇蛋物语 特别篇",
+        "WONDER EGG PRIORITY 特别篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://wonder-egg-priority.com",
+    "begin": "2021-06-28T16:00:00.000Z",
+    "broadcast": "R/2021-06-28T16:00:00.000Z/P7D",
+    "end": "2021-06-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "331935"
+      },
+      {
+        "site": "mikan",
+        "id": "2529"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2021,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1527/113849.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1527/113849t.jpg",
+    "synonyms": [
+      "WEP Special Edition",
+      "WONDER EGG PRIORITY Special Edition",
+      "WONDER EGG PRIORITY: My Priority",
+      "Wonder Egg Priority : My Priority",
+      "Wonder Egg Priority Episode 13",
+      "Wonder Egg Priority Special",
+      "Wonder Egg Priority Special Edition",
+      "Wonder Egg Priority Spezialfolge",
+      "Wonder Egg Priority Tokubetsu-hen",
+      "Wonder Egg Priority Tokubetsu-hen (ワンダーエッグ・プライオリティ 特別編)",
+      "Wonder Egg Priority Tokubetsu-hen., Wonder Egg Priority episode 13, Wonder Egg Priority Special",
+      "Wonder Egg Priority: La mia Priority",
+      "Wonder Egg Priority: Meine Priorität",
+      "Wonder Egg Priority: Mi prioridad",
+      "Wonder Egg Priority: My Priority",
+      "Wonder Egg Priority: Tokubetsu-hen",
+      "ワンダーエッグ・プライオリティ 特別編",
+      "ワンダーエッグ・プライオリティ 私のプライオリティ",
+      "ワンダーエッグ・プライオリティ　特別編"
+    ]
+  },
+  {
+    "title": "漁港の肉子ちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "渔港的肉子酱"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://29kochanmovie.com",
+    "begin": "2021-06-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-06-10T17:37:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "324285"
+      },
+      {
+        "site": "mikan",
+        "id": "2717"
+      },
+      {
+        "site": "unext",
+        "id": "SID0068123",
+        "begin": "2024-12-20T03:00:00.000Z",
+        "broadcast": "R/2024-12-20T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2021,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1747/116922.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1747/116922t.jpg",
+    "synonyms": [
+      "Fortuna sprzyja pani Nikuko",
+      "Fortune Favors Lady Nikuko",
+      "Gyokō no Nikuko-chan",
+      "La Chance Sourit à Madame Nikuko",
+      "La Fortuna Di Nikuko",
+      "La chance sourit à madame Nikuko",
+      "La fortuna di Nikuko",
+      "La fortuna sonríe a Lady Nikuko",
+      "Nikuko of the Fishing Harbor",
+      "Nikuko z přístavního města",
+      "渔港的肉子酱",
+      "漁港の肉子ちゃん"
     ]
   },
   {
@@ -574,6 +724,12 @@
       {
         "site": "bangumi_moe",
         "id": "6065f09beaf504d0216b77b7"
+      },
+      {
+        "site": "danime",
+        "id": "24604",
+        "begin": "2021-04-10T03:00:00.000Z",
+        "broadcast": "R/2021-04-10T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -661,6 +817,12 @@
       {
         "site": "mikan",
         "id": "2428"
+      },
+      {
+        "site": "danime",
+        "id": "24558",
+        "begin": "2022-10-31T15:00:00.000Z",
+        "broadcast": "R/2022-10-31T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -763,6 +925,12 @@
         "id": "zombielandsaga-r",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "24737",
+        "begin": "2022-07-01T03:00:00.000Z",
+        "broadcast": "R/2022-07-01T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -853,6 +1021,13 @@
         "id": "isekaimaou-omega",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "24605",
+        "begin": "2021-04-01T17:00:00.000Z",
+        "broadcast": "R/2021-04-01T17:00:00.000Z/P7D",
+        "comment": "W召喚ver 前半戦: 24762, W召喚ver 後半戦: 24805"
       }
     ],
     "animeSeason": {
@@ -969,6 +1144,12 @@
       {
         "site": "mikan",
         "id": "2442"
+      },
+      {
+        "site": "danime",
+        "id": "24595",
+        "begin": "2021-04-10T15:00:00.000Z",
+        "broadcast": "R/2021-04-10T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1071,6 +1252,12 @@
       {
         "site": "mikan",
         "id": "2441"
+      },
+      {
+        "site": "danime",
+        "id": "25607",
+        "begin": "2022-07-01T01:00:00.000Z",
+        "broadcast": "R/2022-07-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1181,6 +1368,12 @@
       {
         "site": "mikan",
         "id": "2440"
+      },
+      {
+        "site": "danime",
+        "id": "24556",
+        "begin": "2021-04-13T15:00:00.000Z",
+        "broadcast": "R/2021-04-13T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1315,6 +1508,12 @@
         "id": "tensura-nikki",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "24504",
+        "begin": "2021-04-07T03:00:00.000Z",
+        "broadcast": "R/2021-04-07T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1430,6 +1629,12 @@
         "id": "108268",
         "begin": "2021-04-10T13:30:00.000Z",
         "broadcast": "R/2021-04-10T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24571",
+        "begin": "2021-04-14T15:00:00.000Z",
+        "broadcast": "R/2021-04-14T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1516,6 +1721,12 @@
       {
         "site": "mikan",
         "id": "2112"
+      },
+      {
+        "site": "danime",
+        "id": "25760",
+        "begin": "2022-08-12T01:00:00.000Z",
+        "broadcast": "R/2022-08-12T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1598,6 +1809,12 @@
       {
         "site": "mikan",
         "id": "2437"
+      },
+      {
+        "site": "danime",
+        "id": "24597",
+        "begin": "2022-06-01T01:00:00.000Z",
+        "broadcast": "R/2022-06-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1703,12 +1920,6 @@
         "id": "2427"
       },
       {
-        "site": "mytv",
-        "id": "tokyorevengers2426_141236",
-        "begin": "2024-07-01T02:00:00.000Z",
-        "broadcast": "R/2024-07-01T02:00:00.000Z/P7D"
-      },
-      {
         "site": "muse_hk",
         "id": "PLuxqoToY7Uch24ToiTn-Yl1UyX7r-RFzB",
         "begin": "2024-08-20T13:30:06.000Z",
@@ -1719,6 +1930,12 @@
         "id": "189-30",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "24536",
+        "begin": "2021-04-10T18:08:00.000Z",
+        "broadcast": "R/2021-04-10T18:08:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1787,12 +2004,6 @@
         "broadcast": "R/2021-04-04T15:00:00.000Z/P7D"
       },
       {
-        "site": "netflix",
-        "id": "81335206",
-        "begin": "2021-08-25T16:00:00.000Z",
-        "broadcast": "R/2021-08-25T16:00:00.000Z/P7D"
-      },
-      {
         "site": "bangumi_moe",
         "id": "6065f08feaf504d0216b7777"
       },
@@ -1853,6 +2064,9 @@
       "zh-Hant": [
         "魔法水果籃 最終季",
         "生肖奇緣 最終季"
+      ],
+      "en": [
+        "Fruits Basket The Final Season"
       ]
     },
     "type": "tv",
@@ -1916,6 +2130,18 @@
       {
         "site": "mikan",
         "id": "2421"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6ZJMGEXY",
+        "begin": "2019-04-05T16:23:00.000Z",
+        "broadcast": "R/2019-04-05T16:23:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24606",
+        "begin": "2021-04-06T03:00:00.000Z",
+        "broadcast": "R/2021-04-06T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2029,6 +2255,12 @@
         "id": "108840",
         "begin": "2021-04-07T15:30:00.000Z",
         "broadcast": "R/2021-04-07T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24553",
+        "begin": "2021-04-07T14:30:00.000Z",
+        "broadcast": "R/2021-04-07T14:30:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2101,6 +2333,12 @@
       {
         "site": "mikan",
         "id": "2435"
+      },
+      {
+        "site": "danime",
+        "id": "24535",
+        "begin": "2021-04-10T15:00:00.000Z",
+        "broadcast": "R/2021-04-10T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2198,6 +2436,12 @@
       {
         "site": "mikan",
         "id": "2434"
+      },
+      {
+        "site": "danime",
+        "id": "24557",
+        "begin": "2022-10-31T15:00:00.000Z",
+        "broadcast": "R/2022-10-31T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2309,6 +2553,12 @@
         "id": "110445",
         "begin": "2021-04-04T13:30:00.000Z",
         "broadcast": "R/2021-04-04T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24554",
+        "begin": "2021-04-04T12:30:00.000Z",
+        "broadcast": "R/2021-04-04T12:30:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2498,6 +2748,12 @@
       {
         "site": "mikan",
         "id": "2431"
+      },
+      {
+        "site": "danime",
+        "id": "25621",
+        "begin": "2022-06-30T15:00:00.000Z",
+        "broadcast": "R/2022-06-30T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2579,6 +2835,12 @@
       {
         "site": "mikan",
         "id": "2430"
+      },
+      {
+        "site": "danime",
+        "id": "24600",
+        "begin": "2021-04-08T11:00:00.000Z",
+        "broadcast": "R/2021-04-08T11:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2682,6 +2944,12 @@
       {
         "site": "mikan",
         "id": "2429"
+      },
+      {
+        "site": "danime",
+        "id": "24534",
+        "begin": "2021-04-08T15:00:00.000Z",
+        "broadcast": "R/2021-04-08T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2735,6 +3003,12 @@
       {
         "site": "mikan",
         "id": "2463"
+      },
+      {
+        "site": "danime",
+        "id": "25135",
+        "begin": "2021-12-01T03:00:00.000Z",
+        "broadcast": "R/2021-12-01T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2781,6 +3055,12 @@
       {
         "site": "bangumi_moe",
         "id": "6065f08deaf504d0216b776d"
+      },
+      {
+        "site": "danime",
+        "id": "26936",
+        "begin": "2024-03-31T15:00:00.000Z",
+        "broadcast": "R/2024-03-31T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2832,6 +3112,12 @@
       {
         "site": "bangumi_moe",
         "id": "6065f08deaf504d0216b776f"
+      },
+      {
+        "site": "danime",
+        "id": "24851",
+        "begin": "2021-07-05T03:00:00.000Z",
+        "broadcast": "R/2021-07-05T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2928,6 +3214,12 @@
       {
         "site": "mikan",
         "id": "2462"
+      },
+      {
+        "site": "danime",
+        "id": "24525",
+        "begin": "2021-04-05T13:30:00.000Z",
+        "broadcast": "R/2021-04-05T13:30:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3012,6 +3304,12 @@
       {
         "site": "mikan",
         "id": "2475"
+      },
+      {
+        "site": "danime",
+        "id": "25630",
+        "begin": "2022-07-01T03:00:00.000Z",
+        "broadcast": "R/2022-07-01T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3062,6 +3360,12 @@
       {
         "site": "bangumi_moe",
         "id": "6065f095eaf504d0216b7797"
+      },
+      {
+        "site": "danime",
+        "id": "24560",
+        "begin": "2023-04-30T15:00:00.000Z",
+        "broadcast": "R/2023-04-30T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3162,7 +3466,11 @@
   },
   {
     "title": "おしりたんてい(第5シリーズ)",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "屁屁侦探 第五季"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://www.oshiri-tantei.com/",
@@ -3170,7 +3478,18 @@
     "broadcast": "R/2021-04-03T00:00:00.000Z/P7D",
     "end": "2021-06-26T00:20:00.000Z",
     "comment": "",
-    "sites": [],
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "529232"
+      },
+      {
+        "site": "danime",
+        "id": "24602",
+        "begin": "2021-04-05T03:00:00.000Z",
+        "broadcast": "R/2021-04-05T03:00:00.000Z/P7D"
+      }
+    ],
     "animeSeason": {
       "season": "SPRING",
       "year": 2021,
@@ -3265,6 +3584,12 @@
       {
         "site": "mikan",
         "id": "2461"
+      },
+      {
+        "site": "danime",
+        "id": "24562",
+        "begin": "2021-04-16T15:00:00.000Z",
+        "broadcast": "R/2021-04-16T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3355,6 +3680,12 @@
       {
         "site": "mikan",
         "id": "2460"
+      },
+      {
+        "site": "danime",
+        "id": "24594",
+        "begin": "2021-04-04T14:30:00.000Z",
+        "broadcast": "R/2021-04-04T14:30:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3447,6 +3778,12 @@
       {
         "site": "mikan",
         "id": "2459"
+      },
+      {
+        "site": "danime",
+        "id": "24565",
+        "begin": "2024-11-30T15:00:00.000Z",
+        "broadcast": "R/2024-11-30T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3512,6 +3849,12 @@
       {
         "site": "mikan",
         "id": "2458"
+      },
+      {
+        "site": "danime",
+        "id": "24610",
+        "begin": "2021-04-08T15:00:00.000Z",
+        "broadcast": "R/2021-04-08T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3601,6 +3944,12 @@
       {
         "site": "mikan",
         "id": "2457"
+      },
+      {
+        "site": "danime",
+        "id": "24596",
+        "begin": "2021-04-13T03:00:00.000Z",
+        "broadcast": "R/2021-04-13T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3708,6 +4057,12 @@
       {
         "site": "mikan",
         "id": "2456"
+      },
+      {
+        "site": "danime",
+        "id": "24555",
+        "begin": "2021-04-17T15:00:00.000Z",
+        "broadcast": "R/2021-04-17T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3800,6 +4155,12 @@
       {
         "site": "mikan",
         "id": "2455"
+      },
+      {
+        "site": "danime",
+        "id": "24541",
+        "begin": "2021-04-17T15:00:00.000Z",
+        "broadcast": "R/2021-04-17T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3880,6 +4241,12 @@
       {
         "site": "mikan",
         "id": "2423"
+      },
+      {
+        "site": "danime",
+        "id": "24599",
+        "begin": "2021-04-05T18:00:00.000Z",
+        "broadcast": "R/2021-04-05T18:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3962,6 +4329,12 @@
       {
         "site": "mikan",
         "id": "2425"
+      },
+      {
+        "site": "danime",
+        "id": "24563",
+        "begin": "2023-06-30T15:00:00.000Z",
+        "broadcast": "R/2023-06-30T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4048,6 +4421,12 @@
       {
         "site": "mikan",
         "id": "2454"
+      },
+      {
+        "site": "danime",
+        "id": "24598",
+        "begin": "2021-04-06T03:00:00.000Z",
+        "broadcast": "R/2021-04-06T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4148,6 +4527,12 @@
         "id": "sevenknights-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "24587",
+        "begin": "2021-04-04T15:30:00.000Z",
+        "broadcast": "R/2021-04-04T15:30:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4231,6 +4616,12 @@
       {
         "site": "mikan",
         "id": "2452"
+      },
+      {
+        "site": "danime",
+        "id": "24537",
+        "begin": "2021-04-17T16:35:00.000Z",
+        "broadcast": "R/2021-04-17T16:35:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4285,6 +4676,12 @@
       {
         "site": "bangumi_moe",
         "id": "6065f0a0eaf504d0216b77cf"
+      },
+      {
+        "site": "danime",
+        "id": "24674",
+        "begin": "2021-04-29T11:00:00.000Z",
+        "broadcast": "R/2021-04-29T11:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4382,6 +4779,12 @@
       {
         "site": "mikan",
         "id": "2450"
+      },
+      {
+        "site": "danime",
+        "id": "24524",
+        "begin": "2021-04-05T03:00:00.000Z",
+        "broadcast": "R/2021-04-05T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4480,6 +4883,12 @@
       {
         "site": "mikan",
         "id": "2449"
+      },
+      {
+        "site": "danime",
+        "id": "24540",
+        "begin": "2022-07-01T01:00:00.000Z",
+        "broadcast": "R/2022-07-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4576,6 +4985,12 @@
       {
         "site": "mikan",
         "id": "2448"
+      },
+      {
+        "site": "danime",
+        "id": "24586",
+        "begin": "2021-04-09T17:00:00.000Z",
+        "broadcast": "R/2021-04-09T17:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4646,6 +5061,12 @@
       {
         "site": "mikan",
         "id": "2464"
+      },
+      {
+        "site": "danime",
+        "id": "24588",
+        "begin": "2021-04-09T17:00:00.000Z",
+        "broadcast": "R/2021-04-09T17:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4700,6 +5121,12 @@
       {
         "site": "unext",
         "id": "SID0056106",
+        "begin": "2024-06-30T15:00:00.000Z",
+        "broadcast": "R/2024-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27206",
         "begin": "2024-06-30T15:00:00.000Z",
         "broadcast": "R/2024-06-30T15:00:00.000Z/P7D"
       }
@@ -4782,6 +5209,12 @@
       {
         "site": "mikan",
         "id": "2473"
+      },
+      {
+        "site": "danime",
+        "id": "24559",
+        "begin": "2021-03-31T15:00:00.000Z",
+        "broadcast": "R/2021-03-31T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4847,6 +5280,12 @@
         "id": "SID0056624",
         "begin": "2024-11-12T03:00:00.000Z",
         "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24572",
+        "begin": "2021-04-04T16:00:00.000Z",
+        "broadcast": "R/2021-04-04T16:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4919,6 +5358,12 @@
       {
         "site": "mikan",
         "id": "2477"
+      },
+      {
+        "site": "danime",
+        "id": "24625",
+        "begin": "2021-04-16T03:00:00.000Z",
+        "broadcast": "R/2021-04-16T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -5143,6 +5588,12 @@
         "id": "174-3",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "25078",
+        "begin": "2021-10-01T01:00:00.000Z",
+        "broadcast": "R/2021-10-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -5203,6 +5654,12 @@
         "id": "SID0068233",
         "begin": "2022-05-01T01:00:00.000Z",
         "broadcast": "R/2022-05-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25204",
+        "begin": "2022-05-01T03:00:00.000Z",
+        "broadcast": "R/2022-05-01T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -5261,6 +5718,12 @@
         "id": "SID0056084",
         "begin": "2021-06-21T03:00:00.000Z",
         "broadcast": "R/2021-06-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24683",
+        "begin": "2021-04-26T03:00:00.000Z",
+        "broadcast": "R/2021-04-26T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -5337,6 +5800,82 @@
     ]
   },
   {
+    "title": "歌うサッカーパンダ ミファンダ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://mifa.co.jp/",
+    "begin": "2021-03-31T16:00:00.000Z",
+    "broadcast": "R/2021-03-31T16:00:00.000Z/P7D",
+    "end": "2021-06-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "309170"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6065f099eaf504d0216b77af"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2021,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1296/108533.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1296/108533t.jpg",
+    "synonyms": [
+      "歌うサッカーパンダ ミファンダ"
+    ]
+  },
+  {
+    "title": "あはれ！名作くん(第6期)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "做得很好！名作君 第六季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://meisakukun.com/",
+    "begin": "2021-04-01T09:20:00.000Z",
+    "end": "2022-03-24T09:20:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi_moe",
+        "id": "6065f09aeaf504d0216b77b1"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2021,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 37,
+    "picture": "https://cdn.anime-planet.com/anime/primary/aware-meisaku-kun-6-1.webp",
+    "thumbnail": "https://cdn.anime-planet.com/anime/primary/aware-meisaku-kun-6-1-285x399.webp",
+    "synonyms": [
+      "Ahare! Meisaku-kun (2021)",
+      "Ahare! Meisaku-kun 6th Season",
+      "Aware! Meisaku-kun",
+      "Aware! Meisaku-kun (2021)",
+      "Aware! Meisaku-kun (Saison 6)",
+      "Aware! Meisaku-kun (Season 6)",
+      "Aware! Meisaku-kun (Staffel 6)",
+      "Aware! Meisaku-kun (Stagione 6)",
+      "Aware! Meisaku-kun 6th Season",
+      "あはれ! 名作くん (2021)",
+      "あはれ！ 名作くん （2021）",
+      "あはれ！名作くん(第6期)"
+    ]
+  },
+  {
     "title": "わしも-wasimo-(第9シリーズ)",
     "titleTranslate": {
       "zh-Hans": [
@@ -5402,6 +5941,12 @@
         "id": "SID0056128",
         "begin": "2021-04-02T08:00:00.000Z",
         "broadcast": "R/2021-04-02T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24539",
+        "begin": "2021-04-02T08:00:00.000Z",
+        "broadcast": "R/2021-04-02T08:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -5458,12 +6003,6 @@
         "broadcast": "R/2020-10-11T15:00:00.000Z/P7D"
       },
       {
-        "site": "netflix",
-        "id": "81335206",
-        "begin": "2021-08-25T16:00:00.000Z",
-        "broadcast": "R/2021-08-25T16:00:00.000Z/P7D"
-      },
-      {
         "site": "gamer",
         "id": "109288",
         "begin": "2020-10-11T15:00:00.000Z",
@@ -5498,6 +6037,12 @@
         "id": "moriarty-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "24304",
+        "begin": "2020-10-11T14:00:00.000Z",
+        "broadcast": "R/2020-10-11T14:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -5552,6 +6097,12 @@
         "id": "5911",
         "begin": "2014-03-09T16:00:01.000Z",
         "broadcast": "R/2017-02-04T06:06:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23850",
+        "begin": "2020-04-27T01:00:00.000Z",
+        "broadcast": "R/2020-04-27T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {

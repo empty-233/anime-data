@@ -43,16 +43,16 @@
         "broadcast": "R/2018-07-31T06:07:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "135",
-        "begin": "2021-08-13T05:00:00.000Z",
-        "broadcast": "R/2021-08-13T05:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0002308",
         "begin": "2018-04-01T03:00:00.000Z",
         "broadcast": "R/2018-04-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11434",
+        "begin": "2014-09-05T01:00:00.000Z",
+        "broadcast": "R/2014-09-05T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -107,6 +107,12 @@
         "id": "SID0017345",
         "begin": "2020-11-17T15:00:00.000Z",
         "broadcast": "R/2020-11-17T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10787",
+        "begin": "2013-04-05T01:00:00.000Z",
+        "broadcast": "R/2013-04-05T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -141,6 +147,12 @@
       {
         "site": "bangumi",
         "id": "47539"
+      },
+      {
+        "site": "danime",
+        "id": "10050",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -195,6 +207,12 @@
         "id": "SID0003247",
         "begin": "2019-09-01T03:00:00.000Z",
         "broadcast": "R/2019-09-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20020",
+        "begin": "2015-03-06T01:00:00.000Z",
+        "broadcast": "R/2015-03-06T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -297,6 +315,12 @@
         "id": "1401",
         "begin": "2010-12-31T16:01:26.000Z",
         "broadcast": "R/2010-12-31T16:01:26.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10975",
+        "begin": "2013-09-06T01:00:00.000Z",
+        "broadcast": "R/2013-09-06T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -349,6 +373,12 @@
         "id": "SID0002330",
         "begin": "2015-02-16T15:00:00.000Z",
         "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22804",
+        "begin": "2019-06-21T01:00:00.000Z",
+        "broadcast": "R/2019-06-21T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -477,6 +507,12 @@
         "id": "1399",
         "begin": "2006-01-06T16:00:00.000Z",
         "broadcast": "R/2011-09-17T22:59:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10379",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -529,6 +565,12 @@
         "id": "SID0011089",
         "begin": "2023-04-30T03:00:00.000Z",
         "broadcast": "R/2023-04-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26154",
+        "begin": "2023-02-28T01:00:00.000Z",
+        "broadcast": "R/2023-02-28T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -575,6 +617,12 @@
         "id": "SID0016719",
         "begin": "2021-04-29T03:00:00.000Z",
         "broadcast": "R/2021-04-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10393",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -776,6 +824,12 @@
         "id": "SID0012979",
         "begin": "2020-05-21T03:00:00.000Z",
         "broadcast": "R/2020-05-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25021",
+        "begin": "2021-09-16T15:00:00.000Z",
+        "broadcast": "R/2021-09-16T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -926,6 +980,50 @@
       "ぎんいろのかみのあぎと",
       "銀色の髪のアギト",
       "银发的阿基多"
+    ]
+  },
+  {
+    "title": "やわらか戦車",
+    "titleTranslate": {
+      "zh-Hans": [
+        "柔软战车"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://fanworks.co.jp/project/yawarakasensha/",
+    "begin": "2005-12-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2011-11-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "426112"
+      },
+      {
+        "site": "danime",
+        "id": "23727",
+        "begin": "2020-10-23T01:00:00.000Z",
+        "broadcast": "R/2020-10-23T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2005,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 53,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/56209.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/56209t.jpg",
+    "synonyms": [
+      "Soft Tank",
+      "Squishy Tank",
+      "Tender Tank",
+      "The Legend of the Yawaraka Tank",
+      "Yawaraka Tank",
+      "やわらか戦車"
     ]
   }
 ]

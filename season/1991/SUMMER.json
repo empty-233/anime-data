@@ -110,6 +110,12 @@
         "id": "SID0012622",
         "begin": "2019-12-06T03:00:00.000Z",
         "broadcast": "R/2019-12-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25243",
+        "begin": "2021-12-31T01:00:00.000Z",
+        "broadcast": "R/2021-12-31T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -151,6 +157,12 @@
         "id": "SID0017494",
         "begin": "2019-12-08T03:00:00.000Z",
         "broadcast": "R/2019-12-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23979",
+        "begin": "2020-06-01T01:00:00.000Z",
+        "broadcast": "R/2020-06-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -209,6 +221,18 @@
         "id": "SID0013278",
         "begin": "2018-10-01T03:00:00.000Z",
         "broadcast": "R/2018-10-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "172-33",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "21752",
+        "begin": "2017-09-08T01:00:00.000Z",
+        "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -326,6 +350,12 @@
         "id": "SID0002417",
         "begin": "2015-02-16T15:00:00.000Z",
         "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11447",
+        "begin": "2014-09-30T01:00:00.000Z",
+        "broadcast": "R/2014-09-30T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -626,6 +656,12 @@
         "id": "SID0038236",
         "begin": "2018-11-27T03:00:00.000Z",
         "broadcast": "R/2018-11-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23331",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -689,6 +725,61 @@
       "それいけ！アンパンマン ドキンちゃんのドキドキカレンダー",
       "ドキンちゃんのドキドキカレンダー",
       "映画 それいけ！アンパンマン ドキンちゃんのドキドキカレンダー"
+    ]
+  },
+  {
+    "title": "ハローキティの魔法の森のお姫さま",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Hello Kitty魔法森林公主",
+        "凯蒂猫之睡美人",
+        "凯蒂猫之魔法森林的公主"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-07-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-07-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "89696"
+      },
+      {
+        "site": "danime",
+        "id": "25562",
+        "begin": "2023-05-01T01:00:00.000Z",
+        "broadcast": "R/2023-05-01T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1991,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/50227.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/50227t.jpg",
+    "synonyms": [
+      "Hello Kitty and Friends: The Sleeping Princess",
+      "Hello Kitty and The Sleeping Princess",
+      "Hello Kitty e os Seus Amigos - Hello Kitty: A Princesa Adormecida",
+      "Hello Kitty in The Sleeping Princess",
+      "Hello Kitty no Mahou no Mori no Ohime-sama",
+      "Hello Kitty no Mahō no Mori no Ohime-sama",
+      "Hello Kitty y sus Amigos: La Princesa Durmiente",
+      "Hello Kitty: Mahou no Mori no Ohime-sama",
+      "Hello Kitty: The Sleeping Princess",
+      "Sanrio Sekai Meisaku Eigakan Series #6",
+      "サンリオ世界名作映画館シリーズ #6",
+      "ハローキティ 魔法の森のお姫さま",
+      "ハローキティの魔法の森のお姫さま",
+      "ハローキティの魔法の森のお姫様",
+      "ハローキティ魔法の森のお姫さま"
     ]
   }
 ]

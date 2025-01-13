@@ -40,5 +40,51 @@
       "Приключения Гулливера",
       "ガリバーの宇宙旅行"
     ]
+  },
+  {
+    "title": "新宝島",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新宝岛"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1965-01-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1965-01-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "208760"
+      },
+      {
+        "site": "danime",
+        "id": "24074",
+        "begin": "2020-08-14T01:00:00.000Z",
+        "broadcast": "R/2020-08-14T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003100",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1965,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1315/119255.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1315/119255t.jpg",
+    "synonyms": [
+      "New Treasure Island",
+      "新宝島"
+    ]
   }
 ]

@@ -32,6 +32,18 @@
         "id": "SID0013509",
         "begin": "2019-01-24T03:00:00.000Z",
         "broadcast": "R/2019-01-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "172-34",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "21753",
+        "begin": "2017-09-08T01:00:00.000Z",
+        "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -273,6 +285,12 @@
         "id": "3967",
         "begin": "2016-05-06T02:49:00.000Z",
         "broadcast": "R/2016-05-06T02:49:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10059",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -362,6 +380,12 @@
         "id": "SID0042767",
         "begin": "2019-11-30T03:00:00.000Z",
         "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10013",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -474,6 +498,49 @@
       "ドラゴンクエスト ダイの大冒険 ぶちやがれ！！新生6大将軍",
       "ドラゴンクエスト ダイの大冒険 ぶちやぶれ!!新生6大将軍",
       "ドラゴンクエスト　ダイの大冒険　ぶちやぶれ！！新生６大将軍"
+    ]
+  },
+  {
+    "title": "ハローキティのとまった大時計",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大本钟停止之日的凯蒂猫"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "315430"
+      },
+      {
+        "site": "danime",
+        "id": "25487",
+        "begin": "2023-05-01T01:00:00.000Z",
+        "broadcast": "R/2023-05-01T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1992,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/58695.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/58695t.jpg",
+    "synonyms": [
+      "Hello Kitty and Friends: The Day the Big Clock Stopped",
+      "Hello Kitty e os Seus Amigos - Hello Kitty: O Dia em Que o Grande Relógio Parou",
+      "Hello Kitty in The Day the Big Clock Stopped",
+      "Hello Kitty: The Day the Big Clock Stopped",
+      "ハローキティのとまった大時計"
     ]
   }
 ]

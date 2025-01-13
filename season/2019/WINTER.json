@@ -1,5 +1,47 @@
 [
   {
+    "title": "まんなかのりっくん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "正中间的陆君",
+        "正中间的理久君"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.hokto-kinoko.co.jp/kinokolabo/rikkun/",
+    "begin": "2019-04-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-08-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "241044"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5c2b731296ff38314480b5f8"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2019,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/1206/91318.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1206/91318t.jpg",
+    "synonyms": [
+      "Mannaka no Rikkun",
+      "Mannaka no Rikkun@Kintere",
+      "Rikkun in the Middle",
+      "まんなかのりっくん",
+      "まんなかのりっくん＠きんてれ"
+    ]
+  },
+  {
     "title": "えいがのおそ松さん",
     "titleTranslate": {
       "zh-Hans": [
@@ -54,6 +96,12 @@
         "id": "100703",
         "begin": "2021-04-09T04:00:00.000Z",
         "broadcast": "R/2021-04-09T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23186",
+        "begin": "2019-12-31T15:00:00.000Z",
+        "broadcast": "R/2019-12-31T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -224,6 +272,12 @@
         "id": "SID0047099",
         "begin": "2020-04-01T03:00:00.000Z",
         "broadcast": "R/2020-04-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24399",
+        "begin": "2020-12-25T01:00:00.000Z",
+        "broadcast": "R/2020-12-25T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -313,13 +367,21 @@
         "site": "unext",
         "id": "SID0049034",
         "begin": "2022-10-03T15:00:00.000Z",
-        "broadcast": "R/2022-10-03T15:00:00.000Z/P7D"
+        "broadcast": "R/2022-10-03T15:00:00.000Z/P7D",
+        "comment": "トモダチの距離: SID0162701, 社員旅行と願いごと: SID0162702"
       },
       {
         "site": "abema",
         "id": "19-114",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "24120",
+        "begin": "2022-09-01T01:00:00.000Z",
+        "broadcast": "R/2022-09-01T01:00:00.000Z/P7D",
+        "comment": "OAD2: 27543, OAD3: 27544"
       }
     ],
     "animeSeason": {
@@ -410,6 +472,12 @@
         "id": "5-60",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "24395",
+        "begin": "2020-12-25T01:00:00.000Z",
+        "broadcast": "R/2020-12-25T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -482,6 +550,12 @@
         "id": "SID0047101",
         "begin": "2020-04-12T03:00:00.000Z",
         "broadcast": "R/2020-04-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22876",
+        "begin": "2019-07-12T03:00:00.000Z",
+        "broadcast": "R/2019-07-12T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -530,12 +604,6 @@
         "begin": "2019-02-16T04:29:30.000Z"
       },
       {
-        "site": "gamer",
-        "id": "101464",
-        "begin": "2020-07-15T07:00:00.000Z",
-        "broadcast": "R/2020-07-15T07:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0041918",
         "begin": "2019-06-28T03:00:00.000Z",
@@ -544,6 +612,12 @@
       {
         "site": "mikan",
         "id": "1957"
+      },
+      {
+        "site": "danime",
+        "id": "22799",
+        "begin": "2023-03-01T01:00:00.000Z",
+        "broadcast": "R/2023-03-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -591,6 +665,12 @@
         "id": "horamimi2",
         "begin": "2019-04-12T13:30:00.000Z",
         "broadcast": "R/2019-04-12T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22741",
+        "begin": "2019-04-13T03:00:00.000Z",
+        "broadcast": "R/2019-04-13T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -685,6 +765,12 @@
         "id": "r-geass",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27112",
+        "begin": "2024-05-09T15:00:00.000Z",
+        "broadcast": "R/2024-05-09T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -814,12 +900,6 @@
       {
         "site": "bangumi",
         "id": "338474"
-      },
-      {
-        "site": "unext",
-        "id": "SID0044433",
-        "begin": "2023-07-31T15:00:00.000Z",
-        "broadcast": "R/2023-07-31T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -838,6 +918,50 @@
       "Movie: Korasho's Exciting Under-the-Sea Adventure!",
       "映画コラショの海底わくわく大冒険!",
       "映画コラショの海底わくわく大冒険！"
+    ]
+  },
+  {
+    "title": "FINAL FANTASY XV: EPISODE ARDYN – PROLOGUE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "最终幻想15 艾汀篇 - 序章"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.jp.square-enix.com/ff15/dlc/epa/",
+    "begin": "2019-02-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-02-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "282591"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G65PGDE76",
+        "begin": "2019-02-16T21:00:00.000Z",
+        "broadcast": "R/2019-02-16T21:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2019,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1770/103474.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1770/103474t.jpg",
+    "synonyms": [
+      "FINAL FANTASY XV EPISODE ARDYN - PROLOGUE",
+      "FINAL FANTASY XV EPISODE ARDYN -PROLOGUE",
+      "FINAL FANTASY XV: EPISODE ARDYN – PROLOGUE",
+      "Final Fantasy XV Эпизод Ардин — Пролог",
+      "Final Fantasy XV: Episode Ardyn - Prologue - La Chronique D'ardyn",
+      "Final Fantasy XV：王者之劍"
     ]
   },
   {
@@ -890,6 +1014,13 @@
         "id": "SID0039600",
         "begin": "2019-02-12T03:00:00.000Z",
         "broadcast": "R/2019-02-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24217",
+        "begin": "2020-09-01T03:00:00.000Z",
+        "broadcast": "R/2020-09-01T03:00:00.000Z/P7D",
+        "comment": "袋とじver.: 24615"
       }
     ],
     "animeSeason": {
@@ -1065,6 +1196,12 @@
         "id": "SID0039131",
         "begin": "2024-08-01T03:00:00.000Z",
         "broadcast": "R/2024-08-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22541",
+        "begin": "2019-01-14T03:00:00.000Z",
+        "broadcast": "R/2019-01-14T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1187,6 +1324,12 @@
       {
         "site": "mikan",
         "id": "1829"
+      },
+      {
+        "site": "danime",
+        "id": "22540",
+        "begin": "2019-01-12T16:00:00.000Z",
+        "broadcast": "R/2019-01-12T16:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1293,6 +1436,12 @@
       {
         "site": "mikan",
         "id": "1830"
+      },
+      {
+        "site": "danime",
+        "id": "22536",
+        "begin": "2019-01-08T15:00:00.000Z",
+        "broadcast": "R/2019-01-08T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1350,6 +1499,12 @@
       {
         "site": "mikan",
         "id": "1831"
+      },
+      {
+        "site": "danime",
+        "id": "22539",
+        "begin": "2019-01-06T03:00:00.000Z",
+        "broadcast": "R/2019-01-06T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1430,6 +1585,12 @@
       {
         "site": "mikan",
         "id": "1832"
+      },
+      {
+        "site": "danime",
+        "id": "22571",
+        "begin": "2021-05-01T01:00:00.000Z",
+        "broadcast": "R/2021-05-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1507,6 +1668,12 @@
       {
         "site": "mikan",
         "id": "1833"
+      },
+      {
+        "site": "danime",
+        "id": "22572",
+        "begin": "2019-01-08T15:30:00.000Z",
+        "broadcast": "R/2019-01-08T15:30:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1587,6 +1754,12 @@
       {
         "site": "mikan",
         "id": "1834"
+      },
+      {
+        "site": "danime",
+        "id": "22543",
+        "begin": "2019-01-11T15:00:00.000Z",
+        "broadcast": "R/2019-01-11T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1666,6 +1839,12 @@
       {
         "site": "mikan",
         "id": "1835"
+      },
+      {
+        "site": "danime",
+        "id": "22582",
+        "begin": "2019-01-10T21:00:00.000Z",
+        "broadcast": "R/2019-01-10T21:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1805,6 +1984,12 @@
       {
         "site": "mikan",
         "id": "1837"
+      },
+      {
+        "site": "danime",
+        "id": "22547",
+        "begin": "2019-01-09T03:00:00.000Z",
+        "broadcast": "R/2019-01-09T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1909,6 +2094,12 @@
       {
         "site": "mikan",
         "id": "1838"
+      },
+      {
+        "site": "danime",
+        "id": "22568",
+        "begin": "2019-01-16T15:00:00.000Z",
+        "broadcast": "R/2019-01-16T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1978,6 +2169,12 @@
       {
         "site": "mikan",
         "id": "1839"
+      },
+      {
+        "site": "danime",
+        "id": "22567",
+        "begin": "2019-01-15T03:00:00.000Z",
+        "broadcast": "R/2019-01-15T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2034,6 +2231,18 @@
         "id": "kakeguruixx",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27582",
+        "begin": "2024-12-31T15:00:00.000Z",
+        "broadcast": "R/2024-12-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0164444",
+        "begin": "2025-01-01T03:00:00.000Z",
+        "broadcast": "R/2025-01-01T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2113,6 +2322,12 @@
       {
         "site": "mikan",
         "id": "1841"
+      },
+      {
+        "site": "danime",
+        "id": "23614",
+        "begin": "2020-03-28T01:00:00.000Z",
+        "broadcast": "R/2020-03-28T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2179,6 +2394,12 @@
       {
         "site": "mikan",
         "id": "1842"
+      },
+      {
+        "site": "danime",
+        "id": "22867",
+        "begin": "2019-07-01T01:00:00.000Z",
+        "broadcast": "R/2019-07-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2434,6 +2655,12 @@
         "id": "98118",
         "begin": "2019-01-06T16:45:00.000Z",
         "broadcast": "R/2019-01-06T16:45:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22528",
+        "begin": "2019-01-06T15:30:00.000Z",
+        "broadcast": "R/2019-01-06T15:30:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2504,6 +2731,12 @@
       {
         "site": "mikan",
         "id": "1849"
+      },
+      {
+        "site": "danime",
+        "id": "22546",
+        "begin": "2019-04-26T01:00:00.000Z",
+        "broadcast": "R/2019-04-26T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2607,6 +2840,12 @@
       {
         "site": "mikan",
         "id": "1850"
+      },
+      {
+        "site": "danime",
+        "id": "22500",
+        "begin": "2019-01-11T13:00:00.000Z",
+        "broadcast": "R/2019-01-11T13:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2707,6 +2946,12 @@
       {
         "site": "mikan",
         "id": "1880"
+      },
+      {
+        "site": "danime",
+        "id": "22566",
+        "begin": "2019-01-12T13:00:00.000Z",
+        "broadcast": "R/2019-01-12T13:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2781,6 +3026,12 @@
       {
         "site": "mikan",
         "id": "1852"
+      },
+      {
+        "site": "danime",
+        "id": "22537",
+        "begin": "2019-01-09T15:00:00.000Z",
+        "broadcast": "R/2019-01-09T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2846,6 +3097,12 @@
       {
         "site": "mikan",
         "id": "1853"
+      },
+      {
+        "site": "danime",
+        "id": "22569",
+        "begin": "2021-03-26T01:00:00.000Z",
+        "broadcast": "R/2021-03-26T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2927,12 +3184,6 @@
         "begin": "2019-01-14T18:34:58.000Z"
       },
       {
-        "site": "gamer",
-        "id": "101498",
-        "begin": "2019-01-14T18:05:00.000Z",
-        "broadcast": "R/2019-01-14T18:05:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0039227",
         "begin": "2019-01-22T03:00:00.000Z",
@@ -2945,6 +3196,12 @@
       {
         "site": "mikan",
         "id": "1854"
+      },
+      {
+        "site": "danime",
+        "id": "22526",
+        "begin": "2019-01-14T17:55:00.000Z",
+        "broadcast": "R/2019-01-14T17:55:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3029,6 +3286,12 @@
         "id": "102418",
         "begin": "2024-06-07T04:00:00.000Z",
         "broadcast": "R/2024-06-07T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22545",
+        "begin": "2019-01-13T13:00:00.000Z",
+        "broadcast": "R/2019-01-13T13:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3093,6 +3356,12 @@
       {
         "site": "mikan",
         "id": "1856"
+      },
+      {
+        "site": "danime",
+        "id": "22570",
+        "begin": "2019-01-09T03:00:00.000Z",
+        "broadcast": "R/2019-01-09T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3449,6 +3718,12 @@
       {
         "site": "mikan",
         "id": "1859"
+      },
+      {
+        "site": "danime",
+        "id": "25302",
+        "begin": "2022-03-08T01:00:00.000Z",
+        "broadcast": "R/2022-03-08T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3512,6 +3787,12 @@
         "id": "SID0041169",
         "begin": "2024-11-12T03:00:00.000Z",
         "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22647",
+        "begin": "2019-03-08T01:00:00.000Z",
+        "broadcast": "R/2019-03-08T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3569,6 +3850,12 @@
       {
         "site": "mikan",
         "id": "1866"
+      },
+      {
+        "site": "danime",
+        "id": "22573",
+        "begin": "2019-01-09T15:30:00.000Z",
+        "broadcast": "R/2019-01-09T15:30:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3608,16 +3895,16 @@
         "id": "273517"
       },
       {
-        "site": "nicovideo",
-        "id": "morikawa",
-        "begin": "2016-10-02T16:30:00.000Z",
-        "broadcast": "R/2016-10-02T16:30:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0056906",
         "begin": "2021-05-23T03:00:00.000Z",
         "broadcast": "R/2021-05-23T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22670",
+        "begin": "2019-04-01T01:00:00.000Z",
+        "broadcast": "R/2019-04-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3670,6 +3957,12 @@
       {
         "site": "mikan",
         "id": "1862"
+      },
+      {
+        "site": "danime",
+        "id": "22584",
+        "begin": "2021-12-01T01:00:00.000Z",
+        "broadcast": "R/2021-12-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3730,6 +4023,12 @@
       {
         "site": "mikan",
         "id": "1879"
+      },
+      {
+        "site": "danime",
+        "id": "22599",
+        "begin": "2019-02-02T03:00:00.000Z",
+        "broadcast": "R/2019-02-02T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3849,6 +4148,12 @@
       {
         "site": "mikan",
         "id": "1871"
+      },
+      {
+        "site": "danime",
+        "id": "24773",
+        "begin": "2021-06-11T01:00:00.000Z",
+        "broadcast": "R/2021-06-11T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3909,6 +4214,12 @@
       {
         "site": "mikan",
         "id": "1960"
+      },
+      {
+        "site": "danime",
+        "id": "23985",
+        "begin": "2020-07-24T01:00:00.000Z",
+        "broadcast": "R/2020-07-24T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3962,6 +4273,12 @@
         "id": "SID0066106",
         "begin": "2022-04-21T03:00:00.000Z",
         "broadcast": "R/2022-04-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25673",
+        "begin": "2022-06-27T01:00:00.000Z",
+        "broadcast": "R/2022-06-27T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3985,6 +4302,100 @@
       "白蛇: 缘起",
       "白蛇：縁起",
       "白蛇：缘起"
+    ]
+  },
+  {
+    "title": "エロマンガ先生 OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "埃罗芒阿老师 OVA",
+        "情色漫画老师 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://eromanga-sensei.com/bd-dvd/ova.html",
+    "begin": "2019-01-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-01-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "229795"
+      },
+      {
+        "site": "mikan",
+        "id": "1881"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2019,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/1582/96343.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1582/96343t.jpg",
+    "synonyms": [
+      "Ero Manga Sensei",
+      "Ero Manga Sensei: Imouto to Akazu no Ma OVA",
+      "Eromanga Sensei OVA",
+      "Eromanga-sensei (2019)",
+      "erosen ova",
+      "エロマンガ先生 OVA",
+      "エロマンガ先生 （2019）",
+      "埃罗芒阿老师 OVA",
+      "情色漫畫老師",
+      "에로망가 선생 OVA"
+    ]
+  },
+  {
+    "title": "おしりたんてい(第2シリーズ)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "屁屁侦探 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.oshiri-tantei.com/",
+    "begin": "2018-11-30T16:00:00.000Z",
+    "broadcast": "R/2018-11-30T16:00:00.000Z/P7D",
+    "end": "2019-03-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "303877"
+      },
+      {
+        "site": "danime",
+        "id": "25654",
+        "begin": "2022-07-01T01:00:00.000Z",
+        "broadcast": "R/2022-07-01T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2019,
+      "month": "12"
+    },
+    "status": "FINISHED",
+    "episodes": 16,
+    "picture": "https://cdn.myanimelist.net/images/anime/1485/107369.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1485/107369t.jpg",
+    "synonyms": [
+      "Butt Detective",
+      "Butt Detective (2018)",
+      "Butt Detective 2",
+      "Butt Detective 2nd Season",
+      "Oshiri Tantei (2018)",
+      "Oshiri Tantei 2",
+      "おしりたんてい",
+      "おしりたんてい (第2シリーズ)",
+      "おしりたんてい(第2シリーズ)"
     ]
   },
   {
@@ -4018,6 +4429,13 @@
         "begin": "2022-01-28T03:00:00.000Z",
         "broadcast": "R/2022-01-28T03:00:00.000Z/P7D",
         "comment": "第二弾: SID0063521, 第三弾: SID0075199"
+      },
+      {
+        "site": "danime",
+        "id": "25267",
+        "begin": "2022-01-28T03:00:00.000Z",
+        "broadcast": "R/2022-01-28T03:00:00.000Z/P7D",
+        "comment": "第二弾: 25278, 第三弾: 26659"
       }
     ],
     "animeSeason": {
@@ -4045,6 +4463,9 @@
         "B-PROJECT～鼓动＊Ambitious～"
       ],
       "zh-Hant": [
+        "B-PROJECT"
+      ],
+      "en": [
         "B-PROJECT"
       ]
     },
@@ -4092,6 +4513,18 @@
       {
         "site": "mikan",
         "id": "757"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GRGGPG53R",
+        "begin": "2023-10-02T17:00:00.000Z",
+        "broadcast": "R/2023-10-02T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21001",
+        "begin": "2016-07-08T03:00:00.000Z",
+        "broadcast": "R/2016-07-08T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4152,6 +4585,12 @@
         "id": "SID0002386",
         "begin": "2015-02-16T15:00:00.000Z",
         "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10920",
+        "begin": "2013-08-02T01:00:00.000Z",
+        "broadcast": "R/2013-08-02T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {

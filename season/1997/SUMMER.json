@@ -24,6 +24,12 @@
         "id": "SID0002734",
         "begin": "2022-10-31T03:00:00.000Z",
         "broadcast": "R/2022-10-31T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11214",
+        "begin": "2017-11-24T01:00:00.000Z",
+        "broadcast": "R/2017-11-24T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -73,6 +79,12 @@
         "id": "SID0011289",
         "begin": "2019-11-19T03:00:00.000Z",
         "broadcast": "R/2019-11-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11408",
+        "begin": "2014-08-08T01:00:00.000Z",
+        "broadcast": "R/2014-08-08T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -127,6 +139,18 @@
         "id": "SID0002947",
         "begin": "2019-02-28T03:00:00.000Z",
         "broadcast": "R/2019-02-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "172-16",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "21771",
+        "begin": "2017-09-08T01:00:00.000Z",
+        "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -268,6 +292,12 @@
         "id": "4040",
         "begin": "2016-05-24T02:33:00.000Z",
         "broadcast": "R/2016-05-24T02:33:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24575",
+        "begin": "2021-03-26T01:00:00.000Z",
+        "broadcast": "R/2021-03-26T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -424,6 +454,12 @@
         "id": "SID0003095",
         "begin": "2015-02-16T15:00:00.000Z",
         "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24693",
+        "begin": "2022-06-15T01:00:00.000Z",
+        "broadcast": "R/2022-06-15T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -568,6 +604,12 @@
         "id": "SID0042603",
         "begin": "2024-08-19T03:00:00.000Z",
         "broadcast": "R/2024-08-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27262",
+        "begin": "2024-08-18T15:00:00.000Z",
+        "broadcast": "R/2024-08-18T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -674,6 +716,12 @@
         "id": "SID0003274",
         "begin": "2022-10-31T03:00:00.000Z",
         "broadcast": "R/2022-10-31T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11042",
+        "begin": "2013-11-01T01:00:00.000Z",
+        "broadcast": "R/2013-11-01T01:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -735,6 +783,52 @@
       "それいけ! アンパンマン ぼくらはヒーロー",
       "それいけ！アンパンマン ぼくらはヒーロー",
       "映画 それいけ! アンパンマン ぼくらはヒーロー"
+    ]
+  },
+  {
+    "title": "忍ペンまん丸",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者企鹅"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-07-04T16:00:00.000Z",
+    "broadcast": "R/1997-07-04T16:00:00.000Z/P7D",
+    "end": "1998-03-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "490433"
+      },
+      {
+        "site": "danime",
+        "id": "23403",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004901",
+        "begin": "2016-02-18T15:00:00.000Z",
+        "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 1997,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 30,
+    "picture": "https://cdn.myanimelist.net/images/anime/4/66675.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/4/66675t.jpg",
+    "synonyms": [
+      "Manmaru the Ninja Penguin",
+      "忍ペンまん丸"
     ]
   }
 ]

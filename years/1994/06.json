@@ -73,6 +73,12 @@
         "id": "SID0004929",
         "begin": "2016-03-24T03:00:00.000Z",
         "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10432",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -99,6 +105,52 @@
       "Minky Momo: The Station of Your Memories",
       "Station of Embarkation",
       "The Station of Your Memories"
+    ]
+  },
+  {
+    "title": "マーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "mars"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-06-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1994-06-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37407"
+      },
+      {
+        "site": "danime",
+        "id": "10273",
+        "begin": "2013-06-07T01:00:00.000Z",
+        "broadcast": "R/2013-06-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002869",
+        "begin": "2022-10-27T03:00:00.000Z",
+        "broadcast": "R/2022-10-27T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1994,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/10/29308.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/10/29308t.jpg",
+    "synonyms": [
+      "まーず",
+      "マーズ"
     ]
   }
 ]
