@@ -1,5 +1,46 @@
 [
   {
+    "title": "シンドバッド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "辛巴达",
+        "辛巴达 真昼之夜与不可思议之门"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2016-05-13T16:00:00.000Z",
+    "end": "2016-05-13T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "174533"
+      },
+      {
+        "site": "bilibili",
+        "id": "28233833",
+        "begin": "",
+        "broadcast": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2015,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://simkl.in/posters/12/12253675b3026f1843_m.webp",
+    "thumbnail": "https://simkl.in/posters/12/12253675b3026f1843_m.webp",
+    "synonyms": [
+      "Sinbad",
+      "Sinbad: Soratobu Hime to Himitsu no Shima Pilot",
+      "シンドバッド",
+      "シンドバッド 空とぶ姫と秘密の島"
+    ]
+  },
+  {
     "title": "ARIA The AVVENIRE",
     "titleTranslate": {
       "zh-Hans": [
@@ -205,6 +246,63 @@
       "心が叫びたがってるんだ。",
       "心灵想要大声呼喊。",
       "마음이 외치고 싶어해"
+    ]
+  },
+  {
+    "title": "暁のヨナ OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "拂晓的尤娜 OAD",
+        "晨曦公主 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2015-09-18T16:00:00.000Z",
+    "end": "2016-12-20T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "129014"
+      },
+      {
+        "site": "bilibili",
+        "id": "3523",
+        "begin": "2015-09-17T16:00:00.000Z",
+        "broadcast": "R/2016-04-25T06:08:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2015,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 3,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/75974.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/75974t.jpg",
+    "synonyms": [
+      "AkaYona OVA",
+      "Akatsuki no Yona",
+      "Akatsuki no Yona (2015)",
+      "Akatsuki no Yona: Sono Se ni wa",
+      "Akatsuki no Yona: Zeno Hen",
+      "Akatsuki no Yona: Zeno-hen",
+      "Yona of the Dawn (2015)",
+      "Yona of the Dawn OVA",
+      "Yona: The girl standing in the blush of dawn",
+      "yotd OVA",
+      "Ёна на заре",
+      "Йона на заре",
+      "Рассвет Йоны",
+      "あかつきのよな",
+      "拂晓的尤娜 OAD",
+      "暁のヨナ",
+      "暁のヨナ (2015)",
+      "暁のヨナ OAD",
+      "暁のヨナ OVA",
+      "暁のヨナ その背には"
     ]
   },
   {
@@ -521,6 +619,7 @@
       "Gekijouban Naruto (2015)",
       "Naruto the Movie: Boruto",
       "ぼるとなるとざむーびー",
+      "劇場版 NARUTO",
       "火影忍者剧场版"
     ]
   },
@@ -1288,20 +1387,24 @@
       "Brama: Jak rozpętała się wojna międzyświatowa",
       "GATE",
       "GATE 奇幻自卫队",
+      "GATE 自衛隊 彼の地にて",
       "GATE 自衛隊 彼の地にて, 斯く戦えり",
       "GATE 自衛隊 彼の地にて、斯く戦えり",
       "GATE: Jieitai Kanochi nite, Kaku Tatakaeri",
       "GATE（ゲート） 自衛隊 彼の地にて、斯く戦えり",
       "GATE（ゲート）自衛隊　彼の地にて、斯く戦えり",
       "Gate",
+      "Gate - Thus the JSDF Fought There",
       "Gate : Au-delà de la porte",
       "Gate: Au-delà de la Porte",
       "Gate: The SDF Fight Like This in Another Land",
       "Gate: The Self-Defense Forces Fight Like This in Another Land",
       "Gate: Thus the JSDF Fought There",
       "Gate: Thus the JSDF Fought There!",
+      "Kaku Tatakaeri",
       "Врата",
-      "Врата: Там бьются наши воины"
+      "Врата: Там бьются наши воины",
+      "斯く戦えり"
     ]
   },
   {
@@ -1386,6 +1489,7 @@
       "Wooser’s Hand-to-Mouth Life: Phantasmagoric Arc",
       "Wōser no Sono Higurashi Mugen Hen",
       "うーさーのそのひぐらしむげんへん",
+      "うーさーのその日暮らし",
       "うーさーのその日暮らし 夢幻編",
       "兔宝的悲惨日常 梦幻篇"
     ]
@@ -1654,8 +1758,10 @@
       "Miss Monochrome: The Animation - Season 2",
       "Miss Monochrome: The Animation - Staffel 2",
       "Miss Monochrome: The Animation 2",
+      "Miss Monochrone: The Animation 2",
       "Мисс Монохром 2",
       "みすものくろーむじあにめーしょんつー",
+      "ミス・モノクローム -The Animation-",
       "ミス・モノクローム -The Animation- 2",
       "黑白小姐 第二季"
     ]
@@ -1733,8 +1839,10 @@
       "Senki Zesshō Symphogear GX: Believe in Justice and Hold a Determination to Fist.",
       "Symphogear 3",
       "Symphogear GX",
+      "Symphogear GX: Believe in Justice and Hold a Determination to Fist.",
       "Symphogear Season 3",
       "战姬绝唱Symphogear GX",
+      "戦姫絶唱シンフォギア 3",
       "戦姫絶唱シンフォギアGX",
       "戦姫絶唱シンフォギアGX Believe in justice and hold a determination to fist.",
       "전희절창 심포기어 GX: Believe in Justice and Hold a Determination to Fist."
@@ -1911,6 +2019,7 @@
       "SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn’t Exist",
       "ShimoSeka",
       "Shimoneta: A Boring World Where the Concept of \"Dirty Jokes\" Doesn't Exist",
+      "Shimoneta: A Boring World Where the Concept of Dirty Jokes Doesn't Exist",
       "Shimoneta: A Boring World Where the Concept of Dirty Jokes Doesn`t Exist",
       "Shimoneta: A Boring World Where the Concept of Dirty Jokes Doesn’t Exist",
       "Shimoseka",
@@ -2021,6 +2130,7 @@
       "がっちゃまんくらうずいんさいと",
       "ガッチャマン クラウズ インサイト",
       "ガッチャマンクラウズ インサイト",
+      "ガッチャマンクラウズ セカンド",
       "ガッチャマンクラウズ2",
       "科学小飞侠Crowds insight",
       "갓챠맨 크라우즈 Insight"
@@ -2219,6 +2329,76 @@
     ]
   },
   {
+    "title": "VENUS PROJECT",
+    "titleTranslate": {
+      "zh-Hans": [
+        "VENUS PROJECT"
+      ],
+      "en": [
+        "VENUS PROJECT"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://vproject.jp/anime/",
+    "begin": "2015-07-05T13:00:00.000Z",
+    "end": "2015-09-27T13:30:00.000Z",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "2599",
+        "begin": "2015-07-11T16:00:00.000Z",
+        "broadcast": "R/2015-07-18T12:52:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi",
+        "id": "127294"
+      },
+      {
+        "site": "nicovideo",
+        "id": "venus-project-tv",
+        "begin": "2015-07-05T13:30:00.000Z",
+        "broadcast": "R/2015-07-05T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "Venus+Project"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5593f939a0b788232ee35248"
+      },
+      {
+        "site": "mikan",
+        "id": "569"
+      },
+      {
+        "site": "danime",
+        "id": "20221",
+        "begin": "2020-03-06T01:00:00.000Z",
+        "broadcast": "R/2020-03-06T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2015,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/74980.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/74980t.jpg",
+    "synonyms": [
+      "VENUS PROJECT",
+      "VENUS PROJECT -CLIMAX-",
+      "VENUS PROJECT －CLIMAX－",
+      "VENUS PROJECT: CLIMAX",
+      "VENUS PROJECT（ヴィーナス プロジェクト）－CLIMAX－",
+      "Venus Project",
+      "Venus Project -Climax-"
+    ]
+  },
+  {
     "title": "ワカコ酒",
     "titleTranslate": {
       "zh-Hans": [
@@ -2386,6 +2566,7 @@
       "דרגון בול סופר",
       "دراغون بول سوبر",
       "ドラゴンボール超",
+      "ドラゴンボール超[スーパー]",
       "ドラゴンボール超（スーパー）",
       "七龍珠超",
       "龙珠超"
@@ -2439,6 +2620,7 @@
     "picture": "https://cdn.myanimelist.net/images/anime/12/74464.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/12/74464t.jpg",
     "synonyms": [
+      "Darkness Boy Santa",
       "くらやみさんた",
       "暗暗三太",
       "暗闇三太"
@@ -2489,6 +2671,7 @@
       "QTFⅡ",
       "Q版变形金刚 更高人气者之路",
       "きゅーとらんすふぉーまーさらなるにんきものへのみち",
+      "キュートランスフォーマー 2",
       "キュートランスフォーマー さらなる人気者への道",
       "キュートランスフォーマー 帰ってきたコンボイの謎"
     ]
@@ -2567,6 +2750,7 @@
       "Non Non Biyori Second Season",
       "Non Non Biyori: Repeat",
       "nonnonbiyori s2",
+      "のんのんびより 2",
       "のんのんびより りぴーと",
       "悠哉日常 第2季",
       "悠哉日常大王 Repeat",
@@ -2856,6 +3040,7 @@
     "picture": "https://cdn.myanimelist.net/images/anime/8/74042.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/8/74042t.jpg",
     "synonyms": [
+      "Actually",
       "Actually I Am…",
       "Actually, I Am",
       "Actually, I Am...",
@@ -2864,6 +3049,7 @@
       "Actually, I am...",
       "En realidad soy...",
       "En realidad, soy...",
+      "I Am",
       "I am...",
       "In realtà io sono...",
       "Jitsuwata",
@@ -3840,7 +4026,9 @@
       "THE IDOLM@STER シンデレラガールズ (2015)",
       "THE iDOLM@STER シンデレラガールズ 2ndシーズン",
       "The IDOLM@STER Cinderella Girls 2nd Season",
+      "The IDOLM@STER シンデレラガールズ",
       "The Idolmaster Cinderella Girls Second Season",
+      "The Idolmaster: Cinderella Girls",
       "The Idolmaster: Cinderella Girls (2015)",
       "The Idolmaster: Cinderella Girls - Season 2",
       "The Idolmaster: Cinderella Girls 2nd Season",
@@ -3853,6 +4041,7 @@
       "The iDOLM@STER: Cinderella Girls Second Series",
       "imascg2",
       "あいどるますたーしんでれらがーるずせかんどしーずん",
+      "アイドルマスター シンデレラガールズ",
       "アイドルマスター シンデレラガールズ 2nd SEASON",
       "アイドルマスター シンデレラガールズ 2ndシーズン",
       "アイドルマスターシンデレラガールズ 2nd SEASON",
@@ -4027,6 +4216,7 @@
       "Pokemon the Movie XY: Ring no Choumajin Hoopa",
       "Pokemon the Movie XY: The Archdjinni of Rings - Hoopa",
       "Pokemon the Movie: Hoopa and the Clash of Ages",
+      "Pokemon the movie XY 2015",
       "Pokemon: Movie 18",
       "Pokémon 18: Hoopa a střet věků",
       "Pokémon Film 18: Hoopa et Le Choc des Légendes",
@@ -4180,15 +4370,22 @@
     "picture": "https://cdn.myanimelist.net/images/anime/13/75266.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/13/75266t.jpg",
     "synonyms": [
+      "Abe Reiji: Heikinteki na Salaryman no Ijou na Nichijou",
       "Abe Reiji: The Extraordinary Daily Life of an Ordinary Salaryman",
       "Friday Evening",
       "Friday Evening, Abe Reiji: The Extraordinary Daily Life of an Ordinary Salaryman",
+      "Kin'yoru, Abe Reiji",
       "Kin`yoru, Abe Reiji: Heikin-teki Salaryman no Ijouna Nichijou",
+      "Kinyoru",
       "Kinyoru, Abe Reiji",
       "Kinyoru, Abe Reiji: Heikin-teki na Salaryman no Ijou na Nichijou",
       "Kinyoru, Abe Reiji: Heikinteki na Salaryman no Ijō na Nichijō",
       "abekin",
+      "あ",
       "アベキン",
+      "安部礼司",
+      "安部礼司 ~平均的サラリーマンの異常な日常~",
+      "金夜",
       "金夜, 安部礼司 ~平均的サラリーマンの異常な日常~",
       "金夜、 安部礼司",
       "金夜、安部礼司～平均的なサラリーマンの異常な日常～"
@@ -4333,14 +4530,12 @@
     },
     "status": "FINISHED",
     "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/9/76690.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/76690t.jpg",
+    "picture": "https://simkl.in/posters/12/12253675b3026f1843_m.webp",
+    "thumbnail": "https://simkl.in/posters/12/12253675b3026f1843_m.webp",
     "synonyms": [
-      "Die Abenteuer des jungen Sinbad – Movie 1: Die Prinzessin auf dem fliegenden Pferd",
-      "Sinbad: A Flying Princess and a Secret Island",
-      "Sinbad: Sora Tobu Hime to Himitsu no Shima",
-      "Sinbad: The Flying Princess and the Secret Island",
-      "Sindbad: The Flying Princess and the Secret Island",
+      "Sinbad",
+      "Sinbad: Soratobu Hime to Himitsu no Shima Pilot",
+      "シンドバッド",
       "シンドバッド 空とぶ姫と秘密の島"
     ]
   },
@@ -4401,8 +4596,295 @@
       "QTFⅡ",
       "Q版变形金刚 更高人气者之路",
       "きゅーとらんすふぉーまーさらなるにんきものへのみち",
+      "キュートランスフォーマー 2",
       "キュートランスフォーマー さらなる人気者への道",
       "キュートランスフォーマー 帰ってきたコンボイの謎"
+    ]
+  },
+  {
+    "title": "アイドルマスター シンデレラガールズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像大师 灰姑娘女孩"
+      ],
+      "en": [
+        "THE IDOLM@STER CINDERELLA GIRLS"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://imas-cinderella.com/",
+    "begin": "2015-01-09T15:00:00.000Z",
+    "end": "2015-04-10T15:30:00.000Z",
+    "sites": [
+      {
+        "site": "mgtv",
+        "id": "291091",
+        "begin": "2015-01-09T16:30:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhay5rp",
+        "begin": "2015-01-09T16:30:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "w/wgzklo5zkrgalda",
+        "begin": "2015-01-09T16:30:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "1e13314abec311e38b3f",
+        "begin": "2015-01-09T16:30:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "1509",
+        "begin": "2015-01-09T16:30:00.000Z",
+        "broadcast": "R/2015-01-09T16:30:00.000Z/P7D",
+        "comment": "OVA: 3787"
+      },
+      {
+        "site": "bangumi",
+        "id": "101399"
+      },
+      {
+        "site": "acfun",
+        "id": "6000813",
+        "begin": "2019-12-12T06:14:43.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017836",
+        "begin": "2021-05-29T03:00:00.000Z",
+        "broadcast": "R/2021-05-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "娘女孩|Cinderella"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "54998c6fc8b118cf40b274f7"
+      },
+      {
+        "site": "mikan",
+        "id": "448"
+      },
+      {
+        "site": "danime",
+        "id": "21598",
+        "begin": "2017-04-21T01:00:00.000Z",
+        "broadcast": "R/2017-04-21T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2015,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/75120.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/75120t.jpg",
+    "synonyms": [
+      "Idolmaster: Cinderella Girls Second Series",
+      "THE IDOLM@STER CINDERELLA GIRLS",
+      "THE IDOLM@STER CINDERELLA GIRLS 2nd SEASON",
+      "THE IDOLM@STER CINDERELLA GIRLS 2nd シーズン",
+      "THE IDOLM@STER Cinderella Girls 2nd SEASON",
+      "THE IDOLM@STER シンデレラガールズ (2015)",
+      "THE iDOLM@STER シンデレラガールズ 2ndシーズン",
+      "The IDOLM@STER Cinderella Girls 2nd Season",
+      "The IDOLM@STER シンデレラガールズ",
+      "The Idolmaster Cinderella Girls Second Season",
+      "The Idolmaster: Cinderella Girls",
+      "The Idolmaster: Cinderella Girls (2015)",
+      "The Idolmaster: Cinderella Girls - Season 2",
+      "The Idolmaster: Cinderella Girls 2nd Season",
+      "The iDOLM@STER Cinderella Girls (Saison 2)",
+      "The iDOLM@STER Cinderella Girls (Staffel 2)",
+      "The iDOLM@STER Cinderella Girls 2",
+      "The iDOLM@STER: Cinderella Girls 2",
+      "The iDOLM@STER: Cinderella Girls 2nd Season",
+      "The iDOLM@STER: Cinderella Girls Second Season",
+      "The iDOLM@STER: Cinderella Girls Second Series",
+      "imascg2",
+      "あいどるますたーしんでれらがーるずせかんどしーずん",
+      "アイドルマスター シンデレラガールズ",
+      "アイドルマスター シンデレラガールズ 2nd SEASON",
+      "アイドルマスター シンデレラガールズ 2ndシーズン",
+      "アイドルマスターシンデレラガールズ 2nd SEASON",
+      "偶像大师 灰姑娘女孩 第2期"
+    ]
+  },
+  {
+    "title": "ミス・モノクローム -The Animation-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "黑白小姐",
+        "单色小姐"
+      ],
+      "en": [
+        "Miss Monochrome -The Animation-"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.starchild.co.jp/special/miss_monochrome_anime/",
+    "begin": "2013-10-01T16:35:00.000Z",
+    "end": "2013-12-24T16:40:00.000Z",
+    "sites": [
+      {
+        "site": "youku",
+        "id": "36d97dec03e811e38b3f",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "v/v3ahv9tmgwosl37",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "80778"
+      },
+      {
+        "site": "nicovideo",
+        "id": "miss-monochrome",
+        "begin": "2013-10-01T16:40:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002886",
+        "begin": "2019-10-10T03:00:00.000Z",
+        "broadcast": "R/2019-10-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "白小|Monochrome"
+      },
+      {
+        "site": "mikan",
+        "id": "218"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GRE5M2GX6",
+        "begin": "2013-09-30T16:05:34.000Z",
+        "broadcast": "R/2013-09-30T16:05:34.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11019",
+        "begin": "2013-10-23T03:00:00.000Z",
+        "broadcast": "R/2013-10-23T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2015,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/3/75014.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/3/75014t.jpg",
+    "synonyms": [
+      "Miss Monochrome - The Animation - 2",
+      "Miss Monochrome - The Animation 2",
+      "Miss Monochrome -The Animation- 2",
+      "Miss Monochrome 2",
+      "Miss Monochrome : The Animation 2",
+      "Miss Monochrome Second Season",
+      "Miss Monochrome: The Animation - Season 2",
+      "Miss Monochrome: The Animation - Staffel 2",
+      "Miss Monochrome: The Animation 2",
+      "Miss Monochrone: The Animation 2",
+      "Мисс Монохром 2",
+      "みすものくろーむじあにめーしょんつー",
+      "ミス・モノクローム -The Animation-",
+      "ミス・モノクローム -The Animation- 2",
+      "黑白小姐 第二季"
+    ]
+  },
+  {
+    "title": "うーさーのその日暮らし",
+    "titleTranslate": {
+      "en": [
+        "wooser's hand-to-mouth life"
+      ],
+      "zh-Hans": [
+        "兔宝的悲惨日常",
+        "乌瑟的穷困生活",
+        "乌瑟的贫困生活"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://wooser.tv/",
+    "begin": "2012-10-02T16:35:00.000Z",
+    "end": "2012-12-18T16:50:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "48037"
+      },
+      {
+        "site": "nicovideo",
+        "id": "wooser",
+        "begin": "2012-09-25T03:00:00.000Z",
+        "broadcast": "R/2012-09-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "235",
+        "begin": "2012-10-01T16:00:00.000Z",
+        "broadcast": "R/2012-10-03T01:56:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017595",
+        "begin": "2020-06-01T03:00:00.000Z",
+        "broadcast": "R/2020-06-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYX0M3J7R",
+        "begin": "2012-10-03T08:35:00.000Z",
+        "broadcast": "R/2012-10-03T08:35:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11540",
+        "begin": "2015-01-16T01:00:00.000Z",
+        "broadcast": "R/2015-01-16T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2015,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/8/75011.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/8/75011t.jpg",
+    "synonyms": [
+      "Project Wooser 3",
+      "Wooser no Sono Higurashi 3",
+      "Wooser no Sono Higurashi Mugen Hen",
+      "Wooser no Sono Higurashi Third Season",
+      "Wooser no Sono Higurashi: Arco fantasmagórico",
+      "Wooser no Sono Higurashi: Mugen Hen",
+      "Wooser's Hand-to-Mouth Life: Phantasmagoric Arc",
+      "Wooser`s Hand-to-Mouth Life: Phantasmagoric Arc",
+      "Wooser’s Hand-to-Mouth Life: Phantasmagoric Arc",
+      "Wōser no Sono Higurashi Mugen Hen",
+      "うーさーのそのひぐらしむげんへん",
+      "うーさーのその日暮らし",
+      "うーさーのその日暮らし 夢幻編",
+      "兔宝的悲惨日常 梦幻篇"
     ]
   },
   {

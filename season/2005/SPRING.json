@@ -250,6 +250,7 @@
       "Mobile Suit Z Gundam I: A New Translation - Eredi delle stelle",
       "Mobile Suit Zeta Gundam I",
       "Mobile Suit Zeta Gundam: A New Translation - Heir to the Stars",
+      "Mobile Suit Zeta Gundam: A New Translation -Heir to the Stars-",
       "Mobile Suit Zeta Gundam: A New Translation -Heirs to the Stars-",
       "Mobile Suit Zeta Gundam: A New Translation I - Heir to the Stars",
       "โมบิลสูท Z กันดั้ม ภาค 1 ตอน ผู้สืบทอดแห่งดวงดาว",
@@ -441,6 +442,7 @@
     "synonyms": [
       "Emma",
       "Emma - Eine viktorianische Liebe",
+      "Emma - Un romance de época",
       "Emma - Una storia romantica",
       "Emma Un Romance Victoriano",
       "Emma: A Victorian Romance",
@@ -958,6 +960,7 @@
       "こみっくぱーてぃーれぼりゅーしょん",
       "こみっくパーティー Revolution",
       "こみっくパーティー Revolution （2005）",
+      "こみっくパーティーRevolution",
       "こみっくパーティーRevolution (2005)",
       "漫画同人会"
     ]
@@ -1645,6 +1648,76 @@
     ]
   },
   {
+    "title": "ドラえもん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-asahi.co.jp/doraemon/",
+    "begin": "2005-04-15T10:00:00.000Z",
+    "broadcast": "R/2019-10-05T08:00:00.000Z/P7D",
+    "end": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "18692"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228115",
+        "begin": "2020-03-07T05:16:00.000Z",
+        "broadcast": "R/2020-03-07T05:16:00.000Z/P7D",
+        "comment": "第二季: 28228116, 第三季: 28228117, 第四季: 28338738"
+      },
+      {
+        "site": "abema",
+        "id": "35-53",
+        "begin": "",
+        "broadcast": "",
+        "comment": "ドラえもん: 87-1084"
+      },
+      {
+        "site": "unext",
+        "id": "SID0076016",
+        "begin": "2022-12-14T15:00:00.000Z",
+        "broadcast": "R/2022-12-14T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "681"
+      },
+      {
+        "site": "gamer",
+        "id": "140603",
+        "begin": "2024-08-01T02:00:00.000Z",
+        "broadcast": "R/2024-08-01T02:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2005,
+      "month": "04"
+    },
+    "status": "ONGOING",
+    "episodes": 837,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/23935.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/23935t.jpg",
+    "synonyms": [
+      "Doraemon",
+      "Doraemon: Gadget Cat from the Future",
+      "NEW Doraemon",
+      "NEW TV版 ドラえもん",
+      "ドラえもん",
+      "ドラえもん (2005)",
+      "ドラえもん （2005）",
+      "哆啦A梦",
+      "新ドラえもん"
+    ]
+  },
+  {
     "title": "名探偵コナン 水平線上の陰謀",
     "titleTranslate": {
       "zh-Hans": [
@@ -1833,6 +1906,57 @@
       "ガラスの仮面 (2005)",
       "ガラスの仮面 （2005）",
       "玻璃假面"
+    ]
+  },
+  {
+    "title": "ドラえもん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦",
+        "哆啦A梦 大山版",
+        "哆啦A梦 第2季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-asahi.co.jp/doraemon/",
+    "begin": "1979-04-02T10:00:00.000Z",
+    "end": "2005-03-25T10:30:00.000Z",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb2ai5",
+        "begin": "2015-06-30T07:36:59.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "j/jxj5pth9h3a71sg",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "37460"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2005,
+      "month": "04"
+    },
+    "status": "ONGOING",
+    "episodes": 837,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/23935.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/23935t.jpg",
+    "synonyms": [
+      "Doraemon",
+      "Doraemon: Gadget Cat from the Future",
+      "NEW Doraemon",
+      "NEW TV版 ドラえもん",
+      "ドラえもん",
+      "ドラえもん (2005)",
+      "ドラえもん （2005）",
+      "哆啦A梦",
+      "新ドラえもん"
     ]
   }
 ]
