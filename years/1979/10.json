@@ -28,12 +28,6 @@
         "begin": ""
       },
       {
-        "site": "unext",
-        "id": "SID0011731",
-        "begin": "2016-03-24T03:00:00.000Z",
-        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
-      },
-      {
         "site": "danime",
         "id": "10307",
         "begin": "2012-06-26T15:00:00.000Z",
@@ -116,6 +110,12 @@
         "id": "23294",
         "begin": "2020-02-07T01:00:00.000Z",
         "broadcast": "R/2020-02-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-209",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -350,6 +350,48 @@
       "Winds of Change: Five Ancient Greek Myths",
       "Звездный Орфей",
       "星のオルフェウス"
+    ]
+  },
+  {
+    "title": "宇宙戦艦ヤマトII ヤマトよ永遠なれ!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰大和号2 大和号永恒不灭"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1979-10-05T15:00:00.000Z",
+    "broadcast": "R/1979-10-05T15:00:00.000Z/P7D",
+    "end": "1979-10-05T15:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "511876"
+      },
+      {
+        "site": "unext",
+        "id": "SID0174170",
+        "begin": "2025-04-04T03:00:00.000Z",
+        "broadcast": "R/2025-04-04T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 1979,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1109/131935.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1109/131935t.jpg",
+    "synonyms": [
+      "Star Blazers: The Comet Empire - Yamato yo Eien Nare",
+      "Yamato 2 Complete Edition",
+      "Yamato 2 TV Special, Yamato 2 Compilation Movie",
+      "宇宙戦艦ヤマトII ヤマトよ永遠なれ!"
     ]
   }
 ]

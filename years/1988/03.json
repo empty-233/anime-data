@@ -101,9 +101,15 @@
       },
       {
         "site": "prime",
-        "id": "B01JY07KG8",
+        "id": "B0DZY6M1H8",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26209",
+        "begin": "2025-04-10T15:00:00.000Z",
+        "broadcast": "R/2025-04-10T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -463,6 +469,44 @@
       "Amazing-man: The First Holy Demon War",
       "Bikkuriman: Daīchiji Seima Taisen",
       "ビックリマン 第一次聖魔大戦"
+    ]
+  },
+  {
+    "title": "つるピカハゲ丸くん",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-03-02T16:00:00.000Z",
+    "broadcast": "R/1988-03-02T16:00:00.000Z/P7D",
+    "end": "1989-10-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "188450"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004811",
+        "begin": "2025-03-01T03:00:00.000Z",
+        "broadcast": "R/2025-03-01T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 1988,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 59,
+    "picture": "https://cdn.myanimelist.net/images/anime/1354/124736.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1354/124736t.jpg",
+    "synonyms": [
+      "Little Baldy Hagemaru",
+      "Tsurupika Hagemaru",
+      "つるピカハゲ丸",
+      "つるピカハゲ丸くん"
     ]
   }
 ]

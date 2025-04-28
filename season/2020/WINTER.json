@@ -94,12 +94,6 @@
         "broadcast": ""
       },
       {
-        "site": "unext",
-        "id": "SID0047510",
-        "begin": "2024-02-01T03:00:00.000Z",
-        "broadcast": "R/2024-02-01T03:00:00.000Z/P7D"
-      },
-      {
         "site": "mikan",
         "id": "2166"
       },
@@ -421,12 +415,6 @@
         "id": "2159"
       },
       {
-        "site": "abema",
-        "id": "5-61",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "25011",
         "begin": "2021-09-24T01:00:00.000Z",
@@ -492,22 +480,10 @@
         "broadcast": "R/2020-09-24T15:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "104689",
-        "begin": "2020-07-30T03:00:00.000Z",
-        "broadcast": "R/2020-07-30T03:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0051713",
         "begin": "2020-09-24T15:00:00.000Z",
         "broadcast": "R/2020-09-24T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "104689",
-        "begin": "2020-07-30T03:00:00.000Z",
-        "broadcast": "R/2020-07-30T03:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -1043,6 +1019,12 @@
         "id": "PL12UaAf_xzfpW8hJ2eMGrJZpLSP3SSN2W",
         "begin": "2021-02-06T14:00:11.000Z",
         "broadcast": "R/2021-02-06T14:00:11.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-137",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -1498,6 +1480,18 @@
         "id": "23168",
         "begin": "2020-01-14T15:00:00.000Z",
         "broadcast": "R/2020-01-14T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "95849",
+        "begin": "2025-03-05T04:00:00.000Z",
+        "broadcast": "R/2025-03-05T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "95849",
+        "begin": "2025-03-05T04:00:00.000Z",
+        "broadcast": "R/2025-03-05T04:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1733,6 +1727,18 @@
         "id": "23164",
         "begin": "2021-08-06T01:00:00.000Z",
         "broadcast": "R/2021-08-06T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "106365",
+        "begin": "2025-04-08T04:00:00.000Z",
+        "broadcast": "R/2025-04-08T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "106365",
+        "begin": "2025-04-08T04:00:00.000Z",
+        "broadcast": "R/2025-04-08T04:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2751,12 +2757,6 @@
         "begin": "2020-01-10T18:55:00.000Z"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcgoBOsT8lFRygyPf6Lw8Kfs",
-        "begin": "2020-02-05T16:00:00.000Z",
-        "broadcast": "R/2020-02-05T16:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0045118",
         "begin": "2020-01-10T17:55:00.000Z",
@@ -3086,7 +3086,11 @@
         "奇幻怪盗"
       ],
       "zh-Hant": [
-        "奇幻怪盜 Hatena☆Illusion"
+        "奇幻怪盜 Hatena☆Illusion",
+        "奇幻☆怪盜"
+      ],
+      "en": [
+        "Hatena☆Illusion"
       ]
     },
     "type": "tv",
@@ -3141,6 +3145,12 @@
         "id": "24542",
         "begin": "2021-03-01T01:00:00.000Z",
         "broadcast": "R/2021-03-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JieiQq5VMZ5Wm4koDmhwUZw",
+        "begin": "2025-04-06T12:30:07.000Z",
+        "broadcast": "R/2025-04-06T12:30:07.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3506,6 +3516,12 @@
         "id": "PL12UaAf_xzfouRj21hwhi4aNO4_rcHfF2",
         "begin": "2024-09-24T13:00:22.000Z",
         "broadcast": "R/2024-09-24T13:00:22.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Uch8oRZUyhe6qCWwXaU2Tmie",
+        "begin": "2025-02-23T13:30:06.000Z",
+        "broadcast": "R/2025-02-23T13:30:06.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3630,6 +3646,18 @@
       {
         "site": "mikan",
         "id": "2151"
+      },
+      {
+        "site": "abema",
+        "id": "19-256",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27896",
+        "begin": "2025-04-06T15:00:00.000Z",
+        "broadcast": "R/2025-04-06T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3837,7 +3865,7 @@
       },
       {
         "site": "prime",
-        "id": "B08FXQMFYB",
+        "id": "B0DHFXQYLM",
         "begin": "",
         "broadcast": ""
       }
@@ -4554,12 +4582,6 @@
         "broadcast": "R/2019-10-04T03:00:00.000Z/P7D"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7Ucgbi0MaI5QMNmVDmXE17rGg",
-        "begin": "2020-02-13T16:00:00.000Z",
-        "broadcast": "R/2020-02-13T16:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0043341",
         "begin": "2019-10-04T03:00:00.000Z",
@@ -4582,12 +4604,6 @@
         "id": "22981",
         "begin": "2019-10-04T03:00:00.000Z",
         "broadcast": "R/2019-10-04T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfp912h6a5vC7XcKYlwtWHzS",
-        "begin": "",
-        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -4838,7 +4854,7 @@
       },
       {
         "site": "prime",
-        "id": "B0CLD2DC9T",
+        "id": "B0DTJD3Z48",
         "begin": "",
         "broadcast": ""
       }

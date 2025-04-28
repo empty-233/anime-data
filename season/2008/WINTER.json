@@ -19,7 +19,8 @@
       {
         "site": "nicovideo",
         "id": "busgamer",
-        "begin": "2017-04-07T06:00:00.000Z"
+        "begin": "2017-04-07T06:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "unext",
@@ -168,7 +169,8 @@
       {
         "site": "nicovideo",
         "id": "hokuto-no-ken",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "unext",
@@ -181,6 +183,12 @@
         "id": "10477",
         "begin": "2012-06-26T15:00:00.000Z",
         "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "709-4",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -1326,6 +1334,12 @@
         "id": "SID0002288",
         "begin": "2015-02-16T15:00:00.000Z",
         "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27712",
+        "begin": "2025-03-06T15:00:00.000Z",
+        "broadcast": "R/2025-03-06T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {

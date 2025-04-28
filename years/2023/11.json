@@ -270,8 +270,6 @@
       "Kay's Daily Doodles: Hard at Work",
       "Kay's Daily Doodles: The Metal Crab and the Spiral Conch",
       "Xiaoke de Huatu Xie Hua: Pan Xie Yu Luo",
-      "《小刻的画图写话》——磐蟹与螺",
-      "「ケーちゃんの絵日記」ハガネガニと渦貝",
       "小刻的画图写话"
     ]
   },
@@ -405,6 +403,12 @@
         "id": "SID0102365",
         "begin": "2024-05-25T15:00:00.000Z",
         "broadcast": "R/2024-05-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27699",
+        "begin": "2025-02-25T15:00:00.000Z",
+        "broadcast": "R/2025-02-25T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -582,6 +586,24 @@
       {
         "site": "mikan",
         "id": "3276"
+      },
+      {
+        "site": "nicovideo",
+        "id": "welcome-komada",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27704",
+        "begin": "2025-02-28T15:00:00.000Z",
+        "broadcast": "R/2025-02-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CV3Z98HN",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -693,6 +715,63 @@
       "あんさんぶるスターズ!! 追憶セレクション「クロスロード」",
       "あんさんぶるスターズ！！追憶セレクション「クロスロード」",
       "あんさんぶるスターズ！！追憶セレクション『クロスロード』"
+    ]
+  },
+  {
+    "title": "劇場版 ポールプリンセス!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 钢管舞公主!!"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://poleprincess.jp/",
+    "begin": "2023-11-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-11-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "427360"
+      },
+      {
+        "site": "unext",
+        "id": "SID0172572",
+        "begin": "2025-03-08T03:00:00.000Z",
+        "broadcast": "R/2025-03-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27703",
+        "begin": "2025-03-01T09:00:00.000Z",
+        "broadcast": "R/2025-03-01T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CH3WCXFG",
+        "begin": "",
+        "broadcast": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2023,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1213/138485.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1213/138485t.jpg",
+    "synonyms": [
+      "Gekijouban Pole Princess!!",
+      "Gekijōban Pole Princess!!",
+      "PolPri Movie",
+      "ポルプリ",
+      "劇場版 ポールプリンセス!!",
+      "劇場版 ポールプリンセス！！",
+      "극장판 폴 프린세스!!"
     ]
   }
 ]

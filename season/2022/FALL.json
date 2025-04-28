@@ -167,6 +167,7 @@
     "synonyms": [
       "Eiga Kaiketsu Zorori: Lalala Star Tanjou",
       "Eiga Kaiketsu Zorori: Lalala Star Tanjō",
+      "Eiga Kaiketsu Zorori: Lalala♪ Star Tanjou",
       "Kaiketsu Zorori Movie 6",
       "Kaiketsu Zorori Movie: Lalala Star Tanjou",
       "Kaiketsu Zorori: Lalala♪ Star Tanjou",
@@ -260,12 +261,6 @@
         "id": "411248"
       },
       {
-        "site": "abema",
-        "id": "2-14",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0103147",
         "begin": "2024-06-01T03:00:00.000Z",
@@ -312,7 +307,15 @@
       "zh-Hans": [
         "灌篮高手",
         "灌篮高手 电影版",
-        "灌篮高手：THE FIRST"
+        "灌篮高手：THE FIRST",
+        "灌篮高手 THE FIRST SLAM DUNK"
+      ],
+      "zh-Hant": [
+        "THE FIRST SLAM DUNK",
+        "灌籃高手 THE FIRST SLAM DUNK"
+      ],
+      "en": [
+        "The First Slam Dunk"
       ]
     },
     "type": "movie",
@@ -330,6 +333,12 @@
       {
         "site": "mikan",
         "id": "3256"
+      },
+      {
+        "site": "netflix",
+        "id": "81765372",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -1022,6 +1031,18 @@
       {
         "site": "mikan",
         "id": "2857"
+      },
+      {
+        "site": "danime",
+        "id": "26681",
+        "begin": "2025-02-28T15:00:00.000Z",
+        "broadcast": "R/2025-02-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0B673R1CP",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -1345,12 +1366,6 @@
         "id": "PLC18xlbCdwtStjt2-GriwPCoL2b0_lQ_B",
         "begin": "2022-10-09T14:00:00.000Z",
         "broadcast": "R/2022-10-09T14:00:00.000Z/P7D"
-      },
-      {
-        "site": "netflix",
-        "id": "81643020",
-        "begin": "2023-01-15T16:00:00.000Z",
-        "broadcast": "R/2023-01-15T16:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1941,6 +1956,12 @@
       {
         "site": "mikan",
         "id": "2820"
+      },
+      {
+        "site": "danime",
+        "id": "25816",
+        "begin": "2025-02-28T15:00:00.000Z",
+        "broadcast": "R/2025-02-28T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2764,6 +2785,12 @@
       {
         "site": "mikan",
         "id": "2869"
+      },
+      {
+        "site": "danime",
+        "id": "27668",
+        "begin": "2025-02-07T15:00:00.000Z",
+        "broadcast": "R/2025-02-07T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2877,7 +2904,7 @@
       },
       {
         "site": "prime",
-        "id": "B0B6Q9G1GT",
+        "id": "B0DL1C6BR2",
         "begin": "",
         "broadcast": ""
       }
@@ -3984,6 +4011,12 @@
         "id": "25837",
         "begin": "2022-10-29T01:00:00.000Z",
         "broadcast": "R/2022-10-29T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0B76TBQS1",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -5111,12 +5144,6 @@
         "broadcast": "R/2023-02-25T16:00:00.000Z/P7D"
       },
       {
-        "site": "netflix",
-        "id": "81642998",
-        "begin": "2023-01-30T16:00:00.000Z",
-        "broadcast": "R/2023-01-30T16:00:00.000Z/P7D"
-      },
-      {
         "site": "nicovideo",
         "id": "tenken-anime",
         "begin": "2022-10-05T14:30:00.000Z",
@@ -5246,12 +5273,6 @@
         "id": "PLC18xlbCdwtS-5t1jBYhngy9zCNGh4CAM",
         "begin": "2022-09-24T13:30:00.000Z",
         "broadcast": "R/2022-09-24T13:30:00.000Z/P7D"
-      },
-      {
-        "site": "netflix",
-        "id": "81643061",
-        "begin": "2023-01-02T16:00:00.000Z",
-        "broadcast": "R/2023-01-02T16:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -5385,12 +5406,6 @@
         "id": "PLC18xlbCdwtSfs6qsghA5iopqpp1uv3bO",
         "begin": "2022-09-30T15:00:00.000Z",
         "broadcast": "R/2022-09-30T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "netflix",
-        "id": "81643081",
-        "begin": "2023-01-10T16:00:00.000Z",
-        "broadcast": "R/2023-01-10T16:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
