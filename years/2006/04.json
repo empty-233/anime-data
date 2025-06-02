@@ -64,6 +64,7 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1119/118609.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1119/118609t.jpg",
     "synonyms": [
+      "Heldenlied",
       "Le Chant des Rêves",
       "Le Chant des Rêves : Utawarerumono",
       "Le chant des rêves",
@@ -153,6 +154,7 @@
       "Higurashi : When They Cry - Gou",
       "Higurashi no Naku Koro ni (2020)",
       "Higurashi no Naku Koro ni (Shin Project)",
+      "Higurashi no Naku Koro ni - GOU",
       "Higurashi no Naku Koro ni - Gou",
       "Higurashi no Naku Koro ni Gō",
       "Higurashi: When They Cry (2020)",
@@ -282,6 +284,7 @@
       "¡Perro Divino!",
       "いぬかみっ!",
       "いぬかみっ！",
+      "犬神",
       "犬神!"
     ]
   },
@@ -332,7 +335,8 @@
       "sasami",
       "tenchi (2006)",
       "砂沙美 -魔法少女クラブ-",
-      "砂沙美☆魔法少女クラブ"
+      "砂沙美☆魔法少女クラブ",
+      "魔法少女砂沙美"
     ]
   },
   {
@@ -366,6 +370,7 @@
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1259/134889t.jpg",
     "synonyms": [
       "Gargoyle",
+      "Gargoyle of Yoshinaga Family",
       "Gargoyle of Yoshinaga House",
       "Gargoyle of the Yoshinagas",
       "Garkun",
@@ -377,6 +382,7 @@
       "よしながさんちのがーごいる",
       "吉永さん家のガーゴイル",
       "吉永家的Gargoyle",
+      "吉永家的石像怪",
       "吉永家的石雕像"
     ]
   },
@@ -491,6 +497,7 @@
     "synonyms": [
       "AA! Megami-sama 2",
       "AMG TV 2",
+      "Aa Megami-sama: Sorezore no Tsubasa",
       "Aa! Megami-sama!: Sorezore no Tsubasa",
       "Ah My Goddess Saison 2",
       "Ah! Megami-sama! Sorezore no Tsubasa",
@@ -520,10 +527,14 @@
       "Ах! Богиньо моя! Всеки има крила",
       "Ах! Моя богиня: у каждого есть крылья",
       "Моя богиня! (сезон второй)",
+      "Моя богиня! 2 сезон",
       "ああっ女神さまっ それぞれの翼",
       "ああっ女神さまっ 第二期",
       "ああっ女神さまっ　それぞれの翼",
+      "幸運女神-各自的羽翼",
       "我的女神: 缤纷之翼",
+      "아 여신님 각자의 날개",
+      "오 나의 여신님 각자의 날개",
       "오! 나의 여신님: 각자의 날개"
     ]
   },
@@ -637,6 +648,7 @@
       "Ouran",
       "Ouran High School Host Club",
       "Ouran Host Club",
+      "Ouran Host Club : Le lycée de la séduction",
       "Ouran Koukou Host Bu",
       "Ouran Koukou Host-bu",
       "Ouran Koukou Hosutobu",
@@ -653,7 +665,10 @@
       "桜蘭高校ホスト部",
       "桜蘭高校ホスト部[クラブ]",
       "樱兰",
-      "樱兰高校男公关部"
+      "樱兰高校男公关部",
+      "櫻蘭高校男公關部",
+      "오란고교 사교클럽",
+      "오란고교 호스트부"
     ]
   },
   {
@@ -710,6 +725,62 @@
       "ひまわりっ！",
       "向日葵",
       "忍者少女"
+    ]
+  },
+  {
+    "title": "ZEGAPAIN -ゼーガペイン-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "ZEGAPAIN",
+        "是我痛",
+        "泽伽佩因"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.zegapain.net/tv/",
+    "begin": "2006-04-06T09:00:00.000Z",
+    "end": "2006-09-28T09:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1147"
+      },
+      {
+        "site": "bilibili",
+        "id": "1445",
+        "begin": "2006-04-05T16:00:00.000Z",
+        "broadcast": "R/2010-11-04T15:58:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015411",
+        "begin": "2024-08-03T03:00:00.000Z",
+        "broadcast": "R/2024-08-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11316",
+        "begin": "2024-01-31T15:00:00.000Z",
+        "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2006,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/6/76949.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/76949t.jpg",
+    "synonyms": [
+      "ZEGAPAIN -ゼーガペイン-",
+      "Zegapain: Memories in the Shell",
+      "Дзэгапэйн",
+      "ゼーガペイン",
+      "ゼーガペイン Memories in the shell",
+      "제가페인"
     ]
   },
   {
@@ -796,9 +867,11 @@
       "ToS",
       "saimono",
       "Приказка за страната на многоцветните облаци",
+      "حكاية بلاد الغيوم الملونة",
       "さいうんこくものがたり",
       "彩云国物语",
-      "彩雲国物語"
+      "彩雲国物語",
+      "彩雲國物語"
     ]
   },
   {
@@ -842,6 +915,7 @@
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1/935t.jpg",
     "synonyms": [
       "Cadıkılıcı",
+      "Клинок ведьм",
       "うぃっちぶれいど",
       "ウィッチブレイド",
       "魔女之刃",
@@ -905,6 +979,7 @@
       "Laguna Neagră",
       "Melnā Lagūna",
       "Пираты \"Чёрной лагуны\"",
+      "Пираты «Черной лагуны»",
       "Пираты Черной Лагуны",
       "Пірати «Чорної Лагуни»",
       "Черната Лагуна",
@@ -915,6 +990,7 @@
       "مرداب سیاه",
       "จารชนพันธุ์เถื่อน",
       "ぶらっくらぐーん",
+      "ブラックラグーン",
       "ブラック・ラグーン",
       "企業傭兵",
       "黑礁",
@@ -946,20 +1022,55 @@
     },
     "status": "FINISHED",
     "episodes": 25,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/52613.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/52613t.jpg",
+    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A6161-7.jpg",
+    "thumbnail": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A6161-7.jpg",
     "synonyms": [
-      "Love Get CHU: Miracle Seiyuu Hakusho",
-      "Love Get Chu - Miracle Seiyuu Hakusho",
-      "Love Get Chu: Miracle Seiyuu Hakusho",
-      "Love Get Chu: Miracle Seiyū Hakusho",
-      "Love GetChu",
-      "Rabugetsu Chu",
-      "らぶげっちゅみらくるせいゆうはくしょ",
-      "ラブゲッ Chu ～ミラクル声優白書～",
-      "ラブゲッCHU ~ミラクル声優白書~",
-      "ラブゲッCHU ～ミラクル声優白書～",
-      "声优白皮书"
+      "Love Get Chu",
+      "ラブゲッCHU ～ミラクル声優白書～"
+    ]
+  },
+  {
+    "title": "錬金３級 まじかる？ぽか～ん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "炼金三级魔法少女"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://character.biglobe.ne.jp/special/magipoka/",
+    "begin": "2006-04-04T16:30:00.000Z",
+    "end": "2006-06-20T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "7993"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017489",
+        "begin": "2019-11-17T03:00:00.000Z",
+        "broadcast": "R/2019-11-17T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10457",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2006,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 15,
+    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A6571-4.jpg",
+    "thumbnail": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A6571-4.jpg",
+    "synonyms": [
+      "Magipoka",
+      "錬金３級 まじかる？ぽか～ん"
     ]
   },
   {
@@ -1107,8 +1218,10 @@
       "Good Witch of the West",
       "La Sorcière de l'Ouest",
       "La sorcière de L'ouest: Astraea Testament",
+      "La sorcière de l'Ouest",
       "La sorcière de l`Ouest - Astraea Testament",
       "Nishi no Yoki Majo",
+      "Nishi no Yoki Majo - Astraea Testament",
       "The Good Witch Of The West",
       "The Good Witch of the West",
       "The Good Witch of the West - Astraea Testament",
@@ -1175,7 +1288,94 @@
       "Кирарин Революция",
       "きらりん☆レボリューション",
       "きらりんれぼりゅーしょん",
+      "花漾明星 KIRARIN",
       "라라의 스타일기"
+    ]
+  },
+  {
+    "title": "スクールランブル二学期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "校园迷糊大王 二学期",
+        "喧嚣学院 二学期"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.maql.co.jp/special/school-rumble/index02.html",
+    "begin": "2006-04-02T16:36:00.000Z",
+    "end": "2006-09-24T17:00:00.000Z",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "l/l6sbyahngnqf03u",
+        "begin": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1878"
+      },
+      {
+        "site": "bilibili",
+        "id": "3750",
+        "begin": "2006-04-01T16:00:01.000Z",
+        "broadcast": "R/2016-04-15T07:13:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002657",
+        "begin": "2019-05-23T03:00:00.000Z",
+        "broadcast": "R/2019-05-23T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11069",
+        "begin": "2023-03-31T15:00:00.000Z",
+        "broadcast": "R/2023-03-31T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2006,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/5/75490.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/5/75490t.jpg",
+    "synonyms": [
+      "SR s2",
+      "SR2",
+      "SRN",
+      "School Rumble - Saison 2",
+      "School Rumble - Semester 2",
+      "School Rumble 2",
+      "School Rumble 2nd Semester",
+      "School Rumble 2nd Term",
+      "School Rumble Nigakki",
+      "School Rumble Saison 2",
+      "School Rumble Second Term",
+      "School Rumble secondo semestre",
+      "School Rumble: 2nd Semester",
+      "School Rumble: Second Semester",
+      "Scramble 2",
+      "Scramble Reloaded",
+      "Sukuran 2",
+      "schoolrumble s2",
+      "schoolrumble2",
+      "sukuran 2",
+      "sukuran2",
+      "Школьный переполох - второй семестр",
+      "سكول رمبل الفصل الثاني",
+      "สูตรรักฉบับนักเรียน เทอม 2",
+      "スクールランブル 2学期",
+      "スクールランブル 二学期",
+      "スクールランブル二学期",
+      "喧嚣学园 第二学期",
+      "校园迷糊大王 二学期",
+      "校園迷糊大王 二學期",
+      "스쿨 럼블 이학기",
+      "스쿨럼블 2학기스쿨럼블 2학기"
     ]
   },
   {
@@ -1208,6 +1408,7 @@
     "thumbnail": "https://cdn.myanimelist.net/images/anime/12/46721t.jpg",
     "synonyms": [
       "Dream Magicians",
+      "Dream User",
       "Dream Users",
       "Yumetsukai",
       "yt",
@@ -1362,6 +1563,7 @@
       "Garakan",
       "Garasu no Kantai",
       "Glass Fleet",
+      "Glass Fleet - The Legend of the Wind of the Universe",
       "Glass Fleet: La légende du vent de l'univers",
       "Glass Fleet: The Legend of the Wind of the Universe",
       "Glass no Kantai",
@@ -1375,10 +1577,12 @@
       "The Legend of The Glass Fleet",
       "The Legend of the Glass Fleet",
       "gnk",
+      "Стеклянный флот",
       "أسطورة النسر",
       "ガラスの艦隊",
       "ガラスの艦隊～La legende du vent de l'univers～",
       "玻璃舰队",
+      "玻璃艦隊",
       "유리함대"
     ]
   },
@@ -1415,6 +1619,7 @@
     "picture": "https://cdn.myanimelist.net/images/anime/10/21146.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/10/21146t.jpg",
     "synonyms": [
+      "Backegammon",
       "BakéGyamon",
       "Gekifu Bakegyamon",
       "ばけぎゃもん",
@@ -1600,12 +1805,14 @@
       "Melancholia Haruhi Suzumiyi (2009)",
       "Suzumiya Haruhi no Yuuutsu",
       "Suzumiya Haruhi no Yuuutsu (2009)",
+      "Suzumiya Haruhi no Yūutsu",
       "Suzumiya Haruhi no Yūutsu (2009)",
       "The Melancholy of Haruhi Suzumiya",
       "The Melancholy of Haruhi Suzumiya 2",
       "The Melancholy of Haruhi Suzumiya Season 2",
       "The Melancholy of Haruhi Suzumiya Second Season",
       "haruhi2",
+      "Меланхолия Харухи Судзумии",
       "Меланхолия Харухи Судзумии (2009)",
       "Меланхолия Харухи Судзумии. Второй сезон",
       "Меланхолія Харухі Судзумії (2009)",
@@ -1614,6 +1821,7 @@
       "涼宮ハルヒの憂鬱",
       "涼宮ハルヒの憂鬱 (2009)",
       "涼宮ハルヒの憂鬱 （2009）",
+      "涼宮春日的憂鬱",
       "涼宮春日的憂鬱 (2009)",
       "스즈미야 하루히의 우울 (2009)"
     ]
@@ -1670,7 +1878,9 @@
       "でじもんせいばーず",
       "デジモンセイバーズ",
       "数码兽拯救者",
-      "数码宝贝拯救者"
+      "数码宝贝拯救者",
+      "數碼暴龍拯救隊",
+      "디지몬 세이버즈"
     ]
   },
   {
@@ -1860,7 +2070,8 @@
       "銀魂 (新作)",
       "銀魂.",
       "銀魂。",
-      "银魂."
+      "银魂.",
+      "은혼"
     ]
   },
   {
@@ -1897,6 +2108,7 @@
     "picture": "https://cdn.myanimelist.net/images/anime/11/7064.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/11/7064t.jpg",
     "synonyms": [
+      "Shiba-wanko no Wa no Kokoro",
       "Shibawanko's Japanese Spirit",
       "Shibawanko's Spirit of Tradition",
       "Shibawanko's Spirit of Wa",
@@ -1949,7 +2161,9 @@
       "Fushigiboshi no Futago Hime Gyu!",
       "Fushigiboshi no Futagohime Gyu!",
       "Futago Hime Gyu",
+      "Futago Hime Gyu!",
       "Twin Princess",
+      "Twin Princess - Principesse Gemelle",
       "Twin Princess in Wonder Planet Gyu!",
       "Twin Princess: Principesse gemelle",
       "Twin Princesses of the Wonder Planet",
@@ -1958,7 +2172,70 @@
       "ふしぎ星の☆ふたご姫 Gyu!",
       "ふしぎ星の☆ふたご姫 Gyu！",
       "ふしぎ星の☆ふたご姫Gyu!",
-      "ふしぎ星の☆ふたご姫Gyu！"
+      "ふしぎ星の☆ふたご姫Gyu！",
+      "ふたご姫 Gyu!",
+      "不可思議星球の双胞胎公主 Gyu!"
+    ]
+  },
+  {
+    "title": "ザ・サード ～蒼い瞳の少女～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "苍之瞳的少女",
+        "苍瞳少女"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.kadokawa.co.jp/thethird/",
+    "begin": "2006-04-13T15:30:00.000Z",
+    "end": "2006-10-26T16:05:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3603"
+      },
+      {
+        "site": "bilibili",
+        "id": "1472",
+        "begin": "2006-04-12T16:00:00.000Z",
+        "broadcast": "R/2013-05-18T05:32:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013023",
+        "begin": "2023-12-26T03:00:00.000Z",
+        "broadcast": "R/2023-12-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10619",
+        "begin": "2012-09-14T01:00:00.000Z",
+        "broadcast": "R/2012-09-14T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2006,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 24,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/75545.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/75545t.jpg",
+    "synonyms": [
+      "THE THIRD ~Girl with the Azure Eyes~",
+      "The Third",
+      "The Third - Aoi Hitomi no Shoujo",
+      "The Third ~Aoi Hitomi no Shoujo~",
+      "The Third: Aoi Hitomi no Shōjo",
+      "The Third: Girl with the Azure Eyes",
+      "The Third: The Girl with the Blue Eye",
+      "The Third; Meisje met de blauwe ogen",
+      "The third~苍之瞳的少女",
+      "Третья: Девочка с голубыми глазами",
+      "ザ・サード 蒼い瞳の少女",
+      "ザ・サード ～蒼い瞳の少女～"
     ]
   },
   {
@@ -2007,7 +2284,9 @@
       "แอร์เกียร์ ขาคู่ทะลุฟ้า",
       "えあぎあ",
       "エア・ギア",
-      "飞轮少年"
+      "飛輪少年",
+      "飞轮少年",
+      "에어기어"
     ]
   },
   {
@@ -2052,12 +2331,14 @@
     "synonyms": [
       "My Melody: Segunda Temporada",
       "My Melody: Sogni di magia",
+      "Onegai My Melody - Kuru Kuru Shuffle!",
       "Onegai My Melody: Kuru Kuru Shuffle!",
       "おねがい マイメロディ ～くるくるシャッフル！～",
       "おねがいマイメロディ ~くるくるシャッフル!~",
       "おねがいマイメロディ くるくるシャッフル！",
       "おねがいマイメロディ ～くるくるシャッフル!～",
-      "奇幻魔法Melody 转转旋律魔法牌"
+      "奇幻魔法Melody 转转旋律魔法牌",
+      "我愛美樂蒂 轉轉旋律魔法牌"
     ]
   },
   {
@@ -2188,9 +2469,11 @@
     "synonyms": [
       "Boy's Love Hyper!",
       "Boy's Love Scramble",
+      "Gakuen Heaven: Boy's Love Scramble",
       "Gakuen Heaven: Boy`s Love Scramble",
       "Gakuen Heaven: Boy`s Love Scramble!",
       "Heaven Academy",
+      "Райская школа",
       "กะคุเอง เฮฟเว่น",
       "โรงเรียนเฮฟเว่น",
       "がくえんへぶん",
@@ -2332,9 +2615,11 @@
     "synonyms": [
       "Put It All in the Ring 1: Episode 2 - The Pacific War",
       "Put It All in the Ring 1: Japan vs. USA Battle Story",
+      "Put It All in the Ring 1: Japan vs. USA Chapter",
       "Put it All in the Ring 1 - Episode 2: The Pacific War",
       "Put it All in the Ring 1 ~Japan vs. USA Battle Story~",
       "Put it All in the Ring 1: Japan vs USA Battle Story",
+      "Ring ni Kakero - US vs Japan",
       "Ring ni Kakero 1 Episode: The Pacific War",
       "Ring ni Kakero 1: Nichibei Kessen Hen",
       "Ring ni Kakero : Saison 2",
@@ -2344,7 +2629,8 @@
       "Ring ni Kakero: US vs Japan",
       "rinkake s2",
       "りんぐにかけろ1にちべいけっせんへん",
-      "リングにかけろ1 日米決戦編"
+      "リングにかけろ1 日米決戦編",
+      "リングにかけろ１ ～日米決戦編～"
     ]
   },
   {
@@ -2426,7 +2712,8 @@
       "ぶらっくじゃっくとぇんてぃーわん",
       "ブラック・ジャック 21",
       "ブラック・ジャック21",
-      "怪医黑杰克21"
+      "怪医黑杰克21",
+      "怪醫黑傑克21"
     ]
   },
   {
@@ -2509,12 +2796,16 @@
     "picture": "https://cdn.myanimelist.net/images/anime/3/28268.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/3/28268t.jpg",
     "synonyms": [
+      "GUNDOH ムサシ",
       "GUN道 MUSASHI",
+      "GUN道MUSASHI",
       "Gun Samurai",
       "Gun-do Musashi",
       "Gun-dō Musashi",
+      "Gundoh Musashi",
       "Gundou MUSASHI",
       "Gundou Musashi",
+      "MUSASHI - The Way of the GUN",
       "MUSASHI -GUN-",
       "MUSASHI -GUN道-",
       "MUSASHI: GUN-dou",
@@ -2588,31 +2879,23 @@
       }
     ],
     "animeSeason": {
-      "season": "FALL",
+      "season": "SPRING",
       "year": 2006,
       "month": "04"
     },
     "status": "FINISHED",
     "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/1471/108232.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1471/108232t.jpg",
+    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A6258-29.jpg",
+    "thumbnail": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A6258-29.jpg",
     "synonyms": [
-      "Das Superhirn der Miragepokémon",
-      "Het Meesterbrein van de Illusie-Pokémon",
-      "Mastermind of Mirage Pokémon",
-      "Pocket Monsters: Senritsu no Mirage Pokemon",
-      "Pokemon : Le maître des mirages",
-      "Pokemon: The Mastermind of Mirage Pokemon",
-      "Pokémon 10th Anniversary Special",
-      "Pokémon Mente Maestra: Décimo aniversario",
-      "Pokémon Special 20",
+      "El maestro de los Pokémon Espejismo",
+      "Le maître des mirages",
+      "O Mentor do Pokémon Miragem",
+      "Pokemon 10th Anniversary Special",
+      "Pokémon - Mente Maestra",
       "Pokémon: El Maestro Espejismo",
-      "Pokémon: El maestro espejismo",
-      "Pokémon: Le Maître des Mirages",
-      "Pokémon: The Mastermind of Mirage Pokémon",
-      "Pokémon: le maître des mirages",
-      "Senritsu no Mirage Pokémon",
-      "ポケットモンスター 戦慄のミラージュポケモン",
+      "Senritsu no Mirage Pokemon",
+      "The Terrifying Mirage Pokémon",
       "戦慄のミラージュポケモン"
     ]
   },
@@ -2691,11 +2974,13 @@
       "Aria: The Natural",
       "aria2",
       "Ария (второй сезон)",
+      "Ария 2",
       "ありあざなちゅらる",
       "アリア The NATURAL",
       "アリア the Natural",
       "アリア2",
       "水星領航員 The NATURAL",
+      "水星領航員2nd",
       "水星领航员 The NATURAL",
       "水星领航员 第2季",
       "아리아 디 내츄럴"
@@ -2746,6 +3031,7 @@
       "PriPri",
       "PuriPuri",
       "pripri",
+      "أميرة أميرة",
       "الأميرة الأميرة",
       "ぷりんせすぷりんせす",
       "プリンセス・プリンセス",
@@ -2837,16 +3123,20 @@
       "Case Closed: Movie 10",
       "Case Closed: Requiem of the Detectives",
       "DC M10",
+      "Das Requiem der Detektive",
       "Detective Conan 10 - El réquiem de los detectives (2006)",
+      "Detective Conan 10: El réquiem de los detectives",
       "Detective Conan Film 10: Le Requiem des Détectives",
       "Detective Conan Movie 10: Requiem of the Detectives",
       "Detective Conan Movie 10: Requiem per un Detective",
       "Detective Conan Movie 10: The Private Eyes' Requiem",
       "Detective Conan Movie 10: The Private Eyes’ Requiem",
+      "Detective Conan: Le Requiem des détectives",
       "Detective Conan: Movie 10",
       "Detective Conan: Requiem Per Un Detective",
       "Detective Conan: Requiem of the Detectives",
       "Detective Conan: Requiem per un detective",
+      "Detective Conan: The Private Eyes' Requiem",
       "Detective Conan: The Private Eyes` Requiem",
       "Detektiv Conan - 10. Film: Das Requiem der Detektive",
       "Detektiv Conan Film 10",
@@ -2859,11 +3149,17 @@
       "Meitantei Conan: Tantei-tachi no Requiem",
       "The Private Eyes' Requiem",
       "Детектив Конан: Реквиемът на Детективите",
+      "المحقق كونان : لحن وداع التحري الخاص",
+      "المحقق كونان : لحن وداع المتحريين",
+      "لحن وداع المتحرين",
       "ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 10 ตอน บทเพลงมรณะแด่เหล่านักสืบ",
       "侦探们的镇魂歌",
+      "名偵探柯南 偵探們的鎮魂歌",
       "名探偵コナン 探偵たちの鎮魂歌",
       "名探偵コナン 探偵たちの鎮魂歌[レクイエム]",
-      "名探偵コナン　探偵たちの鎮魂歌[レクイエム]"
+      "名探偵コナン 探偵たちの鎮魂歌（レクイエム）",
+      "名探偵コナン　探偵たちの鎮魂歌[レクイエム]",
+      "명탐정 코난 극장판: 탐정들의 진혼곡"
     ]
   },
   {
@@ -2914,23 +3210,13 @@
       "month": "04"
     },
     "status": "FINISHED",
-    "episodes": 4,
-    "picture": "https://cdn.myanimelist.net/images/anime/1349/103321.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1349/103321t.jpg",
+    "episodes": 8,
+    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A6473-8.jpg",
+    "thumbnail": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A6473-8.jpg",
     "synonyms": [
-      "Dai Maho Toge",
-      "Dai Mahô Tôge",
-      "Dai Mahō Tōge",
-      "Daimaho Toge",
-      "Daimahou Touge",
+      "Dai Mahou Touge",
       "Great Magical Gap",
-      "Magical Witch Punie-Chan",
-      "Magical Witch Punie-chan",
-      "Punie",
-      "dmt",
-      "だいまほうとうげ",
-      "大魔法峠",
-      "대마법고개"
+      "大魔法峠"
     ]
   },
   {

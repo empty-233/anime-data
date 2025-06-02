@@ -47,6 +47,8 @@
     "synonyms": [
       "All New Adventures of Tom Sawyer",
       "As Aventuras de Tom Sawyer",
+      "As aventuras de Tom Sawyer",
+      "De avonturen van Tom Sawyer",
       "Las Aventuras de Tom Sawyer",
       "Le avventure di Tom Sawyer",
       "Les Aventures de Tom Sawyer",
@@ -63,8 +65,11 @@
       "Приключения Тома Сойера",
       "תום סויר",
       "توم سوير",
+      "ماجراهای تام سایر",
       "مغامرات توم سوير",
-      "トム・ソーヤーの冒険"
+      "トム・ソーヤーの冒険",
+      "湯姆歷險記",
+      "톰 소여의 모험"
     ]
   },
   {
@@ -198,6 +203,7 @@
       "Wspaniała Podróż Nilsa Holgerssona",
       "Wspaniała podróż Nilsa Holgerssona",
       "Wunderbare Reise des kleinen Nils Holgersson mit den Wildgänsen",
+      "le Mysterieux Voyage de Nils Holgerson au Pays des Oies Sauvages",
       "Το θαυμαστό ταξίδι του Νίλς Χόλγκερσον",
       "Подорож Нільса Гольгерссона з дикими гусьми",
       "נילס הולגרסון",
@@ -206,6 +212,67 @@
       "にるすのふしぎなたび",
       "ニルスのふしぎな旅",
       "小神童"
+    ]
+  },
+  {
+    "title": "メーテルリンクの青い鳥 チルチルミチルの冒険旅行",
+    "titleTranslate": {
+      "zh-Hans": [
+        "青鸟"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1980-01-08T16:00:00.000Z",
+    "broadcast": "R/1980-01-08T16:00:00.000Z/P7D",
+    "end": "1980-07-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "127194"
+      },
+      {
+        "site": "danime",
+        "id": "10370",
+        "begin": "2022-03-08T01:00:00.000Z",
+        "broadcast": "R/2022-03-08T01:00:00.000Z/P7D",
+        "comment": "総集編: 10371"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1980,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/55609.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/55609t.jpg",
+    "synonyms": [
+      "A kék madár",
+      "Błękitny ptak",
+      "L'Oiseau Bleu",
+      "L'uccellino azzurro",
+      "L`oiseau bleu",
+      "L`uccellino azzurro",
+      "L’Oiseau Bleu",
+      "Maeterlinck no Aoi Tori",
+      "Maeterlinck no Aoi Tori - Tyltyl Mytyl no Bouken Ryokou",
+      "Maeterlinck no Aoi Tori: Tyltyl Mytyl no Bōken Ryokō",
+      "Maeterlinck no Aoi no Tori - Tyltyl Mytyl no Bōken Ryokō",
+      "Maeterlinck's Blue Bird",
+      "Maeterlinck`s Blue Bird",
+      "Maeterlinck‘s Blue Bird: Adventurous Journey of Tyltyl and Myltyl",
+      "Tyltyl Mytyl e l'uccellino azzurro",
+      "Tyltyl Mytyl no Bouken Ryokou",
+      "Tyltyl and Mytyl's Adventurous Journey",
+      "Tyltyl and Mytyl‘s Adventurous Journey",
+      "Tyltyl, Mytyl e l`uccellino azzurro",
+      "メーテルリンクの青い鳥 チルチルミチルの冒険旅行",
+      "メーテルリングの青い鳥 チルチルミチルの冒険旅行",
+      "メーテルリングの青い鳥　チルチルミチルの冒険旅行"
     ]
   }
 ]

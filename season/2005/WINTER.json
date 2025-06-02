@@ -228,6 +228,7 @@
       "OP Movie 6",
       "One Piece - 6. Film: Baron Omatsuri und die geheimnisvolle Insel",
       "One Piece - L'isola segreta del barone Omatsuri",
+      "One Piece : Baron Omatsuri et l'île secrète",
       "One Piece : Le Baron Omatsuri et l`Île secrète",
       "One Piece : Le baron Omatsuri et l’île secrète",
       "One Piece Film 6: Baron Omatsuri und die geheimnisvolle Insel",
@@ -237,6 +238,7 @@
       "One Piece Movie 6: Omatsuri Danshaku to Himitsu no Shima",
       "One Piece Película 6: El Barón Omatsuri y la Isla de los Secretos",
       "One Piece The Movie 6: Baron Omatsuri and the Secret Island",
+      "One Piece – Baron Omatsumi und die geheimnisvolle Insel",
       "One Piece: 6. Film - Baron Omatsuri und die geheimnisvolle Insel",
       "One Piece: Baron Omatsuri and the Island of Secrets",
       "One Piece: Baron Omatsuri and the Secret Island",
@@ -249,7 +251,9 @@
       "One Piece: Omatsuri Danshaku to Himitsu no Shima",
       "opm6",
       "ワンピース THE MOVIE オマツリ男爵と秘密の島",
-      "ワンピース オマツリ男爵と秘密の島"
+      "ワンピース the movie オマツリ男爵と秘密の島",
+      "ワンピース オマツリ男爵と秘密の島",
+      "航海王 祭典男爵與神祕島"
     ]
   },
   {
@@ -421,6 +425,7 @@
       "Enfer et Paradis",
       "Enfer et Paradis OAV",
       "Enfer et paradis - OAV",
+      "Inferno e paradiso",
       "Tenjho Tenge OVA",
       "Tenjho Tenge los OVAs",
       "Tenjho Tenge: The Ultimate Fight",
@@ -479,6 +484,7 @@
     "synonyms": [
       "Enfer et paradis : Le dernier Chapitre",
       "Everything Above the Skies",
+      "Everything Above the Skies, Everything Under the Skies The Past Chapter",
       "Everything Under the Skies The Past Chapter",
       "TT: TPC",
       "TenTen: TPC",
@@ -583,6 +589,7 @@
       "Embracing Love",
       "Embracing Love: Cherished Spring",
       "Giochi d'Amore",
+      "Giochi d'amore",
       "Giochi d`amore",
       "Haru o Daite Ita",
       "Haru o Daiteita",
@@ -590,8 +597,10 @@
       "Haru wo Daiteita",
       "Harudaki",
       "HwD",
+      "Jeux d'Amour",
       "Jeux d`amour",
       "Jeux d’Amour",
+      "В ладонях Он держал Весну",
       "春を抱いていた"
     ]
   },
@@ -652,11 +661,14 @@
       "Rockman EXE the Movie: Program of Light and Dark",
       "Rockman EXE ~ Hikari to Yami no Program ~",
       "Rockman. EXE Movie: Programs of Light and Darkness",
+      "Rockman. EXE: The Program of Light and Darkness",
       "Rockman.EXE: Hikari to Yami no Program",
       "Theater Edition Rockman EXE: Program of Light and Dark",
+      "ロックマンエグゼ 光と闇の遺産（プログラム）",
       "劇場版 ロックマン エグゼ: 光と闇の遺産",
       "劇場版ロックマンエグゼ 光と闇の遺産",
       "劇場版ロックマンエグゼ 光と闇の遺産[プログラム]",
+      "洛克人EXE 光與黑暗的遺產",
       "洛克人EXE剧场版 光与暗的遗产"
     ]
   },
@@ -776,15 +788,18 @@
       "Pretty Cure : Max Heart",
       "Pretty Cure Max Heart",
       "Pretty Cure Max Heart TV",
+      "Pretty Cure MaxHeart",
       "Pretty Cure Season 02",
       "Pretty Cure: MaxHeart",
+      "We Are Pretty Cure Max Heart",
       "We Are Pretty Cure: Max Heart",
       "pcmh",
       "precure2",
       "มหัศจรรย์สาวน้อย พริตตี้เคียว แมกซ์ฮาร์ท",
       "ふたりはプリキュア Max Heart",
       "ふたりはプリキュア ー マックスハート",
-      "光之美少女 Max Heart"
+      "光之美少女 Max Heart",
+      "光之美少女MaxHeart"
     ]
   },
   {
@@ -843,7 +858,8 @@
       "BUZZER BEATER WARM-UP",
       "Забивки",
       "ぶざーびーたー",
-      "ブザービーター"
+      "ブザービーター",
+      "零秒出手"
     ]
   },
   {
@@ -1162,6 +1178,91 @@
     ]
   },
   {
+    "title": "魔法先生ネギま！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法老师涅吉！",
+        "魔法先生涅吉！",
+        "魔葱！"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.starchild.co.jp/special/negima/index.html",
+    "begin": "2005-01-05T16:00:00.000Z",
+    "end": "2005-06-29T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "17119"
+      },
+      {
+        "site": "nicovideo",
+        "id": "negima01",
+        "begin": "2014-12-25T06:00:00.000Z",
+        "broadcast": "R/2014-12-25T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "qq",
+        "id": "m/mkhimxiz73e7ads",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "1420",
+        "begin": "2018-05-27T06:54:00.000Z",
+        "broadcast": "R/2018-05-27T06:54:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002876",
+        "begin": "2017-06-01T03:00:00.000Z",
+        "broadcast": "R/2017-06-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20568",
+        "begin": "2020-01-24T01:00:00.000Z",
+        "broadcast": "R/2020-01-24T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2005,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/12/89535.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/12/89535t.jpg",
+    "synonyms": [
+      "Le Maître Magicien Negima !",
+      "Le Maître Magicien Negima!",
+      "Le maître magicien Negima !",
+      "Magic Teacher Negima",
+      "Magister Negi Magi",
+      "Magister Negi Magi Negima!",
+      "Magister Negima",
+      "Mahou Sensei Negima",
+      "Mahō Sensei Negima!",
+      "Negi, maestro di magia",
+      "Negima!",
+      "Negima! le Maître Magicien",
+      "msn",
+      "negi",
+      "negima",
+      "negimagi",
+      "Волшебный учитель Нэгима!",
+      "Магічний вчитель Неґіма!",
+      "คุณครูจอมเวท เนกิมะ!",
+      "魔法先生 ネギま!",
+      "魔法先生 ネギま！",
+      "魔法先生ネギま！",
+      "魔法老师涅吉！",
+      "魔法老師"
+    ]
+  },
+  {
     "title": "AIR",
     "titleTranslate": {
       "zh-Hans": [
@@ -1235,7 +1336,9 @@
       "Повітря",
       "ایئر",
       "هواء",
-      "えあー"
+      "えあー",
+      "青空",
+      "에어"
     ]
   },
   {
@@ -1296,6 +1399,7 @@
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1976/99376t.jpg",
     "synonyms": [
       "AMG TV",
+      "Aa Megami-sama",
       "Aa! Megami-sama!",
       "Aa! Megami-sama! (2005)",
       "Ah! Megami-sama! (2005)",
@@ -1316,6 +1420,7 @@
       "amstv",
       "Ā! Megami-sama! (2005)",
       "Ах! Богиньо моя! (2005)",
+      "Моя богиня!",
       "ああっめがみさまっ",
       "ああっ女神さまっ",
       "ああっ女神さまっ (2005)",
@@ -1324,6 +1429,8 @@
       "幸運女神",
       "我的女神",
       "我的女神（2005）",
+      "아 여신님",
+      "오 나의 여신님",
       "오! 나의 여신님"
     ]
   },
@@ -1468,15 +1575,18 @@
       "I like what I like, so there!",
       "SUKISHO! - Can't Stop Loving You!",
       "Suki na Mono wa Suki Dakara Shou ga nai!!",
+      "Suki na Mono wa Suki Dakara Shouganai!!",
       "Suki na Mono wa Suki da kara Shou ga Nai!!",
       "Suki na Mono wa Suki da kara Shō ga Nai!!",
       "Sukisho",
       "Sukisho!",
       "Sukisho! Can't stop loving you!",
       "Sukisyo",
+      "Sukisyo!",
       "so it can`t be helped",
       "so there!",
       "sukisho",
+      "Мне нравится то, что мне нравится, вот так!",
       "喜欢就是喜欢",
       "好きなものは好きだからしょうがない!!",
       "好きなものは好きだからしょうがない！！"
@@ -1531,6 +1641,7 @@
       "Transformers: Cybertron",
       "Transformers: Cybertron - A new beginning",
       "Transformers: Galaxy Force",
+      "Transformerzy: Cybertron",
       "רובוטריקים: סייברטרון",
       "とらんすふぉーまーぎゃらくしーふぉーす",
       "トランスフォーマー ギャラクシーフォース"
@@ -1636,7 +1747,8 @@
       "UG☆アルティメットガール",
       "Ultimate Girls",
       "Ultra Girl",
-      "あるてぃめっとがーる"
+      "あるてぃめっとがーる",
+      "ＵＧ☆アルティメットガール"
     ]
   },
   {
@@ -1679,6 +1791,7 @@
       "Useless Animals",
       "damekko",
       "Безполезните Животни",
+      "Бесполезные Зверушки",
       "Бесполезные зверушки",
       "だめっこどうぶつ"
     ]
@@ -1818,8 +1931,10 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1905/131807.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1905/131807t.jpg",
     "synonyms": [
+      "B-Densetsu \"Battle BEDAMAN\": Enkon",
       "B-Densetsu! Battle B-Daman Enkon",
       "B-Densetsu! Battle Bedaman Enkon",
+      "B-Legend Battle Bedaman: Fire Spirits",
       "B-Legend! Battle B-Daman: Fire Spirits",
       "B-Legend! Battle Bedaman Fire Spirits",
       "B-Legend! Battle Bedaman: Fire Spirits",
@@ -1827,10 +1942,13 @@
       "B-伝説! バトルビーダマン 炎魂!",
       "B-伝説(ビーレジェンド)! バトルビーダマン 炎魂(ファイヤースピリッツ!)",
       "B-伝説[ビーレジェンド]! バトルビーダマン 炎魂[ファイヤースピリッツ!]",
+      "B-伝説！ バトルビーダマン 炎魂",
       "B-伝説！ バトルビーダマン炎魂",
+      "B-伝説！ 戰鬥彈珠人 炎魂",
       "Battle B-Daman: Fire Spirits",
       "Battle B-Daman: Fire Spirits!",
-      "Bedaman: Fire Spirits"
+      "Bedaman: Fire Spirits",
+      "باتل بيدامان"
     ]
   },
   {

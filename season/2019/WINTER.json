@@ -119,6 +119,7 @@
       "Mr. Osomatsu The Movie",
       "Mr. Osomatsu The Movie (2019)",
       "Mr. Osomatsu the Movie",
+      "Mr. Osomatsu: O Filme",
       "Mr. Osomatsu: The Movie",
       "Osomatsu-san The Movie",
       "Osomatsu-san le Film",
@@ -241,12 +242,14 @@
     "picture": "https://cdn.myanimelist.net/images/anime/1369/102185.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1369/102185t.jpg",
     "synonyms": [
+      "Doraemon - Il film: Nobita e le cronache dell'esplorazione della Luna",
       "Doraemon - Nobita e le cronache dell`esplorazione della Luna",
       "Doraemon Movie 39",
       "Doraemon the Movie 2019: Chronicle of the Moon Exploration",
       "Doraemon the Movie 2019: Nobita's Chronicle of the Moon Exploration",
       "Doraemon the Movie 39: Nobita's Chronicle of the Moon Exploration",
       "Doraemon the Movie 39: Nobita’s Chronicle of the Moon Exploration",
+      "Doraemon the Movie: Nobita's Chronicle of the Moon Exploration",
       "Doraemon the Movie: Nobita`s Chronicle of the Moon Exploration",
       "Doraemon y el viaje a la luna",
       "Doraemon: Il film - Nobita e le cronache dell’esplorazione della Luna",
@@ -257,7 +260,8 @@
       "ドラえもん のび太の月面探査記",
       "哆啦A梦：大雄的月球探险记",
       "映画 ドラえもん のび太の月面探査記",
-      "映画ドラえもん のび太の月面探査記"
+      "映画ドラえもん のび太の月面探査記",
+      "電影哆啦A夢：大雄的月球探測記"
     ]
   },
   {
@@ -307,8 +311,10 @@
       "Movie Precure Miracle Universe",
       "Precure Miracle Universe",
       "Pretty Cure Miracle Universe",
+      "Pretty Cure Miracle Universe - La película",
       "Pretty Cure Miracle Universe Movie",
       "Pretty Cure Movie: Miracle Universe",
+      "プリキュアミラクルユニバース",
       "映画 プリキュアミラクルユニバース",
       "映画プリキュアミラクルユニバース",
       "电影 光之美少女 Miracle Universe"
@@ -705,6 +711,7 @@
       "Hey, Your Ears Are Out!",
       "Hey, Your Ears Are Out! Season 2",
       "Hora",
+      "Hora, Mimi ga Mieteru yo!",
       "Hora, Mimi ga Mieteru yo! (2019)",
       "Hora, Mimi ga Mieteru yo! 2",
       "Hora, Mimi ga Mieteru yo! 2. Season",
@@ -728,6 +735,7 @@
       "horamimi2",
       "ほら",
       "ほら, 耳がみえてるよ! (2019)",
+      "ほら、耳がみえてるよ！ シーズン2",
       "ほら、耳がみえてるよ！2",
       "ほら、耳がみえてるよ！シーズン２",
       "喂",
@@ -736,6 +744,7 @@
       "喂, 看见耳朵啦! 第2季",
       "喂, 看见耳朵啦! 第二季",
       "喂，看见耳朵啦 第二季",
+      "喂，看见耳朵啦！ 第二季",
       "看见耳朵啦!",
       "耳がみえてるよ!"
     ]
@@ -818,7 +827,113 @@
       "geass3",
       "Код Гиас: Лелуш Воскресший",
       "コードギアス 復活のルルーシュ",
+      "コードギアス復活のルルーシュ",
       "극장판 코드 기아스: 부활의 를르슈"
+    ]
+  },
+  {
+    "title": "劇場版 ダンジョンに出会いを求めるのは間違っているだろうか －オリオンの矢－",
+    "titleTranslate": {
+      "zh-Hans": [
+        "期待在地下城邂逅有错吗－俄里翁之矢－"
+      ],
+      "zh-Hant": [
+        "劇場版 在地下城尋求邂逅是否搞錯了什麼 ─ 獵戶座之箭 ─"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://danmachi.com/movie",
+    "begin": "2019-02-15T16:00:00.000Z",
+    "end": "2019-02-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "238005"
+      },
+      {
+        "site": "nicovideo",
+        "id": "danmachi-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "94034",
+        "begin": "2023-09-01T02:00:00.000Z",
+        "broadcast": "R/2023-09-01T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0039297",
+        "begin": "2019-06-29T03:00:00.000Z",
+        "broadcast": "R/2019-06-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1962"
+      },
+      {
+        "site": "abema",
+        "id": "174-15",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "23918",
+        "begin": "2020-03-31T15:00:00.000Z",
+        "broadcast": "R/2020-03-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B08BY2TNQ9",
+        "begin": "",
+        "broadcast": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2019,
+      "month": "02"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1239/96949.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1239/96949t.jpg",
+    "synonyms": [
+      "DanMachi",
+      "DanMachi - La freccia di Orione",
+      "DanMachi Movie",
+      "DanMachi: Arrow of the Orion",
+      "DanMachi: The Movie - Arrow of the Orion",
+      "DanMachi: È Sbagliato Cercare di Incontrare Ragazze in un Dungeon? Familia Myth: La Freccia di Orione",
+      "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon? Arrow of the Orion",
+      "Dungeon ni Deai o Motomeru no wa Machigatteiru Darō ka: Arrow of the Orion",
+      "Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darou ka Movie: Orion no Ya",
+      "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: Orion no Ya",
+      "Gekijouban Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Orion no Ya",
+      "Gekijouban Dungeon ni Deai o Motomeru no wa Machigatte Iru darou ka: Orion no Ya",
+      "Gekijouban Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darouka: Orion no Ya",
+      "Gekijouban Dungeon ni Deai wo Motomeru no wa Machigatte Iru darou ka: Orion no Ya",
+      "Gekijōban Dungeon ni Deai o Motomeru no wa Machigatte Iru darō ka: Orion no Ya",
+      "Is It Wrong That I Want to Meet You in a Dungeon Movie",
+      "Is It Wrong That I Want to Meet You in a Dungeon: Arrow of the Orion",
+      "Is It Wrong to Try to Pick Up Girls in a Dungeon? Arrow of the Orion",
+      "Is It Wrong to Try to Pick Up Girls in a Dungeon? Movie: Arrow of the Orion",
+      "Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion",
+      "Movie Is It Wrong to Try to Pick Up Girls in a Dungeon? Arrow of the Orion",
+      "danmachi movie",
+      "È sbagliato cercare di incontrare ragazze in un dungeon? - Familia Myth ― Il film : La freccia di Orione",
+      "ダンジョンに出会いを求めるのは間違っているだろうか ─ オリオンの矢 ─",
+      "剧场版 在地下城寻求邂逅是否搞错了什么：俄里翁之箭",
+      "劇場版 ダンジョンに出会いを求めるのは間違っているだろうか -オリオンの矢-",
+      "劇場版 ダンジョンに出会いを求めるのは間違っているだろうか ― オリオンの矢 ―",
+      "劇場版 ダンジョンに出会いを求めるのは間違っているだろうか －オリオンの矢－",
+      "在地下城尋求邂逅是否搞錯了什麼 ─ 獵戶座之箭 ─",
+      "在地下城尋求邂逅是否搞錯了什麼：俄里翁之箭",
+      "극장판 던전에서 만남을 추구하면 안 되는 걸까? -오리온의 화살-"
     ]
   },
   {
@@ -1008,6 +1123,7 @@
       "Eiga Korasho no Kaitei Wakuwaku Daibōken!",
       "Korasho no Kaitei Wakuwaku Daibouken!",
       "Movie: Korasho's Exciting Under-the-Sea Adventure!",
+      "コラショの海底わくわく大冒険",
       "映画 コラショの海底わくわく大冒険！",
       "映画コラショの海底わくわく大冒険!",
       "映画コラショの海底わくわく大冒険！"
@@ -1132,6 +1248,7 @@
       "DomeKano",
       "Domekano",
       "Domestic Girlfriend",
+      "Domestic Girlfriend - Love X Dilemma",
       "Domestic Girlfriend : Love x Dilemma",
       "Domestic Girlfriend : Love × Dilemma",
       "domekano",
@@ -1205,7 +1322,10 @@
       "Asuka",
       "Magical Girl Spec Ops Asuka",
       "Magical Girl Spec-Ops Asuka",
+      "Magical Girl Special Ops Asuka",
       "Mahō Shōjo Tokushusen Asuka",
+      "Mahō Shōjo Tokushūsen Asuka",
+      "Spec-Ops Asuka",
       "Аска: Волшебница специального назначения",
       "魔法少女特殊战明日香",
       "魔法少女特殊戦あすか",
@@ -1311,6 +1431,7 @@
       "Kaguya-sama wa Kokurasetai",
       "Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren'ai Zunousen",
       "Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren`ai Zunousen",
+      "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunōsen",
       "Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren’ai Zunousen",
       "Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren’ai Zunōsen",
       "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
@@ -1785,6 +1906,7 @@
     "synonyms": [
       "An Angel Flew Down to Me!",
       "An Angel Swooped Down on Me!",
+      "WATATEN!",
       "WATATEN! an Angel Flew Down to Me",
       "WATATEN!: an Angel Flew Down to Me",
       "Wataten",
@@ -1878,6 +2000,7 @@
       "Go-toubun no Hanayome",
       "Gotoubun",
       "Gotoubun no Hanayome",
+      "Gotōbun no Hanayome",
       "Las Quintillizas",
       "QQ",
       "Sposób na pięcioraczki",
@@ -1959,6 +2082,7 @@
       "Grimms Notes",
       "Grimms Notes the Animation",
       "Grimms Notes: The Animation",
+      "Смотреть Заметки Гримм",
       "ぐりむのーつじあにめーしょん",
       "グリムノーツ",
       "グリムノーツ The Animation",
@@ -2223,6 +2347,7 @@
       "Tate no Yusha no Nariagari",
       "Tate no Yuusha",
       "Tate no Yūsha no Nariagari",
+      "The Rising of The Shield Hero",
       "The Rising of the Shield Hero",
       "The rising of the shield hero",
       "shieldhero",
@@ -2364,6 +2489,7 @@
     "synonyms": [
       "Gambling School 2nd Season",
       "Gambling School Saison 2",
+      "Kakegurui",
       "Kakegurui (2019)",
       "Kakegurui - Compulsive Gambler 2",
       "Kakegurui 2",
@@ -2804,6 +2930,7 @@
       "How Clumsy You Are, Miss Ueno.",
       "How Clumsy you are, Miss Ueno",
       "How Clumsy you are, Miss Ueno.",
+      "How clumsy are you, Miss Ueno",
       "How clumsy you are, Miss Ueno.",
       "Miss Ueno",
       "Miss Ueno.",
@@ -3115,8 +3242,10 @@
       "Bermuda Triangle: Colourful Pastorale",
       "Bermuda△: Colorful Pastrale",
       "Colorful Pastrale ~from Bermuda Triangle~",
+      "Colorful Pastrale ~from Bermuda △~",
       "Colorful Pastrale: From Bermuda Triangle",
       "Colorful Pastrale: From Bermuda△",
+      "Colorful Pastrale: from Bermuda Triangle",
       "ばみゅーだとらいあんぐるからふるぱすとらーれ",
       "カラフル・パストラーレ ~from Bermuda△~",
       "カラフル・パストラーレ 〜from Bermuda△〜",
@@ -3268,6 +3397,7 @@
       "B-PROJECT-Zeccho＊Emotion-",
       "B-PROJECT: Zecchou Emotion",
       "B-PROJECT: Zecchou*Emotion",
+      "B-PROJECT: Zecchō Emotion",
       "B-PROJECT~絶頂*エモーション~",
       "B-PROJECT～絶頂＊エモーション～",
       "B-PROJECT～绝顶＊Emotion～",
@@ -3372,6 +3502,7 @@
       "けものフレンズ (新作)",
       "けものフレンズ 2",
       "けものフレンズ2",
+      "けものフレンズ２",
       "兽娘动物园2",
       "動物朋友 第二季"
     ]
@@ -3585,6 +3716,7 @@
     "synonyms": [
       "3D Girlfriend 2nd Season",
       "3D Kanojo 2nd Season",
+      "3D Kanojo Real Girl",
       "3D Kanojo: Real Girl",
       "3D Kanojo: Real Girl (2019)",
       "3D Kanojo: Real Girl 2",
@@ -3651,11 +3783,13 @@
     "synonyms": [
       "Choujigen Kakumei Anime: Dimension High School (超次元革命アニメ Dimensionハイスクール)",
       "Choujigen Kakumei Dimension High School",
+      "Chōjigen Kakumei Anime: Dimension High School",
       "Dimension High School",
       "Dimensionハイスクール",
       "Dimension高中",
       "でぃめんしょんはいすくーる",
-      "超次元革命アニメ Dimensionハイスクール"
+      "超次元革命アニメ Dimensionハイスクール",
+      "超次元革命アニメ『Dimensionハイスクール』"
     ]
   },
   {
@@ -3741,6 +3875,7 @@
     "synonyms": [
       "El Bosque del Piano Temporada 2",
       "El bosque del piano Temporada 2",
+      "Forest of Piano",
       "Forest of Piano 2nd Season",
       "Forest of Piano Season 2",
       "Forest of Piano Second Season",
@@ -3977,17 +4112,11 @@
     },
     "status": "FINISHED",
     "episodes": 8,
-    "picture": "https://cdn.myanimelist.net/images/anime/1273/97100.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1273/97100t.jpg",
+    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A21674-577892096.1544471038.jpg",
+    "thumbnail": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A21674-577892096.1544471038.jpg",
     "synonyms": [
-      "Even a Dad Still Wants It...",
-      "Hasta un Padre Merece...",
-      "Papa Datte",
+      "Até um Pai Tem Vontade…",
       "Papa Datte, Shitai",
-      "Papa en veut encore…",
-      "Shitai",
-      "ぱぱだってしたい",
-      "パパだって, したい",
       "パパだって、したい"
     ]
   },
@@ -4092,10 +4221,10 @@
     },
     "status": "FINISHED",
     "episodes": 0,
-    "picture": "https://u.livechart.me/anime/9183/poster_image/6a214bd070937061c1a54da9499bf61b.jpeg/large.jpg",
-    "thumbnail": "https://u.livechart.me/anime/9183/poster_image/6a214bd070937061c1a54da9499bf61b.jpeg/small.jpg",
+    "picture": "https://raw.githubusercontent.com/manami-project/anime-offline-database/master/pics/no_pic.png",
+    "thumbnail": "https://raw.githubusercontent.com/manami-project/anime-offline-database/master/pics/no_pic_thumbnail.png",
     "synonyms": [
-      "Midnight Voitore Boys",
+      "Mayonaka no Boitore Danshi",
       "真夜中のボイトレ男子"
     ]
   },
@@ -4155,12 +4284,14 @@
     "synonyms": [
       "Near Death!! Ekoda chan",
       "Near Death!! Ekoda-chan",
+      "Rinishii!! Ekoda Chan",
       "Rinshi!! Ekodachan",
       "Умираю! Истории про Экоду",
       "りんしえこだちゃん",
       "临死！！江古田",
       "臨死!! 江古田ちゃん",
       "臨死!!江古田ちゃん",
+      "臨死‼ 江古田ちゃん",
       "臨死！！江古田ちゃん",
       "임사!! 에코다짱"
     ]
@@ -4416,17 +4547,20 @@
       "Anche se il mondo finisse domani",
       "Anche se il mondo finisse domani - The relative worlds",
       "Anche se il mondo finisse domani: The Relative Worlds",
+      "Ashita Sekai ga Owaru Toshitemo",
       "Ashita Sekai ga Owaru to Shite mo",
       "Even if the World Will End Tomorrow",
       "Les Mondes Parallèles",
       "Les Mondes parallèles",
       "Les mondes parallèles",
       "Mundos Paralelos",
+      "Mundos paralelos",
       "The Relative Worlds",
       "soutai sekai movie",
       "Связанные миры",
       "あした世界が終わるとしても",
-      "即使明天世界终结"
+      "即使明天世界终结",
+      "相對世界。明日終結？"
     ]
   },
   {
@@ -4522,6 +4656,7 @@
     "synonyms": [
       "Ero Manga Sensei",
       "Ero Manga Sensei: Imouto to Akazu no Ma OVA",
+      "Eromanga Sensei",
       "Eromanga Sensei OVA",
       "Eromanga-sensei (2019)",
       "erosen ova",
@@ -4715,6 +4850,7 @@
     "synonyms": [
       "3D Girlfriend 2nd Season",
       "3D Kanojo 2nd Season",
+      "3D Kanojo Real Girl",
       "3D Kanojo: Real Girl",
       "3D Kanojo: Real Girl (2019)",
       "3D Kanojo: Real Girl 2",
@@ -4828,6 +4964,7 @@
       "B-PROJECT-Zeccho＊Emotion-",
       "B-PROJECT: Zecchou Emotion",
       "B-PROJECT: Zecchou*Emotion",
+      "B-PROJECT: Zecchō Emotion",
       "B-PROJECT~絶頂*エモーション~",
       "B-PROJECT～絶頂＊エモーション～",
       "B-PROJECT～绝顶＊Emotion～",
@@ -4846,6 +4983,96 @@
       "B‐PROJECT 絶頂✶エモーション",
       "Zecchou Emotion",
       "びーぷろじぇくとぜっちょうえもーしょん"
+    ]
+  },
+  {
+    "title": "不機嫌なモノノケ庵",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忧郁的物怪庵",
+        "不愉快的妖怪庵"
+      ],
+      "en": [
+        "The Morose Mononokean",
+        "Fukigen na Mononokean"
+      ],
+      "zh-Hant": [
+        "不愉快的妖怪庵",
+        "不愉快的怪物庵"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://mononokean.tv/",
+    "begin": "2016-06-28T14:30:00.000Z",
+    "end": "2016-09-20T15:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "168905"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mononokean",
+        "begin": "2016-07-09T15:30:00.000Z"
+      },
+      {
+        "site": "mgtv",
+        "id": "303751",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "8061448",
+        "begin": "2019-01-04T16:00:01.000Z",
+        "broadcast": "R/2019-01-14T10:02:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "81932",
+        "begin": "2020-06-05T06:00:00.000Z",
+        "broadcast": "R/2020-06-05T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_tw",
+        "id": "5014",
+        "begin": "2016-08-01T06:44:49.000Z",
+        "broadcast": "R/2016-08-01T06:44:49.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "怪庵"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "57765d70ca607f850f3f9316"
+      },
+      {
+        "site": "mikan",
+        "id": "750"
+      },
+      {
+        "site": "danime",
+        "id": "20979",
+        "begin": "2016-07-06T03:00:00.000Z",
+        "broadcast": "R/2016-07-06T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2019,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A21128-978128319.1542858420.jpg",
+    "thumbnail": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A21128-978128319.1542858420.jpg",
+    "synonyms": [
+      "Fukigen na Mononokean",
+      "Fukigen na Mononokean Tsuzuki",
+      "Mononokean l'imbronciato II",
+      "The Morose Mononokean",
+      "不機嫌なモノノケ庵"
     ]
   },
   {

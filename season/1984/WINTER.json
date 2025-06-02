@@ -62,8 +62,11 @@
       "Doraemon: Nobita`s Great Adventure into the Underworld",
       "Doraemon: Nobita’s Great Adventure in the World of Magic",
       "Doraemon: Nobita’s Great Adventure into the Underworld",
+      "Eiga Doraemon: Nobita no Makai Daibōken",
       "ドラえもん のび太の魔界大冒険",
-      "映画 ドラえもん のび太の魔界大冒険"
+      "大雄的魔界大冒險",
+      "映画 ドラえもん のび太の魔界大冒険",
+      "映画ドラえもん のび太の魔界大冒険"
     ]
   },
   {
@@ -109,6 +112,7 @@
       "Meitantei Holmes Movie",
       "Meitantei Holmes Movie 01",
       "Meitantei Holmes: Aoi Ruby no Maki / Kaitei no Zaihō no Maki",
+      "Sherlock Hound",
       "Sherlock Hound Movie",
       "Sherlock Hound Movie 01",
       "Sherlock Hound: The Adventure of the Blue Carbuncle / Treasure Under the Sea",
@@ -158,21 +162,28 @@
     "picture": "https://cdn.myanimelist.net/images/anime/10/75914.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/10/75914t.jpg",
     "synonyms": [
+      "Chiến binh thung lũng gió",
+      "Guerreros del Viento",
       "Kaze no Tani no Naushika",
       "Kaze no Tani no Nausicaa",
       "Kaze no Tani no Nausicā",
       "La Princesse des Etoiles",
+      "La Princesse des Étoiles",
       "La princesse des étoiles",
       "Le Combat des Princes de l’Espace",
       "Naushika",
       "Nausicaa",
       "Nausicaa aus dem Tal der Winde",
+      "Nausicaa del Valle del Viento",
+      "Nausicaa della Valle del Vento",
       "Nausicaa din Valea Vântului",
+      "Nausicaa fra vindenes dal",
       "Nausicaa of the Valley of the Wind",
       "Nausicaä",
       "Nausicaä - Prinsessen fra Vindens Dal",
       "Nausicaä - prinsessen fra Vindens dal",
       "Nausicaä aus dem Tal der Winde",
+      "Nausicaä de la Vall del Vent",
       "Nausicaä de la Vallée du Vent",
       "Nausicaä de la vallée du vent",
       "Nausicaä del Valle del Viento",
@@ -183,9 +194,11 @@
       "Nausicaä do Vale do Vento",
       "Nausicaä fra Vindenes Dal",
       "Nausicaä från Vindarnas dal",
+      "Nausicaä från vindarnas dal",
       "Nausicaä iz Dežele vetra",
       "Nausicaä of the Valley of the Wind",
       "Nausicaä z Doliny Wiatru",
+      "Nausicaä, a Princesa do Vale do Vento",
       "Nausicaä: Guerreros del viento",
       "Nausika iš Vėjų slėnio",
       "Nausikaja iz Doline vjetra",
@@ -198,6 +211,7 @@
       "Nàng công chúa ở Thung lũng gió",
       "Rüzgarlı Vadi",
       "Rüzgârlı Vadi",
+      "SternenKrieger",
       "Sternenkrieger - Warriors of the Wind",
       "Sternenkrieger: Warriors of the Wind",
       "Tuulen laakson Nausicaä",
@@ -209,6 +223,7 @@
       "Η Ναυσικά της Κοιλάδας των Ανέμων",
       "Ναυσικαα",
       "Οι μαχητές του ανέμου",
+      "Навсикая из Долины Ветров",
       "Навсикая из долины ветров",
       "Навсікая",
       "Навсікая Долини вітру",
@@ -226,7 +241,9 @@
       "風の谷のナウシカ",
       "風之谷",
       "风之谷",
-      "바람계곡의 나우시카"
+      "바람 계곡의 나우시카",
+      "바람계곡의 나우시카",
+      "바람의 골짜기의 나우시카"
     ]
   },
   {
@@ -270,6 +287,61 @@
     "thumbnail": "https://cdn.myanimelist.net/images/anime/6/29978t.jpg",
     "synonyms": [
       "おしん"
+    ]
+  },
+  {
+    "title": "とんがり帽子のメモル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小小外星人",
+        "尖帽子的梅莫尔",
+        "尖帽子的记忆"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-03-02T16:00:00.000Z",
+    "end": "1985-03-02T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "16517"
+      },
+      {
+        "site": "bilibili",
+        "id": "2430",
+        "begin": "2013-06-14T17:42:15.000Z",
+        "broadcast": "R/2013-06-14T17:42:15.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091511",
+        "begin": "2023-09-10T03:00:00.000Z",
+        "broadcast": "R/2023-09-10T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1984,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 50,
+    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A1391-11.jpg",
+    "thumbnail": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1391-11.jpg",
+    "synonyms": [
+      "Crocus",
+      "La Magia de Titila",
+      "La pequeña Memole",
+      "Little Memole",
+      "Little Mimi",
+      "Memole dolce Memole",
+      "Memoru in the Pointed Hat",
+      "Skrzaty z Wyspy Li",
+      "Wee Wendy",
+      "ميمي الصغيرة",
+      "とんがり帽子のメモル"
     ]
   },
   {
@@ -317,18 +389,25 @@
       "Choujin Locke: Majo no Millennium",
       "Choujin Locke: Witch Era",
       "Chōjin Locke",
+      "El pequeño Superman",
       "El pequeño superhombre",
       "Locke - O Superman das Galáxias",
       "Locke - superczłowiek",
       "Locke Superczłowiek",
       "Locke The Superman: Millennium of the Witch",
+      "Locke el Pequeño Superhombre",
       "Locke el Superman de las galaxias",
       "Locke the Superman",
+      "Locke the Superman: Millennium of the Witch",
       "Locke the Superman: Witch Era",
+      "Locke the Superpower",
+      "Locke, El Superman de las Galaxias",
       "Locke, el pequeño Supermán",
       "Luck l'Intrépide",
+      "Luck l'intrépide",
       "Luck the galaxy fighter",
       "Luke l'Invincible",
+      "Luke l'invincible",
       "Space Warriors",
       "Star Warriors",
       "Superman de las Galaxias",
@@ -396,6 +475,7 @@
       "Lamu - Beautiful Dreamer",
       "Lamu - Film 2",
       "Lamu - Un rêve sans fin",
+      "Lamu : Un rêve sans fin",
       "Lamu Película 2: Beautiful Dreamer",
       "Lamu: Beautiful Dreamer",
       "Lamu: Film 2 - Beautiful Dreamer",
@@ -410,6 +490,8 @@
       "うるせいやつら2びゅーてぃふるどりーまー",
       "うる星やつら2 ビューティフ&#",
       "うる星やつら2 ビューティフル・ドリーマー",
+      "うる星やつら２　ビューティフル・ドリーマー",
+      "福星小子 Beautiful Dreamer",
       "福星小子：绮丽梦中人"
     ]
   },
@@ -456,6 +538,7 @@
       "Cho Kosoku Galvion",
       "Chō Kōsoku Galvion",
       "Galvion",
+      "Mic et Mac",
       "Super High Speed Galvion",
       "ちょうこうそくがるびおん",
       "超攻速ガルビオン"
@@ -553,15 +636,19 @@
     "thumbnail": "https://cdn.myanimelist.net/images/anime/3/11563t.jpg",
     "synonyms": [
       "Adventures of Little El Cid",
+      "El pequeño Cid",
+      "Little El Cid",
       "Little El Cid no Boken",
       "Little El Cid no Bôken",
       "Little El Cid no Bōken",
+      "Mały Rycerz El Cid",
       "Mały rycerz El Cid",
       "Ritoru Eru Shido no Boken",
       "Ritoru eru shido no boken",
       "Rody Le Petit Cid",
       "Rody, le petit Cid",
       "Rui, O Pequeno Cid",
+      "Rui, o pequeno Cid",
       "Ruy",
       "Ruy el pequeño Cid",
       "Ruy the Little Cid",
@@ -573,8 +660,10 @@
       "il piccolo Cid",
       "Ρούι, ο μικρός Ελ Σιντ",
       "Руи - маленький рыцарь",
+      "Руй — маленький Сид",
       "אל סיד",
-      "リトル・エル・シドの冒険"
+      "リトル・エル・シドの冒険",
+      "꼬마 엘시드"
     ]
   },
   {
@@ -760,18 +849,23 @@
     "synonyms": [
       "80 Days Around the World With Willy Fog",
       "80 nap alatt a Föld körül Willy Foggal",
+      "80 дней вокруг света с Вилли Фогом",
       "80 დღე მსოფლიოს გარშემო",
       "80日間世界一周",
+      "A Volta ao Mundo de Willy Fog",
       "A Volta ao Mundo em 80 Dias com Willy Fog",
       "Animated Around the World in 80 Days",
       "Anime 80 Nichikan Sekai Isshuu",
       "Anime 80 Nichikan Sekai Isshū",
       "Anime 80 Sekai Isshu",
+      "Anime 80 sekai isshu",
       "Anime Hachi-Juu Nichikan Sekai Isshuu",
+      "Anime Hachijunichikan Sekai Isshuu",
       "Anime Hachijuu-nichikan Sekai Isshuu",
       "Anime Hachijuunichikan Sekai Isshuu",
       "Apkārt pasaulei kopā ar Villiju Fogu",
       "Aplink pasaulį su Viliu Fogu",
+      "Around The World With Willy Fog",
       "Around the World With Willy Fog",
       "Around the World in Eighty Days",
       "Around the World with Willy Fog",
@@ -782,6 +876,7 @@
       "In 80 Tagen um die Welt mit Willy Fog",
       "Jorden rundt med Willy Fog",
       "Jorden runt med Willy Fog",
+      "Jorden runt på 80 dagar",
       "La Vuelta al Mundo de Willy Fog",
       "La vuelta al mundo de Willy Fog",
       "Le Tour du Monde en 80 Jours",
@@ -789,10 +884,13 @@
       "Maailman ympäri 80 päivässä",
       "Ocolul pământului în 80 de zile cu Willy Fog",
       "Um die Welt mit Willy Fog",
+      "Um die Welt mit Willy Fogg",
       "Umhverfis jörðina á áttatíu dögum",
       "Villi Fogla dünya ətrafına",
       "W 80 dni dookoła świata z Willy Foggiem",
       "W osiemdziesiąt dni dookoła świata",
+      "W osiemdziesiąt dni dookoła świata z Willym Fogiem",
+      "Willy Fog - Maailman ympäri 80 päivässä",
       "Willy Fog na cestě kolem světa",
       "Willy Fog: W osiemdziesiąt dni dookoła świata",
       "Willy Världsvan",
@@ -808,7 +906,8 @@
       "السبع المدهش",
       "حول العالم مع سبع المدهش",
       "アニメ 80日間世界一周",
-      "アニメ80日間世界一周"
+      "アニメ80日間世界一周",
+      "アニメ八十日間世界一周"
     ]
   },
   {
@@ -857,9 +956,12 @@
       "OKAWARI-BOY Starzan S",
       "OKAWARI-BOY スターザンS",
       "Okawari-Boy Starzan S",
+      "Starzan",
       "Starzan S",
       "Transforming Boy Starzan S",
-      "Transforming Boy Starzan-S"
+      "Transforming Boy Starzan-S",
+      "스타잔",
+      "스타잔 '94"
     ]
   }
 ]
