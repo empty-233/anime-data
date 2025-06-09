@@ -2962,7 +2962,8 @@
         "干物妹！小埋R"
       ],
       "zh-Hant": [
-        "我家有個魚乾妹 R"
+        "我家有個魚乾妹 R",
+        "我家有個魚乾妹R"
       ],
       "en": [
         "HIMOUTO! UMARUCHAN R"
@@ -3032,6 +3033,12 @@
         "id": "PLxSscENEp7Jgxa52rp4SXfDV3QdnJcEXt",
         "begin": "2025-02-16T12:30:06.000Z",
         "broadcast": "R/2025-02-16T12:30:06.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQqnXCgKovYHFp9-0OCs0dU",
+        "begin": "2025-06-04T12:30:06.000Z",
+        "broadcast": "R/2025-06-04T12:30:06.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3425,6 +3432,13 @@
         "begin": "2022-09-30T15:00:00.000Z",
         "broadcast": "R/2022-09-30T15:00:00.000Z/P7D",
         "comment": "#103-154: 25854, #155-170: 25855"
+      },
+      {
+        "site": "mytv",
+        "id": "blackclovers1_143246",
+        "begin": "2025-06-01T02:00:00.000Z",
+        "broadcast": "R/2025-06-01T02:00:00.000Z/P7D",
+        "comment": "#52-102: blackcloverseason20001_143247"
       }
     ],
     "animeSeason": {
@@ -4275,7 +4289,8 @@
     "synonyms": [
       "ふぁいあぼーるゆーもらす",
       "ファイアボール ユーモラス",
-      "火球 幽默之章"
+      "火球 幽默之章",
+      "파이어볼 유어러스"
     ]
   },
   {
@@ -4983,6 +4998,43 @@
       "Sylvanian Families: Miniepisodios",
       "Sylvanian Families: Miniodcinki",
       "シルバニアファミリー ミニストーリー"
+    ]
+  },
+  {
+    "title": "アイスくりたろう",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2017-10-11T16:00:00.000Z",
+    "broadcast": "R/2017-10-11T16:00:00.000Z/P7D",
+    "end": "2018-09-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "387141"
+      },
+      {
+        "site": "danime",
+        "id": "27968",
+        "begin": "2025-05-22T15:00:00.000Z",
+        "broadcast": "R/2025-05-22T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2017,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 49,
+    "picture": "https://cdn.myanimelist.net/images/anime/1875/93756.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1875/93756t.jpg",
+    "synonyms": [
+      "Ice Kuritaro",
+      "Ice Kuritarō",
+      "アイスくりたろう"
     ]
   },
   {

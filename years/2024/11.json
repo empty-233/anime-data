@@ -183,6 +183,12 @@
         "id": "27423",
         "begin": "2024-11-06T13:00:00.000Z",
         "broadcast": "R/2024-11-06T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "729-1",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -480,6 +486,49 @@
       "Yohane The Parhelion: Sunshine in the Mirror Theatrical Compilation",
       "劇場総集編 幻日のヨハネ -SUNSHINE in the MIRROR-",
       "幻日のヨハネ -SUNSHINE in the MIRROR- 劇場総集編"
+    ]
+  },
+  {
+    "title": "PUI PUI モルカー ザ・ムービー MOLMAX",
+    "titleTranslate": {
+      "zh-Hans": [
+        "PUI PUI 天竺鼠车车 MOLMAX"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://molcar-movie.com/",
+    "begin": "2024-11-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "476683"
+      },
+      {
+        "site": "unext",
+        "id": "SID0193129",
+        "begin": "2025-06-01T03:00:00.000Z",
+        "broadcast": "R/2025-06-01T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2024,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1110/145824.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1110/145824t.jpg",
+    "synonyms": [
+      "PUI PUI Molcar the Movie MOLMAX",
+      "PUI PUI モルカー ザ・ムービー MOLMAX",
+      "PUI PUI モルカー ザ・ムービー MOLMAX（モルマックス）",
+      "Pui Pui Molcar Movie: Molmax",
+      "Pui Pui Molcar The Movie Molmax"
     ]
   }
 ]

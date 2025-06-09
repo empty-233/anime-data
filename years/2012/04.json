@@ -528,8 +528,8 @@
     },
     "status": "FINISHED",
     "episodes": 24,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/36313.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/36313t.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/1964/150161.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1964/150161t.jpg",
     "synonyms": [
       "E7 AO",
       "EUREKA SEVEN AO",
@@ -940,6 +940,12 @@
       {
         "site": "dmhy",
         "id": "ZETMAN"
+      },
+      {
+        "site": "danime",
+        "id": "24717",
+        "begin": "2025-05-30T15:00:00.000Z",
+        "broadcast": "R/2025-05-30T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1151,6 +1157,7 @@
       "Is this a Zombie? Of the Dead",
       "Kore ha Zombie Desu ka? Jigokuhen",
       "Kore wa Zombie Desu ka? 2",
+      "Kore wa Zombie Desu ka? Jigoku-hen",
       "Kore wa Zombie Desu ka? Jigokuhen",
       "Kore wa Zombie Desu ka? of the Dead",
       "Kore wa Zombie Desuka? 2",
@@ -2810,6 +2817,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "名侦探柯南 第11位前锋"
+      ],
+      "zh-Hant": [
+        "名偵探柯南：第 11 位前鋒"
+      ],
+      "en": [
+        "Detective Conan the Movie: Eleventh Striker"
       ]
     },
     "type": "movie",
@@ -2848,6 +2861,12 @@
         "id": "SID0004857",
         "begin": "2025-04-18T15:00:00.000Z",
         "broadcast": "R/2025-04-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81757602",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {

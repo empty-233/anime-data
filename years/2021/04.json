@@ -2554,12 +2554,6 @@
         "broadcast": "R/2021-04-30T11:00:00.000Z/P7D"
       },
       {
-        "site": "ani_one_asia",
-        "id": "PLxSscENEp7JgxV0mDkMNtd0TczCCvLb-N",
-        "begin": "2021-04-11T16:00:00.000Z",
-        "broadcast": "R/2021-04-11T16:00:00.000Z/P7D"
-      },
-      {
         "site": "netflix",
         "id": "81333467",
         "begin": "2021-12-05T16:00:00.000Z",
@@ -2922,8 +2916,8 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7Jj_vQ1YG75iGHsFxUbrEYfS",
-        "begin": "2021-04-04T16:00:00.000Z",
-        "broadcast": "R/2021-04-04T16:00:00.000Z/P7D"
+        "begin": "2021-04-05T23:00:00.000Z",
+        "broadcast": "R/2021-04-05T23:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -4513,8 +4507,8 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JgAzPqskHYtlznaK7Q-JpCS",
-        "begin": "2021-04-03T16:00:00.000Z",
-        "broadcast": "R/2021-04-03T16:00:00.000Z/P7D"
+        "begin": "2021-04-04T15:00:00.000Z",
+        "broadcast": "R/2021-04-04T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo_tw",
@@ -4625,8 +4619,8 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JjeBa1rZFpnIGEBtTj3iLxJ",
-        "begin": "2021-04-07T16:00:00.000Z",
-        "broadcast": "R/2021-04-07T16:00:00.000Z/P7D"
+        "begin": "2021-04-08T16:00:00.000Z",
+        "broadcast": "R/2021-04-08T16:00:00.000Z/P7D"
       },
       {
         "site": "ani_one",
@@ -5627,7 +5621,8 @@
         "名偵探柯南：緋色的彈丸"
       ],
       "en": [
-        "Detective Conan the Movie: The Scarlet Bullet"
+        "Detective Conan the Movie: The Scarlet Bullet",
+        "Detective Conan: The Scarlet Bullet"
       ]
     },
     "type": "movie",
@@ -5661,6 +5656,13 @@
       {
         "site": "netflix",
         "id": "81757619",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "43FcyQJ5o9HV",
+        "url": "https://www.disneyplus.com/movies/detective-conan-the-scarlet-bullet/43FcyQJ5o9HV",
         "begin": "",
         "broadcast": ""
       }
