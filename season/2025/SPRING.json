@@ -6,7 +6,12 @@
         "Takopi's Original Sin"
       ],
       "zh-Hans": [
-        "章鱼哔的原罪"
+        "章鱼哔的原罪",
+        "章鱼噼的原罪",
+        "章鱼P的原罪"
+      ],
+      "zh-Hant": [
+        "章魚嗶的原罪"
       ]
     },
     "type": "web",
@@ -20,6 +25,60 @@
       {
         "site": "bangumi",
         "id": "527620"
+      },
+      {
+        "site": "nicovideo",
+        "id": "takopi_project",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0196501",
+        "begin": "2025-06-27T15:00:00.000Z",
+        "broadcast": "R/2025-06-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-266",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28000",
+        "begin": "2025-06-27T15:00:00.000Z",
+        "broadcast": "R/2025-06-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "82040459",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "5H7vwzNyhkdU",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "142775",
+        "begin": "2025-06-27T15:00:00.000Z",
+        "broadcast": "R/2025-06-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSLcx3UKk74V2JQg59t2bU8",
+        "begin": "2025-06-27T15:00:06.000Z",
+        "broadcast": "R/2025-06-27T15:00:06.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JiXIF_XC3Q8zWzNLgWesqLY",
+        "begin": "2025-06-27T15:00:06.000Z",
+        "broadcast": "R/2025-06-27T15:00:06.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -39,6 +98,99 @@
       "Takopi's Original Sin",
       "Takopi’s Original Sin",
       "タコピーの原罪"
+    ]
+  },
+  {
+    "title": "LUPIN THE IIIRD 銭形と2人のルパン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世 钱形与两个鲁邦"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.lupin-3rd.net/zenigata-twolupins/",
+    "begin": "2025-06-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-06-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "555830"
+      },
+      {
+        "site": "unext",
+        "id": "SID0195537",
+        "begin": "2025-06-19T15:00:00.000Z",
+        "broadcast": "R/2025-06-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27937",
+        "begin": "2025-06-19T15:00:00.000Z",
+        "broadcast": "R/2025-06-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DHBCSJG8",
+        "begin": "",
+        "broadcast": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2025,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1094/149586.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1094/149586t.jpg",
+    "synonyms": [
+      "LUPIN THE IIIRD 銭形と2人のルパン",
+      "LUPIN THE IIIRD: Zenigata and the Two Lupins",
+      "LUPIN THE IIIRD: Zenigata to Futari no Lupin",
+      "Lupin the IIIrd: Zenigata to Futari no Lupin"
+    ]
+  },
+  {
+    "title": "新星ギャルバース",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新星Galverse"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.galverse.art/",
+    "begin": "2025-06-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-06-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "557430"
+      },
+      {
+        "site": "danime",
+        "id": "28108",
+        "begin": "2025-06-25T12:30:00.000Z",
+        "broadcast": "R/2025-06-25T12:30:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2025,
+      "month": "06"
+    },
+    "status": "UPCOMING",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1821/150610.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1821/150610t.jpg",
+    "synonyms": [
+      "新星ギャルバース"
     ]
   },
   {
@@ -165,7 +317,7 @@
     "officialSite": "https://arumajo-anime.com/",
     "begin": "2025-04-01T14:30:00.000Z",
     "broadcast": "R/2025-04-01T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-17T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -257,7 +409,7 @@
     "officialSite": "https://ninkoro.jp/",
     "begin": "2025-04-10T12:30:00.000Z",
     "broadcast": "R/2025-04-10T12:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-26T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -361,7 +513,7 @@
     "officialSite": "https://www.gundam.info/feature/gquuuuuux/",
     "begin": "2025-04-08T15:29:00.000Z",
     "broadcast": "R/2025-04-08T15:29:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-24T15:59:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -458,7 +610,7 @@
     "officialSite": "https://slime300-anime.com/",
     "begin": "2025-04-05T12:30:00.000Z",
     "broadcast": "R/2025-04-05T12:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-21T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -735,7 +887,7 @@
     "officialSite": "https://maebashi-witches.com/",
     "begin": "2025-04-06T13:30:00.000Z",
     "broadcast": "R/2025-04-06T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-22T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -841,7 +993,7 @@
     "officialSite": "https://hanadoll-anime.com/",
     "begin": "2025-04-09T13:30:00.000Z",
     "broadcast": "R/2025-04-09T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-25T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -935,7 +1087,7 @@
     "officialSite": "https://www.compass-anime.com/",
     "begin": "2025-04-07T15:00:00.000Z",
     "broadcast": "R/2025-04-07T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-23T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1026,7 +1178,7 @@
     "officialSite": "https://ossan-kensei.com/",
     "begin": "2025-04-05T14:30:00.000Z",
     "broadcast": "R/2025-04-05T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-21T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1119,7 +1271,7 @@
     "officialSite": "https://seikankokka-anime.com/",
     "begin": "2025-04-05T17:00:00.000Z",
     "broadcast": "R/2025-04-05T17:00:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-21T18:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1241,7 +1393,7 @@
     "officialSite": "https://sh-anime.shochiku.co.jp/yamihealer/",
     "begin": "2025-04-03T14:30:00.000Z",
     "broadcast": "R/2025-04-03T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-19T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1584,7 +1736,8 @@
         "site": "danime",
         "id": "27757",
         "begin": "2025-04-06T00:30:00.000Z",
-        "broadcast": "R/2025-04-06T00:30:00.000Z/P7D"
+        "broadcast": "R/2025-04-06T00:30:00.000Z/P7D",
+        "comment": "総集編: 28072"
       },
       {
         "site": "bangumi_moe",
@@ -1711,7 +1864,7 @@
     "officialSite": "https://zatsutabi.com/",
     "begin": "2025-04-07T13:00:00.000Z",
     "broadcast": "R/2025-04-07T13:00:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-23T13:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1819,7 +1972,7 @@
     "officialSite": "https://apocalypse-hotel.jp/",
     "begin": "2025-04-08T16:34:00.000Z",
     "broadcast": "R/2025-04-08T16:34:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-24T17:10:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1915,7 +2068,7 @@
     "officialSite": "https://chuzenji-anime.jp/",
     "begin": "2025-04-07T12:30:00.000Z",
     "broadcast": "R/2025-04-07T12:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-23T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2031,7 +2184,7 @@
     "officialSite": "https://www.danjoru.com/",
     "begin": "2025-04-04T13:30:00.000Z",
     "broadcast": "R/2025-04-04T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-20T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2153,7 +2306,7 @@
     "officialSite": "https://takaminesan.com/",
     "begin": "2025-04-02T13:30:00.000Z",
     "broadcast": "R/2025-04-02T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-18T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2245,7 +2398,7 @@
     "officialSite": "https://anime-umamusume.jp/",
     "begin": "2025-04-06T07:30:00.000Z",
     "broadcast": "R/2025-04-06T07:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-29T08:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2342,7 +2495,7 @@
     "officialSite": "https://nazod-anime.com/",
     "begin": "2025-04-04T14:30:00.000Z",
     "broadcast": "R/2025-04-04T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-20T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2404,7 +2557,7 @@
     "officialSite": "https://rocklady.rocks/",
     "begin": "2025-04-03T14:56:00.000Z",
     "broadcast": "R/2025-04-03T14:56:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-26T15:26:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2527,7 +2680,7 @@
     "officialSite": "https://kowloongr.jp/anime/",
     "begin": "2025-04-05T14:00:00.000Z",
     "broadcast": "R/2025-04-05T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-28T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2647,7 +2800,7 @@
     "officialSite": "https://gorillalady-anime.com/",
     "begin": "2025-04-06T14:30:00.000Z",
     "broadcast": "R/2025-04-06T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-22T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2736,7 +2889,7 @@
     "officialSite": "https://kanpekiseijo-anime.com/",
     "begin": "2025-04-09T15:00:00.000Z",
     "broadcast": "R/2025-04-09T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-18T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2809,7 +2962,7 @@
     "officialSite": "https://www.kuroshitsuji.tv/emeraldwitch/",
     "begin": "2025-04-05T14:30:00.000Z",
     "broadcast": "R/2025-04-05T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-28T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2904,7 +3057,7 @@
     "officialSite": "https://fireforce-anime.jp/",
     "begin": "2025-04-04T16:53:00.000Z",
     "broadcast": "R/2025-04-04T16:53:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-20T17:23:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2984,7 +3137,7 @@
     "officialSite": "https://aharen-pr.com/",
     "begin": "2025-04-07T13:00:00.000Z",
     "broadcast": "R/2025-04-07T13:00:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-23T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3098,7 +3251,7 @@
     "officialSite": "https://anime-ballpark.com/",
     "begin": "2025-04-01T15:00:00.000Z",
     "broadcast": "R/2025-04-01T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-17T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3191,7 +3344,7 @@
     "officialSite": "https://shiunjifamily.com/",
     "begin": "2025-04-08T13:30:00.000Z",
     "broadcast": "R/2025-04-08T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-24T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3382,7 +3535,7 @@
     "officialSite": "https://aiomodarkelf.deregula.com/",
     "begin": "2025-04-06T16:05:00.000Z",
     "broadcast": "R/2025-04-06T16:05:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-22T16:20:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3477,7 +3630,7 @@
     "officialSite": "https://vigilante-anime.com/",
     "begin": "2025-04-07T14:00:00.000Z",
     "broadcast": "R/2025-04-07T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-30T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3603,7 +3756,7 @@
     "officialSite": "https://www.yourforma-anime.com/",
     "begin": "2025-04-02T14:45:00.000Z",
     "broadcast": "R/2025-04-02T14:45:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-25T15:15:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3704,7 +3857,7 @@
     "officialSite": "https://makinasan-anime.com/",
     "begin": "2025-04-06T16:20:00.000Z",
     "broadcast": "R/2025-04-06T16:20:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-22T16:35:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3800,7 +3953,7 @@
     "officialSite": "https://classicstars-anime.com/",
     "begin": "2025-04-05T16:00:00.000Z",
     "broadcast": "R/2025-04-05T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-28T16:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3903,7 +4056,7 @@
     "officialSite": "https://hibimeshi.com/",
     "begin": "2025-04-12T15:30:00.000Z",
     "broadcast": "R/2025-04-12T15:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-28T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4011,7 +4164,7 @@
     "officialSite": "https://lazarus.aniplex.co.jp/",
     "begin": "2025-04-06T14:45:00.000Z",
     "broadcast": "R/2025-04-06T14:45:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-29T15:15:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4108,7 +4261,7 @@
     "officialSite": "https://www.atpress.ne.jp/news/429240",
     "begin": "2025-04-03T18:15:00.000Z",
     "broadcast": "R/2025-04-03T18:15:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-26T18:16:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4180,6 +4333,12 @@
       {
         "site": "bangumi_moe",
         "id": "67ed5cc48b961748467f460f"
+      },
+      {
+        "site": "prime",
+        "id": "B0F27HFZ3P",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -4215,7 +4374,7 @@
     "officialSite": "https://www.gagbi-go.com/",
     "begin": "2025-04-05T13:30:00.000Z",
     "broadcast": "R/2025-04-05T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-21T13:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4305,7 +4464,7 @@
     "officialSite": "https://mono-weekend.photo/",
     "begin": "2025-04-12T15:00:00.000Z",
     "broadcast": "R/2025-04-12T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-28T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4446,7 +4605,7 @@
     "officialSite": "https://kanchigai-pr.com/",
     "begin": "2025-04-06T13:00:00.000Z",
     "broadcast": "R/2025-04-06T13:00:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-15T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4674,7 +4833,7 @@
     "officialSite": "https://chikuwa-anime.cycomi.com/",
     "begin": "2025-04-08T12:55:00.000Z",
     "broadcast": "R/2025-04-08T12:55:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-24T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4824,7 +4983,7 @@
     "officialSite": "https://wb-anime.net/",
     "begin": "2025-04-02T15:26:00.000Z",
     "broadcast": "R/2025-04-02T15:26:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-19T15:56:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5040,7 +5199,7 @@
     "officialSite": "https://sh-anime.shochiku.co.jp/anime-sentai-daishikkaku/",
     "begin": "2025-04-13T14:30:00.000Z",
     "broadcast": "R/2025-04-13T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-29T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5134,7 +5293,7 @@
     "officialSite": "https://shoshimin-anime.com/",
     "begin": "2025-04-04T16:30:00.000Z",
     "broadcast": "R/2025-04-04T16:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-21T17:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5227,8 +5386,8 @@
     "lang": "ja",
     "officialSite": "https://hicbc.com/tv/agaruanime/news/20250305.php",
     "begin": "2025-04-06T14:30:00.000Z",
-    "broadcast": "R/2025-04-06T14:30:00.000Z/P7D",
-    "end": "",
+    "broadcast": "R/2025-04-06T14:30:00.000Z/P0D",
+    "end": "2025-04-06T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5393,7 +5552,7 @@
     "officialSite": "https://saikyoohanime.com/",
     "begin": "2025-04-05T16:00:00.000Z",
     "broadcast": "R/2025-04-05T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-28T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5417,6 +5576,12 @@
         "id": "27910",
         "begin": "2025-04-05T23:00:00.000Z",
         "broadcast": "R/2025-04-05T23:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F3NY711T",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -5564,7 +5729,7 @@
     "officialSite": "https://www.tv-tokyo.co.jp/anime/shibuya-hachi/",
     "begin": "2025-04-04T16:00:00.000Z",
     "broadcast": "R/2025-04-04T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2025-07-03T16:33:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5724,7 +5889,7 @@
     "officialSite": "https://shirohiyo.com/",
     "begin": "2025-04-20T13:30:00.000Z",
     "broadcast": "R/2025-06-20T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-29T11:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5931,8 +6096,8 @@
       {
         "site": "bilibili",
         "id": "22097697",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-08-02T12:00:00.000Z",
+        "broadcast": "R/2024-08-02T12:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -6047,8 +6212,8 @@
       {
         "site": "bilibili",
         "id": "25581499",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-06T02:00:00.000Z",
+        "broadcast": "R/2025-04-06T02:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {

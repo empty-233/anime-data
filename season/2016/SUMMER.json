@@ -97,8 +97,8 @@
       {
         "site": "bilibili",
         "id": "21134848",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-12-02T02:00:00.000Z",
+        "broadcast": "R/2023-12-02T02:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -466,8 +466,8 @@
       {
         "site": "bilibili",
         "id": "12116",
-        "begin": "2016-09-17T16:00:00.000Z",
-        "broadcast": ""
+        "begin": "2017-10-10T07:11:00.000Z",
+        "broadcast": "R/2017-10-10T07:11:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -833,7 +833,8 @@
       {
         "site": "nicovideo",
         "id": "7-taizai02",
-        "begin": "2016-08-28T09:00:00.000Z"
+        "begin": "2016-08-28T09:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "unext",
@@ -979,7 +980,8 @@
       {
         "site": "nicovideo",
         "id": "kizumonogatari",
-        "begin": "2019-07-14T15:00:00.000Z"
+        "begin": "2019-07-14T15:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "gamer",
@@ -1188,6 +1190,13 @@
         "begin": "2023-10-31T15:00:00.000Z",
         "broadcast": "R/2023-10-31T15:00:00.000Z/P7D",
         "comment": "後編: 24363"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gintama-aizenkouhen1",
+        "begin": "",
+        "broadcast": "",
+        "comment": "後編: gintama-aizenkouhen2"
       }
     ],
     "animeSeason": {
@@ -2267,12 +2276,6 @@
         "id": "80256",
         "begin": "2022-10-07T03:30:00.000Z",
         "broadcast": "R/2022-10-07T03:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "25-43zr98hyeb55",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",

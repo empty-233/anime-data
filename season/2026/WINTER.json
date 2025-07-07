@@ -78,8 +78,8 @@
       {
         "site": "bilibili",
         "id": "22134462",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-06-28T10:00:12.000Z",
+        "broadcast": "R/2024-06-28T10:00:12.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -434,7 +434,8 @@
         "site": "bilibili",
         "id": "21087073",
         "begin": "2023-10-24T12:00:01.000Z",
-        "broadcast": "R/2023-10-24T12:00:01.000Z/P7D"
+        "broadcast": "R/2023-10-24T12:00:01.000Z/P7D",
+        "comment": "中配版: 26650111"
       },
       {
         "site": "abema",
@@ -900,6 +901,12 @@
         "id": "21581",
         "begin": "2017-05-01T01:00:00.000Z",
         "broadcast": "R/2017-05-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "750-1",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
