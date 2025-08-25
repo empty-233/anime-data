@@ -1,37 +1,41 @@
 # anime-data
 
-将[bangumi-data](https://github.com/bangumi-data/bangumi-data)和[anime-offline-database](https://github.com/manami-project/anime-offline-database)仓库合并，并为其添加了typescript类型定义
+[English](./README.en.md) | 简体中文
+
+将 [bangumi-data](https://github.com/bangumi-data/bangumi-data) 和 [anime-offline-database](https://github.com/manami-project/anime-offline-database) 仓库合并，并为其添加了 TypeScript 类型定义。
 
 ## 项目结构
 
-切换到release分支
+数据文件位于 `release` 分支。
 
-``` text
+```text
 .
-├── bangumi-data            # bangumi-data data.d.ts
-│   └── data.d.ts  
-├── season                  # 季节
-│   └── [年]                # 以年份分割的目录
-|       └──[季节].json      # 以季节分割
-├── years                   # 年(按照bangumi-data仓库结构)
-│   └── [年]                # 以年份分割的目录
-|       └──[月].json        # 以月份分割的目录，番组以开播年月放在对应的文件中
-├── data.d.ts               # data.d.ts(typescript声明文件)
-└── data.json               # 全部数据
+├── data.d.ts               # 完整数据集的 TypeScript 声明文件
+├── data.json               # 单个文件中的所有动画数据
+├── bangumi-data            # 包含类型定义的 bangumi-data
+│   └── data.d.ts
+├── season                  # 按季节组织的动画数据
+│   └── [年]                # 每年的目录
+│       └── [季节].json   # 特定季节的数据 (例如, spring.json)
+└── years                   # 按发行年份组织的动画数据 (遵循 bangumi-data 结构)
+    └── [年]                # 每年的目录
+        └── [月].json        # 在该月开始播放的动画
 ```
 
 ## 使用方法
 
-### git
+### Git
 
-``` bash
-git clone --depth 1 https://github.com/empty-233/anime-data.git -b release
+建议克隆 `release` 分支，该分支包含最新的数据。
+
+```bash
+git clone --depth 1 -b release https://github.com/empty-233/anime-data.git
 ```
 
 ### 直接下载
 
-切换到release分支
+您也可以直接从 GitHub 上的 `release` 分支下载数据。
 
 ## 更新频率
 
-每周一3点通过GitHub action构建
+数据每周一凌晨3点通过 GitHub Actions 自动更新。

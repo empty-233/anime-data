@@ -2,7 +2,7 @@ import fs from "fs";
 import { join as pathJoin, parse } from "path";
 import { Root, Data } from "./data.d.js";
 import { cloneRepository } from "./utils/git.js";
-import { readFilesInFolder, splitUrl, formatDate } from "./utils/utils.js";
+import { readFilesInFolder, splitUrl, formatDate, downloadJson } from "./utils/utils.js";
 // @ts-ignore
 import { Item as bangumiDataList } from "./original-data/bangumi-data/data.js";
 import {
@@ -17,15 +17,18 @@ export const gitClone = (
   cloneRepository(repositoryUrl, destinationPath);
 };
 
+const main = async () => {
 //拉取仓库
 const bangumi_data_path: string = "./original-data/bangumi-data";
-const anime_offline_database_path: string =
-  "./original-data/anime-offline-database";
+const anime_offline_database_json_path: string = 
+  "./original-data/anime-offline-database.json";
 
 gitClone("https://github.com/bangumi-data/bangumi-data.git", bangumi_data_path);
-gitClone(
-  "https://github.com/manami-project/anime-offline-database.git",
-  anime_offline_database_path
+
+// 下载anime-offline-database JSON文件
+await downloadJson(
+  "https://github.com/manami-project/anime-offline-database/releases/download/latest/anime-offline-database.json",
+  anime_offline_database_json_path
 );
 
 //读取所有文件
@@ -36,7 +39,7 @@ const bangumi_data_paths = readFilesInFolder(
 const readFile = (path: string) => JSON.parse(fs.readFileSync(path, "utf-8"));
 
 const anime_offline_database: animeOfflineDatabaseList = readFile(
-  `${anime_offline_database_path}/anime-offline-database.json`
+  anime_offline_database_json_path
 );
 
 /**
@@ -186,3 +189,8 @@ for (const year in classifiedAnime) {
 
 //写入全部
 writeJsonFile("./data", "data.json", animeData);
+
+};
+
+// 执行主函数
+main().catch(console.error);
