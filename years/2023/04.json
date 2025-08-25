@@ -137,6 +137,18 @@
         "id": "26302",
         "begin": "2023-04-08T15:00:00.000Z",
         "broadcast": "R/2023-04-08T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "123790",
+        "begin": "2025-07-02T09:00:00.000Z",
+        "broadcast": "R/2025-07-02T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "123790",
+        "begin": "2025-07-02T09:00:00.000Z",
+        "broadcast": "R/2025-07-02T09:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -821,12 +833,6 @@
         "broadcast": "R/2023-06-12T13:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "173-5",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0079597",
         "begin": "2023-04-30T13:30:00.000Z",
@@ -1237,12 +1243,6 @@
         "broadcast": "R/2023-04-10T13:30:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-151",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0079683",
         "begin": "2023-04-10T13:30:00.000Z",
@@ -1300,6 +1300,7 @@
       "Kuma Kuma Kuma Bear—Punch!",
       "The Bears Bear a Bare Kuma 2nd Season",
       "kumabear s2",
+      "Ми-ми-ми-мишка 2",
       "Ми-ми-ми-мишка! Бам!",
       "くま クマ 熊 ベアー 2",
       "くま クマ 熊 ベアー 2ndシーズ",
@@ -1525,12 +1526,6 @@
       {
         "site": "mikan",
         "id": "2970"
-      },
-      {
-        "site": "abema",
-        "id": "182-1450",
-        "begin": "",
-        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -1730,12 +1725,6 @@
         "broadcast": "R/2023-04-10T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-239",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bilibili",
         "id": "21118996",
         "begin": "2023-10-31T02:00:00.000Z",
@@ -1746,12 +1735,6 @@
         "id": "SID0079684",
         "begin": "2023-04-10T15:00:00.000Z",
         "broadcast": "R/2023-04-10T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "disneyplus",
-        "id": "3Vh4YNolJQPs",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "gamer_hk",
@@ -1976,12 +1959,6 @@
         "broadcast": "R/2023-04-04T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "26-197",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0079946",
         "begin": "2023-04-04T03:00:00.000Z",
@@ -2129,6 +2106,12 @@
       {
         "site": "mikan",
         "id": "2965"
+      },
+      {
+        "site": "danime",
+        "id": "26280",
+        "begin": "2025-06-30T15:00:00.000Z",
+        "broadcast": "R/2025-06-30T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3045,8 +3028,8 @@
     },
     "status": "FINISHED",
     "episodes": 13,
-    "picture": "https://cdn.myanimelist.net/images/anime/1403/134149.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1403/134149t.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/1623/105487.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1623/105487t.jpg",
     "synonyms": [
       "Jin Tian Kai Shi Zuo Ming Xing",
       "Jintian Wo Kaishi Zuo Mingxing",
@@ -3288,12 +3271,6 @@
         "broadcast": "R/2023-04-02T15:00:00.000Z/P7D"
       },
       {
-        "site": "disneyplus",
-        "id": "1xtVv7A9o2eI",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "125225",
         "begin": "2023-04-02T15:00:00.000Z",
@@ -3407,6 +3384,12 @@
         "id": "119698",
         "begin": "2023-09-22T04:00:00.000Z",
         "broadcast": "R/2023-09-22T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26282",
+        "begin": "2025-06-30T15:00:00.000Z",
+        "broadcast": "R/2025-06-30T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4264,6 +4247,7 @@
       "デッドマウント・デスプレイ (2023)",
       "デッドマウント・デスプレイ 2クール",
       "デッドマウント・デスプレイ 第2クール",
+      "デッドマウント・デスプレイ （2023）",
       "亡骸游戏 第二季度",
       "屍體如山的死亡遊戲",
       "屍體如山的死亡遊戲 第二季",
@@ -4646,8 +4630,8 @@
       {
         "site": "gamer",
         "id": "131853",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-06-01T11:00:00.000Z",
+        "broadcast": "R/2024-06-01T11:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -4674,7 +4658,7 @@
       "month": "04"
     },
     "status": "ONGOING",
-    "episodes": 99,
+    "episodes": 104,
     "picture": "https://cdn.myanimelist.net/images/anime/1703/137216.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1703/137216t.jpg",
     "synonyms": [
@@ -5270,6 +5254,7 @@
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1601/135341t.jpg",
     "synonyms": [
       "ゴー! ゴー! びーくるずー",
+      "ゴー！ ゴー！ びーくるずー",
       "ゴー！ゴ―！びーくるずー",
       "ゴー！ゴー！びーくるずー"
     ]
@@ -5332,6 +5317,13 @@
         "id": "81757620",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "3On2EbLKUsH1",
+        "url": "https://www.disneyplus.com/movies/detective-conan-black-iron-submarine/3On2EbLKUsH1",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -5351,6 +5343,7 @@
       "Detective Conan Movie 26: Kurogane no Submarine",
       "Detective Conan The Movie: Black Iron Submarine",
       "Detective Conan: Black Iron Submarine",
+      "Detective Conan: Il sottomarino di ferro nero",
       "Detective Conan: Movie 26",
       "Detektiv Conan Film 26",
       "Detektiv Conan: Das schwarze U-Boot",
