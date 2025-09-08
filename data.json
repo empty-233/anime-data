@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/empty-233/anime-data",
-  "lastUpdate": "2025-09-01",
+  "lastUpdate": "2025-09-08",
   "data": [
     {
       "title": "夢中さ、きみに。",
@@ -39,13 +39,13 @@
         },
         {
           "site": "unext",
-          "id": "SID0200141",
-          "begin": "",
-          "broadcast": ""
+          "id": "SID0200150",
+          "begin": "2025-08-24T13:00:00.000Z",
+          "broadcast": "R/2025-08-24T13:00:00.000Z/P7D"
         },
         {
           "site": "abema",
-          "id": "25-290",
+          "id": "25-291",
           "begin": "",
           "broadcast": ""
         },
@@ -57,15 +57,21 @@
         },
         {
           "site": "gamer",
-          "id": "141952",
+          "id": "145946",
           "begin": "2025-08-21T12:30:00.000Z",
           "broadcast": "R/2025-08-21T12:30:00.000Z/P7D"
         },
         {
           "site": "gamer_hk",
-          "id": "141952",
+          "id": "145946",
           "begin": "2025-08-21T12:30:00.000Z",
           "broadcast": "R/2025-08-21T12:30:00.000Z/P7D"
+        },
+        {
+          "site": "ani_one",
+          "id": "PLC18xlbCdwtQZe7c3vIyMvgWjyXZsEK_T",
+          "begin": "2025-07-24T12:30:06.000Z",
+          "broadcast": "R/2025-07-24T12:30:06.000Z/P7D"
         },
         {
           "site": "ani_one_asia",
@@ -76,6 +82,18 @@
         {
           "site": "mikan",
           "id": "3712"
+        },
+        {
+          "site": "danime",
+          "id": "28110",
+          "begin": "2025-08-24T13:00:00.000Z",
+          "broadcast": "R/2025-08-24T13:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0FC2PC12V",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -1636,6 +1654,12 @@
           "id": "129434",
           "begin": "2025-07-08T17:30:00.000Z",
           "broadcast": "R/2025-07-08T17:30:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0FB7LBGVS",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -1729,6 +1753,12 @@
         {
           "site": "disneyplus",
           "id": "42LgqWWAlxgK",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "prime",
+          "id": "B0F4L7V6S6",
           "begin": "",
           "broadcast": ""
         }
@@ -3459,7 +3489,7 @@
       "officialSite": "https://www.foodcourtjk-anime.com/",
       "begin": "2025-07-07T12:30:00.000Z",
       "broadcast": "R/2025-07-07T12:30:00.000Z/P7D",
-      "end": "",
+      "end": "2025-08-11T13:00:00.000Z",
       "comment": "",
       "sites": [
         {
@@ -3476,7 +3506,8 @@
           "site": "unext",
           "id": "SID0200142",
           "begin": "2025-07-12T13:30:00.000Z",
-          "broadcast": "R/2025-07-12T13:30:00.000Z/P7D"
+          "broadcast": "R/2025-07-12T13:30:00.000Z/P7D",
+          "comment": "アンコール版: SID0200143"
         },
         {
           "site": "abema",
@@ -3956,6 +3987,12 @@
         {
           "site": "mikan",
           "id": "3704"
+        },
+        {
+          "site": "prime",
+          "id": "B0F4MJ88Y8",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -4637,8 +4674,8 @@
         {
           "site": "unext",
           "id": "SID0200141",
-          "begin": "",
-          "broadcast": ""
+          "begin": "2025-07-27T13:00:00.000Z",
+          "broadcast": "R/2025-07-27T13:00:00.000Z/P7D"
         },
         {
           "site": "abema",
@@ -4669,6 +4706,12 @@
           "broadcast": "R/2025-07-24T12:30:00.000Z/P7D"
         },
         {
+          "site": "ani_one",
+          "id": "PLC18xlbCdwtQZe7c3vIyMvgWjyXZsEK_T",
+          "begin": "2025-07-24T12:30:06.000Z",
+          "broadcast": "R/2025-07-24T12:30:06.000Z/P7D"
+        },
+        {
           "site": "ani_one_asia",
           "id": "PLxSscENEp7Jj7H_29_-ZpnYRA0Gx-ESrI",
           "begin": "2025-07-24T12:30:00.000Z",
@@ -4677,6 +4720,18 @@
         {
           "site": "mikan",
           "id": "3712"
+        },
+        {
+          "site": "danime",
+          "id": "28109",
+          "begin": "2025-07-27T13:00:00.000Z",
+          "broadcast": "R/2025-07-27T13:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0F83VB5P5",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -5445,6 +5500,49 @@
       ]
     },
     {
+      "title": "ネコのクラちゃん ～Ordinary days～",
+      "titleTranslate": {},
+      "type": "tv",
+      "lang": "ja",
+      "officialSite": "https://nekonokurachan-ordinarydays.jp",
+      "begin": "2025-07-08T16:00:00.000Z",
+      "broadcast": "R/2025-07-08T16:00:00.000Z/P7D",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "565400"
+        },
+        {
+          "site": "danime",
+          "id": "28168",
+          "begin": "2025-07-23T11:30:00.000Z",
+          "broadcast": "R/2025-07-23T11:30:00.000Z/P7D"
+        }
+      ],
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2023,
+        "month": "07"
+      },
+      "status": "FINISHED",
+      "episodes": 26,
+      "picture": "https://cdn.myanimelist.net/images/anime/1616/151047.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1616/151047t.jpg",
+      "synonyms": [
+        "DNAxCAT Season 2.5",
+        "DNA×CAT Season 2.5",
+        "Jiu Cang Miao Wo Di-2.5 Ji",
+        "Jiu Cang Miao Wo: Richang Pian",
+        "Neko no Kura-chan: Ordinary Days",
+        "Neko no Kura-chan: Ordinary days",
+        "ネコのクラちゃん ～Ordinary days～",
+        "九藏喵窝 第2.5季",
+        "九藏喵窩 日常篇"
+      ]
+    },
+    {
       "title": "タコピーの原罪",
       "titleTranslate": {
         "en": [
@@ -5464,7 +5562,7 @@
       "officialSite": "https://www.tbs.co.jp/anime/takopi_project/",
       "begin": "2025-06-27T15:00:00.000Z",
       "broadcast": "R/2025-06-27T15:00:00.000Z/P7D",
-      "end": "",
+      "end": "2025-08-01T15:30:00.000Z",
       "comment": "",
       "sites": [
         {
@@ -5704,6 +5802,52 @@
         "U探泰拉",
         "U探泰拉U Tan Tai La",
         "テラライブ"
+      ]
+    },
+    {
+      "title": "プリンセス・プリンシパル Crown Handler 第4章",
+      "titleTranslate": {
+        "zh-Hans": [
+          "Princess Principal Crown Handler 第4章",
+          "公主代理人 Crown Handler 第4章",
+          "公主委托人 Crown Handler 第4章",
+          "公主准则 Crown Handler 第4章"
+        ]
+      },
+      "type": "movie",
+      "lang": "ja",
+      "officialSite": "https://pripri-anime.jp/",
+      "begin": "2025-05-22T16:00:00.000Z",
+      "broadcast": "",
+      "end": "2025-05-22T16:59:00.000Z",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "244931"
+        },
+        {
+          "site": "unext",
+          "id": "SID0212207",
+          "begin": "2025-08-08T03:00:00.000Z",
+          "broadcast": "R/2025-08-08T03:00:00.000Z/P7D"
+        }
+      ],
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2025,
+        "month": "05"
+      },
+      "status": "FINISHED",
+      "episodes": 1,
+      "picture": "https://cdn.myanimelist.net/images/anime/1461/147981.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1461/147981t.jpg",
+      "synonyms": [
+        "Princess Principal Movie 4",
+        "Princess Principal: Crown Handler - Chapter 4",
+        "Princess Principal: Crown Handler 4",
+        "プリンセス・プリンシパル Crown Handler 第4章",
+        "プリンセス・プリンシパル Crown Handler 第4話"
       ]
     },
     {
@@ -9079,6 +9223,12 @@
         {
           "site": "dmhy",
           "id": "紫雲寺"
+        },
+        {
+          "site": "netflix",
+          "id": "82033310",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -9879,6 +10029,12 @@
         {
           "site": "dmhy",
           "id": "LAZARUS"
+        },
+        {
+          "site": "netflix",
+          "id": "81986711",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -11870,6 +12026,55 @@
       ]
     },
     {
+      "title": "劇場版 僕とロボコ",
+      "titleTranslate": {
+        "zh-Hans": [
+          "剧场版 我与机器子"
+        ]
+      },
+      "type": "movie",
+      "lang": "ja",
+      "officialSite": "https://boku-to-roboco.com",
+      "begin": "2025-04-17T16:00:00.000Z",
+      "broadcast": "",
+      "end": "2025-04-17T16:00:00.000Z",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "441940"
+        },
+        {
+          "site": "unext",
+          "id": "SID0220206",
+          "begin": "2025-08-18T15:00:00.000Z",
+          "broadcast": "R/2025-08-18T15:00:00.000Z/P7D"
+        }
+      ],
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2025,
+        "month": "04"
+      },
+      "status": "FINISHED",
+      "episodes": 1,
+      "picture": "https://cdn.myanimelist.net/images/anime/1048/148254.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1048/148254t.jpg",
+      "synonyms": [
+        "Boku to Roboco Movie",
+        "Gekijouban Boku to Roboco",
+        "Gekijōban Boku to Roboco",
+        "ME & ROBOCO Movie",
+        "ME & ROBOCO: The Movie",
+        "Me & Roboco Movie",
+        "Me & Roboco the Movie",
+        "僕とロボコ 劇場版",
+        "剧场版 我与机器妹",
+        "劇場版 僕とロボコ",
+        "劇場版 我與機器子"
+      ]
+    },
+    {
       "title": "はーい！ミャクミャクです",
       "titleTranslate": {
         "zh-Hans": [
@@ -11887,6 +12092,18 @@
         {
           "site": "bangumi",
           "id": "536694"
+        },
+        {
+          "site": "unext",
+          "id": "SID0228345",
+          "begin": "2025-08-31T15:00:00.000Z",
+          "broadcast": "R/2025-08-31T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "28184",
+          "begin": "2025-08-30T15:00:00.000Z",
+          "broadcast": "R/2025-08-30T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -11916,7 +12133,8 @@
           "鬼人幻燈抄"
         ],
         "en": [
-          "Sword of the Demon Hunter"
+          "Sword of the Demon Hunter",
+          "Sword of the Demon Hunter: Kijin Gentosho"
         ]
       },
       "type": "tv",
@@ -11996,6 +12214,12 @@
         {
           "site": "dmhy",
           "id": "鬼人"
+        },
+        {
+          "site": "netflix",
+          "id": "82040391",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -12157,6 +12381,53 @@
       ]
     },
     {
+      "title": "映画ドラえもん のび太の絵世界物語",
+      "titleTranslate": {
+        "zh-Hans": [
+          "哆啦A梦：大雄的绘画奇遇记",
+          "哆啦A梦：大雄的绘世界物语"
+        ]
+      },
+      "type": "movie",
+      "lang": "ja",
+      "officialSite": "https://doraeiga.com/2025/",
+      "begin": "2025-03-06T16:00:00.000Z",
+      "broadcast": "",
+      "end": "2025-03-06T17:45:00.000Z",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "515422"
+        },
+        {
+          "site": "mikan",
+          "id": "3653"
+        }
+      ],
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2025,
+        "month": "03"
+      },
+      "status": "FINISHED",
+      "episodes": 1,
+      "picture": "https://cdn.myanimelist.net/images/anime/1143/146877.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1143/146877t.jpg",
+      "synonyms": [
+        "Doraemon - Il film: Nobita e il racconto del mondo della pittura",
+        "Doraemon Movie 44: Nobita no Esekai Monogatari",
+        "Doraemon Movie 44: Nobita's Art World Tales",
+        "Doraemon Movie 44: Nobita’s Art World Tales",
+        "Doraemon the Movie: Nobita's Art World Tales",
+        "Doraemon: Nobita no e Sekai Monogatari",
+        "Doraemon: The Tale of Nobita's Picture World",
+        "Eiga Doraemon: Nobita no E Sekai Monogatari",
+        "Eiga Doraemon: Nobita no Esekai Monogatari",
+        "映画ドラえもん のび太の絵世界物語"
+      ]
+    },
+    {
       "title": "キミとアイドルプリキュア♪",
       "titleTranslate": {
         "en": [
@@ -12272,6 +12543,60 @@
       "thumbnail": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33068-2331781170.1734833110.jpg",
       "synonyms": [
         "Thunderbolt Fantasy 東離劍遊紀 最終章"
+      ]
+    },
+    {
+      "title": "映画 先輩はおとこのこ あめのち晴れ",
+      "titleTranslate": {
+        "zh-Hans": [
+          "电影 前辈是男孩子 雨过天晴",
+          "电影 前辈是伪娘 雨过天晴",
+          "电影 学姐是男孩 雨过天晴"
+        ]
+      },
+      "type": "movie",
+      "lang": "ja",
+      "officialSite": "https://senpaiha-otokonoko.com/",
+      "begin": "2025-02-13T16:00:00.000Z",
+      "broadcast": "",
+      "end": "2025-02-13T17:22:00.000Z",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "515392"
+        },
+        {
+          "site": "mikan",
+          "id": "3725"
+        }
+      ],
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2025,
+        "month": "02"
+      },
+      "status": "FINISHED",
+      "episodes": 1,
+      "picture": "https://cdn.myanimelist.net/images/anime/1469/146852.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1469/146852t.jpg",
+      "synonyms": [
+        "Eiga Senpai wa Otokonoko Ame Nochi Hare",
+        "Eiga Senpai wa Otokonoko: Ame Nochi Hare",
+        "My Crossdressing Senpai",
+        "Otokonoko ga Kouhai ni Kokuhaku sareru Hanashi",
+        "Painoko",
+        "Senpai Is an Otokonoko - Sunny After The Rain",
+        "Senpai Is an Otokonoko Movie",
+        "Senpai is an Otokonoko",
+        "Senpai is an Otokonoko Movie",
+        "Senpai wa Otokonoko Movie",
+        "Senpai wa Otokonoko: Ame Nochi Hare",
+        "this is him (can’t be anyone else)",
+        "先輩はおとこのこ あめのち晴れ",
+        "剧场版 前辈是男孩子：雨过天晴",
+        "劇場版 學姊是男孩：雨後天晴",
+        "映画 先輩はおとこのこ あめのち晴れ"
       ]
     },
     {
@@ -12645,6 +12970,12 @@
         {
           "site": "dmhy",
           "id": "太子妃"
+        },
+        {
+          "site": "muse_hk",
+          "id": "PLuxqoToY7UcjePKd5zKnqElsKhBwbL-D5",
+          "begin": "2025-08-18T13:00:06.000Z",
+          "broadcast": "R/2025-08-18T13:00:06.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -12871,6 +13202,146 @@
         "サカモトデイズ",
         "坂本日常",
         "사카모토 데이즈"
+      ]
+    },
+    {
+      "title": "君のことが大大大大大好きな100人の彼女 第2期",
+      "titleTranslate": {
+        "zh-Hans": [
+          "超超超超超喜欢你的100个女朋友 第二季",
+          "百人女友 第二季"
+        ],
+        "zh-Hant": [
+          "超超超超超喜歡你的100個女朋友(第二季)"
+        ]
+      },
+      "type": "tv",
+      "lang": "ja",
+      "officialSite": "https://hyakkano.com/",
+      "begin": "2025-01-12T13:30:00.000Z",
+      "broadcast": "R/2025-01-12T13:30:00.000Z/P7D",
+      "end": "2025-03-30T13:30:00.000Z",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "471793"
+        },
+        {
+          "site": "nicovideo",
+          "id": "hyakkano_2",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0163368",
+          "begin": "2025-01-15T14:00:00.000Z",
+          "broadcast": "R/2025-01-15T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "677aa0892f6756712facfc46"
+        },
+        {
+          "site": "muse_tw",
+          "id": "PL12UaAf_xzfrz7SGyU-5-7E0gmcQ0mNiF",
+          "begin": "2025-01-12T14:00:07.000Z",
+          "broadcast": "R/2025-01-12T14:00:07.000Z/P7D"
+        },
+        {
+          "site": "gamer",
+          "id": "130911",
+          "begin": "2025-01-12T13:30:00.000Z",
+          "broadcast": "R/2025-01-12T13:30:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "130911",
+          "begin": "2025-01-12T13:30:00.000Z",
+          "broadcast": "R/2025-01-12T13:30:00.000Z/P7D"
+        },
+        {
+          "site": "viu",
+          "id": "2560142",
+          "begin": "2025-01-12T14:00:56.000Z",
+          "broadcast": "R/2025-01-12T14:00:56.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "27578",
+          "begin": "2025-01-12T14:00:00.000Z",
+          "broadcast": "R/2025-01-12T14:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3524"
+        },
+        {
+          "site": "abema",
+          "id": "420-60",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "crunchyroll",
+          "id": "GNVHKN933",
+          "begin": "2023-10-08T13:30:00.000Z",
+          "broadcast": "R/2023-10-08T13:30:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DLFCQNFX",
+          "begin": "",
+          "broadcast": ""
+        }
+      ],
+      "animeSeason": {
+        "season": "WINTER",
+        "year": 2025,
+        "month": "01"
+      },
+      "status": "FINISHED",
+      "episodes": 12,
+      "picture": "https://cdn.myanimelist.net/images/anime/1093/145470.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1093/145470t.jpg",
+      "synonyms": [
+        "100 Girlfriends 2",
+        "100 Girlfriends Season 2",
+        "100 Kanojo 2",
+        "100 Pacar yang Sungguh Sangat Amat Benar-benar Mencintaimu Season 2",
+        "100Kano 2",
+        "100カノ 2",
+        "Hyakkano 2",
+        "Hyakkano 2nd Season",
+        "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2",
+        "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season",
+        "Kimi no Koto ga Dai Dai Dai Dai Daisuki na Hyakunin no Kanojo",
+        "Kimi no Koto ga Dai Dai Dai Dai Daisuki na Hyakunin no Kanojo (2025)",
+        "Kimi no koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo",
+        "Les 100 petites amies qui t’aiiiment à en mourir (Saison 2)",
+        "Really",
+        "Really Love You",
+        "Really Love You Season 2",
+        "The 100 Girlfriends Who Really",
+        "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You (Season 2)",
+        "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You (Staffel 2)",
+        "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You (Stagione 2)",
+        "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You (Temporada 2)",
+        "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2",
+        "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+        "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (2025)",
+        "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You 2nd Season",
+        "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 2",
+        "hyakkano 2",
+        "รักรักรักรักรักเธอหมดหัวใจจากแฟนสาว 100 คน ซีซั่น 2",
+        "君のことが大大大大大好きな100人の彼女",
+        "君のことが大大大大大好きな100人の彼女 (2025)",
+        "君のことが大大大大大好きな100人の彼女 2",
+        "君のことが大大大大大好きな100人の彼女 2期",
+        "君のことが大大大大大好きな100人の彼女 第2期",
+        "超超超超超喜欢你的100个女朋友 第二季",
+        "超超超超超喜歡你的100個女朋友 第二季"
       ]
     },
     {
@@ -14726,7 +15197,7 @@
         "Вампір Бабан-бабан-бан",
         "הערפד מבית המרחץ",
         "مصاص الدماء رانمارو",
-        "วะวะวะวะแวมไพร์ก��บนายเวอร์จิ้น",
+        "วะวะวะวะแวมไพร์กับนายเวอร์จิ้น",
         "ババンババンバンバンパイア",
         "吸吸吸吸吸血鬼",
         "嘻嘻嘻嘻吸血鬼",
@@ -24045,7 +24516,7 @@
         "The Old Man Who Was Reincarnated as a Cat",
         "ねこおじ",
         "ねこに転生したおじさん",
-        "轉生成貓��的大叔",
+        "轉生成貓咪的大叔",
         "转生成猫咪的大叔"
       ]
     },
@@ -24787,6 +25258,9 @@
         "zh-Hans": [
           "剧场版 OVERLORD 圣王国篇",
           "剧场版 不死者之王 圣王国篇"
+        ],
+        "zh-Hant": [
+          "劇場版 OVERLORD 聖王國篇"
         ]
       },
       "type": "movie",
@@ -24804,6 +25278,12 @@
         {
           "site": "mikan",
           "id": "3648"
+        },
+        {
+          "site": "netflix",
+          "id": "82040442",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -25095,6 +25575,18 @@
         {
           "site": "netflix",
           "id": "82036353",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "danime",
+          "id": "28155",
+          "begin": "2025-08-01T15:00:00.000Z",
+          "broadcast": "R/2025-08-01T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DJSSSH2Y",
           "begin": "",
           "broadcast": ""
         }
@@ -28420,6 +28912,12 @@
           "id": "26606",
           "begin": "2023-10-03T03:00:00.000Z",
           "broadcast": "R/2023-10-03T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0CJ4FC5C9",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -30610,11 +31108,11 @@
         "Time-Patrol Bon 2nd Season",
         "T・P Bon : Saison 2",
         "T・P Bon Season 2",
-        "T���P Bon: Season 2",
+        "T・P Bon: Season 2",
         "T・P Bon: Staffel 2",
         "T・P Bon: Stagione 2",
         "T・P Bon: Temporada 2",
-        "T・Pぼん",
+        "T・P���ん",
         "T・Pぼん シーズン2"
       ]
     },
@@ -31297,8 +31795,8 @@
         {
           "site": "gamer_hk",
           "id": "133416",
-          "begin": "",
-          "broadcast": ""
+          "begin": "2024-05-12T17:25:00.000Z",
+          "broadcast": "R/2024-05-12T17:25:00.000Z/P7D"
         },
         {
           "site": "disneyplus",
@@ -31353,7 +31851,7 @@
         "ds s5",
         "鬼滅の刃 柱稽古編",
         "鬼滅之刃 柱訓練篇",
-        "鬼灭之刃 柱训练篇"
+        "鬼灭之刃 柱���练篇"
       ]
     },
     {
@@ -31681,6 +32179,10 @@
           "id": "128487",
           "begin": "2025-07-04T02:05:00.000Z",
           "broadcast": "R/2025-07-04T02:05:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "3483"
         }
       ],
       "animeSeason": {
@@ -31706,6 +32208,9 @@
         "zh-Hans": [
           "四重星",
           "成為星星的少女"
+        ],
+        "zh-Hant": [
+          "成為星星的少女"
         ]
       },
       "type": "movie",
@@ -31729,6 +32234,12 @@
         {
           "site": "mikan",
           "id": "3486"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "136899",
+          "begin": "2025-08-07T16:00:00.000Z",
+          "broadcast": "R/2025-08-07T16:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -32739,7 +33250,8 @@
           "site": "danime",
           "id": "26940",
           "begin": "2024-04-05T13:00:00.000Z",
-          "broadcast": "R/2024-04-05T13:00:00.000Z/P7D"
+          "broadcast": "R/2024-04-05T13:00:00.000Z/P7D",
+          "comment": "第13～15話（Blu-ray特典映像）: 28221"
         },
         {
           "site": "muse_tw",
@@ -33806,12 +34318,6 @@
           "broadcast": ""
         },
         {
-          "site": "abema",
-          "id": "19-191",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "gamer_hk",
           "id": "133918",
           "begin": "2024-04-04T16:58:00.000Z",
@@ -34107,12 +34613,6 @@
           "id": "G4PH0WJ3N",
           "begin": "2024-04-10T12:00:00.000Z",
           "broadcast": "R/2024-04-10T12:00:00.000Z/P7D"
-        },
-        {
-          "site": "danime",
-          "id": "27055",
-          "begin": "2024-04-15T12:30:00.000Z",
-          "broadcast": "R/2024-04-15T12:30:00.000Z/P7D"
         },
         {
           "site": "prime",
@@ -34414,6 +34914,12 @@
           "id": "6ZnSBxkJUT0x",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "crunchyroll",
+          "id": "GJ0H7QG4E",
+          "begin": "2025-07-09T15:00:00.000Z",
+          "broadcast": "R/2025-07-09T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -34453,7 +34959,7 @@
         "転生したら第七王子だったので",
         "転生したら第七王子だったので, 気ままに魔術を極めます",
         "転生したら第七王子だったので、気ままに魔術を極めます",
-        "轉生為第七王子，隨心所欲的魔法學習���路",
+        "轉生為第七王子，隨心所欲的魔法學習之路",
         "转生为第七王子，随心所欲的魔法学习之路"
       ]
     },
@@ -35174,12 +35680,6 @@
           "broadcast": "R/2024-06-22T10:00:00.000Z/P7D"
         },
         {
-          "site": "danime",
-          "id": "27018",
-          "begin": "2024-04-13T16:30:00.000Z",
-          "broadcast": "R/2024-04-13T16:30:00.000Z/P7D"
-        },
-        {
           "site": "muse_tw",
           "id": "PL12UaAf_xzfoNmXwWBrLEZaJBnSaRC6Y2",
           "begin": "2024-08-21T10:00:02.000Z",
@@ -35190,6 +35690,12 @@
           "id": "B0CV571WNM",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "danime",
+          "id": "27018",
+          "begin": "2025-08-31T15:00:00.000Z",
+          "broadcast": "R/2025-08-31T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -36610,12 +37116,6 @@
           "broadcast": "R/2024-04-10T18:25:00.000Z/P7D"
         },
         {
-          "site": "abema",
-          "id": "19-193",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "gamer_hk",
           "id": "137811",
           "begin": "2024-04-10T18:25:00.000Z",
@@ -37412,7 +37912,7 @@
         "グリム (Web)",
         "グリム組曲",
         "格林童話變奏曲",
-        "格林童话变奏曲",
+        "格林童���变奏曲",
         "그림 동화 변주곡"
       ]
     },
@@ -37600,116 +38100,6 @@
       "synonyms": [
         "KURAYUKABA",
         "クラユカバ"
-      ]
-    },
-    {
-      "title": "劇場版ブルーロック -EPISODE 凪-",
-      "titleTranslate": {
-        "zh-Hans": [
-          "剧场版蓝色监狱 -EPISODE 凪-",
-          "蓝色禁区：凪"
-        ],
-        "en": [
-          "Blue Lock The Movie -Episode Nagi-"
-        ],
-        "zh-Hant": [
-          "劇場版藍色監獄：EPISODE 凪"
-        ]
-      },
-      "type": "movie",
-      "lang": "ja",
-      "officialSite": "https://movie.bluelock-pr.com/",
-      "begin": "2024-04-18T16:00:00.000Z",
-      "broadcast": "",
-      "end": "2024-04-18T16:00:00.000Z",
-      "comment": "",
-      "sites": [
-        {
-          "site": "bangumi",
-          "id": "426124"
-        },
-        {
-          "site": "disneyplus",
-          "id": "65pPeJ1orwsg",
-          "url": "https://www.disneyplus.com/movies/blue-lock-the-movie-episode-nagi/65pPeJ1orwsg",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "unext",
-          "id": "SID0157267",
-          "begin": "2024-10-05T15:00:00.000Z",
-          "broadcast": "R/2024-10-05T15:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "420-70",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "mikan",
-          "id": "3479"
-        },
-        {
-          "site": "netflix",
-          "id": "81940376",
-          "begin": "2024-10-19T00:00:00.000Z",
-          "broadcast": "R/2024-10-19T00:00:00.000Z/P7D"
-        },
-        {
-          "site": "danime",
-          "id": "27337",
-          "begin": "2024-10-05T15:00:00.000Z",
-          "broadcast": "R/2024-10-05T15:00:00.000Z/P7D"
-        },
-        {
-          "site": "prime",
-          "id": "B0D349MWH8",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "nicovideo",
-          "id": "bluelock-movie",
-          "begin": "",
-          "broadcast": ""
-        }
-      ],
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2024,
-        "month": "04"
-      },
-      "status": "FINISHED",
-      "episodes": 1,
-      "picture": "https://cdn.myanimelist.net/images/anime/1239/139928.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1239/139928t.jpg",
-      "synonyms": [
-        "BLUE LOCK -Episodio Nagi-",
-        "BLUE LOCK O FILME -EPISÓDIO NAGI-",
-        "BLUE LOCK THE MOVIE -EPISODE NAGI-",
-        "BLUE LOCK THE MOVIE -EPISODIO NAGI-",
-        "BLUELOCK -Episode Nagi-",
-        "BLUELOCK THE MOVIE -EPISODE NAGI-",
-        "BLUELOCK: EPISODE Nagi",
-        "Blue Lock : Le Film - Épisode Nagi",
-        "Blue Lock Movie",
-        "Blue Lock Movie: EPISODE Nagi",
-        "Blue Lock the Movie -Episode Nagi-",
-        "Blue Lock: EPISODE Nagi",
-        "Blue Lock: La Película - Episodio Nagi",
-        "Blue Lock: La Película -EPISODIO NAGI-",
-        "Blue Lock: The Movie - Episode Nagi",
-        "Bluelock Movie: Episode Nagi",
-        "Gekijouban Blue Lock: Episode Nagi",
-        "Gekijō-ban BLUELOCK -Episode Nagi-",
-        "Gekijōban Blue Lock: Episode Nagi",
-        "ブルーロック -EPISODE 凪-",
-        "ブルーロック-EPISODE 凪-",
-        "劇場版 ブルーロック",
-        "劇場版ブルーロック -EPISODE 凪-",
-        "劇場版ブルーロック　-EPISODE 凪-"
       ]
     },
     {
@@ -38156,7 +38546,8 @@
       "title": "映画ドラえもん のび太の地球交響楽",
       "titleTranslate": {
         "zh-Hans": [
-          "哆啦A梦：大雄的地球交响乐"
+          "哆啦A梦：大雄的地球交响乐",
+          "哆啦 A 梦：大雄的地球交响乐"
         ]
       },
       "type": "movie",
@@ -38182,6 +38573,12 @@
           "id": "SID0157264",
           "begin": "2024-09-27T15:00:00.000Z",
           "broadcast": "R/2024-09-27T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "netflix",
+          "id": "82093489",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -39457,9 +39854,10 @@
         },
         {
           "site": "unext",
-          "id": "SID0095991",
+          "id": "SID0222862",
           "begin": "2024-01-06T13:00:00.000Z",
-          "broadcast": "R/2024-01-06T13:00:00.000Z/P7D"
+          "broadcast": "R/2024-01-06T13:00:00.000Z/P7D",
+          "comment": "丸見えバージョン, 通常版: SID0095991"
         },
         {
           "site": "ani_one",
@@ -42206,7 +42604,8 @@
           "site": "viu",
           "id": "2290432",
           "begin": "2024-01-06T16:30:15.000Z",
-          "broadcast": "R/2024-01-06T16:30:15.000Z/P7D"
+          "broadcast": "R/2024-01-06T16:30:15.000Z/P7D",
+          "comment": "粵語版: 2647598"
         },
         {
           "site": "netflix",
@@ -43653,6 +44052,10 @@
           "id": "131122",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "mikan",
+          "id": "3286"
         }
       ],
       "animeSeason": {
@@ -44093,7 +44496,7 @@
         "Twi-Yaba",
         "ツイヤバ",
         "僕の心のヤバイやつ ツイヤバ",
-        "僕の心のヤバイやつ　ツイヤバ",
+        "僕の心のヤバイやつ　ツイ���バ",
         "僕ヤバ ツイヤバ"
       ]
     },
@@ -44576,6 +44979,12 @@
         {
           "site": "mikan",
           "id": "3272"
+        },
+        {
+          "site": "danime",
+          "id": "28162",
+          "begin": "2025-07-31T15:00:00.000Z",
+          "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -46077,7 +46486,8 @@
           "site": "viu",
           "id": "2247876",
           "begin": "2023-09-30T16:00:00.000Z",
-          "broadcast": "R/2023-09-30T16:00:00.000Z/P7D"
+          "broadcast": "R/2023-09-30T16:00:00.000Z/P7D",
+          "comment": "粵語版: 2645015"
         },
         {
           "site": "nicovideo",
@@ -47593,6 +48003,10 @@
           "id": "PL12UaAf_xzfrBTYxrhXL6TVvROBkpfQ7K",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "mikan",
+          "id": "3151"
         }
       ],
       "animeSeason": {
@@ -48007,6 +48421,12 @@
         {
           "site": "crunchyroll",
           "id": "GKEH2G0W9",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "prime",
+          "id": "B0CJ4FC5C9",
           "begin": "",
           "broadcast": ""
         }
@@ -48911,7 +49331,7 @@
         "君のことが大大大大大好きな100人の彼女 (2025)",
         "君のことが大大大大大好きな100人の彼女 2",
         "君のことが大大大大大好きな100人の彼女 2期",
-        "君のことが大大大大大好きな100人の���女 第2期",
+        "君のことが大大大大大好きな100人の彼女 第2期",
         "超超超超超喜欢你的100个女朋友 第二季",
         "超超超超超喜歡你的100個女朋友 第二季"
       ]
@@ -49203,8 +49623,8 @@
         "The power of the saint is all around Season 2",
         "seiban s2",
         "seiban2",
-        "Магия свято�� всемогуща 2",
-        "สตรีศักดิ์สิทธิ์อิทธิฤทธิ์สารพัดอย่าง ภาค 2",
+        "Магия святой всемогуща 2",
+        "สตรีศักดิ์สิทธิ์อิทธิฤทธิ์สารพัดอ���่าง ภาค 2",
         "圣女魔力无所不能 第二季",
         "聖女の魔力は万能です",
         "聖女の魔力は万能です 2",
@@ -50758,138 +51178,6 @@
       ]
     },
     {
-      "title": "カノジョも彼女 Season 2",
-      "titleTranslate": {
-        "zh-Hans": [
-          "女友成双 第二季"
-        ],
-        "zh-Hant": [
-          "女朋友 and 女朋友 第二季",
-          "女朋友and女朋友 S2",
-          "女朋友and女朋友 第二季"
-        ]
-      },
-      "type": "tv",
-      "lang": "ja",
-      "officialSite": "https://kanokano-anime.com/",
-      "begin": "2023-10-05T17:23:00.000Z",
-      "broadcast": "R/2023-10-05T17:23:00.000Z/P7D",
-      "end": "2023-12-21T17:23:00.000Z",
-      "comment": "",
-      "sites": [
-        {
-          "site": "bangumi",
-          "id": "398949"
-        },
-        {
-          "site": "gamer",
-          "id": "127294",
-          "begin": "2023-10-06T17:28:00.000Z",
-          "broadcast": "R/2023-10-06T17:28:00.000Z/P7D"
-        },
-        {
-          "site": "muse_hk",
-          "id": "PLuxqoToY7Ucgc0-9Xq-GJxJP5drIaGdrf",
-          "begin": "2023-10-06T17:23:00.000Z",
-          "broadcast": "R/2023-10-06T17:23:00.000Z/P7D"
-        },
-        {
-          "site": "nicovideo",
-          "id": "kanokano-anime2",
-          "begin": "2023-10-12T17:23:00.000Z",
-          "broadcast": "R/2023-10-12T17:23:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "11-38",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "unext",
-          "id": "SID0091734",
-          "begin": "2023-10-12T17:23:00.000Z",
-          "broadcast": "R/2023-10-12T17:23:00.000Z/P7D"
-        },
-        {
-          "site": "gamer_hk",
-          "id": "127294",
-          "begin": "2023-10-06T17:28:00.000Z",
-          "broadcast": "R/2023-10-06T17:28:00.000Z/P7D"
-        },
-        {
-          "site": "dmhy",
-          "id": "女 友 成|and S2|S02|第2"
-        },
-        {
-          "site": "bangumi_moe",
-          "id": "65186f884c90aa63daeaa237"
-        },
-        {
-          "site": "mikan",
-          "id": "3206"
-        },
-        {
-          "site": "danime",
-          "id": "26636",
-          "begin": "2023-10-10T17:23:00.000Z",
-          "broadcast": "R/2023-10-10T17:23:00.000Z/P7D"
-        },
-        {
-          "site": "muse_tw",
-          "id": "PL12UaAf_xzfqkhJ5dHKSQUB-RYDgaIMtt",
-          "begin": "",
-          "broadcast": ""
-        }
-      ],
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2023,
-        "month": "10"
-      },
-      "status": "FINISHED",
-      "episodes": 12,
-      "picture": "https://cdn.myanimelist.net/images/anime/1063/137100.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1063/137100t.jpg",
-      "synonyms": [
-        "Girlfriend",
-        "Girlfriend 2",
-        "Girlfriend Season 2",
-        "Girlfriend, Girlfriend",
-        "Girlfriend, Girlfriend (2023)",
-        "Girlfriend, Girlfriend (Saison 2)",
-        "Girlfriend, Girlfriend 2",
-        "Girlfriend, Girlfriend 2nd Season",
-        "Girlfriend, Girlfriend Season 2",
-        "Girlfriend, Girlfriend: Season 2",
-        "Girlfriend, Girlfriend: Staffel 2",
-        "Her, and Also Her 2",
-        "KanoKano 2",
-        "Kanojo mo Kanojo",
-        "Kanojo mo Kanojo (2023)",
-        "Kanojo mo Kanojo 2",
-        "Kanojo mo Kanojo 2nd Season",
-        "Kanojo mo Kanojo: Gelegenheit macht Liebe 2",
-        "Kanokano",
-        "Kupunya Dia dan Dirinya musim 2",
-        "She Is Also My Girlfriend 2",
-        "Two-Timing Fair and Square 2",
-        "gg s2",
-        "kanokano s2",
-        "kmk2",
-        "จะคนไหนก็แฟนสาว ภาค 2",
-        "カノジョも彼女 Season 2",
-        "カノジョも彼女 第2期",
-        "カノジョも彼女",
-        "カノジョも彼女 (2023)",
-        "カノジョも彼女 2",
-        "カノジョも彼女 Season 2",
-        "カノジョも彼女 第2期",
-        "女友成双 第二季",
-        "女朋友 and 女朋友 第二季"
-      ]
-    },
-    {
       "title": "SPY×FAMILY Season 2",
       "titleTranslate": {
         "zh-Hans": [
@@ -51781,6 +52069,9 @@
         "zh-Hans": [
           "北极百货店的接待员",
           "北極百貨的秋乃小姐"
+        ],
+        "zh-Hant": [
+          "北極百貨的秋乃小姐"
         ]
       },
       "type": "movie",
@@ -51798,6 +52089,12 @@
         {
           "site": "mikan",
           "id": "3281"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "132951",
+          "begin": "2025-08-08T04:00:00.000Z",
+          "broadcast": "R/2025-08-08T04:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -53273,6 +53570,56 @@
         "Shin Jigen! Crayon Shin-chan The Movie Chōnōryoku Dai Kessen: Tobetobe Temakizushi",
         "Shin-chan: El superhéroe",
         "しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 ～とべとべ手巻き寿司～"
+      ]
+    },
+    {
+      "title": "SAND LAND",
+      "titleTranslate": {
+        "zh-Hans": [
+          "沙漠大冒险",
+          "SAND LAND沙漠大追踪"
+        ]
+      },
+      "type": "movie",
+      "lang": "ja",
+      "officialSite": "https://sandland.jp",
+      "begin": "2023-08-17T16:00:00.000Z",
+      "broadcast": "",
+      "end": "2023-08-17T16:00:00.000Z",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "411278"
+        },
+        {
+          "site": "unext",
+          "id": "SID0211419",
+          "begin": "2025-08-09T15:00:00.000Z",
+          "broadcast": "R/2025-08-09T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "nicovideo",
+          "id": "sandland",
+          "begin": "",
+          "broadcast": ""
+        }
+      ],
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2023,
+        "month": "08"
+      },
+      "status": "FINISHED",
+      "episodes": 1,
+      "picture": "https://cdn.myanimelist.net/images/anime/1834/136339.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1834/136339t.jpg",
+      "synonyms": [
+        "SAND LAND",
+        "SAND LAND(サンドランド)",
+        "SandLand",
+        "Sandland",
+        "サンドランド"
       ]
     },
     {
@@ -55110,12 +55457,6 @@
         {
           "site": "mikan",
           "id": "3080"
-        },
-        {
-          "site": "danime",
-          "id": "26448",
-          "begin": "2023-07-03T13:00:00.000Z",
-          "broadcast": "R/2023-07-03T13:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -58583,7 +58924,8 @@
           "她去公爵家的理由"
         ],
         "en": [
-          "The Reason Why Raeliana Ended up at the Duke's Mansion"
+          "The Reason Why Raeliana Ended up at the Duke's Mansion",
+          "Why Raeliana Ended Up at the Duke’s Mansion"
         ]
       },
       "type": "tv",
@@ -58641,6 +58983,12 @@
           "id": "81684407",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "mytv",
+          "id": "whyraelianaendedupatthedukesmansion_143779",
+          "begin": "2025-08-05T16:00:00.000Z",
+          "broadcast": "R/2025-08-05T16:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -60023,12 +60371,6 @@
           "id": "26298",
           "begin": "2023-04-01T15:30:00.000Z",
           "broadcast": "R/2023-04-01T15:30:00.000Z/P7D"
-        },
-        {
-          "site": "mytv",
-          "id": "mylovestorywithyamadakunatlv999_143387",
-          "begin": "2025-06-09T16:00:00.000Z",
-          "broadcast": "R/2025-06-09T16:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -60897,12 +61239,6 @@
           "broadcast": "R/2023-04-08T16:00:00.000Z/P7D"
         },
         {
-          "site": "abema",
-          "id": "172-54",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "unext",
           "id": "SID0079585",
           "begin": "2023-04-08T16:00:00.000Z",
@@ -61650,7 +61986,7 @@
         },
         {
           "site": "prime",
-          "id": "B0BZGM458J",
+          "id": "B0BZGPP11D",
           "begin": "",
           "broadcast": ""
         },
@@ -62363,6 +62699,12 @@
           "id": "B0B8QKD5GD",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0080316",
+          "begin": "2023-03-31T03:00:00.000Z",
+          "broadcast": "R/2023-03-31T03:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -62821,12 +63163,6 @@
           "id": "130372",
           "begin": "2023-04-09T09:00:00.000Z",
           "broadcast": "R/2023-04-09T09:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "13-158",
-          "begin": "",
-          "broadcast": ""
         },
         {
           "site": "mytv",
@@ -65938,6 +66274,10 @@
           "id": "25966",
           "begin": "2023-01-11T17:30:00.000Z",
           "broadcast": "R/2023-01-11T17:30:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "2890"
         }
       ],
       "animeSeason": {
@@ -66819,6 +67159,16 @@
           "id": "26607",
           "begin": "2023-09-12T15:00:00.000Z",
           "broadcast": "R/2023-09-12T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0F9TB5VNC",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "mikan",
+          "id": "2904"
         }
       ],
       "animeSeason": {
@@ -67010,6 +67360,10 @@
           "id": "kubowontletmebeinvisible0002_143261",
           "begin": "2025-06-01T02:00:00.000Z",
           "broadcast": "R/2025-06-01T02:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "2906"
         }
       ],
       "animeSeason": {
@@ -67455,6 +67809,10 @@
           "id": "B0FC2HDJS2",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "mikan",
+          "id": "2924"
         }
       ],
       "animeSeason": {
@@ -67860,6 +68218,10 @@
           "id": "PL12UaAf_xzfoaOLmIpz2Mn6kp1MTdd0fz",
           "begin": "2023-09-18T16:30:07.000Z",
           "broadcast": "R/2023-09-18T16:30:07.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "2928"
         }
       ],
       "animeSeason": {
@@ -68414,7 +68776,8 @@
           "site": "danime",
           "id": "26041",
           "begin": "2023-01-06T13:00:00.000Z",
-          "broadcast": "R/2023-01-06T13:00:00.000Z/P7D"
+          "broadcast": "R/2023-01-06T13:00:00.000Z/P7D",
+          "comment": "第13～15話（Blu-ray特典映像）: 28220"
         },
         {
           "site": "muse_tw",
@@ -68702,6 +69065,10 @@
           "id": "PL12UaAf_xzfoDo5hEQzisdsbyu9xuvhWE",
           "begin": "2023-05-25T10:00:27.000Z",
           "broadcast": "R/2023-05-25T10:00:27.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "2911"
         }
       ],
       "animeSeason": {
@@ -68979,12 +69346,6 @@
           "id": "nierautomata-anime",
           "begin": "2023-01-10T03:00:00.000Z",
           "broadcast": "R/2023-01-10T03:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "26-194",
-          "begin": "",
-          "broadcast": ""
         },
         {
           "site": "gamer_hk",
@@ -70237,6 +70598,12 @@
           "id": "81765372",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0223321",
+          "begin": "2025-08-29T03:00:00.000Z",
+          "broadcast": "R/2025-08-29T03:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -72710,12 +73077,6 @@
           "broadcast": "R/2022-09-25T09:00:00.000Z/P7D"
         },
         {
-          "site": "abema",
-          "id": "13-158",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "mytv",
           "id": "mobilesuitgundamthewitchfrommercury0001_143264",
           "begin": "2025-06-01T02:00:00.000Z",
@@ -73212,6 +73573,10 @@
           "id": "25802",
           "begin": "2022-10-09T03:00:00.000Z",
           "broadcast": "R/2022-10-09T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "2848"
         }
       ],
       "animeSeason": {
@@ -74975,7 +75340,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/1656/126446t.jpg",
       "synonyms": [
         "Gekijouban Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo",
-        "Gekijōban Sword Art Online: Progressive - Kuraki Y��yami no Scherzo",
+        "Gekijōban Sword Art Online: Progressive - Kuraki Yūyami no Scherzo",
         "SAO Progressive",
         "SAOP",
         "Sword Art Online -Progressive- Kuraki Yuuyami no Scherzo",
@@ -76177,6 +76542,10 @@
         {
           "site": "bangumi_moe",
           "id": "6352b9686b7b650007317bb7"
+        },
+        {
+          "site": "mikan",
+          "id": "2804"
         }
       ],
       "animeSeason": {
@@ -76275,12 +76644,80 @@
         "בית בלב האוקיינוס",
         "ديار في قلب المحيط",
         "บ้านล่องลอย",
-        "���告风雨的漂流团地",
+        "宣告风雨的漂流团地",
         "漂流之家",
         "漂流家园",
         "漂流家園",
         "雨を告げる漂流団地",
         "표류단지"
+      ]
+    },
+    {
+      "title": "四畳半タイムマシンブルース",
+      "titleTranslate": {
+        "zh-Hans": [
+          "四叠半时光机蓝调",
+          "四叠半时光机布鲁斯"
+        ],
+        "zh-Hant": [
+          "四疊半時光機藍調"
+        ],
+        "en": [
+          "The Tatami Time Machine Blues"
+        ]
+      },
+      "type": "web",
+      "lang": "ja",
+      "officialSite": "https://yojohan-timemachine.asmik-ace.co.jp/",
+      "begin": "2022-09-13T16:00:00.000Z",
+      "end": "2022-10-11T16:00:00.000Z",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "345980"
+        },
+        {
+          "site": "disneyplus",
+          "id": "6C7HChDy39QZ",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "bilibili",
+          "id": "28339737",
+          "begin": "2022-10-19T08:00:01.000Z",
+          "broadcast": "R/2022-10-19T08:00:01.000Z/P7D"
+        },
+        {
+          "site": "bangumi_moe",
+          "id": "6327679622a4a10007fd50a4"
+        },
+        {
+          "site": "mikan",
+          "id": "2805"
+        }
+      ],
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2022,
+        "month": "09"
+      },
+      "status": "FINISHED",
+      "episodes": 6,
+      "picture": "https://cdn.myanimelist.net/images/anime/1583/126128.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1583/126128t.jpg",
+      "synonyms": [
+        "Tatami Time Machine Blues",
+        "Tatami: La máquina del tiempo",
+        "Tatami: Uma Viagem no Tempo",
+        "The Tatami Time Machine Blues",
+        "Wehikuł Tatami",
+        "Yojohan Time Machine Blues",
+        "Yojō-Han Time Machine Blues",
+        "Yojōhan Time Machine Blues",
+        "四叠半时光机布鲁斯",
+        "四畳半タイムマシンブルース"
       ]
     },
     {
@@ -76427,7 +76864,7 @@
         "Tunnel to Summer",
         "the Exit of Goodbyes",
         "Тоннель в лето, выход прощаний",
-        "คำจากลาของคิ��หันต์ ณ ปลายอุโมงค์",
+        "คำจากลาของคิมหันต์ ณ ปลายอุโมงค์",
         "さよならの出口",
         "夏へのトンネル",
         "夏へのトンネル, さよならの出口",
@@ -77217,7 +77654,7 @@
         "金装のヴェルメイユ～崖っぷち魔術師は最強の厄災と魔法世界を突き進む～",
         "金装的维尔梅",
         "金装的薇尔梅",
-        "��裝的維爾梅",
+        "金裝的維爾梅",
         "金裝的維爾梅 ~ 瀕臨留級的魔法師聯手最強災厄勇闖魔法世界 ~"
       ]
     },
@@ -78224,7 +78661,7 @@
         "mia2",
         "Đến từ Vực Thẳm Mùa 2",
         "Сделано в бездне: Солнце, вспыхнувшее в Золотом городе",
-        "صنع في الهاوية 2",
+        "صنع في الها��ية 2",
         "นักบุกเบิกหลุมยักษ์ ภาค 2",
         "ผ่าเหวนรก นครทองคำแห่งอาทิตย์ที่เจิดจ้า",
         "ผ่าเหวนรก ภาค 2",
@@ -79239,12 +79676,6 @@
           "id": "62c125b92fc3ee0d0016bf70"
         },
         {
-          "site": "netflix",
-          "id": "81620000",
-          "begin": "2024-11-18T00:00:00.000Z",
-          "broadcast": "R/2024-11-18T00:00:00.000Z/P7D"
-        },
-        {
           "site": "mikan",
           "id": "2754"
         },
@@ -79257,6 +79688,12 @@
         {
           "site": "prime",
           "id": "B0DQ5YM7FG",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "netflix",
+          "id": "81620000",
           "begin": "",
           "broadcast": ""
         }
@@ -82616,12 +83053,6 @@
           "id": "624774a270e8f89b23a18556"
         },
         {
-          "site": "unext",
-          "id": "SID0070104",
-          "begin": "2024-08-01T03:00:00.000Z",
-          "broadcast": "R/2024-08-01T03:00:00.000Z/P7D"
-        },
-        {
           "site": "mikan",
           "id": "2725"
         }
@@ -83292,7 +83723,8 @@
           "勇者辭職不幹了"
         ],
         "en": [
-          "I'm Quitting Heroing"
+          "I'm Quitting Heroing",
+          "I’m Quitting Heroing"
         ]
       },
       "type": "tv",
@@ -83373,6 +83805,12 @@
           "id": "25340",
           "begin": "2022-04-08T14:30:00.000Z",
           "broadcast": "R/2022-04-08T14:30:00.000Z/P7D"
+        },
+        {
+          "site": "mytv",
+          "id": "imquittingheroing0001_143588",
+          "begin": "2025-07-31T16:00:00.000Z",
+          "broadcast": "R/2025-07-31T16:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -83853,6 +84291,12 @@
           "id": "PL12UaAf_xzfqx9EUZRPnxxNmjIgXlvyl3",
           "begin": "2022-04-22T14:30:09.000Z",
           "broadcast": "R/2022-04-22T14:30:09.000Z/P7D"
+        },
+        {
+          "site": "crunchyroll",
+          "id": "G8DHV7WJP",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -85224,6 +85668,18 @@
           "id": "25400",
           "begin": "2022-04-05T15:00:00.000Z",
           "broadcast": "R/2022-04-05T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0B8NFB2L7",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "gamer_hk",
+          "id": "120408",
+          "begin": "2025-08-22T04:00:00.000Z",
+          "broadcast": "R/2025-08-22T04:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -86483,92 +86939,6 @@
         "名探偵コナン ゼロの日常〈ティータイム〉",
         "名探偵コナン ゼロの日常（ティータイム）",
         "명탐정 코난: 제로의 일상"
-      ]
-    },
-    {
-      "title": "映画 オッドタクシー イン・ザ・ウッズ",
-      "titleTranslate": {
-        "zh-Hans": [
-          "电影 奇巧计程车 扑朔谜林"
-        ],
-        "zh-Hant": [
-          "電影版 奇巧計程車：撲朔謎林"
-        ]
-      },
-      "type": "movie",
-      "lang": "ja",
-      "officialSite": "https://oddtaxi.jp/movie",
-      "begin": "2022-04-01T16:00:00.000Z",
-      "end": "2022-04-01T18:08:00.000Z",
-      "comment": "",
-      "sites": [
-        {
-          "site": "bangumi",
-          "id": "363414"
-        },
-        {
-          "site": "gamer",
-          "id": "121172",
-          "begin": "2022-12-02T01:30:00.000Z",
-          "broadcast": "R/2022-12-02T01:30:00.000Z/P7D"
-        },
-        {
-          "site": "nicovideo",
-          "id": "oddtaxi-movie",
-          "begin": "2023-01-24T15:00:00.000Z",
-          "broadcast": "R/2023-01-24T15:00:00.000Z/P7D"
-        },
-        {
-          "site": "unext",
-          "id": "SID0070978",
-          "begin": "2023-02-01T03:00:00.000Z",
-          "broadcast": "R/2023-02-01T03:00:00.000Z/P7D"
-        },
-        {
-          "site": "gamer_hk",
-          "id": "121172",
-          "begin": "2022-12-02T01:30:00.000Z",
-          "broadcast": "R/2022-12-02T01:30:00.000Z/P7D"
-        },
-        {
-          "site": "mikan",
-          "id": "2789"
-        },
-        {
-          "site": "danime",
-          "id": "26578",
-          "begin": "2023-09-08T15:00:00.000Z",
-          "broadcast": "R/2023-09-08T15:00:00.000Z/P7D"
-        },
-        {
-          "site": "prime",
-          "id": "B0CH49M3LQ",
-          "begin": "",
-          "broadcast": ""
-        }
-      ],
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2022,
-        "month": "04"
-      },
-      "status": "FINISHED",
-      "episodes": 1,
-      "picture": "https://cdn.myanimelist.net/images/anime/1390/120708.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1390/120708t.jpg",
-      "synonyms": [
-        "Eiga Odd Taxi: In the Woods",
-        "ODDTAXI In The Woods",
-        "ODDTAXI Movie",
-        "ODDTAXI in the Woods",
-        "Odd Taxi : In the Woods",
-        "Odd Taxi: In the Woods",
-        "Oddtaxi Movie: In the Woods",
-        "oddtaxi movie",
-        "Необычное такси: в чаще",
-        "映画 ODD TAXI イン・ザ・ウッズ",
-        "映画 オッドタクシー イン・ザ・ウッズ",
-        "电影 奇巧计程车 扑朔谜林"
       ]
     },
     {
@@ -93620,7 +93990,7 @@
         "Mushoku Tensei: Jobless Reincarnation Cour 2",
         "Mushoku Tensei: Jobless Reincarnation Part 2",
         "mushokutensei s1p2",
-        "Реинкарнация безр��ботного",
+        "Реинкарнация безработного",
         "ชาตินี้พี่ต้องเทพ พาร์ท 2",
         "无职转生～到了异世界就拿出真本事～ (2021)",
         "無職転生 〜異世界行ったら本気だす〜",
@@ -93633,7 +94003,7 @@
         "無職転生～異世界行ったら本気だす～ （2021）",
         "無職転生～異世界行ったら本気だす～(第2クール)",
         "無職轉生～到了異世界就拿出真本事～ (2021)",
-        "무직전생 ~이세계에 갔으면 최선을 다한다~ 2기"
+        "무직전생 ~이세계에 ��으면 최선을 다한다~ 2기"
       ]
     },
     {
@@ -94505,6 +94875,12 @@
           "id": "25108",
           "begin": "2021-10-12T16:58:00.000Z",
           "broadcast": "R/2021-10-12T16:58:00.000Z/P7D"
+        },
+        {
+          "site": "ani_one",
+          "id": "PLC18xlbCdwtSJyB5b9kXJbgjl9vHYSH3J",
+          "begin": "2025-08-27T12:00:06.000Z",
+          "broadcast": "R/2025-08-27T12:00:06.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -96207,6 +96583,10 @@
           "id": "25062",
           "begin": "2021-10-04T17:00:00.000Z",
           "broadcast": "R/2021-10-04T17:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "2580"
         }
       ],
       "animeSeason": {
@@ -96902,12 +97282,6 @@
           "broadcast": "R/2021-10-06T17:25:00.000Z/P7D"
         },
         {
-          "site": "unext",
-          "id": "SID0078603",
-          "begin": "2023-02-20T03:00:00.000Z",
-          "broadcast": "R/2023-02-20T03:00:00.000Z/P7D"
-        },
-        {
           "site": "dmhy",
           "id": "Muv-Luv Alternative"
         },
@@ -97524,12 +97898,6 @@
           "id": "SID0061711",
           "begin": "2021-10-09T01:00:00.000Z",
           "broadcast": "R/2021-10-09T01:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "168-34",
-          "begin": "",
-          "broadcast": ""
         },
         {
           "site": "bangumi_moe",
@@ -100014,7 +100382,7 @@
         "カノジョも彼女",
         "カノジョも彼女 (2023)",
         "カノジョも彼女 2",
-        "カノジョも彼女 Season 2",
+        "カ��ジョも彼女 Season 2",
         "カノジョも彼女 第2期",
         "女友成双 第二季",
         "女朋友 and 女朋友 第二季"
@@ -100957,12 +101325,6 @@
           "id": "24792",
           "begin": "2021-07-08T12:00:00.000Z",
           "broadcast": "R/2021-07-08T12:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "248-1",
-          "begin": "",
-          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -101790,12 +102152,6 @@
           "broadcast": "R/2021-07-16T15:30:00.000Z/P7D"
         },
         {
-          "site": "viu",
-          "id": "451297",
-          "begin": "2022-09-08T16:00:00.000Z",
-          "broadcast": "R/2022-09-08T16:00:00.000Z/P7D"
-        },
-        {
           "site": "gamer",
           "id": "117503",
           "begin": "2021-07-15T16:30:00.000Z",
@@ -102358,6 +102714,24 @@
           "id": "PL12UaAf_xzfrYgrBKdX25r0h8d3IXist1",
           "begin": "2025-03-24T16:00:00.000Z",
           "broadcast": "R/2025-03-24T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "nicovideo",
+          "id": "dea5-anime",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0058824",
+          "begin": "2025-08-10T15:00:00.000Z",
+          "broadcast": "R/2025-08-10T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "24813",
+          "begin": "2025-08-10T15:00:00.000Z",
+          "broadcast": "R/2025-08-10T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -103307,14 +103681,8 @@
           "id": "2531"
         },
         {
-          "site": "unext",
-          "id": "SID0058479",
-          "begin": "2024-08-01T03:00:00.000Z",
-          "broadcast": "R/2024-08-01T03:00:00.000Z/P7D"
-        },
-        {
           "site": "prime",
-          "id": "B099V8HFF3",
+          "id": "B0F4LQQLCK",
           "begin": "",
           "broadcast": ""
         },
@@ -103501,7 +103869,7 @@
         "サイダーのように言葉が湧き上がる",
         "言語如汽水般湧現",
         "言语如苏打般涌现",
-        "사이다처럼 말이 톡톡 솟아올라"
+        "사이다처럼 말이 톡톡 솟아올���"
       ]
     },
     {
@@ -103668,6 +104036,12 @@
         {
           "site": "mikan",
           "id": "2606"
+        },
+        {
+          "site": "unext",
+          "id": "SID0066647",
+          "begin": "2025-08-09T15:00:00.000Z",
+          "broadcast": "R/2025-08-09T15:00:00.000Z/P7D"
         },
         {
           "site": "netflix",
@@ -111600,7 +111974,7 @@
         "Non Non Biyori Third Season",
         "Non Non Biyori: Nonstop",
         "nonnonbiyori s3",
-        "สาวใสหัวใจบ้านทุ่ง ภาค 3",
+        "สาวใสหัวใจบ้านทุ่ง ภา�� 3",
         "のんのんびより のんすとっぷ",
         "のんのんびより3",
         "悠哉日常大王 第三季",
@@ -112606,7 +112980,7 @@
         "ดันเจี้ยนที่มีแต่ข้าเท่านั้นที่เข้าได้ ～แอบฝึกปรืนจนบรรลุสู่สุดแกร่ง～",
         "俺だけ入れる隠しダンジョン",
         "俺だけ入れる隠しダンジョン 〜こっそり鍛えて世界最強〜",
-        "俺だけ入れる隠しダンジョン ～こっそり鍛えて世界最強～",
+        "俺だけ入れる隠しダンジョン ～こっそ��鍛えて世界最強～",
         "只有我能进入的隐藏迷宫",
         "나만 들어가는 숨겨진 던전"
       ]
@@ -113291,7 +113665,7 @@
         },
         {
           "site": "prime",
-          "id": "B08SJ59911",
+          "id": "B0FKZZ5LPN",
           "begin": "",
           "broadcast": ""
         }
@@ -113833,7 +114207,7 @@
         "qq s2",
         "tqq2",
         "التوائم الخمس",
-        "เจ้าสาวผมเป็นแฝ��ห้า ภาค 2",
+        "เจ้าสาวผมเป็นแฝดห้า ภาค 2",
         "五等分の花嫁 2",
         "五等分の花嫁 ∬",
         "五等分の花嫁2",
@@ -113965,7 +114339,7 @@
         "Re:ゼロから始める異世界生活 2nd Season Part 2",
         "Re:ゼロから始める異世界生活 2nd season 後半クール",
         "Re:从零开始的异世界生活 2 下半",
-        "Re:从零开始的异世界��活第二季（下半）",
+        "Re:从零开始的异世界生活第二季（下半）",
         "ReZero (2021)",
         "ReZero 2nd Season",
         "Re：ゼロから始める異世界生活",
@@ -114164,6 +114538,12 @@
         {
           "site": "mikan",
           "id": "2363"
+        },
+        {
+          "site": "danime",
+          "id": "24343",
+          "begin": "2025-08-02T15:00:00.000Z",
+          "broadcast": "R/2025-08-02T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -117325,7 +117705,7 @@
         "Earwig y la Bruja",
         "Earwig y la bruja",
         "Earwig és a boszorkány",
-        "Earwig și vr��jitoarea",
+        "Earwig și vrăjitoarea",
         "Skorek i czarownica",
         "Āya to Majo",
         "Η Ψαλίδα και η Μάγισσα",
@@ -119600,13 +119980,6 @@
           "broadcast": ""
         },
         {
-          "site": "viu",
-          "id": "449265",
-          "begin": "2022-07-31T16:00:00.000Z",
-          "broadcast": "R/2022-07-31T16:00:00.000Z/P7D",
-          "comment": "粵語版: 449822"
-        },
-        {
           "site": "netflix",
           "id": "81278456",
           "begin": "2021-06-01T16:00:00.000Z",
@@ -121618,6 +121991,12 @@
           "id": "PL12UaAf_xzfrcWcYJbabBYjvS8dzXirrz",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0050943",
+          "begin": "2020-09-30T03:00:00.000Z",
+          "broadcast": "R/2020-09-30T03:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -124437,12 +124816,6 @@
           "id": "2186"
         },
         {
-          "site": "abema",
-          "id": "171-24",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "danime",
           "id": "24973",
           "begin": "2024-12-31T15:00:00.000Z",
@@ -124495,7 +124868,7 @@
         "Yahari Ore no Seishun Lovecome wa Machigatte Iru. Kan",
         "كوميديتي الرومانسية الشبابية خاطئة كما توقعت. النهاية",
         "กะแล้วชีวิตรักวัยรุ่นของผมมันต้องไม่สดใสเลยสักนิด ภาค 3",
-        "กะแล้วชีวิตรักวัยรุ่นของผมมันต้องไม่สดใสเลยสักนิด ภาคอวสาน",
+        "กะแล้วชีวิตรักวัยรุ่นของผมมันต้องไม่สดใ���เลยสักนิด ภาคอวสาน",
         "はり俺の青春ラブコメはまちがっている。",
         "やはり俺の青春ラブコメはまちがっている. 3",
         "やはり俺の青春ラブコメはまちがっている. 完",
@@ -124819,46 +125192,16 @@
       ],
       "animeSeason": {
         "season": "SUMMER",
-        "year": 2023,
+        "year": 2025,
         "month": "07"
       },
       "status": "FINISHED",
-      "episodes": 12,
-      "picture": "https://cdn.myanimelist.net/images/anime/1696/136634.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1696/136634t.jpg",
+      "episodes": 0,
+      "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32921-4003822392.1751434988.jpg",
+      "thumbnail": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32921-4003822392.1751434988.jpg",
       "synonyms": [
-        "Dziewczyna do wynajęcia Sezon 3",
-        "KanoKari 3",
-        "Kanojo",
         "Kanojo, Okarishimasu",
-        "Kanojo, Okarishimasu (2023)",
-        "Kanojo, Okarishimasu Dai 3 Ki",
-        "Kanojo, Okarishimasu Season 3",
-        "Kanokari",
-        "Okarishimasu 3rd Season",
-        "Okarishimasu Season 3",
-        "Rent-A-Girlfriend",
-        "Rent-a-Girlfriend",
-        "Rent-a-Girlfriend (2023)",
-        "Rent-a-Girlfriend (Saison 3)",
-        "Rent-a-Girlfriend (Season 3)",
-        "Rent-a-Girlfriend (Staffel 3)",
-        "Rent-a-Girlfriend (Stagione 3)",
-        "Rent-a-Girlfriend (Temporada 3)",
-        "Rent-a-Girlfriend 3",
-        "Rent-a-Girlfriend 3rd Season",
-        "Rent-a-Girlfriend Season 3",
-        "Rent-a-Girlfriend Staffel 3",
-        "Rental Girlfriend 3",
-        "kanokari s3",
-        "สะดุดรักยัยแฟนเช่า ภาค 3",
-        "お借りします",
-        "お借りします 3",
-        "彼女",
-        "彼女, お借りします (2023)",
-        "彼女、お借りします",
-        "彼女、お借りします 第3期",
-        "租借女友 第三季"
+        "彼女、お借りします"
       ]
     },
     {
@@ -130722,12 +131065,6 @@
           "broadcast": "R/2020-04-12T03:00:00.000Z/P7D"
         },
         {
-          "site": "ani_one_asia",
-          "id": "PLxSscENEp7JjK6AR9OjeYkwGCVTgCFEWz",
-          "begin": "2020-04-09T16:55:00.000Z",
-          "broadcast": "R/2020-04-09T16:55:00.000Z/P7D"
-        },
-        {
           "site": "gamer",
           "id": "109753",
           "begin": "2020-04-09T17:10:00.000Z",
@@ -130740,22 +131077,10 @@
           "broadcast": "R/2020-04-09T17:10:00.000Z/P7D"
         },
         {
-          "site": "ani_one",
-          "id": "PLC18xlbCdwtQmW1Iv_2SZ2-8F9_yHf5rf",
-          "begin": "2023-05-07T16:00:00.000Z",
-          "broadcast": "R/2023-05-07T16:00:00.000Z/P7D"
-        },
-        {
           "site": "unext",
           "id": "SID0047145",
           "begin": "2020-04-12T03:00:00.000Z",
           "broadcast": "R/2020-04-12T03:00:00.000Z/P7D"
-        },
-        {
-          "site": "gamer_hk",
-          "id": "109753",
-          "begin": "2020-04-09T17:10:00.000Z",
-          "broadcast": "R/2020-04-09T17:10:00.000Z/P7D"
         },
         {
           "site": "dmhy",
@@ -133170,6 +133495,12 @@
           "id": "95849",
           "begin": "2025-03-05T04:00:00.000Z",
           "broadcast": "R/2025-03-05T04:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DR6JPNSQ",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -133290,6 +133621,10 @@
           "id": "GKEH2G428",
           "begin": "2022-03-01T06:00:00.000Z",
           "broadcast": "R/2022-03-01T06:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "2121"
         }
       ],
       "animeSeason": {
@@ -134915,6 +135250,12 @@
           "id": "PLC18xlbCdwtQvY8TMqvpiIkTVblZSy3AC",
           "begin": "2023-07-07T15:00:10.000Z",
           "broadcast": "R/2023-07-07T15:00:10.000Z/P7D"
+        },
+        {
+          "site": "ani_one_asia",
+          "id": "PLxSscENEp7JimXXBIp1aZkrpHdI2JLXQi",
+          "begin": "2025-08-29T12:00:06.000Z",
+          "broadcast": "R/2025-08-29T12:00:06.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -135956,7 +136297,7 @@
         },
         {
           "site": "prime",
-          "id": "B0834WBHWT",
+          "id": "B0DYJLMWFP",
           "begin": "",
           "broadcast": ""
         }
@@ -137421,6 +137762,12 @@
           "id": "B08B8Q2BNX",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "danime",
+          "id": "26566",
+          "begin": "2025-07-31T15:00:00.000Z",
+          "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -137711,12 +138058,6 @@
           "id": "113018",
           "begin": "2020-08-19T04:00:00.000Z",
           "broadcast": "R/2020-08-19T04:00:00.000Z/P7D"
-        },
-        {
-          "site": "gamer_hk",
-          "id": "113018",
-          "begin": "2020-08-19T04:00:00.000Z",
-          "broadcast": "R/2020-08-19T04:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -137777,6 +138118,12 @@
           "id": "24711",
           "begin": "2021-05-01T01:00:00.000Z",
           "broadcast": "R/2021-05-01T01:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "149-28i9ircg5g9",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -140713,26 +141060,17 @@
         }
       ],
       "animeSeason": {
-        "season": "FALL",
-        "year": 2019,
+        "season": "UNDEFINED",
+        "year": 2015,
         "month": "10"
       },
       "status": "FINISHED",
-      "episodes": 11,
-      "picture": "https://cdn.myanimelist.net/images/anime/1715/111407.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/1715/111407t.jpg",
+      "episodes": 1,
+      "picture": "https://cdn.anime-planet.com/anime/primary/rerulili-young-disease-outburst-boy-1.jpg",
+      "thumbnail": "https://cdn.anime-planet.com/anime/primary/rerulili-young-disease-outburst-boy-1-190x266.jpg",
       "synonyms": [
-        "Chuubyou Gekihatsu Boy (TV)",
-        "Chūbyō Gekihatsu Boy",
-        "Cowok Halu Bergejolak",
-        "Juubyou Gekikatsu Boy",
-        "Outburst Dreamer Boys",
-        "Outburst Dreamer Boys (TV)",
-        "Young Disease Outburst Boy",
-        "ثورة الفتيان الحالمين",
-        "厨病激发BOY",
-        "厨病激発ボーイ",
-        "厨病激発ボーイ (TV)"
+        "rerulili: Chuubyou Gekihatsu Boy",
+        "厨病激発ボーイ"
       ]
     },
     {
@@ -143289,12 +143627,6 @@
           "id": "2178"
         },
         {
-          "site": "abema",
-          "id": "26-229",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "danime",
           "id": "24141",
           "begin": "2023-03-01T01:00:00.000Z",
@@ -143496,6 +143828,12 @@
           "id": "SID0051544",
           "begin": "2024-10-31T15:00:00.000Z",
           "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "24568",
+          "begin": "2025-08-17T15:00:00.000Z",
+          "broadcast": "R/2025-08-17T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -144877,7 +145215,7 @@
         },
         {
           "site": "prime",
-          "id": "B0CPT9WQ7G",
+          "id": "B0FJW85NMP",
           "begin": "",
           "broadcast": ""
         }
@@ -146429,12 +146767,6 @@
           "broadcast": "R/2019-07-03T14:30:00.000Z/P7D"
         },
         {
-          "site": "unext",
-          "id": "SID0041947",
-          "begin": "2019-07-10T15:00:00.000Z",
-          "broadcast": "R/2019-07-10T15:00:00.000Z/P7D"
-        },
-        {
           "site": "bangumi_moe",
           "id": "5d1b8388e0dc4c3cbb5c92e0"
         },
@@ -146730,6 +147062,10 @@
           "id": "22825",
           "begin": "2019-07-02T15:00:00.000Z",
           "broadcast": "R/2019-07-02T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "1986"
         }
       ],
       "animeSeason": {
@@ -146816,6 +147152,10 @@
           "id": "22853",
           "begin": "2021-05-01T01:00:00.000Z",
           "broadcast": "R/2021-05-01T01:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "1987"
         }
       ],
       "animeSeason": {
@@ -149010,10 +149350,10 @@
         },
         {
           "site": "prime",
-          "id": "B08KF8R827",
+          "id": "B0DQDZYWFS",
           "begin": "",
           "broadcast": "",
-          "comment": "2: B098JRVBZ1"
+          "comment": "2: B0F79BB372"
         }
       ],
       "animeSeason": {
@@ -150083,6 +150423,18 @@
           "id": "SID0044456",
           "begin": "2024-10-31T15:00:00.000Z",
           "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "19-270",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "danime",
+          "id": "28201",
+          "begin": "2025-08-15T15:00:00.000Z",
+          "broadcast": "R/2025-08-15T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -151682,6 +152034,12 @@
           "id": "22680",
           "begin": "2019-04-09T03:00:00.000Z",
           "broadcast": "R/2019-04-09T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "mytv",
+          "id": "fruitsbasketseason10002_143778",
+          "begin": "2025-08-01T16:00:00.000Z",
+          "broadcast": "R/2025-08-01T16:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -154235,6 +154593,12 @@
           "id": "SID0044875",
           "begin": "2025-05-01T03:00:00.000Z",
           "broadcast": "R/2025-05-01T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "19-258",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -154631,7 +154995,7 @@
         "SnK 3 (2019)",
         "SnK3.5",
         "Атака титанов 3 сезон (2019)",
-        "Атака титанов: 3 сезон 2 часть",
+        "Атака титан��в: 3 сезон 2 часть",
         "מתקפת הטיטאנים עונה 3 (2019)",
         "מתקפת הטיטאנים עונה 3 חלק 2",
         "الهجوم على العمالقة: الموسم الثالث 2019",
@@ -154851,6 +155215,12 @@
           "id": "SID0044610",
           "begin": "2024-10-31T15:00:00.000Z",
           "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "24318",
+          "begin": "2025-08-16T15:00:00.000Z",
+          "broadcast": "R/2025-08-16T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -159509,6 +159879,12 @@
           "id": "SID0042857",
           "begin": "2025-05-01T03:00:00.000Z",
           "broadcast": "R/2025-05-01T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "19-259",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -160452,6 +160828,10 @@
           "id": "B07R3W3FD9",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "mikan",
+          "id": "1890"
         }
       ],
       "animeSeason": {
@@ -160987,6 +161367,10 @@
           "id": "24570",
           "begin": "2025-04-10T15:00:00.000Z",
           "broadcast": "R/2025-04-10T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "1902"
         }
       ],
       "animeSeason": {
@@ -161161,6 +161545,10 @@
           "id": "PL12UaAf_xzfoqki4lMKCWQj93SyjqN6JF",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "mikan",
+          "id": "1757"
         }
       ],
       "animeSeason": {
@@ -161647,7 +162035,8 @@
           "site": "muse_hk",
           "id": "PLuxqoToY7UcgarYXnz38UWOky-pGBX7Ew",
           "begin": "2022-08-05T16:00:00.000Z",
-          "broadcast": "R/2022-08-05T16:00:00.000Z/P7D"
+          "broadcast": "R/2022-08-05T16:00:00.000Z/P7D",
+          "comment": "粵語: PLuxqoToY7Uci_54jj9mAUjQc8NWJxOuoJ"
         },
         {
           "site": "netflix",
@@ -163040,7 +163429,7 @@
         "Tonari no Kyūketsuki-san",
         "Vampira do Bairro",
         "tonakyu",
-        "Госпо��а Вампир по соседству",
+        "Госпожа Вампир по соседству",
         "となりの吸血鬼さん",
         "邻家的吸血鬼小妹",
         "邻家索菲",
@@ -163329,6 +163718,9 @@
         ],
         "zh-Hant": [
           "我讓最想被擁抱的男人給威脅了"
+        ],
+        "en": [
+          "DAKAICHI -I'm being harassed by the sexiest man of the year-"
         ]
       },
       "type": "tv",
@@ -163378,6 +163770,12 @@
           "id": "22407",
           "begin": "2018-10-08T03:00:00.000Z",
           "broadcast": "R/2018-10-08T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "crunchyroll",
+          "id": "G6QW9J2Z6",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -164830,7 +165228,7 @@
         },
         {
           "site": "prime",
-          "id": "B0C7HQ7S4L",
+          "id": "B0F85B4YSS",
           "begin": "",
           "broadcast": ""
         },
@@ -164916,6 +165314,12 @@
           "id": "SID0042155",
           "begin": "2025-05-01T03:00:00.000Z",
           "broadcast": "R/2025-05-01T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "19-260",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -165598,6 +166002,12 @@
           "id": "PL12UaAf_xzfrPMPsNv4bo-CQYBWmcL2CB",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "crunchyroll",
+          "id": "G6DQDD3WR",
+          "begin": "2009-10-12T10:30:00.000Z",
+          "broadcast": "R/2009-10-12T10:30:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -166894,6 +167304,12 @@
           "id": "SID0031979",
           "begin": "2022-01-25T15:00:00.000Z",
           "broadcast": "R/2022-01-25T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "24489",
+          "begin": "2025-07-31T15:00:00.000Z",
+          "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -166947,6 +167363,10 @@
           "id": "23939",
           "begin": "2020-06-28T15:00:00.000Z",
           "broadcast": "R/2020-06-28T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "mikan",
+          "id": "1901"
         }
       ],
       "animeSeason": {
@@ -167676,6 +168096,12 @@
           "id": "B07N17SRQ2",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "danime",
+          "id": "26565",
+          "begin": "2025-07-31T15:00:00.000Z",
+          "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -167860,6 +168286,10 @@
           "id": "19-121",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "mikan",
+          "id": "1884"
         }
       ],
       "animeSeason": {
@@ -170805,7 +171235,7 @@
         "百炼霸王与圣约女武神",
         "百錬の覇王と聖約の",
         "百錬の覇王と聖約の戦乙女",
-        "百錬の覇王と聖約の戦乙女[ヴァルキュリア]",
+        "百錬の覇王と聖約���戦乙女[ヴァルキュリア]",
         "百錬の覇王と聖約の戦乙女〈ヴァルキュリア〉",
         "백련의 패왕과 성약의 발키리"
       ]
@@ -171057,6 +171487,12 @@
           "id": "23098",
           "begin": "2025-04-27T15:00:00.000Z",
           "broadcast": "R/2025-04-27T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "19-144",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -172321,6 +172757,12 @@
           "id": "1882"
         },
         {
+          "site": "unext",
+          "id": "SID0039165",
+          "begin": "2025-08-09T15:00:00.000Z",
+          "broadcast": "R/2025-08-09T15:00:00.000Z/P7D"
+        },
+        {
           "site": "netflix",
           "id": "81004268",
           "begin": "",
@@ -173163,7 +173605,7 @@
         "horei3",
         "鬼灯の冷徹",
         "鬼灯の冷徹 (2018)",
-        "鬼灯の冷��� 2",
+        "鬼灯の冷徹 2",
         "鬼灯の冷徹 第弐期 その弐",
         "鬼灯の冷徹 第弐期その弐",
         "鬼灯の冷徹 （2018）",
@@ -176245,6 +176687,12 @@
         {
           "site": "mikan",
           "id": "1624"
+        },
+        {
+          "site": "danime",
+          "id": "22119",
+          "begin": "2025-08-06T15:00:00.000Z",
+          "broadcast": "R/2025-08-06T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -180175,6 +180623,12 @@
           "id": "89510",
           "begin": "2024-10-01T04:30:00.000Z",
           "broadcast": "R/2024-10-01T04:30:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DWRD4S5S",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -183072,6 +183526,12 @@
           "id": "21951",
           "begin": "2018-01-10T03:00:00.000Z",
           "broadcast": "R/2018-01-10T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "90426",
+          "begin": "2025-08-22T04:00:00.000Z",
+          "broadcast": "R/2025-08-22T04:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -183780,6 +184240,12 @@
         {
           "site": "mikan",
           "id": "1521"
+        },
+        {
+          "site": "danime",
+          "id": "22722",
+          "begin": "2025-09-01T15:00:00.000Z",
+          "broadcast": "R/2025-09-01T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -185327,6 +185793,12 @@
         {
           "site": "mikan",
           "id": "1483"
+        },
+        {
+          "site": "danime",
+          "id": "22780",
+          "begin": "2025-07-31T15:00:00.000Z",
+          "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -185983,6 +186455,12 @@
           "id": "escha-chron",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "danime",
+          "id": "24719",
+          "begin": "2025-08-21T15:00:00.000Z",
+          "broadcast": "R/2025-08-21T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -187643,12 +188121,6 @@
           "broadcast": "R/2017-10-07T17:30:00.000Z/P7D"
         },
         {
-          "site": "abema",
-          "id": "115-7yjdnebupe-",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "unext",
           "id": "SID0031280",
           "begin": "2017-10-10T03:00:00.000Z",
@@ -188049,7 +188521,7 @@
         "Code: Realize -Sōsei no Himegimi-",
         "Code: Realize ~Guardian of Rebirth~",
         "Code: Realize ~Sousei no Himegimi~",
-        "Code: Realize ～創世の姫君～",
+        "Code: Realize ��創世の姫君～",
         "Code:Realize - Guardian of Rebirth",
         "Code:Realize - Sōsei no Himegimi",
         "Code:Realize -Guardian of Rebirth-",
@@ -188665,6 +189137,12 @@
           "id": "21802",
           "begin": "2017-10-05T03:00:00.000Z",
           "broadcast": "R/2017-10-05T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "ani_one",
+          "id": "PLC18xlbCdwtSQzeoD-ErT9K1ZUczEhRJl",
+          "begin": "2025-08-15T12:00:06.000Z",
+          "broadcast": "R/2025-08-15T12:00:06.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -189540,6 +190018,12 @@
           "id": "19-112",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "danime",
+          "id": "22492",
+          "begin": "2025-08-08T15:00:00.000Z",
+          "broadcast": "R/2025-08-08T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -196391,6 +196875,12 @@
           "id": "SID0034760",
           "begin": "2024-10-31T15:00:00.000Z",
           "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "19-120",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -201019,6 +201509,84 @@
       ]
     },
     {
+      "title": "モンスターストライク セカンドシーズン",
+      "titleTranslate": {
+        "zh-Hans": [
+          "怪物弹珠 第二季",
+          "怪物弹珠 第2季"
+        ]
+      },
+      "type": "web",
+      "lang": "ja",
+      "officialSite": "http://anime.monster-strike.com/",
+      "begin": "2017-04-01T15:00:00.000Z",
+      "end": "2017-09-02T15:15:00.000Z",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "205015"
+        },
+        {
+          "site": "bilibili",
+          "id": "6059",
+          "begin": "2017-03-27T03:24:00.000Z",
+          "broadcast": "R/2017-03-27T03:24:00.000Z/P7D"
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrhdz2gt",
+          "begin": "2017-08-14T10:31:53.000Z"
+        },
+        {
+          "site": "qq",
+          "id": "w/wrqntnqyx2vhs7v",
+          "begin": ""
+        },
+        {
+          "site": "youku",
+          "id": "45efbfbd1fefbfbd5bef",
+          "begin": ""
+        },
+        {
+          "site": "mikan",
+          "id": "1388"
+        },
+        {
+          "site": "crunchyroll",
+          "id": "G619JM99Y",
+          "begin": "2016-12-09T19:00:00.000Z",
+          "broadcast": "R/2016-12-09T19:00:00.000Z/P7D"
+        }
+      ],
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 2017,
+        "month": "04"
+      },
+      "status": "FINISHED",
+      "episodes": 23,
+      "picture": "https://cdn.myanimelist.net/images/anime/7/84735.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/7/84735t.jpg",
+      "synonyms": [
+        "MonSuto",
+        "Monster Strike",
+        "Monster Strike (Saison 2)",
+        "Monster Strike 2",
+        "Monster Strike 2nd Season",
+        "Monster Strike Anime 2017",
+        "Monster Strike Saison 2",
+        "Monster Strike Season 2",
+        "Monster Strike Staffel 2",
+        "Monster Strike the Anime 2nd Season",
+        "Monster Strike the Anime Temporada 2",
+        "Monsuto Anime",
+        "モンスターストライク",
+        "モンスターストライク 2",
+        "モンスターストライク セカンドシーズン",
+        "モンストアニメ"
+      ]
+    },
+    {
       "title": "パンパカパンツ おNEWさん",
       "titleTranslate": {
         "zh-Hant": [
@@ -201497,6 +202065,12 @@
           "id": "84408",
           "begin": "2024-10-01T04:30:00.000Z",
           "broadcast": "R/2024-10-01T04:30:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0FL2B4FZX",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -203178,12 +203752,6 @@
           "broadcast": "R/2017-06-09T09:00:00.000Z/P7D"
         },
         {
-          "site": "abema",
-          "id": "247-1",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "unext",
           "id": "SID0027966",
           "begin": "2019-01-10T03:00:00.000Z",
@@ -203887,12 +204455,6 @@
           "broadcast": "R/2017-01-21T14:30:00.000Z/P7D"
         },
         {
-          "site": "abema",
-          "id": "283-16",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "unext",
           "id": "SID0027988",
           "begin": "2017-01-29T03:00:00.000Z",
@@ -204118,12 +204680,6 @@
         {
           "site": "netflix",
           "id": "80186349",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "abema",
-          "id": "248-1",
           "begin": "",
           "broadcast": ""
         }
@@ -208573,7 +209129,7 @@
         "おくさまが生徒会長!+!",
         "おくさまが生徒会長!＋!",
         "おくさまが生徒会長！+！",
-        "おくさまが生徒会長��＋！",
+        "おくさまが生徒会長！＋！",
         "我老婆是学生会长!+!",
         "사모님이 학생회장!+!"
       ]
@@ -211468,7 +212024,7 @@
         "こねこのチー　ポンポンらー大冒険",
         "チーズスイートホーム",
         "甜甜私房猫 吃饱啦大冒险",
-        "아기고양이 치: 딩구르대모험"
+        "아기고양이 치: ��구르대모험"
       ]
     },
     {
@@ -213908,12 +214464,6 @@
           "id": "1146"
         },
         {
-          "site": "unext",
-          "id": "SID0147999",
-          "begin": "2024-08-03T03:00:00.000Z",
-          "broadcast": "R/2024-08-03T03:00:00.000Z/P7D"
-        },
-        {
           "site": "danime",
           "id": "27246",
           "begin": "2024-08-03T03:00:00.000Z",
@@ -214447,7 +214997,7 @@
         "Kochira Katsushikaku Kameari Kouenmae Hashutsujo: THE FINAL - Ryoutsu Kakichi Saigo no Hi",
         "Kochira Katsushikaku Kameari Kouenmae Hashutsujo: The Final - Ryoutsu Kakichi Saigo no Hi",
         "This is the Police Station in Front of Kameari Park in Katsushika Ward",
-        "こちらか��しかくかめありこうえんまえはしゅつじょざふぁいなるりょうつかんきちさいごのひ",
+        "こちらかつしかくかめありこうえんまえはしゅつじょざふぁいなるりょうつかんきちさいごのひ",
         "こちら葛飾区亀有公園前派出所 (新作)",
         "こちら葛飾区亀有公園前派出所 The Final ～THE FINAL 両津勘吉最後の日～",
         "こちら葛飾区亀有公園前派出所 ~THE FINAL 両津勘吉最後の日~",
@@ -216550,6 +217100,10 @@
         {
           "site": "bangumi_moe",
           "id": "57765f06ca607f850f3f9356"
+        },
+        {
+          "site": "mikan",
+          "id": "762"
         }
       ],
       "animeSeason": {
@@ -222671,12 +223225,6 @@
           "id": "20918",
           "begin": "2024-06-30T15:00:00.000Z",
           "broadcast": "R/2024-06-30T15:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "13-66",
-          "begin": "",
-          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -224077,6 +224625,9 @@
         ],
         "zh-Hant": [
           "線上遊戲的老婆不可能是女生？"
+        ],
+        "en": [
+          "And you thought there is never a girl online?"
         ]
       },
       "type": "tv",
@@ -224163,6 +224714,12 @@
           "id": "PL12UaAf_xzfp2T-9650VGnM1IvSCiB6ex",
           "begin": "2019-03-29T02:34:51.000Z",
           "broadcast": "R/2019-03-29T02:34:51.000Z/P7D"
+        },
+        {
+          "site": "crunchyroll",
+          "id": "GRWE8K5MR",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -227229,6 +227786,12 @@
           "id": "19-239",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "netflix",
+          "id": "80171922",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -227624,12 +228187,6 @@
           "id": "5126",
           "begin": "2016-02-05T16:00:01.000Z",
           "broadcast": "R/2021-05-16T10:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "168-48",
-          "begin": "",
-          "broadcast": ""
         },
         {
           "site": "unext",
@@ -230183,7 +230740,7 @@
         "まほうしょうじょなんてもういいですから",
         "魔法少女なんてもういいですから.",
         "魔法少女なんてもういいですから。",
-        "魔法少女什么的已经够了啦。",
+        "魔法少女什么的已经够了���。",
         "마법소녀 따위는 이제 됐으니까."
       ]
     },
@@ -230644,12 +231201,6 @@
           "id": "25049",
           "begin": "2021-09-30T15:00:00.000Z",
           "broadcast": "R/2021-09-30T15:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "172-58",
-          "begin": "",
-          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -231750,6 +232301,18 @@
           "id": "SID0029289",
           "begin": "2024-10-31T15:00:00.000Z",
           "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "21609",
+          "begin": "2025-08-20T15:00:00.000Z",
+          "broadcast": "R/2025-08-20T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "19-272",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -232024,6 +232587,12 @@
           "id": "71789",
           "begin": "2025-07-01T04:00:00.000Z",
           "broadcast": "R/2025-07-01T04:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "22781",
+          "begin": "2025-07-31T15:00:00.000Z",
+          "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -234528,6 +235097,12 @@
           "id": "20367",
           "begin": "2015-10-12T03:00:00.000Z",
           "broadcast": "R/2015-10-12T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "149-28i9ircg5g9",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -235982,65 +236557,6 @@
       ]
     },
     {
-      "title": "劇場版 蒼き鋼のアルペジオ -アルス・ノヴァ- Cadenza",
-      "titleTranslate": {
-        "zh-Hans": [
-          "苍蓝钢铁的琶音 Cadenza"
-        ]
-      },
-      "type": "movie",
-      "lang": "ja",
-      "officialSite": "http://www.aokihagane.com/",
-      "begin": "2015-10-03T16:00:00.000Z",
-      "end": "2015-10-03T17:30:00.000Z",
-      "sites": [
-        {
-          "site": "bangumi",
-          "id": "107100"
-        },
-        {
-          "site": "unext",
-          "id": "SID0027854",
-          "begin": "2017-01-05T03:00:00.000Z",
-          "broadcast": "R/2017-01-05T03:00:00.000Z/P7D"
-        },
-        {
-          "site": "mikan",
-          "id": "806"
-        },
-        {
-          "site": "danime",
-          "id": "23093",
-          "begin": "2019-12-01T01:00:00.000Z",
-          "broadcast": "R/2019-12-01T01:00:00.000Z/P7D"
-        }
-      ],
-      "animeSeason": {
-        "season": "FALL",
-        "year": 2015,
-        "month": "10"
-      },
-      "status": "FINISHED",
-      "episodes": 1,
-      "picture": "https://cdn.myanimelist.net/images/anime/2/74665.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/2/74665t.jpg",
-      "synonyms": [
-        "Aoki Hagane no Arpeggio: Ars Nova - Cadenza",
-        "Aoki Hagane no Arpeggio: Ars Nova Cadenza",
-        "Aoki Hagane no Arpeggio: Ars Nova Movie 2",
-        "Arpeggio of Blue Steel - Cadenza",
-        "Arpeggio of Blue Steel Movie 2: Ars Nova - Cadenza",
-        "Arpeggio of Blue Steel: Ars Nova Cadenza",
-        "Arpeggio of Blue Steel: Ars Nova Movie 2",
-        "Gekijouban Aoki Hagane no Arpeggio",
-        "劇場版 蒼き鋼のアルペジオ",
-        "劇場版 蒼き鋼のアルペジオ -アルス・ノヴァ- Cadenza",
-        "劇場版 蒼き鋼のアルペジオ ‐アルス・ノヴァ‐ Cadenza",
-        "蒼き鋼のアルペジオ -アルス・ノヴァ- Cadenza",
-        "蒼藍鋼鐵戰艦 Cadenza"
-      ]
-    },
-    {
       "title": "屍者の帝国",
       "titleTranslate": {
         "zh-Hans": [
@@ -236068,6 +236584,18 @@
           "id": "SID0029290",
           "begin": "2024-10-31T15:00:00.000Z",
           "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "19-271",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "danime",
+          "id": "21610",
+          "begin": "2025-08-11T15:00:00.000Z",
+          "broadcast": "R/2025-08-11T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -236721,12 +237249,6 @@
           "id": "810"
         },
         {
-          "site": "abema",
-          "id": "26-116",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "danime",
           "id": "21662",
           "begin": "2017-07-08T01:00:00.000Z",
@@ -236921,6 +237443,12 @@
           "begin": "2015-08-28T01:00:00.000Z",
           "broadcast": "R/2015-08-28T01:00:00.000Z/P7D",
           "comment": "+1, +2: 20347"
+        },
+        {
+          "site": "abema",
+          "id": "149-28i9ircg5g9",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -239494,6 +240022,10 @@
           "id": "B0DSPK9WP8",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "mikan",
+          "id": "547"
         }
       ],
       "animeSeason": {
@@ -241714,6 +242246,12 @@
           "id": "102172",
           "begin": "2015-07-10T16:00:00.000Z",
           "broadcast": "R/2018-06-17T00:08:00.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0034155",
+          "begin": "2025-08-09T15:00:00.000Z",
+          "broadcast": "R/2025-08-09T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -242375,12 +242913,6 @@
           "begin": "2016-06-09T03:54:36.000Z"
         },
         {
-          "site": "abema",
-          "id": "168-48",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "unext",
           "id": "SID0020410",
           "begin": "2023-04-01T03:00:00.000Z",
@@ -242758,12 +243290,6 @@
         {
           "site": "mikan",
           "id": "475"
-        },
-        {
-          "site": "abema",
-          "id": "19-78",
-          "begin": "",
-          "broadcast": ""
         },
         {
           "site": "danime",
@@ -246934,7 +247460,7 @@
         "L’Eden de la Grisaia",
         "The Eden of Grisaia",
         "grisaia s3",
-        "ぐりざいあのらく���ん",
+        "ぐりざいあのらくえん",
         "グリザイアの楽園",
         "灰色的乐园",
         "灰色的樂園",
@@ -247915,6 +248441,12 @@
           "id": "SID0099888",
           "begin": "2024-03-05T03:00:00.000Z",
           "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0FLVV1M4Y",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -248511,6 +249043,12 @@
           "id": "20085",
           "begin": "2015-04-03T01:00:00.000Z",
           "broadcast": "R/2015-04-03T01:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "149-28i9ircg5g9",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -248614,12 +249152,6 @@
           "id": "hozukino-reitetsu-oad",
           "begin": "2020-10-15T03:00:00.000Z",
           "broadcast": "R/2020-10-15T03:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "115-7yjdnebupe-",
-          "begin": "",
-          "broadcast": ""
         },
         {
           "site": "unext",
@@ -249041,6 +249573,12 @@
           "id": "11607",
           "begin": "2016-03-23T01:00:00.000Z",
           "broadcast": "R/2016-03-23T01:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "25-17",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -251591,7 +252129,7 @@
         "ウィッチクラフトワークス 多華宮君と妹の悪巧み",
         "ウィッチクラフトワークス「多華宮君と妹の悪巧み」",
         "魔女的使命 OAD 华宫君和妹妹的诡计",
-        "위치 크래프트 워크스: 타카미야와 여동생의 흉계"
+        "위�� 크래프트 워크스: 타카미야와 여동생의 흉계"
       ]
     },
     {
@@ -251874,7 +252412,7 @@
         "ToZ",
         "ToZ: Doushi no Yoake",
         "ているずおぶぜすてぃりあどうしのよあけ",
-        "テイルズ オブ ゼスティリア ~導師の夜明け~",
+        "テ���ルズ オブ ゼスティリア ~導師の夜明け~",
         "テイルズ オブ ゼスティリア ～導師の夜明け～",
         "테일즈 오브 제스티리아: 도사의 새벽"
       ]
@@ -255519,6 +256057,12 @@
           "id": "143-61",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "prime",
+          "id": "B0CGJ584V8",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -256102,12 +256646,6 @@
           "site": "mgtv",
           "id": "305203",
           "begin": ""
-        },
-        {
-          "site": "unext",
-          "id": "SID0011891",
-          "begin": "2020-04-15T03:00:00.000Z",
-          "broadcast": "R/2020-04-15T03:00:00.000Z/P7D"
         },
         {
           "site": "dmhy",
@@ -257966,12 +258504,6 @@
           "id": "28221627",
           "begin": "2019-07-17T06:32:31.000Z",
           "broadcast": "R/2019-07-17T06:32:31.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "168-48",
-          "begin": "",
-          "broadcast": ""
         },
         {
           "site": "unext",
@@ -259999,6 +260531,12 @@
         {
           "site": "mikan",
           "id": "366"
+        },
+        {
+          "site": "danime",
+          "id": "28202",
+          "begin": "2025-08-22T15:00:00.000Z",
+          "broadcast": "R/2025-08-22T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -262024,6 +262562,12 @@
           "id": "SID0017679",
           "begin": "2022-01-25T15:00:00.000Z",
           "broadcast": "R/2022-01-25T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "21856",
+          "begin": "2025-07-31T15:00:00.000Z",
+          "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -262695,12 +263239,6 @@
           "site": "bilibili",
           "id": "212",
           "begin": "2014-05-15T16:00:00.000Z"
-        },
-        {
-          "site": "abema",
-          "id": "168-49",
-          "begin": "",
-          "broadcast": ""
         },
         {
           "site": "unext",
@@ -265867,91 +266405,6 @@
       ]
     },
     {
-      "title": "エスカ＆ロジーのアトリエ ～黄昏の空の錬金術士～",
-      "titleTranslate": {
-        "zh-Hans": [
-          "艾斯卡与罗吉的工作室～黄昏之空的炼金术士～",
-          "爱丝卡＆罗吉的炼金工房 ～黄昏天空的炼金术士～",
-          "爱丝卡与罗吉的工作室 黄昏之空的炼金术士"
-        ],
-        "en": [
-          "Atelier Escha & Logy : Alchemists of the Dusk Sky"
-        ]
-      },
-      "type": "tv",
-      "lang": "ja",
-      "officialSite": "http://atelier-ps3.jp/escha-logy/anime/",
-      "begin": "2014-04-10T13:00:00.000Z",
-      "end": "2014-06-26T13:30:00.000Z",
-      "sites": [
-        {
-          "site": "youku",
-          "id": "97785dac9c5011e38b3f",
-          "begin": "2014-04-11T06:34:36.000Z"
-        },
-        {
-          "site": "bilibili",
-          "id": "190",
-          "begin": "2014-04-09T16:00:00.000Z",
-          "broadcast": "R/2014-04-11T11:30:00.000Z/P7D"
-        },
-        {
-          "site": "bangumi",
-          "id": "87593"
-        },
-        {
-          "site": "nicovideo",
-          "id": "escha-logy",
-          "begin": "2014-04-14T03:00:00.000Z",
-          "broadcast": "R/2014-04-14T03:00:00.000Z/P7D"
-        },
-        {
-          "site": "unext",
-          "id": "SID0019457",
-          "begin": "2016-09-22T03:00:00.000Z",
-          "broadcast": "R/2016-09-22T03:00:00.000Z/P7D"
-        },
-        {
-          "site": "dmhy",
-          "id": "愛+羅吉"
-        },
-        {
-          "site": "mikan",
-          "id": "284"
-        },
-        {
-          "site": "danime",
-          "id": "11226",
-          "begin": "2020-06-26T01:00:00.000Z",
-          "broadcast": "R/2020-06-26T01:00:00.000Z/P7D"
-        }
-      ],
-      "animeSeason": {
-        "season": "SPRING",
-        "year": 2014,
-        "month": "04"
-      },
-      "status": "FINISHED",
-      "episodes": 12,
-      "picture": "https://cdn.myanimelist.net/images/anime/2/61733.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/2/61733t.jpg",
-      "synonyms": [
-        "Atelier Escha & Logy - Alchemists of the Dusk Sky",
-        "Atelier Escha & Logy ~Alchemists of the Dusk Sky~",
-        "Atelier Escha & Logy: Alchemists of the Dusk Sky",
-        "Atelier Escha und Logy",
-        "Atelier Escha y Logy: Alquimistas del atardecer",
-        "Atelier Escha y Logy: Los alquimistas del cielo",
-        "eschatology",
-        "エスカ&ロジーのアトリエ ~黄昏の空の錬金術士~",
-        "エスカ&ロジーのアトリエ ～黄昏の空の錬金術士～",
-        "エスカ＆ロジーのアトリエ ～黄昏の空の錬金術士～",
-        "エスカ＆ロジーのアトリエ～黄昏の空の錬金術士～",
-        "爱丝卡&罗吉的炼金工房～黄昏天空之炼金术士～",
-        "에스카 & 로지의 아틀리에 ~황혼 하늘의 연금술사~"
-      ]
-    },
-    {
       "title": "ご注文はうさぎですか？",
       "titleTranslate": {
         "zh-Hans": [
@@ -268494,23 +268947,19 @@
         }
       ],
       "animeSeason": {
-        "season": "FALL",
-        "year": 2015,
+        "season": "WINTER",
+        "year": 2014,
         "month": "02"
       },
       "status": "FINISHED",
       "episodes": 2,
-      "picture": "https://cdn.myanimelist.net/images/anime/11/77510.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/11/77510t.jpg",
+      "picture": "https://cdn.myanimelist.net/images/anime/7/77177.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/7/77177t.jpg",
       "synonyms": [
-        "Noragami 2 OAD",
-        "Noragami ARAGOTO OVA",
-        "Noragami Aragoto OAD",
-        "noragami ova 2",
-        "ノラガミ ARAGOTO OAD",
+        "Noragami OAD",
         "ノラガミ OAD",
-        "ノラガミ アラゴト OAD",
-        "野良神 ARAGOTO OAD"
+        "ノラガミ OVA",
+        "野良神 OAD"
       ]
     },
     {
@@ -270425,12 +270874,6 @@
           "broadcast": "R/2019-06-24T04:00:00.000Z/P7D"
         },
         {
-          "site": "abema",
-          "id": "115-7yjdnebupe-",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "unext",
           "id": "SID0002865",
           "begin": "2017-09-01T03:00:00.000Z",
@@ -270501,7 +270944,7 @@
         "horei3",
         "鬼灯の冷徹",
         "鬼灯の冷徹 (2018)",
-        "鬼灯の冷��� 2",
+        "鬼灯の冷徹 2",
         "鬼灯の冷徹 第弐期 その弐",
         "鬼灯の冷徹 第弐期その弐",
         "鬼灯の冷徹 （2018）",
@@ -272812,6 +273255,12 @@
           "begin": "2021-11-29T05:00:08.000Z",
           "broadcast": "R/2021-11-29T05:00:08.000Z/P7D",
           "comment": "國語: PL12UaAf_xzfqPNx7M21380CnVsYqEyRcO"
+        },
+        {
+          "site": "prime",
+          "id": "B09MMPYL6D",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -276484,6 +276933,12 @@
           "id": "SID0163000",
           "begin": "2024-12-19T15:00:00.000Z",
           "broadcast": "R/2024-12-19T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "2-26",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -276999,6 +277454,12 @@
         {
           "site": "bangumi",
           "id": "75521"
+        },
+        {
+          "site": "unext",
+          "id": "SID0002698",
+          "begin": "2025-08-11T03:00:00.000Z",
+          "broadcast": "R/2025-08-11T03:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -279065,7 +279526,7 @@
         "かみさまのいないにちようび",
         "神さまのいない日曜日",
         "神不在的星期天",
-        "神様のいない日曜日"
+        "神様のいない日曜��"
       ]
     },
     {
@@ -279361,12 +279822,6 @@
         {
           "site": "dmhy",
           "id": "辯駁|論破"
-        },
-        {
-          "site": "gamer_hk",
-          "id": "59228",
-          "begin": "2021-06-01T03:00:00.000Z",
-          "broadcast": "R/2021-06-01T03:00:00.000Z/P7D"
         },
         {
           "site": "danime",
@@ -280340,12 +280795,6 @@
           "broadcast": "R/2024-03-15T04:00:00.000Z/P7D"
         },
         {
-          "site": "gamer_hk",
-          "id": "57470",
-          "begin": "2024-03-15T04:00:00.000Z",
-          "broadcast": "R/2024-03-15T04:00:00.000Z/P7D"
-        },
-        {
           "site": "nicovideo",
           "id": "gintama-kanketsuhen",
           "begin": "",
@@ -280968,7 +281417,7 @@
         "PapaKiki! OAD",
         "Papakiki OVA",
         "papakiki ova",
-        "パパ��いうことを聞きなさい!",
+        "パパのいうことを聞きなさい!",
         "パパのいうことを聞きなさい! (2013)",
         "パパのいうことを聞きなさい! OAD",
         "パパのいうことを聞きなさい! OVA",
@@ -281823,12 +282272,6 @@
         {
           "site": "dmhy",
           "id": "我的青"
-        },
-        {
-          "site": "abema",
-          "id": "19-77",
-          "begin": "",
-          "broadcast": ""
         },
         {
           "site": "danime",
@@ -282739,7 +283182,7 @@
         "SnK 3 (2019)",
         "SnK3.5",
         "Атака титанов 3 сезон (2019)",
-        "Атака титанов: 3 сезон 2 часть",
+        "Атака титан��в: 3 сезон 2 часть",
         "מתקפת הטיטאנים עונה 3 (2019)",
         "מתקפת הטיטאנים עונה 3 חלק 2",
         "الهجوم على العمالقة: الموسم الثالث 2019",
@@ -284481,12 +284924,6 @@
         {
           "site": "prime",
           "id": "B0D3Y9W4Z2",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "abema",
-          "id": "13-97",
           "begin": "",
           "broadcast": ""
         }
@@ -288747,12 +289184,6 @@
           "id": "23090",
           "begin": "2019-12-01T01:00:00.000Z",
           "broadcast": "R/2019-12-01T01:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "172-43",
-          "begin": "",
-          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -288860,12 +289291,6 @@
           "site": "bilibili",
           "id": "211",
           "begin": "2012-11-08T16:00:00.000Z"
-        },
-        {
-          "site": "abema",
-          "id": "168-49",
-          "begin": "",
-          "broadcast": ""
         },
         {
           "site": "unext",
@@ -293301,6 +293726,12 @@
           "id": "10513",
           "begin": "2012-07-04T03:00:00.000Z",
           "broadcast": "R/2012-07-04T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "149-28i9ircg5g9",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -293527,6 +293958,12 @@
           "id": "10685",
           "begin": "2012-12-07T01:00:00.000Z",
           "broadcast": "R/2012-12-07T01:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B073WLSNWD",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -294321,6 +294758,12 @@
         {
           "site": "prime",
           "id": "B074GMB988",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "abema",
+          "id": "149-17h9c6mfw48",
           "begin": "",
           "broadcast": ""
         }
@@ -295303,6 +295746,12 @@
           "id": "2923",
           "begin": "2012-07-20T16:00:00.000Z",
           "broadcast": "R/2018-05-12T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0034158",
+          "begin": "2025-08-09T15:00:00.000Z",
+          "broadcast": "R/2025-08-09T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -295569,7 +296018,7 @@
         "Sore Ike! Anpanman: Rhythm de Teasobi: Anpanman to Fushigi na Parasol",
         "Soreike! Anpanman: Rhythm de Teasobi Anpanman to Fushigi na Parasol",
         "それいけ!アンパンマン リズムでてあそび アンパンマンとふしぎなパラソル",
-        "リズムでてあそび アンパン��ンとふしぎなパラソル",
+        "リズムでてあそび アンパンマンとふしぎなパラソル",
         "映画 それいけ!アンパンマン リズムでてあそび アンパンマンとふしぎなパラソル"
       ]
     },
@@ -298328,28 +298777,17 @@
         }
       ],
       "animeSeason": {
-        "season": "SPRING",
-        "year": 2012,
+        "season": "FALL",
+        "year": 2022,
         "month": "04"
       },
       "status": "FINISHED",
-      "episodes": 50,
-      "picture": "https://cdn.myanimelist.net/images/anime/6/75649.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/6/75649t.jpg",
+      "episodes": 0,
+      "picture": "https://raw.githubusercontent.com/manami-project/anime-offline-database/master/pics/no_pic.png",
+      "thumbnail": "https://raw.githubusercontent.com/manami-project/anime-offline-database/master/pics/no_pic_thumbnail.png",
       "synonyms": [
-        "Polar Bear Cafe",
-        "Polar Bear Café",
-        "Polar Bear's Café",
-        "Polar Bear’s Cafe",
-        "Poler Bear's Cafe",
-        "Shirokuma Cafe: Polar Bear´s Cafe",
         "Shirokuma Café",
-        "مقهى الدب القطبي",
-        "しろくまかふぇ",
-        "しろくまカフェ",
-        "白熊咖啡廳",
-        "白熊咖啡馆",
-        "백곰 카페"
+        "しろくまカフェ"
       ]
     },
     {
@@ -302200,13 +302638,7 @@
         },
         {
           "site": "prime",
-          "id": "B0B8N552CC",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "abema",
-          "id": "13-96",
+          "id": "B0F2TW64F6",
           "begin": "",
           "broadcast": ""
         }
@@ -302445,6 +302877,12 @@
           "id": "40552",
           "begin": "2022-03-04T09:00:00.000Z",
           "broadcast": "R/2022-03-04T09:00:00.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0011112",
+          "begin": "2025-08-11T03:00:00.000Z",
+          "broadcast": "R/2025-08-11T03:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -302907,6 +303345,12 @@
           "id": "SID0019745",
           "begin": "2024-10-31T15:00:00.000Z",
           "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "23837",
+          "begin": "2025-08-05T15:00:00.000Z",
+          "broadcast": "R/2025-08-05T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -304015,6 +304459,12 @@
           "id": "PL12UaAf_xzfpuPofM8mNXUkD6qUlHPeB6",
           "begin": "2024-05-21T14:00:06.000Z",
           "broadcast": "R/2024-05-21T14:00:06.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0CHHKKXLC",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -304910,7 +305360,7 @@
         "Chibi Devi!",
         "Chibi Devil",
         "Chibi Devil!",
-        "Chibi��Devil!",
+        "Chibi☆Devil!",
         "Chibi☆Devil! Chibi Devi!",
         "Крошка-дьяволёнок!",
         "ちび☆デビ!",
@@ -306134,6 +306584,12 @@
           "id": "10406",
           "begin": "2012-06-26T15:00:00.000Z",
           "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "149-28i9ircg5g9",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -310309,7 +310765,7 @@
         "俺つば",
         "我们没有翅膀",
         "我們沒有羽翼",
-        "我們沒有翅��"
+        "我們沒有翅膀"
       ]
     },
     {
@@ -312311,6 +312767,12 @@
           "id": "38398",
           "begin": "2023-03-16T02:00:00.000Z",
           "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0FLBWNNDP",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -313348,6 +313810,12 @@
           "begin": "2022-08-07T14:00:09.000Z",
           "broadcast": "R/2022-08-07T14:00:09.000Z/P7D",
           "comment": "國語: PL12UaAf_xzfrqk6qVgrT26NXav-bmN5Tk"
+        },
+        {
+          "site": "abema",
+          "id": "415-23",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -313927,6 +314395,12 @@
           "id": "GRZXZ9EGY",
           "begin": "2017-07-26T18:00:00.000Z",
           "broadcast": "R/2017-07-26T18:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "11200",
+          "begin": "2025-08-14T15:00:00.000Z",
+          "broadcast": "R/2025-08-14T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -314187,6 +314661,18 @@
           "id": "4542",
           "begin": "2011-01-27T16:00:00.000Z",
           "broadcast": "R/2016-06-07T03:06:18.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0016960",
+          "begin": "2025-07-31T15:00:00.000Z",
+          "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "25068",
+          "begin": "2025-07-31T15:00:00.000Z",
+          "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -317513,7 +317999,7 @@
       "thumbnail": "https://cdn.myanimelist.net/images/anime/3/30155t.jpg",
       "synonyms": [
         "Gekijouban Kowarekake no Orgel",
-        "Gekij��ban Kowarekake no Orgel",
+        "Gekijōban Kowarekake no Orgel",
         "Half-Broken Music Box",
         "Half-Broken Music Box (Movie)",
         "Kowarekake no Orgel (2010)",
@@ -318951,6 +319437,18 @@
         {
           "site": "dmhy",
           "id": "屍鬼"
+        },
+        {
+          "site": "danime",
+          "id": "20043",
+          "begin": "2025-08-18T15:00:00.000Z",
+          "broadcast": "R/2025-08-18T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "19-126",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -319248,7 +319746,7 @@
         "Zoroark: Meester der Illusie",
         "pm movie 13",
         "Покемон - Зороарк: повелитель иллюзий",
-        "ポケットモンスター ダイヤモンド&パール 幻影の覇者 ゾロアーク",
+        "ポケットモンスター ダイヤモ��ド&パール 幻影の覇者 ゾロアーク",
         "ポケットモンスター ダイヤモンド＆パール 幻影の覇者Z",
         "剧场版 精灵宝可梦DP：幻影的霸者 索罗亚克",
         "劇場版ポケットモンスター ダイヤモンド&パール 幻影の覇者 ゾロアーク",
@@ -319974,7 +320472,7 @@
         "Os Guerreiros Bakugan:Invasores Gandelianos",
         "Бакуган: Нашествието на Гънделия",
         "爆丸 バトルブローラーズ ガンダリアンインベーダーズ",
-        "爆丸 第2季",
+        "爆�� 第2季",
         "爆丸バトルブローラーズ Gundalian Invaders",
         "爆丸バトルブローラーズ ガンダリアンインベーダーズ"
       ]
@@ -321757,7 +322255,8 @@
       "title": "クレヨンしんちゃん 超時空！嵐を呼ぶオラの花嫁",
       "titleTranslate": {
         "zh-Hans": [
-          "蜡笔小新 超时空！呼风唤雨的我的新娘"
+          "蜡笔小新 超时空！呼风唤雨的我的新娘",
+          "蜡笔小新：我的超时空新娘"
         ],
         "zh-Hant": [
           "蠟筆小新：我的超時空新娘"
@@ -321811,6 +322310,12 @@
           "id": "33428",
           "begin": "2024-02-01T04:00:00.000Z",
           "broadcast": "R/2024-02-01T04:00:00.000Z/P7D"
+        },
+        {
+          "site": "netflix",
+          "id": "80242793",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -322127,12 +322632,6 @@
           "id": "3005",
           "begin": "2015-11-14T12:12:00.000Z",
           "broadcast": "R/2015-11-14T12:12:00.000Z/P7D"
-        },
-        {
-          "site": "unext",
-          "id": "SID0104928",
-          "begin": "2024-07-08T03:00:00.000Z",
-          "broadcast": "R/2024-07-08T03:00:00.000Z/P7D"
         },
         {
           "site": "danime",
@@ -322532,6 +323031,12 @@
           "id": "29590",
           "begin": "2023-03-16T02:00:00.000Z",
           "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0FMG1BH6Y",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -322913,6 +323418,12 @@
         {
           "site": "dmhy",
           "id": "和殿下一起"
+        },
+        {
+          "site": "danime",
+          "id": "28141",
+          "begin": "2025-07-31T15:00:00.000Z",
+          "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -323257,12 +323768,6 @@
           "id": "21767",
           "begin": "2017-09-08T01:00:00.000Z",
           "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "172-41",
-          "begin": "",
-          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -326661,12 +327166,6 @@
           "broadcast": "R/2023-12-23T03:00:00.000Z/P7D"
         },
         {
-          "site": "abema",
-          "id": "415-9",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "gamer",
           "id": "29732",
           "begin": "2025-01-03T04:00:00.000Z",
@@ -327293,6 +327792,12 @@
           "begin": "2019-08-22T23:00:07.000Z",
           "broadcast": "R/2019-08-22T23:00:07.000Z/P7D",
           "comment": "國語: PL12UaAf_xzfrTmLGtFt3KsF8EjxXR8P-T"
+        },
+        {
+          "site": "crunchyroll",
+          "id": "G6DQDD3WR",
+          "begin": "2009-10-12T10:30:00.000Z",
+          "broadcast": "R/2009-10-12T10:30:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -327452,6 +327957,12 @@
           "id": "20292",
           "begin": "2015-08-28T01:00:00.000Z",
           "broadcast": "R/2015-08-28T01:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "35-8itsckukpnj",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -328885,12 +329396,6 @@
           "broadcast": "R/2019-05-12T03:00:00.000Z/P7D"
         },
         {
-          "site": "abema",
-          "id": "171-19",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "danime",
           "id": "10520",
           "begin": "2012-06-28T15:00:00.000Z",
@@ -329733,6 +330238,12 @@
           "id": "119152",
           "begin": "2018-07-26T16:00:00.000Z",
           "broadcast": "R/2018-07-26T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0014990",
+          "begin": "2025-08-09T15:00:00.000Z",
+          "broadcast": "R/2025-08-09T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -331384,6 +331895,9 @@
         "zh-Hans": [
           "旋风管家 第二季",
           "旋风管家 第2季"
+        ],
+        "zh-Hant": [
+          "旋風管家！ 第二季"
         ]
       },
       "type": "tv",
@@ -331417,6 +331931,12 @@
           "id": "21978",
           "begin": "2024-08-24T15:00:00.000Z",
           "broadcast": "R/2024-08-24T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "25807",
+          "begin": "2025-08-20T04:00:00.000Z",
+          "broadcast": "R/2025-08-20T04:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -332353,6 +332873,18 @@
           "site": "qq",
           "id": "e/eqb7m0emrqrf7l0",
           "begin": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0015258",
+          "begin": "2025-07-31T15:00:00.000Z",
+          "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "25069",
+          "begin": "2025-07-31T15:00:00.000Z",
+          "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -332634,7 +333166,8 @@
       "title": "クレヨンしんちゃん オタケベ！カスカベ野生王国",
       "titleTranslate": {
         "zh-Hans": [
-          "蜡笔小新 春日部野生王国"
+          "蜡笔小新 春日部野生王国",
+          "蜡笔小新：呐喊！春日部野生王国"
         ],
         "zh-Hant": [
           "蠟筆小新：春日部野生王國"
@@ -332688,6 +333221,12 @@
           "id": "22299",
           "begin": "2025-07-23T04:00:00.000Z",
           "broadcast": "R/2025-07-23T04:00:00.000Z/P7D"
+        },
+        {
+          "site": "netflix",
+          "id": "80243207",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -333794,6 +334333,12 @@
           "id": "22460",
           "begin": "2023-03-16T02:00:00.000Z",
           "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0FJXZ3SD3",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -333897,6 +334442,9 @@
       "titleTranslate": {
         "zh-Hans": [
           "旋风管家 泳装篇"
+        ],
+        "zh-Hant": [
+          "旋風管家！ OVA"
         ]
       },
       "type": "ova",
@@ -333920,6 +334468,12 @@
           "id": "21979",
           "begin": "2024-08-24T15:00:00.000Z",
           "broadcast": "R/2024-08-24T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "57871",
+          "begin": "2025-08-20T04:00:00.000Z",
+          "broadcast": "R/2025-08-20T04:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -334346,7 +334900,7 @@
         "В час",
         "Когда плачут цикады 3",
         "коли плачуть цикади ІІІ",
-        "ひぐらしのなくころにれい",
+        "ひぐらしのなくころ��れい",
         "ひぐらしのなく頃に礼",
         "寒蝉鸣泣之时 礼",
         "暮蟬悲鳴時 禮",
@@ -338354,6 +338908,12 @@
           "begin": "2012-06-26T15:00:00.000Z",
           "broadcast": "R/2012-06-26T15:00:00.000Z/P7D",
           "comment": "脅威の侵略者編 #27-67: 11286, 世界への挑戦編 #68-127: 11287"
+        },
+        {
+          "site": "abema",
+          "id": "19-273",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -338567,6 +339127,12 @@
         {
           "site": "disneyplus",
           "id": "4H8CW3h37mrz",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "abema",
+          "id": "182-1467",
           "begin": "",
           "broadcast": ""
         }
@@ -339648,6 +340214,12 @@
           "id": "GYDQ42286",
           "begin": "2009-08-01T07:00:00.000Z",
           "broadcast": "R/2009-08-01T07:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "28215",
+          "begin": "2025-08-28T15:00:00.000Z",
+          "broadcast": "R/2025-08-28T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -340596,12 +341168,6 @@
           "id": "21766",
           "begin": "2017-09-08T01:00:00.000Z",
           "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "172-23",
-          "begin": "",
-          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -341948,9 +342514,9 @@
         },
         {
           "site": "nicovideo",
-          "id": "to-love-ru",
-          "begin": "2012-10-17T06:00:00.000Z",
-          "broadcast": "R/2012-10-17T06:00:00.000Z/P7D"
+          "id": "to-love-ru-anime",
+          "begin": "",
+          "broadcast": ""
         },
         {
           "site": "unext",
@@ -343811,7 +344377,7 @@
         "こねこのチー　ポンポンらー大冒険",
         "チーズスイートホーム",
         "甜甜私房猫 吃饱啦大冒险",
-        "아기고양이 치: 딩구르대모험"
+        "아기고양이 치: ��구르대모험"
       ]
     },
     {
@@ -343944,6 +344510,12 @@
           "id": "10477",
           "begin": "2012-06-26T15:00:00.000Z",
           "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "709-4",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -344245,7 +344817,7 @@
         "古代王者 恐竜キング Dキッズ・アドベンチャー 翼竜伝説",
         "古代王者 恐竜キング Ｄキッズ・アドベンチャー 翼竜伝説",
         "古代王者 恐龙王 翼龙传说",
-        "古代王者恐竜キング Dキッズ・アドベンチャー翼��伝説",
+        "古代王者恐竜キング Dキッズ・アドベンチャー翼竜伝説",
         "古代王者恐竜キング Dキッズ・アドベンチャー翼龍伝説"
       ]
     },
@@ -345670,6 +346242,65 @@
       ]
     },
     {
+      "title": "東京マーブルチョコレート",
+      "titleTranslate": {
+        "zh-Hans": [
+          "东京糖衣巧克力"
+        ]
+      },
+      "type": "ova",
+      "lang": "ja",
+      "officialSite": "http://www.tokyomarble.com/",
+      "begin": "2007-12-19T16:00:00.000Z",
+      "end": "2007-12-19T16:00:00.000Z",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "528"
+        },
+        {
+          "site": "bilibili",
+          "id": "3254",
+          "begin": "2007-12-18T16:00:01.000Z",
+          "broadcast": "R/2016-01-01T08:33:50.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0002738",
+          "begin": "2019-11-30T03:00:00.000Z",
+          "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "10353",
+          "begin": "2017-11-10T01:00:00.000Z",
+          "broadcast": "R/2017-11-10T01:00:00.000Z/P7D",
+          "comment": "全力少年, マタアイマショウ: 10453, シネマヴァージョン: 10494"
+        }
+      ],
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2007,
+        "month": "12"
+      },
+      "status": "FINISHED",
+      "episodes": 2,
+      "picture": "https://cdn.myanimelist.net/images/anime/8/50455.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/8/50455t.jpg",
+      "synonyms": [
+        "Matta Aimashou",
+        "TMC",
+        "Zenryoku Shounen",
+        "Токийский мраморный шоколад",
+        "Токійський мармуровий шоколад",
+        "טוקיו שוקולד",
+        "とうきょうまーぶるちょこれーと",
+        "东京糖衣巧克力",
+        "東京マーブルチョコレート",
+        "도쿄 마블 초컬릿"
+      ]
+    },
+    {
       "title": ".hack//G.U. TRILOGY",
       "titleTranslate": {
         "zh-Hans": [
@@ -346907,7 +347538,7 @@
         "Sketchbook: Full Colour’s",
         "Sketchbook: full color's",
         "sketchbook",
-        "すけっちぶっくふるからーず",
+        "すけっちぶっくふる���らーず",
         "スケッチブック ~full color's~",
         "スケッチブック ~full color’s~",
         "スケッチブック 〜full color's〜",
@@ -347724,6 +348355,12 @@
           "id": "10802",
           "begin": "2013-04-26T01:00:00.000Z",
           "broadcast": "R/2013-04-26T01:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B00UW56E2G",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -348918,6 +349555,12 @@
           "id": "10222",
           "begin": "2012-06-26T15:00:00.000Z",
           "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "nicovideo",
+          "id": "bokusatsutenshi2",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -349429,6 +350072,12 @@
           "id": "11170",
           "begin": "2014-03-21T10:00:00.000Z",
           "broadcast": "R/2014-03-21T10:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "19-128",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -349931,12 +350580,6 @@
           "id": "21765",
           "begin": "2017-09-08T01:00:00.000Z",
           "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "172-40",
-          "begin": "",
-          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -350238,6 +350881,12 @@
           "id": "B074GRRQM2",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "abema",
+          "id": "149-32",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -350494,7 +351143,7 @@
         "テイルズ オブ シンフォニア THE ANIMATION",
         "テイルズ オブ シンフォニア THE ANIMATION シルヴァラント編",
         "テイルズ オブ シンフォニア THE ANIMATION　シルヴァラント編",
-        "テイルズオブシンフォニア THE ANIMATION シルヴァラント編",
+        "テイ���ズオブシンフォニア THE ANIMATION シルヴァラント編",
         "テイルズ・オブ・シンフォニア THE ANIMATION シルヴァラント編",
         "仙乐传说",
         "테일즈 오브 심포니아",
@@ -350910,7 +351559,7 @@
         "魔法少女リリカルなのはStrikerS",
         "魔法少女リリカルなのはStrikerS（ストライカーズ）",
         "魔法少女奈叶SS",
-        "魔法少女奈��StrikerS",
+        "魔法少女奈叶StrikerS",
         "魔法少女奈葉StrikerS",
         "마법소녀 리리컬 나노하 StrikerS"
       ]
@@ -351544,6 +352193,12 @@
           "id": "22802",
           "begin": "2019-06-14T01:00:00.000Z",
           "broadcast": "R/2019-06-14T01:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0FL3PN8R9",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -352287,6 +352942,9 @@
         "zh-Hans": [
           "旋风管家",
           "旋风管家 第1季"
+        ],
+        "zh-Hant": [
+          "旋風管家！"
         ]
       },
       "type": "tv",
@@ -352320,6 +352978,12 @@
           "id": "21977",
           "begin": "2024-08-24T15:00:00.000Z",
           "broadcast": "R/2024-08-24T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "17589",
+          "begin": "2025-08-20T04:00:00.000Z",
+          "broadcast": "R/2025-08-20T04:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -352601,7 +353265,7 @@
         "The Witch-Hunter",
         "Łowca czarownicy",
         "Эль Касадор",
-        "える���ざど",
+        "えるかざど",
         "エル・カザド",
         "エル・カザド EL CAZADOR DE LA BRUJA",
         "魔女猎人",
@@ -354823,6 +355487,12 @@
           "id": "10475",
           "begin": "2012-06-26T15:00:00.000Z",
           "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "709-3",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -356434,6 +357104,12 @@
           "id": "25368",
           "begin": "2024-03-30T15:00:00.000Z",
           "broadcast": "R/2024-03-30T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "241-214",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -358742,7 +359418,8 @@
           "家庭教师"
         ],
         "zh-Hant": [
-          "家庭教師 HITMAN REBORN！"
+          "家庭教師 HITMAN REBORN！",
+          "家庭教師HITMAN REBORN!"
         ]
       },
       "type": "tv",
@@ -358799,6 +359476,12 @@
           "id": "16040",
           "begin": "2020-08-28T08:00:00.000Z",
           "broadcast": "R/2020-08-28T08:00:00.000Z/P7D"
+        },
+        {
+          "site": "muse_hk",
+          "id": "PLuxqoToY7Ucg4lVhRbXWC7gUlloQr-k03",
+          "begin": "2025-09-01T12:30:06.000Z",
+          "broadcast": "R/2025-09-01T12:30:06.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -358881,6 +359564,12 @@
           "id": "GZJH3D0J2",
           "begin": "2023-02-02T15:00:00.000Z",
           "broadcast": "R/2023-02-02T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "28200",
+          "begin": "2025-08-13T15:00:00.000Z",
+          "broadcast": "R/2025-08-13T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -359201,6 +359890,18 @@
           "id": "1001",
           "begin": "2010-10-04T16:00:00.000Z",
           "broadcast": "R/2019-03-27T09:06:00.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0015279",
+          "begin": "2025-07-31T15:00:00.000Z",
+          "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "25071",
+          "begin": "2025-07-31T15:00:00.000Z",
+          "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -359783,16 +360484,16 @@
           "broadcast": "R/2024-11-21T15:00:00.000Z/P7D"
         },
         {
-          "site": "abema",
-          "id": "2-27",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "gamer",
           "id": "17873",
           "begin": "2023-07-21T02:00:00.000Z",
           "broadcast": "R/2023-07-21T02:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "2-27",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -360528,7 +361229,7 @@
       "synonyms": [
         "Going Wild",
         "Going Wild, Going Green",
-        "ぱ���たぽったもんた",
+        "ぱったぽったもんた",
         "パッタ ポッタ モン太"
       ]
     },
@@ -361490,6 +362191,12 @@
           "id": "24078736",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0034159",
+          "begin": "2025-08-09T15:00:00.000Z",
+          "broadcast": "R/2025-08-09T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -362738,12 +363445,6 @@
           "id": "1445",
           "begin": "2006-04-05T16:00:00.000Z",
           "broadcast": "R/2010-11-04T15:58:00.000Z/P7D"
-        },
-        {
-          "site": "unext",
-          "id": "SID0015411",
-          "begin": "2024-08-03T03:00:00.000Z",
-          "broadcast": "R/2024-08-03T03:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -363209,7 +363910,7 @@
         "The Good Witch of the West: Astraea Testament",
         "nnym",
         "سآحرة الغرب الطيبة",
-        "にしのよきまじょあすとらいあてすためん���",
+        "にしのよきまじょあすとらいあてすためんと",
         "西の善き魔女",
         "西の善き魔女 Astraea Testament",
         "西の善き魔女 Astrea Testament",
@@ -364436,7 +365137,7 @@
         "学园天堂",
         "学園ヘヴン",
         "学園ヘヴン BOY`S LOVE SCRAMBLE!",
-        "��園天堂",
+        "學園天堂",
         "학원헤븐 BOY`S LOVE SCRAMBLE!"
       ]
     },
@@ -365164,6 +365865,12 @@
           "id": "B074T3C1Z6",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "nicovideo",
+          "id": "daimahoutouge",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -365542,6 +366249,12 @@
           "id": "26582",
           "begin": "2023-03-16T02:00:00.000Z",
           "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0F8YKT2HB",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -367036,6 +367749,12 @@
           "id": "4970",
           "begin": "2005-12-31T16:00:01.000Z",
           "broadcast": "R/2016-06-20T03:30:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "28216",
+          "begin": "2025-08-28T15:00:00.000Z",
+          "broadcast": "R/2025-08-28T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -369507,7 +370226,7 @@
         "機動戦士Zガンダム A New Translation 恋人たち",
         "機動戦士ZガンダムII -恋人たち-",
         "機動戦士ZガンダムII 恋人たち",
-        "機動戦士ΖガンダムII A New Translation -恋人たち-",
+        "機動戦士ΖガンダムII A New Translation -恋人た��-",
         "機動戦士ＺガンダムⅡ‐恋人たち‐"
       ]
     },
@@ -371828,7 +372547,7 @@
         "UFO Ultramaiden Valkyrie 3: Bride of Celestial Souls’ Day",
         "UFO Ultramaiden Valkyrie: Season 3",
         "UFO3",
-        "ゆーふぉーぷりんせすわるきゅーれ　せいれいせつのはなよめ",
+        "ゆーふぉー��りんせすわるきゅーれ　せいれいせつのはなよめ",
         "円盤皇女ワるきゅーレ 星霊節の花嫁",
         "圆盘皇女 星灵节的新娘",
         "圓盤皇女-星靈節的新娘"
@@ -373703,6 +374422,12 @@
           "id": "10221",
           "begin": "2012-06-26T15:00:00.000Z",
           "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "nicovideo",
+          "id": "bokusatsutenshi",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -377033,6 +377758,12 @@
           "begin": "2018-04-27T01:00:00.000Z",
           "broadcast": "R/2018-04-27T01:00:00.000Z/P7D",
           "comment": "護廷十三隊侵軍篇 #317-342: 25670, 死神代行消失篇 #343-366: 25671"
+        },
+        {
+          "site": "prime",
+          "id": "B07S46ZBFQ",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -379212,6 +379943,66 @@
       ]
     },
     {
+      "title": "GIRLSブラボー first season",
+      "titleTranslate": {
+        "zh-Hans": [
+          "女生万岁 first season",
+          "女孩万岁 first season"
+        ]
+      },
+      "type": "tv",
+      "lang": "ja",
+      "officialSite": "http://web.archive.org/web/*/http://www.girls-bravo.tv/",
+      "begin": "2004-07-05T17:53:00.000Z",
+      "end": "2004-09-27T18:10:00.000Z",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "3619"
+        },
+        {
+          "site": "unext",
+          "id": "SID0056595",
+          "begin": "2021-03-25T03:00:00.000Z",
+          "broadcast": "R/2021-03-25T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "10333",
+          "begin": "2012-06-26T15:00:00.000Z",
+          "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+        }
+      ],
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2004,
+        "month": "07"
+      },
+      "status": "FINISHED",
+      "episodes": 11,
+      "picture": "https://cdn.myanimelist.net/images/anime/12/48027.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/12/48027t.jpg",
+      "synonyms": [
+        "GB S1",
+        "GBS1",
+        "GIRLS Bravo: first season",
+        "GIRLSブラボー",
+        "GIRLSブラボー First Season",
+        "GIRLSブラボー first season",
+        "Girls Bravo",
+        "Girls Bravo 1",
+        "Girls Bravo: 1ª Temporada",
+        "bravo1",
+        "Браво",
+        "Браво, девушки!",
+        "девушки! (первый сезон)",
+        "がーるずぶらぼーふぁーすとしーずん",
+        "ガールズブラボー",
+        "女生万岁 first season",
+        "걸즈 브라보"
+      ]
+    },
+    {
       "title": "モンキー・パンチ 漫画活動大写真",
       "titleTranslate": {},
       "type": "tv",
@@ -380697,6 +381488,12 @@
           "id": "1907",
           "begin": "2004-04-03T16:00:00.000Z",
           "broadcast": "R/2013-01-27T22:41:40.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "28190",
+          "begin": "2025-08-31T15:00:00.000Z",
+          "broadcast": "R/2025-08-31T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -381627,12 +382424,6 @@
           "broadcast": "R/2021-05-16T10:00:00.000Z/P7D"
         },
         {
-          "site": "abema",
-          "id": "168-49",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "unext",
           "id": "SID0002969",
           "begin": "2023-04-01T03:00:00.000Z",
@@ -381826,6 +382617,18 @@
           "id": "getterrobot3",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0015233",
+          "begin": "2025-07-31T15:00:00.000Z",
+          "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "24845",
+          "begin": "2025-07-31T15:00:00.000Z",
+          "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -382179,6 +382982,12 @@
           "id": "26577",
           "begin": "2023-03-16T02:00:00.000Z",
           "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0FK8NHPXZ",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -384132,6 +384941,12 @@
           "id": "25367",
           "begin": "2024-03-30T15:00:00.000Z",
           "broadcast": "R/2024-03-30T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "241-243",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -386154,12 +386969,6 @@
           "id": "21762",
           "begin": "2017-09-08T01:00:00.000Z",
           "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "172-37",
-          "begin": "",
-          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -387298,7 +388107,7 @@
         "Eiken: With Love from the Eiken Club",
         "Клуб Эйкен",
         "えいけんえいけんぶよりあいをこめて",
-        "エイケ��",
+        "エイケン",
         "エイケン エイケンヴより愛をこめて",
         "乳旋风"
       ]
@@ -388855,8 +389664,8 @@
         {
           "site": "danime",
           "id": "22894",
-          "begin": "2019-08-01T01:00:00.000Z",
-          "broadcast": "R/2019-08-01T01:00:00.000Z/P7D"
+          "begin": "2025-08-22T15:00:00.000Z",
+          "broadcast": "R/2025-08-22T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -390548,6 +391357,12 @@
           "id": "B09S38GFGF",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "abema",
+          "id": "2-25",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -391132,7 +391947,7 @@
         "Super Gravity God Gravion",
         "Super Heavy God Gravion",
         "Super Heavyweight God Gravion",
-        "ちょうじゅうしん���らびおん",
+        "ちょうじゅうしんぐらびおん",
         "超重神GRAVION",
         "超重神グラヴィオン"
       ]
@@ -392435,12 +393250,6 @@
           "id": "21761",
           "begin": "2017-09-08T01:00:00.000Z",
           "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "172-21",
-          "begin": "",
-          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -393319,12 +394128,6 @@
         {
           "site": "bangumi",
           "id": "139655"
-        },
-        {
-          "site": "abema",
-          "id": "168-50",
-          "begin": "",
-          "broadcast": ""
         },
         {
           "site": "unext",
@@ -395461,7 +396264,7 @@
         "digitame movie 2",
         "デジモンテイマーズ 暴走デジモン特急",
         "数码宝贝驯兽师之王 暴走的数码列车",
-        "디지몬 테이머즈: 폭주 디지�� 특급"
+        "디지몬 테이머즈: 폭주 디지몬 특급"
       ]
     },
     {
@@ -398556,6 +399359,18 @@
         {
           "site": "bangumi",
           "id": "14231"
+        },
+        {
+          "site": "unext",
+          "id": "SID0016958",
+          "begin": "2025-07-31T15:00:00.000Z",
+          "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "25066",
+          "begin": "2025-07-31T15:00:00.000Z",
+          "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -398807,12 +399622,6 @@
           "id": "21772",
           "begin": "2017-09-08T01:00:00.000Z",
           "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "172-20",
-          "begin": "",
-          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -398958,6 +399767,12 @@
           "id": "11552",
           "begin": "2014-12-05T01:00:00.000Z",
           "broadcast": "R/2014-12-05T01:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B074M2583Y",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -399307,12 +400122,6 @@
           "id": "5297",
           "begin": "2001-07-27T16:00:01.000Z",
           "broadcast": "R/2016-07-22T03:52:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "19-201",
-          "begin": "",
-          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -400229,6 +401038,12 @@
           "id": "10933",
           "begin": "2013-08-02T01:00:00.000Z",
           "broadcast": "R/2013-08-02T01:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B078GX5FTY",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -401992,12 +402807,6 @@
           "comment": "Extra Stage 2: 28234401"
         },
         {
-          "site": "abema",
-          "id": "168-50",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "unext",
           "id": "SID0033136",
           "begin": "2023-04-01T03:00:00.000Z",
@@ -402355,12 +403164,6 @@
           "broadcast": ""
         },
         {
-          "site": "abema",
-          "id": "168-49",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "unext",
           "id": "SID0002973",
           "begin": "2023-04-01T03:00:00.000Z",
@@ -402536,6 +403339,18 @@
           "id": "getterrobot2",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0014726",
+          "begin": "2025-07-31T15:00:00.000Z",
+          "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "24844",
+          "begin": "2025-07-31T15:00:00.000Z",
+          "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -403087,12 +403902,6 @@
           "begin": "2023-12-22T15:00:00.000Z",
           "broadcast": "R/2023-12-22T15:00:00.000Z/P7D",
           "comment": "第２期: SID0017810, 第３期: SID0017814, 第４期: SID0017815"
-        },
-        {
-          "site": "abema",
-          "id": "415-9",
-          "begin": "",
-          "broadcast": ""
         },
         {
           "site": "gamer",
@@ -405422,6 +406231,12 @@
           "id": "32234",
           "begin": "2023-03-16T02:00:00.000Z",
           "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DRP1J1NR",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -406503,7 +407318,7 @@
         },
         {
           "site": "viu",
-          "id": "446017",
+          "id": "449163",
           "begin": "2018-10-08T16:00:00.000Z",
           "broadcast": "R/2018-10-08T16:00:00.000Z/P7D"
         },
@@ -406736,6 +407551,9 @@
         ],
         "zh-Hans": [
           "头文字D Second Stage"
+        ],
+        "zh-Hant": [
+          "頭文字D Second Stage"
         ]
       },
       "type": "tv",
@@ -406755,12 +407573,6 @@
           "broadcast": "R/2021-05-16T10:00:00.000Z/P7D"
         },
         {
-          "site": "abema",
-          "id": "168-49",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "unext",
           "id": "SID0002958",
           "begin": "2023-04-01T03:00:00.000Z",
@@ -406771,6 +407583,12 @@
           "id": "24227",
           "begin": "2023-03-25T01:00:00.000Z",
           "broadcast": "R/2023-03-25T01:00:00.000Z/P7D"
+        },
+        {
+          "site": "ani_one_asia",
+          "id": "PLxSscENEp7Jg_IjS0KTi62YpVqxFFtl2t",
+          "begin": "2025-08-22T12:00:06.000Z",
+          "broadcast": "R/2025-08-22T12:00:06.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -409462,7 +410280,7 @@
         "Digimon: Digimon Adventure Re",
         "Приключения дигимонов:",
         "デジモンアドベンチャー",
-        "��ジモンアドベンチャー:",
+        "デジモンアドベンチャー:",
         "数码宝贝大冒险：",
         "數碼寶貝大冒險:"
       ]
@@ -411892,6 +412710,12 @@
           "id": "getterrobot1",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0015643",
+          "begin": "2025-07-31T15:00:00.000Z",
+          "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -412625,6 +413449,9 @@
         "zh-Hans": [
           "头文字D",
           "头文字D First Stage"
+        ],
+        "zh-Hant": [
+          "頭文字D"
         ]
       },
       "type": "tv",
@@ -412649,12 +413476,6 @@
           "broadcast": "R/2021-05-16T10:00:01.000Z/P7D"
         },
         {
-          "site": "abema",
-          "id": "168-49",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "unext",
           "id": "SID0002464",
           "begin": "2023-04-01T03:00:00.000Z",
@@ -412671,6 +413492,12 @@
           "id": "B09754QBRL",
           "begin": "",
           "broadcast": ""
+        },
+        {
+          "site": "ani_one_asia",
+          "id": "PLxSscENEp7JhMJ1XmulIYgeMJw1S3AYAa",
+          "begin": "2025-08-09T12:00:06.000Z",
+          "broadcast": "R/2025-08-09T12:00:06.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -415358,12 +416185,6 @@
           "id": "21771",
           "begin": "2017-09-08T01:00:00.000Z",
           "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "172-16",
-          "begin": "",
-          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -418036,12 +418857,6 @@
           "broadcast": "R/2008-10-30T06:00:00.000Z/P7D"
         },
         {
-          "site": "abema",
-          "id": "13-130",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "prime",
           "id": "B0DYNS24JT",
           "begin": "",
@@ -419159,12 +419974,6 @@
           "id": "21757",
           "begin": "2017-09-08T01:00:00.000Z",
           "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "172-36",
-          "begin": "",
-          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -420603,7 +421412,7 @@
         "Ojousama Sousamo",
         "Ojō-sama Sōsamō",
         "お嬢様捜査網",
-        "大小姐搜查网"
+        "��小姐搜查网"
       ]
     },
     {
@@ -421176,7 +421985,7 @@
           "id": "SID0003424",
           "begin": "2010-12-01T06:00:00.000Z",
           "broadcast": "R/2010-12-01T06:00:00.000Z/P7D",
-          "comment": "第2季: SID0003429, 第3季: SID0004290, 第4季: SID0010686, 第5季: SID0010721, 第6季: SID0010734, 第7季: SID0010746, 第8季: SID0010747, 第9季: SID0010748, 第10季: SID0010692, 第11季: SID0010749, 第12季: SID0010750, 第13季: SID0010740, 第14季: SID0010751, 第15季: SID0010752, 第16季: SID0010753, 第17季: SID0010754, 第18季: SID0010755, 第19季: SID0019081, 第20季: SID0030619, 第21季: SID0034716, 第22季: SID0039277, 第23季: SID0045944, 第24季: SID0056821, 第25季: SID0067489, 第26季: SID0080262, 第27季: SID0100047, 警察学校編　Wild Police Story: SID0100688, 第28季: SID0181002"
+          "comment": "第2季: SID0003429, 第3季: SID0004290, 第4季: SID0010686, 第5季: SID0010721, 第6季: SID0010734, 第7季: SID0010746, 第8季: SID0010747, 第9季: SID0010748, 第10季: SID0010692, 第11季: SID0010749, 第12季: SID0010750, 第13季: SID0010740, 第14季: SID0010751, 第15季: SID0010752, 第16季: SID0010753, 第17季: SID0010754, 第18季: SID0010755, 第19季: SID0019081, 第20季: SID0030619, 第21季: SID0034716, 第22季: SID0039277, 第23季: SID0045944, 第24季: SID0056821, 第25季: SID0067489, 第26季: SID0080262, 第27季: SID0100047, 警察学校編　Wild Police Story: SID0100688, 第28季: SID0181002, 第29季: SID0200133"
         },
         {
           "site": "abema",
@@ -421207,7 +422016,7 @@
         },
         {
           "site": "prime",
-          "id": "B0DPMMTQS3",
+          "id": "B0DX22FQLL",
           "begin": "",
           "broadcast": ""
         }
@@ -423696,7 +424505,12 @@
       "title": "ふしぎ遊戯",
       "titleTranslate": {
         "zh-Hans": [
-          "不可思议的游戏"
+          "不思议游戏",
+          "不可思议的游戏",
+          "魔幻游戏"
+        ],
+        "zh-Hant": [
+          "夢幻遊戲"
         ]
       },
       "type": "tv",
@@ -423713,6 +424527,18 @@
         {
           "site": "bangumi",
           "id": "4507"
+        },
+        {
+          "site": "gamer_hk",
+          "id": "15961",
+          "begin": "2025-08-07T16:00:00.000Z",
+          "broadcast": "R/2025-08-07T16:00:00.000Z/P7D"
+        },
+        {
+          "site": "tropics",
+          "id": "PLoGVqODys23CZVkx9OCarRtb6fVsG9xZV",
+          "begin": "2025-08-08T12:30:06.000Z",
+          "broadcast": "R/2025-08-08T12:30:06.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -423792,12 +424618,6 @@
           "id": "SID0013089",
           "begin": "2008-10-31T15:00:00.000Z",
           "broadcast": "R/2008-10-31T15:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "13-98",
-          "begin": "",
-          "broadcast": ""
         },
         {
           "site": "prime",
@@ -424858,6 +425678,18 @@
           "begin": "2025-05-08T03:00:00.000Z",
           "broadcast": "R/2025-05-08T03:00:00.000Z/P7D",
           "comment": "第四季 上（中配）: 26075004, 樱桃小丸子 第四季 下: 26075107, 第四季 下（中配）: 26075302, 第五季 上: 26075413, 第五季 上（中配）: 26075569, 第五季 下: 26075654, 第五季 下（中配）: 26075773"
+        },
+        {
+          "site": "abema",
+          "id": "482-109",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "unext",
+          "id": "SID0219874",
+          "begin": "2025-08-13T03:00:00.000Z",
+          "broadcast": "R/2025-08-13T03:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -426140,12 +426972,6 @@
           "id": "21755",
           "begin": "2017-09-08T01:00:00.000Z",
           "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "172-35",
-          "begin": "",
-          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -426281,6 +427107,12 @@
         {
           "site": "abema",
           "id": "184-167",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "prime",
+          "id": "B0DVS8LDSF",
           "begin": "",
           "broadcast": ""
         }
@@ -426872,12 +427704,6 @@
         {
           "site": "nicovideo",
           "id": "g-gundam",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
-          "site": "abema",
-          "id": "13-120",
           "begin": "",
           "broadcast": ""
         }
@@ -429027,8 +429853,8 @@
         {
           "site": "danime",
           "id": "20937",
-          "begin": "2016-05-27T01:00:00.000Z",
-          "broadcast": "R/2016-05-27T01:00:00.000Z/P7D"
+          "begin": "2025-08-22T15:00:00.000Z",
+          "broadcast": "R/2025-08-22T15:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -429470,12 +430296,6 @@
           "id": "21754",
           "begin": "2017-09-08T01:00:00.000Z",
           "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "172-14",
-          "begin": "",
-          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -429660,7 +430480,7 @@
         "Dragonball Z: Super-Saiyajin Son-Gohan",
         "Superheroe na galaxia",
         "ดราก้อนบอล Z เดอะมูฟวี่ 9 ฝ่าวิกฤติกาแล็คซี่",
-        "ドラゴンボールZ 銀河ギリギリ!! ぶ��ちぎりの凄い奴",
+        "ドラゴンボールZ 銀河ギリギリ!! ぶっちぎりの凄い奴",
         "ドラゴンボールZ 銀河ギリギリ!!ぶっちぎりの凄い奴",
         "ドラゴンボールZ 銀河ギリギリ！！ぶっちぎりの凄い奴",
         "ドラゴンボールＺ 燃え尽きろ!!熱戦・烈戦・超激戦",
@@ -430386,7 +431206,7 @@
         "Victory Gundam",
         "Vガン",
         "Vガンダム",
-        "きどうせんし���くとりーがんだむ",
+        "きどうせんしびくとりーがんだむ",
         "机动战士V高达",
         "機動戦士Vガンダム"
       ]
@@ -430961,6 +431781,12 @@
           "id": "32673",
           "begin": "2023-03-16T02:00:00.000Z",
           "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0FHB2MZBK",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -432605,12 +433431,6 @@
           "id": "21753",
           "begin": "2017-09-08T01:00:00.000Z",
           "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "172-34",
-          "begin": "",
-          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -432877,6 +433697,12 @@
           "id": "10059",
           "begin": "2012-06-26T15:00:00.000Z",
           "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0217695",
+          "begin": "2025-08-18T03:00:00.000Z",
+          "broadcast": "R/2025-08-18T03:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -433963,6 +434789,12 @@
           "id": "32674",
           "begin": "2023-03-16T02:00:00.000Z",
           "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0FM34PX6C",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -435263,12 +436095,6 @@
           "id": "21752",
           "begin": "2017-09-08T01:00:00.000Z",
           "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "172-33",
-          "begin": "",
-          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -435427,6 +436253,12 @@
           "id": "10058",
           "begin": "2012-06-26T15:00:00.000Z",
           "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0217694",
+          "begin": "2025-08-18T03:00:00.000Z",
+          "broadcast": "R/2025-08-18T03:00:00.000Z/P7D"
         }
       ],
       "animeSeason": {
@@ -436777,7 +437609,7 @@
         "Драконова топка Z 04: Суперсаянът Сон Гоку",
         "ดราก้อนบอล Z เดอะมูฟวี่ 4 ซูเปอร์ไซย่า ซุน โกคู",
         "ドラゴンボールZ 超サイヤ人だ孫悟空",
-        "ドラゴンボールＺ 超サイヤ人だ孫悟空",
+        "ドラゴンボール�� 超サイヤ人だ孫悟空",
         "드래곤볼 Z: 손오공은 슈퍼 사이어인"
       ]
     },
@@ -436829,6 +437661,12 @@
           "id": "32237",
           "begin": "2023-03-16T02:00:00.000Z",
           "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0F9QM6M9Q",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -438133,12 +438971,6 @@
           "id": "21751",
           "begin": "2017-09-08T01:00:00.000Z",
           "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "172-32",
-          "begin": "",
-          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -438174,6 +439006,116 @@
         "ルパン三世『ヘミングウェイペーパーの謎』",
         "ルパン三世ヘミングウェイペーパーの謎",
         "鲁邦三世：海明威手稿之谜"
+      ]
+    },
+    {
+      "title": "ドラゴンボールZ 地球まるごと超決戦",
+      "titleTranslate": {
+        "zh-Hans": [
+          "龙珠Z 地球争霸战"
+        ]
+      },
+      "type": "movie",
+      "lang": "ja",
+      "officialSite": "",
+      "begin": "1990-07-07T16:00:00.000Z",
+      "end": "1990-07-07T16:30:00.000Z",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "44941"
+        },
+        {
+          "site": "nicovideo",
+          "id": "DBZ_tikyumarugoto",
+          "begin": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrhb4015",
+          "begin": "2016-02-04T10:34:13.000Z"
+        },
+        {
+          "site": "unext",
+          "id": "SID0010764",
+          "begin": "2018-07-27T03:00:00.000Z",
+          "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "184-165",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "prime",
+          "id": "B0F1282BGT",
+          "begin": "",
+          "broadcast": ""
+        }
+      ],
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 1990,
+        "month": "07"
+      },
+      "status": "FINISHED",
+      "episodes": 1,
+      "picture": "https://cdn.myanimelist.net/images/anime/1956/90345.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1956/90345t.jpg",
+      "synonyms": [
+        "Akira Toriyama the World",
+        "Bảy Viên Ngọc Rồng Z: Mầm Cây Sinh Lực",
+        "DBZ Movie 1 - Super Battle in the World",
+        "DBZ Movie 3",
+        "DRAGON BALL Z 地球まるごと超決戦",
+        "Dragon Ball Z - A Grande Batalha",
+        "Dragon Ball Z - La grande battaglia per il destino del mondo",
+        "Dragon Ball Z - O Filme",
+        "Dragon Ball Z - The Movie: Die Entscheidungsschlacht",
+        "Dragon Ball Z 03 - Le combat fratricide",
+        "Dragon Ball Z : Le Combat Fratricide",
+        "Dragon Ball Z : Le combat fratricide",
+        "Dragon Ball Z Film 3: Die Entscheidungsschlacht",
+        "Dragon Ball Z Film 3: Le Combat Fratricide",
+        "Dragon Ball Z La Batalla Mas Grande de Este Mundo Esta por Comenzar",
+        "Dragon Ball Z Movie 03: The Tree of Might",
+        "Dragon Ball Z Movie 3 - Super Battle in the World",
+        "Dragon Ball Z Movie 3: The Tree of Might",
+        "Dragon Ball Z Película 3: Super Batalla Decisiva por la Tierra",
+        "Dragon Ball Z: A Árvore do Poder",
+        "Dragon Ball Z: Bratobójcza walka",
+        "Dragon Ball Z: Chikyuu Marugoto Chou Kessen",
+        "Dragon Ball Z: Chikyuu Marugoto Choukessen",
+        "Dragon Ball Z: Chikyū Marugoto Chō Kessen",
+        "Dragon Ball Z: Chikyū Marugoto Chōkessen",
+        "Dragon Ball Z: Det stora slaget",
+        "Dragon Ball Z: Det store slaget",
+        "Dragon Ball Z: Die Entscheidungsschlacht",
+        "Dragon Ball Z: La Película - La batalla más grande del mundo está por comenzar",
+        "Dragon Ball Z: La Super Batalla",
+        "Dragon Ball Z: La batalla decisiva por la Tierra",
+        "Dragon Ball Z: La grande battaglia per il destino del mondo",
+        "Dragon Ball Z: La super batalla",
+        "Dragon Ball Z: Movie 3",
+        "Dragon Ball Z: Największy pojedynek na świecie",
+        "Dragon Ball Z: O Filme",
+        "Dragon Ball Z: Super Battle in the World",
+        "Dragon Ball Z: Super batalla decisiva por la Tierra",
+        "Dragon Ball Z: The Decisive Battle for the Entire Earth",
+        "Dragon Ball Z: The Tree of Might",
+        "Dragon Ball Z: The Ultimate Decisive Battle Over Earth",
+        "Dragon Ball Z: The Ultimate Decisive Battle over Earth",
+        "Dragon Ball Z: Ultimate Decisive Battle for Earth",
+        "Dragonball Z - The Movie: Die Entscheidungsschlacht",
+        "Dragonball Z: Die Entscheidungsschlacht",
+        "Dragonball Z: Suuri taistelu",
+        "Superbatalla na Terra",
+        "دراغون بول زد: شجرة القوى",
+        "ดราก้อนบอล Z เดอะมูฟวี่ 3 ศึกสะท้านพิภพ",
+        "ドラゴンボールZ 地球まるごと超決戦",
+        "ドラゴンボールＺ 地球まるごと超決戦",
+        "드래곤볼 Z: 지구 통째로 초결전"
       ]
     },
     {
@@ -439549,6 +440491,12 @@
           "id": "SID0085101",
           "begin": "2023-04-28T03:00:00.000Z",
           "broadcast": "R/2023-04-28T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "482-109",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -441904,12 +442852,6 @@
           "id": "21750",
           "begin": "2017-09-08T01:00:00.000Z",
           "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
-        },
-        {
-          "site": "abema",
-          "id": "172-31",
-          "begin": "",
-          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -442645,6 +443587,12 @@
           "id": "SID0099854",
           "begin": "2024-03-05T03:00:00.000Z",
           "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0DW75VR3P",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -443040,6 +443988,12 @@
           "id": "SID0002504",
           "begin": "2016-02-18T15:00:00.000Z",
           "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "35-4bmshgtggen",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -443714,6 +444668,12 @@
         {
           "site": "abema",
           "id": "184-156",
+          "begin": "",
+          "broadcast": ""
+        },
+        {
+          "site": "prime",
+          "id": "B0F1B3YYLY",
           "begin": "",
           "broadcast": ""
         }
@@ -444535,7 +445495,7 @@
         "Dagon in the Lands of Weeds",
         "Suddenly Dagon",
         "Дагон в Травяных Землях",
-        "הרפתקאות דורי טייס החלל",
+        "הרפתקאות דורי טיי�� החלל",
         "いきなりダゴン"
       ]
     },
@@ -444735,12 +445695,6 @@
           "broadcast": ""
         },
         {
-          "site": "abema",
-          "id": "13-73",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "prime",
           "id": "B0DZY6M1H8",
           "begin": "",
@@ -444791,7 +445745,7 @@
         "機動戦士ガンダム　逆襲のシャア",
         "機動戦士ガンダム：逆襲のシャア",
         "機動戰士鋼彈 逆襲的夏亞",
-        "機動戰士高達 馬沙之反擊",
+        "機動戰士高達 馬���之反擊",
         "逆シャア",
         "기동전사 건담 : 역습의 샤아"
       ]
@@ -444963,6 +445917,12 @@
           "id": "SID0099853",
           "begin": "2024-03-05T03:00:00.000Z",
           "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0FLYP16B4",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -447377,6 +448337,12 @@
           "id": "SID0099851",
           "begin": "2024-03-05T03:00:00.000Z",
           "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0FKB94J4X",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -447641,7 +448607,7 @@
         "Grimm’s Fairy Tales: The Golden Bird",
         "Kin no Tori",
         "The Golden Bird",
-        "Το χρυσό πο��λί",
+        "Το χρυσό πουλί",
         "グリム童話 金の鳥"
       ]
     },
@@ -449495,12 +450461,6 @@
           "broadcast": ""
         },
         {
-          "site": "abema",
-          "id": "13-115",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "danime",
           "id": "11334",
           "begin": "2025-04-10T15:00:00.000Z",
@@ -450670,56 +451630,6 @@
       ]
     },
     {
-      "title": "機甲創世記モスピーダ Love, Live, Alive",
-      "titleTranslate": {
-        "zh-Hans": [
-          "机甲创世记 Mospeada: Love, Live, Alive",
-          "机甲创世记 OVA"
-        ]
-      },
-      "type": "ova",
-      "lang": "ja",
-      "officialSite": "",
-      "begin": "1985-08-31T16:00:00.000Z",
-      "broadcast": "",
-      "end": "1985-08-31T16:00:00.000Z",
-      "comment": "",
-      "sites": [
-        {
-          "site": "bangumi",
-          "id": "299218"
-        },
-        {
-          "site": "bilibili",
-          "id": "4056",
-          "begin": "2016-05-26T03:02:37.000Z",
-          "broadcast": "R/2016-05-26T03:02:37.000Z/P7D"
-        }
-      ],
-      "animeSeason": {
-        "season": "SUMMER",
-        "year": 1985,
-        "month": "09"
-      },
-      "status": "FINISHED",
-      "episodes": 1,
-      "picture": "https://cdn.myanimelist.net/images/anime/10/6391.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/10/6391t.jpg",
-      "synonyms": [
-        "Alive",
-        "Genesis Climber MOSPEADA: Love Live Alive",
-        "Genesis Climber Mospeada: Love",
-        "Kikou Soseiki Mospeada: Love",
-        "Kikou Soseiki Mospeada: Love, Live, Alive",
-        "Kikou Soseiki Mosupiida: Love Live Alive",
-        "Kikou Souseiki Mospeada: Love Live Alive",
-        "Kikō Sōseiki Mospeada: Love Live Alive",
-        "Live",
-        "機甲創世記モスピーダ Love",
-        "機甲創世記モスピーダ Love, Live, Alive"
-      ]
-    },
-    {
       "title": "装甲騎兵ボトムズ ザ・ラストレッドショルダー",
       "titleTranslate": {
         "zh-Hans": [
@@ -451546,12 +452456,6 @@
           "broadcast": ""
         },
         {
-          "site": "abema",
-          "id": "13-62",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "danime",
           "id": "11222",
           "begin": "2025-04-10T15:00:00.000Z",
@@ -451621,6 +452525,12 @@
           "id": "SID0099849",
           "begin": "2024-03-05T03:00:00.000Z",
           "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "prime",
+          "id": "B0FC2GPPYN",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -452664,7 +453574,7 @@
         "The Super Dimension Fortress Macross: Do You Remember Love?",
         "The Super Dimension Fortress: Macross Do You Remember Love",
         "macross movie",
-        "超时空要塞 可曾记得爱",
+        "超时空要��� 可曾记得爱",
         "超時空要塞マクロス -愛・おぼえていますか-",
         "超時空要塞マクロス 愛・おぼえていますか",
         "기억하고 있나요",
@@ -453578,7 +454488,7 @@
         "うるせいやつら2びゅーてぃふるどりーまー",
         "うる星やつら2 ビューティフ&#",
         "うる星やつら2 ビューティフル・ドリーマー",
-        "うる星や���ら２　ビューティフル・ドリーマー",
+        "うる星やつら２　ビューティフル・ドリーマー",
         "福星小子 Beautiful Dreamer",
         "福星小子：绮丽梦中人"
       ]
@@ -455364,6 +456274,47 @@
       ]
     },
     {
+      "title": "まんが日本史",
+      "titleTranslate": {
+        "zh-Hans": [
+          "漫画日本史"
+        ]
+      },
+      "type": "tv",
+      "lang": "ja",
+      "officialSite": "",
+      "begin": "1983-04-02T16:00:00.000Z",
+      "broadcast": "R/1983-04-02T16:00:00.000Z/P7D",
+      "end": "1984-04-07T16:00:00.000Z",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "381162"
+        },
+        {
+          "site": "unext",
+          "id": "SID0045322",
+          "begin": "2020-01-01T03:00:00.000Z",
+          "broadcast": "R/2020-01-01T03:00:00.000Z/P7D"
+        }
+      ],
+      "animeSeason": {
+        "season": "SPRING",
+        "year": 1983,
+        "month": "04"
+      },
+      "status": "FINISHED",
+      "episodes": 52,
+      "picture": "https://cdn.myanimelist.net/images/anime/2/58647.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/2/58647t.jpg",
+      "synonyms": [
+        "Manga History of Japan",
+        "まんが日本史",
+        "漫画日本史"
+      ]
+    },
+    {
       "title": "パソコントラベル探偵団",
       "titleTranslate": {
         "zh-Hans": [
@@ -455584,59 +456535,6 @@
         "レディジョージィ",
         "喬琪姑娘",
         "들장미 소녀 제니"
-      ]
-    },
-    {
-      "title": "Dr.スランプ アラレちゃん ほよよ!世界一周大レース",
-      "titleTranslate": {
-        "zh-Hans": [
-          "阿拉蕾 哦呦呦！环球大比赛"
-        ]
-      },
-      "type": "movie",
-      "lang": "ja",
-      "officialSite": "",
-      "begin": "1983-03-13T16:00:00.000Z",
-      "end": "1983-03-13T17:00:00.000Z",
-      "sites": [
-        {
-          "site": "bangumi",
-          "id": "82719"
-        },
-        {
-          "site": "iqiyi",
-          "id": "a_19rrhb54vl",
-          "begin": "2015-08-04T01:02:58.000Z"
-        }
-      ],
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 1983,
-        "month": "03"
-      },
-      "status": "FINISHED",
-      "episodes": 1,
-      "picture": "https://cdn.myanimelist.net/images/anime/2/23173.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/2/23173t.jpg",
-      "synonyms": [
-        "Dr. Slump Movie 3",
-        "Dr. Slump Movie 3: The Great Race Around the World",
-        "Dr. Slump and Arale-chan: Hoyoyo",
-        "Dr. Slump and Arale-chan: Hoyoyo, Great Round-the-World Race",
-        "Dr. Slump and Arale-chan: The Great Round-the-World Race",
-        "Dr. Slump e Arale: La grande corsa intorno al mondo",
-        "Dr. Slump: Arale-chan - Hoyoyo Sekai Isshuu Dai Race",
-        "Dr. Slump: Arale-chan Hoyoyo Sekai Isshuu Dai Race",
-        "Dr. Slump: Arale-chan Hoyoyo! Sekai Isshuu Dai Race",
-        "Dr. Slump: Arale-chan Hoyoyo! Sekai Isshū Dai Race",
-        "Dr. Slump: Arale-chan Movie 3 - Hoyoyo! Sekai Isshuu Dai Race",
-        "Dr. Slump: La gran carrera alrededor del mundo",
-        "Dr. Slump: The Great Race Around the World",
-        "Dr.スランプ アラレちゃん ほよよ! 世界一周大レース",
-        "Dr.スランプ アラレちゃん ほよよ!世界一周大レース",
-        "Dr.スランプ アラレちゃん ほよよ世界一周大レース",
-        "Great Round-the-World Race",
-        "阿拉蕾 哦呦呦！环球大比赛"
       ]
     },
     {
@@ -456281,7 +457179,7 @@
         "cobra tv",
         "Космічні пригоди Кобри",
         "すぺーすこぶら",
-        "スペースアドベンチャー ��ブラ",
+        "スペースアドベンチャー コブラ",
         "スペースコブラ"
       ]
     },
@@ -460736,53 +461634,6 @@
       ]
     },
     {
-      "title": "銀河鉄道999 ガラスのクレア",
-      "titleTranslate": {
-        "zh-Hans": [
-          "银河铁道999：玻璃克莱尔"
-        ]
-      },
-      "type": "movie",
-      "lang": "ja",
-      "officialSite": "",
-      "begin": "1980-03-15T16:00:00.000Z",
-      "end": "1980-03-15T16:15:00.000Z",
-      "sites": [
-        {
-          "site": "bangumi",
-          "id": "127777"
-        },
-        {
-          "site": "danime",
-          "id": "27240",
-          "begin": "2024-07-31T15:00:00.000Z",
-          "broadcast": "R/2024-07-31T15:00:00.000Z/P7D"
-        }
-      ],
-      "animeSeason": {
-        "season": "WINTER",
-        "year": 1980,
-        "month": "03"
-      },
-      "status": "FINISHED",
-      "episodes": 1,
-      "picture": "https://cdn.myanimelist.net/images/anime/6/15279.jpg",
-      "thumbnail": "https://cdn.myanimelist.net/images/anime/6/15279t.jpg",
-      "synonyms": [
-        "Claire of the Glass: Galaxy Express 999",
-        "Galaxy Express 999: Claire aus Glas",
-        "Galaxy Express 999: Claire of the Glass",
-        "Galaxy Express 999: Crystal Clair",
-        "Galaxy Express 999: Glass no Clair",
-        "Ginga Tetsudo 999: Glass no Clair",
-        "Ginga Tetsudō 999: Glass no Clair",
-        "ガラスのクレア 銀河鉄道999",
-        "銀河鉄道999 ガラスのクレア",
-        "銀河鉄道９９９ ガラスのクレア",
-        "銀河鉄道９９９ ～ガラスのクレア～"
-      ]
-    },
-    {
       "title": "ドラえもん のび太の恐竜",
       "titleTranslate": {
         "zh-Hans": [
@@ -462002,6 +462853,62 @@
       ]
     },
     {
+      "title": "こぐまのミーシャ",
+      "titleTranslate": {
+        "zh-Hans": [
+          "小熊米沙"
+        ]
+      },
+      "type": "tv",
+      "lang": "ja",
+      "officialSite": "",
+      "begin": "1979-10-05T15:00:00.000Z",
+      "broadcast": "R/1979-10-05T15:00:00.000Z/P7D",
+      "end": "1980-04-04T16:00:00.000Z",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "190434"
+        },
+        {
+          "site": "danime",
+          "id": "24052",
+          "begin": "2020-08-14T01:00:00.000Z",
+          "broadcast": "R/2020-08-14T01:00:00.000Z/P7D"
+        },
+        {
+          "site": "unext",
+          "id": "SID0003320",
+          "begin": "2015-02-16T15:00:00.000Z",
+          "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+        }
+      ],
+      "animeSeason": {
+        "season": "FALL",
+        "year": 1979,
+        "month": "10"
+      },
+      "status": "FINISHED",
+      "episodes": 26,
+      "picture": "https://cdn.myanimelist.net/images/anime/3/71237.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/3/71237t.jpg",
+      "synonyms": [
+        "El Osito Misha",
+        "El osito Misha",
+        "L’orsetto Mysha",
+        "Misha",
+        "Misha the Bearcub",
+        "Misha, l'orsetto",
+        "Mysha",
+        "O Pequeno Urso Misha",
+        "O Ursinho Misha",
+        "القرية الأليفة",
+        "دوبة , القرية الأليفة",
+        "こぐまのミーシャ"
+      ]
+    },
+    {
       "title": "星のオルフェウス",
       "titleTranslate": {},
       "type": "movie",
@@ -462256,12 +463163,6 @@
           "broadcast": "R/2010-03-31T15:00:00.000Z/P7D"
         },
         {
-          "site": "abema",
-          "id": "13-53",
-          "begin": "",
-          "broadcast": ""
-        },
-        {
           "site": "danime",
           "id": "20230",
           "begin": "2024-06-30T15:00:00.000Z",
@@ -462269,7 +463170,7 @@
         },
         {
           "site": "prime",
-          "id": "B00FYITZD6",
+          "id": "B0DWSMLZ6F",
           "begin": "",
           "broadcast": ""
         }
@@ -465005,6 +465906,12 @@
           "id": "27709",
           "begin": "2025-04-01T15:00:00.000Z",
           "broadcast": "R/2025-04-01T15:00:00.000Z/P7D"
+        },
+        {
+          "site": "abema",
+          "id": "482-102",
+          "begin": "",
+          "broadcast": ""
         }
       ],
       "animeSeason": {
@@ -466446,6 +467353,72 @@
         "Uchuu Enban Dai-Senso",
         "Uchū Enban Dai-Sensō",
         "宇宙円盤大戦争"
+      ]
+    },
+    {
+      "title": "グレートマジンガー対ゲッターロボG 空中大激突",
+      "titleTranslate": {
+        "zh-Hans": [
+          "大魔神对盖塔机器人G 空中大冲击",
+          "金刚大魔神对盖特机器人G 空中大冲击",
+          "新铁甲万能侠对新三一万能侠 空中大冲击"
+        ]
+      },
+      "type": "movie",
+      "lang": "ja",
+      "officialSite": "",
+      "begin": "1975-07-25T15:00:00.000Z",
+      "broadcast": "",
+      "end": "1975-07-25T15:24:00.000Z",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "114512"
+        },
+        {
+          "site": "unext",
+          "id": "SID0012553",
+          "begin": "2019-12-23T03:00:00.000Z",
+          "broadcast": "R/2019-12-23T03:00:00.000Z/P7D"
+        },
+        {
+          "site": "danime",
+          "id": "21921",
+          "begin": "2020-01-20T01:00:00.000Z",
+          "broadcast": "R/2020-01-20T01:00:00.000Z/P7D"
+        }
+      ],
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 1975,
+        "month": "07"
+      },
+      "status": "FINISHED",
+      "episodes": 1,
+      "picture": "https://cdn.myanimelist.net/images/anime/1736/99759.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1736/99759t.jpg",
+      "synonyms": [
+        "Getter Robo: Great Mazinger tai Getter Robo G: Kuuchuu Dai-Gekitotsu",
+        "Gli UFO Robot contro gli invasori spaziali (parte 1)",
+        "Great Mazinger - Les aventuriers de la galaxie",
+        "Great Mazinger Vs. Getter Robo G - The Great Space Encounter",
+        "Great Mazinger Vs. Getter Robo G: The Great Space Encounter",
+        "Great Mazinger contra Getter Robo G",
+        "Great Mazinger et Getter Robot G - le Sacrifice Ultime",
+        "Great Mazinger et Getter Robot G: Le Sacrifice Ultime",
+        "Great Mazinger tai Getter Robo G - Kūchū Dai-Gekitotsu",
+        "Great Mazinger tai Getter Robo G: Kuuchuu Dai-Gekitotsu",
+        "Great Mazinger tai Getter Robo G: Kūchū Dai-Gekitotsu",
+        "Great Mazinger vs Getter Robo G: The Great Space Encounter",
+        "Great Mazinger vs. Getter Robo G: Kuuchuu Dai-Gekitotsu",
+        "Great Mazinger: Les aventuriers de la galaxie",
+        "Il Grande Mazinga contro Getta Robot G - Violento scontro nei cieli",
+        "Il Grande Mazinga contro Getta Robot G: Violento scontro nei Cieli",
+        "Mazinger: Great Mazinger tai Getter Robo G: Kuuchuu Dai-Gekitotsu",
+        "مازنجر الكبير يقاتل جيتا روبو",
+        "グレートマジンガー対ゲッターロボG 空中大激突",
+        "グレートマジンガー対ゲッターロボＧ 空中大激突"
       ]
     },
     {
@@ -471290,7 +472263,7 @@
         "Ogon Bat",
         "Phantaman",
         "Phantoma",
-        "o guerreiro da justiça",
+        "o guerreiro da justi��a",
         "Ōgon Bat",
         "黄金バット",
         "황금박쥐"

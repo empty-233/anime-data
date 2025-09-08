@@ -1531,6 +1531,12 @@
         "id": "129434",
         "begin": "2025-07-08T17:30:00.000Z",
         "broadcast": "R/2025-07-08T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FB7LBGVS",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -1624,6 +1630,12 @@
       {
         "site": "disneyplus",
         "id": "42LgqWWAlxgK",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0F4L7V6S6",
         "begin": "",
         "broadcast": ""
       }
@@ -3354,7 +3366,7 @@
     "officialSite": "https://www.foodcourtjk-anime.com/",
     "begin": "2025-07-07T12:30:00.000Z",
     "broadcast": "R/2025-07-07T12:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-08-11T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3371,7 +3383,8 @@
         "site": "unext",
         "id": "SID0200142",
         "begin": "2025-07-12T13:30:00.000Z",
-        "broadcast": "R/2025-07-12T13:30:00.000Z/P7D"
+        "broadcast": "R/2025-07-12T13:30:00.000Z/P7D",
+        "comment": "アンコール版: SID0200143"
       },
       {
         "site": "abema",
@@ -3851,6 +3864,12 @@
       {
         "site": "mikan",
         "id": "3704"
+      },
+      {
+        "site": "prime",
+        "id": "B0F4MJ88Y8",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -4532,8 +4551,8 @@
       {
         "site": "unext",
         "id": "SID0200141",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-27T13:00:00.000Z",
+        "broadcast": "R/2025-07-27T13:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -4564,6 +4583,12 @@
         "broadcast": "R/2025-07-24T12:30:00.000Z/P7D"
       },
       {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQZe7c3vIyMvgWjyXZsEK_T",
+        "begin": "2025-07-24T12:30:06.000Z",
+        "broadcast": "R/2025-07-24T12:30:06.000Z/P7D"
+      },
+      {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7Jj7H_29_-ZpnYRA0Gx-ESrI",
         "begin": "2025-07-24T12:30:00.000Z",
@@ -4572,6 +4597,18 @@
       {
         "site": "mikan",
         "id": "3712"
+      },
+      {
+        "site": "danime",
+        "id": "28109",
+        "begin": "2025-07-27T13:00:00.000Z",
+        "broadcast": "R/2025-07-27T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F83VB5P5",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -5337,6 +5374,49 @@
       "Yamishibai: Japanese Ghost Stories 15",
       "Yamishibai: Japanese Ghost Stories Fifteenth Season",
       "闇芝居 十五期"
+    ]
+  },
+  {
+    "title": "ネコのクラちゃん ～Ordinary days～",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://nekonokurachan-ordinarydays.jp",
+    "begin": "2025-07-08T16:00:00.000Z",
+    "broadcast": "R/2025-07-08T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "565400"
+      },
+      {
+        "site": "danime",
+        "id": "28168",
+        "begin": "2025-07-23T11:30:00.000Z",
+        "broadcast": "R/2025-07-23T11:30:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2023,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 26,
+    "picture": "https://cdn.myanimelist.net/images/anime/1616/151047.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1616/151047t.jpg",
+    "synonyms": [
+      "DNAxCAT Season 2.5",
+      "DNA×CAT Season 2.5",
+      "Jiu Cang Miao Wo Di-2.5 Ji",
+      "Jiu Cang Miao Wo: Richang Pian",
+      "Neko no Kura-chan: Ordinary Days",
+      "Neko no Kura-chan: Ordinary days",
+      "ネコのクラちゃん ～Ordinary days～",
+      "九藏喵窝 第2.5季",
+      "九藏喵窩 日常篇"
     ]
   }
 ]

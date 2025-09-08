@@ -514,6 +514,18 @@
         "id": "SID0029289",
         "begin": "2024-10-31T15:00:00.000Z",
         "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21609",
+        "begin": "2025-08-20T15:00:00.000Z",
+        "broadcast": "R/2025-08-20T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-272",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -788,6 +800,12 @@
         "id": "71789",
         "begin": "2025-07-01T04:00:00.000Z",
         "broadcast": "R/2025-07-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22781",
+        "begin": "2025-07-31T15:00:00.000Z",
+        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2696,6 +2714,12 @@
         "id": "20367",
         "begin": "2015-10-12T03:00:00.000Z",
         "broadcast": "R/2015-10-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "149-28i9ircg5g9",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -3984,65 +4008,6 @@
     ]
   },
   {
-    "title": "劇場版 蒼き鋼のアルペジオ -アルス・ノヴァ- Cadenza",
-    "titleTranslate": {
-      "zh-Hans": [
-        "苍蓝钢铁的琶音 Cadenza"
-      ]
-    },
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "http://www.aokihagane.com/",
-    "begin": "2015-10-03T16:00:00.000Z",
-    "end": "2015-10-03T17:30:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "107100"
-      },
-      {
-        "site": "unext",
-        "id": "SID0027854",
-        "begin": "2017-01-05T03:00:00.000Z",
-        "broadcast": "R/2017-01-05T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "mikan",
-        "id": "806"
-      },
-      {
-        "site": "danime",
-        "id": "23093",
-        "begin": "2019-12-01T01:00:00.000Z",
-        "broadcast": "R/2019-12-01T01:00:00.000Z/P7D"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2015,
-      "month": "10"
-    },
-    "status": "FINISHED",
-    "episodes": 1,
-    "picture": "https://cdn.myanimelist.net/images/anime/2/74665.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/74665t.jpg",
-    "synonyms": [
-      "Aoki Hagane no Arpeggio: Ars Nova - Cadenza",
-      "Aoki Hagane no Arpeggio: Ars Nova Cadenza",
-      "Aoki Hagane no Arpeggio: Ars Nova Movie 2",
-      "Arpeggio of Blue Steel - Cadenza",
-      "Arpeggio of Blue Steel Movie 2: Ars Nova - Cadenza",
-      "Arpeggio of Blue Steel: Ars Nova Cadenza",
-      "Arpeggio of Blue Steel: Ars Nova Movie 2",
-      "Gekijouban Aoki Hagane no Arpeggio",
-      "劇場版 蒼き鋼のアルペジオ",
-      "劇場版 蒼き鋼のアルペジオ -アルス・ノヴァ- Cadenza",
-      "劇場版 蒼き鋼のアルペジオ ‐アルス・ノヴァ‐ Cadenza",
-      "蒼き鋼のアルペジオ -アルス・ノヴァ- Cadenza",
-      "蒼藍鋼鐵戰艦 Cadenza"
-    ]
-  },
-  {
     "title": "屍者の帝国",
     "titleTranslate": {
       "zh-Hans": [
@@ -4070,6 +4035,18 @@
         "id": "SID0029290",
         "begin": "2024-10-31T15:00:00.000Z",
         "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-271",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "21610",
+        "begin": "2025-08-11T15:00:00.000Z",
+        "broadcast": "R/2025-08-11T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4780,62 +4757,6 @@
       "蒼穹のファフナー EXODUS 第2クール",
       "蒼穹のファフナー EXODUS 第２クール",
       "창궁의 파프너 EXODUS (2015)"
-    ]
-  },
-  {
-    "title": "ノラガミ OAD",
-    "titleTranslate": {
-      "zh-Hans": [
-        "野良神 OAD"
-      ]
-    },
-    "type": "ova",
-    "lang": "ja",
-    "officialSite": "",
-    "begin": "2014-02-13T16:00:00.000Z",
-    "end": "2014-07-17T16:30:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "84864"
-      },
-      {
-        "site": "bilibili",
-        "id": "3419",
-        "begin": "2014-02-12T16:00:01.000Z",
-        "broadcast": "R/2016-03-11T08:39:00.000Z/P7D"
-      },
-      {
-        "site": "youku",
-        "id": "c6e961cc914111e3b8b7",
-        "begin": "2014-02-14T01:35:21.000Z"
-      },
-      {
-        "site": "danime",
-        "id": "26218",
-        "begin": "2023-03-01T01:00:00.000Z",
-        "broadcast": "R/2023-03-01T01:00:00.000Z/P7D",
-        "comment": "神憑り、神祟り, 春の日の約束: 26219"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2015,
-      "month": "02"
-    },
-    "status": "FINISHED",
-    "episodes": 2,
-    "picture": "https://cdn.myanimelist.net/images/anime/11/77510.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/11/77510t.jpg",
-    "synonyms": [
-      "Noragami 2 OAD",
-      "Noragami ARAGOTO OVA",
-      "Noragami Aragoto OAD",
-      "noragami ova 2",
-      "ノラガミ ARAGOTO OAD",
-      "ノラガミ OAD",
-      "ノラガミ アラゴト OAD",
-      "野良神 ARAGOTO OAD"
     ]
   },
   {

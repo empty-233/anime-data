@@ -17,6 +17,18 @@
       {
         "site": "bangumi",
         "id": "536694"
+      },
+      {
+        "site": "unext",
+        "id": "SID0228345",
+        "begin": "2025-08-31T15:00:00.000Z",
+        "broadcast": "R/2025-08-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28184",
+        "begin": "2025-08-30T15:00:00.000Z",
+        "broadcast": "R/2025-08-30T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -46,7 +58,8 @@
         "鬼人幻燈抄"
       ],
       "en": [
-        "Sword of the Demon Hunter"
+        "Sword of the Demon Hunter",
+        "Sword of the Demon Hunter: Kijin Gentosho"
       ]
     },
     "type": "tv",
@@ -126,6 +139,12 @@
       {
         "site": "dmhy",
         "id": "鬼人"
+      },
+      {
+        "site": "netflix",
+        "id": "82040391",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -284,6 +303,53 @@
       "Kaijū 8-gō: Hoshina no Kyūjitsu",
       "怪獣8号 保科の休日",
       "怪獣8号「保科の休日」"
+    ]
+  },
+  {
+    "title": "映画ドラえもん のび太の絵世界物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：大雄的绘画奇遇记",
+        "哆啦A梦：大雄的绘世界物语"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://doraeiga.com/2025/",
+    "begin": "2025-03-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-03-06T17:45:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "515422"
+      },
+      {
+        "site": "mikan",
+        "id": "3653"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2025,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1143/146877.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1143/146877t.jpg",
+    "synonyms": [
+      "Doraemon - Il film: Nobita e il racconto del mondo della pittura",
+      "Doraemon Movie 44: Nobita no Esekai Monogatari",
+      "Doraemon Movie 44: Nobita's Art World Tales",
+      "Doraemon Movie 44: Nobita’s Art World Tales",
+      "Doraemon the Movie: Nobita's Art World Tales",
+      "Doraemon: Nobita no e Sekai Monogatari",
+      "Doraemon: The Tale of Nobita's Picture World",
+      "Eiga Doraemon: Nobita no E Sekai Monogatari",
+      "Eiga Doraemon: Nobita no Esekai Monogatari",
+      "映画ドラえもん のび太の絵世界物語"
     ]
   }
 ]

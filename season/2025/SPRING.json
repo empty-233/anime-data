@@ -121,7 +121,7 @@
     "officialSite": "https://www.tbs.co.jp/anime/takopi_project/",
     "begin": "2025-06-27T15:00:00.000Z",
     "broadcast": "R/2025-06-27T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2025-08-01T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -361,6 +361,52 @@
       "U探泰拉",
       "U探泰拉U Tan Tai La",
       "テラライブ"
+    ]
+  },
+  {
+    "title": "プリンセス・プリンシパル Crown Handler 第4章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Princess Principal Crown Handler 第4章",
+        "公主代理人 Crown Handler 第4章",
+        "公主委托人 Crown Handler 第4章",
+        "公主准则 Crown Handler 第4章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://pripri-anime.jp/",
+    "begin": "2025-05-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-05-22T16:59:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "244931"
+      },
+      {
+        "site": "unext",
+        "id": "SID0212207",
+        "begin": "2025-08-08T03:00:00.000Z",
+        "broadcast": "R/2025-08-08T03:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2025,
+      "month": "05"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1461/147981.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1461/147981t.jpg",
+    "synonyms": [
+      "Princess Principal Movie 4",
+      "Princess Principal: Crown Handler - Chapter 4",
+      "Princess Principal: Crown Handler 4",
+      "プリンセス・プリンシパル Crown Handler 第4章",
+      "プリンセス・プリンシパル Crown Handler 第4話"
     ]
   },
   {
@@ -3441,6 +3487,12 @@
       {
         "site": "dmhy",
         "id": "紫雲寺"
+      },
+      {
+        "site": "netflix",
+        "id": "82033310",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -4113,6 +4165,12 @@
       {
         "site": "dmhy",
         "id": "LAZARUS"
+      },
+      {
+        "site": "netflix",
+        "id": "81986711",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -5934,6 +5992,55 @@
     ]
   },
   {
+    "title": "劇場版 僕とロボコ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 我与机器子"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://boku-to-roboco.com",
+    "begin": "2025-04-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-04-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "441940"
+      },
+      {
+        "site": "unext",
+        "id": "SID0220206",
+        "begin": "2025-08-18T15:00:00.000Z",
+        "broadcast": "R/2025-08-18T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2025,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1048/148254.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1048/148254t.jpg",
+    "synonyms": [
+      "Boku to Roboco Movie",
+      "Gekijouban Boku to Roboco",
+      "Gekijōban Boku to Roboco",
+      "ME & ROBOCO Movie",
+      "ME & ROBOCO: The Movie",
+      "Me & Roboco Movie",
+      "Me & Roboco the Movie",
+      "僕とロボコ 劇場版",
+      "剧场版 我与机器妹",
+      "劇場版 僕とロボコ",
+      "劇場版 我與機器子"
+    ]
+  },
+  {
     "title": "小市民シリーズ",
     "titleTranslate": {
       "zh-Hans": [
@@ -6402,6 +6509,12 @@
       {
         "site": "prime",
         "id": "B074GRRQM2",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "149-32",
         "begin": "",
         "broadcast": ""
       }

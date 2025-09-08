@@ -211,6 +211,10 @@
       {
         "site": "bangumi_moe",
         "id": "6352b9686b7b650007317bb7"
+      },
+      {
+        "site": "mikan",
+        "id": "2804"
       }
     ],
     "animeSeason": {
@@ -309,12 +313,80 @@
       "בית בלב האוקיינוס",
       "ديار في قلب المحيط",
       "บ้านล่องลอย",
-      "���告风雨的漂流团地",
+      "宣告风雨的漂流团地",
       "漂流之家",
       "漂流家园",
       "漂流家園",
       "雨を告げる漂流団地",
       "표류단지"
+    ]
+  },
+  {
+    "title": "四畳半タイムマシンブルース",
+    "titleTranslate": {
+      "zh-Hans": [
+        "四叠半时光机蓝调",
+        "四叠半时光机布鲁斯"
+      ],
+      "zh-Hant": [
+        "四疊半時光機藍調"
+      ],
+      "en": [
+        "The Tatami Time Machine Blues"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://yojohan-timemachine.asmik-ace.co.jp/",
+    "begin": "2022-09-13T16:00:00.000Z",
+    "end": "2022-10-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "345980"
+      },
+      {
+        "site": "disneyplus",
+        "id": "6C7HChDy39QZ",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28339737",
+        "begin": "2022-10-19T08:00:01.000Z",
+        "broadcast": "R/2022-10-19T08:00:01.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6327679622a4a10007fd50a4"
+      },
+      {
+        "site": "mikan",
+        "id": "2805"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2022,
+      "month": "09"
+    },
+    "status": "FINISHED",
+    "episodes": 6,
+    "picture": "https://cdn.myanimelist.net/images/anime/1583/126128.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1583/126128t.jpg",
+    "synonyms": [
+      "Tatami Time Machine Blues",
+      "Tatami: La máquina del tiempo",
+      "Tatami: Uma Viagem no Tempo",
+      "The Tatami Time Machine Blues",
+      "Wehikuł Tatami",
+      "Yojohan Time Machine Blues",
+      "Yojō-Han Time Machine Blues",
+      "Yojōhan Time Machine Blues",
+      "四叠半时光机布鲁斯",
+      "四畳半タイムマシンブルース"
     ]
   },
   {
@@ -461,7 +533,7 @@
       "Tunnel to Summer",
       "the Exit of Goodbyes",
       "Тоннель в лето, выход прощаний",
-      "คำจากลาของคิ��หันต์ ณ ปลายอุโมงค์",
+      "คำจากลาของคิมหันต์ ณ ปลายอุโมงค์",
       "さよならの出口",
       "夏へのトンネル",
       "夏へのトンネル, さよならの出口",
@@ -1180,7 +1252,7 @@
       "金装のヴェルメイユ～崖っぷち魔術師は最強の厄災と魔法世界を突き進む～",
       "金装的维尔梅",
       "金装的薇尔梅",
-      "��裝的維爾梅",
+      "金裝的維爾梅",
       "金裝的維爾梅 ~ 瀕臨留級的魔法師聯手最強災厄勇闖魔法世界 ~"
     ]
   },
@@ -2089,7 +2161,7 @@
       "mia2",
       "Đến từ Vực Thẳm Mùa 2",
       "Сделано в бездне: Солнце, вспыхнувшее в Золотом городе",
-      "صنع في الهاوية 2",
+      "صنع في الها��ية 2",
       "นักบุกเบิกหลุมยักษ์ ภาค 2",
       "ผ่าเหวนรก นครทองคำแห่งอาทิตย์ที่เจิดจ้า",
       "ผ่าเหวนรก ภาค 2",
@@ -2950,12 +3022,6 @@
         "id": "62c125b92fc3ee0d0016bf70"
       },
       {
-        "site": "netflix",
-        "id": "81620000",
-        "begin": "2024-11-18T00:00:00.000Z",
-        "broadcast": "R/2024-11-18T00:00:00.000Z/P7D"
-      },
-      {
         "site": "mikan",
         "id": "2754"
       },
@@ -2968,6 +3034,12 @@
       {
         "site": "prime",
         "id": "B0DQ5YM7FG",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81620000",
         "begin": "",
         "broadcast": ""
       }

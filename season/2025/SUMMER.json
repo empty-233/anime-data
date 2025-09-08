@@ -36,13 +36,13 @@
       },
       {
         "site": "unext",
-        "id": "SID0200141",
-        "begin": "",
-        "broadcast": ""
+        "id": "SID0200150",
+        "begin": "2025-08-24T13:00:00.000Z",
+        "broadcast": "R/2025-08-24T13:00:00.000Z/P7D"
       },
       {
         "site": "abema",
-        "id": "25-290",
+        "id": "25-291",
         "begin": "",
         "broadcast": ""
       },
@@ -54,15 +54,21 @@
       },
       {
         "site": "gamer",
-        "id": "141952",
+        "id": "145946",
         "begin": "2025-08-21T12:30:00.000Z",
         "broadcast": "R/2025-08-21T12:30:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
-        "id": "141952",
+        "id": "145946",
         "begin": "2025-08-21T12:30:00.000Z",
         "broadcast": "R/2025-08-21T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQZe7c3vIyMvgWjyXZsEK_T",
+        "begin": "2025-07-24T12:30:06.000Z",
+        "broadcast": "R/2025-07-24T12:30:06.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
@@ -73,6 +79,18 @@
       {
         "site": "mikan",
         "id": "3712"
+      },
+      {
+        "site": "danime",
+        "id": "28110",
+        "begin": "2025-08-24T13:00:00.000Z",
+        "broadcast": "R/2025-08-24T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FC2PC12V",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -1633,6 +1651,12 @@
         "id": "129434",
         "begin": "2025-07-08T17:30:00.000Z",
         "broadcast": "R/2025-07-08T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FB7LBGVS",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -1726,6 +1750,12 @@
       {
         "site": "disneyplus",
         "id": "42LgqWWAlxgK",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0F4L7V6S6",
         "begin": "",
         "broadcast": ""
       }
@@ -3456,7 +3486,7 @@
     "officialSite": "https://www.foodcourtjk-anime.com/",
     "begin": "2025-07-07T12:30:00.000Z",
     "broadcast": "R/2025-07-07T12:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-08-11T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3473,7 +3503,8 @@
         "site": "unext",
         "id": "SID0200142",
         "begin": "2025-07-12T13:30:00.000Z",
-        "broadcast": "R/2025-07-12T13:30:00.000Z/P7D"
+        "broadcast": "R/2025-07-12T13:30:00.000Z/P7D",
+        "comment": "アンコール版: SID0200143"
       },
       {
         "site": "abema",
@@ -3953,6 +3984,12 @@
       {
         "site": "mikan",
         "id": "3704"
+      },
+      {
+        "site": "prime",
+        "id": "B0F4MJ88Y8",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -4634,8 +4671,8 @@
       {
         "site": "unext",
         "id": "SID0200141",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-27T13:00:00.000Z",
+        "broadcast": "R/2025-07-27T13:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -4666,6 +4703,12 @@
         "broadcast": "R/2025-07-24T12:30:00.000Z/P7D"
       },
       {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQZe7c3vIyMvgWjyXZsEK_T",
+        "begin": "2025-07-24T12:30:06.000Z",
+        "broadcast": "R/2025-07-24T12:30:06.000Z/P7D"
+      },
+      {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7Jj7H_29_-ZpnYRA0Gx-ESrI",
         "begin": "2025-07-24T12:30:00.000Z",
@@ -4674,6 +4717,18 @@
       {
         "site": "mikan",
         "id": "3712"
+      },
+      {
+        "site": "danime",
+        "id": "28109",
+        "begin": "2025-07-27T13:00:00.000Z",
+        "broadcast": "R/2025-07-27T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F83VB5P5",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -6639,6 +6694,126 @@
       "その着せ替え人形（ビスク・ドール）は恋をする",
       "更衣人偶坠入爱河 第二季",
       "着せ恋 2"
+    ]
+  },
+  {
+    "title": "彼女、お借りします",
+    "titleTranslate": {
+      "zh-Hans": [
+        "租借女友",
+        "女朋友、借我一下",
+        "出租女友",
+        "理想女友"
+      ],
+      "zh-Hant": [
+        "出租女友"
+      ],
+      "en": [
+        "Rent a Girlfriend",
+        "Rent-a-Girlfriend"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://kanokari-official.com/",
+    "begin": "2020-07-10T16:25:00.000Z",
+    "end": "2020-09-25T16:55:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "296076"
+      },
+      {
+        "site": "acfun",
+        "id": "6002917",
+        "begin": "2020-07-10T18:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kanokari",
+        "begin": "2020-07-15T17:00:00.000Z",
+        "broadcast": "R/2020-07-15T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "109203",
+        "begin": "2020-07-10T18:00:00.000Z",
+        "broadcast": "R/2020-07-10T18:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28229298",
+        "begin": "2020-07-10T18:00:01.000Z",
+        "broadcast": "R/2020-07-10T18:00:01.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "194-15",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0047356",
+        "begin": "2020-07-15T17:00:00.000Z",
+        "broadcast": "R/2020-07-15T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "出租|租借 女友"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5efffb4f3d656e43622cacc9"
+      },
+      {
+        "site": "mikan",
+        "id": "2252"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "109203",
+        "begin": "2020-07-10T18:00:00.000Z",
+        "broadcast": "R/2020-07-10T18:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24025",
+        "begin": "2020-07-10T17:00:00.000Z",
+        "broadcast": "R/2020-07-10T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfoxCuTU2vrsofiavF-Uj2oW",
+        "begin": "2022-06-29T12:30:04.000Z",
+        "broadcast": "R/2022-06-29T12:30:04.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "62UPJ0liFk8K",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mytv",
+        "id": "rentagirlfriend0001_136684",
+        "begin": "2022-10-07T19:00:00.000Z",
+        "broadcast": "R/2022-10-07T19:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2025,
+      "month": "07"
+    },
+    "status": "FINISHED",
+    "episodes": 0,
+    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32921-4003822392.1751434988.jpg",
+    "thumbnail": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32921-4003822392.1751434988.jpg",
+    "synonyms": [
+      "Kanojo, Okarishimasu",
+      "彼女、お借りします"
     ]
   },
   {
