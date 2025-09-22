@@ -346,7 +346,7 @@
       "Sumikkogurashi: The Movie",
       "Sumikkogurashi: Tobidasu Ehon to Himitsu no Ko",
       "すみっコぐらし",
-      "すみっコぐらし とびだす絵本とひみつのコ",
+      "すみっコぐらし と���だす絵本とひみつのコ",
       "映画 すみっコぐらし とびだす絵本とひみつのコ"
     ]
   },
@@ -888,6 +888,49 @@
       "ぼくたちは勉強ができない OVAs",
       "チャペルの鐘は[X]を祝福する",
       "渚に失せものありて先人は艶然と[X]する"
+    ]
+  },
+  {
+    "title": "ランウェイで笑って ミニアニメ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "请在T台上微笑 迷你动画",
+        "请在伸展台上微笑 迷你动画"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://twitter.com/runway_anime",
+    "begin": "2019-11-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-03-30T16:00:00.000Z",
+    "comment": "end may be wrong",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302669"
+      },
+      {
+        "site": "danime",
+        "id": "23220",
+        "begin": "2020-01-24T01:00:00.000Z",
+        "broadcast": "R/2020-01-24T01:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2019,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 42,
+    "picture": "https://cdn.myanimelist.net/images/anime/1750/108555.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1750/108555t.jpg",
+    "synonyms": [
+      "Runway de Waratte Mini",
+      "Smile Down the Runway Mini",
+      "Smile Down the Runway Mini Anime",
+      "ランウェイで笑って ミニアニメ"
     ]
   }
 ]
