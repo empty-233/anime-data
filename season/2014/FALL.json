@@ -210,7 +210,7 @@
       "安彦良和・板野一郎原撮集",
       "新世紀いんぱくつ。",
       "旅のロボから",
-      "日本アニメ(ーター)見本市",
+      "日本アニメ(ーター)見本��",
       "日本アニメ（ーター）見本市",
       "日本动画（人）博览会",
       "月影のトキオ",
@@ -1096,7 +1096,7 @@
       "安彦良和・板野一郎原撮集",
       "新世紀いんぱくつ。",
       "旅のロボから",
-      "日本アニメ(ーター)見本市",
+      "日本アニメ(ーター)見本��",
       "日本アニメ（ーター）見本市",
       "日本动画（人）博览会",
       "月影のトキオ",
@@ -3577,6 +3577,12 @@
         "id": "11514",
         "begin": "2014-10-10T03:00:00.000Z",
         "broadcast": "R/2014-10-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-107",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -4497,34 +4503,6 @@
       "結城友奈は勇者である",
       "结城友奈是勇者",
       "유우키 유우나는 용사다"
-    ]
-  },
-  {
-    "title": "こんな私たちがなりゆきでヒロインになった結果www",
-    "titleTranslate": {},
-    "type": "movie",
-    "lang": "ja",
-    "officialSite": "http://narihero.com/",
-    "begin": "2014-10-06T16:05:00.000Z",
-    "end": "2014-12-22T16:20:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "120086"
-      }
-    ],
-    "animeSeason": {
-      "season": "FALL",
-      "year": 2014,
-      "month": "10"
-    },
-    "status": "FINISHED",
-    "episodes": 3,
-    "picture": "https://cdn.myanimelist.net/images/anime/1389/115039.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/1389/115039t.jpg",
-    "synonyms": [
-      "Narihero www Specials",
-      "こんな私たちがなりゆきでヒロインになった結果www"
     ]
   },
   {
@@ -5495,7 +5473,8 @@
         "site": "bilibili",
         "id": "4374",
         "begin": "2013-10-06T16:00:01.000Z",
-        "broadcast": "R/2017-03-31T17:16:00.000Z/P7D"
+        "broadcast": "R/2017-03-31T17:16:00.000Z/P7D",
+        "comment": "中配: 27757135"
       },
       {
         "site": "unext",

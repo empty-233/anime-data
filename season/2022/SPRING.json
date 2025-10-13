@@ -1908,6 +1908,12 @@
         "id": "25390",
         "begin": "2022-04-06T15:00:00.000Z",
         "broadcast": "R/2022-04-06T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FH2Z13JN",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -2034,12 +2040,6 @@
         "id": "25340",
         "begin": "2022-04-08T14:30:00.000Z",
         "broadcast": "R/2022-04-08T14:30:00.000Z/P7D"
-      },
-      {
-        "site": "mytv",
-        "id": "imquittingheroing0001_143588",
-        "begin": "2025-07-31T16:00:00.000Z",
-        "broadcast": "R/2025-07-31T16:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3389,7 +3389,8 @@
         "朋友遊戲"
       ],
       "en": [
-        "TOMODACHI GAME"
+        "TOMODACHI GAME",
+        "Tomodachi Game"
       ]
     },
     "type": "tv",
@@ -3445,6 +3446,18 @@
         "id": "120408",
         "begin": "2025-08-22T04:00:00.000Z",
         "broadcast": "R/2025-08-22T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "120408",
+        "begin": "2025-08-22T04:00:00.000Z",
+        "broadcast": "R/2025-08-22T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Ji2h8ykclV4l4hgDxbBHmaL",
+        "begin": "2025-09-04T12:00:06.000Z",
+        "broadcast": "R/2025-09-04T12:00:06.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3773,12 +3786,6 @@
         "id": "kaguya_love3",
         "begin": "2022-04-11T03:00:00.000Z",
         "broadcast": "R/2022-04-11T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "26-66",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "gamer_hk",
@@ -4571,18 +4578,6 @@
         "id": "125095",
         "begin": "2022-06-24T04:00:00.000Z",
         "broadcast": "R/2022-06-24T04:00:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0068116",
-        "begin": "2025-04-04T15:00:00.000Z",
-        "broadcast": "R/2025-04-04T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "415-8",
-        "begin": "",
-        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -4671,6 +4666,9 @@
       "zh-Hant": [
         "吉伊卡哇",
         "Chiikawa"
+      ],
+      "en": [
+        "Chiikawa"
       ]
     },
     "type": "tv",
@@ -4724,6 +4722,12 @@
         "id": "2623311",
         "begin": "2025-06-01T04:00:17.000Z",
         "broadcast": "R/2025-06-01T04:00:17.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "7ipu8UcqkQmx",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -4922,27 +4926,8 @@
         "id": "2860"
       },
       {
-        "site": "unext",
-        "id": "SID0100686",
-        "begin": "2025-04-04T15:00:00.000Z",
-        "broadcast": "R/2025-04-04T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "disneyplus",
-        "id": "PMB103ZVE9eU",
-        "url": "https://www.disneyplus.com/movies/detective-conan-the-bride-of-halloween/PMB103ZVE9eU",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "netflix",
         "id": "81757621",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "abema",
-        "id": "415-8",
         "begin": "",
         "broadcast": ""
       },
@@ -5015,6 +5000,12 @@
         "id": "B09VWCZQ9F",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28237378",
+        "begin": "2025-08-02T03:00:00.000Z",
+        "broadcast": "R/2025-08-02T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -5314,7 +5305,7 @@
       "古見さんは",
       "古見さんは, コミュ症です. (2022)",
       "古見さんは, コミュ症です. 2",
-      "古見さんは、 コミュ症です。 2期",
+      "古見さんは、 コミュ症です�� 2期",
       "古見さんは、コミュ症です。",
       "古見さんは、コミュ症です。 2",
       "古見さんは、コミュ症です。2",
@@ -5618,8 +5609,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfq69XKZkLE1YotYphfxLnUV",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-01-06T13:05:09.000Z",
+        "broadcast": "R/2023-01-06T13:05:09.000Z/P7D"
       }
     ],
     "animeSeason": {

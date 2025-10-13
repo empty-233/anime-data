@@ -752,6 +752,12 @@
         "id": "22362",
         "begin": "2018-09-14T01:00:00.000Z",
         "broadcast": "R/2018-09-14T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-143",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -3872,7 +3878,7 @@
       "Ôshitsu Kyôshi Heine",
       "Ōshitsu Kyōshi Heine",
       "Королевский наставник",
-      "おうしつきょうしはいね",
+      "��うしつきょうしはいね",
       "王室教师海涅",
       "王室教師ハイネ",
       "왕실교사 하이네"
@@ -4900,10 +4906,16 @@
       "month": "04"
     },
     "status": "FINISHED",
-    "episodes": 0,
-    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A19772-3998288003.1497828869.jpg",
-    "thumbnail": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A19772-3998288003.1497828869.jpg",
+    "episodes": 34,
+    "picture": "https://cdn.myanimelist.net/images/anime/7/85753.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/85753t.jpg",
     "synonyms": [
+      "Augmented Reality Girls Trinary",
+      "Kakuchou Shoujo Kei Trinary",
+      "Kakuchou Shoujo-Kei Trinary",
+      "Kakuchō Shōjo Kei Trinary",
+      "kakutora",
+      "扩张少女系Trinary",
       "拡張少女系トライナリー"
     ]
   },
@@ -5216,19 +5228,6 @@
         "broadcast": ""
       },
       {
-        "site": "disneyplus",
-        "id": "34QsRRhd7Rt4",
-        "url": "https://www.disneyplus.com/movies/detective-conan-the-crimson-love-letter/34QsRRhd7Rt4",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0040358",
-        "begin": "2025-04-11T15:00:00.000Z",
-        "broadcast": "R/2025-04-11T15:00:00.000Z/P7D"
-      },
-      {
         "site": "prime",
         "id": "B07QRX7HW3",
         "begin": "",
@@ -5326,6 +5325,12 @@
         "id": "SID0034759",
         "begin": "2024-10-31T15:00:00.000Z",
         "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-119",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -5462,68 +5467,104 @@
     ]
   },
   {
-    "title": "フューチャーカード バディファイトX",
+    "title": "装神少女まとい",
     "titleTranslate": {
-      "en": [
-        "FUTURE CARD BUDDYFIGHT X"
-      ],
       "zh-Hans": [
-        "未来卡搭档对战X",
-        "未来卡 搭档对战 4期"
+        "装神少女小缠",
+        "神装少女小缠"
+      ],
+      "zh-Hant": [
+        "神裝少女小纏"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "http://tv-aichi.co.jp/fc-buddyfightX/",
-    "begin": "2017-03-31T23:00:00.000Z",
-    "end": "2018-03-31T23:30:00.000Z",
+    "officialSite": "http://www.matoi-anime.com/",
+    "begin": "2016-10-04T14:00:00.000Z",
+    "end": "2016-12-20T14:30:00.000Z",
     "sites": [
       {
-        "site": "bangumi",
-        "id": "207698"
+        "site": "bilibili",
+        "id": "5552",
+        "begin": "2016-10-04T15:30:10.000Z",
+        "broadcast": "R/2016-10-04T15:30:00.000Z/P7D",
+        "comment": "OVA: 6083"
       },
       {
-        "site": "unext",
-        "id": "SID0029133",
-        "begin": "2017-04-04T03:00:00.000Z",
-        "broadcast": "R/2017-04-04T03:00:00.000Z/P7D"
+        "site": "youku",
+        "id": "658471587fa211e6bdbb",
+        "begin": "2016-10-08T09:15:09.000Z"
+      },
+      {
+        "site": "bangumi",
+        "id": "187112"
+      },
+      {
+        "site": "nicovideo",
+        "id": "matoi-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "qq",
+        "id": "m/mdp5slz8yh5nk4e",
+        "begin": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcgLdE6znVjefzpQ72G0ZNhL",
+        "begin": "2020-08-19T16:00:00.000Z",
+        "broadcast": "R/2020-08-19T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "84296",
+        "begin": "2016-10-04T15:40:00.000Z",
+        "broadcast": "R/2016-10-04T15:40:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "神裝少|装神少"
       },
       {
         "site": "bangumi_moe",
-        "id": "58df7e9279c3a0541f4b61ff"
+        "id": "57efb775ac5b9d0762d174b4"
       },
       {
-        "site": "crunchyroll",
-        "id": "GY5VKE9EY",
-        "begin": "2014-04-25T16:30:00.000Z",
-        "broadcast": "R/2014-04-25T16:30:00.000Z/P7D"
+        "site": "mikan",
+        "id": "846"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "84296",
+        "begin": "2016-10-04T15:40:00.000Z",
+        "broadcast": "R/2016-10-04T15:40:00.000Z/P7D"
       },
       {
         "site": "danime",
-        "id": "21577",
-        "begin": "2017-04-11T03:00:00.000Z",
-        "broadcast": "R/2017-04-11T03:00:00.000Z/P7D"
+        "id": "21147",
+        "begin": "2024-01-31T15:00:00.000Z",
+        "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfrfrVET4DoigtyC4CXZJOSh",
+        "begin": "2018-08-08T03:23:33.000Z",
+        "broadcast": "R/2018-08-08T03:23:33.000Z/P7D"
       }
     ],
     "animeSeason": {
       "season": "SPRING",
       "year": 2017,
-      "month": "03"
+      "month": "10"
     },
     "status": "FINISHED",
-    "episodes": 52,
-    "picture": "https://cdn.myanimelist.net/images/anime/6/84792.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/84792t.jpg",
+    "episodes": 1,
+    "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A23092-3263678654.1584322853.jpg",
+    "thumbnail": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A23092-3263678654.1584322853.jpg",
     "synonyms": [
-      "Future Card Buddyfight Batzz",
-      "Future Card Buddyfight X",
-      "バディファイト バッツ",
-      "フューチャーカード バディファイト",
-      "フューチャーカード バディファイト (2017)",
-      "フューチャーカード バディファイト バッツ",
-      "フューチャーカード バディファイトX",
-      "フューチャーカード バディファイトＸ",
-      "未来卡搭档对战X"
+      "Sōshin Shōjo Matoi",
+      "装神少女まとい"
     ]
   },
   {
@@ -5707,7 +5748,7 @@
       "フューチャーカード バディファイト",
       "フューチャーカード バディファイト (2017)",
       "フューチャーカード バディファイト バッツ",
-      "フューチャーカード バディファイトX",
+      "���ューチャーカード バディファイトX",
       "フューチャーカード バディファイトＸ",
       "未来卡搭档对战X"
     ]

@@ -407,6 +407,12 @@
         "id": "SID0201307",
         "begin": "2025-07-01T03:00:00.000Z",
         "broadcast": "R/2025-07-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28219",
+        "begin": "2025-09-09T03:00:00.000Z",
+        "broadcast": "R/2025-09-09T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -554,6 +560,52 @@
       "PUI PUI モルカー ザ・ムービー MOLMAX（モルマックス）",
       "Pui Pui Molcar Movie: Molmax",
       "Pui Pui Molcar The Movie Molmax"
+    ]
+  },
+  {
+    "title": "銀魂オンシアター2D 金魂篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银魂ON THEATER 2D 金魂篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://anime-gintama.com/on_theater_2d/kintama/",
+    "begin": "2024-11-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "500060"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gintama-ontheater2d-2",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28341",
+        "begin": "2025-09-30T15:00:00.000Z",
+        "broadcast": "R/2025-09-30T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2024,
+      "month": "11"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1185/145136.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1185/145136t.jpg",
+    "synonyms": [
+      "Gintama on Theater 2D: Kintama Arc",
+      "銀魂オンシアター2D 金魂篇"
     ]
   }
 ]

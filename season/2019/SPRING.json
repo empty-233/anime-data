@@ -661,7 +661,11 @@
         "面包超人剧场版 发光吧！冰淇淋王国的香草公主"
       ],
       "zh-Hant": [
-        "麵包超人劇場版 發光吧！冰淇淋王國的香草公主"
+        "麵包超人劇場版 發光吧！冰淇淋王國的香草公主",
+        "麵包超人大電影：發光吧！雪糕王國的雲呢拿公主"
+      ],
+      "en": [
+        "Anpanman: Twinkle! Princess Vanilla of Ice Cream Land"
       ]
     },
     "type": "movie",
@@ -692,6 +696,12 @@
         "id": "27768",
         "begin": "2025-04-29T15:00:00.000Z",
         "broadcast": "R/2025-04-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81719829",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -1237,6 +1247,12 @@
         "id": "SID0057376",
         "begin": "2025-07-01T03:00:00.000Z",
         "broadcast": "R/2025-07-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0B8SVNXB9",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -2123,12 +2139,6 @@
         "broadcast": "R/2019-04-05T17:23:00.000Z/P7D"
       },
       {
-        "site": "disneyplus",
-        "id": "5m4JmjCRX6kH",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0040355",
         "begin": "2019-04-09T03:00:00.000Z",
@@ -2940,12 +2950,6 @@
         "id": "272475"
       },
       {
-        "site": "viu",
-        "id": "454265",
-        "begin": "2022-09-01T16:00:00.000Z",
-        "broadcast": "R/2022-09-01T16:00:00.000Z/P7D"
-      },
-      {
         "site": "gamer",
         "id": "103604",
         "begin": "2021-05-24T08:00:00.000Z",
@@ -3377,7 +3381,8 @@
         "site": "unext",
         "id": "SID0040165",
         "begin": "2024-03-01T03:00:00.000Z",
-        "broadcast": "R/2024-03-01T03:00:00.000Z/P7D"
+        "broadcast": "R/2024-03-01T03:00:00.000Z/P7D",
+        "comment": "OVA: SID0237170"
       },
       {
         "site": "gamer_hk",
@@ -3397,7 +3402,8 @@
         "site": "danime",
         "id": "22674",
         "begin": "2024-02-29T15:00:00.000Z",
-        "broadcast": "R/2024-02-29T15:00:00.000Z/P7D"
+        "broadcast": "R/2024-02-29T15:00:00.000Z/P7D",
+        "comment": "OVA: 28335"
       },
       {
         "site": "muse_tw",
@@ -3411,6 +3417,12 @@
         "id": "G63K98PZ6",
         "begin": "2019-05-28T10:35:00.000Z",
         "broadcast": "R/2019-05-28T10:35:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "1x8GPWt9gtZ5",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -3935,6 +3947,10 @@
   {
     "title": "爆丸バトルプラネット",
     "titleTranslate": {
+      "zh-Hans": [
+        "爆丸5 星域争霸",
+        "爆丸之星域争霸"
+      ],
       "en": [
         "BAKUGAN Battle Planet"
       ]
@@ -3966,6 +3982,12 @@
         "id": "22700",
         "begin": "2019-04-02T03:00:00.000Z",
         "broadcast": "R/2019-04-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "27727146",
+        "begin": "2025-09-28T03:00:00.000Z",
+        "broadcast": "R/2025-09-28T03:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4521,7 +4543,7 @@
       "Duel Masters 2019",
       "デュエル・マスターズ! !",
       "デュエル・マスターズ!!",
-      "デュエル・マスターズ！！",
+      "���ュエル・マスターズ！！",
       "决斗大师！！"
     ]
   },
@@ -5564,12 +5586,6 @@
         "id": "2018"
       },
       {
-        "site": "unext",
-        "id": "SID0056973",
-        "begin": "2025-04-18T15:00:00.000Z",
-        "broadcast": "R/2025-04-18T15:00:00.000Z/P7D"
-      },
-      {
         "site": "prime",
         "id": "B092L12WGH",
         "begin": "",
@@ -6127,6 +6143,18 @@
         "id": "G63K98PZ6",
         "begin": "2019-05-28T10:35:00.000Z",
         "broadcast": "R/2019-05-28T10:35:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "1x8GPWt9gtZ5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0DTB3WVGJ",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {

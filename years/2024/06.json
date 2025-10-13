@@ -233,6 +233,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "大室家 亲爱的朋友们"
+      ],
+      "zh-Hant": [
+        "大室家-親愛的朋友"
       ]
     },
     "type": "movie",
@@ -262,6 +265,12 @@
         "id": "ohmuroke-df",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "147269",
+        "begin": "2025-09-19T04:00:00.000Z",
+        "broadcast": "R/2025-09-19T04:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -493,6 +502,103 @@
       "Bocchi the Rock! Re:Re:",
       "劇場総集編ぼっち・ざ・ろっく！ Re:",
       "劇場総集編ぼっち・ざ・ろっく！ Re:Re:"
+    ]
+  },
+  {
+    "title": "銀魂オンシアター2D 一国傾城篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银魂ON THEATER 2D 一国倾城篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://anime-gintama.com/on_theater_2d/ikkokukeisei/",
+    "begin": "2024-06-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-06-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "480096"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gintama-ontheater2d-1",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28340",
+        "begin": "2025-09-30T15:00:00.000Z",
+        "broadcast": "R/2025-09-30T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2024,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1495/150101.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1495/150101t.jpg",
+    "synonyms": [
+      "Gintama on Theater 2D: Courtesan of a Nation Arc",
+      "Gintama on Theater 2D: Ikkoku Keisei Hen",
+      "銀魂オンシアター2D 一国傾城篇"
+    ]
+  },
+  {
+    "title": "それいけ！アンパンマン ばいきんまんとえほんのルルン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "面包超人 细菌人与绘本的森林妖精"
+      ],
+      "zh-Hant": [
+        "麵包超人電影版：細菌人與繪本的露露"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://anpan-movie.com/2024/",
+    "begin": "2024-06-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-06-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "480882"
+      },
+      {
+        "site": "gamer",
+        "id": "137221",
+        "begin": "2025-10-03T04:00:00.000Z",
+        "broadcast": "R/2025-10-03T04:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2024,
+      "month": "06"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1146/143727.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1146/143727t.jpg",
+    "synonyms": [
+      "ANPANMAN: Baikinman and Lulun in the Picture Book",
+      "Anpanman Movie 35",
+      "Anpanman: Baikinman and Lulun in the Picture Book",
+      "Eiga Sore Ike! Anpanman: Baikinman to Ehon no Lulun",
+      "Sore Ike! Anpanman: Baikinman to Ehon no Lulun",
+      "Soreike! Anpanman: Baikinman to Ehon no Lulun",
+      "えいがそれいけ! アンパンマン ばいきんまんとえほんのルルン",
+      "それいけ！アンパンマン ばいきんまんとえほんのルルン",
+      "それいけ！アンパンマン　ばいきんまんとえほんのルルン"
     ]
   }
 ]

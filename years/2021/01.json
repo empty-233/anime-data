@@ -783,6 +783,12 @@
         "id": "24414",
         "begin": "2025-01-31T15:00:00.000Z",
         "broadcast": "R/2025-01-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTyT-WuunU--JBkZC-6o5vV",
+        "begin": "2025-09-08T12:00:06.000Z",
+        "broadcast": "R/2025-09-08T12:00:06.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1086,7 +1092,7 @@
       "Сильнейший герой, обученный в тайном подземелье",
       "ดันเจี้ยนที่มีแต่ข้าเท่านั้นที่เข้าได้ ～แอบฝึกปรืนจนบรรลุสู่สุดแกร่ง～",
       "俺だけ入れる隠しダンジョン",
-      "俺だけ入れ���隠しダンジョン 〜こっそり鍛えて世界最強〜",
+      "俺だけ入れる隠しダンジョン 〜こっそり鍛えて世界最強〜",
       "俺だけ入れる隠しダンジョン ～こっそり鍛えて世界最強～",
       "只有我能进入的隐藏迷宫",
       "나만 들어가는 숨겨진 던전"
@@ -1772,7 +1778,7 @@
       },
       {
         "site": "prime",
-        "id": "B0FKZZ5LPN",
+        "id": "B0FNLQF61S",
         "begin": "",
         "broadcast": ""
       }
@@ -4780,12 +4786,6 @@
         "id": "317693"
       },
       {
-        "site": "bilibili",
-        "id": "28232335",
-        "begin": "2021-04-29T16:00:01.000Z",
-        "broadcast": "R/2021-04-29T16:00:01.000Z/P7D"
-      },
-      {
         "site": "netflix",
         "id": "81043571",
         "begin": "2021-02-24T16:00:00.000Z",
@@ -5021,6 +5021,12 @@
         "id": "25168",
         "begin": "2021-12-03T01:00:00.000Z",
         "broadcast": "R/2021-12-03T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FQ363R95",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -5266,6 +5272,56 @@
     "thumbnail": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A24157-3635649679.1616042556.jpg",
     "synonyms": [
       "爆丸ジオガンライジング"
+    ]
+  },
+  {
+    "title": "銀魂 THE SEMI-FINAL",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银魂 THE SEMI-FINAL",
+        "銀魂 THE SEMI FINAL"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-01-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-01-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "309002"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gintama-semifinal",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28344",
+        "begin": "2025-09-30T15:00:00.000Z",
+        "broadcast": "R/2025-09-30T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2021,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 2,
+    "picture": "https://cdn.myanimelist.net/images/anime/1694/110521.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1694/110521t.jpg",
+    "synonyms": [
+      "#銀魂ザファイナル",
+      "Gintama Net Anime Special",
+      "Gintama The Semi-Final",
+      "Gintama: THE SEMI-FINAL",
+      "銀魂 THE SEMI-FINAL"
     ]
   }
 ]
