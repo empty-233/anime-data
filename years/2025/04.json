@@ -2397,7 +2397,7 @@
       "Umamusume: Cinderella Gray Part 2",
       "ウマ娘 シンデレラグレイ",
       "ウマ娘 シンデレラグレイ (2025)",
-      "ウマ娘 シンデレラグレイ 2クール",
+      "ウマ娘 シンデレラグレ�� 2クール",
       "ウマ娘 シンデレラグレイ 第2クール",
       "ウマ娘 シンデレラグレイ （2025）"
     ]
@@ -3897,9 +3897,10 @@
       },
       {
         "site": "unext",
-        "id": "SID0179212",
+        "id": "SID0237516",
         "begin": "2025-04-09T15:00:00.000Z",
-        "broadcast": "R/2025-04-09T15:00:00.000Z/P7D"
+        "broadcast": "R/2025-04-09T15:00:00.000Z/P7D",
+        "comment": "かくしてない版, かくしてる版: SID0179212"
       },
       {
         "site": "danime",
@@ -6337,6 +6338,47 @@
       "Tsuredure Popipa",
       "Tsurezure Popipa",
       "つれづれポピパ"
+    ]
+  },
+  {
+    "title": "すみっコぐらし ここがおちつくんです",
+    "titleTranslate": {
+      "zh-Hans": [
+        "角落小伙伴 这里让人好安心"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://sumikkogurashi-movie.com/tvanime/",
+    "begin": "2025-04-03T16:00:00.000Z",
+    "broadcast": "R/2025-04-03T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "548858"
+      },
+      {
+        "site": "unext",
+        "id": "SID0234949",
+        "begin": "2025-10-10T15:00:00.000Z",
+        "broadcast": "R/2025-10-10T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2025,
+      "month": "04"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/1177/149954.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1177/149954t.jpg",
+    "synonyms": [
+      "Sumikko Gurashi Koko ga Ochitsukun desu",
+      "Sumikko Gurashi: Koko ga Ochitsukun Desu",
+      "すみっコぐらし ここがおちつくんです"
     ]
   }
 ]

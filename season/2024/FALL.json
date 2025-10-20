@@ -1059,6 +1059,12 @@
         "id": "28341",
         "begin": "2025-09-30T15:00:00.000Z",
         "broadcast": "R/2025-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0238693",
+        "begin": "2025-10-07T15:00:00.000Z",
+        "broadcast": "R/2025-10-07T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -6690,6 +6696,12 @@
         "id": "27305",
         "begin": "2024-10-19T03:00:00.000Z",
         "broadcast": "R/2024-10-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "54-97",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -6805,6 +6817,55 @@
       "The Birth of Kitaro: The Mystery of Ge Ge Ge",
       "The Birth of Kitaro: The Mystery of GeGeGe",
       "鬼太郎誕生 ゲゲゲの謎 真生版"
+    ]
+  },
+  {
+    "title": "魔法少女リリカルなのは 20周年記念セレクション",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://king-cr.jp/nanoha/20th/",
+    "begin": "2024-10-04T16:30:00.000Z",
+    "broadcast": "R/2024-10-04T16:30:00.000Z/P7D",
+    "end": "2024-12-13T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "danime",
+        "id": "27368",
+        "begin": "2024-10-05T17:00:00.000Z",
+        "broadcast": "R/2024-10-05T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DHWLLKKR",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "nanoha_20th",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0157779",
+        "begin": "2024-10-05T17:00:00.000Z",
+        "broadcast": "R/2024-10-05T17:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2024,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 0,
+    "picture": "https://raw.githubusercontent.com/manami-project/anime-offline-database/master/pics/no_pic.png",
+    "thumbnail": "https://raw.githubusercontent.com/manami-project/anime-offline-database/master/pics/no_pic_thumbnail.png",
+    "synonyms": [
+      "魔法少女リリカルなのは 20周年記念セレクション"
     ]
   },
   {
