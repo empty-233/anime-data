@@ -1925,7 +1925,8 @@
         "site": "unext",
         "id": "SID0157072",
         "begin": "2024-10-10T15:00:00.000Z",
-        "broadcast": "R/2024-10-10T15:00:00.000Z/P7D"
+        "broadcast": "R/2024-10-10T15:00:00.000Z/P7D",
+        "comment": "特別編: SID0239997"
       },
       {
         "site": "bangumi_moe",
@@ -1943,7 +1944,8 @@
         "site": "danime",
         "id": "27334",
         "begin": "2024-10-10T15:00:00.000Z",
-        "broadcast": "R/2024-10-10T15:00:00.000Z/P7D"
+        "broadcast": "R/2024-10-10T15:00:00.000Z/P7D",
+        "comment": "第十三話(特別編)　伸ばした手は: 28376"
       },
       {
         "site": "bilibili",
@@ -1993,7 +1995,11 @@
         "百姓貴族 第2期"
       ],
       "zh-Hant": [
-        "百姓貴族 2nd Season"
+        "百姓貴族 2nd Season",
+        "百姓貴族 第二季"
+      ],
+      "en": [
+        "Hyakusho Kizoku-the farmer's days 2nd Season"
       ]
     },
     "type": "tv",
@@ -2043,6 +2049,12 @@
         "id": "28327",
         "begin": "2025-10-03T13:00:00.000Z",
         "broadcast": "R/2025-10-03T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "hyakushokizokuthefarmersdays2ndseason_144419",
+        "begin": "2025-10-24T02:00:00.000Z",
+        "broadcast": "R/2025-10-24T02:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3027,12 +3039,6 @@
       {
         "site": "bangumi_moe",
         "id": "66fb602189c3a6ce864cbcfd"
-      },
-      {
-        "site": "abema",
-        "id": "26-230",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mikan",
@@ -4765,12 +4771,6 @@
         "broadcast": ""
       },
       {
-        "site": "netflix",
-        "id": "81943491",
-        "begin": "2024-10-14T00:00:00.000Z",
-        "broadcast": "R/2024-10-14T00:00:00.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "5-69",
         "begin": "",
@@ -4785,6 +4785,12 @@
       {
         "site": "prime",
         "id": "B0DJL4VYM2",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81943491",
         "begin": "",
         "broadcast": ""
       }
@@ -5249,12 +5255,6 @@
       {
         "site": "mikan",
         "id": "3475"
-      },
-      {
-        "site": "abema",
-        "id": "19-172",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "crunchyroll",
@@ -6011,7 +6011,7 @@
       "Thunderbolt Fantasy Sword Seekers4",
       "Thunderbolt Fantasy 東離劍遊紀 4",
       "Thunderbolt Fantasy 東離劍遊紀4",
-      "Thunderbolt Fantasy 東離劍遊紀[とうりけん��うき] 4",
+      "Thunderbolt Fantasy 東離劍遊紀[とうりけんゆうき] 4",
       "Thunderbolt Fantasy: Sword Seekers 4",
       "Thunderbolt Fantasy: Touri-ken Yuuki 4",
       "Thunderbolt Fantasy: Touriken Yuuki 4"
@@ -6528,12 +6528,6 @@
         "id": "SID0158790",
         "begin": "2024-10-24T03:00:00.000Z",
         "broadcast": "R/2024-10-24T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "5-70",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mikan",
@@ -7373,12 +7367,6 @@
         "broadcast": "R/2023-10-13T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "19-175",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0093789",
         "begin": "2023-10-13T03:00:00.000Z",
@@ -7603,12 +7591,6 @@
         "broadcast": "R/2023-10-10T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "19-172",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0091751",
         "begin": "2023-10-10T03:00:00.000Z",
@@ -7827,6 +7809,9 @@
       ],
       "zh-Hant": [
         "百姓貴族"
+      ],
+      "en": [
+        "Hyakusho Kizoku-the farmer's days"
       ]
     },
     "type": "tv",
@@ -7884,6 +7869,12 @@
         "id": "B0DN8FCF2Q",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mytv",
+        "id": "hyakushokizokuthefarmersdays_144418",
+        "begin": "2025-10-24T02:00:00.000Z",
+        "broadcast": "R/2025-10-24T02:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {

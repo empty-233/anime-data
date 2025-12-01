@@ -2389,6 +2389,12 @@
         "id": "G24H1NJJD",
         "begin": "2022-07-10T12:30:00.000Z",
         "broadcast": "R/2022-07-10T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-210",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -3776,14 +3782,24 @@
       "Musasino!",
       "Urawa no Usagi-chan 2nd Season",
       "Мусасино!",
-      "むさしの!",
+      "���さしの!",
       "むさしの！",
       "武藏野!"
     ]
   },
   {
     "title": "5億年ボタン～菅原そうたのショートショート～",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "5亿年按钮～菅原壮太的超短篇～"
+      ],
+      "zh-Hant": [
+        "5億年按鈕"
+      ],
+      "en": [
+        "500 Million Year Button"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://500000000button.com/",
@@ -3825,6 +3841,12 @@
         "id": "B0BX3Y3H79",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mytv",
+        "id": "500millionyearbutton_144414",
+        "begin": "2025-10-24T02:00:00.000Z",
+        "broadcast": "R/2025-10-24T02:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -4162,12 +4184,6 @@
         "id": "arsnotoria-anime",
         "begin": "2022-07-10T15:00:00.000Z",
         "broadcast": "R/2022-07-10T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0069698",
-        "begin": "2022-07-06T15:00:00.000Z",
-        "broadcast": "R/2022-07-06T15:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",

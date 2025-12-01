@@ -896,6 +896,12 @@
       {
         "site": "mikan",
         "id": "3749"
+      },
+      {
+        "site": "danime",
+        "id": "28346",
+        "begin": "2025-10-17T15:00:00.000Z",
+        "broadcast": "R/2025-10-17T15:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -1076,8 +1082,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfpWlbnKd2cYv5lDh6ZozuZf",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-10-07T15:30:06.000Z",
+        "broadcast": "R/2025-10-07T15:30:06.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1151,7 +1157,7 @@
       "Tondemo Skill de Isekai Hourou Meshi Dai 2 Ki",
       "Tondemo Skill de Isekai Hōrō Meshi Dai 2 Ki",
       "Tonsuki",
-      "とんでもスキルで異世界放浪メシ 2",
+      "とんでもスキルで���世界放浪メシ 2",
       "とんでもスキルで異世界放浪メシ 第2期",
       "とんでもスキルで異世界放浪メシ2"
     ]
@@ -1357,7 +1363,7 @@
       },
       {
         "site": "prime",
-        "id": "B0FNHNW1Z1",
+        "id": "B0FNJJ8XDQ",
         "begin": "",
         "broadcast": ""
       },
@@ -1836,8 +1842,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfryMCRJTKmgCKc6B3Ophv66",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-10-06T16:30:06.000Z",
+        "broadcast": "R/2025-10-06T16:30:06.000Z/P7D"
       },
       {
         "site": "viu",
@@ -2247,6 +2253,12 @@
       {
         "site": "mikan",
         "id": "3768"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00364945",
+        "begin": "2025-10-04T00:00:00.000Z",
+        "broadcast": "R/2025-10-04T00:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2289,10 +2301,10 @@
         "id": "570330"
       },
       {
-        "site": "youtube",
-        "id": "PL8anBnIT2pG628xgaeHj3OMVF7BUaUVVB",
-        "begin": "2025-10-21T14:00:00.000Z",
-        "broadcast": "R/2025-10-21T14:00:00.000Z/P7D"
+        "site": "danime",
+        "id": "28297",
+        "begin": "2025-10-21T18:00:00.000Z",
+        "broadcast": "R/2025-10-21T18:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -2303,6 +2315,12 @@
         "id": "monster-strike_deadverse",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0234955",
+        "begin": "2025-10-21T18:00:00.000Z",
+        "broadcast": "R/2025-10-21T18:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -2410,6 +2428,12 @@
       {
         "site": "bangumi_moe",
         "id": "68e3e207aaf82561f9a74e30"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shabake",
+        "begin": "",
+        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -2611,6 +2635,12 @@
       {
         "site": "mikan",
         "id": "3774"
+      },
+      {
+        "site": "bilibili",
+        "id": "27676284",
+        "begin": "2025-10-29T12:30:00.000Z",
+        "broadcast": "R/2025-10-29T12:30:00.000Z/P7D"
       }
     ],
     "animeSeason": {
@@ -3742,6 +3772,68 @@
     ]
   },
   {
+    "title": "ディズニー ツイステッドワンダーランド ザ アニメーション エピソード オブ ハーツラビュル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "迪士尼 扭曲仙境"
+      ],
+      "zh-Hant": [
+        "迪士尼扭曲仙境：動畫版"
+      ],
+      "en": [
+        "Disney Twisted-Wonderland: The Animation"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://disneyplus.disney.co.jp/program/twisted-wonderland-the-animation",
+    "begin": "2025-10-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "352777"
+      },
+      {
+        "site": "disneyplus",
+        "id": "1m1SabYIfXvf",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "27709259",
+        "begin": "2025-10-29T07:00:00.000Z",
+        "broadcast": "R/2025-10-29T07:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2025,
+      "month": "10"
+    },
+    "status": "UPCOMING",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1420/148466.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1420/148466t.jpg",
+    "synonyms": [
+      "Disney Twisted-Wonderland",
+      "Disney Twisted-Wonderland The Animation",
+      "Disney Twisted-Wonderland The Animation Season 1: Episode of Heartslabyul",
+      "Disney: Twisted-Wonderland",
+      "Disney: Twisted-Wonderland the Animation - Episode of Heartslabyul",
+      "Twisted Wonderland",
+      "Twisted Wonderland the Animation",
+      "ディズニー ツイステッドワンダーラン エピソード オブ ハーツラビュル",
+      "ディズニー ツイステッドワンダーランド",
+      "ディズニー ツイステッドワンダーランド ザ アニメーション",
+      "ディズニー ツイステッドワンダーランド ザ アニメーション エピソード オブ ハーツラビュル",
+      "ディズニー ツイステッドワンダーランド ザ アニメーション シーズン1「エピソード オブ ハーツラビュル」"
+    ]
+  },
+  {
     "title": "矢野くんの普通の日々",
     "titleTranslate": {
       "zh-Hans": [
@@ -4208,6 +4300,12 @@
         "id": "7NDQcudIe9lb",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "280696740",
+        "begin": "2025-11-01T04:00:00.000Z",
+        "broadcast": "R/2025-11-01T04:00:00.000Z/P7D"
       }
     ],
     "animeSeason": {

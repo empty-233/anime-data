@@ -163,12 +163,6 @@
         "id": "SID0014133",
         "begin": "2025-01-16T15:00:00.000Z",
         "broadcast": "R/2025-01-16T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "netflix",
-        "id": "70080749",
-        "begin": "",
-        "broadcast": ""
       }
     ],
     "animeSeason": {
@@ -318,6 +312,70 @@
       "The Golden Bird",
       "Το χρυσό πουλί",
       "グリム童話 金の鳥"
+    ]
+  },
+  {
+    "title": "ダーティペア",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河女警花 剧场版",
+        "不良搭档 剧场版",
+        "Dirty Pair 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=103",
+    "begin": "1987-03-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1987-03-13T17:27:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "66376"
+      },
+      {
+        "site": "unext",
+        "id": "SID0239696",
+        "begin": "2025-10-20T15:00:00.000Z",
+        "broadcast": "R/2025-10-20T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28356",
+        "begin": "2025-10-09T15:00:00.000Z",
+        "broadcast": "R/2025-10-09T15:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 1987,
+      "month": "03"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/1855/92685.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1855/92685t.jpg",
+    "synonyms": [
+      "Dirty Pair (Movie)",
+      "Dirty Pair - Projet Eden",
+      "Dirty Pair : Projet Eden",
+      "Dirty Pair Gekijōban",
+      "Dirty Pair Project E.D.E.N.",
+      "Dirty Pair Project EDEN",
+      "Dirty Pair: Der Film Projekt Eden",
+      "Dirty Pair: Les Film Projet Eden",
+      "Dirty Pair: Project EDEN",
+      "Dirty Pair: Project Eden",
+      "Dirty Pair: Projekt E.D.E.N",
+      "Dirty Pair: Projekt E.D.E.N.",
+      "Original Dirty Pair: Project Eden",
+      "Project E.D.E.N.",
+      "ダーティペア",
+      "ダーティペア the Movie",
+      "ダーティペア（劇場版）",
+      "劇場版 ダーティペア"
     ]
   }
 ]
