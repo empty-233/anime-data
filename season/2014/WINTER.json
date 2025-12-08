@@ -995,7 +995,6 @@
       "Mouretsu Pirates Movie",
       "Mouretsu Pirates Movie: Abyss of Hyperspace - Akuu no Shin'en",
       "Mouretsu Pirates: ABYSS OF HYPERSPACE - Akuu no Shinen",
-      "Mouretsu Pirates: Abyss of Hyperspace - Akuu no Shin'en",
       "Mouretsu Pirates: Abyss of Hyperspace - Akuu no Shin’en",
       "Mouretsu Pirates: Akuu no Shinen",
       "Mouretsu Uchuu Kaizoku: Abyss of Hyperspace",
@@ -1095,6 +1094,7 @@
       "さいきんいもうとのようすがちょっとおかしいんだが",
       "妹ちょ。",
       "妹のようすがちょっとおかしいんだが.",
+      "妹妹的样子有点怪?",
       "最近",
       "最近, 妹のようすがちょっとおかしいんだが.",
       "最近, 妹妹的样子有点怪?",
@@ -1245,6 +1245,7 @@
       "ספייס דנדי",
       "すぺーすだんでぃ",
       "スペース☆ダンディ",
+      "太空丹迪",
       "宇宙浪子",
       "스페이스 댄디"
     ]
@@ -1794,7 +1795,9 @@
       "Tonari no Seki-kun: The Master of Killing Time",
       "となりのせきくん",
       "となりの関くん",
-      "邻座同学是怪咖"
+      "上课小动作",
+      "邻座同学是怪咖",
+      "邻座的关君"
     ]
   },
   {
@@ -2259,6 +2262,7 @@
       "chuu2ren",
       "chuuni s2",
       "chuuni2",
+      "Чудачества любви не помеха!",
       "ちゅうにびょうでもこいがしたいれん",
       "中二病でも恋がしたい 戀",
       "中二病でも恋がしたい! 2",
@@ -2967,6 +2971,106 @@
     ]
   },
   {
+    "title": "ウィザード・バリスターズ～弁魔士セシル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "弁魔士塞西尔",
+        "弁魔士赛希尔",
+        "弁魔士圣知",
+        "WIZARD BARRISTERS〜辩魔士圣知",
+        "WIZARD BARRISTERS〜弁魔士塞西尔",
+        "魔法辩护士圣知",
+        "Wizard Barristers〜弁魔士赛希尔"
+      ],
+      "zh-Hant": [
+        "WIZARD BARRISTERS～弁魔士賽希爾"
+      ],
+      "en": [
+        "WIZARD BARRISTERS"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://wizardbarristers.com/",
+    "begin": "2014-01-12T15:30:00.000Z",
+    "end": "2014-03-30T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "80787"
+      },
+      {
+        "site": "nicovideo",
+        "id": "wizardbarristers",
+        "begin": "2014-01-24T15:00:00.000Z",
+        "broadcast": "R/2014-01-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "75452",
+        "begin": "2014-01-11T16:00:01.000Z",
+        "broadcast": "R/2018-03-05T07:01:00.000Z/P7D"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhwdyy5",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200is6gn9x",
+        "begin": ""
+      },
+      {
+        "site": "dmhy",
+        "id": "Wizard+Barristers"
+      },
+      {
+        "site": "mikan",
+        "id": "258"
+      },
+      {
+        "site": "danime",
+        "id": "11126",
+        "begin": "2014-12-15T07:00:00.000Z",
+        "broadcast": "R/2014-12-15T07:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "63560",
+        "begin": "2025-10-01T04:00:00.000Z",
+        "broadcast": "R/2025-10-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "63560",
+        "begin": "2025-10-01T04:00:00.000Z",
+        "broadcast": "R/2025-10-01T04:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2014,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 12,
+    "picture": "https://cdn.myanimelist.net/images/anime/9/58145.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/9/58145t.jpg",
+    "synonyms": [
+      "Hechiceros: Barra de abogados",
+      "WIZARD BARRISTERS~弁魔士赛希尔",
+      "Wizard Barristers",
+      "Маги в законе",
+      "うぃざーどばりすたーずべんましせしる",
+      "ウィザード・バリスターズ 弁魔士セシル",
+      "ウィザード・バリスターズ~弁魔士セシル",
+      "ウィザード・バリスターズ～弁魔士セシル",
+      "위저드 배리스터즈 변마사 세실",
+      "위저드 배리스터즈: 변마사 세실"
+    ]
+  },
+  {
     "title": "てさぐれ！部活もの あんこーる",
     "titleTranslate": {
       "zh-Hans": [
@@ -3610,6 +3714,92 @@
     ]
   },
   {
+    "title": "THE IDOLM@STER MOVIE 輝きの向こう側へ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像大师 剧场版 向着光辉的彼岸！"
+      ],
+      "zh-Hant": [
+        "偶像大師 劇場版 前往光輝的另一端！",
+        "偶像大師 劇場版：前往光輝的另一端！經典10週年"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.idolmaster-anime.jp/",
+    "begin": "2014-01-25T16:00:00.000Z",
+    "end": "2014-01-25T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "64172"
+      },
+      {
+        "site": "bilibili",
+        "id": "2685",
+        "begin": "2014-01-24T16:00:00.000Z",
+        "broadcast": "R/2014-10-04T22:55:11.000Z/P7D"
+      },
+      {
+        "site": "youku",
+        "id": "d8cb56a24aab11e3b8b7",
+        "begin": "2016-03-13T15:07:24.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0021419",
+        "begin": "2016-01-14T03:00:00.000Z",
+        "broadcast": "R/2016-01-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24297",
+        "begin": "2020-09-25T01:00:00.000Z",
+        "broadcast": "R/2020-09-25T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "60214",
+        "begin": "2025-05-09T04:00:00.000Z",
+        "broadcast": "R/2025-05-09T04:00:00.000Z/P7D"
+      }
+    ],
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2014,
+      "month": "01"
+    },
+    "status": "FINISHED",
+    "episodes": 1,
+    "picture": "https://cdn.myanimelist.net/images/anime/2/71801.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/2/71801t.jpg",
+    "synonyms": [
+      "IdolM@ster: The Movie - To the Glittering Side!",
+      "THE IDOLM@STER MOVIE 輝きの向こう側へ!",
+      "THE IDOLM@STER MOVIE 輝きの向こう側へ！",
+      "THE IDOLM@STER MOVIE: BEYOND THE BRILLIANT FUTURE!",
+      "THE IDOLM@STER MOVIE: Beyond the Brilliant Future!",
+      "THE IDOLM@STER MOVIE: Kagayaki no Mukougawa e!",
+      "THE IDOLM@STER MOVIE: Kagayaki no Mukōgawa e!",
+      "THE IDOLM＠STER MOVIE 輝きの向こう側へ!",
+      "THE IDOLM＠STER MOVIE 輝きの向こう側へ！",
+      "THE iDOLM@STER MOVIE: Beyond the Brilliant Future!",
+      "The IDOLM@ASTER MOVIE - To the Other Side of the Light!",
+      "The IDOLM@STER MOVIE 輝きの向こう側へ!",
+      "The IDOLM@STER MOVIE: BEYOND THE BRILLIANT FUTURE!",
+      "The IDOLM@STER Movie: To the Glittering Other Side!",
+      "The Idolmaster Movie",
+      "The Idolmaster Movie: Beyond the Brilliant Future",
+      "The Idolmaster Movie: Beyond the Brilliant Future!",
+      "The Idolmaster Movie: Kagayaki no Mukougawa e!",
+      "The iDOLM@STER Movie 輝きの向こう側へ!",
+      "The iDOLM@STER Movie: Kagayaki no Mukōgawa e!",
+      "The iDOLM@STER Movie: To the Other Side of the Light!",
+      "偶像大师 剧场版 向着光辉的彼岸！",
+      "아이돌 마스터 무비: 빛의 저편으로!"
+    ]
+  },
+  {
     "title": "となりの関くん OAD",
     "titleTranslate": {
       "zh-Hans": [
@@ -3690,8 +3880,8 @@
     },
     "status": "FINISHED",
     "episodes": 2,
-    "picture": "https://cdn.myanimelist.net/images/anime/7/62537.jpg",
-    "thumbnail": "https://cdn.myanimelist.net/images/anime/7/62537t.jpg",
+    "picture": "https://cdn.myanimelist.net/images/anime/1950/152157.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1950/152157t.jpg",
     "synonyms": [
       "A Town Where You Live",
       "A Town Where You Live (2014)",
@@ -3803,6 +3993,7 @@
       "Girls! The Movie",
       "Girls! The Seven Idols",
       "Girls! 七人のアイドル",
+      "Girls! 七位偶像",
       "Wake Up",
       "Wake Up Girls Shichinin no Idol",
       "Wake Up, Girls! - Seven Idols",
@@ -4022,7 +4213,6 @@
     "picture": "https://cdn.myanimelist.net/images/anime/8/57995.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/8/57995t.jpg",
     "synonyms": [
-      "Gin no Saji",
       "Gin no Saji (2014)",
       "Gin no Saji 2",
       "Gin no Saji Dai-2-ki",
@@ -4047,6 +4237,7 @@
       "銀の匙 （2014）",
       "銀の匙2",
       "銀の匙2ndシーズン",
+      "银之匙 Silver Spoon",
       "银之匙 Silver Spoon (2014)"
     ]
   }
