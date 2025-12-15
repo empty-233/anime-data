@@ -281,7 +281,7 @@
       "Love Live! Nijigasaki High School Idol Club: NEXT SKY",
       "Love Live! Nijigasaki High School Idol Club: Next Sky",
       "Лав Лайв! Клуб айдолов академии Нидзигасаки. НОВОЕ НЕБО",
-      "ラブライブ! 虹ヶ咲学園スクールアイドル同好会",
+      "ラブライブ! 虹ヶ咲学園スクールアイドル同好���",
       "ラブライブ! 虹ヶ咲学園スクールアイドル同好会 NEXT SKY",
       "ラブライブ！ 虹ヶ咲学園スクールアイドル同好会 NEXT SKY",
       "ラブライブ！虹ヶ咲学園スクールアイドル同好会 NEXT SKY"
@@ -2540,7 +2540,9 @@
     "synonyms": [
       "GUNMACHAN Season 2",
       "Gunma Chan Season 2",
+      "Gunma-chan",
       "Gunma-chan: Season 2",
+      "ぐんまちゃん",
       "ぐんまちゃん 2",
       "ぐんまちゃん シーズン2",
       "ぐんまちゃん シーズン２",
@@ -4450,7 +4452,7 @@
       "month": "04"
     },
     "status": "ONGOING",
-    "episodes": 119,
+    "episodes": 120,
     "picture": "https://cdn.myanimelist.net/images/anime/1703/137216.jpg",
     "thumbnail": "https://cdn.myanimelist.net/images/anime/1703/137216t.jpg",
     "synonyms": [
@@ -5540,6 +5542,75 @@
     ]
   },
   {
+    "title": "ぐんまちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "群马酱"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://gunmachan-official.jp/animation/",
+    "begin": "2021-10-02T23:00:00.000Z",
+    "broadcast": "R/2021-10-02T23:00:00.000Z/P7D",
+    "end": "2021-12-25T23:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "341168"
+      },
+      {
+        "site": "unext",
+        "id": "SID0061711",
+        "begin": "2021-10-09T01:00:00.000Z",
+        "broadcast": "R/2021-10-09T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "615bb91dd7f73dd4ed5c43f7"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gunmachan",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "25092",
+        "begin": "2021-10-09T01:00:00.000Z",
+        "broadcast": "R/2021-10-09T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "168-34",
+        "begin": "",
+        "broadcast": ""
+      }
+    ],
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2023,
+      "month": "10"
+    },
+    "status": "FINISHED",
+    "episodes": 13,
+    "picture": "https://cdn.myanimelist.net/images/anime/1471/132675.jpg",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1471/132675t.jpg",
+    "synonyms": [
+      "GUNMACHAN Season 2",
+      "Gunma Chan Season 2",
+      "Gunma-chan",
+      "Gunma-chan: Season 2",
+      "ぐんまちゃん",
+      "ぐんまちゃん 2",
+      "ぐんまちゃん シーズン2",
+      "ぐんまちゃん シーズン２",
+      "群马酱 第二季"
+    ]
+  },
+  {
     "title": "トニカクカワイイ",
     "titleTranslate": {
       "zh-Hans": [
@@ -6031,7 +6102,7 @@
       "month": "04"
     },
     "status": "FINISHED",
-    "episodes": 119,
+    "episodes": 122,
     "picture": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A26737-2469440915.1677854701.jpg",
     "thumbnail": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26737-2469440915.1677854701.jpg",
     "synonyms": [
